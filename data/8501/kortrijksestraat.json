@@ -533,6 +533,18 @@
     }, 
     {
       "hnrlbls": [
+        "134B"
+      ], 
+      "housenumber": "134B", 
+      "lat": 50.836262642717, 
+      "lon": 3.240511646677, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijksestraat"
+    }, 
+    {
+      "hnrlbls": [
         "135"
       ], 
       "housenumber": "135", 
@@ -1421,6 +1433,9 @@
       "street": "Kortrijksestraat"
     }, 
     {
+      "apptnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -3407,8 +3422,8 @@
         "353"
       ], 
       "housenumber": "353", 
-      "lat": 50.834709804814, 
-      "lon": 3.251787782097, 
+      "lat": 50.834679401311, 
+      "lon": 3.25177672017, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanGebouw", 
@@ -3708,14 +3723,14 @@
     }, 
     {
       "hnrlbls": [
-        "379"
+        "379-380"
       ], 
       "housenumber": "379", 
-      "lat": 50.834219109229, 
-      "lon": 3.253064257976, 
+      "lat": 50.834323175248, 
+      "lon": 3.253229742952, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortrijksestraat"
     }, 
     {

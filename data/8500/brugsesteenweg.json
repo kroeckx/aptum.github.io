@@ -456,24 +456,19 @@
       "street": "Brugsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0011", 
+        "0021", 
+        "0022", 
+        "0023"
+      ], 
       "hnrlbls": [
         "138"
       ], 
       "housenumber": "138", 
       "lat": 50.840092976504, 
       "lon": 3.264504593813, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Brugsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "139-141"
-      ], 
-      "housenumber": "139", 
-      "lat": 50.839690967627, 
-      "lon": 3.262839141289, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -501,18 +496,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brugsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "139-141"
-      ], 
-      "housenumber": "141", 
-      "lat": 50.839690967627, 
-      "lon": 3.262839141289, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -1836,6 +1819,10 @@
       "street": "Brugsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011"
+      ], 
       "hnrlbls": [
         "253"
       ], 
@@ -1849,9 +1836,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "10", 
-        "101"
+        "0001", 
+        "0011", 
+        "0021"
       ], 
       "hnrlbls": [
         "255"
@@ -1865,21 +1852,6 @@
       "street": "Brugsesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "255B"
-      ], 
-      "housenumber": "255B", 
-      "lat": 50.844108263812, 
-      "lon": 3.266286449662, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brugsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "20"
-      ], 
       "hnrlbls": [
         "257"
       ], 

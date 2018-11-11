@@ -109,23 +109,14 @@
       "street": "Kloosterstraat"
     }, 
     {
-      "hnrlbls": [
-        "19"
+      "apptnrs": [
+        "0022"
       ], 
-      "housenumber": "19", 
-      "lat": 50.806714523952, 
-      "lon": 3.235028795046, 
-      "municipality": "Kortrijk", 
-      "pcode": "8510", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kloosterstraat"
-    }, 
-    {
       "busnrs": [
-        "12", 
-        "13", 
-        "14", 
-        "21"
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021"
       ], 
       "hnrlbls": [
         "2"

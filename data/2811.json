@@ -169,7 +169,7 @@
       "b": 51.030640282378, 
       "l": 4.409803681176, 
       "name": "Dorpstraat", 
-      "numOfAddr": 85, 
+      "numOfAddr": 82, 
       "r": 4.41773983283, 
       "sanName": "dorpstraat", 
       "t": 51.032575665577
@@ -326,9 +326,6 @@
       "l": 4.427879311226, 
       "name": "Hombekerkouter", 
       "numOfAddr": 113, 
-      "otherPCs": [
-        "2800"
-      ], 
       "r": 4.444447381372, 
       "sanName": "hombekerkouter", 
       "t": 51.02255448418
@@ -373,7 +370,10 @@
       "b": 51.029127985081, 
       "l": 4.38173909453, 
       "name": "Juniorslaan", 
-      "numOfAddr": 117, 
+      "numOfAddr": 118, 
+      "otherPCs": [
+        "2800"
+      ], 
       "r": 4.409172217962, 
       "sanName": "juniorslaan", 
       "t": 51.033753249967
@@ -382,7 +382,7 @@
       "b": 51.012057400826, 
       "l": 4.371556596478, 
       "name": "Kapellebaan", 
-      "numOfAddr": 46, 
+      "numOfAddr": 47, 
       "r": 4.40008092828, 
       "sanName": "kapellebaan", 
       "t": 51.016120054358

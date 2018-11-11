@@ -41,6 +41,12 @@
       "street": "Sint-Lambertusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -366,10 +372,6 @@
       "street": "Sint-Lambertusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -679,6 +681,11 @@
       "street": "Sint-Lambertusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -1303,10 +1310,10 @@
       "street": "Sint-Lambertusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "80"
@@ -1545,9 +1552,6 @@
       "street": "Sint-Lambertusstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "97"
       ], 

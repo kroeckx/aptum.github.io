@@ -518,14 +518,26 @@
     }, 
     {
       "hnrlbls": [
-        "43"
+        "43A"
       ], 
-      "housenumber": "43", 
-      "lat": 50.737729168479, 
-      "lon": 3.92753157661, 
+      "housenumber": "43A", 
+      "lat": 50.737811229455, 
+      "lon": 3.927550926188, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Beverstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "43B"
+      ], 
+      "housenumber": "43B", 
+      "lat": 50.737763397264, 
+      "lon": 3.927549390033, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Beverstraat"
     }, 
     {
@@ -538,6 +550,30 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Beverstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45A"
+      ], 
+      "housenumber": "45A", 
+      "lat": 50.737702985486, 
+      "lon": 3.927549529832, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Beverstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45B"
+      ], 
+      "housenumber": "45B", 
+      "lat": 50.737633758023, 
+      "lon": 3.927548193712, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Beverstraat"
     }, 
     {

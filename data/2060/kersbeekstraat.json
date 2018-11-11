@@ -13,6 +13,10 @@
       "street": "Kersbeekstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -166,8 +170,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.221215700063, 
-      "lon": 4.438741079275, 
+      "lat": 51.221161013983, 
+      "lon": 4.438802400719, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

@@ -124,11 +124,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.365697914079, 
-      "lon": 4.465835143652, 
+      "lat": 51.365732449984, 
+      "lon": 4.465807792732, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heidestatiestraat"
     }, 
     {
@@ -154,8 +154,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.365713757758, 
-      "lon": 4.465695618341, 
+      "lat": 51.365713578356, 
+      "lon": 4.465695187227, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
@@ -531,6 +531,9 @@
       "street": "Heidestatiestraat"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -615,14 +618,14 @@
     }, 
     {
       "hnrlbls": [
-        "41"
+        "41-49"
       ], 
       "housenumber": "41", 
-      "lat": 51.365126179983, 
-      "lon": 4.464317049602, 
+      "lat": 51.36528953816, 
+      "lon": 4.464034970899, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heidestatiestraat"
     }, 
     {
@@ -669,14 +672,14 @@
     }, 
     {
       "hnrlbls": [
-        "45"
+        "41-49"
       ], 
       "housenumber": "45", 
-      "lat": 51.365125875988, 
-      "lon": 4.464137721263, 
+      "lat": 51.36528953816, 
+      "lon": 4.464034970899, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heidestatiestraat"
     }, 
     {
@@ -693,14 +696,14 @@
     }, 
     {
       "hnrlbls": [
-        "47"
+        "41-49"
       ], 
       "housenumber": "47", 
-      "lat": 51.365125481959, 
-      "lon": 4.463958249164, 
+      "lat": 51.36528953816, 
+      "lon": 4.464034970899, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heidestatiestraat"
     }, 
     {
@@ -717,14 +720,14 @@
     }, 
     {
       "hnrlbls": [
-        "49"
+        "41-49"
       ], 
       "housenumber": "49", 
-      "lat": 51.365096530011, 
-      "lon": 4.463860700689, 
+      "lat": 51.36528953816, 
+      "lon": 4.464034970899, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heidestatiestraat"
     }, 
     {

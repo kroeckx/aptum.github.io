@@ -50,6 +50,18 @@
     }, 
     {
       "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
+      "lat": 51.227204473741, 
+      "lon": 4.428535676053, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tulpstraat"
+    }, 
+    {
+      "hnrlbls": [
         "106"
       ], 
       "housenumber": "106", 
@@ -500,6 +512,12 @@
       "street": "Tulpstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -1210,9 +1228,6 @@
       "street": "Tulpstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "78"
       ], 

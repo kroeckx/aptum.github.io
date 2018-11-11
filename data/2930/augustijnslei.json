@@ -1087,6 +1087,16 @@
       "street": "Augustijnslei"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "1001", 
+        "1002", 
+        "2001", 
+        "2002", 
+        "3001", 
+        "3002", 
+        "4001"
+      ], 
       "hnrlbls": [
         "185"
       ], 
@@ -2413,11 +2423,11 @@
         "52C"
       ], 
       "housenumber": "52C", 
-      "lat": 51.292848123921, 
-      "lon": 4.49102872879, 
+      "lat": 51.292814075297, 
+      "lon": 4.491099455774, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Augustijnslei"
     }, 
     {

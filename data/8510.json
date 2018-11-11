@@ -208,7 +208,7 @@
       "b": 50.777175433374, 
       "l": 3.280445413647, 
       "name": "Bellegemsestraat", 
-      "numOfAddr": 198, 
+      "numOfAddr": 199, 
       "r": 3.301673934585, 
       "sanName": "bellegemsestraat", 
       "t": 50.780107481352
@@ -337,7 +337,7 @@
       "b": 50.807459851857, 
       "l": 3.251426436599, 
       "name": "Bruyningstraat", 
-      "numOfAddr": 27, 
+      "numOfAddr": 28, 
       "otherPCs": [
         "8500"
       ], 
@@ -400,7 +400,7 @@
       "b": 50.79892599625, 
       "l": 3.229677192832, 
       "name": "Cornelusweg", 
-      "numOfAddr": 11, 
+      "numOfAddr": 13, 
       "r": 3.234823530983, 
       "sanName": "cornelusweg", 
       "t": 50.800368545696
@@ -484,7 +484,7 @@
       "b": 50.73681080653, 
       "l": 3.291265651151, 
       "name": "Doornikserijksweg", 
-      "numOfAddr": 235, 
+      "numOfAddr": 236, 
       "otherPCs": [
         "8500"
       ], 
@@ -544,8 +544,8 @@
       "b": 50.775848245578, 
       "l": 3.285138011917, 
       "name": "Dries", 
-      "numOfAddr": 15, 
-      "r": 3.286620289069, 
+      "numOfAddr": 16, 
+      "r": 3.286827947242, 
       "sanName": "dries", 
       "t": 50.776987950106
     }, 
@@ -559,14 +559,14 @@
       "t": 50.811582688704
     }, 
     {
-      "b": 50.811798194738, 
+      "b": 50.811609792391, 
       "l": 3.242641840856, 
       "name": "Dumolinlaan", 
-      "numOfAddr": 2, 
+      "numOfAddr": 3, 
       "otherPCs": [
         "8500"
       ], 
-      "r": 3.242883423386, 
+      "r": 3.243741987068, 
       "sanName": "dumolinlaan", 
       "t": 50.812068525261
     }, 
@@ -658,13 +658,13 @@
       "t": 50.758570575291
     }, 
     {
-      "b": 50.770065857645, 
-      "l": 3.26068609918, 
+      "b": 50.769829726723, 
+      "l": 3.259407995901, 
       "name": "Fressendestraat", 
-      "numOfAddr": 7, 
+      "numOfAddr": 15, 
       "r": 3.261840349494, 
       "sanName": "fressendestraat", 
-      "t": 50.770486744661
+      "t": 50.770721051734
     }, 
     {
       "b": 50.77269570362, 
@@ -1063,7 +1063,7 @@
       "b": 50.79867676034, 
       "l": 3.237799389131, 
       "name": "Kardinaalstraat", 
-      "numOfAddr": 20, 
+      "numOfAddr": 19, 
       "r": 3.241480398702, 
       "sanName": "kardinaalstraat", 
       "t": 50.802187636117
@@ -1174,7 +1174,7 @@
       "numOfAddr": 6, 
       "r": 3.260294571881, 
       "sanName": "klijtbergstraat", 
-      "t": 50.778628983069
+      "t": 50.778954560718
     }, 
     {
       "b": 50.77827192468, 
@@ -1207,7 +1207,7 @@
       "b": 50.805234215563, 
       "l": 3.234048779547, 
       "name": "Kloosterstraat", 
-      "numOfAddr": 50, 
+      "numOfAddr": 49, 
       "otherPCs": [
         "8500"
       ], 
@@ -1564,7 +1564,7 @@
       "b": 50.807152782123, 
       "l": 3.233665545707, 
       "name": "Marktstraat", 
-      "numOfAddr": 110, 
+      "numOfAddr": 109, 
       "r": 3.237044339303, 
       "sanName": "marktstraat", 
       "t": 50.812361460902
@@ -1600,16 +1600,16 @@
       "b": 50.770770337925, 
       "l": 3.257417658893, 
       "name": "Molenkouter", 
-      "numOfAddr": 8, 
+      "numOfAddr": 9, 
       "r": 3.260748936823, 
       "sanName": "molenkouter", 
       "t": 50.77158974527
     }, 
     {
-      "b": 50.770908818989, 
-      "l": 3.260109375425, 
+      "b": 50.770821091611, 
+      "l": 3.259956031459, 
       "name": "Molenmote", 
-      "numOfAddr": 3, 
+      "numOfAddr": 4, 
       "r": 3.260478861272, 
       "sanName": "molenmote", 
       "t": 50.771167156132
@@ -1837,10 +1837,19 @@
       "b": 50.770449333672, 
       "l": 3.260702607554, 
       "name": "Plaatsmolenstraat", 
-      "numOfAddr": 4, 
+      "numOfAddr": 5, 
       "r": 3.26106881561, 
       "sanName": "plaatsmolenstraat", 
       "t": 50.771087986064
+    }, 
+    {
+      "b": 50.800602031118, 
+      "l": 3.232915077084, 
+      "name": "Polydoor Benootstraat", 
+      "numOfAddr": 2, 
+      "r": 3.233114322774, 
+      "sanName": "polydoorbenootstraat", 
+      "t": 50.800710326475
     }, 
     {
       "b": 50.801551300188, 

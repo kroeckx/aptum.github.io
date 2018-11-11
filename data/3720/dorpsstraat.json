@@ -364,6 +364,20 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G", 
+        "H", 
+        "I", 
+        "J", 
+        "K", 
+        "L"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -373,126 +387,6 @@
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26A", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26C", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26D", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26F", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26G", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26H", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26I", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26J", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26K", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26A-26L"
-      ], 
-      "housenumber": "26L", 
-      "lat": 50.857512509455, 
-      "lon": 5.387958312761, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dorpsstraat"
     }, 
     {

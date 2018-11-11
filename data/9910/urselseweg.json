@@ -329,11 +329,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.133170643658, 
-      "lon": 3.436979847075, 
+      "lat": 51.133054330494, 
+      "lon": 3.4370380294, 
       "municipality": "Knesselare", 
       "pcode": "9910", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Urselseweg"
     }, 
     {
@@ -497,11 +497,11 @@
         "137A"
       ], 
       "housenumber": "137A", 
-      "lat": 51.13343267648, 
-      "lon": 3.436785170795, 
+      "lat": 51.133522019304, 
+      "lon": 3.436703950468, 
       "municipality": "Knesselare", 
       "pcode": "9910", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Urselseweg"
     }, 
     {
@@ -521,11 +521,11 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.1334019094, 
-      "lon": 3.436953091903, 
+      "lat": 51.133459489652, 
+      "lon": 3.436947800818, 
       "municipality": "Knesselare", 
       "pcode": "9910", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Urselseweg"
     }, 
     {
@@ -533,11 +533,11 @@
         "139A"
       ], 
       "housenumber": "139A", 
-      "lat": 51.133430581919, 
-      "lon": 3.437123543039, 
+      "lat": 51.13346580748, 
+      "lon": 3.437099123618, 
       "municipality": "Knesselare", 
       "pcode": "9910", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Urselseweg"
     }, 
     {
@@ -1073,6 +1073,18 @@
     }, 
     {
       "hnrlbls": [
+        "185A"
+      ], 
+      "housenumber": "185A", 
+      "lat": 51.131757502932, 
+      "lon": 3.466946254964, 
+      "municipality": "Knesselare", 
+      "pcode": "9910", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Urselseweg"
+    }, 
+    {
+      "hnrlbls": [
         "187"
       ], 
       "housenumber": "187", 
@@ -1585,6 +1597,18 @@
       "municipality": "Knesselare", 
       "pcode": "9910", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Urselseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.137116681555, 
+      "lon": 3.41960194045, 
+      "municipality": "Knesselare", 
+      "pcode": "9910", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Urselseweg"
     }, 
     {

@@ -91,6 +91,18 @@
       "street": "Kapellestraat"
     }, 
     {
+      "hnrlbls": [
+        "107"
+      ], 
+      "housenumber": "107", 
+      "lat": 51.197920431154, 
+      "lon": 5.128290726821, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kapellestraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -1074,11 +1086,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.197298431167, 
-      "lon": 5.12356178438, 
+      "lat": 51.1976224677, 
+      "lon": 5.123409370377, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kapellestraat"
     }, 
     {

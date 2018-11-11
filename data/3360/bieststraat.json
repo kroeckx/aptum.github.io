@@ -134,6 +134,18 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.861238657533, 
+      "lon": 4.774495065885, 
+      "municipality": "Bierbeek", 
+      "pcode": "3360", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bieststraat"
+    }, 
+    {
+      "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
@@ -269,11 +281,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.862958370147, 
-      "lon": 4.774287213902, 
+      "lat": 50.862965118646, 
+      "lon": 4.774259431496, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bieststraat"
     }, 
     {
@@ -665,8 +677,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.864447910185, 
-      "lon": 4.770803836856, 
+      "lat": 50.864461652165, 
+      "lon": 4.770807363815, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
       "source": "afgeleidVanPerceelKadaster", 

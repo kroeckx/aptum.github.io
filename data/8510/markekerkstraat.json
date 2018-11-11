@@ -18,7 +18,8 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "11", 
+        "21"
       ], 
       "hnrlbls": [
         "13"
@@ -45,6 +46,7 @@
     }, 
     {
       "busnrs": [
+        "11", 
         "12", 
         "21", 
         "22"
@@ -53,11 +55,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.807346241659, 
-      "lon": 3.232227831494, 
+      "lat": 50.807343660157, 
+      "lon": 3.232397453788, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Markekerkstraat"
     }, 
     {
@@ -82,8 +84,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.807348343405, 
-      "lon": 3.23223132803, 
+      "lat": 50.807422938157, 
+      "lon": 3.232265567446, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
       "source": "manueleAanduidingVanGebouw", 
@@ -102,6 +104,9 @@
       "street": "Markekerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "busnrs": [
         "11", 
         "12", 
@@ -111,8 +116,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.807486965469, 
-      "lon": 3.23219279203, 
+      "lat": 50.807465729971, 
+      "lon": 3.232200257441, 
       "municipality": "Kortrijk", 
       "pcode": "8510", 
       "source": "manueleAanduidingVanPerceel", 
@@ -131,6 +136,9 @@
       "street": "Markekerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "busnrs": [
         "11", 
         "22"

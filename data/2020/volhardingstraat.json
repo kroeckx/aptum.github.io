@@ -178,6 +178,11 @@
       "street": "Volhardingstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -1242,9 +1247,10 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "9"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "83"
@@ -1380,8 +1386,10 @@
       "street": "Volhardingstraat"
     }, 
     {
-      "busnrs": [
-        "90"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "88"

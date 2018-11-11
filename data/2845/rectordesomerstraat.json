@@ -5,11 +5,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.114276600947, 
-      "lon": 4.327539047605, 
+      "lat": 51.114286215666, 
+      "lon": 4.327529614053, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }, 
     {
@@ -54,9 +54,12 @@
         "104", 
         "2", 
         "3", 
+        "301", 
+        "302", 
         "303", 
         "304", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "1B"
@@ -136,7 +139,8 @@
         "2", 
         "201", 
         "202", 
-        "303"
+        "303", 
+        "4"
       ], 
       "hnrlbls": [
         "3"

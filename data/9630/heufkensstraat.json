@@ -1310,6 +1310,18 @@
     }, 
     {
       "hnrlbls": [
+        "70B"
+      ], 
+      "housenumber": "70B", 
+      "lat": 50.871066020583, 
+      "lon": 3.707304701427, 
+      "municipality": "Zwalm", 
+      "pcode": "9630", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Heufkensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
@@ -1502,6 +1514,18 @@
     }, 
     {
       "hnrlbls": [
+        "86"
+      ], 
+      "housenumber": "86", 
+      "lat": 50.871795423697, 
+      "lon": 3.705896000291, 
+      "municipality": "Zwalm", 
+      "pcode": "9630", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Heufkensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "87"
       ], 
       "housenumber": "87", 
@@ -1514,14 +1538,26 @@
     }, 
     {
       "hnrlbls": [
-        "88"
+        "88_1"
       ], 
-      "housenumber": "88", 
+      "housenumber": "88_1", 
       "lat": 50.871845693071, 
       "lon": 3.705707752775, 
       "municipality": "Zwalm", 
       "pcode": "9630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Heufkensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "88_2"
+      ], 
+      "housenumber": "88_2", 
+      "lat": 50.871911335596, 
+      "lon": 3.705599276399, 
+      "municipality": "Zwalm", 
+      "pcode": "9630", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Heufkensstraat"
     }, 
     {

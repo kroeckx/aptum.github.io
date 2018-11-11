@@ -749,6 +749,10 @@
         "0403", 
         "0411"
       ], 
+      "busnrs": [
+        "114", 
+        "303"
+      ], 
       "hnrlbls": [
         "143"
       ], 
@@ -879,6 +883,18 @@
       "housenumber": "29", 
       "lat": 51.253059976952, 
       "lon": 3.009639103456, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vosseslag"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.2508654524, 
+      "lon": 3.010263045273, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 

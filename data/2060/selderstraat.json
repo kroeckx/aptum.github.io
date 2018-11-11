@@ -183,6 +183,11 @@
       "street": "Selderstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -207,6 +212,11 @@
       "street": "Selderstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -231,8 +241,10 @@
       "street": "Selderstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "29"

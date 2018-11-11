@@ -700,6 +700,9 @@
       "street": "Statiestraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "158"
       ], 
@@ -1252,11 +1255,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.870861905553, 
-      "lon": 4.173839466323, 
+      "lat": 50.870846468204, 
+      "lon": 4.173854305088, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statiestraat"
     }, 
     {
@@ -1300,11 +1303,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.871589381058, 
-      "lon": 4.172784295522, 
+      "lat": 50.871602620799, 
+      "lon": 4.172799441887, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statiestraat"
     }, 
     {
@@ -1670,11 +1673,11 @@
         "81-85"
       ], 
       "housenumber": "81", 
-      "lat": 50.873850479448, 
-      "lon": 4.1666007039, 
+      "lat": 50.873841926337, 
+      "lon": 4.166593068479, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1702,11 +1705,11 @@
         "81-85"
       ], 
       "housenumber": "83", 
-      "lat": 50.873850479448, 
-      "lon": 4.1666007039, 
+      "lat": 50.873841926337, 
+      "lon": 4.166593068479, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
@@ -1717,15 +1720,16 @@
         "81-85"
       ], 
       "housenumber": "85", 
-      "lat": 50.873850479448, 
-      "lon": 4.1666007039, 
+      "lat": 50.873841926337, 
+      "lon": 4.166593068479, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Statiestraat"
     }, 
     {
       "busnrs": [
+        "101", 
         "201"
       ], 
       "hnrlbls": [

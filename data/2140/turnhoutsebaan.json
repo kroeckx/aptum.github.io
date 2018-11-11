@@ -37,6 +37,12 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -1767,15 +1773,23 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601"
+      ], 
       "hnrlbls": [
         "22-22A"
       ], 
       "housenumber": "22", 
-      "lat": 51.21662613783, 
-      "lon": 4.429397992998, 
+      "lat": 51.216684867479, 
+      "lon": 4.429502977143, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -1903,6 +1917,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "22-22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 51.216684867479, 
+      "lon": 4.429502977143, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "afgeleidVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -2072,23 +2098,12 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.216621793089, 
-      "lon": 4.429456380127, 
+      "lat": 51.216590605503, 
+      "lon": 4.429452188596, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -2482,9 +2497,10 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "271"

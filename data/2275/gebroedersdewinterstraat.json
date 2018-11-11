@@ -99,11 +99,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.258643030794, 
-      "lon": 4.800021772417, 
+      "lat": 51.258649578789, 
+      "lon": 4.799853083229, 
       "municipality": "Lille", 
       "pcode": "2275", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Gebroeders De Winterstraat"
     }, 
     {
@@ -178,6 +178,9 @@
       "street": "Gebroeders De Winterstraat"
     }, 
     {
+      "apptnrs": [
+        "Bus1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -1111,7 +1114,9 @@
         "Bus4"
       ], 
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "4"
       ], 
       "hnrlbls": [
         "84"

@@ -88,7 +88,7 @@
         "0101"
       ], 
       "hnrlbls": [
-        "16"
+        "16-18"
       ], 
       "housenumber": "16", 
       "lat": 51.199292031205, 
@@ -112,11 +112,11 @@
     }, 
     {
       "hnrlbls": [
-        "18"
+        "16-18"
       ], 
       "housenumber": "18", 
-      "lat": 51.199272859863, 
-      "lon": 3.812536576407, 
+      "lat": 51.199292031205, 
+      "lon": 3.812561099304, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -163,8 +163,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.199250443973, 
-      "lon": 3.81245286103, 
+      "lat": 51.19924702031, 
+      "lon": 3.812393813742, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -451,11 +451,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.198733653122, 
-      "lon": 3.810252179576, 
+      "lat": 51.198733744354, 
+      "lon": 3.810252464623, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franz Wittoucklaan"
     }, 
     {
@@ -515,8 +515,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.199293682682, 
-      "lon": 3.813372003297, 
+      "lat": 51.199253256055, 
+      "lon": 3.813415118966, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "manueleAanduidingVanGebouw", 

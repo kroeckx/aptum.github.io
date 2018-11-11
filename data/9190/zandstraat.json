@@ -137,11 +137,11 @@
         "409"
       ], 
       "housenumber": "409", 
-      "lat": 51.232053817089, 
-      "lon": 4.029675391628, 
+      "lat": 51.232025826754, 
+      "lon": 4.029662709646, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zandstraat"
     }, 
     {
@@ -163,6 +163,18 @@
       "housenumber": "411W", 
       "lat": 51.231715617403, 
       "lon": 4.030159318849, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "412W"
+      ], 
+      "housenumber": "412W", 
+      "lat": 51.23158305265, 
+      "lon": 4.030416262483, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 

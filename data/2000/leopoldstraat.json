@@ -25,6 +25,18 @@
       "street": "Leopoldstraat"
     }, 
     {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.215383128945, 
+      "lon": 4.406919720045, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Leopoldstraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -304,14 +316,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "31-39A"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.214579204785, 
-      "lon": 4.407465600271, 
+      "lat": 51.214524479413, 
+      "lon": 4.407152565351, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -404,7 +416,7 @@
     }, 
     {
       "hnrlbls": [
-        "31-39A"
+        "39A"
       ], 
       "housenumber": "39A", 
       "lat": 51.214579204785, 

@@ -590,8 +590,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.184289491883, 
-      "lon": 4.428055717295, 
+      "lat": 51.184289312112, 
+      "lon": 4.428055717064, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -1060,6 +1060,11 @@
       "street": "Troyentenhoflaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "72"
       ], 

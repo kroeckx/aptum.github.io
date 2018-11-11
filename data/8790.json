@@ -43,7 +43,7 @@
       "numOfAddr": 28, 
       "r": 3.408938309683, 
       "sanName": "alcidedegasperilaan", 
-      "t": 50.865632180988
+      "t": 50.865632547507
     }, 
     {
       "b": 50.864195878474, 
@@ -85,7 +85,7 @@
       "b": 50.885054371408, 
       "l": 3.414042961037, 
       "name": "Azalealaan", 
-      "numOfAddr": 58, 
+      "numOfAddr": 57, 
       "r": 3.417559780184, 
       "sanName": "azalealaan", 
       "t": 50.886709173216
@@ -103,8 +103,8 @@
       "b": 50.877310882654, 
       "l": 3.43120436153, 
       "name": "Beekstraat", 
-      "numOfAddr": 32, 
-      "r": 3.434381461454, 
+      "numOfAddr": 33, 
+      "r": 3.43457070922, 
       "sanName": "beekstraat", 
       "t": 50.878442644547
     }, 
@@ -409,7 +409,7 @@
       "b": 50.895041557546, 
       "l": 3.445688117963, 
       "name": "Drogenboomstraat", 
-      "numOfAddr": 47, 
+      "numOfAddr": 48, 
       "r": 3.453912465903, 
       "sanName": "drogenboomstraat", 
       "t": 50.900699680395
@@ -472,10 +472,10 @@
       "b": 50.866571262358, 
       "l": 3.434951285391, 
       "name": "Eug\u00e8ne Bekaertlaan", 
-      "numOfAddr": 17, 
+      "numOfAddr": 18, 
       "r": 3.443889484004, 
       "sanName": "eugnebekaertlaan", 
-      "t": 50.868946250249
+      "t": 50.869612764254
     }, 
     {
       "b": 50.864373928051, 
@@ -526,7 +526,7 @@
       "b": 50.881587886992, 
       "l": 3.440439322621, 
       "name": "Felix Verhaeghestraat", 
-      "numOfAddr": 36, 
+      "numOfAddr": 35, 
       "r": 3.447716149633, 
       "sanName": "felixverhaeghestraat", 
       "t": 50.884070455688
@@ -544,7 +544,7 @@
       "b": 50.872868564901, 
       "l": 3.437790757844, 
       "name": "Franklin Rooseveltlaan", 
-      "numOfAddr": 111, 
+      "numOfAddr": 113, 
       "r": 3.444222882806, 
       "sanName": "franklinrooseveltlaan", 
       "t": 50.882553335885
@@ -809,7 +809,7 @@
       "b": 50.875423784178, 
       "l": 3.419594044134, 
       "name": "Henri Lebbestraat", 
-      "numOfAddr": 161, 
+      "numOfAddr": 162, 
       "r": 3.426552968263, 
       "sanName": "henrilebbestraat", 
       "t": 50.883909199408
@@ -840,15 +840,6 @@
       "r": 3.433677623294, 
       "sanName": "hoefijzerstraat", 
       "t": 50.87978065567
-    }, 
-    {
-      "b": 50.891562775164, 
-      "l": 3.440565050788, 
-      "name": "Hof Ter Waaien", 
-      "numOfAddr": 56, 
-      "r": 3.441794285791, 
-      "sanName": "hofterwaaien", 
-      "t": 50.892378037208
     }, 
     {
       "b": 50.888712591142, 
@@ -1313,7 +1304,7 @@
       "b": 50.89193008782, 
       "l": 3.406393249731, 
       "name": "Lindestraat", 
-      "numOfAddr": 57, 
+      "numOfAddr": 58, 
       "otherPCs": [
         "8793"
       ], 
@@ -1514,7 +1505,7 @@
       "b": 50.886674808354, 
       "l": 3.445687624647, 
       "name": "Nokerseweg", 
-      "numOfAddr": 125, 
+      "numOfAddr": 126, 
       "r": 3.462916646023, 
       "sanName": "nokerseweg", 
       "t": 50.890210007292
@@ -1665,9 +1656,9 @@
     }, 
     {
       "b": 50.881889450318, 
-      "l": 3.411704164619, 
+      "l": 3.411441156545, 
       "name": "Pijkstraat", 
-      "numOfAddr": 69, 
+      "numOfAddr": 70, 
       "r": 3.417120115164, 
       "sanName": "pijkstraat", 
       "t": 50.887129941235
@@ -1713,7 +1704,7 @@
       "l": 3.424385113035, 
       "name": "Processiestraat", 
       "numOfAddr": 77, 
-      "r": 3.428961269548, 
+      "r": 3.428379542137, 
       "sanName": "processiestraat", 
       "t": 50.888141661315
     }, 
@@ -2198,7 +2189,7 @@
       "t": 50.893354792015
     }, 
     {
-      "b": 50.875660293206, 
+      "b": 50.87561998115, 
       "l": 3.431159214433, 
       "name": "Vredestraat", 
       "numOfAddr": 58, 
@@ -2237,7 +2228,7 @@
       "b": 50.883203370677, 
       "l": 3.42209592918, 
       "name": "Westerlaan", 
-      "numOfAddr": 80, 
+      "numOfAddr": 77, 
       "r": 3.425161907164, 
       "sanName": "westerlaan", 
       "t": 50.8898392342
@@ -2339,10 +2330,10 @@
       "b": 50.877054327101, 
       "l": 3.43741250788, 
       "name": "Zandstraat", 
-      "numOfAddr": 14, 
+      "numOfAddr": 15, 
       "r": 3.440003109392, 
       "sanName": "zandstraat", 
-      "t": 50.877644420046
+      "t": 50.877658550511
     }, 
     {
       "b": 50.87476753622, 

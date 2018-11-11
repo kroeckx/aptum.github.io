@@ -324,10 +324,11 @@
       "street": "Ten Eekhovelei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "123"
@@ -2379,9 +2380,6 @@
       "street": "Ten Eekhovelei"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "280"
       ], 
@@ -2991,9 +2989,6 @@
       "street": "Ten Eekhovelei"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "343"
       ], 
@@ -3538,9 +3533,6 @@
       "street": "Ten Eekhovelei"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "76"
       ], 

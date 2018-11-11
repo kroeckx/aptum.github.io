@@ -33,7 +33,7 @@
       "lon": 3.257800727164, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Magdalenastraat"
     }, 
     {
@@ -228,19 +228,15 @@
       "street": "Magdalenastraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11"
-      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.825133897865, 
-      "lon": 3.256702653034, 
+      "lat": 50.825129388024, 
+      "lon": 3.25657784877, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Magdalenastraat"
     }, 
     {
@@ -273,18 +269,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Magdalenastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "40"
-      ], 
-      "housenumber": "40", 
-      "lat": 50.825141105716, 
-      "lon": 3.256590488739, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Magdalenastraat"
     }, 
     {

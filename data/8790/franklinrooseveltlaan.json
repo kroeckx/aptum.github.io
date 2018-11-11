@@ -25,12 +25,16 @@
       "street": "Franklin Rooseveltlaan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.877790422952, 
-      "lon": 3.439301169808, 
+      "lat": 50.877754184467, 
+      "lon": 3.439231973919, 
       "municipality": "Waregem", 
       "pcode": "8790", 
       "source": "manueleAanduidingVanGebouw", 
@@ -43,6 +47,30 @@
       "housenumber": "103", 
       "lat": 50.878006170035, 
       "lon": 3.439821818176, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Franklin Rooseveltlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
+      "lat": 50.877793305216, 
+      "lon": 3.439347294821, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Franklin Rooseveltlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "104A"
+      ], 
+      "housenumber": "104A", 
+      "lat": 50.877739522536, 
+      "lon": 3.439401360808, 
       "municipality": "Waregem", 
       "pcode": "8790", 
       "source": "manueleAanduidingVanGebouw", 

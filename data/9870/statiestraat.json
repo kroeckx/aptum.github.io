@@ -890,8 +890,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.918251597861, 
-      "lon": 3.441480586413, 
+      "lat": 50.918269181087, 
+      "lon": 3.441453075073, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -911,8 +911,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.918180038852, 
-      "lon": 3.44160615782, 
+      "lat": 50.91817958157, 
+      "lon": 3.441605171302, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -949,8 +949,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.918113244973, 
-      "lon": 3.441720399375, 
+      "lat": 50.918112630517, 
+      "lon": 3.441710882731, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -985,8 +985,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.918023633091, 
-      "lon": 3.441779767255, 
+      "lat": 50.918066203174, 
+      "lon": 3.441854161642, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1005,8 +1005,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.917972686647, 
-      "lon": 3.441988413999, 
+      "lat": 50.917933811119, 
+      "lon": 3.441972114684, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1307,6 +1307,10 @@
       "street": "Statiestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "66"
       ], 

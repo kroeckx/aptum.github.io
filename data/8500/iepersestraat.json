@@ -922,8 +922,8 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.841455317393, 
-      "lon": 3.257382603007, 
+      "lat": 50.841495511482, 
+      "lon": 3.257411755991, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1742,7 +1742,7 @@
       "lon": 3.264379676605, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Iepersestraat"
     }, 
     {
@@ -1754,7 +1754,7 @@
       "lon": 3.264379676605, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Iepersestraat"
     }, 
     {

@@ -1,8 +1,10 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "10"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "10"
@@ -619,8 +621,10 @@
       "street": "Van Aerdtstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "56"

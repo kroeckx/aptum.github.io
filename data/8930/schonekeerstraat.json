@@ -137,8 +137,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.798442823598, 
-      "lon": 3.197128475114, 
+      "lat": 50.798440039729, 
+      "lon": 3.197110811219, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -329,8 +329,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.79648027007, 
-      "lon": 3.196790461102, 
+      "lat": 50.796479115743, 
+      "lon": 3.19679190843, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -353,8 +353,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.796394479051, 
-      "lon": 3.196779545516, 
+      "lat": 50.796396714285, 
+      "lon": 3.196787292135, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -461,11 +461,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.800196918624, 
-      "lon": 3.190392209943, 
+      "lat": 50.800241979687, 
+      "lon": 3.190367105885, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schonekeerstraat"
     }, 
     {
@@ -557,11 +557,11 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.795523257918, 
-      "lon": 3.196633982329, 
+      "lat": 50.795463382121, 
+      "lon": 3.196409495604, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schonekeerstraat"
     }, 
     {
@@ -590,18 +590,6 @@
     }, 
     {
       "hnrlbls": [
-        "170"
-      ], 
-      "housenumber": "170", 
-      "lat": 50.795292167575, 
-      "lon": 3.196891954931, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Schonekeerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "173"
       ], 
       "housenumber": "173", 
@@ -619,18 +607,6 @@
       "housenumber": "175", 
       "lat": 50.797158819993, 
       "lon": 3.197484864403, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Schonekeerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "176"
-      ], 
-      "housenumber": "176", 
-      "lat": 50.7947884735, 
-      "lon": 3.19717656778, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -677,11 +653,11 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.796247811651, 
-      "lon": 3.1988917848, 
+      "lat": 50.796401258959, 
+      "lon": 3.198628086097, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schonekeerstraat"
     }, 
     {
@@ -689,11 +665,11 @@
         "183A"
       ], 
       "housenumber": "183A", 
-      "lat": 50.796176062965, 
-      "lon": 3.199179837968, 
+      "lat": 50.796398934165, 
+      "lon": 3.198890583357, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schonekeerstraat"
     }, 
     {
@@ -737,8 +713,8 @@
         "185B"
       ], 
       "housenumber": "185B", 
-      "lat": 50.796344647444, 
-      "lon": 3.198207887998, 
+      "lat": 50.79634048374, 
+      "lon": 3.198214091451, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -773,11 +749,11 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 50.798937394294, 
-      "lon": 3.195392626348, 
+      "lat": 50.795292167575, 
+      "lon": 3.196891954931, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schonekeerstraat"
     }, 
     {
@@ -799,6 +775,18 @@
       "housenumber": "193", 
       "lat": 50.79619329807, 
       "lon": 3.197268432953, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schonekeerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "194"
+      ], 
+      "housenumber": "194", 
+      "lat": 50.7947884735, 
+      "lon": 3.19717656778, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -842,9 +830,9 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "301"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "2-118"
@@ -874,11 +862,11 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.7957837234, 
-      "lon": 3.197353807969, 
+      "lat": 50.79577220952, 
+      "lon": 3.197092367636, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Schonekeerstraat"
     }, 
     {
@@ -1043,7 +1031,7 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "54"

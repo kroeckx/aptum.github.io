@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.78680530914, 
-      "lon": 3.12662683725, 
+      "lat": 50.786822352861, 
+      "lon": 3.126589227552, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Delorsplein"
     }, 
     {
@@ -53,23 +53,29 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.786828750803, 
-      "lon": 3.125547723889, 
+      "lat": 50.786819393843, 
+      "lon": 3.12554711992, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
       "street": "Delorsplein"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.786731649414, 
-      "lon": 3.1254884485, 
+      "lat": 50.786894551461, 
+      "lon": 3.12533465584, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Delorsplein"
     }, 
     {
@@ -86,54 +92,6 @@
     }, 
     {
       "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.786724551575, 
-      "lon": 3.125421123719, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Delorsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.786717427736, 
-      "lon": 3.125342878559, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Delorsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.786715411073, 
-      "lon": 3.125271448341, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Delorsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.786905117613, 
-      "lon": 3.125178077042, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Delorsplein"
-    }, 
-    {
-      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -142,18 +100,6 @@
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Delorsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.787230558874, 
-      "lon": 3.126149979838, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Delorsplein"
     }, 
     {

@@ -773,7 +773,7 @@
       "lon": 3.278949483087, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Elfde-julilaan"
     }, 
     {
@@ -1617,15 +1617,18 @@
       "street": "Elfde-julilaan"
     }, 
     {
+      "apptnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.822845164524, 
-      "lon": 3.281616701651, 
+      "lat": 50.82278838765, 
+      "lon": 3.281456489697, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elfde-julilaan"
     }, 
     {

@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "10-10A"
       ], 
       "housenumber": "10", 
       "lat": 51.053284034135, 
@@ -26,26 +26,26 @@
     }, 
     {
       "hnrlbls": [
-        "10A-10B"
+        "10-10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.053262213171, 
-      "lon": 3.725019889225, 
+      "lat": 51.053284034135, 
+      "lon": 3.725065086916, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Baafsplein"
     }, 
     {
       "hnrlbls": [
-        "10A-10B"
+        "10B"
       ], 
       "housenumber": "10B", 
-      "lat": 51.053262213171, 
-      "lon": 3.725019889225, 
+      "lat": 51.053024372425, 
+      "lon": 3.725022729486, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Baafsplein"
     }, 
     {
@@ -529,7 +529,7 @@
       "lon": 3.724823602865, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Baafsplein"
     }, 
     {

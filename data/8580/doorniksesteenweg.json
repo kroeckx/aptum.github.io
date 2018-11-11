@@ -230,11 +230,11 @@
         "12-14"
       ], 
       "housenumber": "12", 
-      "lat": 50.775407401897, 
-      "lon": 3.445157138176, 
+      "lat": 50.775403246234, 
+      "lon": 3.445143182503, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Doorniksesteenweg"
     }, 
     {
@@ -2521,12 +2521,18 @@
       "street": "Doorniksesteenweg"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "203", 
+        "301", 
+        "402"
+      ], 
       "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.772607420196, 
-      "lon": 3.443206534492, 
+      "lat": 50.772528344361, 
+      "lon": 3.443393678757, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
       "source": "afgeleidVanGebouw", 

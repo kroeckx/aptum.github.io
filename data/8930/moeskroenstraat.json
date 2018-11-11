@@ -83,14 +83,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-106"
+        "76-108"
       ], 
       "housenumber": "106", 
-      "lat": 50.78728853818, 
-      "lon": 3.130540336784, 
+      "lat": 50.787263270266, 
+      "lon": 3.130540008353, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -107,14 +107,14 @@
     }, 
     {
       "hnrlbls": [
-        "78-108"
+        "76-108"
       ], 
       "housenumber": "108", 
-      "lat": 50.787302365346, 
-      "lon": 3.130538554867, 
+      "lat": 50.787263270266, 
+      "lon": 3.130540008353, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -299,11 +299,11 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.787433331254, 
-      "lon": 3.133082453972, 
+      "lat": 50.787508957399, 
+      "lon": 3.133049549596, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -395,11 +395,11 @@
         "130-132"
       ], 
       "housenumber": "130", 
-      "lat": 50.787628454859, 
-      "lon": 3.13218093791, 
+      "lat": 50.78761492242, 
+      "lon": 3.132210653066, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -431,11 +431,11 @@
         "130-132"
       ], 
       "housenumber": "132", 
-      "lat": 50.787628454859, 
-      "lon": 3.13218093791, 
+      "lat": 50.78761492242, 
+      "lon": 3.132210653066, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -695,11 +695,23 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.788018027755, 
-      "lon": 3.134227328986, 
+      "lat": 50.787953756375, 
+      "lon": 3.134220078305, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Moeskroenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "180"
+      ], 
+      "housenumber": "180", 
+      "lat": 50.78795331681, 
+      "lon": 3.134289305661, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -902,8 +914,8 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 50.788266310842, 
-      "lon": 3.135708969874, 
+      "lat": 50.788267660596, 
+      "lon": 3.135709076367, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -974,11 +986,11 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 50.788431534714, 
-      "lon": 3.136381490108, 
+      "lat": 50.788331412094, 
+      "lon": 3.136427654304, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -1130,8 +1142,8 @@
         "254"
       ], 
       "housenumber": "254", 
-      "lat": 50.78853194354, 
-      "lon": 3.137140812737, 
+      "lat": 50.788523097163, 
+      "lon": 3.137146008421, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1281,7 +1293,7 @@
       "lon": 3.128969199536, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -1313,11 +1325,11 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "202"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "29-31"
@@ -1327,7 +1339,7 @@
       "lon": 3.128969199536, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -1491,8 +1503,8 @@
         "360"
       ], 
       "housenumber": "360", 
-      "lat": 50.789335805914, 
-      "lon": 3.141725181411, 
+      "lat": 50.789332030775, 
+      "lon": 3.141725279784, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1548,8 +1560,8 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "37"
@@ -1559,7 +1571,7 @@
       "lon": 3.129127573311, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -1771,11 +1783,11 @@
         "397A"
       ], 
       "housenumber": "397A", 
-      "lat": 50.788221533625, 
-      "lon": 3.155652023959, 
+      "lat": 50.788244353331, 
+      "lon": 3.155667747224, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -1816,10 +1828,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "4-8"
@@ -1829,7 +1841,7 @@
       "lon": 3.127855271387, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -2025,6 +2037,21 @@
       "street": "Moeskroenstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.787445279534, 
+      "lon": 3.129080427763, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Moeskroenstraat"
+    }, 
+    {
       "hnrlbls": [
         "420"
       ], 
@@ -2185,11 +2212,11 @@
         "435"
       ], 
       "housenumber": "435", 
-      "lat": 50.785451503576, 
-      "lon": 3.161141186894, 
+      "lat": 50.785984004064, 
+      "lon": 3.161801786496, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -2230,18 +2257,6 @@
     }, 
     {
       "hnrlbls": [
-        "439"
-      ], 
-      "housenumber": "439", 
-      "lat": 50.785611191804, 
-      "lon": 3.162076133865, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Moeskroenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
@@ -2257,8 +2272,8 @@
         "440"
       ], 
       "housenumber": "440", 
-      "lat": 50.789783807901, 
-      "lon": 3.144070478594, 
+      "lat": 50.789745867369, 
+      "lon": 3.144087777056, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2389,8 +2404,8 @@
         "450"
       ], 
       "housenumber": "450", 
-      "lat": 50.789864096582, 
-      "lon": 3.144535189678, 
+      "lat": 50.789863918295, 
+      "lon": 3.144535336154, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2425,8 +2440,8 @@
         "453"
       ], 
       "housenumber": "453", 
-      "lat": 50.784789796491, 
-      "lon": 3.162391326098, 
+      "lat": 50.784791454575, 
+      "lon": 3.162447588272, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2437,8 +2452,8 @@
         "455"
       ], 
       "housenumber": "455", 
-      "lat": 50.78472131374, 
-      "lon": 3.162341597853, 
+      "lat": 50.784720810307, 
+      "lon": 3.162336363221, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2482,11 +2497,11 @@
     }, 
     {
       "hnrlbls": [
-        "459-461"
+        "459"
       ], 
       "housenumber": "459", 
-      "lat": 50.784536947594, 
-      "lon": 3.162458645823, 
+      "lat": 50.784537037479, 
+      "lon": 3.16245864352, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2506,7 +2521,7 @@
     }, 
     {
       "hnrlbls": [
-        "459-461"
+        "461"
       ], 
       "housenumber": "461", 
       "lat": 50.784536947594, 
@@ -2529,32 +2544,12 @@
       "street": "Moeskroenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202"
-      ], 
-      "hnrlbls": [
-        "463"
-      ], 
-      "housenumber": "463", 
-      "lat": 50.784429905062, 
-      "lon": 3.162610870397, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Moeskroenstraat"
-    }, 
-    {
       "hnrlbls": [
         "464"
       ], 
       "housenumber": "464", 
-      "lat": 50.789940672711, 
-      "lon": 3.144963120027, 
+      "lat": 50.789927539678, 
+      "lon": 3.144971120779, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2589,8 +2584,8 @@
         "467"
       ], 
       "housenumber": "467", 
-      "lat": 50.784273848686, 
-      "lon": 3.162587069744, 
+      "lat": 50.784273557738, 
+      "lon": 3.162593742912, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2603,30 +2598,6 @@
       "housenumber": "468", 
       "lat": 50.789956049039, 
       "lon": 3.145083852974, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Moeskroenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302"
-      ], 
-      "hnrlbls": [
-        "469-471"
-      ], 
-      "housenumber": "469", 
-      "lat": 50.784162302368, 
-      "lon": 3.162686082905, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2658,7 +2629,7 @@
     }, 
     {
       "hnrlbls": [
-        "469-471"
+        "471"
       ], 
       "housenumber": "471", 
       "lat": 50.784162302368, 
@@ -2733,8 +2704,8 @@
         "477"
       ], 
       "housenumber": "477", 
-      "lat": 50.783883594143, 
-      "lon": 3.162713075629, 
+      "lat": 50.783881073861, 
+      "lon": 3.162704063527, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2745,14 +2716,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "479"
+        "479-481"
       ], 
       "housenumber": "479", 
-      "lat": 50.78376183613, 
-      "lon": 3.162710946286, 
+      "lat": 50.783233731306, 
+      "lon": 3.163385496092, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -2781,14 +2752,14 @@
     }, 
     {
       "hnrlbls": [
-        "481"
+        "479-481"
       ], 
       "housenumber": "481", 
-      "lat": 50.783706953278, 
-      "lon": 3.162873177953, 
+      "lat": 50.783233731306, 
+      "lon": 3.163385496092, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -2832,11 +2803,11 @@
         "485"
       ], 
       "housenumber": "485", 
-      "lat": 50.782529668298, 
-      "lon": 3.164138418995, 
+      "lat": 50.78255330748, 
+      "lon": 3.164207730881, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -2976,8 +2947,8 @@
         "507"
       ], 
       "housenumber": "507", 
-      "lat": 50.781571435684, 
-      "lon": 3.16347512253, 
+      "lat": 50.781669869763, 
+      "lon": 3.163377445007, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3112,7 +3083,7 @@
       "lon": 3.164866639309, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -3132,8 +3103,8 @@
         "520"
       ], 
       "housenumber": "520", 
-      "lat": 50.790202379847, 
-      "lon": 3.146348498953, 
+      "lat": 50.790185375778, 
+      "lon": 3.146356032484, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3324,8 +3295,8 @@
         "535"
       ], 
       "housenumber": "535", 
-      "lat": 50.78038531673, 
-      "lon": 3.166113256363, 
+      "lat": 50.780391178169, 
+      "lon": 3.166114950248, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3336,8 +3307,8 @@
         "536"
       ], 
       "housenumber": "536", 
-      "lat": 50.790267102134, 
-      "lon": 3.14685603262, 
+      "lat": 50.790260881196, 
+      "lon": 3.146863002479, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3416,6 +3387,9 @@
       "street": "Moeskroenstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "56"
       ], 
@@ -3432,11 +3406,11 @@
         "560"
       ], 
       "housenumber": "560", 
-      "lat": 50.790495222949, 
-      "lon": 3.149603568142, 
+      "lat": 50.790498445803, 
+      "lon": 3.149628165364, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -3447,8 +3421,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.787031540668, 
-      "lon": 3.130170953066, 
+      "lat": 50.787029128785, 
+      "lon": 3.130172434834, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3570,8 +3544,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.78735515518, 
-      "lon": 3.12994430047, 
+      "lat": 50.78734767082, 
+      "lon": 3.129942228018, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3606,8 +3580,8 @@
         "605"
       ], 
       "housenumber": "605", 
-      "lat": 50.779665770524, 
-      "lon": 3.166375258628, 
+      "lat": 50.779658365354, 
+      "lon": 3.166380836442, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4101,8 +4075,8 @@
         "663"
       ], 
       "housenumber": "663", 
-      "lat": 50.777915613666, 
-      "lon": 3.168102729613, 
+      "lat": 50.777918519042, 
+      "lon": 3.168105491641, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4139,18 +4113,6 @@
       "housenumber": "669", 
       "lat": 50.777555678488, 
       "lon": 3.168371688381, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Moeskroenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "67"
-      ], 
-      "housenumber": "67", 
-      "lat": 50.787026765797, 
-      "lon": 3.130586933164, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4245,11 +4207,11 @@
         "680"
       ], 
       "housenumber": "680", 
-      "lat": 50.78666882222, 
-      "lon": 3.161398879957, 
+      "lat": 50.786538076329, 
+      "lon": 3.161274868171, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -4381,7 +4343,7 @@
       "lon": 3.169301699939, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -4397,30 +4359,15 @@
       "street": "Moeskroenstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "695"
-      ], 
-      "housenumber": "695", 
-      "lat": 50.775867222868, 
-      "lon": 3.169963721114, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Moeskroenstraat"
-    }, 
-    {
       "hnrlbls": [
         "695A"
       ], 
       "housenumber": "695A", 
-      "lat": 50.775741352411, 
-      "lon": 3.170104468438, 
+      "lat": 50.775728164019, 
+      "lon": 3.170124797533, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -4580,6 +4527,9 @@
       "street": "Moeskroenstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -4588,7 +4538,7 @@
       "lon": 3.130746349419, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -4670,25 +4620,6 @@
       "housenumber": "716", 
       "lat": 50.784146076543, 
       "lon": 3.163127569059, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Moeskroenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "2", 
-        "201", 
-        "202"
-      ], 
-      "hnrlbls": [
-        "717"
-      ], 
-      "housenumber": "717", 
-      "lat": 50.774827104403, 
-      "lon": 3.17167287363, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4782,30 +4713,15 @@
       "street": "Moeskroenstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "724"
-      ], 
-      "housenumber": "724", 
-      "lat": 50.783931048654, 
-      "lon": 3.163244404608, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Moeskroenstraat"
-    }, 
-    {
       "hnrlbls": [
         "725"
       ], 
       "housenumber": "725", 
-      "lat": 50.774455697034, 
-      "lon": 3.172201419725, 
+      "lat": 50.774496765008, 
+      "lon": 3.172261064341, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -4863,33 +4779,6 @@
       "housenumber": "73", 
       "lat": 50.787061889357, 
       "lon": 3.130847833637, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Moeskroenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "3", 
-        "301", 
-        "302", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "730"
-      ], 
-      "housenumber": "730", 
-      "lat": 50.782472365688, 
-      "lon": 3.164730274085, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4969,8 +4858,8 @@
         "744"
       ], 
       "housenumber": "744", 
-      "lat": 50.781948148902, 
-      "lon": 3.165504380219, 
+      "lat": 50.781946244607, 
+      "lon": 3.165520312335, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -5005,8 +4894,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.787064645675, 
-      "lon": 3.130913004429, 
+      "lat": 50.787065629907, 
+      "lon": 3.130912553057, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -5038,14 +4927,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-106"
+        "76-108"
       ], 
       "housenumber": "76", 
-      "lat": 50.78728853818, 
-      "lon": 3.130540336784, 
+      "lat": 50.787263270266, 
+      "lon": 3.130540008353, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -5062,14 +4951,14 @@
     }, 
     {
       "hnrlbls": [
-        "78-108"
+        "76-108"
       ], 
       "housenumber": "78", 
-      "lat": 50.787302365346, 
-      "lon": 3.130538554867, 
+      "lat": 50.787263270266, 
+      "lon": 3.130540008353, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -5201,7 +5090,7 @@
       "lon": 3.127855271387, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -5557,11 +5446,11 @@
         "848"
       ], 
       "housenumber": "848", 
-      "lat": 50.776064365007, 
-      "lon": 3.170963206234, 
+      "lat": 50.775922990865, 
+      "lon": 3.170607767884, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -5632,8 +5521,8 @@
         "862"
       ], 
       "housenumber": "862", 
-      "lat": 50.775591609848, 
-      "lon": 3.171638981199, 
+      "lat": 50.775594590462, 
+      "lon": 3.171649114855, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -5653,7 +5542,7 @@
     }, 
     {
       "hnrlbls": [
-        "866-868"
+        "866"
       ], 
       "housenumber": "866", 
       "lat": 50.775347462899, 
@@ -5665,14 +5554,14 @@
     }, 
     {
       "hnrlbls": [
-        "866-868"
+        "868"
       ], 
       "housenumber": "868", 
-      "lat": 50.775347462899, 
-      "lon": 3.171643342727, 
+      "lat": 50.775288262962, 
+      "lon": 3.171525029302, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {
@@ -5791,8 +5680,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.787112406088, 
-      "lon": 3.131459650955, 
+      "lat": 50.787124555412, 
+      "lon": 3.131460750066, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -5862,11 +5751,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.787150631737, 
-      "lon": 3.131716499679, 
+      "lat": 50.787234379928, 
+      "lon": 3.131695010286, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Moeskroenstraat"
     }, 
     {

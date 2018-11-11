@@ -2053,14 +2053,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "67"
+        "67-69"
       ], 
       "housenumber": "67", 
-      "lat": 50.778798902414, 
-      "lon": 3.231098004138, 
+      "lat": 50.778585304381, 
+      "lon": 3.231118761668, 
       "municipality": "Kortrijk", 
       "pcode": "8511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Moeskroensesteenweg"
     }, 
     {
@@ -2077,7 +2077,7 @@
     }, 
     {
       "hnrlbls": [
-        "69"
+        "67-69"
       ], 
       "housenumber": "69", 
       "lat": 50.778585304381, 

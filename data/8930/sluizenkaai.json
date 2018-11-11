@@ -2,8 +2,8 @@
   "addresses": [
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "1"
@@ -45,8 +45,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.790800360581, 
-      "lon": 3.123427251303, 
+      "lat": 50.790791859285, 
+      "lon": 3.123431022257, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -69,8 +69,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.790938639645, 
-      "lon": 3.123283309369, 
+      "lat": 50.790798910948, 
+      "lon": 3.123290835095, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -145,7 +145,7 @@
       "lon": 3.124283180827, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sluizenkaai"
     }, 
     {
@@ -177,8 +177,8 @@
         "25B"
       ], 
       "housenumber": "25B", 
-      "lat": 50.791370598243, 
-      "lon": 3.121654834717, 
+      "lat": 50.7913706836, 
+      "lon": 3.121654406917, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -481,7 +481,7 @@
       "lon": 3.116213987655, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sluizenkaai"
     }, 
     {

@@ -262,6 +262,16 @@
       "street": "Sint-Erasmusstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -632,15 +642,23 @@
       "street": "Sint-Erasmusstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.215000881633, 
-      "lon": 4.432224804367, 
+      "lat": 51.215077785684, 
+      "lon": 4.432292460454, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Erasmusstraat"
     }, 
     {

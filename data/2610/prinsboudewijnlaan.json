@@ -1663,6 +1663,11 @@
       "street": "Prins Boudewijnlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1882,8 +1887,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.179461208543, 
-      "lon": 4.424608791947, 
+      "lat": 51.179457882446, 
+      "lon": 4.424609502945, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 

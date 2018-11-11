@@ -192,6 +192,21 @@
       "street": "Bogaardenstraat"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
+      "hnrlbls": [
+        "17A-19C"
+      ], 
+      "housenumber": "17A", 
+      "lat": 50.988354183662, 
+      "lon": 5.057222213452, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "afgeleidVanStraat", 
+      "street": "Bogaardenstraat"
+    }, 
+    {
       "apptnrs": [
         "A", 
         "A1", 
@@ -211,6 +226,36 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Bogaardenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "17A-19C"
+      ], 
+      "housenumber": "19A", 
+      "lat": 50.988354183662, 
+      "lon": 5.057222213452, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "afgeleidVanStraat", 
+      "street": "Bogaardenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "17A-19C"
+      ], 
+      "housenumber": "19C", 
+      "lat": 50.988354183662, 
+      "lon": 5.057222213452, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "afgeleidVanStraat", 
       "street": "Bogaardenstraat"
     }, 
     {
@@ -270,6 +315,18 @@
         "9A-9D"
       ], 
       "housenumber": "9A", 
+      "lat": 50.988360936995, 
+      "lon": 5.057435101213, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bogaardenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9A-9D"
+      ], 
+      "housenumber": "9B", 
       "lat": 50.988360936995, 
       "lon": 5.057435101213, 
       "municipality": "Diest", 

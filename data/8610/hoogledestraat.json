@@ -533,8 +533,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.024268087105, 
-      "lon": 3.043639045814, 
+      "lat": 51.024262729911, 
+      "lon": 3.043634350495, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -557,8 +557,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.024221535789, 
-      "lon": 3.043672722375, 
+      "lat": 51.024221105553, 
+      "lon": 3.043682428238, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -754,6 +754,45 @@
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hoogledestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "35A"
+      ], 
+      "housenumber": "35A", 
+      "lat": 51.022458633361, 
+      "lon": 3.045027191709, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogledestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "35B"
+      ], 
+      "housenumber": "35B", 
+      "lat": 51.022301933231, 
+      "lon": 3.045083506861, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogledestraat"
     }, 
     {

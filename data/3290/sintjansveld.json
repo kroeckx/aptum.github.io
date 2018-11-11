@@ -213,22 +213,16 @@
       "street": "Sint-Jansveld"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "18-18A"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.982295632571, 
-      "lon": 5.05905581028, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Jansveld"
-    }, 
-    {
-      "hnrlbls": [
-        "18-18A"
-      ], 
-      "housenumber": "18A", 
       "lat": 50.982295632571, 
       "lon": 5.05905581028, 
       "municipality": "Diest", 

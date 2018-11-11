@@ -245,11 +245,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.772416203484, 
-      "lon": 3.237291088829, 
+      "lat": 50.772404550686, 
+      "lon": 3.237480936248, 
       "municipality": "Kortrijk", 
       "pcode": "8511", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Talpenhoekstraat"
     }, 
     {
@@ -298,6 +298,18 @@
       "municipality": "Kortrijk", 
       "pcode": "8511", 
       "source": "afgeleidVanGebouw", 
+      "street": "Talpenhoekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.772149277373, 
+      "lon": 3.234010497637, 
+      "municipality": "Kortrijk", 
+      "pcode": "8511", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Talpenhoekstraat"
     }, 
     {

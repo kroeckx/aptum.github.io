@@ -61,6 +61,23 @@
       "street": "Bosstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "16B"
+      ], 
+      "housenumber": "16B", 
+      "lat": 51.132571187493, 
+      "lon": 4.336457638553, 
+      "municipality": "Hemiksem", 
+      "pcode": "2620", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Bosstraat"
+    }, 
+    {
       "hnrlbls": [
         "18"
       ], 

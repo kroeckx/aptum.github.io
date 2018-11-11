@@ -2,11 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-1C"
       ], 
       "housenumber": "1", 
-      "lat": 50.865843778303, 
-      "lon": 4.749371169715, 
+      "lat": 50.866511082055, 
+      "lon": 4.749977051773, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
       "source": "afgeleidVanGebouw", 
@@ -1291,11 +1291,35 @@
     }, 
     {
       "hnrlbls": [
-        "1B"
+        "1A"
       ], 
-      "housenumber": "1B", 
+      "housenumber": "1A", 
       "lat": 50.866030983166, 
       "lon": 4.749026220071, 
+      "municipality": "Bierbeek", 
+      "pcode": "3360", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1-1C"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.866511082055, 
+      "lon": 4.749977051773, 
+      "municipality": "Bierbeek", 
+      "pcode": "3360", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1-1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.866511082055, 
+      "lon": 4.749977051773, 
       "municipality": "Bierbeek", 
       "pcode": "3360", 
       "source": "afgeleidVanGebouw", 
@@ -2843,18 +2867,6 @@
       "municipality": "Bierbeek", 
       "pcode": "3360", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tiensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.865122368808, 
-      "lon": 4.748788446978, 
-      "municipality": "Bierbeek", 
-      "pcode": "3360", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Tiensesteenweg"
     }, 
     {

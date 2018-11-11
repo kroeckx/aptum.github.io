@@ -259,7 +259,10 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "31-33"
@@ -269,7 +272,7 @@
       "lon": 4.442139323872, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heirmanstraat"
     }, 
     {

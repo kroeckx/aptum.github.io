@@ -1528,6 +1528,22 @@
       "street": "Boomlaarstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "1B-228B"
+      ], 
+      "housenumber": "226B", 
+      "lat": 51.13214926699, 
+      "lon": 4.553045931557, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Boomlaarstraat"
+    }, 
+    {
       "hnrlbls": [
         "227"
       ], 
@@ -1565,6 +1581,26 @@
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Boomlaarstraat"
+    }, 
+    {
+      "busnrs": [
+        "10", 
+        "14", 
+        "3", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "1B-228B"
+      ], 
+      "housenumber": "228B", 
+      "lat": 51.13214926699, 
+      "lon": 4.553045931557, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Boomlaarstraat"
     }, 
     {

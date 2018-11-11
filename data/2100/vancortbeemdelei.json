@@ -2041,12 +2041,16 @@
       "street": "Van Cortbeemdelei"
     }, 
     {
-      "busnrs": [
-        "256", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "254-256"
+        "254"
       ], 
       "housenumber": "254", 
       "lat": 51.233475569654, 
@@ -2063,18 +2067,6 @@
       "housenumber": "255", 
       "lat": 51.233702554136, 
       "lon": 4.450232113758, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Cortbeemdelei"
-    }, 
-    {
-      "hnrlbls": [
-        "254-256"
-      ], 
-      "housenumber": "256", 
-      "lat": 51.233475569654, 
-      "lon": 4.451556479514, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3075,36 +3067,29 @@
       "street": "Van Cortbeemdelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "377"
+      ], 
+      "housenumber": "377", 
+      "lat": 51.233860233527, 
+      "lon": 4.455343083882, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Van Cortbeemdelei"
+    }, 
+    {
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
       "lat": 51.231513643517, 
       "lon": 4.44457178772, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Cortbeemdelei"
-    }, 
-    {
-      "hnrlbls": [
-        "387"
-      ], 
-      "housenumber": "387", 
-      "lat": 51.233906339516, 
-      "lon": 4.456076501464, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Cortbeemdelei"
-    }, 
-    {
-      "hnrlbls": [
-        "389"
-      ], 
-      "housenumber": "389", 
-      "lat": 51.233885873531, 
-      "lon": 4.456160362065, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3120,6 +3105,48 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
+      "street": "Van Cortbeemdelei"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "107", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "305", 
+        "306", 
+        "307"
+      ], 
+      "hnrlbls": [
+        "390"
+      ], 
+      "housenumber": "390", 
+      "lat": 51.233939121905, 
+      "lon": 4.455868389917, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Cortbeemdelei"
     }, 
     {

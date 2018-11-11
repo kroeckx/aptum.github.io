@@ -1073,6 +1073,7 @@
     {
       "apptnrs": [
         "0", 
+        "03/1", 
         "2", 
         "3", 
         "3/2", 
@@ -1198,6 +1199,18 @@
       "housenumber": "218", 
       "lat": 50.934615879068, 
       "lon": 4.438924586753, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nijverheidsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.929321747919, 
+      "lon": 4.435211577525, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 

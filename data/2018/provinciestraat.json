@@ -437,6 +437,10 @@
       "street": "Provinciestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -446,6 +450,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Provinciestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "129A"
+      ], 
+      "housenumber": "129A", 
+      "lat": 51.21367002186, 
+      "lon": 4.426029144053, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Provinciestraat"
     }, 
     {
@@ -907,6 +923,11 @@
       "street": "Provinciestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -935,6 +956,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -1028,8 +1050,13 @@
       "street": "Provinciestraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501"
       ], 
       "hnrlbls": [
         "17-17A"
@@ -1278,11 +1305,11 @@
         "182-184"
       ], 
       "housenumber": "182", 
-      "lat": 51.212182412967, 
-      "lon": 4.425898499461, 
+      "lat": 51.212182950381, 
+      "lon": 4.425902363992, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Provinciestraat"
     }, 
     {
@@ -1302,11 +1329,11 @@
         "182-184"
       ], 
       "housenumber": "184", 
-      "lat": 51.212182412967, 
-      "lon": 4.425898499461, 
+      "lat": 51.212182950381, 
+      "lon": 4.425902363992, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Provinciestraat"
     }, 
     {
@@ -2051,11 +2078,11 @@
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 51.209797948693, 
-      "lon": 4.425190494746, 
+      "lat": 51.209798305395, 
+      "lon": 4.425196362232, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Provinciestraat"
     }, 
     {
@@ -2807,9 +2834,6 @@
       "street": "Provinciestraat"
     }, 
     {
-      "busnrs": [
-        "9"
-      ], 
       "hnrlbls": [
         "322"
       ], 

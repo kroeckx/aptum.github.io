@@ -101,11 +101,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.876893663547, 
-      "lon": 4.165803911631, 
+      "lat": 50.876335430582, 
+      "lon": 4.167698156162, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Assesteenweg"
     }, 
     {
@@ -389,11 +389,11 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 50.874098549693, 
-      "lon": 4.1632543023, 
+      "lat": 50.873995273798, 
+      "lon": 4.163468009186, 
       "municipality": "Ternat", 
       "pcode": "1740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Assesteenweg"
     }, 
     {
@@ -1070,6 +1070,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "bus1", 
         "bus2"
       ], 

@@ -313,6 +313,11 @@
       "street": "Schijfstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -433,15 +438,12 @@
       "street": "Schijfstraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "4-6"
       ], 
       "housenumber": "4", 
-      "lat": 51.189876061244, 
-      "lon": 4.377387237032, 
+      "lat": 51.189958936276, 
+      "lon": 4.37737309285, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -634,8 +636,8 @@
         "4-6"
       ], 
       "housenumber": "6", 
-      "lat": 51.189876061244, 
-      "lon": 4.377387237032, 
+      "lat": 51.189958936276, 
+      "lon": 4.37737309285, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -940,6 +942,11 @@
       "street": "Schijfstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "83"
       ], 

@@ -19,6 +19,38 @@
       "street": "Begijnhofplein"
     }, 
     {
+      "busnrs": [
+        "10", 
+        "14", 
+        "15"
+      ], 
+      "hnrlbls": [
+        "11B-15B"
+      ], 
+      "housenumber": "11B", 
+      "lat": 50.95413056646, 
+      "lon": 5.090619268176, 
+      "municipality": "Halen", 
+      "pcode": "3545", 
+      "source": "afgeleidVanGemeente", 
+      "street": "Begijnhofplein"
+    }, 
+    {
+      "busnrs": [
+        "5"
+      ], 
+      "hnrlbls": [
+        "11B-15B"
+      ], 
+      "housenumber": "15B", 
+      "lat": 50.95413056646, 
+      "lon": 5.090619268176, 
+      "municipality": "Halen", 
+      "pcode": "3545", 
+      "source": "afgeleidVanGemeente", 
+      "street": "Begijnhofplein"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 

@@ -1,15 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.044314650502, 
-      "lon": 3.912213068687, 
+      "lat": 51.044270910175, 
+      "lon": 3.912152891637, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schriekstraat"
     }, 
     {
@@ -170,11 +173,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A-1B"
+        "1B-10101"
       ], 
-      "housenumber": "1A", 
-      "lat": 51.044389621413, 
-      "lon": 3.912190236218, 
+      "housenumber": "1B", 
+      "lat": 51.044197879472, 
+      "lon": 3.912235737766, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 
@@ -182,11 +185,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A-1B"
+        "1B-10101"
       ], 
-      "housenumber": "1B", 
-      "lat": 51.044389621413, 
-      "lon": 3.912190236218, 
+      "housenumber": "1_0101", 
+      "lat": 51.044197879472, 
+      "lon": 3.912235737766, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 
@@ -235,6 +238,18 @@
       "housenumber": "21", 
       "lat": 51.046154104619, 
       "lon": 3.912215117972, 
+      "municipality": "Laarne", 
+      "pcode": "9270", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schriekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 51.046297335656, 
+      "lon": 3.912177502222, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 
@@ -696,11 +711,11 @@
         "51A"
       ], 
       "housenumber": "51A", 
-      "lat": 51.048997497395, 
-      "lon": 3.910903935979, 
+      "lat": 51.051273047125, 
+      "lon": 3.910869014872, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schriekstraat"
     }, 
     {
@@ -1080,11 +1095,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.055092041566, 
-      "lon": 3.909797363049, 
+      "lat": 51.055086325234, 
+      "lon": 3.90992236146, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schriekstraat"
     }, 
     {

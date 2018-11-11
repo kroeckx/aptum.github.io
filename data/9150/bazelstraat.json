@@ -297,6 +297,22 @@
       "street": "Bazelstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "122A"
+      ], 
+      "housenumber": "122A", 
+      "lat": 51.164462016803, 
+      "lon": 4.308611930008, 
+      "municipality": "Kruibeke", 
+      "pcode": "9150", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bazelstraat"
+    }, 
+    {
       "hnrlbls": [
         "122B"
       ], 
@@ -766,8 +782,8 @@
         "157B"
       ], 
       "housenumber": "157B", 
-      "lat": 51.164908145748, 
-      "lon": 4.308129010909, 
+      "lat": 51.16491595449, 
+      "lon": 4.308106698937, 
       "municipality": "Kruibeke", 
       "pcode": "9150", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2349,8 +2365,20 @@
         "288"
       ], 
       "housenumber": "288", 
-      "lat": 51.156511815814, 
-      "lon": 4.301434541338, 
+      "lat": 51.156509305053, 
+      "lon": 4.301445265081, 
+      "municipality": "Kruibeke", 
+      "pcode": "9150", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bazelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "290"
+      ], 
+      "housenumber": "290", 
+      "lat": 51.156410194792, 
+      "lon": 4.301346495335, 
       "municipality": "Kruibeke", 
       "pcode": "9150", 
       "source": "manueleAanduidingVanGebouw", 

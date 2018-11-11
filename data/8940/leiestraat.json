@@ -18,6 +18,11 @@
       "street": "Leiestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -36,18 +41,6 @@
       "housenumber": "11", 
       "lat": 50.777394341006, 
       "lon": 3.042508537522, 
-      "municipality": "Wervik", 
-      "pcode": "8940", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.777294153904, 
-      "lon": 3.04339609018, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -540,7 +533,6 @@
     {
       "apptnrs": [
         "0001", 
-        "0002", 
         "0101"
       ], 
       "hnrlbls": [

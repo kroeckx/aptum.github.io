@@ -979,26 +979,14 @@
     }, 
     {
       "hnrlbls": [
-        "82-82A"
+        "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.292216233146, 
-      "lon": 4.477302660825, 
+      "lat": 51.292214433804, 
+      "lon": 4.477304520182, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zegersdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "82-82A"
-      ], 
-      "housenumber": "82A", 
-      "lat": 51.292216233146, 
-      "lon": 4.477302660825, 
-      "municipality": "Brasschaat", 
-      "pcode": "2930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zegersdreef"
     }, 
     {

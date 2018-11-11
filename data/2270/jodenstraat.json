@@ -661,8 +661,8 @@
         "25-25B"
       ], 
       "housenumber": "25", 
-      "lat": 51.13833331959, 
-      "lon": 4.754791100282, 
+      "lat": 51.138356276893, 
+      "lon": 4.754752712262, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
       "source": "afgeleidVanGebouw", 
@@ -673,8 +673,8 @@
         "25-25B"
       ], 
       "housenumber": "25A", 
-      "lat": 51.13833331959, 
-      "lon": 4.754791100282, 
+      "lat": 51.138356276893, 
+      "lon": 4.754752712262, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
       "source": "afgeleidVanGebouw", 
@@ -685,8 +685,8 @@
         "25-25B"
       ], 
       "housenumber": "25B", 
-      "lat": 51.13833331959, 
-      "lon": 4.754791100282, 
+      "lat": 51.138356276893, 
+      "lon": 4.754752712262, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
       "source": "afgeleidVanGebouw", 
@@ -779,11 +779,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.138310191813, 
-      "lon": 4.754662029549, 
+      "lat": 51.138325027562, 
+      "lon": 4.75463329023, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jodenstraat"
     }, 
     {
@@ -819,8 +819,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.13813182053, 
-      "lon": 4.754562536851, 
+      "lat": 51.13813163842, 
+      "lon": 4.75456324975, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
       "source": "afgeleidVanGebouw", 
@@ -846,8 +846,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.138264228575, 
-      "lon": 4.754451756194, 
+      "lat": 51.138304911606, 
+      "lon": 4.75446280884, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
       "source": "afgeleidVanGebouw", 
@@ -993,11 +993,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.138489410431, 
-      "lon": 4.753265410503, 
+      "lat": 51.138401626015, 
+      "lon": 4.753336984847, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jodenstraat"
     }, 
     {
@@ -1777,18 +1777,6 @@
       "housenumber": "84", 
       "lat": 51.138113808914, 
       "lon": 4.750655448736, 
-      "municipality": "Herenthout", 
-      "pcode": "2270", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jodenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "84A"
-      ], 
-      "housenumber": "84A", 
-      "lat": 51.13818139125, 
-      "lon": 4.750687293259, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
       "source": "afgeleidVanGebouw", 

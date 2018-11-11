@@ -482,6 +482,18 @@
     }, 
     {
       "hnrlbls": [
+        "1042"
+      ], 
+      "housenumber": "1042", 
+      "lat": 51.346804082638, 
+      "lon": 4.538175280069, 
+      "municipality": "Wuustwezel", 
+      "pcode": "2990", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bredabaan"
+    }, 
+    {
+      "hnrlbls": [
         "1043"
       ], 
       "housenumber": "1043", 
@@ -701,11 +713,11 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.415026172604, 
-      "lon": 4.616789537446, 
+      "lat": 51.415022112227, 
+      "lon": 4.61679713349, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bredabaan"
     }, 
     {
@@ -1322,11 +1334,11 @@
         "158-160"
       ], 
       "housenumber": "158", 
-      "lat": 51.410833941418, 
-      "lon": 4.612463702186, 
+      "lat": 51.410661875407, 
+      "lon": 4.612745490774, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -1334,11 +1346,11 @@
         "158-160"
       ], 
       "housenumber": "160", 
-      "lat": 51.410833941418, 
-      "lon": 4.612463702186, 
+      "lat": 51.410661875407, 
+      "lon": 4.612745490774, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -2282,11 +2294,11 @@
         "25-33"
       ], 
       "housenumber": "25", 
-      "lat": 51.423304376843, 
-      "lon": 4.622177221853, 
+      "lat": 51.42330437715, 
+      "lon": 4.622177078097, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bredabaan"
     }, 
     {
@@ -2721,7 +2733,9 @@
         "bus3"
       ], 
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "289"
@@ -2739,11 +2753,11 @@
         "25-33"
       ], 
       "housenumber": "29", 
-      "lat": 51.423304376843, 
-      "lon": 4.622177221853, 
+      "lat": 51.42330437715, 
+      "lon": 4.622177078097, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bredabaan"
     }, 
     {
@@ -3219,11 +3233,11 @@
         "25-33"
       ], 
       "housenumber": "33", 
-      "lat": 51.423304376843, 
-      "lon": 4.622177221853, 
+      "lat": 51.42330437715, 
+      "lon": 4.622177078097, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bredabaan"
     }, 
     {
@@ -3611,8 +3625,8 @@
         "366"
       ], 
       "housenumber": "366", 
-      "lat": 51.393917849192, 
-      "lon": 4.596106175706, 
+      "lat": 51.393930756134, 
+      "lon": 4.596124628398, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
@@ -4143,8 +4157,8 @@
         "419A-425C"
       ], 
       "housenumber": "419A", 
-      "lat": 51.390962923058, 
-      "lon": 4.593288913277, 
+      "lat": 51.390962833181, 
+      "lon": 4.593288912841, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
@@ -4159,8 +4173,8 @@
         "419A-425C"
       ], 
       "housenumber": "419B", 
-      "lat": 51.390962923058, 
-      "lon": 4.593288913277, 
+      "lat": 51.390962833181, 
+      "lon": 4.593288912841, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
@@ -4175,8 +4189,8 @@
         "419A-425C"
       ], 
       "housenumber": "419C", 
-      "lat": 51.390962923058, 
-      "lon": 4.593288913277, 
+      "lat": 51.390962833181, 
+      "lon": 4.593288912841, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
@@ -4246,8 +4260,8 @@
         "419A-425C"
       ], 
       "housenumber": "425A", 
-      "lat": 51.390962923058, 
-      "lon": 4.593288913277, 
+      "lat": 51.390962833181, 
+      "lon": 4.593288912841, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
@@ -4261,8 +4275,8 @@
         "419A-425C"
       ], 
       "housenumber": "425B", 
-      "lat": 51.390962923058, 
-      "lon": 4.593288913277, 
+      "lat": 51.390962833181, 
+      "lon": 4.593288912841, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
@@ -4277,23 +4291,32 @@
         "419A-425C"
       ], 
       "housenumber": "425C", 
-      "lat": 51.390962923058, 
-      "lon": 4.593288913277, 
+      "lat": 51.390962833181, 
+      "lon": 4.593288912841, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "bus1", 
+        "bus3", 
+        "bus5"
+      ], 
+      "busnrs": [
+        "bus2", 
+        "bus4"
+      ], 
       "hnrlbls": [
         "427"
       ], 
       "housenumber": "427", 
-      "lat": 51.390367322733, 
-      "lon": 4.593278124528, 
+      "lat": 51.390643186174, 
+      "lon": 4.59307374595, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -4309,15 +4332,26 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4", 
+        "b5", 
+        "b6", 
+        "b7", 
+        "b8", 
+        "b9"
+      ], 
       "hnrlbls": [
         "427B"
       ], 
       "housenumber": "427B", 
-      "lat": 51.390462220855, 
-      "lon": 4.593000610496, 
+      "lat": 51.390496851261, 
+      "lon": 4.5929387188, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -4333,6 +4367,19 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "10", 
+        "11", 
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4", 
+        "b5", 
+        "b6", 
+        "b7", 
+        "b8", 
+        "b9"
+      ], 
       "hnrlbls": [
         "427D"
       ], 
@@ -5506,6 +5553,7 @@
         "1", 
         "2", 
         "3", 
+        "4", 
         "5"
       ], 
       "hnrlbls": [
@@ -5548,6 +5596,18 @@
       "housenumber": "512B", 
       "lat": 51.38844082756, 
       "lon": 4.589436357033, 
+      "municipality": "Wuustwezel", 
+      "pcode": "2990", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bredabaan"
+    }, 
+    {
+      "hnrlbls": [
+        "512C"
+      ], 
+      "housenumber": "512C", 
+      "lat": 51.388407443351, 
+      "lon": 4.589312946681, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5605,6 +5665,9 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "7"
+      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -5746,15 +5809,17 @@
         "524"
       ], 
       "housenumber": "524", 
-      "lat": 51.387723487074, 
-      "lon": 4.588532126073, 
+      "lat": 51.38805107266, 
+      "lon": 4.588252273513, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bredabaan"
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3", 
         "4", 
         "5"

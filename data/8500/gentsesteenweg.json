@@ -1122,6 +1122,15 @@
       "street": "Gentsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -1435,8 +1444,8 @@
         "242"
       ], 
       "housenumber": "242", 
-      "lat": 50.838435277312, 
-      "lon": 3.285584935229, 
+      "lat": 50.83843173168, 
+      "lon": 3.28559041224, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 

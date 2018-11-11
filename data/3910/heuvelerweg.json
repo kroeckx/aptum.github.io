@@ -257,11 +257,23 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.238442441752, 
-      "lon": 5.470725766855, 
+      "lat": 51.238564781067, 
+      "lon": 5.470851672499, 
       "municipality": "Neerpelt", 
       "pcode": "3910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Heuvelerweg"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 51.23854223642, 
+      "lon": 5.470454324245, 
+      "municipality": "Neerpelt", 
+      "pcode": "3910", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heuvelerweg"
     }, 
     {

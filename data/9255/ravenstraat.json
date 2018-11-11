@@ -692,7 +692,7 @@
     }, 
     {
       "hnrlbls": [
-        "18"
+        "18-18A"
       ], 
       "housenumber": "18", 
       "lat": 50.995113521229, 
@@ -724,6 +724,21 @@
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Ravenstraat"
+    }, 
+    {
+      "busnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "18-18A"
+      ], 
+      "housenumber": "18A", 
+      "lat": 50.995113521229, 
+      "lon": 4.177211885831, 
+      "municipality": "Buggenhout", 
+      "pcode": "9255", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ravenstraat"
     }, 
     {

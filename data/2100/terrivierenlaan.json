@@ -482,8 +482,10 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "135"
@@ -798,9 +800,6 @@
       "street": "Ter Rivierenlaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "159"
       ], 

@@ -65,11 +65,11 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.314123151904, 
-      "lon": 5.056326769702, 
+      "lat": 51.313793969308, 
+      "lon": 5.056253917381, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schotelven"
     }, 
     {
@@ -454,6 +454,18 @@
       "housenumber": "21", 
       "lat": 51.315239609303, 
       "lon": 5.065028639933, 
+      "municipality": "Arendonk", 
+      "pcode": "2370", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schotelven"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.315914204396, 
+      "lon": 5.0631444468, 
       "municipality": "Arendonk", 
       "pcode": "2370", 
       "source": "afgeleidVanGebouw", 

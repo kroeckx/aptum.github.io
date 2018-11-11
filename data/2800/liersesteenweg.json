@@ -1282,11 +1282,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.034290199828, 
-      "lon": 4.484226383209, 
+      "lat": 51.034298509063, 
+      "lon": 4.484186486335, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Liersesteenweg"
     }, 
     {
@@ -2633,7 +2633,7 @@
     }, 
     {
       "hnrlbls": [
-        "311-311A"
+        "311"
       ], 
       "housenumber": "311", 
       "lat": 51.04186586852, 
@@ -2645,11 +2645,11 @@
     }, 
     {
       "hnrlbls": [
-        "311-311A"
+        "311A-315"
       ], 
       "housenumber": "311A", 
-      "lat": 51.04186586852, 
-      "lon": 4.476968617021, 
+      "lat": 51.04194506313, 
+      "lon": 4.476966805074, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2669,14 +2669,14 @@
     }, 
     {
       "hnrlbls": [
-        "313"
+        "311A-315"
       ], 
       "housenumber": "313", 
-      "lat": 51.04192135191, 
-      "lon": 4.476945504644, 
+      "lat": 51.04194506313, 
+      "lon": 4.476966805074, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Liersesteenweg"
     }, 
     {
@@ -2705,14 +2705,14 @@
     }, 
     {
       "hnrlbls": [
-        "315"
+        "311A-315"
       ], 
       "housenumber": "315", 
-      "lat": 51.041977173502, 
-      "lon": 4.476945491905, 
+      "lat": 51.04194506313, 
+      "lon": 4.476966805074, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Liersesteenweg"
     }, 
     {
@@ -2741,7 +2741,7 @@
     }, 
     {
       "hnrlbls": [
-        "317-317A"
+        "317"
       ], 
       "housenumber": "317", 
       "lat": 51.042022729614, 
@@ -2753,11 +2753,11 @@
     }, 
     {
       "hnrlbls": [
-        "317-317A"
+        "317A"
       ], 
       "housenumber": "317A", 
-      "lat": 51.042022729614, 
-      "lon": 4.476964989565, 
+      "lat": 51.042101654551, 
+      "lon": 4.476963176978, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2796,8 +2796,8 @@
         "319A"
       ], 
       "housenumber": "319A", 
-      "lat": 51.042101654551, 
-      "lon": 4.476963176978, 
+      "lat": 51.042243323891, 
+      "lon": 4.476959941903, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -3057,11 +3057,11 @@
     }, 
     {
       "hnrlbls": [
-        "321A-325A"
+        "321A"
       ], 
       "housenumber": "321A", 
-      "lat": 51.042305798495, 
-      "lon": 4.476958661376, 
+      "lat": 51.042384903335, 
+      "lon": 4.476956706599, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -3081,7 +3081,7 @@
     }, 
     {
       "hnrlbls": [
-        "323A"
+        "323A-325A"
       ], 
       "housenumber": "323A", 
       "lat": 51.042462659697, 
@@ -3105,11 +3105,11 @@
     }, 
     {
       "hnrlbls": [
-        "321A-325A"
+        "323A-325A"
       ], 
       "housenumber": "325A", 
-      "lat": 51.042305798495, 
-      "lon": 4.476958661376, 
+      "lat": 51.042462659697, 
+      "lon": 4.476954891266, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -4292,6 +4292,18 @@
     }, 
     {
       "hnrlbls": [
+        "409A"
+      ], 
+      "housenumber": "409A", 
+      "lat": 51.047555729416, 
+      "lon": 4.47916082784, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Liersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "40A"
       ], 
       "housenumber": "40A", 
@@ -4674,11 +4686,23 @@
         "435"
       ], 
       "housenumber": "435", 
-      "lat": 51.049419795536, 
-      "lon": 4.479610048724, 
+      "lat": 51.05132190276, 
+      "lon": 4.475796226936, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Liersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "435A"
+      ], 
+      "housenumber": "435A", 
+      "lat": 51.050665046006, 
+      "lon": 4.478550127193, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Liersesteenweg"
     }, 
     {

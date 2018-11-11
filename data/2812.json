@@ -34,7 +34,7 @@
       "b": 51.004511531173, 
       "l": 4.517208882023, 
       "name": "Baarbeekstraat", 
-      "numOfAddr": 21, 
+      "numOfAddr": 22, 
       "r": 4.523912642834, 
       "sanName": "baarbeekstraat", 
       "t": 51.005508950719
@@ -380,7 +380,7 @@
       "numOfAddr": 66, 
       "r": 4.512672955164, 
       "sanName": "plankendaalstraat", 
-      "t": 51.00704130068
+      "t": 51.007099719635
     }, 
     {
       "b": 50.995526665485, 
@@ -405,6 +405,9 @@
       "l": 4.510526367023, 
       "name": "Rateaulaan", 
       "numOfAddr": 27, 
+      "otherPCs": [
+        "2800"
+      ], 
       "r": 4.512056495783, 
       "sanName": "rateaulaan", 
       "t": 51.007341091548

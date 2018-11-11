@@ -402,8 +402,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.218894462147, 
-      "lon": 4.40221535365, 
+      "lat": 51.218890956013, 
+      "lon": 4.402217641108, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -414,8 +414,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.218806557902, 
-      "lon": 4.402207560435, 
+      "lat": 51.218802243184, 
+      "lon": 4.40220855916, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -490,11 +490,23 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.21794278058, 
-      "lon": 4.402181451851, 
+      "lat": 51.218077954599, 
+      "lon": 4.402221196156, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
+      "street": "Groenplaats"
+    }, 
+    {
+      "hnrlbls": [
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 51.218283340619, 
+      "lon": 4.402217196006, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Groenplaats"
     }, 
     {

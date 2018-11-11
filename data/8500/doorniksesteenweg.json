@@ -624,11 +624,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.805775621845, 
-      "lon": 3.282064382464, 
+      "lat": 50.805788354142, 
+      "lon": 3.284750965443, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Doorniksesteenweg"
     }, 
     {
@@ -660,8 +660,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.816678489701, 
-      "lon": 3.271541183794, 
+      "lat": 50.816679598879, 
+      "lon": 3.27161169129, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -677,6 +677,18 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Doorniksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "151"
+      ], 
+      "housenumber": "151", 
+      "lat": 50.805018953457, 
+      "lon": 3.282333690704, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Doorniksesteenweg"
     }, 
     {
@@ -717,6 +729,18 @@
     }, 
     {
       "hnrlbls": [
+        "157"
+      ], 
+      "housenumber": "157", 
+      "lat": 50.804853116105, 
+      "lon": 3.282425201031, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Doorniksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "158"
       ], 
       "housenumber": "158", 
@@ -725,6 +749,18 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Doorniksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "159"
+      ], 
+      "housenumber": "159", 
+      "lat": 50.804761492862, 
+      "lon": 3.282472717507, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Doorniksesteenweg"
     }, 
     {

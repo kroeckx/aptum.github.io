@@ -297,16 +297,12 @@
       "street": "Hoge Kaart"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "1001"
-      ], 
       "hnrlbls": [
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.303356309944, 
-      "lon": 4.479112106077, 
+      "lat": 51.303388624529, 
+      "lon": 4.479157493353, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -319,22 +315,6 @@
       "housenumber": "123", 
       "lat": 51.304701979182, 
       "lon": 4.478950274283, 
-      "municipality": "Brasschaat", 
-      "pcode": "2930", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hoge Kaart"
-    }, 
-    {
-      "apptnrs": [
-        "0001", 
-        "1001"
-      ], 
-      "hnrlbls": [
-        "124"
-      ], 
-      "housenumber": "124", 
-      "lat": 51.303387953665, 
-      "lon": 4.479201941604, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1477,6 +1457,18 @@
     }, 
     {
       "hnrlbls": [
+        "212"
+      ], 
+      "housenumber": "212", 
+      "lat": 51.306161945041, 
+      "lon": 4.483896010945, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoge Kaart"
+    }, 
+    {
+      "hnrlbls": [
         "213A"
       ], 
       "housenumber": "213A", 
@@ -1518,6 +1510,18 @@
       "housenumber": "213D", 
       "lat": 51.310232804535, 
       "lon": 4.484741924187, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoge Kaart"
+    }, 
+    {
+      "hnrlbls": [
+        "214"
+      ], 
+      "housenumber": "214", 
+      "lat": 51.306192804654, 
+      "lon": 4.483956743954, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1684,8 +1688,8 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 51.307594154642, 
-      "lon": 4.485580792601, 
+      "lat": 51.307594150659, 
+      "lon": 4.48558480778, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 

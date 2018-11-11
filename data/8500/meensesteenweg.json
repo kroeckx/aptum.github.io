@@ -66,6 +66,10 @@
       "street": "Meensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0021", 
+        "0022"
+      ], 
       "busnrs": [
         "0011", 
         "0012"
@@ -100,6 +104,21 @@
       "housenumber": "123", 
       "lat": 50.827994127874, 
       "lon": 3.245949972375, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Meensesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "011"
+      ], 
+      "hnrlbls": [
+        "123A"
+      ], 
+      "housenumber": "123A", 
+      "lat": 50.827977625199, 
+      "lon": 3.245972936708, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanGebouw", 

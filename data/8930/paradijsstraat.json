@@ -89,8 +89,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 50.761932934972, 
-      "lon": 3.177518892637, 
+      "lat": 50.761934232286, 
+      "lon": 3.17752268725, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -238,8 +238,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.7632332788, 
-      "lon": 3.176431463836, 
+      "lat": 50.763234800081, 
+      "lon": 3.176421927421, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -479,6 +479,18 @@
     }, 
     {
       "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.767337872603, 
+      "lon": 3.166797496889, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Paradijsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -496,18 +508,6 @@
       "housenumber": "25", 
       "lat": 50.769425220149, 
       "lon": 3.166677320352, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Paradijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.769335917882, 
-      "lon": 3.166683852407, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -542,8 +542,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.769962128619, 
-      "lon": 3.166692259721, 
+      "lat": 50.76996748537, 
+      "lon": 3.166688578521, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -727,38 +727,38 @@
         "0104"
       ], 
       "hnrlbls": [
-        "57-73"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.768420907961, 
-      "lon": 3.16688456143, 
+      "lat": 50.768374237508, 
+      "lon": 3.16684874861, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paradijsstraat"
     }, 
     {
       "hnrlbls": [
-        "57-73"
+        "59-73"
       ], 
       "housenumber": "59", 
       "lat": 50.768420907961, 
       "lon": 3.16688456143, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paradijsstraat"
     }, 
     {
       "hnrlbls": [
-        "57-73"
+        "59-73"
       ], 
       "housenumber": "61", 
       "lat": 50.768420907961, 
       "lon": 3.16688456143, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paradijsstraat"
     }, 
     {
@@ -768,14 +768,14 @@
         "0201"
       ], 
       "hnrlbls": [
-        "57-73"
+        "59-73"
       ], 
       "housenumber": "63", 
       "lat": 50.768420907961, 
       "lon": 3.16688456143, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paradijsstraat"
     }, 
     {
@@ -785,14 +785,14 @@
         "0201"
       ], 
       "hnrlbls": [
-        "57-73"
+        "59-73"
       ], 
       "housenumber": "65", 
       "lat": 50.768420907961, 
       "lon": 3.16688456143, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paradijsstraat"
     }, 
     {
@@ -802,30 +802,31 @@
         "0201"
       ], 
       "hnrlbls": [
-        "57-73"
+        "59-73"
       ], 
       "housenumber": "67", 
       "lat": 50.768420907961, 
       "lon": 3.16688456143, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paradijsstraat"
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "201"
+        "0201"
       ], 
       "hnrlbls": [
-        "57-73"
+        "59-73"
       ], 
       "housenumber": "69", 
       "lat": 50.768420907961, 
       "lon": 3.16688456143, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paradijsstraat"
     }, 
     {
@@ -842,26 +843,26 @@
     }, 
     {
       "hnrlbls": [
-        "57-73"
+        "59-73"
       ], 
       "housenumber": "71", 
       "lat": 50.768420907961, 
       "lon": 3.16688456143, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paradijsstraat"
     }, 
     {
       "hnrlbls": [
-        "57-73"
+        "59-73"
       ], 
       "housenumber": "73", 
       "lat": 50.768420907961, 
       "lon": 3.16688456143, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paradijsstraat"
     }, 
     {

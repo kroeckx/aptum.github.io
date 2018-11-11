@@ -180,14 +180,14 @@
     }, 
     {
       "hnrlbls": [
-        "1TER-1TER"
+        "1TER"
       ], 
       "housenumber": "1TER", 
       "lat": 51.276930740487, 
       "lon": 3.026266462714, 
       "municipality": "De Haan", 
       "pcode": "8420", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanBrievenbus", 
       "street": "Zeedijk-De Haan"
     }, 
     {
@@ -566,8 +566,13 @@
       "street": "Zeedijk-De Haan"
     }, 
     {
-      "busnrs": [
-        "-101"
+      "apptnrs": [
+        "-101", 
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "35"
@@ -655,8 +660,15 @@
       "street": "Zeedijk-De Haan"
     }, 
     {
-      "busnrs": [
-        "0101"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "39"
@@ -721,14 +733,14 @@
     }, 
     {
       "hnrlbls": [
-        "43TER-43TE"
+        "43TER"
       ], 
       "housenumber": "43TER", 
       "lat": 51.280773681381, 
       "lon": 3.035039509285, 
       "municipality": "De Haan", 
       "pcode": "8420", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanBrievenbus", 
       "street": "Zeedijk-De Haan"
     }, 
     {

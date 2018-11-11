@@ -199,7 +199,7 @@
       "lon": 3.11912955639, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ontvoogdingsstraat"
     }, 
     {
@@ -271,8 +271,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.798198353646, 
-      "lon": 3.119701626068, 
+      "lat": 50.798167169031, 
+      "lon": 3.119643862368, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -533,8 +533,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.797700049143, 
-      "lon": 3.120120865681, 
+      "lat": 50.797700950255, 
+      "lon": 3.120129495581, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -660,6 +660,7 @@
         "0004", 
         "0005", 
         "0101", 
+        "0102", 
         "0103", 
         "0104", 
         "0105", 
@@ -677,7 +678,7 @@
       "lon": 3.119504756963, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ontvoogdingsstraat"
     }, 
     {
@@ -750,6 +751,22 @@
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ontvoogdingsstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.799247516759, 
+      "lon": 3.118303181567, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ontvoogdingsstraat"
     }, 
     {

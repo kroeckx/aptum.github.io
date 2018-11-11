@@ -36,6 +36,24 @@
       "pcode": "2500", 
       "source": "manueleAanduidingVanPerceel", 
       "street": "Paddenweg"
+    }, 
+    {
+      "busnrs": [
+        "3", 
+        "4", 
+        "5", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "1B-228B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.13214926699, 
+      "lon": 4.553045931557, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Paddenweg"
     }
   ]
 }

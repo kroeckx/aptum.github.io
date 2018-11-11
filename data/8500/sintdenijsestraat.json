@@ -1017,7 +1017,7 @@
       "lon": 3.27383319627, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Denijsestraat"
     }, 
     {
@@ -2358,6 +2358,9 @@
       "street": "Sint-Denijsestraat"
     }, 
     {
+      "busnrs": [
+        "C000"
+      ], 
       "hnrlbls": [
         "36"
       ], 

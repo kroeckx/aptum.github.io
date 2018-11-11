@@ -266,7 +266,7 @@
     }, 
     {
       "hnrlbls": [
-        "12-12A"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.85807493232, 
@@ -314,11 +314,11 @@
     }, 
     {
       "hnrlbls": [
-        "12-12A"
+        "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 50.85807493232, 
-      "lon": 5.385785927203, 
+      "lat": 50.858011487838, 
+      "lon": 5.385679158905, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -852,6 +852,18 @@
       "housenumber": "177M", 
       "lat": 50.875835571089, 
       "lon": 5.365406298869, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hasseltsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "177N"
+      ], 
+      "housenumber": "177N", 
+      "lat": 50.875947914918, 
+      "lon": 5.365516107527, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "manueleAanduidingVanPerceel", 

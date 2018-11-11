@@ -136,9 +136,10 @@
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
+      "busnrs": [
+        "00/1", 
+        "0001", 
+        "02/1"
       ], 
       "hnrlbls": [
         "106"
@@ -166,6 +167,7 @@
     {
       "apptnrs": [
         "0", 
+        "00/1", 
         "01/1", 
         "02/1", 
         "03/1", 
@@ -895,11 +897,6 @@
       "street": "Leuvensestraat"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -1027,26 +1024,14 @@
       "street": "Leuvensestraat"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "01/1"
+      ], 
       "hnrlbls": [
-        "160-160A"
+        "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.927579943316, 
-      "lon": 4.432713943717, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leuvensestraat"
-    }, 
-    {
-      "apptnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "160-160A"
-      ], 
-      "housenumber": "160A", 
       "lat": 50.927579943316, 
       "lon": 4.432713943717, 
       "municipality": "Vilvoorde", 
@@ -2426,7 +2411,8 @@
         "00/1", 
         "01/1", 
         "02", 
-        "03"
+        "03", 
+        "1"
       ], 
       "hnrlbls": [
         "95A"

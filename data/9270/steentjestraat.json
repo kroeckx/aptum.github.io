@@ -146,7 +146,7 @@
     }, 
     {
       "hnrlbls": [
-        "112-112A"
+        "112"
       ], 
       "housenumber": "112", 
       "lat": 51.040456919867, 
@@ -158,14 +158,14 @@
     }, 
     {
       "hnrlbls": [
-        "112-112A"
+        "112A"
       ], 
       "housenumber": "112A", 
-      "lat": 51.040456919867, 
-      "lon": 3.880272765117, 
+      "lat": 51.040456654312, 
+      "lon": 3.880664589082, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steentjestraat"
     }, 
     {
@@ -190,11 +190,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.040781734493, 
-      "lon": 3.880759160299, 
+      "lat": 51.040806809108, 
+      "lon": 3.881018689495, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Steentjestraat"
     }, 
     {
@@ -451,18 +451,6 @@
     }, 
     {
       "hnrlbls": [
-        "15A-17"
-      ], 
-      "housenumber": "15A", 
-      "lat": 51.034264778397, 
-      "lon": 3.872385699793, 
-      "municipality": "Laarne", 
-      "pcode": "9270", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Steentjestraat"
-    }, 
-    {
-      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -475,11 +463,11 @@
     }, 
     {
       "hnrlbls": [
-        "15A-17"
+        "17A"
       ], 
-      "housenumber": "17", 
-      "lat": 51.034264778397, 
-      "lon": 3.872385699793, 
+      "housenumber": "17A", 
+      "lat": 51.034404577221, 
+      "lon": 3.872560573575, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 
@@ -487,11 +475,11 @@
     }, 
     {
       "hnrlbls": [
-        "17A"
+        "170001-170"
       ], 
-      "housenumber": "17A", 
-      "lat": 51.034404577221, 
-      "lon": 3.872560573575, 
+      "housenumber": "17_0101", 
+      "lat": 51.034296640092, 
+      "lon": 3.872501981017, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 
@@ -586,11 +574,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.033799536345, 
-      "lon": 3.873078781691, 
+      "lat": 51.033975527129, 
+      "lon": 3.872796639227, 
       "municipality": "Laarne", 
       "pcode": "9270", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steentjestraat"
     }, 
     {
@@ -970,8 +958,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.035806453924, 
-      "lon": 3.875176723809, 
+      "lat": 51.035810763771, 
+      "lon": 3.875175537873, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 

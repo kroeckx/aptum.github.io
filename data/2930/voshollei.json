@@ -185,6 +185,32 @@
       "street": "Voshollei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207", 
+        "301", 
+        "302", 
+        "303", 
+        "304", 
+        "305"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
@@ -381,11 +407,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.285516318809, 
-      "lon": 4.473297307047, 
+      "lat": 51.285041309785, 
+      "lon": 4.472773078563, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Voshollei"
     }, 
     {

@@ -653,23 +653,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.862662609207, 
-      "lon": 5.396004155309, 
+      "lat": 50.862616872999, 
+      "lon": 5.396268087436, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Daaleindestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "52A"
-      ], 
-      "housenumber": "52A", 
-      "lat": 50.862821237262, 
-      "lon": 5.396204940812, 
-      "municipality": "Kortessem", 
-      "pcode": "3720", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Daaleindestraat"
     }, 
     {
@@ -689,11 +677,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.862674161095, 
-      "lon": 5.396296615605, 
+      "lat": 50.862799420545, 
+      "lon": 5.396181024277, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Daaleindestraat"
     }, 
     {

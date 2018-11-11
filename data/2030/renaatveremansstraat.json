@@ -8,14 +8,14 @@
         "22"
       ], 
       "hnrlbls": [
-        "1-3"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.270370582362, 
-      "lon": 4.417219777113, 
+      "lat": 51.270356176281, 
+      "lon": 4.417279798242, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Renaat Veremansstraat"
     }, 
     {
@@ -26,14 +26,14 @@
         "22"
       ], 
       "hnrlbls": [
-        "11-13"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.270357952113, 
-      "lon": 4.416680153186, 
+      "lat": 51.270346640329, 
+      "lon": 4.416647615733, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Renaat Veremansstraat"
     }, 
     {
@@ -44,14 +44,14 @@
         "22"
       ], 
       "hnrlbls": [
-        "11-13"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.270357952113, 
-      "lon": 4.416680153186, 
+      "lat": 51.269414756455, 
+      "lon": 4.416832193693, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Renaat Veremansstraat"
     }, 
     {
@@ -129,14 +129,14 @@
         "54"
       ], 
       "hnrlbls": [
-        "20-20"
+        "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.270442530686, 
-      "lon": 4.41535026946, 
+      "lat": 51.270429496241, 
+      "lon": 4.415354124921, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Renaat Veremansstraat"
     }, 
     {
@@ -177,35 +177,20 @@
     }, 
     {
       "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "2_4"
-      ], 
-      "housenumber": "2_4", 
-      "lat": 51.269920850042, 
-      "lon": 4.417128747286, 
-      "municipality": "Antwerpen", 
-      "pcode": "2030", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Renaat Veremansstraat"
-    }, 
-    {
-      "busnrs": [
         "01", 
         "02", 
         "21", 
         "22"
       ], 
       "hnrlbls": [
-        "1-3"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.270370582362, 
-      "lon": 4.417219777113, 
+      "lat": 51.270397907938, 
+      "lon": 4.417216367117, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Renaat Veremansstraat"
     }, 
     {
@@ -268,11 +253,11 @@
         "5-9"
       ], 
       "housenumber": "5", 
-      "lat": 51.270659490557, 
-      "lon": 4.416937236003, 
+      "lat": 51.270664967208, 
+      "lon": 4.416952143469, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Renaat Veremansstraat"
     }, 
     {
@@ -335,11 +320,11 @@
         "5-9"
       ], 
       "housenumber": "7", 
-      "lat": 51.270659490557, 
-      "lon": 4.416937236003, 
+      "lat": 51.270664967208, 
+      "lon": 4.416952143469, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Renaat Veremansstraat"
     }, 
     {
@@ -402,11 +387,11 @@
         "5-9"
       ], 
       "housenumber": "9", 
-      "lat": 51.270659490557, 
-      "lon": 4.416937236003, 
+      "lat": 51.270664967208, 
+      "lon": 4.416952143469, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Renaat Veremansstraat"
     }
   ]

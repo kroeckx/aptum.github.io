@@ -32,9 +32,9 @@
       "l": 5.405372575801, 
       "name": "Bombroekstraat", 
       "numOfAddr": 4, 
-      "r": 5.406109645958, 
+      "r": 5.406417710316, 
       "sanName": "bombroekstraat", 
-      "t": 50.868646657662
+      "t": 50.868573723271
     }, 
     {
       "b": 50.86606337741, 
@@ -58,7 +58,7 @@
       "b": 50.859149049408, 
       "l": 5.390797763548, 
       "name": "Daaleindestraat", 
-      "numOfAddr": 110, 
+      "numOfAddr": 109, 
       "r": 5.403667236516, 
       "sanName": "daaleindestraat", 
       "t": 50.866637913287
@@ -67,7 +67,7 @@
       "b": 50.857469608184, 
       "l": 5.3869826284, 
       "name": "Dorpsstraat", 
-      "numOfAddr": 66, 
+      "numOfAddr": 56, 
       "r": 5.389133751801, 
       "sanName": "dorpsstraat", 
       "t": 50.859036556089
@@ -86,9 +86,9 @@
       "l": 5.396523354159, 
       "name": "Eendepoelstraat", 
       "numOfAddr": 2, 
-      "r": 5.396995992316, 
+      "r": 5.396915084182, 
       "sanName": "eendepoelstraat", 
-      "t": 50.876260399157
+      "t": 50.876296800019
     }, 
     {
       "b": 50.873946188203, 
@@ -110,18 +110,6 @@
       "r": 5.41975229432, 
       "sanName": "gauwerstraat", 
       "t": 50.865925459965
-    }, 
-    {
-      "b": 50.875947914918, 
-      "l": 5.365516107527, 
-      "name": "Godingolaan", 
-      "numOfAddr": 1, 
-      "otherPCs": [
-        "3723"
-      ], 
-      "r": 5.365516107527, 
-      "sanName": "godingolaan", 
-      "t": 50.875947914918
     }, 
     {
       "b": 50.867075329616, 
@@ -169,10 +157,10 @@
       "t": 50.870793592543
     }, 
     {
-      "b": 50.870302184982, 
-      "l": 5.3799330048, 
+      "b": 50.869857547004, 
+      "l": 5.379158854609, 
       "name": "Haegsmeerstraat", 
-      "numOfAddr": 2, 
+      "numOfAddr": 13, 
       "r": 5.379967161551, 
       "sanName": "haegsmeerstraat", 
       "t": 50.870391842987
@@ -181,7 +169,7 @@
       "b": 50.857334780954, 
       "l": 5.359555401735, 
       "name": "Hasseltsesteenweg", 
-      "numOfAddr": 249, 
+      "numOfAddr": 250, 
       "r": 5.386836007345, 
       "sanName": "hasseltsesteenweg", 
       "t": 50.878877191125
@@ -190,7 +178,7 @@
       "b": 50.873665648711, 
       "l": 5.359746653701, 
       "name": "Herbroekstraat", 
-      "numOfAddr": 40, 
+      "numOfAddr": 39, 
       "r": 5.375587141683, 
       "sanName": "herbroekstraat", 
       "t": 50.879132066476
@@ -377,7 +365,7 @@
       "b": 50.848998482904, 
       "l": 5.373694069684, 
       "name": "Opeindestraat", 
-      "numOfAddr": 147, 
+      "numOfAddr": 149, 
       "r": 5.387053063069, 
       "sanName": "opeindestraat", 
       "t": 50.857476510049
@@ -535,7 +523,7 @@
       "b": 50.861569114186, 
       "l": 5.375679383252, 
       "name": "Veldweg", 
-      "numOfAddr": 26, 
+      "numOfAddr": 30, 
       "r": 5.380432108741, 
       "sanName": "veldweg", 
       "t": 50.862403374119

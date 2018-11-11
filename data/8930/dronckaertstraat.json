@@ -69,7 +69,7 @@
       "lon": 3.168214234035, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -185,8 +185,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.772360658679, 
-      "lon": 3.171560018416, 
+      "lat": 50.772361296567, 
+      "lon": 3.171560852929, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -377,8 +377,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.772361372817, 
-      "lon": 3.169669404224, 
+      "lat": 50.772356463951, 
+      "lon": 3.169672932081, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -485,8 +485,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.7731341468, 
-      "lon": 3.171402115041, 
+      "lat": 50.773140232917, 
+      "lon": 3.171399408123, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -693,7 +693,7 @@
       "lon": 3.170103947334, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -809,8 +809,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.773688655723, 
-      "lon": 3.172224732243, 
+      "lat": 50.773671695993, 
+      "lon": 3.172254372091, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -833,11 +833,11 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.773836823707, 
-      "lon": 3.172356663537, 
+      "lat": 50.773876148034, 
+      "lon": 3.172289589629, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -855,14 +855,14 @@
         "0203"
       ], 
       "hnrlbls": [
-        "163-165"
+        "163"
       ], 
       "housenumber": "163", 
-      "lat": 50.773103277099, 
-      "lon": 3.170669137302, 
+      "lat": 50.773040141396, 
+      "lon": 3.17071115314, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -884,14 +884,14 @@
         "0201"
       ], 
       "hnrlbls": [
-        "163-165"
+        "165"
       ], 
       "housenumber": "165", 
-      "lat": 50.773103277099, 
-      "lon": 3.170669137302, 
+      "lat": 50.773102319559, 
+      "lon": 3.170979964983, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -899,11 +899,11 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.773850124946, 
-      "lon": 3.172796448188, 
+      "lat": 50.773935496483, 
+      "lon": 3.172748339973, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -911,8 +911,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.773001339732, 
-      "lon": 3.170846840041, 
+      "lat": 50.773211724787, 
+      "lon": 3.170829154162, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1028,35 +1028,11 @@
     }, 
     {
       "hnrlbls": [
-        "172"
-      ], 
-      "housenumber": "172", 
-      "lat": 50.774520598068, 
-      "lon": 3.173600696274, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "173-175"
       ], 
       "housenumber": "173", 
       "lat": 50.77369903618, 
       "lon": 3.170662775702, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "174"
-      ], 
-      "housenumber": "174", 
-      "lat": 50.77459903734, 
-      "lon": 3.173657408901, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1076,35 +1052,11 @@
     }, 
     {
       "hnrlbls": [
-        "176"
-      ], 
-      "housenumber": "176", 
-      "lat": 50.774614957442, 
-      "lon": 3.173754984853, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "177"
       ], 
       "housenumber": "177", 
       "lat": 50.773658655938, 
       "lon": 3.170705631245, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "178"
-      ], 
-      "housenumber": "178", 
-      "lat": 50.774712323227, 
-      "lon": 3.173966057416, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1129,18 +1081,6 @@
       "housenumber": "18", 
       "lat": 50.769677619382, 
       "lon": 3.164867442366, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "180"
-      ], 
-      "housenumber": "180", 
-      "lat": 50.774748335043, 
-      "lon": 3.174023705194, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1208,35 +1148,11 @@
     }, 
     {
       "hnrlbls": [
-        "186"
-      ], 
-      "housenumber": "186", 
-      "lat": 50.774844639724, 
-      "lon": 3.174307121246, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "187"
       ], 
       "housenumber": "187", 
       "lat": 50.773378237139, 
       "lon": 3.171198679831, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "188"
-      ], 
-      "housenumber": "188", 
-      "lat": 50.774916579706, 
-      "lon": 3.174308416514, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1268,18 +1184,6 @@
     }, 
     {
       "hnrlbls": [
-        "190"
-      ], 
-      "housenumber": "190", 
-      "lat": 50.774948305764, 
-      "lon": 3.174369009377, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "191"
       ], 
       "housenumber": "191", 
@@ -1288,18 +1192,6 @@
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "192"
-      ], 
-      "housenumber": "192", 
-      "lat": 50.775044033834, 
-      "lon": 3.174401889159, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -1460,18 +1352,6 @@
     }, 
     {
       "hnrlbls": [
-        "208"
-      ], 
-      "housenumber": "208", 
-      "lat": 50.775610554324, 
-      "lon": 3.175611518459, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "209"
       ], 
       "housenumber": "209", 
@@ -1479,7 +1359,7 @@
       "lon": 3.172258525498, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -1496,47 +1376,11 @@
     }, 
     {
       "hnrlbls": [
-        "210"
-      ], 
-      "housenumber": "210", 
-      "lat": 50.775644890409, 
-      "lon": 3.175645956255, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "211"
       ], 
       "housenumber": "211", 
       "lat": 50.774564016864, 
       "lon": 3.172683746094, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "212"
-      ], 
-      "housenumber": "212", 
-      "lat": 50.775646780311, 
-      "lon": 3.175725598497, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "213"
-      ], 
-      "housenumber": "213", 
-      "lat": 50.774554011169, 
-      "lon": 3.172883788115, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1567,55 +1411,7 @@
       "lon": 3.172740789323, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "216"
-      ], 
-      "housenumber": "216", 
-      "lat": 50.775791498175, 
-      "lon": 3.175889963463, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "217"
-      ], 
-      "housenumber": "217", 
-      "lat": 50.774687525456, 
-      "lon": 3.173024745339, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "218"
-      ], 
-      "housenumber": "218", 
-      "lat": 50.775832012589, 
-      "lon": 3.175966075515, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "219"
-      ], 
-      "housenumber": "219", 
-      "lat": 50.774694949025, 
-      "lon": 3.173188329616, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -1625,18 +1421,6 @@
       "housenumber": "22", 
       "lat": 50.769830232222, 
       "lon": 3.165002345071, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "220"
-      ], 
-      "housenumber": "220", 
-      "lat": 50.775869244904, 
-      "lon": 3.176037733268, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1656,254 +1440,11 @@
     }, 
     {
       "hnrlbls": [
-        "222"
-      ], 
-      "housenumber": "222", 
-      "lat": 50.775873883653, 
-      "lon": 3.176140135779, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "223"
-      ], 
-      "housenumber": "223", 
-      "lat": 50.774823139652, 
-      "lon": 3.173380327606, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "224"
-      ], 
-      "housenumber": "224", 
-      "lat": 50.775943118143, 
-      "lon": 3.176175959346, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "225"
-      ], 
-      "housenumber": "225", 
-      "lat": 50.774847915134, 
-      "lon": 3.173535106208, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "226"
-      ], 
-      "housenumber": "226", 
-      "lat": 50.775998513468, 
-      "lon": 3.176442130386, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "227"
-      ], 
-      "housenumber": "227", 
-      "lat": 50.775001922998, 
-      "lon": 3.173543392813, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "228"
-      ], 
-      "housenumber": "228", 
-      "lat": 50.776089649214, 
-      "lon": 3.176651103479, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "229"
-      ], 
-      "housenumber": "229", 
-      "lat": 50.774997543405, 
-      "lon": 3.173704583583, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "230"
-      ], 
-      "housenumber": "230", 
-      "lat": 50.776209635875, 
-      "lon": 3.17694754631, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "231"
-      ], 
-      "housenumber": "231", 
-      "lat": 50.775046265789, 
-      "lon": 3.173800761051, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "232"
-      ], 
-      "housenumber": "232", 
-      "lat": 50.776416002073, 
-      "lon": 3.177206497466, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "233"
-      ], 
-      "housenumber": "233", 
-      "lat": 50.775074325555, 
-      "lon": 3.173916179883, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "234"
-      ], 
-      "housenumber": "234", 
-      "lat": 50.776474071071, 
-      "lon": 3.177302586762, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "235"
-      ], 
-      "housenumber": "235", 
-      "lat": 50.775127573671, 
-      "lon": 3.173971263934, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "236"
-      ], 
-      "housenumber": "236", 
-      "lat": 50.776518348625, 
-      "lon": 3.177395196519, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "237"
-      ], 
-      "housenumber": "237", 
-      "lat": 50.775127502876, 
-      "lon": 3.174061306088, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "238"
-      ], 
-      "housenumber": "238", 
-      "lat": 50.776602724211, 
-      "lon": 3.177452334888, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "239"
-      ], 
-      "housenumber": "239", 
-      "lat": 50.775179606074, 
-      "lon": 3.174101105434, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
       "lat": 50.769858111594, 
       "lon": 3.165073089927, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "240"
-      ], 
-      "housenumber": "240", 
-      "lat": 50.776663289089, 
-      "lon": 3.17755516816, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "241"
-      ], 
-      "housenumber": "241", 
-      "lat": 50.775197192253, 
-      "lon": 3.174176945683, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -1923,155 +1464,11 @@
     }, 
     {
       "hnrlbls": [
-        "243"
-      ], 
-      "housenumber": "243", 
-      "lat": 50.775346519018, 
-      "lon": 3.174405137723, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "249"
-      ], 
-      "housenumber": "249", 
-      "lat": 50.775841060388, 
-      "lon": 3.175080034653, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "250"
-      ], 
-      "housenumber": "250", 
-      "lat": 50.776748773618, 
-      "lon": 3.178367225344, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "251-253"
-      ], 
-      "housenumber": "251", 
-      "lat": 50.775955471637, 
-      "lon": 3.175428936841, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "251-253"
-      ], 
-      "housenumber": "253", 
-      "lat": 50.775955471637, 
-      "lon": 3.175428936841, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "255"
-      ], 
-      "housenumber": "255", 
-      "lat": 50.775965620006, 
-      "lon": 3.175666191919, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "257"
-      ], 
-      "housenumber": "257", 
-      "lat": 50.776008243785, 
-      "lon": 3.175746362793, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "259"
-      ], 
-      "housenumber": "259", 
-      "lat": 50.776103504567, 
-      "lon": 3.175812864238, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
       "lat": 50.769884140792, 
       "lon": 3.165138778046, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "261"
-      ], 
-      "housenumber": "261", 
-      "lat": 50.776218886854, 
-      "lon": 3.175904096609, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "263"
-      ], 
-      "housenumber": "263", 
-      "lat": 50.776272109302, 
-      "lon": 3.175992082294, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "265"
-      ], 
-      "housenumber": "265", 
-      "lat": 50.776372815101, 
-      "lon": 3.176213717211, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "267"
-      ], 
-      "housenumber": "267", 
-      "lat": 50.776680197366, 
-      "lon": 3.176539165927, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2091,26 +1488,14 @@
     }, 
     {
       "hnrlbls": [
-        "275"
+        "27A"
       ], 
-      "housenumber": "275", 
-      "lat": 50.777382803595, 
-      "lon": 3.177791790801, 
+      "housenumber": "27A", 
+      "lat": 50.770262971353, 
+      "lon": 3.164609469885, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "277"
-      ], 
-      "housenumber": "277", 
-      "lat": 50.777417470912, 
-      "lon": 3.177920805439, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -2122,55 +1507,7 @@
       "lon": 3.165251860677, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "285"
-      ], 
-      "housenumber": "285", 
-      "lat": 50.77754025459, 
-      "lon": 3.178227398902, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "287"
-      ], 
-      "housenumber": "287", 
-      "lat": 50.777642039825, 
-      "lon": 3.178502618822, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "288"
-      ], 
-      "housenumber": "288", 
-      "lat": 50.777734202003, 
-      "lon": 3.183114433404, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "289"
-      ], 
-      "housenumber": "289", 
-      "lat": 50.777834347875, 
-      "lon": 3.17868791815, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -2223,122 +1560,11 @@
     }, 
     {
       "hnrlbls": [
-        "311"
-      ], 
-      "housenumber": "311", 
-      "lat": 50.780794010627, 
-      "lon": 3.177517204998, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 50.769981081925, 
       "lon": 3.165359463912, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "354"
-      ], 
-      "housenumber": "354", 
-      "lat": 50.783075450001, 
-      "lon": 3.18934042671, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "356"
-      ], 
-      "housenumber": "356", 
-      "lat": 50.783218691771, 
-      "lon": 3.189520921574, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "358"
-      ], 
-      "housenumber": "358", 
-      "lat": 50.783298421476, 
-      "lon": 3.189492263073, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "360"
-      ], 
-      "housenumber": "360", 
-      "lat": 50.783238833, 
-      "lon": 3.18979810042, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "374"
-      ], 
-      "housenumber": "374", 
-      "lat": 50.784638312858, 
-      "lon": 3.191834689054, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "376"
-      ], 
-      "housenumber": "376", 
-      "lat": 50.784843033926, 
-      "lon": 3.192201862421, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "378"
-      ], 
-      "housenumber": "378", 
-      "lat": 50.784966587972, 
-      "lon": 3.192490509551, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "379"
-      ], 
-      "housenumber": "379", 
-      "lat": 50.782593483779, 
-      "lon": 3.187576085424, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2353,43 +1579,7 @@
       "lon": 3.166010462546, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "380"
-      ], 
-      "housenumber": "380", 
-      "lat": 50.785192632224, 
-      "lon": 3.1927160394, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "381"
-      ], 
-      "housenumber": "381", 
-      "lat": 50.782670041956, 
-      "lon": 3.187759096211, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "382"
-      ], 
-      "housenumber": "382", 
-      "lat": 50.785340842925, 
-      "lon": 3.19302492284, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -2397,95 +1587,11 @@
         "383"
       ], 
       "housenumber": "383", 
-      "lat": 50.782852799662, 
-      "lon": 3.188015317924, 
+      "lat": 50.782801866699, 
+      "lon": 3.188064387689, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "384"
-      ], 
-      "housenumber": "384", 
-      "lat": 50.785519327677, 
-      "lon": 3.193268663336, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "386"
-      ], 
-      "housenumber": "386", 
-      "lat": 50.785682153589, 
-      "lon": 3.193546834929, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "388"
-      ], 
-      "housenumber": "388", 
-      "lat": 50.785994544089, 
-      "lon": 3.194116846444, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "390"
-      ], 
-      "housenumber": "390", 
-      "lat": 50.786257733283, 
-      "lon": 3.194415780892, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "392"
-      ], 
-      "housenumber": "392", 
-      "lat": 50.786404418583, 
-      "lon": 3.194788254061, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "396"
-      ], 
-      "housenumber": "396", 
-      "lat": 50.78664818864, 
-      "lon": 3.19548253323, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "398"
-      ], 
-      "housenumber": "398", 
-      "lat": 50.786974381895, 
-      "lon": 3.195573120676, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -2514,114 +1620,6 @@
     }, 
     {
       "hnrlbls": [
-        "400"
-      ], 
-      "housenumber": "400", 
-      "lat": 50.787154979095, 
-      "lon": 3.19596560769, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "402"
-      ], 
-      "housenumber": "402", 
-      "lat": 50.787304242465, 
-      "lon": 3.196227825138, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "404"
-      ], 
-      "housenumber": "404", 
-      "lat": 50.787477827767, 
-      "lon": 3.1964049067, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "408"
-      ], 
-      "housenumber": "408", 
-      "lat": 50.785088688832, 
-      "lon": 3.197760804588, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "410"
-      ], 
-      "housenumber": "410", 
-      "lat": 50.787662396113, 
-      "lon": 3.196673340241, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "412"
-      ], 
-      "housenumber": "412", 
-      "lat": 50.787811886715, 
-      "lon": 3.197039379081, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "414"
-      ], 
-      "housenumber": "414", 
-      "lat": 50.788000841663, 
-      "lon": 3.197360044572, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "416"
-      ], 
-      "housenumber": "416", 
-      "lat": 50.788173521308, 
-      "lon": 3.197527652504, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "418"
-      ], 
-      "housenumber": "418", 
-      "lat": 50.788301084432, 
-      "lon": 3.197750990013, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
@@ -2634,95 +1632,11 @@
     }, 
     {
       "hnrlbls": [
-        "420"
-      ], 
-      "housenumber": "420", 
-      "lat": 50.788364232785, 
-      "lon": 3.197826294286, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "422"
-      ], 
-      "housenumber": "422", 
-      "lat": 50.788415465506, 
-      "lon": 3.197932815087, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "426"
-      ], 
-      "housenumber": "426", 
-      "lat": 50.788468340667, 
-      "lon": 3.198014757777, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "428"
-      ], 
-      "housenumber": "428", 
-      "lat": 50.788686022735, 
-      "lon": 3.198151323709, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "430"
-      ], 
-      "housenumber": "430", 
-      "lat": 50.788717295508, 
-      "lon": 3.198230825519, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "432"
-      ], 
-      "housenumber": "432", 
-      "lat": 50.78874761764, 
-      "lon": 3.198296167448, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "434"
       ], 
       "housenumber": "434", 
       "lat": 50.788792090646, 
       "lon": 3.19835605165, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "436"
-      ], 
-      "housenumber": "436", 
-      "lat": 50.788816793826, 
-      "lon": 3.198425930334, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2745,56 +1659,8 @@
         "440"
       ], 
       "housenumber": "440", 
-      "lat": 50.788892611517, 
-      "lon": 3.198572548945, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "444"
-      ], 
-      "housenumber": "444", 
-      "lat": 50.789037300382, 
-      "lon": 3.198908511241, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "445"
-      ], 
-      "housenumber": "445", 
-      "lat": 50.787246674241, 
-      "lon": 3.195317848084, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "447"
-      ], 
-      "housenumber": "447", 
-      "lat": 50.787273310483, 
-      "lon": 3.195427954985, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "449"
-      ], 
-      "housenumber": "449", 
-      "lat": 50.787365758056, 
-      "lon": 3.195430190228, 
+      "lat": 50.788929709969, 
+      "lon": 3.198515176068, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2814,86 +1680,14 @@
     }, 
     {
       "hnrlbls": [
-        "452"
-      ], 
-      "housenumber": "452", 
-      "lat": 50.789651166255, 
-      "lon": 3.200023574649, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "453"
-      ], 
-      "housenumber": "453", 
-      "lat": 50.787589363501, 
-      "lon": 3.195798915514, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "454"
       ], 
       "housenumber": "454", 
-      "lat": 50.790313990605, 
-      "lon": 3.200738596658, 
+      "lat": 50.790331585818, 
+      "lon": 3.200717876982, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "456"
-      ], 
-      "housenumber": "456", 
-      "lat": 50.79030693277, 
-      "lon": 3.20086940706, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "457"
-      ], 
-      "housenumber": "457", 
-      "lat": 50.78775853289, 
-      "lon": 3.196118648943, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "458"
-      ], 
-      "housenumber": "458", 
-      "lat": 50.790355894792, 
-      "lon": 3.200910744998, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "459"
-      ], 
-      "housenumber": "459", 
-      "lat": 50.787805128703, 
-      "lon": 3.196201879503, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -2903,54 +1697,6 @@
       "housenumber": "46", 
       "lat": 50.770526463632, 
       "lon": 3.166707633852, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "460"
-      ], 
-      "housenumber": "460", 
-      "lat": 50.790390168743, 
-      "lon": 3.200948759416, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "462"
-      ], 
-      "housenumber": "462", 
-      "lat": 50.790441772402, 
-      "lon": 3.201011591855, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "464"
-      ], 
-      "housenumber": "464", 
-      "lat": 50.790511144919, 
-      "lon": 3.201116252539, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "468"
-      ], 
-      "housenumber": "468", 
-      "lat": 50.790610988814, 
-      "lon": 3.20137363069, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -2970,78 +1716,6 @@
     }, 
     {
       "hnrlbls": [
-        "470"
-      ], 
-      "housenumber": "470", 
-      "lat": 50.790647159802, 
-      "lon": 3.201457697193, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "472"
-      ], 
-      "housenumber": "472", 
-      "lat": 50.790714892026, 
-      "lon": 3.201469918677, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "474"
-      ], 
-      "housenumber": "474", 
-      "lat": 50.790738019333, 
-      "lon": 3.201598421626, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "476"
-      ], 
-      "housenumber": "476", 
-      "lat": 50.790806993603, 
-      "lon": 3.201672172083, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "478"
-      ], 
-      "housenumber": "478", 
-      "lat": 50.79089707963, 
-      "lon": 3.201771356716, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "479"
-      ], 
-      "housenumber": "479", 
-      "lat": 50.789230607173, 
-      "lon": 3.198476777892, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
@@ -3054,55 +1728,14 @@
     }, 
     {
       "hnrlbls": [
-        "480"
-      ], 
-      "housenumber": "480", 
-      "lat": 50.790851319978, 
-      "lon": 3.202024544642, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "481"
-      ], 
-      "housenumber": "481", 
-      "lat": 50.789297081337, 
-      "lon": 3.198489025992, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "482"
       ], 
       "housenumber": "482", 
-      "lat": 50.790420174007, 
-      "lon": 3.202074800806, 
+      "lat": 50.79049826844, 
+      "lon": 3.202062227842, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "0002", 
-        "0101", 
-        "0102"
-      ], 
-      "hnrlbls": [
-        "483"
-      ], 
-      "housenumber": "483", 
-      "lat": 50.789288859644, 
-      "lon": 3.198629082342, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -3110,56 +1743,8 @@
         "484"
       ], 
       "housenumber": "484", 
-      "lat": 50.790434736364, 
-      "lon": 3.20240875948, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "0001", 
-        "0002", 
-        "0101", 
-        "0102"
-      ], 
-      "hnrlbls": [
-        "485"
-      ], 
-      "housenumber": "485", 
-      "lat": 50.789327845218, 
-      "lon": 3.198688678376, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "486"
-      ], 
-      "housenumber": "486", 
-      "lat": 50.791187075528, 
-      "lon": 3.202182182232, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "0001", 
-        "0002", 
-        "0101", 
-        "0102"
-      ], 
-      "hnrlbls": [
-        "487"
-      ], 
-      "housenumber": "487", 
-      "lat": 50.789482920195, 
-      "lon": 3.198939283137, 
+      "lat": 50.790436223922, 
+      "lon": 3.202413687073, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3179,18 +1764,6 @@
     }, 
     {
       "hnrlbls": [
-        "489"
-      ], 
-      "housenumber": "489", 
-      "lat": 50.789543669166, 
-      "lon": 3.199017487248, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -3203,98 +1776,14 @@
     }, 
     {
       "hnrlbls": [
-        "491"
-      ], 
-      "housenumber": "491", 
-      "lat": 50.789595551396, 
-      "lon": 3.199036055882, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "493"
-      ], 
-      "housenumber": "493", 
-      "lat": 50.789613291951, 
-      "lon": 3.199101995725, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "495"
-      ], 
-      "housenumber": "495", 
-      "lat": 50.789645865702, 
-      "lon": 3.199158773194, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "496"
-      ], 
-      "housenumber": "496", 
-      "lat": 50.791682281478, 
-      "lon": 3.202814173152, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "497"
-      ], 
-      "housenumber": "497", 
-      "lat": 50.789672881362, 
-      "lon": 3.199226184862, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "498"
-      ], 
-      "housenumber": "498", 
-      "lat": 50.791714200794, 
-      "lon": 3.202913809015, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "499"
-      ], 
-      "housenumber": "499", 
-      "lat": 50.789717085031, 
-      "lon": 3.199259128382, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.769634268293, 
-      "lon": 3.163799106723, 
+      "lat": 50.769549102029, 
+      "lon": 3.163875577481, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -3311,155 +1800,11 @@
     }, 
     {
       "hnrlbls": [
-        "500"
-      ], 
-      "housenumber": "500", 
-      "lat": 50.792140208919, 
-      "lon": 3.203576463579, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "501"
-      ], 
-      "housenumber": "501", 
-      "lat": 50.789741167704, 
-      "lon": 3.199320939481, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "502"
-      ], 
-      "housenumber": "502", 
-      "lat": 50.792643611503, 
-      "lon": 3.204753825275, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "503"
-      ], 
-      "housenumber": "503", 
-      "lat": 50.789777660184, 
-      "lon": 3.19938300983, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "504"
-      ], 
-      "housenumber": "504", 
-      "lat": 50.792780081885, 
-      "lon": 3.204979252659, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "507"
-      ], 
-      "housenumber": "507", 
-      "lat": 50.789922178622, 
-      "lon": 3.199431759848, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "508"
-      ], 
-      "housenumber": "508", 
-      "lat": 50.793121209801, 
-      "lon": 3.205588006917, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "509"
-      ], 
-      "housenumber": "509", 
-      "lat": 50.78989033434, 
-      "lon": 3.199574248301, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.770654557824, 
-      "lon": 3.166302128067, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "510"
-      ], 
-      "housenumber": "510", 
-      "lat": 50.793324265693, 
-      "lon": 3.205828107153, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "513"
-      ], 
-      "housenumber": "513", 
-      "lat": 50.78997843311, 
-      "lon": 3.19970836896, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "514"
-      ], 
-      "housenumber": "514", 
-      "lat": 50.79344294762, 
-      "lon": 3.205873830543, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "515"
-      ], 
-      "housenumber": "515", 
-      "lat": 50.790013438348, 
-      "lon": 3.199774590194, 
+      "lat": 50.770645391311, 
+      "lon": 3.166311294348, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3472,42 +1817,6 @@
       "housenumber": "516", 
       "lat": 50.793508116163, 
       "lon": 3.206135211447, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "517"
-      ], 
-      "housenumber": "517", 
-      "lat": 50.790054806241, 
-      "lon": 3.199847745585, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "518"
-      ], 
-      "housenumber": "518", 
-      "lat": 50.793550766298, 
-      "lon": 3.206193026265, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "519"
-      ], 
-      "housenumber": "519", 
-      "lat": 50.790100553966, 
-      "lon": 3.199891289637, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3539,36 +1848,7 @@
     }, 
     {
       "hnrlbls": [
-        "521"
-      ], 
-      "housenumber": "521", 
-      "lat": 50.790134269421, 
-      "lon": 3.199972436417, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
-      "hnrlbls": [
-        "522-522A"
-      ], 
-      "housenumber": "522", 
-      "lat": 50.793652170545, 
-      "lon": 3.206345990921, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "522-522A"
+        "522A"
       ], 
       "housenumber": "522A", 
       "lat": 50.793652170545, 
@@ -3580,67 +1860,7 @@
     }, 
     {
       "hnrlbls": [
-        "523"
-      ], 
-      "housenumber": "523", 
-      "lat": 50.790169837246, 
-      "lon": 3.200031977603, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "526"
-      ], 
-      "housenumber": "526", 
-      "lat": 50.793697504843, 
-      "lon": 3.206429698541, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "527"
-      ], 
-      "housenumber": "527", 
-      "lat": 50.790687980477, 
-      "lon": 3.200763078408, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "528"
-      ], 
-      "housenumber": "528", 
-      "lat": 50.793732332102, 
-      "lon": 3.206496501709, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "529-529A"
-      ], 
-      "housenumber": "529", 
-      "lat": 50.790957116247, 
-      "lon": 3.200677112657, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "529-529A"
+        "529A"
       ], 
       "housenumber": "529A", 
       "lat": 50.790957116247, 
@@ -3657,102 +1877,6 @@
       "housenumber": "53", 
       "lat": 50.770676191507, 
       "lon": 3.166351341577, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "530"
-      ], 
-      "housenumber": "530", 
-      "lat": 50.79383999687, 
-      "lon": 3.20676407073, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "531"
-      ], 
-      "housenumber": "531", 
-      "lat": 50.79093631175, 
-      "lon": 3.201043440932, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "532"
-      ], 
-      "housenumber": "532", 
-      "lat": 50.793896458025, 
-      "lon": 3.206809346484, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "534"
-      ], 
-      "housenumber": "534", 
-      "lat": 50.793996638361, 
-      "lon": 3.20698404708, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "535"
-      ], 
-      "housenumber": "535", 
-      "lat": 50.791120186561, 
-      "lon": 3.201333631324, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "536"
-      ], 
-      "housenumber": "536", 
-      "lat": 50.794057949658, 
-      "lon": 3.207110484705, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "537"
-      ], 
-      "housenumber": "537", 
-      "lat": 50.791213629811, 
-      "lon": 3.201616420042, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "538"
-      ], 
-      "housenumber": "538", 
-      "lat": 50.794202295708, 
-      "lon": 3.207305516782, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -3784,227 +1908,11 @@
     }, 
     {
       "hnrlbls": [
-        "540"
-      ], 
-      "housenumber": "540", 
-      "lat": 50.794339008079, 
-      "lon": 3.207474211858, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "541"
-      ], 
-      "housenumber": "541", 
-      "lat": 50.791322114695, 
-      "lon": 3.201775574882, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "542"
-      ], 
-      "housenumber": "542", 
-      "lat": 50.794409824303, 
-      "lon": 3.207625382745, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "543"
-      ], 
-      "housenumber": "543", 
-      "lat": 50.791356756862, 
-      "lon": 3.201850602834, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "544"
-      ], 
-      "housenumber": "544", 
-      "lat": 50.794457692643, 
-      "lon": 3.207674560143, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "545"
-      ], 
-      "housenumber": "545", 
-      "lat": 50.791391766055, 
-      "lon": 3.201908316833, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "546"
-      ], 
-      "housenumber": "546", 
-      "lat": 50.794485161185, 
-      "lon": 3.207724666219, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "547"
-      ], 
-      "housenumber": "547", 
-      "lat": 50.791472527808, 
-      "lon": 3.201983053285, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "548"
-      ], 
-      "housenumber": "548", 
-      "lat": 50.794514949901, 
-      "lon": 3.20779117012, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
       "lat": 50.770691130645, 
       "lon": 3.166414053573, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "551"
-      ], 
-      "housenumber": "551", 
-      "lat": 50.791654598235, 
-      "lon": 3.202299962113, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "552"
-      ], 
-      "housenumber": "552", 
-      "lat": 50.794596699415, 
-      "lon": 3.208047753331, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "553"
-      ], 
-      "housenumber": "553", 
-      "lat": 50.791703089139, 
-      "lon": 3.202339186706, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "554"
-      ], 
-      "housenumber": "554", 
-      "lat": 50.794662692156, 
-      "lon": 3.208065986041, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "555"
-      ], 
-      "housenumber": "555", 
-      "lat": 50.791772199556, 
-      "lon": 3.20248088019, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "556"
-      ], 
-      "housenumber": "556", 
-      "lat": 50.794727544468, 
-      "lon": 3.208087083991, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "557"
-      ], 
-      "housenumber": "557", 
-      "lat": 50.791805505834, 
-      "lon": 3.202530126622, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "558"
-      ], 
-      "housenumber": "558", 
-      "lat": 50.794749798003, 
-      "lon": 3.208182570541, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "559"
-      ], 
-      "housenumber": "559", 
-      "lat": 50.791862855485, 
-      "lon": 3.202619345448, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4024,38 +1932,14 @@
     }, 
     {
       "hnrlbls": [
-        "560"
+        "563"
       ], 
-      "housenumber": "560", 
-      "lat": 50.794756526455, 
-      "lon": 3.208317307797, 
+      "housenumber": "563", 
+      "lat": 50.791942216515, 
+      "lon": 3.202725040891, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "562"
-      ], 
-      "housenumber": "562", 
-      "lat": 50.794882771949, 
-      "lon": 3.208309798912, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "564"
-      ], 
-      "housenumber": "564", 
-      "lat": 50.794930941162, 
-      "lon": 3.208552885132, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -4065,30 +1949,6 @@
       "housenumber": "565", 
       "lat": 50.792174136532, 
       "lon": 3.202757028966, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "566"
-      ], 
-      "housenumber": "566", 
-      "lat": 50.794978091123, 
-      "lon": 3.20865669573, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "568"
-      ], 
-      "housenumber": "568", 
-      "lat": 50.795089693949, 
-      "lon": 3.208832115798, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4108,78 +1968,6 @@
     }, 
     {
       "hnrlbls": [
-        "570"
-      ], 
-      "housenumber": "570", 
-      "lat": 50.795200456669, 
-      "lon": 3.209004436569, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "571"
-      ], 
-      "housenumber": "571", 
-      "lat": 50.792630812582, 
-      "lon": 3.203936106242, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "572"
-      ], 
-      "housenumber": "572", 
-      "lat": 50.795261045718, 
-      "lon": 3.209085362198, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "574"
-      ], 
-      "housenumber": "574", 
-      "lat": 50.795356198353, 
-      "lon": 3.209306583252, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "576"
-      ], 
-      "housenumber": "576", 
-      "lat": 50.795524147711, 
-      "lon": 3.209434090085, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "577"
-      ], 
-      "housenumber": "577", 
-      "lat": 50.793937025747, 
-      "lon": 3.205814107994, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "578"
       ], 
       "housenumber": "578", 
@@ -4192,35 +1980,11 @@
     }, 
     {
       "hnrlbls": [
-        "579"
-      ], 
-      "housenumber": "579", 
-      "lat": 50.793952515655, 
-      "lon": 3.205898268968, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
       "lat": 50.771426055203, 
       "lon": 3.168545747292, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "580"
-      ], 
-      "housenumber": "580", 
-      "lat": 50.795957095031, 
-      "lon": 3.210065902558, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4243,11 +2007,11 @@
         "582"
       ], 
       "housenumber": "582", 
-      "lat": 50.795908264881, 
-      "lon": 3.210355925802, 
+      "lat": 50.796030910106, 
+      "lon": 3.21009330873, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -4255,77 +2019,11 @@
         "583"
       ], 
       "housenumber": "583", 
-      "lat": 50.794216958272, 
-      "lon": 3.206317720814, 
+      "lat": 50.79410785061, 
+      "lon": 3.206466805745, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "585"
-      ], 
-      "housenumber": "585", 
-      "lat": 50.794140847794, 
-      "lon": 3.206530392096, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "586"
-      ], 
-      "housenumber": "586", 
-      "lat": 50.796254330963, 
-      "lon": 3.210475509658, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "587"
-      ], 
-      "housenumber": "587", 
-      "lat": 50.794185116853, 
-      "lon": 3.206570152847, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "0002", 
-        "0101", 
-        "0102", 
-        "0202"
-      ], 
-      "hnrlbls": [
-        "588"
-      ], 
-      "housenumber": "588", 
-      "lat": 50.796388273697, 
-      "lon": 3.210564564668, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "589"
-      ], 
-      "housenumber": "589", 
-      "lat": 50.794249059232, 
-      "lon": 3.20658105761, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -4333,116 +2031,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.770757821863, 
-      "lon": 3.166517128984, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "590"
-      ], 
-      "housenumber": "590", 
-      "lat": 50.796408974497, 
-      "lon": 3.210958139344, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "591"
-      ], 
-      "housenumber": "591", 
-      "lat": 50.794235802333, 
-      "lon": 3.206685788203, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "592"
-      ], 
-      "housenumber": "592", 
-      "lat": 50.796545521123, 
-      "lon": 3.211137921907, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "593"
-      ], 
-      "housenumber": "593", 
-      "lat": 50.794363627468, 
-      "lon": 3.206783207114, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "595"
-      ], 
-      "housenumber": "595", 
-      "lat": 50.794476750385, 
-      "lon": 3.207011919791, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "596"
-      ], 
-      "housenumber": "596", 
-      "lat": 50.796735743783, 
-      "lon": 3.211390720542, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "597"
-      ], 
-      "housenumber": "597", 
-      "lat": 50.794499181506, 
-      "lon": 3.207279468897, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "598"
-      ], 
-      "housenumber": "598", 
-      "lat": 50.796907015194, 
-      "lon": 3.211609089313, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "599"
-      ], 
-      "housenumber": "599", 
-      "lat": 50.794599595013, 
-      "lon": 3.20732351989, 
+      "lat": 50.770759755697, 
+      "lon": 3.166512826143, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4462,166 +2052,6 @@
     }, 
     {
       "hnrlbls": [
-        "600"
-      ], 
-      "housenumber": "600", 
-      "lat": 50.797207697532, 
-      "lon": 3.212186309583, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "601"
-      ], 
-      "housenumber": "601", 
-      "lat": 50.794728933474, 
-      "lon": 3.207392249462, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "0001", 
-        "0101"
-      ], 
-      "hnrlbls": [
-        "602"
-      ], 
-      "housenumber": "602", 
-      "lat": 50.797521500583, 
-      "lon": 3.212544463579, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "603"
-      ], 
-      "housenumber": "603", 
-      "lat": 50.794769692691, 
-      "lon": 3.207477065801, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "604"
-      ], 
-      "housenumber": "604", 
-      "lat": 50.797571010977, 
-      "lon": 3.212605383429, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "605"
-      ], 
-      "housenumber": "605", 
-      "lat": 50.794859786322, 
-      "lon": 3.207568467602, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "606"
-      ], 
-      "housenumber": "606", 
-      "lat": 50.797587931955, 
-      "lon": 3.21274399302, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "607"
-      ], 
-      "housenumber": "607", 
-      "lat": 50.794891514923, 
-      "lon": 3.207730959505, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "608"
-      ], 
-      "housenumber": "608", 
-      "lat": 50.797703572844, 
-      "lon": 3.212764277304, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "609"
-      ], 
-      "housenumber": "609", 
-      "lat": 50.794984235866, 
-      "lon": 3.207697323301, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "610"
-      ], 
-      "housenumber": "610", 
-      "lat": 50.797734866276, 
-      "lon": 3.212883383023, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "611"
-      ], 
-      "housenumber": "611", 
-      "lat": 50.795071874475, 
-      "lon": 3.207994759793, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "612"
-      ], 
-      "housenumber": "612", 
-      "lat": 50.797834797526, 
-      "lon": 3.212887880988, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "613"
       ], 
       "housenumber": "613", 
@@ -4634,26 +2064,14 @@
     }, 
     {
       "hnrlbls": [
-        "614"
+        "617"
       ], 
-      "housenumber": "614", 
-      "lat": 50.797901508722, 
-      "lon": 3.213225296467, 
+      "housenumber": "617", 
+      "lat": 50.795347883453, 
+      "lon": 3.208466292932, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "618"
-      ], 
-      "housenumber": "618", 
-      "lat": 50.798480916381, 
-      "lon": 3.214178879037, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -4663,18 +2081,6 @@
       "housenumber": "62", 
       "lat": 50.771663982098, 
       "lon": 3.169075209428, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "620"
-      ], 
-      "housenumber": "620", 
-      "lat": 50.798779768502, 
-      "lon": 3.214708512644, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4694,111 +2100,6 @@
     }, 
     {
       "hnrlbls": [
-        "623"
-      ], 
-      "housenumber": "623", 
-      "lat": 50.795810250181, 
-      "lon": 3.209035945555, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "625"
-      ], 
-      "housenumber": "625", 
-      "lat": 50.795903413893, 
-      "lon": 3.209283319829, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "627"
-      ], 
-      "housenumber": "627", 
-      "lat": 50.796022643732, 
-      "lon": 3.209539132204, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "1"
-      ], 
-      "hnrlbls": [
-        "629-631"
-      ], 
-      "housenumber": "629", 
-      "lat": 50.796185933831, 
-      "lon": 3.209786484695, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "busnrs": [
-        "0001", 
-        "0101"
-      ], 
-      "hnrlbls": [
-        "629-631"
-      ], 
-      "housenumber": "631", 
-      "lat": 50.796185933831, 
-      "lon": 3.209786484695, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "633"
-      ], 
-      "housenumber": "633", 
-      "lat": 50.796824644315, 
-      "lon": 3.210706188188, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "635"
-      ], 
-      "housenumber": "635", 
-      "lat": 50.796859227338, 
-      "lon": 3.210839537344, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "637"
-      ], 
-      "housenumber": "637", 
-      "lat": 50.79695308579, 
-      "lon": 3.210957384904, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -4811,95 +2112,11 @@
     }, 
     {
       "hnrlbls": [
-        "641"
-      ], 
-      "housenumber": "641", 
-      "lat": 50.79722613498, 
-      "lon": 3.211121329569, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "643"
-      ], 
-      "housenumber": "643", 
-      "lat": 50.797314114373, 
-      "lon": 3.211472401685, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "645"
-      ], 
-      "housenumber": "645", 
-      "lat": 50.797369390292, 
-      "lon": 3.211497996737, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "647"
-      ], 
-      "housenumber": "647", 
-      "lat": 50.797442821959, 
-      "lon": 3.211604999943, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "649"
-      ], 
-      "housenumber": "649", 
-      "lat": 50.79750118864, 
-      "lon": 3.211688682727, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
       "lat": 50.770841287792, 
       "lon": 3.166695347039, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "651"
-      ], 
-      "housenumber": "651", 
-      "lat": 50.797530843935, 
-      "lon": 3.211814778747, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "653"
-      ], 
-      "housenumber": "653", 
-      "lat": 50.797577971495, 
-      "lon": 3.211871074943, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -4919,30 +2136,6 @@
     }, 
     {
       "hnrlbls": [
-        "665"
-      ], 
-      "housenumber": "665", 
-      "lat": 50.800972975679, 
-      "lon": 3.206909357285, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "667"
-      ], 
-      "housenumber": "667", 
-      "lat": 50.801217322411, 
-      "lon": 3.207987240201, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
@@ -4955,50 +2148,14 @@
     }, 
     {
       "hnrlbls": [
-        "677"
+        "68"
       ], 
-      "housenumber": "677", 
-      "lat": 50.79904596839, 
-      "lon": 3.214168285062, 
+      "housenumber": "68", 
+      "lat": 50.771915716692, 
+      "lon": 3.169566043065, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "679"
-      ], 
-      "housenumber": "679", 
-      "lat": 50.799900499898, 
-      "lon": 3.213945590484, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "68A"
-      ], 
-      "housenumber": "68A", 
-      "lat": 50.771861656353, 
-      "lon": 3.169546009554, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dronckaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "68B"
-      ], 
-      "housenumber": "68B", 
-      "lat": 50.771908670357, 
-      "lon": 3.169685748276, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {
@@ -5030,8 +2187,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.772048595963, 
-      "lon": 3.169741169844, 
+      "lat": 50.77204866989, 
+      "lon": 3.169739608309, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -5054,8 +2211,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.772079992485, 
-      "lon": 3.169813249117, 
+      "lat": 50.772079270502, 
+      "lon": 3.169812983919, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -5138,8 +2295,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.771116207284, 
-      "lon": 3.167052574892, 
+      "lat": 50.771118329632, 
+      "lon": 3.167049117937, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
@@ -5238,7 +2395,7 @@
       "lon": 3.170710140245, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dronckaertstraat"
     }, 
     {

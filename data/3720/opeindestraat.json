@@ -290,26 +290,50 @@
     }, 
     {
       "hnrlbls": [
-        "17-17C"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.856202494142, 
-      "lon": 5.385187321285, 
+      "lat": 50.856289643199, 
+      "lon": 5.385339055044, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Opeindestraat"
     }, 
     {
       "hnrlbls": [
-        "17-17C"
+        "17A"
       ], 
-      "housenumber": "17C", 
-      "lat": 50.856202494142, 
-      "lon": 5.385187321285, 
+      "housenumber": "17A", 
+      "lat": 50.856240931007, 
+      "lon": 5.385264710299, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Opeindestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17B"
+      ], 
+      "housenumber": "17B", 
+      "lat": 50.856190629132, 
+      "lon": 5.385187064491, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Opeindestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17C"
+      ], 
+      "housenumber": "17C", 
+      "lat": 50.856141948854, 
+      "lon": 5.385109027838, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Opeindestraat"
     }, 
     {
@@ -1325,11 +1349,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.852833212409, 
-      "lon": 5.379872684394, 
+      "lat": 50.852842070322, 
+      "lon": 5.379950562807, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Opeindestraat"
     }, 
     {

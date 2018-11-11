@@ -185,8 +185,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.216147536242, 
-      "lon": 2.91846202637, 
+      "lat": 51.216137850295, 
+      "lon": 2.918456601678, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -280,6 +280,9 @@
       "street": "Constant Permekelaan"
     }, 
     {
+      "busnrs": [
+        "A000"
+      ], 
       "hnrlbls": [
         "36A"
       ], 
@@ -476,7 +479,8 @@
     }, 
     {
       "busnrs": [
-        "102"
+        "001L", 
+        "0102"
       ], 
       "hnrlbls": [
         "8"

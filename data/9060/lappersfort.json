@@ -110,7 +110,7 @@
     }, 
     {
       "hnrlbls": [
-        "19"
+        "19-19A"
       ], 
       "housenumber": "19", 
       "lat": 51.197381258543, 
@@ -122,14 +122,14 @@
     }, 
     {
       "hnrlbls": [
-        "19A"
+        "19-19A"
       ], 
       "housenumber": "19A", 
-      "lat": 51.19756196168, 
-      "lon": 3.807798456875, 
+      "lat": 51.197381258543, 
+      "lon": 3.80752680116, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lappersfort"
     }, 
     {
@@ -305,11 +305,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.197479357161, 
-      "lon": 3.808405901531, 
+      "lat": 51.197533016337, 
+      "lon": 3.808424142408, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lappersfort"
     }, 
     {
@@ -377,8 +377,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.196886853065, 
-      "lon": 3.807312996475, 
+      "lat": 51.196886671264, 
+      "lon": 3.807312569471, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 

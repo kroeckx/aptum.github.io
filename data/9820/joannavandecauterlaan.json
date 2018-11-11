@@ -89,8 +89,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.010081860748, 
-      "lon": 3.753565097164, 
+      "lat": 51.010081683949, 
+      "lon": 3.753565669457, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -190,6 +190,18 @@
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
+      "street": "Joanna Van de Cauterlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.010199576818, 
+      "lon": 3.753745945001, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Joanna Van de Cauterlaan"
     }, 
     {

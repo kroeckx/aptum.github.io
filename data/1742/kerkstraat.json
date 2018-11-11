@@ -105,26 +105,14 @@
     }, 
     {
       "hnrlbls": [
-        "16"
+        "16-18"
       ], 
       "housenumber": "16", 
-      "lat": 50.872905818456, 
-      "lon": 4.156161955264, 
+      "lat": 50.872697956456, 
+      "lon": 4.156098249791, 
       "municipality": "Ternat", 
       "pcode": "1742", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16A"
-      ], 
-      "housenumber": "16A", 
-      "lat": 50.872868797138, 
-      "lon": 4.156369690925, 
-      "municipality": "Ternat", 
-      "pcode": "1742", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkstraat"
     }, 
     {
@@ -141,14 +129,14 @@
     }, 
     {
       "hnrlbls": [
-        "18"
+        "16-18"
       ], 
       "housenumber": "18", 
-      "lat": 50.872820126603, 
-      "lon": 4.1564486186, 
+      "lat": 50.872697956456, 
+      "lon": 4.156098249791, 
       "municipality": "Ternat", 
       "pcode": "1742", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkstraat"
     }, 
     {
@@ -381,8 +369,8 @@
         "34A"
       ], 
       "housenumber": "34A", 
-      "lat": 50.872279371639, 
-      "lon": 4.157326923401, 
+      "lat": 50.872278739573, 
+      "lon": 4.157325363452, 
       "municipality": "Ternat", 
       "pcode": "1742", 
       "source": "manueleAanduidingVanGebouw", 
@@ -390,14 +378,14 @@
     }, 
     {
       "hnrlbls": [
-        "34b-36"
+        "34B-36"
       ], 
-      "housenumber": "34b", 
-      "lat": 50.872162029782, 
-      "lon": 4.157260676417, 
+      "housenumber": "34B", 
+      "lat": 50.872208119027, 
+      "lon": 4.157345854303, 
       "municipality": "Ternat", 
       "pcode": "1742", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -413,21 +401,15 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103"
-      ], 
       "hnrlbls": [
-        "34b-36"
+        "34B-36"
       ], 
       "housenumber": "36", 
-      "lat": 50.872162029782, 
-      "lon": 4.157260676417, 
+      "lat": 50.872208119027, 
+      "lon": 4.157345854303, 
       "municipality": "Ternat", 
       "pcode": "1742", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -515,11 +497,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.871711116139, 
-      "lon": 4.157660778355, 
+      "lat": 50.87181376531, 
+      "lon": 4.157755079233, 
       "municipality": "Ternat", 
       "pcode": "1742", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {

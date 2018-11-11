@@ -2906,6 +2906,11 @@
       "street": "Bredabaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "1001", 
+        "2001"
+      ], 
       "hnrlbls": [
         "179"
       ], 
@@ -5812,11 +5817,11 @@
         "362"
       ], 
       "housenumber": "362", 
-      "lat": 51.292885243873, 
-      "lon": 4.494444673432, 
+      "lat": 51.292891921847, 
+      "lon": 4.494419604552, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bredabaan"
     }, 
     {
@@ -6539,8 +6544,11 @@
     {
       "apptnrs": [
         "1001", 
+        "1002", 
         "2001", 
+        "2002", 
         "3001", 
+        "3002", 
         "4001"
       ], 
       "hnrlbls": [
@@ -7132,8 +7140,8 @@
         "439A"
       ], 
       "housenumber": "439A", 
-      "lat": 51.292260661553, 
-      "lon": 4.494441400964, 
+      "lat": 51.292259403064, 
+      "lon": 4.4944415409, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7144,8 +7152,8 @@
         "439B"
       ], 
       "housenumber": "439B", 
-      "lat": 51.292253454881, 
-      "lon": 4.494540724595, 
+      "lat": 51.292251745914, 
+      "lon": 4.494541866771, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -8400,11 +8408,11 @@
         "516"
       ], 
       "housenumber": "516", 
-      "lat": 51.301961531312, 
-      "lon": 4.501499065255, 
+      "lat": 51.302345970851, 
+      "lon": 4.500119384512, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Bredabaan"
     }, 
     {
@@ -9666,8 +9674,8 @@
         "626"
       ], 
       "housenumber": "626", 
-      "lat": 51.309863831928, 
-      "lon": 4.508975858882, 
+      "lat": 51.30986285109, 
+      "lon": 4.508969259205, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -9678,8 +9686,8 @@
         "628"
       ], 
       "housenumber": "628", 
-      "lat": 51.309918755502, 
-      "lon": 4.509046007732, 
+      "lat": 51.309914349312, 
+      "lon": 4.509047715265, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -10603,14 +10611,26 @@
     }, 
     {
       "hnrlbls": [
-        "703"
+        "703A"
       ], 
-      "housenumber": "703", 
-      "lat": 51.303498029428, 
-      "lon": 4.504044001868, 
+      "housenumber": "703A", 
+      "lat": 51.303515412728, 
+      "lon": 4.503934074756, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bredabaan"
+    }, 
+    {
+      "hnrlbls": [
+        "703B"
+      ], 
+      "housenumber": "703B", 
+      "lat": 51.303552231247, 
+      "lon": 4.503962572908, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bredabaan"
     }, 
     {

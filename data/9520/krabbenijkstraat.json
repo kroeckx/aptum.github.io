@@ -445,6 +445,27 @@
       "street": "Krabbenijkstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.920098871542, 
+      "lon": 3.864058407294, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Krabbenijkstraat"
+    }, 
+    {
       "hnrlbls": [
         "40"
       ], 
@@ -867,7 +888,8 @@
     {
       "busnrs": [
         "1", 
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "73"

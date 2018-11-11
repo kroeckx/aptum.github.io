@@ -1159,35 +1159,11 @@
     }, 
     {
       "hnrlbls": [
-        "159"
-      ], 
-      "housenumber": "159", 
-      "lat": 51.270993178049, 
-      "lon": 3.045323615027, 
-      "municipality": "De Haan", 
-      "pcode": "8420", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Grotestraat"
-    }, 
-    {
-      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
       "lat": 51.271170824584, 
       "lon": 3.036298052617, 
-      "municipality": "De Haan", 
-      "pcode": "8420", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Grotestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "161_0096"
-      ], 
-      "housenumber": "161_0096", 
-      "lat": 51.269339342779, 
-      "lon": 3.043851414992, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1710,7 +1686,8 @@
       "street": "Grotestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "0101", 
         "0201"
       ], 
       "hnrlbls": [

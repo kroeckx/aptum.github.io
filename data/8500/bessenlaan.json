@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "11"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -61,6 +58,18 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bessenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.837913281903, 
+      "lon": 3.274529025593, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bessenlaan"
     }, 
     {

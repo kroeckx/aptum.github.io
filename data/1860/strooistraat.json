@@ -2,14 +2,26 @@
   "addresses": [
     {
       "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.936787418147, 
+      "lon": 4.303270250997, 
+      "municipality": "Meise", 
+      "pcode": "1860", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Strooistraat"
+    }, 
+    {
+      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.936326604909, 
-      "lon": 4.303066310801, 
+      "lat": 50.93630130718, 
+      "lon": 4.302997916586, 
       "municipality": "Meise", 
       "pcode": "1860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Strooistraat"
     }, 
     {

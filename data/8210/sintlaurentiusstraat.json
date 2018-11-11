@@ -77,8 +77,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.143477611157, 
-      "lon": 3.13513020713, 
+      "lat": 51.143759797772, 
+      "lon": 3.134966121415, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -157,15 +157,22 @@
       "street": "Sint-Laurentiusstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.143337351435, 
-      "lon": 3.134517661142, 
+      "lat": 51.143335825068, 
+      "lon": 3.134517844372, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Laurentiusstraat"
     }, 
     {
@@ -191,8 +198,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.142567848795, 
-      "lon": 3.133171027186, 
+      "lat": 51.142574501158, 
+      "lon": 3.13316241945, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -728,8 +735,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.142073458869, 
-      "lon": 3.130472647582, 
+      "lat": 51.142072777317, 
+      "lon": 3.130467663754, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 

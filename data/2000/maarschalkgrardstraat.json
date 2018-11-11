@@ -104,6 +104,12 @@
       "street": "Maarschalk G\u00e9rardstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -437,8 +443,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.212999251301, 
-      "lon": 4.404574044599, 
+      "lat": 51.213012495255, 
+      "lon": 4.404473592727, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

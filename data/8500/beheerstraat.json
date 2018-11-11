@@ -16,6 +16,11 @@
       "street": "Beheerstraat"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -897,6 +902,18 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Beheerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "86"
+      ], 
+      "housenumber": "86", 
+      "lat": 50.828896982726, 
+      "lon": 3.256796694965, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beheerstraat"
     }
   ]

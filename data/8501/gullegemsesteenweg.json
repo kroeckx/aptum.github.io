@@ -1537,7 +1537,7 @@
       "lon": 3.227962914565, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gullegemsesteenweg"
     }, 
     {
@@ -1892,6 +1892,9 @@
       "street": "Gullegemsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "79"
       ], 

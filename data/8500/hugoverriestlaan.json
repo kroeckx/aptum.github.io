@@ -711,6 +711,10 @@
       "street": "Hugo Verriestlaan"
     }, 
     {
+      "busnrs": [
+        "B000", 
+        "C000"
+      ], 
       "hnrlbls": [
         "155"
       ], 
@@ -735,19 +739,22 @@
       "street": "Hugo Verriestlaan"
     }, 
     {
+      "apptnrs": [
+        "0033"
+      ], 
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "13", 
-        "21", 
-        "22", 
-        "23", 
-        "31", 
-        "32", 
-        "41", 
-        "42", 
-        "43"
+        "0001", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032", 
+        "0041", 
+        "0042", 
+        "0043"
       ], 
       "hnrlbls": [
         "157"
@@ -2243,6 +2250,18 @@
       "housenumber": "98", 
       "lat": 50.824182411543, 
       "lon": 3.281470694384, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hugo Verriestlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "98A"
+      ], 
+      "housenumber": "98A", 
+      "lat": 50.824089059831, 
+      "lon": 3.28158384862, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanPerceel", 
