@@ -1,6 +1,21 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.92275108168, 
+      "lon": 3.970148078799, 
+      "municipality": "Erpe-Mere", 
+      "pcode": "9420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
       "hnrlbls": [
         "11A"
       ], 
@@ -204,6 +219,9 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -226,18 +244,6 @@
       "housenumber": "7", 
       "lat": 50.922627753094, 
       "lon": 3.969831678001, 
-      "municipality": "Erpe-Mere", 
-      "pcode": "9420", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.922775956731, 
-      "lon": 3.969557062866, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 

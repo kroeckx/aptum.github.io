@@ -188,29 +188,22 @@
     }, 
     {
       "busnrs": [
-        "001A", 
-        "003B", 
-        "004A", 
-        "014B", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
         "0601", 
         "0602", 
-        "0902", 
-        "10", 
-        "12", 
-        "13", 
-        "14B", 
-        "15", 
-        "17", 
-        "19", 
-        "1A", 
-        "3B", 
-        "4", 
-        "4A", 
-        "5", 
-        "7", 
-        "7B", 
-        "8", 
-        "9"
+        "0701", 
+        "0702", 
+        "0801", 
+        "0902"
       ], 
       "hnrlbls": [
         "17"
@@ -220,7 +213,7 @@
       "lon": 2.921434200976, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vindictivelaan"
     }, 
     {
@@ -792,25 +785,23 @@
     }, 
     {
       "busnrs": [
-        "0101", 
         "0201", 
-        "1", 
-        "2", 
-        "4", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0301", 
+        "0401", 
+        "0601", 
+        "0701", 
+        "0801", 
+        "0901"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.227761727929, 
-      "lon": 2.919156821185, 
+      "lat": 51.227647749713, 
+      "lon": 2.919238826938, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vindictivelaan"
     }, 
     {

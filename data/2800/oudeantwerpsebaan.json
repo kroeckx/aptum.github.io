@@ -354,8 +354,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.042043357778, 
-      "lon": 4.466283776072, 
+      "lat": 51.042046950866, 
+      "lon": 4.466286777917, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -762,11 +762,11 @@
         "18-30"
       ], 
       "housenumber": "18", 
-      "lat": 51.040741575624, 
-      "lon": 4.470295014393, 
+      "lat": 51.040775929204, 
+      "lon": 4.470380496132, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Antwerpsebaan"
     }, 
     {
@@ -1018,11 +1018,11 @@
         "18-30"
       ], 
       "housenumber": "20", 
-      "lat": 51.040741575624, 
-      "lon": 4.470295014393, 
+      "lat": 51.040775929204, 
+      "lon": 4.470380496132, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Antwerpsebaan"
     }, 
     {
@@ -1183,14 +1183,14 @@
     }, 
     {
       "hnrlbls": [
-        "18-30"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.040741575624, 
-      "lon": 4.470295014393, 
+      "lat": 51.04071492145, 
+      "lon": 4.470245337655, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oude Antwerpsebaan"
     }, 
     {
@@ -1330,11 +1330,11 @@
         "18-30"
       ], 
       "housenumber": "24", 
-      "lat": 51.040741575624, 
-      "lon": 4.470295014393, 
+      "lat": 51.040775929204, 
+      "lon": 4.470380496132, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Antwerpsebaan"
     }, 
     {
@@ -1378,11 +1378,11 @@
         "18-30"
       ], 
       "housenumber": "26", 
-      "lat": 51.040741575624, 
-      "lon": 4.470295014393, 
+      "lat": 51.040775929204, 
+      "lon": 4.470380496132, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Antwerpsebaan"
     }, 
     {
@@ -1450,11 +1450,11 @@
         "18-30"
       ], 
       "housenumber": "28", 
-      "lat": 51.040741575624, 
-      "lon": 4.470295014393, 
+      "lat": 51.040775929204, 
+      "lon": 4.470380496132, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Antwerpsebaan"
     }, 
     {
@@ -1570,11 +1570,11 @@
         "18-30"
       ], 
       "housenumber": "30", 
-      "lat": 51.040741575624, 
-      "lon": 4.470295014393, 
+      "lat": 51.040775929204, 
+      "lon": 4.470380496132, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Antwerpsebaan"
     }, 
     {
@@ -1602,8 +1602,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.040861120487, 
-      "lon": 4.470097656245, 
+      "lat": 51.040920982682, 
+      "lon": 4.469998976988, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -2186,6 +2186,30 @@
     }, 
     {
       "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 51.041293764293, 
+      "lon": 4.468735071072, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Oude Antwerpsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "79A"
+      ], 
+      "housenumber": "79A", 
+      "lat": 51.041329972667, 
+      "lon": 4.468650026391, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Oude Antwerpsebaan"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -2206,6 +2230,23 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oude Antwerpsebaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 51.041371593702, 
+      "lon": 4.468542322349, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oude Antwerpsebaan"
     }, 
     {
@@ -2310,8 +2351,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.042827218684, 
-      "lon": 4.468285080593, 
+      "lat": 51.042586078329, 
+      "lon": 4.468033609994, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -2322,8 +2363,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.042524896117, 
-      "lon": 4.467889038209, 
+      "lat": 51.042120992316, 
+      "lon": 4.467285037005, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

@@ -77,8 +77,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.978211061379, 
-      "lon": 4.866648079885, 
+      "lat": 50.978213674212, 
+      "lon": 4.866646683728, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -1196,8 +1196,8 @@
         "297"
       ], 
       "housenumber": "297", 
-      "lat": 50.974519170715, 
-      "lon": 4.892191920145, 
+      "lat": 50.974528603398, 
+      "lon": 4.892193307066, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -1975,8 +1975,8 @@
         "368"
       ], 
       "housenumber": "368", 
-      "lat": 50.974494169074, 
-      "lon": 4.894589244459, 
+      "lat": 50.974506272278, 
+      "lon": 4.894596499602, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -2086,8 +2086,8 @@
         "378"
       ], 
       "housenumber": "378", 
-      "lat": 50.974490895029, 
-      "lon": 4.894979055049, 
+      "lat": 50.974490625999, 
+      "lon": 4.894978909641, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -2473,8 +2473,8 @@
         "410"
       ], 
       "housenumber": "410", 
-      "lat": 50.97431737996, 
-      "lon": 4.896826096553, 
+      "lat": 50.974317916096, 
+      "lon": 4.896826814518, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -2497,8 +2497,8 @@
         "412"
       ], 
       "housenumber": "412", 
-      "lat": 50.974409441989, 
-      "lon": 4.896963681012, 
+      "lat": 50.974404307406, 
+      "lon": 4.896966043605, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -2702,13 +2702,10 @@
       "street": "Diestsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "432-432B"
+        "432A"
       ], 
-      "housenumber": "432", 
+      "housenumber": "432A", 
       "lat": 50.974495465126, 
       "lon": 4.898103011981, 
       "municipality": "Aarschot", 
@@ -2718,11 +2715,11 @@
     }, 
     {
       "hnrlbls": [
-        "432-432B"
+        "432B"
       ], 
       "housenumber": "432B", 
-      "lat": 50.974495465126, 
-      "lon": 4.898103011981, 
+      "lat": 50.97450638462, 
+      "lon": 4.898053728169, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2928,8 +2925,8 @@
         "449"
       ], 
       "housenumber": "449", 
-      "lat": 50.975056220967, 
-      "lon": 4.906101467791, 
+      "lat": 50.975056313462, 
+      "lon": 4.906100899309, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -2957,8 +2954,8 @@
         "451"
       ], 
       "housenumber": "451", 
-      "lat": 50.9748793519, 
-      "lon": 4.90624936951, 
+      "lat": 50.97490564845, 
+      "lon": 4.906238992508, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -3143,8 +3140,8 @@
         "467"
       ], 
       "housenumber": "467", 
-      "lat": 50.974829038532, 
-      "lon": 4.907734296506, 
+      "lat": 50.974839833744, 
+      "lon": 4.907732569777, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -3355,8 +3352,8 @@
         "490A"
       ], 
       "housenumber": "490A", 
-      "lat": 50.975520611478, 
-      "lon": 4.905453097997, 
+      "lat": 50.975535907514, 
+      "lon": 4.905430348992, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -3379,8 +3376,8 @@
         "495"
       ], 
       "housenumber": "495", 
-      "lat": 50.975376822575, 
-      "lon": 4.911352958138, 
+      "lat": 50.975424814238, 
+      "lon": 4.911355507768, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -3687,11 +3684,11 @@
         "524"
       ], 
       "housenumber": "524", 
-      "lat": 50.975604428379, 
-      "lon": 4.907781383119, 
+      "lat": 50.975726438862, 
+      "lon": 4.907776095671, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -3831,8 +3828,8 @@
         "537"
       ], 
       "housenumber": "537", 
-      "lat": 50.975662466436, 
-      "lon": 4.914466160608, 
+      "lat": 50.97564130748, 
+      "lon": 4.91445409579, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -4203,11 +4200,11 @@
         "579"
       ], 
       "housenumber": "579", 
-      "lat": 50.975887331198, 
-      "lon": 4.918582813571, 
+      "lat": 50.97573634659, 
+      "lon": 4.918593997715, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -4506,8 +4503,8 @@
         "610"
       ], 
       "housenumber": "610", 
-      "lat": 50.976372425963, 
-      "lon": 4.918365955011, 
+      "lat": 50.97638072175, 
+      "lon": 4.918360499188, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanGebouw", 
@@ -4554,8 +4551,8 @@
         "614"
       ], 
       "housenumber": "614", 
-      "lat": 50.976716878118, 
-      "lon": 4.918524350702, 
+      "lat": 50.97658964821, 
+      "lon": 4.918549910869, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4578,8 +4575,8 @@
         "616"
       ], 
       "housenumber": "616", 
-      "lat": 50.976611367527, 
-      "lon": 4.918672621986, 
+      "lat": 50.976612171197, 
+      "lon": 4.918673770553, 
       "municipality": "Aarschot", 
       "pcode": "3202", 
       "source": "afgeleidVanPerceelGrb", 

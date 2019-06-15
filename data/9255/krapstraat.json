@@ -293,11 +293,11 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.001433910037, 
-      "lon": 4.178850959445, 
+      "lat": 51.001445118039, 
+      "lon": 4.178777403379, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Krapstraat"
     }, 
     {
@@ -593,7 +593,7 @@
       "lon": 4.176987748881, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Krapstraat"
     }, 
     {
@@ -1062,8 +1062,8 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 50.999998954223, 
-      "lon": 4.17540270791, 
+      "lat": 51.000055282438, 
+      "lon": 4.175272411599, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1674,8 +1674,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.005664345196, 
-      "lon": 4.181823438984, 
+      "lat": 51.005674665696, 
+      "lon": 4.181812712283, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2022,8 +2022,20 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.003274256904, 
-      "lon": 4.180651307747, 
+      "lat": 51.003266799356, 
+      "lon": 4.180822869441, 
+      "municipality": "Buggenhout", 
+      "pcode": "9255", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Krapstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "92A"
+      ], 
+      "housenumber": "92A", 
+      "lat": 51.003213227395, 
+      "lon": 4.180768375773, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 

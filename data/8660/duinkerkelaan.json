@@ -887,9 +887,17 @@
     {
       "apptnrs": [
         "0101", 
+        "0102", 
         "0201", 
+        "0202", 
         "0301", 
-        "W001"
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "W001", 
+        "W002"
       ], 
       "hnrlbls": [
         "46"
@@ -909,18 +917,6 @@
       "housenumber": "47", 
       "lat": 51.100753843039, 
       "lon": 2.585924700492, 
-      "municipality": "De Panne", 
-      "pcode": "8660", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Duinkerkelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "48"
-      ], 
-      "housenumber": "48", 
-      "lat": 51.102003357726, 
-      "lon": 2.588126028122, 
       "municipality": "De Panne", 
       "pcode": "8660", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1448,12 +1444,24 @@
       "street": "Duinkerkelaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "G001", 
+        "G002", 
+        "G003"
+      ], 
       "hnrlbls": [
-        "87"
+        "87-89"
       ], 
       "housenumber": "87", 
-      "lat": 51.098519389179, 
-      "lon": 2.583706965864, 
+      "lat": 51.098328578874, 
+      "lon": 2.583676407982, 
       "municipality": "De Panne", 
       "pcode": "8660", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1466,6 +1474,30 @@
       "housenumber": "88", 
       "lat": 51.101050094989, 
       "lon": 2.585608512085, 
+      "municipality": "De Panne", 
+      "pcode": "8660", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Duinkerkelaan"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "G001", 
+        "W001"
+      ], 
+      "hnrlbls": [
+        "87-89"
+      ], 
+      "housenumber": "89", 
+      "lat": 51.098328578874, 
+      "lon": 2.583676407982, 
       "municipality": "De Panne", 
       "pcode": "8660", 
       "source": "manueleAanduidingVanGebouw", 

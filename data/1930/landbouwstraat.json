@@ -262,22 +262,19 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "GVLO"
+        "001", 
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.885250954008, 
-      "lon": 4.474891762394, 
+      "lat": 50.885248180096, 
+      "lon": 4.474877687192, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Landbouwstraat"
     }, 
     {
@@ -427,6 +424,10 @@
       "street": "Landbouwstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -837,10 +838,11 @@
       "street": "Landbouwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
+      "apptnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "72"

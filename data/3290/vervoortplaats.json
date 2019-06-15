@@ -74,14 +74,14 @@
     }, 
     {
       "hnrlbls": [
-        "15"
+        "15_1"
       ], 
-      "housenumber": "15", 
-      "lat": 50.980405948594, 
-      "lon": 5.059926239724, 
+      "housenumber": "15_1", 
+      "lat": 50.980383808862, 
+      "lon": 5.059945849549, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Vervoortplaats"
     }, 
     {
@@ -350,6 +350,34 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Vervoortplaats"
+    }, 
+    {
+      "hnrlbls": [
+        "34-35"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.980614666012, 
+      "lon": 5.061745841393, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vervoortplaats"
+    }, 
+    {
+      "apptnrs": [
+        "001"
+      ], 
+      "hnrlbls": [
+        "35", 
+        "34-35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.980614666012, 
+      "lon": 5.061745841393, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vervoortplaats"
     }, 
     {

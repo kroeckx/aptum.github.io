@@ -220,18 +220,6 @@
       "street": "Pauwengraaf"
     }, 
     {
-      "hnrlbls": [
-        "110-112"
-      ], 
-      "housenumber": "112", 
-      "lat": 50.988801816671, 
-      "lon": 5.691882267084, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Pauwengraaf"
-    }, 
-    {
       "apptnrs": [
         "1", 
         "2"
@@ -334,19 +322,19 @@
       "street": "Pauwengraaf"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "120-122"
+        "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.988804843382, 
-      "lon": 5.691285644154, 
+      "lat": 50.988749083821, 
+      "lon": 5.691335207833, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pauwengraaf"
     }, 
     {
@@ -359,18 +347,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Pauwengraaf"
-    }, 
-    {
-      "hnrlbls": [
-        "120-122"
-      ], 
-      "housenumber": "122", 
-      "lat": 50.988804843382, 
-      "lon": 5.691285644154, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Pauwengraaf"
     }, 
     {
@@ -602,7 +578,6 @@
     }, 
     {
       "apptnrs": [
-        "2.0", 
         "2L", 
         "2R", 
         "3L", 
@@ -832,14 +807,14 @@
     }, 
     {
       "hnrlbls": [
-        "26-28"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.988799650908, 
-      "lon": 5.696189932919, 
+      "lat": 50.988788379316, 
+      "lon": 5.696192889721, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Pauwengraaf"
     }, 
     {
@@ -863,7 +838,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "26-28"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 50.988799650908, 
@@ -871,18 +846,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Pauwengraaf"
-    }, 
-    {
-      "hnrlbls": [
-        "27-29"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.988205367844, 
-      "lon": 5.696970638144, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
       "street": "Pauwengraaf"
     }, 
     {
@@ -970,21 +933,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Pauwengraaf"
-    }, 
-    {
-      "apptnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.988787538579, 
-      "lon": 5.695733760471, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
       "street": "Pauwengraaf"
     }, 
     {
@@ -1257,18 +1205,6 @@
     }, 
     {
       "hnrlbls": [
-        "51-55"
-      ], 
-      "housenumber": "53", 
-      "lat": 50.98822483232, 
-      "lon": 5.6957963045, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Pauwengraaf"
-    }, 
-    {
-      "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
@@ -1317,18 +1253,6 @@
       "housenumber": "57", 
       "lat": 50.988293732383, 
       "lon": 5.695610229203, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Pauwengraaf"
-    }, 
-    {
-      "hnrlbls": [
-        "58"
-      ], 
-      "housenumber": "58", 
-      "lat": 50.988725981738, 
-      "lon": 5.69444017004, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -1388,18 +1312,6 @@
     }, 
     {
       "hnrlbls": [
-        "62"
-      ], 
-      "housenumber": "62", 
-      "lat": 50.988802095761, 
-      "lon": 5.694164268741, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Pauwengraaf"
-    }, 
-    {
-      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
@@ -1436,38 +1348,24 @@
     }, 
     {
       "hnrlbls": [
-        "66-70"
-      ], 
-      "housenumber": "66", 
-      "lat": 50.988803113607, 
-      "lon": 5.694018147342, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Pauwengraaf"
-    }, 
-    {
-      "hnrlbls": [
-        "66-70"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.988803113607, 
-      "lon": 5.694018147342, 
+      "lat": 50.988711273768, 
+      "lon": 5.694038197551, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pauwengraaf"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
-        "3", 
-        "7", 
-        "71"
+        "3"
       ], 
       "hnrlbls": [
-        "69-71"
+        "69"
       ], 
       "housenumber": "69", 
       "lat": 50.988222643897, 
@@ -1506,26 +1404,14 @@
     }, 
     {
       "hnrlbls": [
-        "66-70"
+        "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.988803113607, 
-      "lon": 5.694018147342, 
+      "lat": 50.988710848549, 
+      "lon": 5.693972232878, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Pauwengraaf"
-    }, 
-    {
-      "hnrlbls": [
-        "69-71"
-      ], 
-      "housenumber": "71", 
-      "lat": 50.988222643897, 
-      "lon": 5.695018208596, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pauwengraaf"
     }, 
     {
@@ -1884,11 +1770,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.988247695912, 
-      "lon": 5.693450029784, 
+      "lat": 50.988323152382, 
+      "lon": 5.69343179436, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pauwengraaf"
     }, 
     {
@@ -1924,11 +1810,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.98874187586, 
-      "lon": 5.692654627126, 
+      "lat": 50.988741160601, 
+      "lon": 5.692710160987, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pauwengraaf"
     }, 
     {

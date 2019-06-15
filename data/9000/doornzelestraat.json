@@ -265,21 +265,6 @@
       "street": "Doornzelestraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.063956560525, 
-      "lon": 3.73031373791, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Doornzelestraat"
-    }, 
-    {
       "hnrlbls": [
         "25"
       ], 
@@ -376,15 +361,25 @@
       "street": "Doornzelestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
       "hnrlbls": [
-        "33-35"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.064407959486, 
-      "lon": 3.732335772061, 
+      "lat": 51.06437386646, 
+      "lon": 3.732314693777, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzelestraat"
     }, 
     {
@@ -406,12 +401,24 @@
       "street": "Doornzelestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
-        "33-35"
+        "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.064407959486, 
-      "lon": 3.732335772061, 
+      "lat": 51.064390392306, 
+      "lon": 3.732478669986, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

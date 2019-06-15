@@ -83,8 +83,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.232432234121, 
-      "lon": 4.422920097869, 
+      "lat": 51.232431964537, 
+      "lon": 4.422919954383, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -95,8 +95,8 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.231878037861, 
-      "lon": 4.423444294209, 
+      "lat": 51.231878486944, 
+      "lon": 4.423445010575, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanPerceelGrb", 
@@ -144,6 +144,23 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hardenvoort"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.232365841026, 
+      "lon": 4.423815249501, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hardenvoort"
     }, 
     {
@@ -362,10 +379,10 @@
       "street": "Hardenvoort"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "32"
@@ -497,6 +514,10 @@
       "street": "Hardenvoort"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "40"
       ], 

@@ -820,8 +820,8 @@
         "35-37"
       ], 
       "housenumber": "35", 
-      "lat": 51.17151303244, 
-      "lon": 4.444918251968, 
+      "lat": 51.1716137829, 
+      "lon": 4.444520213707, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -835,8 +835,8 @@
         "35-37"
       ], 
       "housenumber": "37", 
-      "lat": 51.17151303244, 
-      "lon": 4.444918251968, 
+      "lat": 51.1716137829, 
+      "lon": 4.444520213707, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1090,6 +1090,11 @@
       "street": "Van Peborghlei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "GLVL"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -1098,7 +1103,7 @@
       "lon": 4.44302930598, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Peborghlei"
     }, 
     {

@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.100608381261, 
-      "lon": 3.762624749079, 
+      "lat": 51.100608237194, 
+      "lon": 3.762666725106, 
       "municipality": "Gent", 
       "pcode": "9041", 
       "source": "manueleAanduidingVanPerceel", 
@@ -25,12 +25,18 @@
       "street": "Groenehoekstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.100608769221, 
-      "lon": 3.762525233881, 
+      "lat": 51.100608394739, 
+      "lon": 3.762504822728, 
       "municipality": "Gent", 
       "pcode": "9041", 
       "source": "manueleAanduidingVanPerceel", 

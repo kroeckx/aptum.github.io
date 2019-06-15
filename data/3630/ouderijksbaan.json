@@ -126,6 +126,18 @@
       "street": "Oude Rijksbaan"
     }, 
     {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.98061118105, 
+      "lon": 5.704573558939, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Oude Rijksbaan"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -358,6 +370,18 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.9808381094, 
+      "lon": 5.709950083428, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Oude Rijksbaan"
+    }, 
+    {
+      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -373,8 +397,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.980942132779, 
-      "lon": 5.710146899854, 
+      "lat": 50.980936155936, 
+      "lon": 5.71015854983, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 

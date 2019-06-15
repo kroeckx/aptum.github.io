@@ -258,7 +258,19 @@
       "lon": 5.227147864109, 
       "municipality": "Beringen", 
       "pcode": "3580", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Harmoniestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.047786405452, 
+      "lon": 5.227105385535, 
+      "municipality": "Beringen", 
+      "pcode": "3580", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Harmoniestraat"
     }
   ]

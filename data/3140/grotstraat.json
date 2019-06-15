@@ -65,8 +65,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.997786993122, 
-      "lon": 4.675831590061, 
+      "lat": 50.997796613243, 
+      "lon": 4.675830940989, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -86,6 +86,18 @@
     }, 
     {
       "hnrlbls": [
+        "15B"
+      ], 
+      "housenumber": "15B", 
+      "lat": 50.997794602516, 
+      "lon": 4.675086613756, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grotstraat"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -101,8 +113,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.997488774486, 
-      "lon": 4.675161676038, 
+      "lat": 50.997486512729, 
+      "lon": 4.675167216822, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -146,7 +158,7 @@
     }, 
     {
       "hnrlbls": [
-        "1A-1B"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.996167164603, 
@@ -158,14 +170,14 @@
     }, 
     {
       "hnrlbls": [
-        "1A-1B"
+        "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 50.996167164603, 
-      "lon": 4.675719955147, 
+      "lat": 50.996899385715, 
+      "lon": 4.676661227497, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grotstraat"
     }, 
     {
@@ -178,18 +190,6 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
-      "street": "Grotstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1D"
-      ], 
-      "housenumber": "1D", 
-      "lat": 50.996891428442, 
-      "lon": 4.676644793373, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Grotstraat"
     }, 
     {

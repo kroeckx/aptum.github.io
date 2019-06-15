@@ -1107,14 +1107,15 @@
         "bus6"
       ], 
       "hnrlbls": [
+        "6-8", 
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.317317515992, 
-      "lon": 4.981174694468, 
+      "lat": 51.317297124734, 
+      "lon": 4.980981219899, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Steenweg op Sevendonk"
     }, 
     {
@@ -1371,14 +1372,15 @@
         "bus5"
       ], 
       "hnrlbls": [
-        "8"
+        "8", 
+        "6-8"
       ], 
       "housenumber": "8", 
-      "lat": 51.317218771148, 
-      "lon": 4.980993813977, 
+      "lat": 51.317297124734, 
+      "lon": 4.980981219899, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Steenweg op Sevendonk"
     }, 
     {

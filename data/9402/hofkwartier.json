@@ -1,12 +1,19 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.828897145558, 
-      "lon": 4.049564217073, 
+      "lat": 50.829190901181, 
+      "lon": 4.04948855971, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -26,11 +33,35 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.828399305078, 
+      "lon": 4.049831170299, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hofkwartier"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.828866694548, 
       "lon": 4.051598009227, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hofkwartier"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.828235894641, 
+      "lon": 4.049905232706, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -74,66 +105,6 @@
     }, 
     {
       "hnrlbls": [
-        "1-1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.828897145558, 
-      "lon": 4.049564217073, 
-      "municipality": "Ninove", 
-      "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hofkwartier"
-    }, 
-    {
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.828737712268, 
-      "lon": 4.049646202926, 
-      "municipality": "Ninove", 
-      "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hofkwartier"
-    }, 
-    {
-      "hnrlbls": [
-        "1C"
-      ], 
-      "housenumber": "1C", 
-      "lat": 50.828574657204, 
-      "lon": 4.049751774769, 
-      "municipality": "Ninove", 
-      "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hofkwartier"
-    }, 
-    {
-      "hnrlbls": [
-        "1D"
-      ], 
-      "housenumber": "1D", 
-      "lat": 50.828408865514, 
-      "lon": 4.049842744636, 
-      "municipality": "Ninove", 
-      "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hofkwartier"
-    }, 
-    {
-      "hnrlbls": [
-        "1E"
-      ], 
-      "housenumber": "1E", 
-      "lat": 50.828238316406, 
-      "lon": 4.049903229177, 
-      "municipality": "Ninove", 
-      "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hofkwartier"
-    }, 
-    {
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -151,6 +122,30 @@
       "housenumber": "20", 
       "lat": 50.829292605582, 
       "lon": 4.051857877788, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hofkwartier"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.829010604693, 
+      "lon": 4.052660322498, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hofkwartier"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.82913262043, 
+      "lon": 4.052369517462, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -181,12 +176,15 @@
       "street": "Hofkwartier"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.828953094739, 
-      "lon": 4.052635726593, 
+      "lat": 50.829113971699, 
+      "lon": 4.049529676154, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -233,8 +231,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.829148757367, 
-      "lon": 4.052419798414, 
+      "lat": 50.828900962781, 
+      "lon": 4.049579520838, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -254,11 +252,35 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.828739335385, 
+      "lon": 4.049648037162, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hofkwartier"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 50.828670999773, 
       "lon": 4.051069179488, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hofkwartier"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.828573664508, 
+      "lon": 4.049750362089, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 

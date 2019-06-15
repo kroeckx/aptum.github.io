@@ -53,8 +53,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.108705173416, 
-      "lon": 4.100121885235, 
+      "lat": 51.10869924087, 
+      "lon": 4.100121919242, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
       "source": "afgeleidVanGebouw", 
@@ -269,11 +269,23 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.112754919747, 
-      "lon": 4.096629138228, 
+      "lat": 51.11277550116, 
+      "lon": 4.096705989316, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Wareslagestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 51.112738124957, 
+      "lon": 4.096713489245, 
+      "municipality": "Waasmunster", 
+      "pcode": "9250", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wareslagestraat"
     }, 
     {

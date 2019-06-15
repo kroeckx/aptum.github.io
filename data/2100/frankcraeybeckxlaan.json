@@ -63,11 +63,11 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.224436672358, 
-      "lon": 4.457957712801, 
+      "lat": 51.224424161984, 
+      "lon": 4.457979446525, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Frank Craeybeckxlaan"
     }, 
     {
@@ -80,7 +80,7 @@
         "302"
       ], 
       "hnrlbls": [
-        "109-111"
+        "109"
       ], 
       "housenumber": "109", 
       "lat": 51.224758246442, 
@@ -104,14 +104,14 @@
     }, 
     {
       "hnrlbls": [
-        "109-111"
+        "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.224758246442, 
-      "lon": 4.458586308854, 
+      "lat": 51.224785397663, 
+      "lon": 4.458578059172, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frank Craeybeckxlaan"
     }, 
     {
@@ -1217,6 +1217,12 @@
       "street": "Frank Craeybeckxlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1282,8 +1288,11 @@
       "street": "Frank Craeybeckxlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "84"
@@ -1465,8 +1474,11 @@
       "street": "Frank Craeybeckxlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "94"
@@ -1498,6 +1510,12 @@
       "street": "Frank Craeybeckxlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "96"
       ], 

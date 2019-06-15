@@ -29,8 +29,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.238217696533, 
-      "lon": 4.632360718446, 
+      "lat": 51.238213991186, 
+      "lon": 4.632369718208, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -314,26 +314,62 @@
     }, 
     {
       "hnrlbls": [
-        "30F-30G"
+        "30A"
       ], 
-      "housenumber": "30F", 
-      "lat": 51.239428699425, 
-      "lon": 4.641184691916, 
+      "housenumber": "30A", 
+      "lat": 51.23967374383, 
+      "lon": 4.641175531704, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sniederspad"
     }, 
     {
       "hnrlbls": [
-        "30F-30G"
+        "30C"
       ], 
-      "housenumber": "30G", 
-      "lat": 51.239428699425, 
-      "lon": 4.641184691916, 
+      "housenumber": "30C", 
+      "lat": 51.239805644301, 
+      "lon": 4.641313482377, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sniederspad"
+    }, 
+    {
+      "hnrlbls": [
+        "30E"
+      ], 
+      "housenumber": "30E", 
+      "lat": 51.239773521144, 
+      "lon": 4.640549223028, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sniederspad"
+    }, 
+    {
+      "hnrlbls": [
+        "30F"
+      ], 
+      "housenumber": "30F", 
+      "lat": 51.239718305489, 
+      "lon": 4.640638967703, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sniederspad"
+    }, 
+    {
+      "hnrlbls": [
+        "30G"
+      ], 
+      "housenumber": "30G", 
+      "lat": 51.239654059695, 
+      "lon": 4.640668805352, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sniederspad"
     }, 
     {
@@ -362,21 +398,9 @@
     }, 
     {
       "hnrlbls": [
-        "32_1"
+        "32B"
       ], 
-      "housenumber": "32_1", 
-      "lat": 51.239653402796, 
-      "lon": 4.640680829583, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sniederspad"
-    }, 
-    {
-      "hnrlbls": [
-        "32b"
-      ], 
-      "housenumber": "32b", 
+      "housenumber": "32B", 
       "lat": 51.239373923568, 
       "lon": 4.64061604787, 
       "municipality": "Zoersel", 
@@ -389,8 +413,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.239072834225, 
-      "lon": 4.640801722335, 
+      "lat": 51.239067889031, 
+      "lon": 4.640802409345, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -522,6 +546,30 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 51.238823983235, 
+      "lon": 4.63906481794, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sniederspad"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.238869929082, 
+      "lon": 4.63850836653, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sniederspad"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -558,6 +606,30 @@
     }, 
     {
       "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.23889257413, 
+      "lon": 4.638038694834, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sniederspad"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.238910327088, 
+      "lon": 4.637782202893, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sniederspad"
+    }, 
+    {
+      "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
@@ -573,8 +645,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.239772805577, 
-      "lon": 4.643844346866, 
+      "lat": 51.239768660963, 
+      "lon": 4.643848618094, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

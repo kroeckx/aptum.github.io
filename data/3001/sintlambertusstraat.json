@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.863022681186, 
-      "lon": 4.694399299887, 
+      "lat": 50.863014616815, 
+      "lon": 4.694389868979, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -232,8 +232,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.862911734291, 
-      "lon": 4.693887456172, 
+      "lat": 50.862920982706, 
+      "lon": 4.693891355478, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -244,8 +244,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.863232897647, 
-      "lon": 4.693964256485, 
+      "lat": 50.863232446994, 
+      "lon": 4.693964679494, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -575,12 +575,15 @@
       "street": "Sint-Lambertusstraat"
     }, 
     {
+      "busnrs": [
+        "02K1"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.862952555272, 
-      "lon": 4.694531197739, 
+      "lat": 50.86294627377, 
+      "lon": 4.694527176872, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 

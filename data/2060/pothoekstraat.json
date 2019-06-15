@@ -557,9 +557,6 @@
       "street": "Pothoekstraat"
     }, 
     {
-      "busnrs": [
-        "144"
-      ], 
       "hnrlbls": [
         "142-144"
       ], 
@@ -584,9 +581,6 @@
       "street": "Pothoekstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -950,12 +944,29 @@
       "street": "Pothoekstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 51.220814366369, 
       "lon": 4.436140610416, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pothoekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 51.220814186271, 
+      "lon": 4.436141182683, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1223,9 +1234,9 @@
       "street": "Pothoekstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "41"
@@ -1513,6 +1524,12 @@
       "street": "Pothoekstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -1985,8 +2002,9 @@
       "street": "Pothoekstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "98"

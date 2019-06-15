@@ -291,14 +291,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-30"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.210031809909, 
-      "lon": 3.440088744966, 
+      "lat": 51.210039108967, 
+      "lon": 3.440159725727, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karreweg"
     }, 
     {
@@ -308,6 +308,18 @@
       "housenumber": "31", 
       "lat": 51.210316184065, 
       "lon": 3.440404085611, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Karreweg"
+    }, 
+    {
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.2102503283, 
+      "lon": 3.44016797391, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -327,23 +339,23 @@
     }, 
     {
       "hnrlbls": [
-        "33-35A"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.210476513378, 
-      "lon": 3.4401245472, 
+      "lat": 51.210346833994, 
+      "lon": 3.440151742649, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Karreweg"
     }, 
     {
       "hnrlbls": [
-        "33-35A"
+        "33A"
       ], 
       "housenumber": "33A", 
-      "lat": 51.210476513378, 
-      "lon": 3.4401245472, 
+      "lat": 51.210336458923, 
+      "lon": 3.440032450918, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -363,11 +375,11 @@
     }, 
     {
       "hnrlbls": [
-        "33-35A"
+        "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.210476513378, 
-      "lon": 3.4401245472, 
+      "lat": 51.210386623914, 
+      "lon": 3.439964476388, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -375,11 +387,11 @@
     }, 
     {
       "hnrlbls": [
-        "33-35A"
+        "35A"
       ], 
       "housenumber": "35A", 
-      "lat": 51.210476513378, 
-      "lon": 3.4401245472, 
+      "lat": 51.21047579784, 
+      "lon": 3.439941807416, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 

@@ -862,6 +862,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -1409,8 +1411,10 @@
       "street": "Muggenberglei"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "240"
@@ -1496,6 +1500,11 @@
       "street": "Muggenberglei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -1842,12 +1851,16 @@
       "street": "Muggenberglei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "274-276"
+        "274"
       ], 
       "housenumber": "274", 
-      "lat": 51.201892789552, 
-      "lon": 4.460555422917, 
+      "lat": 51.201930091826, 
+      "lon": 4.460555210734, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1871,16 +1884,14 @@
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6", 
-        "7"
+        "5"
       ], 
       "hnrlbls": [
-        "274-276"
+        "276"
       ], 
       "housenumber": "276", 
-      "lat": 51.201892789552, 
-      "lon": 4.460555422917, 
+      "lat": 51.201855217513, 
+      "lon": 4.46055577764, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2114,6 +2125,11 @@
       "street": "Muggenberglei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "31"
       ], 

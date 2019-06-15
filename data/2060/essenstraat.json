@@ -9,7 +9,7 @@
       "lon": 4.421751166539, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Essenstraat"
     }, 
     {
@@ -223,11 +223,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.228889092888, 
-      "lon": 4.422578792776, 
+      "lat": 51.228923975824, 
+      "lon": 4.422561225201, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Essenstraat"
     }, 
     {
@@ -243,15 +243,24 @@
       "street": "Essenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.228905148693, 
-      "lon": 4.422651106046, 
+      "lat": 51.228934025226, 
+      "lon": 4.422599316845, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Essenstraat"
     }, 
     {

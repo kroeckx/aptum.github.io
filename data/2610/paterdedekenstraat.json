@@ -357,21 +357,6 @@
       "street": "Pater De Dekenstraat"
     }, 
     {
-      "busnrs": [
-        "0"
-      ], 
-      "hnrlbls": [
-        "36A"
-      ], 
-      "housenumber": "36A", 
-      "lat": 51.168707231896, 
-      "lon": 4.392198417149, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Pater De Dekenstraat"
-    }, 
-    {
       "hnrlbls": [
         "37"
       ], 
@@ -600,8 +585,9 @@
       "street": "Pater De Dekenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "55"
@@ -730,8 +716,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.169142845107, 
-      "lon": 4.393356446723, 
+      "lat": 51.169143474031, 
+      "lon": 4.393357733831, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 

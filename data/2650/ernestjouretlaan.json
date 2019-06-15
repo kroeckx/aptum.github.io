@@ -831,6 +831,23 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 51.148893244196, 
+      "lon": 4.458109692657, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ernest Jouretlaan"
+    }, 
+    {
+      "busnrs": [
         "1", 
         "2", 
         "3", 

@@ -1176,8 +1176,8 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.018840167119, 
-      "lon": 4.84286889601, 
+      "lat": 51.018838719705, 
+      "lon": 4.842871161626, 
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
@@ -1188,8 +1188,8 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 51.018779520272, 
-      "lon": 4.842839064971, 
+      "lat": 51.018779954771, 
+      "lon": 4.842842774843, 
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 
@@ -1876,18 +1876,25 @@
       "street": "Aarschotsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "1 1", 
+        "1 2", 
+        "2", 
+        "2 1", 
+        "3"
+      ], 
       "busnrs": [
-        "4"
+        "1"
       ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.04961802294, 
-      "lon": 4.874407905126, 
+      "lat": 51.049578680065, 
+      "lon": 4.874254599253, 
       "municipality": "Herselt", 
       "pcode": "2230", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Aarschotsesteenweg"
     }, 
     {
@@ -1897,18 +1904,6 @@
       "housenumber": "36", 
       "lat": 51.048291869063, 
       "lon": 4.8718672534, 
-      "municipality": "Herselt", 
-      "pcode": "2230", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Aarschotsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.049587535628, 
-      "lon": 4.874097393805, 
       "municipality": "Herselt", 
       "pcode": "2230", 
       "source": "afgeleidVanGebouw", 

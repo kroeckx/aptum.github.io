@@ -20,12 +20,6 @@
       "street": "Schaarbeeklei"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -339,20 +333,6 @@
       "street": "Schaarbeeklei"
     }, 
     {
-      "apptnrs": [
-        "-1", 
-        "0", 
-        "1", 
-        "1/1", 
-        "1/2", 
-        "2/1", 
-        "2/3", 
-        "3", 
-        "4"
-      ], 
-      "busnrs": [
-        "00/2"
-      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -477,12 +457,12 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "2", 
         "3"
       ], 
       "busnrs": [
-        "00/1"
+        "00/1", 
+        "01/1"
       ], 
       "hnrlbls": [
         "142"
@@ -547,13 +527,11 @@
       "street": "Schaarbeeklei"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "busnrs": [
-        "00/1"
+        "00/1", 
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "152"
@@ -911,7 +889,8 @@
     {
       "busnrs": [
         "00/1", 
-        "01/1"
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "21"
@@ -945,8 +924,8 @@
         "1-218"
       ], 
       "housenumber": "218", 
-      "lat": 50.919247757696, 
-      "lon": 4.424867390121, 
+      "lat": 50.919221353712, 
+      "lon": 4.425002175889, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -969,8 +948,8 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 50.918612430188, 
-      "lon": 4.424227240791, 
+      "lat": 50.91860617215, 
+      "lon": 4.424342992996, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -1053,8 +1032,8 @@
         "237-239"
       ], 
       "housenumber": "237", 
-      "lat": 50.917528824712, 
-      "lon": 4.424293492773, 
+      "lat": 50.917527926051, 
+      "lon": 4.424292922866, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -1077,19 +1056,14 @@
         "237-239"
       ], 
       "housenumber": "239", 
-      "lat": 50.917528824712, 
-      "lon": 4.424293492773, 
+      "lat": 50.917527926051, 
+      "lon": 4.424292922866, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
       "street": "Schaarbeeklei"
     }, 
     {
-      "apptnrs": [
-        "2", 
-        "4", 
-        "4/2"
-      ], 
       "hnrlbls": [
         "24-26"
       ], 
@@ -1192,21 +1166,6 @@
       "street": "Schaarbeeklei"
     }, 
     {
-      "apptnrs": [
-        "1/1", 
-        "1/2", 
-        "1/3", 
-        "3/1", 
-        "3/2", 
-        "3/3", 
-        "4/1", 
-        "4/2", 
-        "4/3", 
-        "4/4"
-      ], 
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "24-26"
       ], 
@@ -1847,8 +1806,8 @@
         "301-524"
       ], 
       "housenumber": "524", 
-      "lat": 50.913352784707, 
-      "lon": 4.418447972579, 
+      "lat": 50.913349732175, 
+      "lon": 4.418439011018, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2112,8 +2071,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.922947930568, 
-      "lon": 4.428668256289, 
+      "lat": 50.92294963861, 
+      "lon": 4.428668116271, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2168,6 +2127,9 @@
       "street": "Schaarbeeklei"
     }, 
     {
+      "busnrs": [
+        "00/1"
+      ], 
       "hnrlbls": [
         "6"
       ], 

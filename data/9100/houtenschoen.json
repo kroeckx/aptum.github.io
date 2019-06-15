@@ -458,11 +458,47 @@
     }, 
     {
       "hnrlbls": [
-        "31"
+        "31A"
       ], 
-      "housenumber": "31", 
+      "housenumber": "31A", 
       "lat": 51.150093282734, 
       "lon": 4.172852294059, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houten Schoen"
+    }, 
+    {
+      "hnrlbls": [
+        "31B"
+      ], 
+      "housenumber": "31B", 
+      "lat": 51.149733866671, 
+      "lon": 4.172713739541, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houten Schoen"
+    }, 
+    {
+      "hnrlbls": [
+        "31C"
+      ], 
+      "housenumber": "31C", 
+      "lat": 51.150021906986, 
+      "lon": 4.173011943813, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houten Schoen"
+    }, 
+    {
+      "hnrlbls": [
+        "31D"
+      ], 
+      "housenumber": "31D", 
+      "lat": 51.150001276939, 
+      "lon": 4.173092920427, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -753,6 +789,18 @@
       "housenumber": "52", 
       "lat": 51.1516919196, 
       "lon": 4.171122839696, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houten Schoen"
+    }, 
+    {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 51.151622284317, 
+      "lon": 4.171300641196, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1298,6 +1346,7 @@
         "0301"
       ], 
       "hnrlbls": [
+        "96A-96D", 
         "96B"
       ], 
       "housenumber": "96B", 

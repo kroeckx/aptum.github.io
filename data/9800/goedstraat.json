@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.978074602412, 
-      "lon": 3.468313487377, 
+      "lat": 50.978065312051, 
+      "lon": 3.46834470929, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +185,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.978623747411, 
-      "lon": 3.465644273362, 
+      "lat": 50.978630481136, 
+      "lon": 3.465643146895, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -209,11 +209,11 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.978096979538, 
-      "lon": 3.468241999318, 
+      "lat": 50.978098772881, 
+      "lon": 3.468241395284, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Goedstraat"
     }, 
     {
@@ -362,14 +362,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-26"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.978161714229, 
-      "lon": 3.468196042359, 
+      "lat": 50.978143377721, 
+      "lon": 3.468149401732, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Goedstraat"
     }, 
     {
@@ -533,8 +533,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.982154452026, 
-      "lon": 3.460753575156, 
+      "lat": 50.982158456385, 
+      "lon": 3.460759906283, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -665,11 +665,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.978294379303, 
-      "lon": 3.467629012141, 
+      "lat": 50.978435223533, 
+      "lon": 3.467754753875, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Goedstraat"
     }
   ]

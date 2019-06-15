@@ -164,8 +164,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.224363787324, 
-      "lon": 2.906087407918, 
+      "lat": 51.224362542967, 
+      "lon": 2.90608129058, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -804,9 +804,6 @@
       "street": "Velodroomstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "6A"
       ], 
@@ -858,9 +855,21 @@
         "A"
       ], 
       "hnrlbls": [
-        "9"
+        "9-9A"
       ], 
       "housenumber": "9", 
+      "lat": 51.224882742772, 
+      "lon": 2.90670925427, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Velodroomstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9-9A"
+      ], 
+      "housenumber": "9A", 
       "lat": 51.224882742772, 
       "lon": 2.90670925427, 
       "municipality": "Oostende", 

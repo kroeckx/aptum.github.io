@@ -991,11 +991,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.947757583727, 
-      "lon": 4.830698147853, 
+      "lat": 50.94792688603, 
+      "lon": 4.830324565943, 
       "municipality": "Holsbeek", 
       "pcode": "3221", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Appelweg"
     }, 
     {
@@ -1363,11 +1363,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.946514481536, 
-      "lon": 4.820852939779, 
+      "lat": 50.946772538735, 
+      "lon": 4.821000433432, 
       "municipality": "Holsbeek", 
       "pcode": "3221", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Appelweg"
     }, 
     {
@@ -1464,6 +1464,18 @@
       "municipality": "Holsbeek", 
       "pcode": "3221", 
       "source": "afgeleidVanGebouw", 
+      "street": "Appelweg"
+    }, 
+    {
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 50.946552961499, 
+      "lon": 4.818723106588, 
+      "municipality": "Holsbeek", 
+      "pcode": "3221", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Appelweg"
     }, 
     {

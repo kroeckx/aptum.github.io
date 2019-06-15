@@ -356,17 +356,23 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.166476710283, 
-      "lon": 4.490708423828, 
+      "lat": 51.166541271209, 
+      "lon": 4.490772928292, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Binnensteenweg"
     }, 
     {
@@ -406,20 +412,15 @@
       "street": "Binnensteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 51.166136726276, 
-      "lon": 4.490915687779, 
+      "lat": 51.166264817603, 
+      "lon": 4.490911878874, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Binnensteenweg"
     }, 
     {

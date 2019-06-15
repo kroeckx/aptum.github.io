@@ -50,6 +50,18 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.199172395652, 
+      "lon": 3.77179517246, 
+      "municipality": "Assenede", 
+      "pcode": "9960", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Heideveld"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -65,11 +77,23 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.199888840349, 
-      "lon": 3.771091109478, 
+      "lat": 51.199892274915, 
+      "lon": 3.771077044374, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heideveld"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.199497540914, 
+      "lon": 3.771942100244, 
+      "municipality": "Assenede", 
+      "pcode": "9960", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Heideveld"
     }, 
     {

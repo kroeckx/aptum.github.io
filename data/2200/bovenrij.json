@@ -153,19 +153,27 @@
       "street": "Bovenrij"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
       "hnrlbls": [
-        "22"
+        "22A"
       ], 
-      "housenumber": "22", 
-      "lat": 51.174054411356, 
-      "lon": 4.838821763396, 
+      "housenumber": "22A", 
+      "lat": 51.174018712721, 
+      "lon": 4.838825121132, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bovenrij"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 51.174046210594, 
+      "lon": 4.838781928912, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bovenrij"
     }, 
     {
@@ -238,8 +246,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.174308248542, 
-      "lon": 4.838055451394, 
+      "lat": 51.174304664006, 
+      "lon": 4.838052698437, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -577,11 +585,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.174915577429, 
-      "lon": 4.837771573881, 
+      "lat": 51.174910004074, 
+      "lon": 4.837771660787, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bovenrij"
     }, 
     {
@@ -753,11 +761,40 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.175254270456, 
-      "lon": 4.83759123294, 
+      "lat": 51.175223476187, 
+      "lon": 4.837446211632, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bovenrij"
+    }, 
+    {
+      "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 51.175189920711, 
+      "lon": 4.837475760229, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bovenrij"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "62B"
+      ], 
+      "housenumber": "62B", 
+      "lat": 51.175167811706, 
+      "lon": 4.837497559164, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bovenrij"
     }, 
     {
@@ -1014,8 +1051,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.175542840943, 
-      "lon": 4.836587011227, 
+      "lat": 51.175529294897, 
+      "lon": 4.836557560964, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 

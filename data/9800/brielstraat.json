@@ -21,6 +21,18 @@
     }, 
     {
       "hnrlbls": [
+        "8-10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.981513182503, 
+      "lon": 3.524850665359, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Brielstraat"
+    }, 
+    {
+      "hnrlbls": [
         "2-11"
       ], 
       "housenumber": "11", 
@@ -80,6 +92,18 @@
       "street": "Brielstraat"
     }, 
     {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 50.982043147053, 
+      "lon": 3.526447544256, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brielstraat"
+    }, 
+    {
       "busnrs": [
         "3", 
         "4", 
@@ -129,6 +153,18 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brielstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8-10"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.981513182503, 
+      "lon": 3.524850665359, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brielstraat"
     }
   ]

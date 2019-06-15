@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.888776632355, 
-      "lon": 4.277056531537, 
+      "lat": 50.888762862158, 
+      "lon": 4.277035382246, 
       "municipality": "Asse", 
       "pcode": "1731", 
       "source": "afgeleidVanGebouw", 
@@ -204,6 +204,18 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.889373318511, 
+      "lon": 4.279008848697, 
+      "municipality": "Asse", 
+      "pcode": "1731", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Jan Longinstraat"
+    }, 
+    {
+      "hnrlbls": [
         "2A"
       ], 
       "housenumber": "2A", 
@@ -231,11 +243,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.889410831097, 
-      "lon": 4.279400467406, 
+      "lat": 50.889395452251, 
+      "lon": 4.279391258474, 
       "municipality": "Asse", 
       "pcode": "1731", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Jan Longinstraat"
     }, 
     {
@@ -375,8 +387,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.890621895985, 
-      "lon": 4.287263447128, 
+      "lat": 50.890619269786, 
+      "lon": 4.28723545278, 
       "municipality": "Asse", 
       "pcode": "1731", 
       "source": "afgeleidVanGebouw", 

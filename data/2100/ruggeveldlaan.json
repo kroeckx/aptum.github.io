@@ -447,14 +447,14 @@
     }, 
     {
       "hnrlbls": [
-        "493-501"
+        "493"
       ], 
       "housenumber": "493", 
-      "lat": 51.218994994749, 
-      "lon": 4.480649896441, 
+      "lat": 51.218863089222, 
+      "lon": 4.48079213215, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -470,14 +470,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "493-501"
+        "495"
       ], 
       "housenumber": "495", 
-      "lat": 51.218994994749, 
-      "lon": 4.480649896441, 
+      "lat": 51.218908411686, 
+      "lon": 4.480770200188, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -494,21 +494,20 @@
     }, 
     {
       "hnrlbls": [
-        "493-501"
+        "497"
       ], 
       "housenumber": "497", 
-      "lat": 51.218994994749, 
-      "lon": 4.480649896441, 
+      "lat": 51.218983952297, 
+      "lon": 4.480730307197, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
       "apptnrs": [
         "101", 
         "102", 
-        "103", 
         "201", 
         "202", 
         "203", 
@@ -521,14 +520,14 @@
         "501"
       ], 
       "hnrlbls": [
-        "493-501"
+        "499"
       ], 
       "housenumber": "499", 
-      "lat": 51.218994994749, 
-      "lon": 4.480649896441, 
+      "lat": 51.21906074363, 
+      "lon": 4.480698432229, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -544,15 +543,18 @@
       "street": "Ruggeveldlaan"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "hnrlbls": [
-        "493-501"
+        "501"
       ], 
       "housenumber": "501", 
-      "lat": 51.218994994749, 
-      "lon": 4.480649896441, 
+      "lat": 51.21909474262, 
+      "lon": 4.48067446895, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -600,7 +602,6 @@
         "3", 
         "4", 
         "5", 
-        "509", 
         "6"
       ], 
       "hnrlbls": [
@@ -1319,22 +1320,6 @@
     }, 
     {
       "busnrs": [
-        "3", 
-        "564"
-      ], 
-      "hnrlbls": [
-        "562-564"
-      ], 
-      "housenumber": "562", 
-      "lat": 51.221897795605, 
-      "lon": 4.479989605733, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "10", 
         "2", 
@@ -1347,7 +1332,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "562-564"
+        "564"
       ], 
       "housenumber": "564", 
       "lat": 51.221897795605, 
@@ -1366,7 +1351,6 @@
         "3", 
         "4", 
         "5", 
-        "568", 
         "6", 
         "7", 
         "8", 
@@ -1385,21 +1369,6 @@
     }, 
     {
       "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "568"
-      ], 
-      "housenumber": "568", 
-      "lat": 51.222202375558, 
-      "lon": 4.479933368389, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "10", 
         "11", 
@@ -1408,7 +1377,6 @@
         "3", 
         "4", 
         "5", 
-        "572", 
         "6", 
         "7", 
         "8", 
@@ -1426,33 +1394,6 @@
       "street": "Ruggeveldlaan"
     }, 
     {
-      "hnrlbls": [
-        "137-571"
-      ], 
-      "housenumber": "571", 
-      "lat": 51.221723823243, 
-      "lon": 4.479372846696, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "572"
-      ], 
-      "housenumber": "572", 
-      "lat": 51.222329432421, 
-      "lon": 4.479879567329, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
@@ -1467,14 +1408,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "573-591"
+        "573"
       ], 
       "housenumber": "573", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
+      "lat": 51.221989451554, 
+      "lon": 4.479254677709, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -1487,7 +1428,6 @@
         "3", 
         "4", 
         "5", 
-        "576", 
         "6", 
         "8", 
         "9"
@@ -1504,30 +1444,6 @@
       "street": "Ruggeveldlaan"
     }, 
     {
-      "hnrlbls": [
-        "573-591"
-      ], 
-      "housenumber": "575", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "576"
-      ], 
-      "housenumber": "576", 
-      "lat": 51.222448334593, 
-      "lon": 4.479799552226, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
@@ -1537,21 +1453,20 @@
         "3", 
         "4", 
         "5", 
-        "579", 
         "6", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "573-591"
+        "577"
       ], 
       "housenumber": "577", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
+      "lat": 51.222102752143, 
+      "lon": 4.479204850081, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -1581,106 +1496,38 @@
       "street": "Ruggeveldlaan"
     }, 
     {
-      "hnrlbls": [
-        "573-591"
-      ], 
-      "housenumber": "579", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
-        "6"
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
-        "580"
+        "581"
       ], 
-      "housenumber": "580", 
-      "lat": 51.222570443993, 
-      "lon": 4.479749746533, 
+      "housenumber": "581", 
+      "lat": 51.222213543493, 
+      "lon": 4.479147000561, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "583", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "573-591"
-      ], 
-      "housenumber": "581", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "584", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
       "hnrlbls": [
         "582"
       ], 
       "housenumber": "582", 
-      "lat": 51.222672655932, 
-      "lon": 4.479639774808, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "573-591"
-      ], 
-      "housenumber": "583", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "584"
-      ], 
-      "housenumber": "584", 
-      "lat": 51.222632642297, 
-      "lon": 4.47975118377, 
+      "lat": 51.222601170157, 
+      "lon": 4.479764706506, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1695,48 +1542,20 @@
         "3", 
         "4", 
         "5", 
-        "587", 
         "6", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "573-591"
+        "585"
       ], 
       "housenumber": "585", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "588"
-      ], 
-      "hnrlbls": [
-        "586"
-      ], 
-      "housenumber": "586", 
-      "lat": 51.222797281054, 
-      "lon": 4.479590976446, 
+      "lat": 51.222325585655, 
+      "lon": 4.479097169435, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "573-591"
-      ], 
-      "housenumber": "587", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -1774,33 +1593,20 @@
         "3", 
         "4", 
         "5", 
-        "591", 
         "6", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "573-591"
+        "589"
       ], 
       "housenumber": "589", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
+      "lat": 51.222440155819, 
+      "lon": 4.479035320523, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "573-591"
-      ], 
-      "housenumber": "591", 
-      "lat": 51.222195198523, 
-      "lon": 4.479060502147, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -1855,7 +1661,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "594-596"
+        "594"
       ], 
       "housenumber": "594", 
       "lat": 51.223119522038, 
@@ -1878,18 +1684,6 @@
       "street": "Ruggeveldlaan"
     }, 
     {
-      "hnrlbls": [
-        "594-596"
-      ], 
-      "housenumber": "596", 
-      "lat": 51.223119522038, 
-      "lon": 4.479583302022, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
@@ -1906,7 +1700,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "598-600"
+        "598"
       ], 
       "housenumber": "598", 
       "lat": 51.223244717582, 
@@ -1923,18 +1717,6 @@
       "housenumber": "6", 
       "lat": 51.209247749918, 
       "lon": 4.47346020185, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "598-600"
-      ], 
-      "housenumber": "600", 
-      "lat": 51.223244717582, 
-      "lon": 4.479596770373, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1963,13 +1745,12 @@
         "4", 
         "5", 
         "6", 
-        "604", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "602-604"
+        "602"
       ], 
       "housenumber": "602", 
       "lat": 51.2233713599, 
@@ -1977,21 +1758,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "602_3"
-      ], 
-      "housenumber": "602_3", 
-      "lat": 51.223371987735, 
-      "lon": 4.47960251417, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -2004,18 +1770,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "602-604"
-      ], 
-      "housenumber": "604", 
-      "lat": 51.2233713599, 
-      "lon": 4.479601081263, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
       "street": "Ruggeveldlaan"
     }, 
     {
@@ -2034,13 +1788,12 @@
         "4", 
         "5", 
         "6", 
-        "607", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "605-607"
+        "605"
       ], 
       "housenumber": "605", 
       "lat": 51.223320411487, 
@@ -2061,39 +1814,14 @@
         "4", 
         "5", 
         "6", 
-        "608", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "606-608"
+        "606"
       ], 
       "housenumber": "606", 
-      "lat": 51.223497278955, 
-      "lon": 4.479609827815, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "605-607"
-      ], 
-      "housenumber": "607", 
-      "lat": 51.223320411487, 
-      "lon": 4.478723365666, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "606-608"
-      ], 
-      "housenumber": "608", 
       "lat": 51.223497278955, 
       "lon": 4.479609827815, 
       "municipality": "Antwerpen", 
@@ -2115,13 +1843,12 @@
         "4", 
         "5", 
         "6", 
-        "611", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "609-611"
+        "609"
       ], 
       "housenumber": "609", 
       "lat": 51.223526950501, 
@@ -2133,21 +1860,6 @@
     }, 
     {
       "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "609_2"
-      ], 
-      "housenumber": "609_2", 
-      "lat": 51.223526953314, 
-      "lon": 4.478735450312, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "10", 
         "11", 
@@ -2157,13 +1869,12 @@
         "4", 
         "5", 
         "6", 
-        "612", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "610-612"
+        "610"
       ], 
       "housenumber": "610", 
       "lat": 51.223623193277, 
@@ -2174,30 +1885,6 @@
       "street": "Ruggeveldlaan"
     }, 
     {
-      "hnrlbls": [
-        "609-611"
-      ], 
-      "housenumber": "611", 
-      "lat": 51.223526950501, 
-      "lon": 4.478738456266, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "610-612"
-      ], 
-      "housenumber": "612", 
-      "lat": 51.223623193277, 
-      "lon": 4.479623584348, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
@@ -2206,13 +1893,12 @@
         "4", 
         "5", 
         "6", 
-        "615", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "613-615"
+        "613"
       ], 
       "housenumber": "613", 
       "lat": 51.223694136665, 
@@ -2224,52 +1910,6 @@
     }, 
     {
       "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "613_2-613_"
-      ], 
-      "housenumber": "613_2", 
-      "lat": 51.22369306342, 
-      "lon": 4.478730405237, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "613_2-613_"
-      ], 
-      "housenumber": "613_3", 
-      "lat": 51.22369306342, 
-      "lon": 4.478730405237, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "613_2-613_"
-      ], 
-      "housenumber": "613_5", 
-      "lat": 51.22369306342, 
-      "lon": 4.478730405237, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "10", 
         "11", 
@@ -2284,33 +1924,9 @@
         "9"
       ], 
       "hnrlbls": [
-        "614-616"
+        "614"
       ], 
       "housenumber": "614", 
-      "lat": 51.223749566599, 
-      "lon": 4.479627178994, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "613-615"
-      ], 
-      "housenumber": "615", 
-      "lat": 51.223694136665, 
-      "lon": 4.478736133446, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "614-616"
-      ], 
-      "housenumber": "616", 
       "lat": 51.223749566599, 
       "lon": 4.479627178994, 
       "municipality": "Antwerpen", 
@@ -2332,7 +1948,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "617-619"
+        "617"
       ], 
       "housenumber": "617", 
       "lat": 51.223823602759, 
@@ -2370,30 +1986,6 @@
     }, 
     {
       "hnrlbls": [
-        "617-619"
-      ], 
-      "housenumber": "619", 
-      "lat": 51.223823602759, 
-      "lon": 4.478700512144, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "620"
-      ], 
-      "housenumber": "620", 
-      "lat": 51.223873323969, 
-      "lon": 4.479640644203, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
         "622"
       ], 
       "housenumber": "622", 
@@ -2418,7 +2010,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "623-629"
+        "623-627"
       ], 
       "housenumber": "623", 
       "lat": 51.224504113401, 
@@ -2458,30 +2050,6 @@
       "street": "Ruggeveldlaan"
     }, 
     {
-      "hnrlbls": [
-        "623-629"
-      ], 
-      "housenumber": "625", 
-      "lat": 51.224504113401, 
-      "lon": 4.478604359659, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "626"
-      ], 
-      "housenumber": "626", 
-      "lat": 51.224474580921, 
-      "lon": 4.479615315219, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
@@ -2495,7 +2063,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "623-629"
+        "623-627"
       ], 
       "housenumber": "627", 
       "lat": 51.224504113401, 
@@ -2507,81 +2075,21 @@
     }, 
     {
       "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "627_1"
-      ], 
-      "housenumber": "627_1", 
-      "lat": 51.224564337576, 
-      "lon": 4.478602212143, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "630", 
         "7", 
         "8"
       ], 
       "hnrlbls": [
-        "628-630"
+        "628"
       ], 
       "housenumber": "628", 
       "lat": 51.22462890882, 
       "lon": 4.479618117929, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "623-629"
-      ], 
-      "housenumber": "629", 
-      "lat": 51.224504113401, 
-      "lon": 4.478604359659, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "628-630"
-      ], 
-      "housenumber": "630", 
-      "lat": 51.22462890882, 
-      "lon": 4.479618117929, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "busnrs": [
-        "6", 
-        "633"
-      ], 
-      "hnrlbls": [
-        "631-633"
-      ], 
-      "housenumber": "631", 
-      "lat": 51.224682971924, 
-      "lon": 4.478615376429, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2619,7 +2127,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "631-633"
+        "633"
       ], 
       "housenumber": "633", 
       "lat": 51.224682971924, 
@@ -3471,7 +2979,6 @@
         "4", 
         "5", 
         "6", 
-        "680", 
         "7", 
         "8"
       ], 
@@ -5169,12 +4676,11 @@
         "5", 
         "6", 
         "7", 
-        "764", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "762-764"
+        "762"
       ], 
       "housenumber": "762", 
       "lat": 51.229785167023, 
@@ -5202,18 +4708,6 @@
       "housenumber": "763", 
       "lat": 51.231627120768, 
       "lon": 4.478515451188, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ruggeveldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "762-764"
-      ], 
-      "housenumber": "764", 
-      "lat": 51.229785167023, 
-      "lon": 4.479535971087, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

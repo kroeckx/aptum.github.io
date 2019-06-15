@@ -145,15 +145,114 @@
       "street": "Margote"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.005035789091, 
-      "lon": 3.97687227663, 
+      "lat": 51.005257586534, 
+      "lon": 3.976774253306, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Margote"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
+      "hnrlbls": [
+        "110A"
+      ], 
+      "housenumber": "110A", 
+      "lat": 51.004809013464, 
+      "lon": 3.976689665737, 
       "municipality": "Wichelen", 
       "pcode": "9260", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Margote"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "110B"
+      ], 
+      "housenumber": "110B", 
+      "lat": 51.004998969515, 
+      "lon": 3.977370249665, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Margote"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "110C"
+      ], 
+      "housenumber": "110C", 
+      "lat": 51.004919434875, 
+      "lon": 3.97756581858, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Margote"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "110D"
+      ], 
+      "housenumber": "110D", 
+      "lat": 51.004812202209, 
+      "lon": 3.977730985563, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Margote"
     }, 
     {
@@ -163,18 +262,6 @@
       "housenumber": "111", 
       "lat": 51.005181924816, 
       "lon": 3.978408083843, 
-      "municipality": "Wichelen", 
-      "pcode": "9260", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Margote"
-    }, 
-    {
-      "hnrlbls": [
-        "112"
-      ], 
-      "housenumber": "112", 
-      "lat": 51.004886115659, 
-      "lon": 3.977710565726, 
       "municipality": "Wichelen", 
       "pcode": "9260", 
       "source": "manueleAanduidingVanGebouw", 
@@ -968,9 +1055,10 @@
         "0001", 
         "0002", 
         "0003", 
-        "0004", 
-        "0005", 
-        "0006"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "50"
@@ -1044,6 +1132,10 @@
       "street": "Margote"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "56"
       ], 

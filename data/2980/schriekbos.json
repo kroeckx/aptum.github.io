@@ -29,8 +29,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.258230950862, 
-      "lon": 4.679955993268, 
+      "lat": 51.258226570443, 
+      "lon": 4.679946939273, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -372,7 +372,7 @@
       "lon": 4.687861544464, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schriekbos"
     }, 
     {
@@ -488,8 +488,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.265258189822, 
-      "lon": 4.68516822812, 
+      "lat": 51.265259085566, 
+      "lon": 4.685169380381, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -580,11 +580,11 @@
       "street": "Schriekbos"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "b1"
       ], 
       "hnrlbls": [
-        "48-48b"
+        "48"
       ], 
       "housenumber": "48", 
       "lat": 51.264095197822, 
@@ -592,21 +592,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Schriekbos"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "48-48b"
-      ], 
-      "housenumber": "48b", 
-      "lat": 51.264095197822, 
-      "lon": 4.68436002286, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Schriekbos"
     }, 
     {
@@ -842,8 +827,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.258381839195, 
-      "lon": 4.680783121598, 
+      "lat": 51.258380592586, 
+      "lon": 4.680778672505, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1022,8 +1007,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.257322859616, 
-      "lon": 4.677697085198, 
+      "lat": 51.257318872657, 
+      "lon": 4.677674998829, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

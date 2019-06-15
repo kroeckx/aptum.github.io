@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "12-16"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.986819825994, 
@@ -26,19 +26,7 @@
     }, 
     {
       "hnrlbls": [
-        "12-16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.986819825994, 
-      "lon": 3.523098045573, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stadionlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-22"
+        "18"
       ], 
       "housenumber": "18", 
       "lat": 50.985857220466, 
@@ -76,30 +64,6 @@
     }, 
     {
       "hnrlbls": [
-        "18-22"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.985857220466, 
-      "lon": 3.523150010139, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Stadionlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.985857220466, 
-      "lon": 3.523150010139, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Stadionlaan"
-    }, 
-    {
-      "hnrlbls": [
         "22A"
       ], 
       "housenumber": "22A", 
@@ -112,19 +76,19 @@
     }, 
     {
       "hnrlbls": [
-        "24"
+        "24-26"
       ], 
       "housenumber": "24", 
-      "lat": 50.984805427398, 
-      "lon": 3.5221624829, 
+      "lat": 50.984813214126, 
+      "lon": 3.521970216387, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stadionlaan"
     }, 
     {
       "hnrlbls": [
-        "26"
+        "24-26"
       ], 
       "housenumber": "26", 
       "lat": 50.984813214126, 
@@ -168,11 +132,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.983465895746, 
-      "lon": 3.519856860727, 
+      "lat": 50.983458711456, 
+      "lon": 3.51989530091, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stadionlaan"
     }
   ]

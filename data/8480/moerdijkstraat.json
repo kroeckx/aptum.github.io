@@ -845,18 +845,6 @@
     }, 
     {
       "hnrlbls": [
-        "160"
-      ], 
-      "housenumber": "160", 
-      "lat": 51.10979606246, 
-      "lon": 3.030806830824, 
-      "municipality": "Ichtegem", 
-      "pcode": "8480", 
-      "source": "afgeleidVanGemeente", 
-      "street": "Moerdijkstraat"
-    }, 
-    {
-      "hnrlbls": [
         "165"
       ], 
       "housenumber": "165", 
@@ -1903,10 +1891,9 @@
       "street": "Moerdijkstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102", 
-        "201"
+      "apptnrs": [
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "88"
@@ -1924,11 +1911,11 @@
         "88A"
       ], 
       "housenumber": "88A", 
-      "lat": 51.102537098424, 
-      "lon": 3.012110585754, 
+      "lat": 51.102535031348, 
+      "lon": 3.012110645716, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Moerdijkstraat"
     }, 
     {
@@ -1968,8 +1955,8 @@
       "street": "Moerdijkstraat"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0101"
       ], 
       "hnrlbls": [
         "93"

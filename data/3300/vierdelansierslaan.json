@@ -872,8 +872,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.808316677216, 
-      "lon": 4.926524807907, 
+      "lat": 50.808315787071, 
+      "lon": 4.926522952881, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -898,14 +898,11 @@
     }, 
     {
       "busnrs": [
-        "10", 
-        "11", 
-        "12", 
-        "13", 
+        "1", 
+        "2", 
+        "3", 
         "4", 
-        "7", 
-        "8", 
-        "9"
+        "5"
       ], 
       "hnrlbls": [
         "79"
@@ -957,6 +954,18 @@
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vierde Lansierslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.807682569022, 
+      "lon": 4.926517138963, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vierde Lansierslaan"
     }, 
     {

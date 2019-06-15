@@ -237,8 +237,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.039407765303, 
-      "lon": 5.301795905875, 
+      "lat": 51.039441881806, 
+      "lon": 5.301858184949, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -333,6 +333,18 @@
     }, 
     {
       "hnrlbls": [
+        "5_20"
+      ], 
+      "housenumber": "5_20", 
+      "lat": 51.039277933058, 
+      "lon": 5.302807121987, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Waterleidingstraat"
+    }, 
+    {
+      "hnrlbls": [
         "5_3"
       ], 
       "housenumber": "5_3", 
@@ -384,12 +396,17 @@
       "street": "Waterleidingstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0021"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.039187643038, 
-      "lon": 5.30257347016, 
+      "lat": 51.039181297678, 
+      "lon": 5.30254610909, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -403,8 +420,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.039307250612, 
-      "lon": 5.302046568269, 
+      "lat": 51.039304383981, 
+      "lon": 5.302033963257, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 

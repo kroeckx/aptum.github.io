@@ -203,8 +203,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.771896284287, 
-      "lon": 4.536117934587, 
+      "lat": 50.771894185328, 
+      "lon": 4.536139759385, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "manueleAanduidingVanGebouw", 
@@ -215,8 +215,8 @@
         "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 50.771901332946, 
-      "lon": 4.536107887069, 
+      "lat": 50.771903156477, 
+      "lon": 4.53615269231, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "manueleAanduidingVanGebouw", 
@@ -428,8 +428,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.771509075184, 
-      "lon": 4.535380073243, 
+      "lat": 50.771505820266, 
+      "lon": 4.535393104235, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "manueleAanduidingVanGebouw", 
@@ -440,8 +440,8 @@
         "32A"
       ], 
       "housenumber": "32A", 
-      "lat": 50.771477336416, 
-      "lon": 4.535320701913, 
+      "lat": 50.771471058632, 
+      "lon": 4.535310188867, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "manueleAanduidingVanGebouw", 
@@ -452,8 +452,8 @@
         "32B"
       ], 
       "housenumber": "32B", 
-      "lat": 50.771518574656, 
-      "lon": 4.535400804979, 
+      "lat": 50.771486474286, 
+      "lon": 4.535342850007, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "manueleAanduidingVanGebouw", 
@@ -524,15 +524,19 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.771270814939, 
-      "lon": 4.535528789956, 
+      "lat": 50.7713272876, 
+      "lon": 4.535453854618, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

@@ -569,8 +569,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.130799319802, 
-      "lon": 3.029944697144, 
+      "lat": 51.130558900918, 
+      "lon": 3.030006163623, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanGebouw", 
@@ -752,11 +752,11 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 51.134535931782, 
-      "lon": 3.040710105868, 
+      "lat": 51.134419059345, 
+      "lon": 3.040734003184, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -764,11 +764,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.134548718182, 
-      "lon": 3.040871781002, 
+      "lat": 51.134421370324, 
+      "lon": 3.040859538425, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -776,11 +776,11 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 51.134548336482, 
-      "lon": 3.041037688372, 
+      "lat": 51.134417899662, 
+      "lon": 3.04106254178, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -788,11 +788,11 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 51.13454559859, 
-      "lon": 3.04120194797, 
+      "lat": 51.134417441765, 
+      "lon": 3.04117372372, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -824,11 +824,11 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 51.134546047699, 
-      "lon": 3.041361830293, 
+      "lat": 51.13441333188, 
+      "lon": 3.041383889707, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -836,11 +836,11 @@
         "203"
       ], 
       "housenumber": "203", 
-      "lat": 51.134545206261, 
-      "lon": 3.041518891442, 
+      "lat": 51.134413055031, 
+      "lon": 3.041495209373, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -848,11 +848,11 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.134541439082, 
-      "lon": 3.041703613623, 
+      "lat": 51.134449022882, 
+      "lon": 3.041703808624, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1112,8 +1112,8 @@
         "242"
       ], 
       "housenumber": "242", 
-      "lat": 51.133970315711, 
-      "lon": 3.044868394276, 
+      "lat": 51.133972318885, 
+      "lon": 3.044854620173, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2235,8 +2235,15 @@
       "street": "Bruggestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
-        "6"
+        "6-8"
       ], 
       "housenumber": "6", 
       "lat": 51.130283550822, 
@@ -2361,6 +2368,18 @@
       "housenumber": "78", 
       "lat": 51.130039981135, 
       "lon": 3.033625399801, 
+      "municipality": "Ichtegem", 
+      "pcode": "8480", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6-8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.130283550822, 
+      "lon": 3.028803298672, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanGebouw", 

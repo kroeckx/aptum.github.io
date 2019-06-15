@@ -131,8 +131,8 @@
         "21-23"
       ], 
       "housenumber": "21", 
-      "lat": 50.966236988512, 
-      "lon": 5.694321314986, 
+      "lat": 50.966246542863, 
+      "lon": 5.694311191672, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -155,8 +155,8 @@
         "21-23"
       ], 
       "housenumber": "23", 
-      "lat": 50.966236988512, 
-      "lon": 5.694321314986, 
+      "lat": 50.966246542863, 
+      "lon": 5.694311191672, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -409,6 +409,9 @@
       "street": "Dwarslaan"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "9"
       ], 

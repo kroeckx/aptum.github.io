@@ -497,11 +497,11 @@
         "30A"
       ], 
       "housenumber": "30A", 
-      "lat": 51.198126604316, 
-      "lon": 3.462161501926, 
+      "lat": 51.198084380266, 
+      "lon": 3.462153022117, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Krommewege"
     }, 
     {
@@ -518,7 +518,7 @@
     }, 
     {
       "hnrlbls": [
-        "31A-31C"
+        "31A-31B"
       ], 
       "housenumber": "31A", 
       "lat": 51.194978038028, 
@@ -530,7 +530,7 @@
     }, 
     {
       "hnrlbls": [
-        "31A-31C"
+        "31A-31B"
       ], 
       "housenumber": "31B", 
       "lat": 51.194978038028, 
@@ -591,8 +591,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.196927240045, 
-      "lon": 3.463952993035, 
+      "lat": 51.196624973998, 
+      "lon": 3.463922797694, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "manueleAanduidingVanGebouw", 
@@ -608,18 +608,6 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
-      "street": "Krommewege"
-    }, 
-    {
-      "hnrlbls": [
-        "33A"
-      ], 
-      "housenumber": "33A", 
-      "lat": 51.192601690042, 
-      "lon": 3.47167274401, 
-      "municipality": "Maldegem", 
-      "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Krommewege"
     }, 
     {
@@ -788,6 +776,18 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Krommewege"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 51.198161693341, 
+      "lon": 3.455145197819, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Krommewege"
     }, 
     {

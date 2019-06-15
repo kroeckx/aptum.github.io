@@ -117,7 +117,7 @@
       "lon": 3.33599421157, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oostrozebeeksestraat"
     }, 
     {
@@ -341,8 +341,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.901944814269, 
-      "lon": 3.330815867098, 
+      "lat": 50.902309522448, 
+      "lon": 3.330833258949, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 
@@ -369,7 +369,7 @@
       "lon": 3.335963020722, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oostrozebeeksestraat"
     }, 
     {
@@ -405,7 +405,7 @@
       "lon": 3.330250689842, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oostrozebeeksestraat"
     }, 
     {
@@ -678,18 +678,6 @@
     }, 
     {
       "hnrlbls": [
-        "158"
-      ], 
-      "housenumber": "158", 
-      "lat": 50.90505575608, 
-      "lon": 3.328736938628, 
-      "municipality": "Wielsbeke", 
-      "pcode": "8710", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostrozebeeksestraat"
-    }, 
-    {
-      "hnrlbls": [
         "159"
       ], 
       "housenumber": "159", 
@@ -789,11 +777,11 @@
         "165C"
       ], 
       "housenumber": "165C", 
-      "lat": 50.904059184044, 
-      "lon": 3.328756868293, 
+      "lat": 50.904321908167, 
+      "lon": 3.32854687939, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oostrozebeeksestraat"
     }, 
     {
@@ -859,18 +847,6 @@
       "housenumber": "19", 
       "lat": 50.894308890313, 
       "lon": 3.335828765553, 
-      "municipality": "Wielsbeke", 
-      "pcode": "8710", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostrozebeeksestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "195"
-      ], 
-      "housenumber": "195", 
-      "lat": 50.905973685891, 
-      "lon": 3.327430396603, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 
@@ -949,7 +925,7 @@
       "lon": 3.335934965992, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oostrozebeeksestraat"
     }, 
     {

@@ -14,14 +14,14 @@
     }, 
     {
       "hnrlbls": [
-        "10-10B"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.20427978085, 
-      "lon": 3.474659875287, 
+      "lat": 51.204327908005, 
+      "lon": 3.475104686006, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -118,6 +118,30 @@
       "housenumber": "109", 
       "lat": 51.204727020397, 
       "lon": 3.488748439123, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Staatsbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 51.204320072803, 
+      "lon": 3.474900500225, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Staatsbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 51.20427978085, 
+      "lon": 3.474659875287, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
@@ -934,26 +958,26 @@
     }, 
     {
       "hnrlbls": [
-        "57A-57B"
+        "57A"
       ], 
       "housenumber": "57A", 
-      "lat": 51.205311717163, 
-      "lon": 3.482721985241, 
+      "lat": 51.205182189319, 
+      "lon": 3.482662626949, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
       "hnrlbls": [
-        "57A-57B"
+        "57B"
       ], 
       "housenumber": "57B", 
-      "lat": 51.205311717163, 
-      "lon": 3.482721985241, 
+      "lat": 51.205457093869, 
+      "lon": 3.482725092668, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -1210,6 +1234,18 @@
       "housenumber": "75", 
       "lat": 51.204905778829, 
       "lon": 3.485656103259, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Staatsbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "75A"
+      ], 
+      "housenumber": "75A", 
+      "lat": 51.205273568314, 
+      "lon": 3.485662309904, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 

@@ -77,11 +77,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.03001546219, 
-      "lon": 5.0494373481, 
+      "lat": 51.029998408458, 
+      "lon": 5.049479438814, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lindenstraat"
     }, 
     {
@@ -757,6 +757,18 @@
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lindenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.030723241878, 
+      "lon": 5.046721095991, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lindenstraat"
     }
   ]

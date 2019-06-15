@@ -70,15 +70,21 @@
       "street": "Tichelrijstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.817196107022, 
-      "lon": 5.191673062134, 
+      "lat": 50.817177740925, 
+      "lon": 5.191715172514, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Tichelrijstraat"
     }, 
     {
@@ -97,30 +103,6 @@
       "housenumber": "14", 
       "lat": 50.817140438215, 
       "lon": 5.192609279803, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Tichelrijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.817176254671, 
-      "lon": 5.191709186144, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Tichelrijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.817156218539, 
-      "lon": 5.191745874557, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 

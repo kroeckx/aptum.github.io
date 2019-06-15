@@ -461,11 +461,11 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.033868341964, 
-      "lon": 5.007517105616, 
+      "lat": 51.034037313674, 
+      "lon": 5.007323526783, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vorststraat"
     }, 
     {
@@ -581,8 +581,8 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.034493623446, 
-      "lon": 5.01049291799, 
+      "lat": 51.03446095851, 
+      "lon": 5.010515565787, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
@@ -785,8 +785,8 @@
         "20C"
       ], 
       "housenumber": "20C", 
-      "lat": 51.019313445519, 
-      "lon": 4.993455554478, 
+      "lat": 51.019360414889, 
+      "lon": 4.993464020409, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
@@ -797,8 +797,8 @@
         "20D"
       ], 
       "housenumber": "20D", 
-      "lat": 51.019437308814, 
-      "lon": 4.993237439467, 
+      "lat": 51.019483130099, 
+      "lon": 4.993242041776, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
@@ -1814,6 +1814,18 @@
     }, 
     {
       "hnrlbls": [
+        "90B"
+      ], 
+      "housenumber": "90B", 
+      "lat": 51.029020107375, 
+      "lon": 5.002501505863, 
+      "municipality": "Scherpenheuvel-Zichem", 
+      "pcode": "3271", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vorststraat"
+    }, 
+    {
+      "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
@@ -1829,8 +1841,8 @@
         "94A"
       ], 
       "housenumber": "94A", 
-      "lat": 51.0296051315, 
-      "lon": 5.002852130945, 
+      "lat": 51.029597364415, 
+      "lon": 5.002808832027, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 

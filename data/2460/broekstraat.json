@@ -41,8 +41,8 @@
         "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 51.239804257955, 
-      "lon": 4.897696835115, 
+      "lat": 51.239806538438, 
+      "lon": 4.897709462145, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanPerceelGrb", 
@@ -593,11 +593,23 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.238549770374, 
-      "lon": 4.891589390736, 
+      "lat": 51.238565816498, 
+      "lon": 4.891619497806, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Broekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 51.238522522806, 
+      "lon": 4.891531235735, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Broekstraat"
     }, 
     {

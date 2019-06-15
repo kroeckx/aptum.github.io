@@ -307,6 +307,24 @@
     }, 
     {
       "apptnrs": [
+        "1", 
+        "101", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.944322624639, 
+      "lon": 3.864295449704, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kerkkouterstraat"
+    }, 
+    {
+      "apptnrs": [
         "0001", 
         "0002", 
         "0101", 
@@ -413,8 +431,20 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.944838523226, 
-      "lon": 3.866922342263, 
+      "lat": 50.944771417343, 
+      "lon": 3.866827580275, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkkouterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41A"
+      ], 
+      "housenumber": "41A", 
+      "lat": 50.944808309604, 
+      "lon": 3.866941305507, 
       "municipality": "Sint-Lievens-Houtem", 
       "pcode": "9520", 
       "source": "manueleAanduidingVanGebouw", 

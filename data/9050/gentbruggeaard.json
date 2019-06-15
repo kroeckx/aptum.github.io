@@ -25,6 +25,38 @@
       "street": "Gentbruggeaard"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.045953093786, 
+      "lon": 3.758437616051, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gentbruggeaard"
+    }, 
+    {
       "hnrlbls": [
         "14"
       ], 

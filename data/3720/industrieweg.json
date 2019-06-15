@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.871884516683, 
-      "lon": 5.370451593347, 
+      "lat": 50.871676124829, 
+      "lon": 5.372028659352, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Industrieweg"
     }, 
     {
@@ -85,15 +85,72 @@
       "street": "Industrieweg"
     }, 
     {
-      "busnrs": [
-        "3"
+      "hnrlbls": [
+        "1A"
       ], 
+      "housenumber": "1A", 
+      "lat": 50.871687820868, 
+      "lon": 5.372048658673, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.871700751001, 
+      "lon": 5.372071526015, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 50.87171488247, 
+      "lon": 5.372090582832, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1D"
+      ], 
+      "housenumber": "1D", 
+      "lat": 50.871726457008, 
+      "lon": 5.372114273719, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1E"
+      ], 
+      "housenumber": "1E", 
+      "lat": 50.871738153032, 
+      "lon": 5.372134273083, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.871422631402, 
-      "lon": 5.371457333469, 
+      "lat": 50.871170308903, 
+      "lon": 5.371831725006, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "manueleAanduidingVanGebouw", 
@@ -104,8 +161,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.87316595352, 
-      "lon": 5.367198448703, 
+      "lat": 50.873165585507, 
+      "lon": 5.36719943548, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanGebouw", 
@@ -116,8 +173,8 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.871265418726, 
-      "lon": 5.371107157161, 
+      "lat": 50.871113525291, 
+      "lon": 5.371764586625, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "manueleAanduidingVanGebouw", 
@@ -128,11 +185,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.871912303586, 
-      "lon": 5.37236433256, 
+      "lat": 50.871859659759, 
+      "lon": 5.372317740821, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Industrieweg"
     }, 
     {
@@ -161,14 +218,122 @@
     }, 
     {
       "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.871744679248, 
+      "lon": 5.371959935851, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.871757551112, 
+      "lon": 5.371979107817, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "3C"
+      ], 
+      "housenumber": "3C", 
+      "lat": 50.871769329753, 
+      "lon": 5.371999961418, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "3D"
+      ], 
+      "housenumber": "3D", 
+      "lat": 50.871781034305, 
+      "lon": 5.372018966378, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "3E"
+      ], 
+      "housenumber": "3E", 
+      "lat": 50.871793906159, 
+      "lon": 5.372038138376, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.871461365099, 
+      "lon": 5.371459013221, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.871271648809, 
+      "lon": 5.371104022322, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.872260893739, 
-      "lon": 5.371435169631, 
+      "lat": 50.872264262042, 
+      "lon": 5.371440782829, 
       "municipality": "Kortessem", 
       "pcode": "3720", 
       "source": "afgeleidVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.871751390302, 
+      "lon": 5.371206760378, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.872057648494, 
+      "lon": 5.370443494516, 
+      "municipality": "Kortessem", 
+      "pcode": "3720", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Industrieweg"
     }
   ]

@@ -161,11 +161,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.866276537225, 
-      "lon": 4.076262701, 
+      "lat": 50.866275957739, 
+      "lon": 4.076210428871, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Houtmarktstraat"
     }, 
     {
@@ -937,8 +937,8 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 50.86199590575, 
-      "lon": 4.072280609468, 
+      "lat": 50.861992156351, 
+      "lon": 4.072255349825, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1731,11 +1731,11 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.867151891281, 
-      "lon": 4.078238807475, 
+      "lat": 50.867421507354, 
+      "lon": 4.078246946371, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtmarktstraat"
     }, 
     {
@@ -1751,6 +1751,23 @@
       "street": "Houtmarktstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.867234239088, 
+      "lon": 4.078203921871, 
+      "municipality": "Liedekerke", 
+      "pcode": "1770", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houtmarktstraat"
+    }, 
+    {
       "hnrlbls": [
         "89"
       ], 
@@ -1760,6 +1777,86 @@
       "municipality": "Liedekerke", 
       "pcode": "1770", 
       "source": "afgeleidVanGebouw", 
+      "street": "Houtmarktstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 50.86696967285, 
+      "lon": 4.078202144607, 
+      "municipality": "Liedekerke", 
+      "pcode": "1770", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houtmarktstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "90A"
+      ], 
+      "housenumber": "90A", 
+      "lat": 50.866787519726, 
+      "lon": 4.078446750794, 
+      "municipality": "Liedekerke", 
+      "pcode": "1770", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Houtmarktstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "90B"
+      ], 
+      "housenumber": "90B", 
+      "lat": 50.866864005501, 
+      "lon": 4.078659220356, 
+      "municipality": "Liedekerke", 
+      "pcode": "1770", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Houtmarktstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "90C"
+      ], 
+      "housenumber": "90C", 
+      "lat": 50.866934872736, 
+      "lon": 4.078890050358, 
+      "municipality": "Liedekerke", 
+      "pcode": "1770", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Houtmarktstraat"
     }, 
     {

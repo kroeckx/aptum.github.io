@@ -341,11 +341,23 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.026800437119, 
-      "lon": 3.552597688346, 
+      "lat": 51.026802067551, 
+      "lon": 3.552677344329, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 51.026982790828, 
+      "lon": 3.552760011491, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -353,8 +365,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.026982847155, 
-      "lon": 3.552755163857, 
+      "lat": 51.027049375699, 
+      "lon": 3.552756001122, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -367,18 +379,6 @@
       "housenumber": "4", 
       "lat": 51.024787247207, 
       "lon": 3.553471036937, 
-      "municipality": "Deinze", 
-      "pcode": "9850", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 51.027049434987, 
-      "lon": 3.552751581075, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -545,8 +545,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.024900290865, 
-      "lon": 3.553542479672, 
+      "lat": 51.024900286921, 
+      "lon": 3.553541909572, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 

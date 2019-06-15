@@ -59,15 +59,16 @@
     }, 
     {
       "busnrs": [
+        "0002", 
         "0101", 
         "0102", 
+        "0202", 
         "0301", 
         "0302", 
         "0402", 
         "0501", 
         "0601", 
-        "0602", 
-        "2"
+        "0602"
       ], 
       "hnrlbls": [
         "2"
@@ -77,7 +78,7 @@
       "lon": 2.922668859503, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fortuinstraat"
     }, 
     {

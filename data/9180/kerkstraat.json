@@ -73,15 +73,27 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.223987963672, 
-      "lon": 3.976317164176, 
+      "lat": 51.224053061041, 
+      "lon": 3.976404794221, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkstraat"
     }, 
     {

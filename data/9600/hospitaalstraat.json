@@ -24,6 +24,7 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -51,21 +52,9 @@
         "0301"
       ], 
       "hnrlbls": [
-        "16-160102"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.748994468758, 
-      "lon": 3.602031741115, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Hospitaalstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-160102"
-      ], 
-      "housenumber": "16_0102", 
       "lat": 50.748994468758, 
       "lon": 3.602031741115, 
       "municipality": "Ronse", 

@@ -29,11 +29,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.856466438329, 
-      "lon": 3.838172092118, 
+      "lat": 50.856388774052, 
+      "lon": 3.838074117503, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rodestraat"
     }, 
     {
@@ -125,8 +125,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.854828291842, 
-      "lon": 3.841336905869, 
+      "lat": 50.854833050414, 
+      "lon": 3.841335574345, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -377,8 +377,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.861823053618, 
-      "lon": 3.831566929872, 
+      "lat": 50.861826584753, 
+      "lon": 3.831572429226, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -401,8 +401,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.86144098678, 
-      "lon": 3.832116731545, 
+      "lat": 50.861439774355, 
+      "lon": 3.832126830326, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -662,11 +662,11 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "44"
       ], 
-      "housenumber": "42", 
-      "lat": 50.860012632443, 
-      "lon": 3.833816305024, 
+      "housenumber": "44", 
+      "lat": 50.860070743626, 
+      "lon": 3.833725876732, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "manueleAanduidingVanLot", 
@@ -674,11 +674,11 @@
     }, 
     {
       "hnrlbls": [
-        "44"
+        "44A"
       ], 
-      "housenumber": "44", 
-      "lat": 50.859940001939, 
-      "lon": 3.833896671458, 
+      "housenumber": "44A", 
+      "lat": 50.860000630175, 
+      "lon": 3.833806214791, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "manueleAanduidingVanLot", 
@@ -689,8 +689,20 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.85986237361, 
-      "lon": 3.833985048504, 
+      "lat": 50.85992798157, 
+      "lon": 3.83388260439, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Rodestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "46A"
+      ], 
+      "housenumber": "46A", 
+      "lat": 50.859855405335, 
+      "lon": 3.833974901049, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "manueleAanduidingVanLot", 
@@ -905,8 +917,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.858105200815, 
-      "lon": 3.834508945378, 
+      "lat": 50.858102314565, 
+      "lon": 3.834506847674, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -1085,8 +1097,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.857230990529, 
-      "lon": 3.836160723568, 
+      "lat": 50.857229818706, 
+      "lon": 3.836160026687, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 

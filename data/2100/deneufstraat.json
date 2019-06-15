@@ -2,14 +2,16 @@
   "addresses": [
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.222186147467, 
-      "lon": 4.466333464274, 
+      "lat": 51.222187919711, 
+      "lon": 4.466255887823, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -162,7 +164,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 51.222186147467, 
@@ -471,17 +473,18 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101"
       ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.222177944736, 
-      "lon": 4.467970073697, 
+      "lat": 51.222221879012, 
+      "lon": 4.467992497209, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Neufstraat"
     }, 
     {

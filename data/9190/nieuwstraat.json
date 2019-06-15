@@ -33,7 +33,7 @@
       "lon": 4.05184701086, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -1016,11 +1016,23 @@
     }, 
     {
       "hnrlbls": [
+        "60G"
+      ], 
+      "housenumber": "60G", 
+      "lat": 51.207328404554, 
+      "lon": 4.043988743805, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
         "60H"
       ], 
       "housenumber": "60H", 
-      "lat": 51.204131373089, 
-      "lon": 4.046459529747, 
+      "lat": 51.204868655442, 
+      "lon": 4.048098349309, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1384,6 +1396,18 @@
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 51.205516869685, 
+      "lon": 4.051388478917, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {

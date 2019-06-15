@@ -53,8 +53,20 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.231744423229, 
-      "lon": 4.942537748942, 
+      "lat": 51.231741696729, 
+      "lon": 4.942525402691, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Holle weg"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.232068996756, 
+      "lon": 4.942224194795, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -70,18 +82,6 @@
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
-      "street": "Holle weg"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.232200282418, 
-      "lon": 4.941676318615, 
-      "municipality": "Kasterlee", 
-      "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Holle weg"
     }
   ]

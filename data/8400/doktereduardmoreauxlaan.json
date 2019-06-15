@@ -14,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "1-101"
+        "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.23061809317, 
-      "lon": 2.941281594416, 
+      "lat": 51.230616283742, 
+      "lon": 2.941280647477, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -350,6 +350,7 @@
       "busnrs": [
         "0101", 
         "0201", 
+        "0301", 
         "0303", 
         "1", 
         "2", 
@@ -364,7 +365,7 @@
       "lon": 2.940957278705, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -627,8 +628,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.227780886516, 
-      "lon": 2.941583204559, 
+      "lat": 51.227784408598, 
+      "lon": 2.941584528584, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -738,8 +739,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.225926175379, 
-      "lon": 2.942143932976, 
+      "lat": 51.225892304218, 
+      "lon": 2.942138239811, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -750,8 +751,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.224614806541, 
-      "lon": 2.94070652246, 
+      "lat": 51.224613529396, 
+      "lon": 2.940704986686, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -911,6 +912,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "A", 
         "B", 
         "C", 
@@ -920,8 +922,8 @@
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.235675967699, 
-      "lon": 2.940567115691, 
+      "lat": 51.235682614203, 
+      "lon": 2.940641092143, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -959,6 +961,7 @@
       "busnrs": [
         "0102", 
         "0202", 
+        "0302", 
         "1", 
         "2", 
         "3", 
@@ -977,7 +980,7 @@
       "lon": 2.940614340373, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Eduard Moreauxlaan"
     }, 
     {
@@ -988,6 +991,7 @@
         "0303", 
         "0305", 
         "0401", 
+        "0403", 
         "1", 
         "10", 
         "11", 
@@ -1020,8 +1024,8 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 51.2369573355, 
-      "lon": 2.940643581386, 
+      "lat": 51.236953063366, 
+      "lon": 2.940647149235, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1135,8 +1139,8 @@
         "263"
       ], 
       "housenumber": "263", 
-      "lat": 51.238476941596, 
-      "lon": 2.941413354012, 
+      "lat": 51.238474667299, 
+      "lon": 2.94141113222, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1212,8 +1216,8 @@
         "277"
       ], 
       "housenumber": "277", 
-      "lat": 51.239889114043, 
-      "lon": 2.942533909442, 
+      "lat": 51.239785371845, 
+      "lon": 2.94252662791, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1407,8 +1411,8 @@
         "313"
       ], 
       "housenumber": "313", 
-      "lat": 51.241447844042, 
-      "lon": 2.94400066092, 
+      "lat": 51.241451001672, 
+      "lon": 2.943994119427, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1486,8 +1490,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.224612556717, 
-      "lon": 2.941264956912, 
+      "lat": 51.224616161765, 
+      "lon": 2.941265705601, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1580,8 +1584,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.22887674621, 
-      "lon": 2.94150671431, 
+      "lat": 51.228877466872, 
+      "lon": 2.94150683544, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1740,8 +1744,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.229594991414, 
-      "lon": 2.941427458911, 
+      "lat": 51.229592393906, 
+      "lon": 2.941428254339, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

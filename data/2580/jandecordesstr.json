@@ -229,6 +229,18 @@
     }, 
     {
       "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 51.058647835509, 
+      "lon": 4.666314716153, 
+      "municipality": "Putte", 
+      "pcode": "2580", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Jan De Cordesstr."
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -378,15 +390,25 @@
       "street": "Jan De Cordesstr."
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "3"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.059334312905, 
-      "lon": 4.665893026925, 
+      "lat": 51.059363708993, 
+      "lon": 4.665714343715, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jan De Cordesstr."
     }, 
     {
@@ -407,15 +429,19 @@
       "street": "Jan De Cordesstr."
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101"
+      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.059320873587, 
-      "lon": 4.665768844866, 
+      "lat": 51.059371577377, 
+      "lon": 4.665588585439, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jan De Cordesstr."
     }, 
     {
@@ -431,12 +457,24 @@
       "street": "Jan De Cordesstr."
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "2", 
+        "201", 
+        "202", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.059341564359, 
-      "lon": 4.665726897786, 
+      "lat": 51.059122132216, 
+      "lon": 4.665375180339, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -454,18 +492,6 @@
       "housenumber": "36", 
       "lat": 51.058973510912, 
       "lon": 4.66762407499, 
-      "municipality": "Putte", 
-      "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jan De Cordesstr."
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.059453767694, 
-      "lon": 4.665611930458, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 

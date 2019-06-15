@@ -13,8 +13,11 @@
       "street": "Houte"
     }, 
     {
-      "busnrs": [
-        "101"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "10"
@@ -140,8 +143,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.913574576243, 
-      "lon": 3.785948051338, 
+      "lat": 50.913641543355, 
+      "lon": 3.785946936452, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -164,8 +167,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.912891316966, 
-      "lon": 3.785593777596, 
+      "lat": 50.913051607389, 
+      "lon": 3.785359294133, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -178,18 +181,6 @@
       "housenumber": "119", 
       "lat": 50.912808819675, 
       "lon": 3.785146309709, 
-      "municipality": "Oosterzele", 
-      "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Houte"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.920217733584, 
-      "lon": 3.792409202049, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -320,8 +311,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 50.910194379086, 
-      "lon": 3.777501233725, 
+      "lat": 50.910284724569, 
+      "lon": 3.777536924395, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -452,8 +443,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.919689862103, 
-      "lon": 3.792261938429, 
+      "lat": 50.91975237847, 
+      "lon": 3.792233154374, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -656,8 +647,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.920324581396, 
-      "lon": 3.792878498713, 
+      "lat": 50.92039876428, 
+      "lon": 3.792808897016, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -670,6 +661,18 @@
       "housenumber": "40", 
       "lat": 50.918407142949, 
       "lon": 3.79096261683, 
+      "municipality": "Oosterzele", 
+      "pcode": "9860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houte"
+    }, 
+    {
+      "hnrlbls": [
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 50.918309818056, 
+      "lon": 3.790767984437, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -851,8 +854,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.917799181974, 
-      "lon": 3.790689364157, 
+      "lat": 50.917820814844, 
+      "lon": 3.790682840676, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -983,8 +986,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.912576841449, 
-      "lon": 3.784159783618, 
+      "lat": 50.912627482281, 
+      "lon": 3.784183753797, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1127,8 +1130,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.91672465447, 
-      "lon": 3.78926455965, 
+      "lat": 50.916725277788, 
+      "lon": 3.789226866442, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1151,8 +1154,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.916636894436, 
-      "lon": 3.789278440699, 
+      "lat": 50.91663715259, 
+      "lon": 3.78923961439, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1374,8 +1377,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.91488328183, 
-      "lon": 3.78862004487, 
+      "lat": 50.915219682306, 
+      "lon": 3.788039108693, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 

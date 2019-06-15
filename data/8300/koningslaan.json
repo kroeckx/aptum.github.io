@@ -2,10 +2,8 @@
   "addresses": [
     {
       "apptnrs": [
-        "-011", 
-        "1", 
-        "11", 
-        "21"
+        "21", 
+        "31"
       ], 
       "hnrlbls": [
         "100"
@@ -1937,7 +1935,8 @@
         "11", 
         "21", 
         "31", 
-        "41"
+        "41", 
+        "51"
       ], 
       "hnrlbls": [
         "252"
@@ -2024,17 +2023,15 @@
         "1", 
         "11", 
         "12", 
-        "21"
-      ], 
-      "busnrs": [
+        "21", 
         "22"
       ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.342870031567, 
-      "lon": 3.284658650385, 
+      "lat": 51.342868700567, 
+      "lon": 3.2846605472, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2237,7 +2234,7 @@
       "lon": 3.284705381864, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koningslaan"
     }, 
     {

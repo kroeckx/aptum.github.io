@@ -533,6 +533,30 @@
     }, 
     {
       "hnrlbls": [
+        "51B"
+      ], 
+      "housenumber": "51B", 
+      "lat": 50.953373944645, 
+      "lon": 5.01888552406, 
+      "municipality": "Bekkevoort", 
+      "pcode": "3460", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51C"
+      ], 
+      "housenumber": "51C", 
+      "lat": 50.953380141526, 
+      "lon": 5.018902830991, 
+      "municipality": "Bekkevoort", 
+      "pcode": "3460", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
@@ -596,11 +620,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.953457718203, 
-      "lon": 5.018968379441, 
+      "lat": 50.953390109438, 
+      "lon": 5.019050841688, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -716,8 +740,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.953875870558, 
-      "lon": 5.020143938209, 
+      "lat": 50.953879400588, 
+      "lon": 5.020155800126, 
       "municipality": "Bekkevoort", 
       "pcode": "3460", 
       "source": "afgeleidVanPerceelGrb", 

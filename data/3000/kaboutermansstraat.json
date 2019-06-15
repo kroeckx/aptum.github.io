@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.880352454521, 
-      "lon": 4.688849761579, 
+      "lat": 50.880351913607, 
+      "lon": 4.68885032627, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +149,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.880452765475, 
-      "lon": 4.688426287969, 
+      "lat": 50.880460937243, 
+      "lon": 4.688429469829, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -161,8 +161,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.880459393317, 
-      "lon": 4.688369352388, 
+      "lat": 50.880455445762, 
+      "lon": 4.688366483537, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +185,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.880465116381, 
-      "lon": 4.688314542075, 
+      "lat": 50.880465204336, 
+      "lon": 4.688315253158, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -197,8 +197,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.880474239088, 
-      "lon": 4.688265722985, 
+      "lat": 50.88047369934, 
+      "lon": 4.688265861403, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -218,11 +218,11 @@
     }, 
     {
       "hnrlbls": [
-        "27-29"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.880506963106, 
-      "lon": 4.688133085492, 
+      "lat": 50.880514577701, 
+      "lon": 4.688109833488, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -233,11 +233,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.881043532012, 
-      "lon": 4.687081944634, 
+      "lat": 50.881041194397, 
+      "lon": 4.687082070856, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kaboutermansstraat"
     }, 
     {
@@ -248,11 +248,11 @@
         "0202"
       ], 
       "hnrlbls": [
-        "27-29"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.880506963106, 
-      "lon": 4.688133085492, 
+      "lat": 50.880498890902, 
+      "lon": 4.688159318403, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -263,8 +263,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.880370764443, 
-      "lon": 4.688794469002, 
+      "lat": 50.880370131694, 
+      "lon": 4.68879574355, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -275,8 +275,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.880503296047, 
-      "lon": 4.688027340452, 
+      "lat": 50.88046057379, 
+      "lon": 4.688002466715, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -287,8 +287,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.880571080657, 
-      "lon": 4.68796002188, 
+      "lat": 50.880569997289, 
+      "lon": 4.687961719666, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -455,8 +455,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.880692750197, 
-      "lon": 4.687350542073, 
+      "lat": 50.880689787194, 
+      "lon": 4.687349243056, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -527,8 +527,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.880735373564, 
-      "lon": 4.687180456841, 
+      "lat": 50.880737709634, 
+      "lon": 4.687180899004, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -643,6 +643,16 @@
       "street": "Kaboutermansstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -900,12 +910,12 @@
       "street": "Kaboutermansstraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "89"

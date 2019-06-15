@@ -277,14 +277,14 @@
     }, 
     {
       "hnrlbls": [
-        "22-26"
+        "22-24"
       ], 
       "housenumber": "22", 
-      "lat": 51.315674966499, 
-      "lon": 4.429189075058, 
+      "lat": 51.315762896749, 
+      "lon": 4.429484071643, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -312,15 +312,30 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013"
+      ], 
       "hnrlbls": [
-        "22-26"
+        "22-24"
       ], 
       "housenumber": "24", 
-      "lat": 51.315674966499, 
-      "lon": 4.429189075058, 
+      "lat": 51.315762896749, 
+      "lon": 4.429484071643, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -347,14 +362,14 @@
     }, 
     {
       "hnrlbls": [
-        "22-26"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.315674966499, 
-      "lon": 4.429189075058, 
+      "lat": 51.31583029319, 
+      "lon": 4.429337293567, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -383,21 +398,6 @@
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.315788702139, 
-      "lon": 4.429117512119, 
-      "municipality": "Kapellen", 
-      "pcode": "2950", 
-      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {

@@ -1303,8 +1303,8 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 51.332482712035, 
-      "lon": 4.957660510081, 
+      "lat": 51.33248513657, 
+      "lon": 4.957660971256, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1351,8 +1351,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.332563736481, 
-      "lon": 4.957760825939, 
+      "lat": 51.332563919804, 
+      "lon": 4.957760110858, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1603,8 +1603,8 @@
         "21E"
       ], 
       "housenumber": "21E", 
-      "lat": 51.330088317196, 
-      "lon": 4.950610302481, 
+      "lat": 51.330089215967, 
+      "lon": 4.950610313737, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2432,6 +2432,23 @@
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
+      "street": "Steenweg op Oosthoven"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "301"
+      ], 
+      "housenumber": "301", 
+      "lat": 51.334874424333, 
+      "lon": 4.964410519841, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Steenweg op Oosthoven"
     }, 
     {

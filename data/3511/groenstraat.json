@@ -26,26 +26,26 @@
     }, 
     {
       "hnrlbls": [
-        "102"
+        "102-102A"
       ], 
       "housenumber": "102", 
-      "lat": 50.95335406104, 
-      "lon": 5.310484986068, 
+      "lat": 50.953368429738, 
+      "lon": 5.310554161439, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
       "hnrlbls": [
-        "102A"
+        "102-102A"
       ], 
       "housenumber": "102A", 
-      "lat": 50.953387320544, 
-      "lon": 5.31049661367, 
+      "lat": 50.953368429738, 
+      "lon": 5.310554161439, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -549,8 +549,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.950681284677, 
-      "lon": 5.309438172818, 
+      "lat": 50.95067253376, 
+      "lon": 5.309453225361, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -609,11 +609,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.950791485272, 
-      "lon": 5.309810558813, 
+      "lat": 50.95085592346, 
+      "lon": 5.309532478374, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -729,8 +729,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.949911017191, 
-      "lon": 5.308462071197, 
+      "lat": 50.949906435216, 
+      "lon": 5.308484180806, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -830,8 +830,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.952074242956, 
-      "lon": 5.310138328205, 
+      "lat": 50.952074978003, 
+      "lon": 5.310136350437, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -926,8 +926,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.952594269558, 
-      "lon": 5.310244559284, 
+      "lat": 50.952590337892, 
+      "lon": 5.310275222578, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 
@@ -974,7 +974,6 @@
         "1.01"
       ], 
       "hnrlbls": [
-        "93", 
         "93-93A"
       ], 
       "housenumber": "93", 

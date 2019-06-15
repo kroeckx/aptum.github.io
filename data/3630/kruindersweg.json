@@ -30,24 +30,9 @@
         "K3"
       ], 
       "hnrlbls": [
-        "10-10K"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.986412824743, 
-      "lon": 5.694270432397, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "10-10K"
-      ], 
-      "housenumber": "10K", 
       "lat": 50.986412824743, 
       "lon": 5.694270432397, 
       "municipality": "Maasmechelen", 
@@ -175,6 +160,9 @@
       "street": "Kruindersweg"
     }, 
     {
+      "apptnrs": [
+        "2"
+      ], 
       "busnrs": [
         "1"
       ], 
@@ -627,18 +615,6 @@
     }, 
     {
       "hnrlbls": [
-        "48A"
-      ], 
-      "housenumber": "48A", 
-      "lat": 50.986204734328, 
-      "lon": 5.696457815038, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -662,18 +638,6 @@
       "street": "Kruindersweg"
     }, 
     {
-      "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 50.986195055847, 
-      "lon": 5.696486883063, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kruindersweg"
-    }, 
-    {
       "apptnrs": [
         "1", 
         "3"
@@ -693,35 +657,6 @@
       "street": "Kruindersweg"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "52-52K"
-      ], 
-      "housenumber": "52", 
-      "lat": 50.985999858594, 
-      "lon": 5.696503854914, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "hnrlbls": [
-        "52-52K"
-      ], 
-      "housenumber": "52K", 
-      "lat": 50.985999858594, 
-      "lon": 5.696503854914, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kruindersweg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
@@ -735,45 +670,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "hnrlbls": [
-        "54-56"
-      ], 
-      "housenumber": "54", 
-      "lat": 50.985980023004, 
-      "lon": 5.696644163894, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "hnrlbls": [
-        "54-56"
-      ], 
-      "housenumber": "54A", 
-      "lat": 50.985980023004, 
-      "lon": 5.696644163894, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "busnrs": [
-        "10"
-      ], 
-      "hnrlbls": [
-        "54-56"
-      ], 
-      "housenumber": "54K", 
-      "lat": 50.985980023004, 
-      "lon": 5.696644163894, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Kruindersweg"
     }, 
     {
@@ -791,18 +687,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "hnrlbls": [
-        "54-56"
-      ], 
-      "housenumber": "56", 
-      "lat": 50.985980023004, 
-      "lon": 5.696644163894, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Kruindersweg"
     }, 
     {
@@ -927,25 +811,9 @@
         "8"
       ], 
       "hnrlbls": [
-        "64-64K"
+        "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.986095742835, 
-      "lon": 5.69702519146, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "busnrs": [
-        "3", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "64-64K"
-      ], 
-      "housenumber": "64K", 
       "lat": 50.986095742835, 
       "lon": 5.69702519146, 
       "municipality": "Maasmechelen", 
@@ -1195,11 +1063,10 @@
     }, 
     {
       "busnrs": [
-        "8", 
-        "87"
+        "8"
       ], 
       "hnrlbls": [
-        "83-83_8"
+        "83"
       ], 
       "housenumber": "83", 
       "lat": 50.986146892932, 
@@ -1211,45 +1078,14 @@
     }, 
     {
       "busnrs": [
-        "87"
-      ], 
-      "hnrlbls": [
-        "83-83_8"
-      ], 
-      "housenumber": "83_8", 
-      "lat": 50.986146892932, 
-      "lon": 5.69858449351, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "busnrs": [
         "2", 
         "3", 
-        "8", 
-        "88"
+        "8"
       ], 
       "hnrlbls": [
-        "84-84_8"
+        "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.985923690172, 
-      "lon": 5.697977352844, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruindersweg"
-    }, 
-    {
-      "busnrs": [
-        "88"
-      ], 
-      "hnrlbls": [
-        "84-84_8"
-      ], 
-      "housenumber": "84_8", 
       "lat": 50.985923690172, 
       "lon": 5.697977352844, 
       "municipality": "Maasmechelen", 
@@ -1321,9 +1157,6 @@
         "006", 
         "007", 
         "008"
-      ], 
-      "busnrs": [
-        "89"
       ], 
       "hnrlbls": [
         "89"

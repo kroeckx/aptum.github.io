@@ -2872,6 +2872,26 @@
       "street": "Torhoutse Steenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "305"
+      ], 
+      "housenumber": "305", 
+      "lat": 51.194203566125, 
+      "lon": 3.198604301195, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Torhoutse Steenweg"
+    }, 
+    {
       "hnrlbls": [
         "306"
       ], 

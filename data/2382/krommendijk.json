@@ -125,8 +125,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.44544120984, 
-      "lon": 5.044713543329, 
+      "lat": 51.445442369979, 
+      "lon": 5.044714998562, 
       "municipality": "Ravels", 
       "pcode": "2382", 
       "source": "afgeleidVanGebouw", 
@@ -245,8 +245,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.444717474713, 
-      "lon": 5.045570422336, 
+      "lat": 51.444724001712, 
+      "lon": 5.045576414641, 
       "municipality": "Ravels", 
       "pcode": "2382", 
       "source": "afgeleidVanGebouw", 
@@ -418,6 +418,18 @@
       "municipality": "Ravels", 
       "pcode": "2382", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Krommendijk"
+    }, 
+    {
+      "hnrlbls": [
+        "44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 51.443748380434, 
+      "lon": 5.046219598165, 
+      "municipality": "Ravels", 
+      "pcode": "2382", 
+      "source": "afgeleidVanGebouw", 
       "street": "Krommendijk"
     }, 
     {
@@ -749,10 +761,8 @@
         "00-1", 
         "00-2", 
         "01-1", 
-        "01-2"
-      ], 
-      "busnrs": [
-        "2"
+        "01-2", 
+        "02-1"
       ], 
       "hnrlbls": [
         "8"

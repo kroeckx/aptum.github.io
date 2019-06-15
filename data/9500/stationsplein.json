@@ -56,14 +56,26 @@
     }, 
     {
       "hnrlbls": [
-        "13"
+        "13A"
       ], 
-      "housenumber": "13", 
+      "housenumber": "13A", 
       "lat": 50.770674514855, 
       "lon": 3.874459255646, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stationsplein"
+    }, 
+    {
+      "hnrlbls": [
+        "13B"
+      ], 
+      "housenumber": "13B", 
+      "lat": 50.770602587021, 
+      "lon": 3.87449984622, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Stationsplein"
     }, 
     {
@@ -540,6 +552,18 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stationsplein"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.770438370009, 
+      "lon": 3.874677216322, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsplein"
     }, 
     {

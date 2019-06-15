@@ -89,11 +89,11 @@
         "105-107"
       ], 
       "housenumber": "105", 
-      "lat": 50.861801154103, 
-      "lon": 4.697464428426, 
+      "lat": 50.861805290816, 
+      "lon": 4.697463889261, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Groenstraat"
     }, 
     {
@@ -124,11 +124,11 @@
         "105-107"
       ], 
       "housenumber": "107", 
-      "lat": 50.861801154103, 
-      "lon": 4.697464428426, 
+      "lat": 50.861805290816, 
+      "lon": 4.697463889261, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Groenstraat"
     }, 
     {
@@ -1451,8 +1451,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.864771487933, 
-      "lon": 4.697078563431, 
+      "lat": 50.864773186753, 
+      "lon": 4.697081842461, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -1566,74 +1566,74 @@
     }, 
     {
       "hnrlbls": [
-        "271"
+        "271-281"
       ], 
       "housenumber": "271", 
-      "lat": 50.856022841146, 
-      "lon": 4.696212616219, 
+      "lat": 50.853424233863, 
+      "lon": 4.696273149757, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groenstraat"
     }, 
     {
       "hnrlbls": [
-        "273"
+        "271-281"
       ], 
       "housenumber": "273", 
-      "lat": 50.855918364446, 
-      "lon": 4.69621898788, 
+      "lat": 50.853424233863, 
+      "lon": 4.696273149757, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groenstraat"
     }, 
     {
       "hnrlbls": [
-        "275"
+        "271-281"
       ], 
       "housenumber": "275", 
-      "lat": 50.855917445244, 
-      "lon": 4.696226224614, 
+      "lat": 50.853424233863, 
+      "lon": 4.696273149757, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groenstraat"
     }, 
     {
       "hnrlbls": [
-        "277"
+        "271-281"
       ], 
       "housenumber": "277", 
-      "lat": 50.855846555819, 
-      "lon": 4.696212521556, 
+      "lat": 50.853424233863, 
+      "lon": 4.696273149757, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groenstraat"
     }, 
     {
       "hnrlbls": [
-        "279"
+        "271-281"
       ], 
       "housenumber": "279", 
-      "lat": 50.855775576497, 
-      "lon": 4.696198817912, 
+      "lat": 50.853424233863, 
+      "lon": 4.696273149757, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groenstraat"
     }, 
     {
       "hnrlbls": [
-        "281"
+        "271-281"
       ], 
       "housenumber": "281", 
-      "lat": 50.855704687066, 
-      "lon": 4.696185114937, 
+      "lat": 50.853424233863, 
+      "lon": 4.696273149757, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -1849,8 +1849,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.865600937108, 
-      "lon": 4.696571279943, 
+      "lat": 50.865625206437, 
+      "lon": 4.696636367344, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -2229,6 +2229,10 @@
       "street": "Groenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -2465,8 +2469,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.863258938944, 
-      "lon": 4.697418965737, 
+      "lat": 50.863265912018, 
+      "lon": 4.697304668547, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 

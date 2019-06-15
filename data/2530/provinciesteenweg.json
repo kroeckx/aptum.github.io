@@ -772,15 +772,23 @@
       "street": "Provinciesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "293"
       ], 
       "housenumber": "293", 
-      "lat": 51.162825696699, 
-      "lon": 4.504576614999, 
+      "lat": 51.162794442086, 
+      "lon": 4.504554365599, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Provinciesteenweg"
     }, 
     {
@@ -1001,11 +1009,11 @@
         "408"
       ], 
       "housenumber": "408", 
-      "lat": 51.161635108484, 
-      "lon": 4.502897029198, 
+      "lat": 51.160968469149, 
+      "lon": 4.503171710849, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Provinciesteenweg"
     }, 
     {
@@ -1328,8 +1336,8 @@
         "458"
       ], 
       "housenumber": "458", 
-      "lat": 51.160368063865, 
-      "lon": 4.507777170381, 
+      "lat": 51.160532517133, 
+      "lon": 4.507961350663, 
       "municipality": "Boechout", 
       "pcode": "2530", 
       "source": "afgeleidVanGebouw", 
@@ -1388,8 +1396,8 @@
         "471"
       ], 
       "housenumber": "471", 
-      "lat": 51.159641614444, 
-      "lon": 4.511516874667, 
+      "lat": 51.159636836082, 
+      "lon": 4.511528724442, 
       "municipality": "Boechout", 
       "pcode": "2530", 
       "source": "afgeleidVanGebouw", 
@@ -2511,6 +2519,22 @@
       "street": "Provinciesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "606"
+      ], 
+      "housenumber": "606", 
+      "lat": 51.156243564714, 
+      "lon": 4.517240696269, 
+      "municipality": "Boechout", 
+      "pcode": "2530", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Provinciesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "608"
       ], 
@@ -2635,8 +2659,8 @@
         "654A"
       ], 
       "housenumber": "654A", 
-      "lat": 51.154999639912, 
-      "lon": 4.517941372427, 
+      "lat": 51.154997031949, 
+      "lon": 4.517942364573, 
       "municipality": "Boechout", 
       "pcode": "2530", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3313,11 +3337,11 @@
         "754"
       ], 
       "housenumber": "754", 
-      "lat": 51.153455104942, 
-      "lon": 4.523652897928, 
+      "lat": 51.153470472242, 
+      "lon": 4.523655378881, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Provinciesteenweg"
     }, 
     {
@@ -3325,11 +3349,11 @@
         "756"
       ], 
       "housenumber": "756", 
-      "lat": 51.153411730734, 
-      "lon": 4.523758232975, 
+      "lat": 51.153423068995, 
+      "lon": 4.523748694718, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Provinciesteenweg"
     }, 
     {
@@ -3337,11 +3361,11 @@
         "760"
       ], 
       "housenumber": "760", 
-      "lat": 51.153316689117, 
-      "lon": 4.523986597612, 
+      "lat": 51.153326048773, 
+      "lon": 4.52397791038, 
       "municipality": "Boechout", 
       "pcode": "2530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Provinciesteenweg"
     }, 
     {

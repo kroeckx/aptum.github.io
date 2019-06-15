@@ -1160,7 +1160,8 @@
     }, 
     {
       "busnrs": [
-        "002", 
+        "0001", 
+        "0002", 
         "101", 
         "102", 
         "201", 
@@ -2073,11 +2074,11 @@
         "27-29"
       ], 
       "housenumber": "27", 
-      "lat": 51.026565418835, 
-      "lon": 4.470242967975, 
+      "lat": 51.026567942685, 
+      "lon": 4.470234991304, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koningin Astridlaan"
     }, 
     {
@@ -2112,11 +2113,11 @@
         "27-29"
       ], 
       "housenumber": "29", 
-      "lat": 51.026565418835, 
-      "lon": 4.470242967975, 
+      "lat": 51.026567942685, 
+      "lon": 4.470234991304, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koningin Astridlaan"
     }, 
     {
@@ -2302,8 +2303,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.026238206618, 
-      "lon": 4.470359847707, 
+      "lat": 51.026241694745, 
+      "lon": 4.470380095709, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -2863,8 +2864,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.025961410829, 
-      "lon": 4.469451852163, 
+      "lat": 51.025957028795, 
+      "lon": 4.46942561586, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -2917,8 +2918,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.025831229305, 
-      "lon": 4.469475516445, 
+      "lat": 51.025832570904, 
+      "lon": 4.469483358867, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 

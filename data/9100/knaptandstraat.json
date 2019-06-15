@@ -61,6 +61,10 @@
       "street": "Knaptandstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -2293,7 +2297,7 @@
     }, 
     {
       "hnrlbls": [
-        "90"
+        "79-90"
       ], 
       "housenumber": "90", 
       "lat": 51.158956513164, 

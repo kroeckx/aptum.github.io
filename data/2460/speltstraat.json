@@ -17,11 +17,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.248444310568, 
-      "lon": 4.974103497647, 
+      "lat": 51.248439309602, 
+      "lon": 4.974167309685, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Speltstraat"
     }, 
     {
@@ -29,11 +29,23 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.248369337197, 
-      "lon": 4.97419289562, 
+      "lat": 51.248378604355, 
+      "lon": 4.974226243657, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Speltstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.248661631589, 
+      "lon": 4.974020247113, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Speltstraat"
     }, 
     {

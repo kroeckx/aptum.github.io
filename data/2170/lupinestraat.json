@@ -29,10 +29,14 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
         "5"
       ], 
       "hnrlbls": [
-        "11-13"
+        "11"
       ], 
       "housenumber": "11", 
       "lat": 51.251845640244, 
@@ -49,18 +53,6 @@
       "housenumber": "12", 
       "lat": 51.251922943564, 
       "lon": 4.43957770548, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lupinestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "11-13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.251845640244, 
-      "lon": 4.440029184463, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

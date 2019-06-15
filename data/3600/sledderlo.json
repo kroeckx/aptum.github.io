@@ -14,6 +14,18 @@
     }, 
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.937546273407, 
+      "lon": 5.520433615872, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sledderlo"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -248,8 +260,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.934630604174, 
-      "lon": 5.521048198812, 
+      "lat": 50.934630901736, 
+      "lon": 5.521045360593, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -260,8 +272,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.934515891227, 
-      "lon": 5.521734708087, 
+      "lat": 50.934523148001, 
+      "lon": 5.521636573623, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -387,7 +399,8 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "44"

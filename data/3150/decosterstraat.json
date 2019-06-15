@@ -134,6 +134,18 @@
     }, 
     {
       "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.954930606174, 
+      "lon": 4.637570124269, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "De Costerstraat"
+    }, 
+    {
+      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -272,8 +284,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.955068521858, 
-      "lon": 4.639826157435, 
+      "lat": 50.955068435585, 
+      "lon": 4.639824591389, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
@@ -380,11 +392,59 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.953939454826, 
-      "lon": 4.640414223584, 
+      "lat": 50.953845002991, 
+      "lon": 4.639781637793, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "De Costerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45A"
+      ], 
+      "housenumber": "45A", 
+      "lat": 50.953716646872, 
+      "lon": 4.63977690923, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "De Costerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45B"
+      ], 
+      "housenumber": "45B", 
+      "lat": 50.953960765058, 
+      "lon": 4.639790278348, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "De Costerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45C"
+      ], 
+      "housenumber": "45C", 
+      "lat": 50.954076508697, 
+      "lon": 4.639806888725, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "De Costerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45D"
+      ], 
+      "housenumber": "45D", 
+      "lat": 50.954197286264, 
+      "lon": 4.639823528353, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Costerstraat"
     }, 
     {

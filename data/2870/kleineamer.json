@@ -41,8 +41,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.083235914134, 
-      "lon": 4.301851897094, 
+      "lat": 51.083234656978, 
+      "lon": 4.301854182258, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -65,8 +65,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.083327872155, 
-      "lon": 4.302015885492, 
+      "lat": 51.083317811607, 
+      "lon": 4.302028315623, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.08338242432, 
-      "lon": 4.302158377718, 
+      "lat": 51.083383321928, 
+      "lon": 4.302156093061, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +173,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.083727921247, 
-      "lon": 4.303558904662, 
+      "lat": 51.0837193863, 
+      "lon": 4.303567051074, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -585,8 +585,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.076082007573, 
-      "lon": 4.295974217757, 
+      "lat": 51.076083813722, 
+      "lon": 4.295987913187, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -705,8 +705,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.080474451436, 
-      "lon": 4.298577202351, 
+      "lat": 51.080479749053, 
+      "lon": 4.298567347965, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -813,8 +813,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.080876459642, 
-      "lon": 4.298165902044, 
+      "lat": 51.080878438119, 
+      "lon": 4.298167468835, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -997,8 +997,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.081473210176, 
-      "lon": 4.300287478875, 
+      "lat": 51.081480576846, 
+      "lon": 4.300280190185, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -1021,8 +1021,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.081582296771, 
-      "lon": 4.300221247698, 
+      "lat": 51.081588134922, 
+      "lon": 4.300213247666, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -1045,11 +1045,23 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.081675596182, 
-      "lon": 4.300369099288, 
+      "lat": 51.081689381354, 
+      "lon": 4.300268756448, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kleine Amer"
+    }, 
+    {
+      "hnrlbls": [
+        "86A"
+      ], 
+      "housenumber": "86A", 
+      "lat": 51.081740279461, 
+      "lon": 4.30046219332, 
+      "municipality": "Puurs-Sint-Amands", 
+      "pcode": "2870", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kleine Amer"
     }, 
     {
@@ -1156,8 +1168,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.081586467852, 
-      "lon": 4.299661689466, 
+      "lat": 51.081607219913, 
+      "lon": 4.299640681253, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 

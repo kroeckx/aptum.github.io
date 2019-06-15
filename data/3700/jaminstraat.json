@@ -277,18 +277,6 @@
       "street": "Jamin\u00e9straat"
     }, 
     {
-      "hnrlbls": [
-        "27-27B"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.782788988276, 
-      "lon": 5.473637446148, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Jamin\u00e9straat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -296,9 +284,9 @@
         "4"
       ], 
       "hnrlbls": [
-        "27-27B"
+        "27"
       ], 
-      "housenumber": "27B", 
+      "housenumber": "27", 
       "lat": 50.782788988276, 
       "lon": 5.473637446148, 
       "municipality": "Tongeren", 
@@ -314,8 +302,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.783096839265, 
-      "lon": 5.472407038534, 
+      "lat": 50.783090795465, 
+      "lon": 5.472409165808, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -338,8 +326,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.783093275962, 
-      "lon": 5.472489350696, 
+      "lat": 50.783089490024, 
+      "lon": 5.4724903964, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -475,8 +463,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.783089499611, 
-      "lon": 5.472851604892, 
+      "lat": 50.783087511404, 
+      "lon": 5.472852692763, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -659,36 +647,17 @@
     }, 
     {
       "busnrs": [
-        "12"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
-        "52-52B"
+        "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.783101081608, 
-      "lon": 5.473358305933, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jamin\u00e9straat"
-    }, 
-    {
-      "busnrs": [
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "52-52B"
-      ], 
-      "housenumber": "52B", 
       "lat": 50.783101081608, 
       "lon": 5.473358305933, 
       "municipality": "Tongeren", 

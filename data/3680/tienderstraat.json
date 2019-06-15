@@ -122,6 +122,18 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.106423470778, 
+      "lon": 5.698931420639, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tienderstraat"
+    }, 
+    {
+      "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
@@ -163,6 +175,18 @@
       "housenumber": "120", 
       "lat": 51.110713159259, 
       "lon": 5.712106761109, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tienderstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.10645751678, 
+      "lon": 5.699148882887, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 
@@ -392,11 +416,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.106200321014, 
-      "lon": 5.702250413551, 
+      "lat": 51.10619938941, 
+      "lon": 5.702261240109, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tienderstraat"
     }, 
     {
@@ -908,7 +932,7 @@
     }, 
     {
       "hnrlbls": [
-        "8"
+        "8-8A"
       ], 
       "housenumber": "8", 
       "lat": 51.106089660855, 
@@ -1016,14 +1040,14 @@
     }, 
     {
       "hnrlbls": [
-        "8A"
+        "8-8A"
       ], 
       "housenumber": "8A", 
-      "lat": 51.105933903635, 
-      "lon": 5.69903143812, 
+      "lat": 51.106089660855, 
+      "lon": 5.698915775175, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tienderstraat"
     }, 
     {

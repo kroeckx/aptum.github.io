@@ -85,6 +85,18 @@
       "street": "Sint-Jobstraat"
     }, 
     {
+      "hnrlbls": [
+        "122"
+      ], 
+      "housenumber": "122", 
+      "lat": 50.985162433272, 
+      "lon": 5.27576732487, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Jobstraat"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -1018,18 +1030,6 @@
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Jobstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.990755220879, 
-      "lon": 5.273731077561, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Jobstraat"
     }, 
     {

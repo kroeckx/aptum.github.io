@@ -72,12 +72,21 @@
       "street": "Peulisstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.037575633226, 
-      "lon": 4.589015883759, 
+      "lat": 51.037579113503, 
+      "lon": 4.589029444612, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 

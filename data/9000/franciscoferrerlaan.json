@@ -74,14 +74,14 @@
     }, 
     {
       "hnrlbls": [
-        "104-110"
+        "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.069665218082, 
-      "lon": 3.7031762075, 
+      "lat": 51.069670858553, 
+      "lon": 3.703044722902, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Francisco Ferrerlaan"
     }, 
     {
@@ -98,26 +98,26 @@
     }, 
     {
       "hnrlbls": [
-        "104-110"
+        "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.069665218082, 
-      "lon": 3.7031762075, 
+      "lat": 51.069709713171, 
+      "lon": 3.703096247279, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Francisco Ferrerlaan"
     }, 
     {
       "hnrlbls": [
-        "104-110"
+        "106A-110"
       ], 
       "housenumber": "106A", 
-      "lat": 51.069665218082, 
-      "lon": 3.7031762075, 
+      "lat": 51.069751520826, 
+      "lon": 3.703177263713, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Francisco Ferrerlaan"
     }, 
     {
@@ -134,14 +134,14 @@
     }, 
     {
       "hnrlbls": [
-        "104-110"
+        "106A-110"
       ], 
       "housenumber": "108", 
-      "lat": 51.069665218082, 
-      "lon": 3.7031762075, 
+      "lat": 51.069751520826, 
+      "lon": 3.703177263713, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Francisco Ferrerlaan"
     }, 
     {
@@ -170,14 +170,14 @@
     }, 
     {
       "hnrlbls": [
-        "104-110"
+        "106A-110"
       ], 
       "housenumber": "110", 
-      "lat": 51.069665218082, 
-      "lon": 3.7031762075, 
+      "lat": 51.069751520826, 
+      "lon": 3.703177263713, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Francisco Ferrerlaan"
     }, 
     {
@@ -4103,6 +4103,18 @@
     }, 
     {
       "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 51.068078671091, 
+      "lon": 3.700959249554, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Francisco Ferrerlaan"
+    }, 
+    {
+      "hnrlbls": [
         "441"
       ], 
       "housenumber": "441", 
@@ -4510,11 +4522,6 @@
       "street": "Francisco Ferrerlaan"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -5218,7 +5225,7 @@
     }, 
     {
       "hnrlbls": [
-        "9-9A"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.067327245243, 
@@ -5343,18 +5350,6 @@
       "housenumber": "99", 
       "lat": 51.069344179263, 
       "lon": 3.701960615145, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Francisco Ferrerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "9-9A"
-      ], 
-      "housenumber": "9A", 
-      "lat": 51.067327245243, 
-      "lon": 3.699434135663, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

@@ -361,15 +361,21 @@
       "street": "Hogeweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.212868746128, 
-      "lon": 4.442345059405, 
+      "lat": 51.212993479888, 
+      "lon": 4.442385614718, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hogeweg"
     }, 
     {
@@ -494,13 +500,13 @@
       "street": "Hogeweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "60"

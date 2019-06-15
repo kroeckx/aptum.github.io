@@ -907,7 +907,7 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "9-9A"
       ], 
       "housenumber": "9", 
       "lat": 50.776291849601, 
@@ -967,14 +967,14 @@
     }, 
     {
       "hnrlbls": [
-        "9A"
+        "9-9A"
       ], 
       "housenumber": "9A", 
-      "lat": 50.776278501981, 
-      "lon": 3.870097209961, 
+      "lat": 50.776291849601, 
+      "lon": 3.870170654773, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Felicien Cauwelstraat"
     }
   ]

@@ -149,8 +149,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.862390557932, 
-      "lon": 4.824818277161, 
+      "lat": 50.862384941432, 
+      "lon": 4.824829301957, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -317,11 +317,23 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.861510631426, 
-      "lon": 4.823320142939, 
+      "lat": 50.861576187105, 
+      "lon": 4.823291517594, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Drogenhof"
+    }, 
+    {
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 50.861525329482, 
+      "lon": 4.823215885338, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Drogenhof"
     }, 
     {

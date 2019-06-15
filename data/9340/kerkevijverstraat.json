@@ -133,15 +133,19 @@
       "street": "Kerkevijverstraat"
     }, 
     {
+      "busnrs": [
+        "/11", 
+        "/31"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.96716083421, 
-      "lon": 3.979270873541, 
+      "lat": 50.96716666342, 
+      "lon": 3.97921231519, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkevijverstraat"
     }, 
     {
@@ -670,9 +674,9 @@
     }, 
     {
       "hnrlbls": [
-        "57A"
+        "59"
       ], 
-      "housenumber": "57A", 
+      "housenumber": "59", 
       "lat": 50.969459481425, 
       "lon": 3.980302480586, 
       "municipality": "Lede", 

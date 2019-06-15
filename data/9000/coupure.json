@@ -70,26 +70,26 @@
         "0402"
       ], 
       "hnrlbls": [
-        "103-103A"
+        "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.046489441737, 
-      "lon": 3.716973767837, 
+      "lat": 51.046476869395, 
+      "lon": 3.717024852671, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Coupure"
     }, 
     {
       "hnrlbls": [
-        "103-103A"
+        "103A"
       ], 
       "housenumber": "103A", 
-      "lat": 51.046489441737, 
-      "lon": 3.716973767837, 
+      "lat": 51.046489310104, 
+      "lon": 3.716949954646, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Coupure"
     }, 
     {
@@ -2119,21 +2119,9 @@
     }, 
     {
       "hnrlbls": [
-        "273-273A"
+        "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.048240343062, 
-      "lon": 3.712639584788, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Coupure"
-    }, 
-    {
-      "hnrlbls": [
-        "273-273A"
-      ], 
-      "housenumber": "273A", 
       "lat": 51.048240343062, 
       "lon": 3.712639584788, 
       "municipality": "Gent", 
@@ -5117,7 +5105,7 @@
     }, 
     {
       "hnrlbls": [
-        "503-503B"
+        "503"
       ], 
       "housenumber": "503", 
       "lat": 51.050611674256, 
@@ -5129,38 +5117,14 @@
     }, 
     {
       "hnrlbls": [
-        "503-503B"
+        "503A"
       ], 
       "housenumber": "503A", 
-      "lat": 51.050611674256, 
-      "lon": 3.709922597473, 
+      "lat": 51.050636078613, 
+      "lon": 3.709914267691, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Coupure"
-    }, 
-    {
-      "hnrlbls": [
-        "503-503B"
-      ], 
-      "housenumber": "503B", 
-      "lat": 51.050611674256, 
-      "lon": 3.709922597473, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Coupure"
-    }, 
-    {
-      "hnrlbls": [
-        "503C"
-      ], 
-      "housenumber": "503C", 
-      "lat": 51.050612500901, 
-      "lon": 3.709941839225, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Coupure"
     }, 
     {
@@ -7010,8 +6974,8 @@
         "625E-625H"
       ], 
       "housenumber": "625E", 
-      "lat": 51.051510100103, 
-      "lon": 3.708819630335, 
+      "lat": 51.051492502713, 
+      "lon": 3.708839559824, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7022,8 +6986,8 @@
         "625E-625H"
       ], 
       "housenumber": "625F", 
-      "lat": 51.051510100103, 
-      "lon": 3.708819630335, 
+      "lat": 51.051492502713, 
+      "lon": 3.708839559824, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7034,8 +6998,8 @@
         "625E-625H"
       ], 
       "housenumber": "625G", 
-      "lat": 51.051510100103, 
-      "lon": 3.708819630335, 
+      "lat": 51.051492502713, 
+      "lon": 3.708839559824, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7046,8 +7010,8 @@
         "625E-625H"
       ], 
       "housenumber": "625H", 
-      "lat": 51.051510100103, 
-      "lon": 3.708819630335, 
+      "lat": 51.051492502713, 
+      "lon": 3.708839559824, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 

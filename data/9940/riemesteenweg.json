@@ -161,11 +161,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.175726154398, 
-      "lon": 3.76766760345, 
+      "lat": 51.175711791369, 
+      "lon": 3.767671363185, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -245,11 +245,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.175742279044, 
-      "lon": 3.768275999742, 
+      "lat": 51.175754807562, 
+      "lon": 3.768282702695, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -269,11 +269,11 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.175754727231, 
-      "lon": 3.768390810991, 
+      "lat": 51.17577954206, 
+      "lon": 3.768391922154, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -353,11 +353,11 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.175480659531, 
-      "lon": 3.771515553128, 
+      "lat": 51.175516823024, 
+      "lon": 3.771538971621, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -437,11 +437,11 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.175817778724, 
-      "lon": 3.769249140151, 
+      "lat": 51.175892390627, 
+      "lon": 3.769285505739, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -497,11 +497,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.174984148975, 
-      "lon": 3.772359144226, 
+      "lat": 51.174973076834, 
+      "lon": 3.772355996619, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -521,11 +521,11 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.174934081541, 
-      "lon": 3.772412691923, 
+      "lat": 51.174948479827, 
+      "lon": 3.772451546217, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1002,11 +1002,11 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 51.174093431045, 
-      "lon": 3.773123231983, 
+      "lat": 51.174125037861, 
+      "lon": 3.773187891361, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1035,6 +1035,18 @@
     }, 
     {
       "hnrlbls": [
+        "174A"
+      ], 
+      "housenumber": "174A", 
+      "lat": 51.174093156936, 
+      "lon": 3.773425810482, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Riemesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "175"
       ], 
       "housenumber": "175", 
@@ -1055,6 +1067,30 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Riemesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "176A"
+      ], 
+      "housenumber": "176A", 
+      "lat": 51.173965839423, 
+      "lon": 3.77388315266, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Riemesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "176B"
+      ], 
+      "housenumber": "176B", 
+      "lat": 51.173952382326, 
+      "lon": 3.774031322156, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1170,11 +1206,11 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 51.173877374974, 
-      "lon": 3.775651960445, 
+      "lat": 51.173951023513, 
+      "lon": 3.775640015193, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1278,11 +1314,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.177036387205, 
-      "lon": 3.758492405075, 
+      "lat": 51.177060148615, 
+      "lon": 3.758498386874, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1302,11 +1338,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.176964529361, 
-      "lon": 3.758851136806, 
+      "lat": 51.176974168898, 
+      "lon": 3.758855301068, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1326,11 +1362,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.176902501628, 
-      "lon": 3.759286102614, 
+      "lat": 51.176931021606, 
+      "lon": 3.759291021711, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1410,8 +1446,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.176878401458, 
-      "lon": 3.759877446739, 
+      "lat": 51.176738928422, 
+      "lon": 3.759849090748, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
@@ -1463,6 +1499,18 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Riemesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.177194664391, 
+      "lon": 3.76089780301, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1538,11 +1586,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.176412610329, 
-      "lon": 3.762433798982, 
+      "lat": 51.176421830388, 
+      "lon": 3.762443832425, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1694,11 +1742,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.176647788059, 
-      "lon": 3.76312373424, 
+      "lat": 51.176679819152, 
+      "lon": 3.76312975416, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1778,11 +1826,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.175675119034, 
-      "lon": 3.765447631438, 
+      "lat": 51.17566200057, 
+      "lon": 3.765448658807, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1814,11 +1862,11 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.176085957987, 
-      "lon": 3.765140167737, 
+      "lat": 51.176033358392, 
+      "lon": 3.765154861211, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {
@@ -1866,7 +1914,7 @@
       "lon": 3.766249887725, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Riemesteenweg"
     }, 
     {

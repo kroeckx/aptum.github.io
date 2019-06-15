@@ -1073,8 +1073,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.055254721352, 
-      "lon": 3.706741933661, 
+      "lat": 51.055100791069, 
+      "lon": 3.70675195374, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1082,38 +1082,31 @@
     }, 
     {
       "hnrlbls": [
-        "63-65"
-      ], 
-      "housenumber": "63", 
-      "lat": 51.055079865697, 
-      "lon": 3.706323214577, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Nieuwewandeling"
-    }, 
-    {
-      "hnrlbls": [
-        "63-65"
+        "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.055079865697, 
-      "lon": 3.706323214577, 
+      "lat": 51.055180713993, 
+      "lon": 3.706497225325, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwewandeling"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "63-65"
+        "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.055079865697, 
-      "lon": 3.706323214577, 
+      "lat": 51.055124299373, 
+      "lon": 3.706359955669, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwewandeling"
     }, 
     {
@@ -1261,12 +1254,31 @@
       "street": "Nieuwewandeling"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.054865543683, 
-      "lon": 3.705808210845, 
+      "lat": 51.054846511677, 
+      "lon": 3.705716768723, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

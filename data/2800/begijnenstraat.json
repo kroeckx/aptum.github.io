@@ -63,15 +63,21 @@
       "street": "Begijnenstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.027882352479, 
-      "lon": 4.477885143811, 
+      "lat": 51.027895674952, 
+      "lon": 4.477865076502, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Begijnenstraat"
     }, 
     {

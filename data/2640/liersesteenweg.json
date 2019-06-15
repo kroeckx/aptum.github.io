@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-1A"
       ], 
       "housenumber": "1", 
       "lat": 51.170287206397, 
@@ -88,11 +88,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.16925041672, 
-      "lon": 4.463317921334, 
+      "lat": 51.169245295434, 
+      "lon": 4.463315194367, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Liersesteenweg"
     }, 
     {
@@ -200,14 +200,14 @@
     }, 
     {
       "hnrlbls": [
-        "104-118"
+        "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.168970088126, 
-      "lon": 4.463509648896, 
+      "lat": 51.169187164804, 
+      "lon": 4.463728557571, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Liersesteenweg"
     }, 
     {
@@ -730,7 +730,7 @@
     }, 
     {
       "hnrlbls": [
-        "15-17"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.171029928936, 
@@ -889,18 +889,6 @@
     }, 
     {
       "hnrlbls": [
-        "15-17"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.171029928936, 
-      "lon": 4.460546740117, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Liersesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "170"
       ], 
       "housenumber": "170", 
@@ -1006,18 +994,6 @@
       "street": "Liersesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "176B"
-      ], 
-      "housenumber": "176B", 
-      "lat": 51.168637848251, 
-      "lon": 4.469153673781, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Liersesteenweg"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
@@ -1080,14 +1056,26 @@
     }, 
     {
       "hnrlbls": [
-        "181"
+        "181A"
       ], 
-      "housenumber": "181", 
-      "lat": 51.169229513959, 
-      "lon": 4.467840876553, 
+      "housenumber": "181A", 
+      "lat": 51.169133736884, 
+      "lon": 4.467792203573, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Liersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "181B"
+      ], 
+      "housenumber": "181B", 
+      "lat": 51.169280981296, 
+      "lon": 4.467884879783, 
+      "municipality": "Mortsel", 
+      "pcode": "2640", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Liersesteenweg"
     }, 
     {
@@ -1274,8 +1262,8 @@
         "1-1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.170882245511, 
-      "lon": 4.457276505602, 
+      "lat": 51.170287206397, 
+      "lon": 4.457627522416, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

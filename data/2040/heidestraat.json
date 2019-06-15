@@ -220,15 +220,24 @@
       "street": "Heidestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.359165851877, 
-      "lon": 4.323795215146, 
+      "lat": 51.359088580409, 
+      "lon": 4.32361971693, 
+      "municipality": "Antwerpen", 
+      "pcode": "2040", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Heidestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27_1"
+      ], 
+      "housenumber": "27_1", 
+      "lat": 51.359243033151, 
+      "lon": 4.323970570473, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 
@@ -335,11 +344,11 @@
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 51.359034989582, 
-      "lon": 4.324039819229, 
+      "lat": 51.359041714076, 
+      "lon": 4.324238210218, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heidestraat"
     }, 
     {

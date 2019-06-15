@@ -398,11 +398,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.114348728155, 
-      "lon": 4.328982187509, 
+      "lat": 51.114150229527, 
+      "lon": 4.328900525706, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Matteottistraat"
     }, 
     {
@@ -422,11 +422,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.113827607638, 
-      "lon": 4.328853241988, 
+      "lat": 51.113825450576, 
+      "lon": 4.328853957822, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Matteottistraat"
     }, 
     {
@@ -506,13 +506,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
-        "47B"
+        "47"
       ], 
-      "housenumber": "47B", 
+      "housenumber": "47", 
       "lat": 51.114197584636, 
       "lon": 4.329124977111, 
       "municipality": "Niel", 
@@ -539,6 +539,18 @@
       "housenumber": "5", 
       "lat": 51.113831328892, 
       "lon": 4.327366639708, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Matteottistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.114214156832, 
+      "lon": 4.329224784757, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanGebouw", 
@@ -575,6 +587,18 @@
       "housenumber": "56", 
       "lat": 51.114011770049, 
       "lon": 4.329620809674, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Matteottistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.11430735696, 
+      "lon": 4.329458481337, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanGebouw", 
@@ -675,6 +699,21 @@
       "housenumber": "67", 
       "lat": 51.114419869216, 
       "lon": 4.329928650908, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Matteottistraat"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 51.114450908557, 
+      "lon": 4.330015880542, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanGebouw", 

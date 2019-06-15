@@ -5,8 +5,44 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.002998262194, 
-      "lon": 5.081372737175, 
+      "lat": 51.002990445502, 
+      "lon": 5.081372048263, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Pater Daemsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 51.002913455493, 
+      "lon": 5.079775174587, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pater Daemsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 51.002884563052, 
+      "lon": 5.079439211185, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pater Daemsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "10C"
+      ], 
+      "housenumber": "10C", 
+      "lat": 51.003020351686, 
+      "lon": 5.079401665424, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanGebouw", 
@@ -182,6 +218,42 @@
     }, 
     {
       "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 51.003257527512, 
+      "lon": 5.079411108151, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Pater Daemsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "26B"
+      ], 
+      "housenumber": "26B", 
+      "lat": 51.003245405788, 
+      "lon": 5.079334415377, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Pater Daemsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "26C"
+      ], 
+      "housenumber": "26C", 
+      "lat": 51.003232297843, 
+      "lon": 5.079257280249, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Pater Daemsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "26D"
       ], 
       "housenumber": "26D", 
@@ -257,11 +329,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.003009048096, 
-      "lon": 5.081283997845, 
+      "lat": 51.002980341328, 
+      "lon": 5.081274157556, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pater Daemsstraat"
     }, 
     {
@@ -718,6 +790,18 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
+      "street": "Pater Daemsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 51.000950774085, 
+      "lon": 5.070921790693, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pater Daemsstraat"
     }, 
     {

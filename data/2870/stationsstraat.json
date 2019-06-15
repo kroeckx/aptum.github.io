@@ -51,8 +51,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.076718365955, 
-      "lon": 4.280015599531, 
+      "lat": 51.076714323526, 
+      "lon": 4.280019031741, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -128,18 +128,6 @@
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.076145066171, 
-      "lon": 4.279669371338, 
-      "municipality": "Puurs-Sint-Amands", 
-      "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -434,15 +422,23 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.076199898972, 
-      "lon": 4.279670266552, 
+      "lat": 51.076269362281, 
+      "lon": 4.279762598614, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -675,23 +671,6 @@
       "busnrs": [
         "1", 
         "11", 
-        "21"
-      ], 
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.076249891612, 
-      "lon": 4.279809580464, 
-      "municipality": "Puurs-Sint-Amands", 
-      "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "11", 
         "12"
       ], 
       "hnrlbls": [
@@ -721,7 +700,6 @@
       "busnrs": [
         "1", 
         "11", 
-        "12", 
         "21"
       ], 
       "hnrlbls": [

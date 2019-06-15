@@ -629,15 +629,86 @@
       "street": "Grotestraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
+      "hnrlbls": [
+        "190"
+      ], 
+      "housenumber": "190", 
+      "lat": 50.96355517097, 
+      "lon": 5.487030819614, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grotestraat"
+    }, 
+    {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU31", 
+        "BU32"
+      ], 
+      "hnrlbls": [
+        "192"
+      ], 
+      "housenumber": "192", 
+      "lat": 50.963556839729, 
+      "lon": 5.486855467781, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grotestraat"
+    }, 
+    {
+      "busnrs": [
+        "BU01"
+      ], 
+      "hnrlbls": [
+        "194"
+      ], 
+      "housenumber": "194", 
+      "lat": 50.963558827632, 
+      "lon": 5.486693790438, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grotestraat"
+    }, 
+    {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32"
+      ], 
       "hnrlbls": [
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 50.963574432571, 
-      "lon": 5.486461540948, 
+      "lat": 50.963559370234, 
+      "lon": 5.486504460118, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grotestraat"
     }, 
     {
@@ -653,12 +724,20 @@
       "street": "Grotestraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU21", 
+        "BU22", 
+        "BU31"
+      ], 
       "hnrlbls": [
         "198"
       ], 
       "housenumber": "198", 
-      "lat": 50.963572525131, 
-      "lon": 5.486397431922, 
+      "lat": 50.963575829158, 
+      "lon": 5.486352523895, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -671,18 +750,6 @@
       "housenumber": "2", 
       "lat": 50.963694504693, 
       "lon": 5.498329584956, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Grotestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "200"
-      ], 
-      "housenumber": "200", 
-      "lat": 50.963536705958, 
-      "lon": 5.486325823008, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

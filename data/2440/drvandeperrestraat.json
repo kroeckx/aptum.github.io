@@ -2343,14 +2343,14 @@
     }, 
     {
       "hnrlbls": [
-        "215-217"
+        "215"
       ], 
       "housenumber": "215", 
-      "lat": 51.177509251295, 
-      "lon": 4.986298888426, 
+      "lat": 51.177463598856, 
+      "lon": 4.986193747368, 
       "municipality": "Geel", 
       "pcode": "2440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dr.-Van de Perrestraat"
     }, 
     {
@@ -2367,14 +2367,14 @@
     }, 
     {
       "hnrlbls": [
-        "215-217"
+        "217"
       ], 
       "housenumber": "217", 
-      "lat": 51.177509251295, 
-      "lon": 4.986298888426, 
+      "lat": 51.177525793539, 
+      "lon": 4.986178125558, 
       "municipality": "Geel", 
       "pcode": "2440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dr.-Van de Perrestraat"
     }, 
     {
@@ -5346,6 +5346,18 @@
     }, 
     {
       "hnrlbls": [
+        "429"
+      ], 
+      "housenumber": "429", 
+      "lat": 51.193826504811, 
+      "lon": 4.982156095833, 
+      "municipality": "Geel", 
+      "pcode": "2440", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dr.-Van de Perrestraat"
+    }, 
+    {
+      "hnrlbls": [
         "42A"
       ], 
       "housenumber": "42A", 
@@ -5939,8 +5951,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.171908500114, 
-      "lon": 4.98716913859, 
+      "lat": 51.171908504611, 
+      "lon": 4.987168280724, 
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 

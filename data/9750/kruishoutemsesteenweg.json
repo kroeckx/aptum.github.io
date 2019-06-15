@@ -237,7 +237,7 @@
       "lon": 3.637615636281, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kruishoutemsesteenweg"
     }, 
     {
@@ -626,18 +626,6 @@
     }, 
     {
       "hnrlbls": [
-        "145B"
-      ], 
-      "housenumber": "145B", 
-      "lat": 50.909305918579, 
-      "lon": 3.634939257561, 
-      "municipality": "Kruisem", 
-      "pcode": "9750", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Kruishoutemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "146"
       ], 
       "housenumber": "146", 
@@ -680,8 +668,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.909246902828, 
-      "lon": 3.634630063972, 
+      "lat": 50.909254019164, 
+      "lon": 3.63463237001, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
       "source": "afgeleidVanGebouw", 
@@ -744,7 +732,7 @@
       "lon": 3.634078758339, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kruishoutemsesteenweg"
     }, 
     {
@@ -768,7 +756,7 @@
       "lon": 3.633953079421, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kruishoutemsesteenweg"
     }, 
     {
@@ -1085,7 +1073,7 @@
       "lon": 3.631258009408, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kruishoutemsesteenweg"
     }, 
     {
@@ -1097,7 +1085,7 @@
       "lon": 3.632527635697, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kruishoutemsesteenweg"
     }, 
     {
@@ -1661,7 +1649,7 @@
       "lon": 3.622558688099, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kruishoutemsesteenweg"
     }, 
     {
@@ -2654,8 +2642,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.906987847323, 
-      "lon": 3.645592085045, 
+      "lat": 50.906834283801, 
+      "lon": 3.645574542829, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
       "source": "afgeleidVanGebouw", 
@@ -2829,7 +2817,7 @@
       "lon": 3.645435168364, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kruishoutemsesteenweg"
     }, 
     {

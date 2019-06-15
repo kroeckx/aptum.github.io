@@ -58,11 +58,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.742355123564, 
-      "lon": 3.598091146547, 
+      "lat": 50.742202565975, 
+      "lon": 3.598037532179, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gefusilleerdenlaan"
     }, 
     {
@@ -478,18 +478,19 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.742629129673, 
-      "lon": 3.597993013007, 
+      "lat": 50.742673273924, 
+      "lon": 3.597979681259, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gefusilleerdenlaan"
     }, 
     {

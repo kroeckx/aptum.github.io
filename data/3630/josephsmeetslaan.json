@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 50.96435895085, 
-      "lon": 5.694575001188, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Joseph Smeetslaan"
-    }, 
-    {
-      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
@@ -285,6 +273,9 @@
       "street": "Joseph Smeetslaan"
     }, 
     {
+      "apptnrs": [
+        "5"
+      ], 
       "hnrlbls": [
         "127"
       ], 
@@ -747,11 +738,11 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.968728374726, 
-      "lon": 5.685131618025, 
+      "lat": 50.96870356251, 
+      "lon": 5.685115400944, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Joseph Smeetslaan"
     }, 
     {
@@ -867,6 +858,22 @@
       "housenumber": "167", 
       "lat": 50.969778235158, 
       "lon": 5.68404507346, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Joseph Smeetslaan"
+    }, 
+    {
+      "apptnrs": [
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "169"
+      ], 
+      "housenumber": "169", 
+      "lat": 50.970176779376, 
+      "lon": 5.683250336189, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -1068,13 +1075,6 @@
       "street": "Joseph Smeetslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
         "190"
       ], 
@@ -1091,8 +1091,8 @@
         "190A"
       ], 
       "housenumber": "190A", 
-      "lat": 50.969600302881, 
-      "lon": 5.683386945259, 
+      "lat": 50.969606588716, 
+      "lon": 5.683234908962, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1189,11 +1189,11 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.964377298038, 
-      "lon": 5.695195836906, 
+      "lat": 50.964396582281, 
+      "lon": 5.695136159221, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Joseph Smeetslaan"
     }, 
     {
@@ -1323,12 +1323,6 @@
       "street": "Joseph Smeetslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "221"
       ], 
@@ -1338,21 +1332,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Joseph Smeetslaan"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "221K"
-      ], 
-      "housenumber": "221K", 
-      "lat": 50.97301620268, 
-      "lon": 5.677634076056, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Joseph Smeetslaan"
     }, 
     {
@@ -1908,21 +1887,6 @@
       "street": "Joseph Smeetslaan"
     }, 
     {
-      "busnrs": [
-        "8"
-      ], 
-      "hnrlbls": [
-        "26K"
-      ], 
-      "housenumber": "26K", 
-      "lat": 50.964907310269, 
-      "lon": 5.693401266437, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Joseph Smeetslaan"
-    }, 
-    {
       "hnrlbls": [
         "27"
       ], 
@@ -2003,7 +1967,7 @@
       "lon": 5.662318358764, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Joseph Smeetslaan"
     }, 
     {
@@ -2262,8 +2226,8 @@
         "307A"
       ], 
       "housenumber": "307A", 
-      "lat": 50.976960311648, 
-      "lon": 5.665406596926, 
+      "lat": 50.976956306405, 
+      "lon": 5.665402925825, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2390,9 +2354,6 @@
       "street": "Joseph Smeetslaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -2469,23 +2430,18 @@
     }, 
     {
       "apptnrs": [
-        "14", 
-        "6"
-      ], 
-      "busnrs": [
         "1", 
         "10", 
-        "11", 
-        "13", 
-        "15", 
-        "16", 
-        "17", 
         "2", 
         "3", 
         "4", 
         "5", 
+        "6", 
         "7", 
-        "8", 
+        "8"
+      ], 
+      "busnrs": [
+        "16", 
         "9"
       ], 
       "hnrlbls": [
@@ -2672,6 +2628,18 @@
     }, 
     {
       "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.965791402654, 
+      "lon": 5.691577641056, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Joseph Smeetslaan"
+    }, 
+    {
+      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -2699,11 +2667,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.966051770391, 
-      "lon": 5.691769370122, 
+      "lat": 50.966024713304, 
+      "lon": 5.691729025281, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Joseph Smeetslaan"
     }, 
     {
@@ -2733,18 +2701,6 @@
       "housenumber": "62", 
       "lat": 50.965949633074, 
       "lon": 5.691306465982, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Joseph Smeetslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 50.966016252728, 
-      "lon": 5.69100294708, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -2946,6 +2902,9 @@
       "street": "Joseph Smeetslaan"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "78A"
       ], 

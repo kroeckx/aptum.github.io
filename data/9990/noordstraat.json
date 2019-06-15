@@ -303,6 +303,18 @@
     }, 
     {
       "hnrlbls": [
+        "120A"
+      ], 
+      "housenumber": "120A", 
+      "lat": 51.213819956206, 
+      "lon": 3.446875069574, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Noordstraat"
+    }, 
+    {
+      "hnrlbls": [
         "121"
       ], 
       "housenumber": "121", 
@@ -492,8 +504,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.213874847878, 
-      "lon": 3.44729791338, 
+      "lat": 51.213874931068, 
+      "lon": 3.447297053004, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
@@ -543,8 +555,8 @@
         "140D"
       ], 
       "housenumber": "140D", 
-      "lat": 51.214710505832, 
-      "lon": 3.446494369692, 
+      "lat": 51.214707328895, 
+      "lon": 3.446490424981, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1592,18 +1604,6 @@
     }, 
     {
       "hnrlbls": [
-        "216"
-      ], 
-      "housenumber": "216", 
-      "lat": 51.218037580701, 
-      "lon": 3.446775143722, 
-      "municipality": "Maldegem", 
-      "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Noordstraat"
-    }, 
-    {
-      "hnrlbls": [
         "217"
       ], 
       "housenumber": "217", 
@@ -2192,9 +2192,6 @@
         "3-01", 
         "3-02", 
         "3-03"
-      ], 
-      "busnrs": [
-        "203"
       ], 
       "hnrlbls": [
         "35"
@@ -2842,18 +2839,6 @@
     }, 
     {
       "hnrlbls": [
-        "82A"
-      ], 
-      "housenumber": "82A", 
-      "lat": 51.212891129379, 
-      "lon": 3.445574716299, 
-      "municipality": "Maldegem", 
-      "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Noordstraat"
-    }, 
-    {
-      "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
@@ -2931,7 +2916,7 @@
         "C"
       ], 
       "hnrlbls": [
-        "87-91"
+        "91"
       ], 
       "housenumber": "91", 
       "lat": 51.212258437484, 

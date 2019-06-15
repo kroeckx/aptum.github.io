@@ -29,11 +29,23 @@
         "12-14_2"
       ], 
       "housenumber": "14", 
-      "lat": 51.140954385732, 
-      "lon": 4.376102336482, 
+      "lat": 51.140966790859, 
+      "lon": 4.376090907589, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Ahornelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "14_1"
+      ], 
+      "housenumber": "14_1", 
+      "lat": 51.14093721319, 
+      "lon": 4.376163775263, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ahornelaan"
     }, 
     {

@@ -257,6 +257,18 @@
     }, 
     {
       "hnrlbls": [
+        "17B"
+      ], 
+      "housenumber": "17B", 
+      "lat": 50.983853539023, 
+      "lon": 3.559584392701, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -395,36 +407,36 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "0002"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.983637577585, 
-      "lon": 3.561138038373, 
+      "lat": 50.983648127386, 
+      "lon": 3.561208210563, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.98405007862, 
-      "lon": 3.560792266514, 
+      "lat": 50.983921585493, 
+      "lon": 3.560840195772, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -444,8 +456,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.983689042059, 
-      "lon": 3.561275438993, 
+      "lat": 50.98372986583, 
+      "lon": 3.561342526688, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -456,8 +468,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.984133694323, 
-      "lon": 3.560859471803, 
+      "lat": 50.984023114922, 
+      "lon": 3.560950245041, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -627,8 +639,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.984163112296, 
-      "lon": 3.561557241652, 
+      "lat": 50.984151551157, 
+      "lon": 3.561562425237, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -639,8 +651,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.983826173998, 
-      "lon": 3.562317281147, 
+      "lat": 50.983826891136, 
+      "lon": 3.562316983984, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -687,8 +699,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.983955981754, 
-      "lon": 3.562802544793, 
+      "lat": 50.983968164353, 
+      "lon": 3.562796211518, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1085,8 +1097,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.984533275858, 
-      "lon": 3.565495743733, 
+      "lat": 50.984544359562, 
+      "lon": 3.565486439096, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

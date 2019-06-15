@@ -377,6 +377,23 @@
       "street": "Viermaartlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "193"
+      ], 
+      "housenumber": "193", 
+      "lat": 50.74025959931, 
+      "lon": 3.588911924037, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Viermaartlaan"
+    }, 
+    {
       "hnrlbls": [
         "195"
       ], 
@@ -664,18 +681,6 @@
       "housenumber": "38", 
       "lat": 50.739166882045, 
       "lon": 3.590947050912, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Viermaartlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 50.740729699172, 
-      "lon": 3.595515018987, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 

@@ -150,8 +150,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.250709105535, 
-      "lon": 4.449410491587, 
+      "lat": 51.250664105783, 
+      "lon": 4.449364581246, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -219,11 +219,11 @@
       "street": "Dokter Maurice Timmermanslaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "112"
@@ -345,9 +345,7 @@
       "busnrs": [
         "1", 
         "2", 
-        "3", 
-        "4", 
-        "5"
+        "3"
       ], 
       "hnrlbls": [
         "15"
@@ -480,6 +478,11 @@
       "street": "Dokter Maurice Timmermanslaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -966,6 +969,11 @@
       "street": "Dokter Maurice Timmermanslaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "53"
       ], 
@@ -1203,6 +1211,11 @@
       "street": "Dokter Maurice Timmermanslaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "72"
       ], 

@@ -601,9 +601,6 @@
       "street": "Gouden-Hoofdstraat"
     }, 
     {
-      "apptnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -620,11 +617,11 @@
         "49A"
       ], 
       "housenumber": "49A", 
-      "lat": 51.013480101553, 
-      "lon": 2.654530268954, 
+      "lat": 51.013412071649, 
+      "lon": 2.654483297918, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gouden-Hoofdstraat"
     }, 
     {

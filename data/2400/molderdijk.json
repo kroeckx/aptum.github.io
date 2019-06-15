@@ -290,7 +290,7 @@
       "street": "Molderdijk"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101"
       ], 
@@ -407,6 +407,18 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molderdijk"
+    }, 
+    {
+      "hnrlbls": [
+        "179"
+      ], 
+      "housenumber": "179", 
+      "lat": 51.176276183529, 
+      "lon": 5.13260293919, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molderdijk"
     }, 
     {

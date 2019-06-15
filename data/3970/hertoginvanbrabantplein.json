@@ -2,54 +2,220 @@
   "addresses": [
     {
       "hnrlbls": [
-        "6-28"
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.116303796131, 
+      "lon": 5.25976622469, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.116683748664, 
+      "lon": 5.259555953887, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.116678584739, 
+      "lon": 5.259489870746, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.116671578598, 
+      "lon": 5.259417753881, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.117260456105, 
+      "lon": 5.25918204063, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.117451467402, 
+      "lon": 5.259552603635, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.117281305476, 
+      "lon": 5.259587349101, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.116905987346, 
-      "lon": 5.259779143576, 
+      "lat": 51.117175399443, 
+      "lon": 5.259529341107, 
       "municipality": "Leopoldsburg", 
       "pcode": "3970", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hertogin van Brabantplein"
     }, 
     {
       "busnrs": [
         "1", 
-        "2", 
-        "4", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "6-28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.116905987346, 
-      "lon": 5.259779143576, 
-      "municipality": "Leopoldsburg", 
-      "pcode": "3970", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Hertogin van Brabantplein"
-    }, 
-    {
-      "busnrs": [
-        "1", 
+        "10", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
-        "6-28"
+        "28"
       ], 
-      "housenumber": "6", 
-      "lat": 51.116905987346, 
-      "lon": 5.259779143576, 
+      "housenumber": "28", 
+      "lat": 51.117051626836, 
+      "lon": 5.259563543178, 
       "municipality": "Leopoldsburg", 
       "pcode": "3970", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.116989958564, 
+      "lon": 5.260003695455, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 51.116720803918, 
+      "lon": 5.259981562206, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.116732200531, 
+      "lon": 5.260138743352, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 51.116846973352, 
+      "lon": 5.26010594231, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.116461988898, 
+      "lon": 5.259733251747, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.116636985737, 
+      "lon": 5.259641612992, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hertogin van Brabantplein"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.116747354259, 
+      "lon": 5.259608726774, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hertogin van Brabantplein"
     }
   ]

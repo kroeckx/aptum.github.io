@@ -29,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.272865707474, 
-      "lon": 4.650678227898, 
+      "lat": 51.272862920126, 
+      "lon": 4.650678640865, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.272156059728, 
-      "lon": 4.652489566501, 
+      "lat": 51.27216116093, 
+      "lon": 4.652498768301, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -209,8 +209,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.272434654992, 
-      "lon": 4.655779394616, 
+      "lat": 51.272434299995, 
+      "lon": 4.655777529624, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -245,8 +245,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.272447889096, 
-      "lon": 4.656509263973, 
+      "lat": 51.27244824897, 
+      "lon": 4.656509122909, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +257,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.271788267561, 
-      "lon": 4.656313456495, 
+      "lat": 51.271789703569, 
+      "lon": 4.656314325124, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -481,11 +481,11 @@
       "street": "Risschotlei"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "b1"
       ], 
       "hnrlbls": [
-        "74-74b"
+        "74"
       ], 
       "housenumber": "74", 
       "lat": 51.271361074193, 
@@ -505,21 +505,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Risschotlei"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "74-74b"
-      ], 
-      "housenumber": "74b", 
-      "lat": 51.271361074193, 
-      "lon": 4.663451475116, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Risschotlei"
     }, 
     {

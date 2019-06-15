@@ -56,13 +56,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "101", 
-        "2", 
         "201", 
-        "3", 
-        "301", 
-        "4"
+        "301"
       ], 
       "hnrlbls": [
         "102"
@@ -589,8 +585,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.204640825043, 
-      "lon": 4.396735857738, 
+      "lat": 51.204641544327, 
+      "lon": 4.396734999683, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
@@ -825,6 +821,11 @@
       "street": "Paleisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -1238,6 +1239,12 @@
       "street": "Paleisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -1875,8 +1882,13 @@
       "street": "Paleisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "91-93"
+        "91"
       ], 
       "housenumber": "91", 
       "lat": 51.205852598621, 
@@ -1915,18 +1927,6 @@
     }, 
     {
       "hnrlbls": [
-        "91-93"
-      ], 
-      "housenumber": "93", 
-      "lat": 51.205852598621, 
-      "lon": 4.398017085034, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Paleisstraat"
-    }, 
-    {
-      "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
@@ -1951,13 +1951,9 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "101", 
-        "2", 
         "201", 
-        "3", 
         "301", 
-        "4", 
         "401"
       ], 
       "hnrlbls": [

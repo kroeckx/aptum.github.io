@@ -769,6 +769,18 @@
     }, 
     {
       "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.218732386166, 
+      "lon": 3.437323229025, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Buurtstraat"
+    }, 
+    {
+      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -1306,11 +1318,11 @@
         "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.217431476603, 
-      "lon": 3.445153969056, 
+      "lat": 51.217450554612, 
+      "lon": 3.445168191051, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Buurtstraat"
     }
   ]

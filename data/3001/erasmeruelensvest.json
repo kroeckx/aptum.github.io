@@ -474,8 +474,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.86839874855, 
-      "lon": 4.706411899443, 
+      "lat": 50.868412984105, 
+      "lon": 4.70640077918, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -743,24 +743,30 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.868049341622, 
-      "lon": 4.699126144824, 
+      "lat": 50.868064427327, 
+      "lon": 4.699132075549, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
       "street": "Erasme Ruelensvest"
     }, 
     {
-      "apptnrs": [
-        "0101"
-      ], 
-      "busnrs": [
-        "0001"
-      ], 
       "hnrlbls": [
-        "191"
+        "191-191C"
       ], 
       "housenumber": "191", 
+      "lat": 50.868757312381, 
+      "lon": 4.707822026686, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Erasme Ruelensvest"
+    }, 
+    {
+      "hnrlbls": [
+        "191-191C"
+      ], 
+      "housenumber": "191C", 
       "lat": 50.868757312381, 
       "lon": 4.707822026686, 
       "municipality": "Leuven", 
@@ -805,8 +811,8 @@
         "21-21C"
       ], 
       "housenumber": "21", 
-      "lat": 50.868037150219, 
-      "lon": 4.699273232295, 
+      "lat": 50.868034271215, 
+      "lon": 4.699274064356, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -817,8 +823,8 @@
         "21-21C"
       ], 
       "housenumber": "21C", 
-      "lat": 50.868037150219, 
-      "lon": 4.699273232295, 
+      "lat": 50.868034271215, 
+      "lon": 4.699274064356, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -868,9 +874,6 @@
       "street": "Erasme Ruelensvest"
     }, 
     {
-      "apptnrs": [
-        "0002"
-      ], 
       "busnrs": [
         "0001", 
         "0101", 
@@ -891,15 +894,6 @@
       "street": "Erasme Ruelensvest"
     }, 
     {
-      "apptnrs": [
-        "0001"
-      ], 
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202"
-      ], 
       "hnrlbls": [
         "31"
       ], 

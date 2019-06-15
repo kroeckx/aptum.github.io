@@ -319,8 +319,8 @@
         "126-128"
       ], 
       "housenumber": "126", 
-      "lat": 51.04246413959, 
-      "lon": 3.738320811736, 
+      "lat": 51.0424118176, 
+      "lon": 3.738404076503, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -347,8 +347,8 @@
         "126-128"
       ], 
       "housenumber": "128", 
-      "lat": 51.04246413959, 
-      "lon": 3.738320811736, 
+      "lat": 51.0424118176, 
+      "lon": 3.738404076503, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -368,30 +368,6 @@
     }, 
     {
       "hnrlbls": [
-        "130-132"
-      ], 
-      "housenumber": "130", 
-      "lat": 51.042422327459, 
-      "lon": 3.738402651797, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brusselsepoortstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "130-132"
-      ], 
-      "housenumber": "130A", 
-      "lat": 51.042422327459, 
-      "lon": 3.738402651797, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brusselsepoortstraat"
-    }, 
-    {
-      "hnrlbls": [
         "131"
       ], 
       "housenumber": "131", 
@@ -400,18 +376,6 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Brusselsepoortstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "130-132"
-      ], 
-      "housenumber": "132", 
-      "lat": 51.042422327459, 
-      "lon": 3.738402651797, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsepoortstraat"
     }, 
     {
@@ -547,9 +511,8 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0301", 
-        "201", 
-        "301"
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "148"

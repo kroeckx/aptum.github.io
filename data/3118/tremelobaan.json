@@ -137,8 +137,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.976167652318, 
-      "lon": 4.701461805977, 
+      "lat": 50.976167108938, 
+      "lon": 4.701463225982, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 
@@ -213,7 +213,7 @@
       "lon": 4.702307935983, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Tremelobaan"
     }, 
     {
@@ -235,6 +235,28 @@
       "housenumber": "6", 
       "lat": 50.974509090758, 
       "lon": 4.702932490649, 
+      "municipality": "Rotselaar", 
+      "pcode": "3118", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tremelobaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.974630339815, 
+      "lon": 4.702337771709, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 

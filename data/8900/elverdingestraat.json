@@ -54,21 +54,6 @@
       "street": "Elverdingestraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "11_2"
-      ], 
-      "housenumber": "11_2", 
-      "lat": 50.852063646633, 
-      "lon": 2.882023750288, 
-      "municipality": "Ieper", 
-      "pcode": "8900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Elverdingestraat"
-    }, 
-    {
       "hnrlbls": [
         "12"
       ], 
@@ -585,6 +570,64 @@
       "housenumber": "49", 
       "lat": 50.851614614375, 
       "lon": 2.879492082632, 
+      "municipality": "Ieper", 
+      "pcode": "8900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elverdingestraat"
+    }, 
+    {
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "2A", 
+        "GLA", 
+        "GLB", 
+        "GLC"
+      ], 
+      "hnrlbls": [
+        "4B", 
+        "4B-4C"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.852788730742, 
+      "lon": 2.882671678485, 
+      "municipality": "Ieper", 
+      "pcode": "8900", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Elverdingestraat"
+    }, 
+    {
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "2A", 
+        "GLA", 
+        "GLB"
+      ], 
+      "hnrlbls": [
+        "4C", 
+        "4B-4C"
+      ], 
+      "housenumber": "4C", 
+      "lat": 50.852811822625, 
+      "lon": 2.882840828764, 
+      "municipality": "Ieper", 
+      "pcode": "8900", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Elverdingestraat"
+    }, 
+    {
+      "apptnrs": [
+        "1A", 
+        "1B", 
+        "2A"
+      ], 
+      "hnrlbls": [
+        "4D"
+      ], 
+      "housenumber": "4D", 
+      "lat": 50.852384909472, 
+      "lon": 2.882620240303, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 

@@ -37,23 +37,23 @@
       "street": "Aarseleweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006"
       ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.008041858908, 
-      "lon": 3.476880642123, 
+      "lat": 51.008011534124, 
+      "lon": 3.476888628668, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aarseleweg"
     }, 
     {
@@ -157,11 +157,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.008077896247, 
-      "lon": 3.475787606792, 
+      "lat": 51.007941143933, 
+      "lon": 3.475868155039, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aarseleweg"
     }, 
     {
@@ -169,8 +169,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.008352724074, 
-      "lon": 3.476916335974, 
+      "lat": 51.008242959886, 
+      "lon": 3.476892632892, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -201,11 +201,11 @@
         "23-25"
       ], 
       "housenumber": "23", 
-      "lat": 51.008316941762, 
-      "lon": 3.476714105963, 
+      "lat": 51.008259490612, 
+      "lon": 3.47671320428, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aarseleweg"
     }, 
     {
@@ -225,11 +225,11 @@
         "23-25"
       ], 
       "housenumber": "25", 
-      "lat": 51.008316941762, 
-      "lon": 3.476714105963, 
+      "lat": 51.008259490612, 
+      "lon": 3.47671320428, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aarseleweg"
     }, 
     {
@@ -281,18 +281,27 @@
       "street": "Aarseleweg"
     }, 
     {
-      "busnrs": [
-        "001"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.00795027615, 
-      "lon": 3.478404487988, 
+      "lat": 51.007940981449, 
+      "lon": 3.478399819779, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aarseleweg"
     }, 
     {

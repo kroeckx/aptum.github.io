@@ -353,11 +353,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.133705590039, 
-      "lon": 4.388521685076, 
+      "lat": 51.133692381527, 
+      "lon": 4.388493677631, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Lindelei"
     }, 
     {
@@ -496,6 +496,25 @@
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lindelei"
+    }, 
+    {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "B1", 
+        "B2", 
+        "C"
+      ], 
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 51.134373861721, 
+      "lon": 4.391611491673, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lindelei"
     }, 
     {
@@ -726,11 +745,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.135044041292, 
-      "lon": 4.392138304556, 
+      "lat": 51.135029392108, 
+      "lon": 4.392126724559, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Lindelei"
     }, 
     {
@@ -762,8 +781,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.135150173991, 
-      "lon": 4.392688266159, 
+      "lat": 51.135144513478, 
+      "lon": 4.39267697644, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanPerceelGrb", 

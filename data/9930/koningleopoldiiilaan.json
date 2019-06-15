@@ -301,18 +301,18 @@
       "street": "Koning Leopold III laan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.117535152559, 
-      "lon": 3.550906990558, 
+      "lat": 51.117572393619, 
+      "lon": 3.550936618252, 
       "municipality": "Lievegem", 
       "pcode": "9930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koning Leopold III laan"
     }, 
     {
@@ -373,6 +373,18 @@
       "municipality": "Lievegem", 
       "pcode": "9930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Koning Leopold III laan"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.117567646892, 
+      "lon": 3.55061477376, 
+      "municipality": "Lievegem", 
+      "pcode": "9930", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koning Leopold III laan"
     }, 
     {

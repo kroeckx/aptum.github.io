@@ -233,8 +233,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.992311916335, 
-      "lon": 3.54559055892, 
+      "lat": 50.992311283874, 
+      "lon": 3.545602962589, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -388,8 +388,8 @@
         "127-127B"
       ], 
       "housenumber": "127", 
-      "lat": 51.004086193341, 
-      "lon": 3.563757924364, 
+      "lat": 51.004065434997, 
+      "lon": 3.563785351707, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -400,8 +400,8 @@
         "127-127B"
       ], 
       "housenumber": "127B", 
-      "lat": 51.004086193341, 
-      "lon": 3.563757924364, 
+      "lat": 51.004065434997, 
+      "lon": 3.563785351707, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -959,8 +959,8 @@
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.005558471707, 
-      "lon": 3.569057099247, 
+      "lat": 51.005558296772, 
+      "lon": 3.569057814646, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -983,8 +983,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.00560554986, 
-      "lon": 3.569119273863, 
+      "lat": 51.005603929017, 
+      "lon": 3.569118874056, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1060,8 +1060,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.009849821728, 
-      "lon": 3.579022032446, 
+      "lat": 51.009850001499, 
+      "lon": 3.579022029418, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1072,8 +1072,8 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 51.005636708432, 
-      "lon": 3.569445171768, 
+      "lat": 51.005642827394, 
+      "lon": 3.569432813884, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1084,8 +1084,8 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 51.009807879774, 
-      "lon": 3.579121773553, 
+      "lat": 51.009807704779, 
+      "lon": 3.57912248898, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1093,8 +1093,12 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0202"
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "173"
@@ -1112,8 +1116,8 @@
         "173A"
       ], 
       "housenumber": "173A", 
-      "lat": 51.005344756197, 
-      "lon": 3.57019176999, 
+      "lat": 51.00534312763, 
+      "lon": 3.570190230421, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1172,11 +1176,11 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.006048481709, 
-      "lon": 3.570725214902, 
+      "lat": 51.00604396101, 
+      "lon": 3.570761197952, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -1196,11 +1200,11 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.006099908353, 
-      "lon": 3.570779196192, 
+      "lat": 51.006093990256, 
+      "lon": 3.570794685262, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -1292,8 +1296,8 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 51.007057763829, 
-      "lon": 3.573719226048, 
+      "lat": 51.007059281814, 
+      "lon": 3.573731026775, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1393,6 +1397,18 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Leernsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "187C"
+      ], 
+      "housenumber": "187C", 
+      "lat": 51.008128545674, 
+      "lon": 3.575817768917, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -1621,7 +1637,6 @@
     {
       "busnrs": [
         "0001", 
-        "0002", 
         "0101", 
         "0102", 
         "0201"
@@ -1702,11 +1717,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.989903495634, 
-      "lon": 3.542062528232, 
+      "lat": 50.989924301661, 
+      "lon": 3.542119420818, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -2199,11 +2214,11 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 50.994488392411, 
-      "lon": 3.548100214213, 
+      "lat": 50.994542114155, 
+      "lon": 3.547978903828, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -2211,11 +2226,11 @@
         "22B"
       ], 
       "housenumber": "22B", 
-      "lat": 50.994623820177, 
-      "lon": 3.548235451273, 
+      "lat": 50.994676839848, 
+      "lon": 3.548116574639, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -2355,6 +2370,13 @@
       "street": "Leernsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201"
+      ], 
       "hnrlbls": [
         "237A"
       ], 
@@ -2367,12 +2389,19 @@
       "street": "Leernsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201"
+      ], 
       "hnrlbls": [
         "237B"
       ], 
       "housenumber": "237B", 
-      "lat": 51.010270848554, 
-      "lon": 3.58070666704, 
+      "lat": 51.010269848374, 
+      "lon": 3.580704973886, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "manueleAanduidingVanLot", 
@@ -2479,11 +2508,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.994705920811, 
-      "lon": 3.548277747103, 
+      "lat": 50.994725995282, 
+      "lon": 3.54813978861, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -2575,8 +2604,8 @@
         "245"
       ], 
       "housenumber": "245", 
-      "lat": 51.010765972745, 
-      "lon": 3.581806129089, 
+      "lat": 51.010806657351, 
+      "lon": 3.581746594154, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -2791,19 +2820,27 @@
       "street": "Leernsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "259"
+        "259A"
       ], 
-      "housenumber": "259", 
-      "lat": 51.01203005198, 
-      "lon": 3.582730128913, 
+      "housenumber": "259A", 
+      "lat": 51.012028019788, 
+      "lon": 3.582735435578, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leernsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "259B"
+      ], 
+      "housenumber": "259B", 
+      "lat": 51.012019665476, 
+      "lon": 3.582628556294, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -3039,8 +3076,8 @@
         "276"
       ], 
       "housenumber": "276", 
-      "lat": 51.017135269282, 
-      "lon": 3.590210658052, 
+      "lat": 51.017138786118, 
+      "lon": 3.590212309856, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -3124,11 +3161,11 @@
     }, 
     {
       "hnrlbls": [
-        "282-282A"
+        "282"
       ], 
       "housenumber": "282", 
-      "lat": 51.017440702134, 
-      "lon": 3.590995281857, 
+      "lat": 51.017404502976, 
+      "lon": 3.590917924755, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -3136,11 +3173,11 @@
     }, 
     {
       "hnrlbls": [
-        "282-282A"
+        "282A"
       ], 
       "housenumber": "282A", 
-      "lat": 51.017440702134, 
-      "lon": 3.590995281857, 
+      "lat": 51.017476355344, 
+      "lon": 3.591071650503, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -3487,11 +3524,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.99649859981, 
-      "lon": 3.548969203298, 
+      "lat": 50.996497936896, 
+      "lon": 3.548964371384, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -3835,11 +3872,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.990023216832, 
-      "lon": 3.54259740328, 
+      "lat": 50.990070045951, 
+      "lon": 3.542519520195, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -3991,8 +4028,8 @@
         "459"
       ], 
       "housenumber": "459", 
-      "lat": 51.02633076284, 
-      "lon": 3.603456203641, 
+      "lat": 51.026290932483, 
+      "lon": 3.603455143493, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -4135,8 +4172,8 @@
         "7-53"
       ], 
       "housenumber": "53", 
-      "lat": 50.998300034366, 
-      "lon": 3.550028537243, 
+      "lat": 50.998298240615, 
+      "lon": 3.550029138407, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4159,11 +4196,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.000027580029, 
-      "lon": 3.549370095593, 
+      "lat": 50.999987853635, 
+      "lon": 3.549590900634, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -4399,8 +4436,8 @@
         "69C"
       ], 
       "housenumber": "69C", 
-      "lat": 51.001206878169, 
-      "lon": 3.552663915209, 
+      "lat": 51.001203276825, 
+      "lon": 3.552663123067, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -4471,11 +4508,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.001537631885, 
-      "lon": 3.551125168128, 
+      "lat": 51.001570027903, 
+      "lon": 3.551091122455, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -4495,11 +4532,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.001455041404, 
-      "lon": 3.551465404313, 
+      "lat": 51.001393982812, 
+      "lon": 3.55152744608, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -4543,8 +4580,8 @@
         "8-8A"
       ], 
       "housenumber": "8", 
-      "lat": 50.992102544211, 
-      "lon": 3.545153088856, 
+      "lat": 50.992095485309, 
+      "lon": 3.545146375572, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4642,8 +4679,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.001538155355, 
-      "lon": 3.553547882106, 
+      "lat": 51.001537431341, 
+      "lon": 3.553547182338, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -4678,8 +4715,8 @@
         "8-8A"
       ], 
       "housenumber": "8A", 
-      "lat": 50.992102544211, 
-      "lon": 3.545153088856, 
+      "lat": 50.992095485309, 
+      "lon": 3.545146375572, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4735,42 +4772,6 @@
     }, 
     {
       "hnrlbls": [
-        "93A"
-      ], 
-      "housenumber": "93A", 
-      "lat": 51.002171901285, 
-      "lon": 3.555898640308, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Leernsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "93B"
-      ], 
-      "housenumber": "93B", 
-      "lat": 51.002240212075, 
-      "lon": 3.556144647216, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Leernsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "93C"
-      ], 
-      "housenumber": "93C", 
-      "lat": 51.002269898392, 
-      "lon": 3.556303987847, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Leernsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
@@ -4786,8 +4787,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.002341411294, 
-      "lon": 3.556532131183, 
+      "lat": 51.00233682666, 
+      "lon": 3.556597321017, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -4813,11 +4814,11 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.002396707633, 
-      "lon": 3.556937793367, 
+      "lat": 51.002197594099, 
+      "lon": 3.557043109045, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Leernsesteenweg"
     }, 
     {
@@ -4837,11 +4838,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.002435287688, 
-      "lon": 3.557187736901, 
+      "lat": 51.002270585792, 
+      "lon": 3.557303426514, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leernsesteenweg"
     }
   ]

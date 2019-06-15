@@ -664,12 +664,17 @@
       "street": "Hertshage"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.943614468751, 
-      "lon": 4.042957795011, 
+      "lat": 50.943634343629, 
+      "lon": 4.042928345915, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 

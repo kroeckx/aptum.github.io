@@ -32,18 +32,6 @@
     }, 
     {
       "hnrlbls": [
-        "100-106"
-      ], 
-      "housenumber": "100", 
-      "lat": 51.046320625829, 
-      "lon": 3.734263317871, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Violettestraat"
-    }, 
-    {
-      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
@@ -80,7 +68,7 @@
     }, 
     {
       "hnrlbls": [
-        "100-106"
+        "102-106"
       ], 
       "housenumber": "102", 
       "lat": 51.046320625829, 
@@ -104,7 +92,7 @@
     }, 
     {
       "hnrlbls": [
-        "100-106"
+        "102-106"
       ], 
       "housenumber": "104", 
       "lat": 51.046320625829, 
@@ -128,7 +116,7 @@
     }, 
     {
       "hnrlbls": [
-        "100-106"
+        "102-106"
       ], 
       "housenumber": "106", 
       "lat": 51.046320625829, 
@@ -1133,11 +1121,11 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.046852745003, 
-      "lon": 3.735190892751, 
+      "lat": 51.046860288311, 
+      "lon": 3.735206192173, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Violettestraat"
     }, 
     {
@@ -1160,26 +1148,26 @@
     }, 
     {
       "hnrlbls": [
-        "169-169A"
+        "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.046831733733, 
-      "lon": 3.735094918037, 
+      "lat": 51.046835571792, 
+      "lon": 3.735106559797, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Violettestraat"
     }, 
     {
       "hnrlbls": [
-        "169-169A"
+        "169A"
       ], 
       "housenumber": "169A", 
-      "lat": 51.046831733733, 
-      "lon": 3.735094918037, 
+      "lat": 51.046815279321, 
+      "lon": 3.73502726029, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Violettestraat"
     }, 
     {
@@ -1215,19 +1203,19 @@
     }, 
     {
       "hnrlbls": [
-        "171-171A"
+        "171"
       ], 
       "housenumber": "171", 
-      "lat": 51.046794469917, 
-      "lon": 3.734935418555, 
+      "lat": 51.046775248101, 
+      "lon": 3.734871363494, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Violettestraat"
     }, 
     {
       "hnrlbls": [
-        "171-171A"
+        "171A"
       ], 
       "housenumber": "171A", 
       "lat": 51.046794469917, 
@@ -1478,11 +1466,11 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 51.046608174563, 
-      "lon": 3.735012093179, 
+      "lat": 51.046602076255, 
+      "lon": 3.734880979093, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Violettestraat"
     }, 
     {
@@ -1502,11 +1490,11 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 51.046610597059, 
-      "lon": 3.734877441302, 
+      "lat": 51.046586893402, 
+      "lon": 3.734983004403, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Violettestraat"
     }, 
     {
@@ -1523,21 +1511,9 @@
     }, 
     {
       "hnrlbls": [
-        "189-189A"
+        "189"
       ], 
       "housenumber": "189", 
-      "lat": 51.046492769874, 
-      "lon": 3.73511575899, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Lange Violettestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "189-189A"
-      ], 
-      "housenumber": "189A", 
       "lat": 51.046492769874, 
       "lon": 3.73511575899, 
       "municipality": "Gent", 
@@ -1564,30 +1540,6 @@
       "housenumber": "190", 
       "lat": 51.045054527797, 
       "lon": 3.735224333167, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Lange Violettestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "191-191A"
-      ], 
-      "housenumber": "191", 
-      "lat": 51.046519461337, 
-      "lon": 3.735231620874, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Lange Violettestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "191-191A"
-      ], 
-      "housenumber": "191A", 
-      "lat": 51.046519461337, 
-      "lon": 3.735231620874, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2071,6 +2023,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Lange Violettestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "201"
+      ], 
+      "housenumber": "201", 
+      "lat": 51.046823442382, 
+      "lon": 3.735978186834, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Violettestraat"
     }, 
     {
@@ -4409,11 +4373,11 @@
         "95B"
       ], 
       "housenumber": "95B", 
-      "lat": 51.046975264265, 
-      "lon": 3.734671575926, 
+      "lat": 51.046979170782, 
+      "lon": 3.73467922379, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Violettestraat"
     }, 
     {

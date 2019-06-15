@@ -218,6 +218,18 @@
       "street": "St. Hubertusplein"
     }, 
     {
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 51.110261336642, 
+      "lon": 4.329177519945, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "St. Hubertusplein"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2"
@@ -429,7 +441,7 @@
       "street": "St. Hubertusplein"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "0001", 
         "0101", 
         "0102", 

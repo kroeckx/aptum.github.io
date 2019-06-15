@@ -286,26 +286,12 @@
       "street": "Wollestraat"
     }, 
     {
-      "apptnrs": [
-        "E1", 
-        "E102", 
-        "E2", 
-        "E201", 
-        "E3", 
-        "E301", 
-        "E4", 
-        "E5"
-      ], 
-      "busnrs": [
-        "3", 
-        "301"
-      ], 
       "hnrlbls": [
-        "29"
+        "29-29E"
       ], 
       "housenumber": "29", 
-      "lat": 51.207687329376, 
-      "lon": 3.226366908776, 
+      "lat": 51.207735303971, 
+      "lon": 3.22636387394, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -313,70 +299,73 @@
     }, 
     {
       "hnrlbls": [
-        "29A"
+        "29-29E"
       ], 
       "housenumber": "29A", 
-      "lat": 51.207595156802, 
-      "lon": 3.226242799984, 
+      "lat": 51.207735303971, 
+      "lon": 3.22636387394, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wollestraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "2"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
-        "29B"
+        "29-29E"
       ], 
       "housenumber": "29B", 
-      "lat": 51.207594847194, 
-      "lon": 3.22621075117, 
+      "lat": 51.207735303971, 
+      "lon": 3.22636387394, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wollestraat"
     }, 
     {
       "hnrlbls": [
-        "29C"
+        "29-29E"
       ], 
       "housenumber": "29C", 
-      "lat": 51.207609733117, 
-      "lon": 3.226188347936, 
+      "lat": 51.207735303971, 
+      "lon": 3.22636387394, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wollestraat"
     }, 
     {
       "hnrlbls": [
-        "29D"
+        "29-29E"
       ], 
       "housenumber": "29D", 
-      "lat": 51.207624599685, 
-      "lon": 3.226163941636, 
+      "lat": 51.207735303971, 
+      "lon": 3.22636387394, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wollestraat"
     }, 
     {
       "busnrs": [
-        "3"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
-        "29E"
+        "29-29E"
       ], 
       "housenumber": "29E", 
-      "lat": 51.207640763183, 
-      "lon": 3.226143510618, 
+      "lat": 51.207735303971, 
+      "lon": 3.22636387394, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wollestraat"
     }, 
     {
@@ -405,11 +394,11 @@
     }, 
     {
       "hnrlbls": [
-        "31-31A"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.207613263442, 
-      "lon": 3.226432834712, 
+      "lat": 51.207639356162, 
+      "lon": 3.226370086681, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -421,7 +410,7 @@
         "201"
       ], 
       "hnrlbls": [
-        "31-31A"
+        "31A"
       ], 
       "housenumber": "31A", 
       "lat": 51.207613263442, 

@@ -547,8 +547,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.814541116825, 
-      "lon": 5.17986053332, 
+      "lat": 50.814539180965, 
+      "lon": 5.179867453244, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -581,6 +581,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ziekerenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.811259155203, 
+      "lon": 5.177108037647, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Ziekerenweg"
     }, 
     {

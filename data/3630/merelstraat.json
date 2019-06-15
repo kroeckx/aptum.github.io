@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "A0"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -76,15 +73,11 @@
       "street": "Merelstraat"
     }, 
     {
-      "apptnrs": [
-        "C0"
-      ], 
       "busnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
-        "C"
+        "4"
       ], 
       "hnrlbls": [
         "18"
@@ -92,18 +85,6 @@
       "housenumber": "18", 
       "lat": 50.961376280574, 
       "lon": 5.682876635307, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Merelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "18A"
-      ], 
-      "housenumber": "18A", 
-      "lat": 50.961409892342, 
-      "lon": 5.682781340471, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 

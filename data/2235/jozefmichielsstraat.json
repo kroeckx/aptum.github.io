@@ -1,6 +1,24 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.061116306074, 
+      "lon": 4.838718644843, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jozef Michielsstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -595,8 +613,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.060713595287, 
-      "lon": 4.838380803254, 
+      "lat": 51.060704965603, 
+      "lon": 4.838358321152, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 

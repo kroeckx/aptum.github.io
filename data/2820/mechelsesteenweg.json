@@ -86,6 +86,18 @@
     }, 
     {
       "hnrlbls": [
+        "127"
+      ], 
+      "housenumber": "127", 
+      "lat": 51.024136986121, 
+      "lon": 4.542086571781, 
+      "municipality": "Bonheiden", 
+      "pcode": "2820", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "128"
       ], 
       "housenumber": "128", 
@@ -918,8 +930,8 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 51.024842088761, 
-      "lon": 4.539079589069, 
+      "lat": 51.024841190689, 
+      "lon": 4.539079015654, 
       "municipality": "Bonheiden", 
       "pcode": "2820", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1187,6 +1199,18 @@
       "housenumber": "215", 
       "lat": 51.025615202387, 
       "lon": 4.536986274772, 
+      "municipality": "Bonheiden", 
+      "pcode": "2820", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "215A"
+      ], 
+      "housenumber": "215A", 
+      "lat": 51.025645194489, 
+      "lon": 4.536882759063, 
       "municipality": "Bonheiden", 
       "pcode": "2820", 
       "source": "afgeleidVanGebouw", 
@@ -2005,8 +2029,8 @@
         "286"
       ], 
       "housenumber": "286", 
-      "lat": 51.030175809544, 
-      "lon": 4.525693232319, 
+      "lat": 51.030174372069, 
+      "lon": 4.52569265728, 
       "municipality": "Bonheiden", 
       "pcode": "2820", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2161,11 +2185,11 @@
         "303"
       ], 
       "housenumber": "303", 
-      "lat": 51.030531873068, 
-      "lon": 4.522430295033, 
+      "lat": 51.030493145455, 
+      "lon": 4.522350196229, 
       "municipality": "Bonheiden", 
       "pcode": "2820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {

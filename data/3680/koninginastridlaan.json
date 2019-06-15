@@ -1134,6 +1134,50 @@
       "street": "Koningin Astridlaan"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "51-53B"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.098329005718, 
+      "lon": 5.777628205792, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koningin Astridlaan"
+    }, 
+    {
+      "busnrs": [
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "51-53B"
+      ], 
+      "housenumber": "53A", 
+      "lat": 51.098329005718, 
+      "lon": 5.777628205792, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koningin Astridlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "51-53B"
+      ], 
+      "housenumber": "53B", 
+      "lat": 51.098329005718, 
+      "lon": 5.777628205792, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koningin Astridlaan"
+    }, 
+    {
       "hnrlbls": [
         "54"
       ], 

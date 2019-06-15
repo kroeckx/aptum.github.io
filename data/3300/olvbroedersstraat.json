@@ -158,6 +158,41 @@
       "street": "O.L.V. Broedersstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.806799385376, 
+      "lon": 4.940181047711, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "O.L.V. Broedersstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.80681401227, 
+      "lon": 4.940278553323, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "O.L.V. Broedersstraat"
+    }, 
+    {
       "hnrlbls": [
         "3"
       ], 
@@ -170,12 +205,46 @@
       "street": "O.L.V. Broedersstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.806832337001, 
+      "lon": 4.940391994228, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "O.L.V. Broedersstraat"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.806773854354, 
       "lon": 4.940953825346, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "O.L.V. Broedersstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.807021120696, 
+      "lon": 4.940650380202, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 

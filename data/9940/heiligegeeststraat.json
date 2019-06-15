@@ -129,11 +129,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.177871010567, 
-      "lon": 3.745157656414, 
+      "lat": 51.177875332603, 
+      "lon": 3.745142011087, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilige Geeststraat"
     }, 
     {
@@ -311,9 +311,39 @@
         "101"
       ], 
       "hnrlbls": [
-        "4"
+        "4-4B"
       ], 
       "housenumber": "4", 
+      "lat": 51.17774704356, 
+      "lon": 3.745138575162, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heilige Geeststraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "4-4B"
+      ], 
+      "housenumber": "4A", 
+      "lat": 51.17774704356, 
+      "lon": 3.745138575162, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heilige Geeststraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "4-4B"
+      ], 
+      "housenumber": "4B", 
       "lat": 51.17774704356, 
       "lon": 3.745138575162, 
       "municipality": "Evergem", 
@@ -331,11 +361,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.17834615742, 
-      "lon": 3.745566178978, 
+      "lat": 51.178352557555, 
+      "lon": 3.74553549004, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilige Geeststraat"
     }, 
     {
@@ -343,11 +373,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.177656818854, 
-      "lon": 3.745091872645, 
+      "lat": 51.177659637291, 
+      "lon": 3.745046788376, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heilige Geeststraat"
     }, 
     {

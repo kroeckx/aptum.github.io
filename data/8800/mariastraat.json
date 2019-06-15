@@ -1,17 +1,12 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.949795950869, 
-      "lon": 3.13244539111, 
+      "lat": 50.949751137498, 
+      "lon": 3.132492827405, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -153,6 +148,23 @@
       "housenumber": "19", 
       "lat": 50.950486649661, 
       "lon": 3.131697766281, 
+      "municipality": "Roeselare", 
+      "pcode": "8800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Mariastraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.949810930907, 
+      "lon": 3.13244214994, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 

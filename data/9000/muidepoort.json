@@ -1020,11 +1020,23 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.071278627404, 
-      "lon": 3.730958706339, 
+      "lat": 51.071266808439, 
+      "lon": 3.730950734533, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Muidepoort"
+    }, 
+    {
+      "hnrlbls": [
+        "56A"
+      ], 
+      "housenumber": "56A", 
+      "lat": 51.07128330068, 
+      "lon": 3.730958500012, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Muidepoort"
     }, 
     {
@@ -1461,35 +1473,11 @@
     }, 
     {
       "hnrlbls": [
-        "81"
-      ], 
-      "housenumber": "81", 
-      "lat": 51.072614465988, 
-      "lon": 3.731099462922, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Muidepoort"
-    }, 
-    {
-      "hnrlbls": [
         "74-94B"
       ], 
       "housenumber": "82", 
       "lat": 51.07180158682, 
       "lon": 3.731351806477, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Muidepoort"
-    }, 
-    {
-      "hnrlbls": [
-        "83"
-      ], 
-      "housenumber": "83", 
-      "lat": 51.072657889929, 
-      "lon": 3.731100583843, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1697,6 +1685,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Muidepoort"
+    }, 
+    {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 51.071973712858, 
+      "lon": 3.731431791372, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Muidepoort"
     }, 
     {

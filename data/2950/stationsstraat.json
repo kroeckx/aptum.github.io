@@ -133,6 +133,10 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -542,8 +546,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.31380516148, 
-      "lon": 4.431621579841, 
+      "lat": 51.313805163327, 
+      "lon": 4.431618137797, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
@@ -611,8 +615,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.313680516347, 
-      "lon": 4.431920293166, 
+      "lat": 51.313738685741, 
+      "lon": 4.432055903394, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
@@ -623,8 +627,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.313702569062, 
-      "lon": 4.432027600317, 
+      "lat": 51.313731653756, 
+      "lon": 4.432095333779, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 

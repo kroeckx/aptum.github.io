@@ -29,11 +29,23 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.199030377867, 
-      "lon": 5.497642419267, 
+      "lat": 51.199024632128, 
+      "lon": 5.497622820949, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Biesekampweg"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.199623411796, 
+      "lon": 5.50088275436, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Biesekampweg"
     }
   ]

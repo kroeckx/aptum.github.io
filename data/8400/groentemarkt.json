@@ -15,11 +15,11 @@
         "7"
       ], 
       "hnrlbls": [
-        "1"
+        "1-2"
       ], 
       "housenumber": "1", 
-      "lat": 51.232427301745, 
-      "lon": 2.918995323048, 
+      "lat": 51.232459445207, 
+      "lon": 2.919065348753, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -83,7 +83,7 @@
       "lon": 2.920193605745, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groentemarkt"
     }, 
     {
@@ -158,8 +158,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.231835103566, 
-      "lon": 2.920109021682, 
+      "lat": 51.231835478806, 
+      "lon": 2.920110298768, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -175,8 +175,8 @@
         "17-17A"
       ], 
       "housenumber": "17", 
-      "lat": 51.231816825345, 
-      "lon": 2.919350663521, 
+      "lat": 51.231795562534, 
+      "lon": 2.919376240058, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -187,8 +187,8 @@
         "17-17A"
       ], 
       "housenumber": "17A", 
-      "lat": 51.231816825345, 
-      "lon": 2.919350663521, 
+      "lat": 51.231795562534, 
+      "lon": 2.919376240058, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -237,11 +237,11 @@
         "3"
       ], 
       "hnrlbls": [
-        "2"
+        "1-2"
       ], 
       "housenumber": "2", 
-      "lat": 51.232460531035, 
-      "lon": 2.919058584805, 
+      "lat": 51.232459445207, 
+      "lon": 2.919065348753, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -377,20 +377,28 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.23233677786, 
-      "lon": 2.91996456162, 
+      "lat": 51.232340205524, 
+      "lon": 2.919958154541, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
       "street": "Groentemarkt"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.23227447079, 
-      "lon": 2.919934708083, 
+      "lat": 51.232273520823, 
+      "lon": 2.919937887886, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 

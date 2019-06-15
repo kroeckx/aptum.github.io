@@ -13,11 +13,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.752349955639, 
-      "lon": 4.613926203718, 
+      "lat": 50.752332052763, 
+      "lon": 4.613889690892, 
       "municipality": "Huldenberg", 
       "pcode": "3040", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kerkstraat"
     }, 
     {
@@ -43,8 +43,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.752309217787, 
-      "lon": 4.614189570904, 
+      "lat": 50.752338815689, 
+      "lon": 4.614264831684, 
       "municipality": "Huldenberg", 
       "pcode": "3040", 
       "source": "afgeleidVanPerceelGrb", 
@@ -77,8 +77,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.752265154105, 
-      "lon": 4.614367044314, 
+      "lat": 50.752229673608, 
+      "lon": 4.614395909204, 
       "municipality": "Huldenberg", 
       "pcode": "3040", 
       "source": "afgeleidVanPerceelGrb", 
@@ -97,8 +97,8 @@
         "14A"
       ], 
       "housenumber": "14A", 
-      "lat": 50.752183395936, 
-      "lon": 4.614429252274, 
+      "lat": 50.752165655532, 
+      "lon": 4.61444375553, 
       "municipality": "Huldenberg", 
       "pcode": "3040", 
       "source": "afgeleidVanPerceelGrb", 
@@ -165,19 +165,15 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.75248352003, 
-      "lon": 4.613980325582, 
+      "lat": 50.752517070127, 
+      "lon": 4.614142758925, 
       "municipality": "Huldenberg", 
       "pcode": "3040", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkstraat"
     }
   ]

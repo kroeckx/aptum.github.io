@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.25884259283, 
-      "lon": 3.718134364884, 
+      "lat": 51.25883528759, 
+      "lon": 3.718048084126, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +149,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.25892180697, 
-      "lon": 3.718138846766, 
+      "lat": 51.258912327505, 
+      "lon": 3.718033113505, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -317,8 +317,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.268090578701, 
-      "lon": 3.718461253774, 
+      "lat": 51.268090128283, 
+      "lon": 3.718477451068, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -329,8 +329,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.268169847026, 
-      "lon": 3.718459288582, 
+      "lat": 51.268168111572, 
+      "lon": 3.718470632185, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -389,14 +389,14 @@
     }, 
     {
       "hnrlbls": [
-        "16-18"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.259133629104, 
-      "lon": 3.718131737355, 
+      "lat": 51.259092898296, 
+      "lon": 3.718047641491, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Noordstraat"
     }, 
     {
@@ -413,14 +413,14 @@
     }, 
     {
       "hnrlbls": [
-        "16-18"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.259133629104, 
-      "lon": 3.718131737355, 
+      "lat": 51.259264523105, 
+      "lon": 3.718184491909, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Noordstraat"
     }, 
     {
@@ -464,8 +464,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.259260789064, 
-      "lon": 3.718486671207, 
+      "lat": 51.259259309325, 
+      "lon": 3.718479099263, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -572,8 +572,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.25953542548, 
-      "lon": 3.718591287487, 
+      "lat": 51.259536355718, 
+      "lon": 3.718597004799, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -633,11 +633,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.259602052327, 
-      "lon": 3.718611560721, 
+      "lat": 51.259619936689, 
+      "lon": 3.718660162127, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Noordstraat"
     }, 
     {
@@ -717,11 +717,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.260137828743, 
-      "lon": 3.718179759038, 
+      "lat": 51.260163599197, 
+      "lon": 3.718273090881, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Noordstraat"
     }, 
     {
@@ -870,11 +870,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.258678277548, 
-      "lon": 3.718821412933, 
+      "lat": 51.258663060397, 
+      "lon": 3.718423521287, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Noordstraat"
     }, 
     {
@@ -1035,26 +1035,26 @@
     }, 
     {
       "hnrlbls": [
-        "66"
+        "66-68"
       ], 
       "housenumber": "66", 
-      "lat": 51.261840835044, 
-      "lon": 3.717972193779, 
+      "lat": 51.261840745952, 
+      "lon": 3.717972338287, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Noordstraat"
     }, 
     {
       "hnrlbls": [
-        "68"
+        "66-68"
       ], 
       "housenumber": "68", 
-      "lat": 51.261916612616, 
-      "lon": 3.71795652336, 
+      "lat": 51.261840745952, 
+      "lon": 3.717972338287, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Noordstraat"
     }, 
     {
@@ -1086,8 +1086,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.262150811051, 
-      "lon": 3.717883055208, 
+      "lat": 51.262149782243, 
+      "lon": 3.71787576305, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -1098,8 +1098,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.262391380585, 
-      "lon": 3.717971244451, 
+      "lat": 51.262320869067, 
+      "lon": 3.717963775765, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -1146,8 +1146,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.262982345414, 
-      "lon": 3.717899529919, 
+      "lat": 51.26301231476, 
+      "lon": 3.717873609998, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 

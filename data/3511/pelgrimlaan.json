@@ -116,13 +116,22 @@
       "street": "Pelgrimlaan"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "24"
+        "24-24A"
       ], 
       "housenumber": "24", 
+      "lat": 50.944445857654, 
+      "lon": 5.280819248315, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pelgrimlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "24-24A"
+      ], 
+      "housenumber": "24A", 
       "lat": 50.944445857654, 
       "lon": 5.280819248315, 
       "municipality": "Hasselt", 
@@ -271,8 +280,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.94641632104, 
-      "lon": 5.280280115642, 
+      "lat": 50.946421527785, 
+      "lon": 5.28028107074, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 

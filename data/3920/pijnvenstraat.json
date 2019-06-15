@@ -833,18 +833,6 @@
     }, 
     {
       "hnrlbls": [
-        "78"
-      ], 
-      "housenumber": "78", 
-      "lat": 51.165169208757, 
-      "lon": 5.289659000113, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Pijnvenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
@@ -889,6 +877,18 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Pijnvenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 51.164938792305, 
+      "lon": 5.290778356031, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pijnvenstraat"
     }
   ]

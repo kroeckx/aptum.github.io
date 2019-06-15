@@ -861,10 +861,20 @@
     }, 
     {
       "apptnrs": [
-        "1"
+        "1", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32", 
+        "41", 
+        "42", 
+        "51", 
+        "52"
       ], 
       "hnrlbls": [
-        "50-52"
+        "50"
       ], 
       "housenumber": "50", 
       "lat": 51.351447739761, 
@@ -888,24 +898,6 @@
       "housenumber": "51", 
       "lat": 51.351620271798, 
       "lon": 3.28730034405, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sylvain Dupuisstraat"
-    }, 
-    {
-      "apptnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "22"
-      ], 
-      "hnrlbls": [
-        "50-52"
-      ], 
-      "housenumber": "52", 
-      "lat": 51.351447739761, 
-      "lon": 3.287030174455, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 

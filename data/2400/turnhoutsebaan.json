@@ -140,9 +140,7 @@
     }, 
     {
       "apptnrs": [
-        "1"
-      ], 
-      "busnrs": [
+        "1", 
         "101", 
         "102", 
         "103", 
@@ -173,7 +171,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3"
       ], 
       "hnrlbls": [
@@ -332,7 +330,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -817,7 +815,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -953,7 +951,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -1776,6 +1774,18 @@
       "housenumber": "307", 
       "lat": 51.210586278575, 
       "lon": 5.115034259899, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "309"
+      ], 
+      "housenumber": "309", 
+      "lat": 51.210659901778, 
+      "lon": 5.115033578695, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 

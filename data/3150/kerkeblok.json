@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.959466080954, 
-      "lon": 4.635156698665, 
+      "lat": 50.959477449307, 
+      "lon": 4.635217398445, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkeblok"
     }, 
     {
@@ -22,6 +22,18 @@
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kerkeblok"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.959742002932, 
+      "lon": 4.634107684203, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kerkeblok"
     }
   ]

@@ -59,20 +59,10 @@
       "street": "P.J. Denisstraat"
     }, 
     {
-      "hnrlbls": [
-        "13-13B"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.132064693244, 
-      "lon": 4.579628910782, 
-      "municipality": "Lier", 
-      "pcode": "2500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "P.J. Denisstraat"
-    }, 
-    {
       "busnrs": [
+        "1", 
         "10", 
+        "2", 
         "3", 
         "4", 
         "5", 
@@ -82,14 +72,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "13-13B"
+        "13"
       ], 
-      "housenumber": "13B", 
-      "lat": 51.132064693244, 
-      "lon": 4.579628910782, 
+      "housenumber": "13", 
+      "lat": 51.132046878809, 
+      "lon": 4.579638258943, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "P.J. Denisstraat"
     }, 
     {

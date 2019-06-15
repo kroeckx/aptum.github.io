@@ -57,6 +57,7 @@
     {
       "busnrs": [
         "-101", 
+        "0301", 
         "12", 
         "15", 
         "3", 
@@ -71,7 +72,7 @@
       "lon": 2.903652649462, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eduard De Cuyperstraat"
     }, 
     {
@@ -91,8 +92,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.222661452329, 
-      "lon": 2.903743762925, 
+      "lat": 51.222660099547, 
+      "lon": 2.903750677386, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -131,22 +132,6 @@
       "housenumber": "16", 
       "lat": 51.222559183794, 
       "lon": 2.903884843724, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Eduard De Cuyperstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.222530020218, 
-      "lon": 2.904019905861, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -259,6 +244,7 @@
     }, 
     {
       "busnrs": [
+        "-101", 
         "0101", 
         "0201", 
         "0301", 
@@ -274,7 +260,7 @@
       "lon": 2.903652680708, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Eduard De Cuyperstraat"
     }, 
     {

@@ -185,10 +185,26 @@
       "street": "Palinckstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "116"
+        "116-116A"
       ], 
       "housenumber": "116", 
+      "lat": 51.225083181846, 
+      "lon": 4.46078322498, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Palinckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "116-116A"
+      ], 
+      "housenumber": "116A", 
       "lat": 51.225083181846, 
       "lon": 4.46078322498, 
       "municipality": "Antwerpen", 
@@ -1556,6 +1572,11 @@
       "street": "Palinckstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "9"
       ], 

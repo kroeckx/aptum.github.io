@@ -71,11 +71,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.93418350585, 
-      "lon": 5.332122133354, 
+      "lat": 50.934184759575, 
+      "lon": 5.332122728196, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Stokerijstraat"
     }, 
     {
@@ -216,32 +216,32 @@
       "street": "Stokerijstraat"
     }, 
     {
-      "apptnrs": [
-        "11"
-      ], 
       "busnrs": [
-        "1", 
-        "13", 
-        "42"
+        "0.01", 
+        "0.02", 
+        "0.03", 
+        "0.04", 
+        "0.05", 
+        "0.06", 
+        "1.01", 
+        "1.02", 
+        "1.03", 
+        "1.04", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "2.04", 
+        "3.01", 
+        "3.02", 
+        "3.03", 
+        "3.04"
       ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.934448439436, 
-      "lon": 5.333633372489, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stokerijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42"
-      ], 
-      "housenumber": "42", 
-      "lat": 50.934459830592, 
-      "lon": 5.333713136388, 
+      "lat": 50.934459731868, 
+      "lon": 5.33367045307, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

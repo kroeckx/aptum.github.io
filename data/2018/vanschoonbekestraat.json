@@ -92,8 +92,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.204197846741, 
-      "lon": 4.410057051213, 
+      "lat": 51.204195959981, 
+      "lon": 4.410054760209, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -493,6 +493,11 @@
       "street": "Van Schoonbekestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "128"
       ], 
@@ -1043,8 +1048,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.204071279533, 
-      "lon": 4.409576184489, 
+      "lat": 51.204077842605, 
+      "lon": 4.409571897894, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1344,7 +1349,6 @@
         "201", 
         "202", 
         "203", 
-        "3", 
         "301", 
         "303", 
         "401"

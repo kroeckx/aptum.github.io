@@ -521,11 +521,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.765388661918, 
-      "lon": 5.25074153557, 
+      "lat": 50.765700632082, 
+      "lon": 5.250406878161, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Vrijheersstraat"
     }, 
     {
@@ -538,6 +538,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vrijheersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.76549223258, 
+      "lon": 5.250598174579, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Vrijheersstraat"
     }, 
     {

@@ -269,8 +269,8 @@
         "29-33"
       ], 
       "housenumber": "29", 
-      "lat": 50.972144830267, 
-      "lon": 3.508515314841, 
+      "lat": 50.972139576311, 
+      "lon": 3.508509858244, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -293,8 +293,8 @@
         "29-33"
       ], 
       "housenumber": "31", 
-      "lat": 50.972144830267, 
-      "lon": 3.508515314841, 
+      "lat": 50.972139576311, 
+      "lon": 3.508509858244, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -317,8 +317,8 @@
         "29-33"
       ], 
       "housenumber": "33", 
-      "lat": 50.972144830267, 
-      "lon": 3.508515314841, 
+      "lat": 50.972139576311, 
+      "lon": 3.508509858244, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -341,11 +341,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.972511364431, 
-      "lon": 3.508345991739, 
+      "lat": 50.972491355465, 
+      "lon": 3.50827744488, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Europalaan"
     }, 
     {
@@ -389,11 +389,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.972779894084, 
-      "lon": 3.507940965858, 
+      "lat": 50.972783136512, 
+      "lon": 3.507892637921, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Europalaan"
     }, 
     {
@@ -453,11 +453,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.973001258654, 
-      "lon": 3.507528115593, 
+      "lat": 50.972912608713, 
+      "lon": 3.507379241769, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Europalaan"
     }, 
     {
@@ -492,8 +492,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.973277846312, 
-      "lon": 3.506137192219, 
+      "lat": 50.973273478582, 
+      "lon": 3.506130010824, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -561,7 +561,7 @@
     }, 
     {
       "hnrlbls": [
-        "60-64"
+        "60"
       ], 
       "housenumber": "60", 
       "lat": 50.972213738786, 
@@ -597,11 +597,11 @@
     }, 
     {
       "hnrlbls": [
-        "60-64"
+        "66"
       ], 
-      "housenumber": "64", 
-      "lat": 50.972213738786, 
-      "lon": 3.510787765924, 
+      "housenumber": "66", 
+      "lat": 50.972249267813, 
+      "lon": 3.511271503524, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -609,26 +609,14 @@
     }, 
     {
       "hnrlbls": [
-        "66-70"
-      ], 
-      "housenumber": "66", 
-      "lat": 50.972306808353, 
-      "lon": 3.511580847401, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Europalaan"
-    }, 
-    {
-      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.972312457419, 
-      "lon": 3.51152948621, 
+      "lat": 50.972293863115, 
+      "lon": 3.511556166847, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Europalaan"
     }, 
     {
@@ -645,14 +633,14 @@
     }, 
     {
       "hnrlbls": [
-        "66-70"
+        "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.972306808353, 
-      "lon": 3.511580847401, 
+      "lat": 50.97211796397, 
+      "lon": 3.511486338302, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Europalaan"
     }, 
     {

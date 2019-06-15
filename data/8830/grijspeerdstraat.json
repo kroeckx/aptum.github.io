@@ -244,8 +244,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.000269981187, 
-      "lon": 3.095013504832, 
+      "lat": 51.00026974854, 
+      "lon": 3.095016930667, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanPerceelGrb", 
@@ -646,8 +646,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.011583350116, 
-      "lon": 3.080824245374, 
+      "lat": 51.011565916514, 
+      "lon": 3.080841398716, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanPerceelGrb", 
@@ -850,11 +850,23 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.002596945638, 
-      "lon": 3.09197343347, 
+      "lat": 51.001951048305, 
+      "lon": 3.09272567991, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grijspeerdstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "67A"
+      ], 
+      "housenumber": "67A", 
+      "lat": 51.002091565056, 
+      "lon": 3.091804961291, 
+      "municipality": "Hooglede", 
+      "pcode": "8830", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grijspeerdstraat"
     }, 
     {

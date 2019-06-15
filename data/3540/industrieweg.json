@@ -101,11 +101,11 @@
         "1022"
       ], 
       "housenumber": "1022", 
-      "lat": 50.946299310204, 
-      "lon": 5.164901381443, 
+      "lat": 50.946326086977, 
+      "lon": 5.164903259364, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Industrieweg"
     }, 
     {
@@ -305,8 +305,8 @@
         "1092"
       ], 
       "housenumber": "1092", 
-      "lat": 50.94471427846, 
-      "lon": 5.171049916285, 
+      "lat": 50.944714466983, 
+      "lon": 5.171048638827, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -353,8 +353,8 @@
         "1108"
       ], 
       "housenumber": "1108", 
-      "lat": 50.947612193491, 
-      "lon": 5.167784199372, 
+      "lat": 50.947613178378, 
+      "lon": 5.167784785393, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -425,8 +425,8 @@
         "1132"
       ], 
       "housenumber": "1132", 
-      "lat": 50.948264485044, 
-      "lon": 5.164859770798, 
+      "lat": 50.948417460122, 
+      "lon": 5.164691882832, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -509,11 +509,11 @@
         "1201"
       ], 
       "housenumber": "1201", 
-      "lat": 50.947684572101, 
-      "lon": 5.162067671304, 
+      "lat": 50.947740868036, 
+      "lon": 5.162184462475, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Industrieweg"
     }, 
     {
@@ -533,8 +533,8 @@
         "1301"
       ], 
       "housenumber": "1301", 
-      "lat": 50.948060765323, 
-      "lon": 5.162856593111, 
+      "lat": 50.948059877034, 
+      "lon": 5.162855012667, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -614,6 +614,18 @@
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
+      "street": "Industrieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1401"
+      ], 
+      "housenumber": "1401", 
+      "lat": 50.947694179738, 
+      "lon": 5.161922965217, 
+      "municipality": "Herk-de-Stad", 
+      "pcode": "3540", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Industrieweg"
     }, 
     {

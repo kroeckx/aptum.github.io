@@ -13,12 +13,6 @@
       "street": "Alfons Butsstraat"
     }, 
     {
-      "apptnrs": [
-        "b1", 
-        "b2", 
-        "b3", 
-        "b4"
-      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -35,8 +29,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.268509117913, 
-      "lon": 4.639138809665, 
+      "lat": 51.268514945119, 
+      "lon": 4.63914543446, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -48,14 +42,14 @@
         "b2"
       ], 
       "hnrlbls": [
-        "14-16"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.268718046689, 
-      "lon": 4.639826340083, 
+      "lat": 51.26856930438, 
+      "lon": 4.639624593357, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Butsstraat"
     }, 
     {
@@ -64,14 +58,14 @@
         "b2"
       ], 
       "hnrlbls": [
-        "14-16"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.268718046689, 
-      "lon": 4.639826340083, 
+      "lat": 51.268620525213, 
+      "lon": 4.639590791251, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Butsstraat"
     }, 
     {
@@ -89,23 +83,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Alfons Butsstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "17b"
-      ], 
-      "housenumber": "17b", 
-      "lat": 51.268170589968, 
-      "lon": 4.638680352635, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Alfons Butsstraat"
     }, 
     {
@@ -370,11 +347,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.269642256997, 
-      "lon": 4.638554932993, 
+      "lat": 51.269813328343, 
+      "lon": 4.638347448175, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alfons Butsstraat"
     }, 
     {
@@ -471,14 +448,8 @@
       "street": "Alfons Butsstraat"
     }, 
     {
-      "apptnrs": [
-        "b1", 
-        "b2", 
-        "b3", 
-        "b4"
-      ], 
       "hnrlbls": [
-        "7-7b"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 51.268032695076, 
@@ -486,23 +457,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Alfons Butsstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "7-7b"
-      ], 
-      "housenumber": "7b", 
-      "lat": 51.268032695076, 
-      "lon": 4.639550255407, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Alfons Butsstraat"
     }, 
     {

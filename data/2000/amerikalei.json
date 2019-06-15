@@ -151,7 +151,8 @@
         "2", 
         "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "8-105"
@@ -811,6 +812,12 @@
       "street": "Amerikalei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -2011,6 +2018,34 @@
       "street": "Amerikalei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
+        "2", 
+        "20", 
+        "21", 
+        "22", 
+        "23", 
+        "24", 
+        "25", 
+        "26", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "220"
       ], 
@@ -2642,7 +2677,7 @@
     }, 
     {
       "hnrlbls": [
-        "47-49"
+        "47"
       ], 
       "housenumber": "47", 
       "lat": 51.207733653782, 
@@ -2654,35 +2689,11 @@
     }, 
     {
       "hnrlbls": [
-        "47A"
-      ], 
-      "housenumber": "47A", 
-      "lat": 51.207748680575, 
-      "lon": 4.40018014366, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Amerikalei"
-    }, 
-    {
-      "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
       "lat": 51.208294193456, 
       "lon": 4.399493095169, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Amerikalei"
-    }, 
-    {
-      "hnrlbls": [
-        "47-49"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.207733653782, 
-      "lon": 4.400239373567, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -2801,6 +2812,10 @@
       "street": "Amerikalei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -3058,6 +3073,15 @@
       "street": "Amerikalei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601", 
+        "701"
+      ], 
       "hnrlbls": [
         "71"
       ], 
@@ -3386,13 +3410,11 @@
       "street": "Amerikalei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "9"

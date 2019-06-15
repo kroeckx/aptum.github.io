@@ -170,6 +170,35 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "111A-111B"
+      ], 
+      "housenumber": "111A", 
+      "lat": 51.16914873635, 
+      "lon": 4.142623821218, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "111A-111B"
+      ], 
+      "housenumber": "111B", 
+      "lat": 51.16914873635, 
+      "lon": 4.142623821218, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
       "hnrlbls": [
         "112"
       ], 

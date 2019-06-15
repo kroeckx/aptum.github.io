@@ -400,10 +400,6 @@
       "street": "Gr\u00e9trystraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "41"
-      ], 
       "hnrlbls": [
         "2C"
       ], 
@@ -428,6 +424,11 @@
       "street": "Gr\u00e9trystraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -479,6 +480,12 @@
       "street": "Gr\u00e9trystraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "34"
       ], 

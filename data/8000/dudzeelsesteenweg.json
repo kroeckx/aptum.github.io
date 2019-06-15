@@ -553,11 +553,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.230090756293, 
-      "lon": 3.227735648292, 
+      "lat": 51.230077785601, 
+      "lon": 3.227732958852, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dudzeelse Steenweg"
     }, 
     {
@@ -625,8 +625,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.231178159974, 
-      "lon": 3.22907413697, 
+      "lat": 51.231175464651, 
+      "lon": 3.229092959567, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -973,8 +973,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 51.232607694405, 
-      "lon": 3.229162202558, 
+      "lat": 51.232607065031, 
+      "lon": 3.229171525, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1343,6 +1343,18 @@
       "housenumber": "321", 
       "lat": 51.245229279563, 
       "lon": 3.230166383454, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dudzeelse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "323"
+      ], 
+      "housenumber": "323", 
+      "lat": 51.245439242398, 
+      "lon": 3.230555984555, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1773,8 +1785,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.225841971146, 
-      "lon": 3.227872932073, 
+      "lat": 51.225840381034, 
+      "lon": 3.22787583426, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -2106,8 +2118,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.226951140686, 
-      "lon": 3.2276641236, 
+      "lat": 51.226951143447, 
+      "lon": 3.227664409869, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -2318,6 +2330,30 @@
       "housenumber": "89", 
       "lat": 51.227724729909, 
       "lon": 3.227594660223, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dudzeelse Steenweg"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.223470156184, 
+      "lon": 3.22929565829, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

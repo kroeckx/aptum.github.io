@@ -37,15 +37,27 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "21", 
+        "22", 
+        "23", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.889850803048, 
-      "lon": 3.428652538776, 
+      "lat": 50.890043194123, 
+      "lon": 3.428843842668, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {
@@ -61,15 +73,24 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "103-105"
       ], 
       "housenumber": "103", 
-      "lat": 50.89009660958, 
-      "lon": 3.428856845835, 
+      "lat": 50.89012027415, 
+      "lon": 3.428769527454, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {
@@ -89,11 +110,11 @@
         "103-105"
       ], 
       "housenumber": "105", 
-      "lat": 50.89009660958, 
-      "lon": 3.428856845835, 
+      "lat": 50.89012027415, 
+      "lon": 3.428769527454, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {
@@ -120,7 +141,7 @@
       "lon": 3.428796247157, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {
@@ -171,7 +192,7 @@
       "lon": 3.428639503378, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {
@@ -195,7 +216,7 @@
       "lon": 3.428639503378, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {
@@ -2091,6 +2112,18 @@
       "street": "Stationsstraat"
     }, 
     {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.889834953044, 
+      "lon": 3.428233557117, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Stationsstraat"
+    }, 
+    {
       "apptnrs": [
         "1"
       ], 
@@ -2103,6 +2136,18 @@
       "municipality": "Waregem", 
       "pcode": "8790", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 50.889998405219, 
+      "lon": 3.428886526308, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }
   ]

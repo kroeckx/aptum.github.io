@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.065332186351, 
+      "lon": 4.85775664104, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Halfmaanstraat"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -125,8 +137,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.065573057838, 
-      "lon": 4.85694271511, 
+      "lat": 51.065438535834, 
+      "lon": 4.856975262578, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "manueleAanduidingVanGebouw", 
@@ -134,11 +146,11 @@
     }, 
     {
       "hnrlbls": [
-        "9"
+        "8"
       ], 
-      "housenumber": "9", 
-      "lat": 51.065514863644, 
-      "lon": 4.857211022061, 
+      "housenumber": "8", 
+      "lat": 51.065304923324, 
+      "lon": 4.857503277075, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "manueleAanduidingVanPerceel", 

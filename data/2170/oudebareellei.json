@@ -567,9 +567,6 @@
       "street": "Oudebareellei"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "3-3A"
       ], 
@@ -611,10 +608,11 @@
       "street": "Oudebareellei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "32"

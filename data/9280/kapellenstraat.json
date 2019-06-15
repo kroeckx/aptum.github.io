@@ -689,6 +689,18 @@
     }, 
     {
       "hnrlbls": [
+        "57A"
+      ], 
+      "housenumber": "57A", 
+      "lat": 50.999813154092, 
+      "lon": 4.091537968066, 
+      "municipality": "Lebbeke", 
+      "pcode": "9280", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kapellenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
@@ -1079,12 +1091,33 @@
       "street": "Kapellenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
       "lat": 50.997880802569, 
       "lon": 4.092286563861, 
+      "municipality": "Lebbeke", 
+      "pcode": "9280", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kapellenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "78A"
+      ], 
+      "housenumber": "78A", 
+      "lat": 50.997725587266, 
+      "lon": 4.092259984179, 
       "municipality": "Lebbeke", 
       "pcode": "9280", 
       "source": "manueleAanduidingVanGebouw", 

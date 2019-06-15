@@ -220,11 +220,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.130965155027, 
-      "lon": 2.75706314159, 
+      "lat": 51.130907111321, 
+      "lon": 2.757072430803, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Willem De Roolaan"
     }, 
     {
@@ -256,11 +256,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.13087733812, 
-      "lon": 2.757084603072, 
+      "lat": 51.130853042501, 
+      "lon": 2.757109446572, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Willem De Roolaan"
     }, 
     {
@@ -1386,18 +1386,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Willem De Roolaan"
-    }, 
-    {
-      "hnrlbls": [
-        "zn"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.129222520714, 
-      "lon": 2.752983269096, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Willem De Roolaan"
     }
   ]

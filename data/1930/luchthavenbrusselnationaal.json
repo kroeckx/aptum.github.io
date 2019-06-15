@@ -218,11 +218,11 @@
         "1G"
       ], 
       "housenumber": "1G", 
-      "lat": 50.901065341459, 
-      "lon": 4.483207020592, 
+      "lat": 50.899240410948, 
+      "lon": 4.483385495583, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Luchthaven Brussel Nationaal"
     }, 
     {
@@ -251,6 +251,18 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Luchthaven Brussel Nationaal"
+    }, 
+    {
+      "hnrlbls": [
+        "1K"
+      ], 
+      "housenumber": "1K", 
+      "lat": 50.896293906552, 
+      "lon": 4.486150341609, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Luchthaven Brussel Nationaal"
     }, 
     {
@@ -294,11 +306,11 @@
         "23-23A"
       ], 
       "housenumber": "23", 
-      "lat": 50.893138372404, 
-      "lon": 4.472776701467, 
+      "lat": 50.893135768906, 
+      "lon": 4.472772858047, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Luchthaven Brussel Nationaal"
     }, 
     {
@@ -306,11 +318,11 @@
         "23-23A"
       ], 
       "housenumber": "23A", 
-      "lat": 50.893138372404, 
-      "lon": 4.472776701467, 
+      "lat": 50.893135768906, 
+      "lon": 4.472772858047, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Luchthaven Brussel Nationaal"
     }, 
     {
@@ -1410,8 +1422,8 @@
         "50C"
       ], 
       "housenumber": "50C", 
-      "lat": 50.897017720936, 
-      "lon": 4.482715647975, 
+      "lat": 50.895562936714, 
+      "lon": 4.483389114879, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

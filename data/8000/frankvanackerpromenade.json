@@ -4,10 +4,13 @@
       "busnrs": [
         "1", 
         "101", 
+        "102", 
         "103", 
         "104", 
         "105", 
+        "106", 
         "107", 
+        "2", 
         "201", 
         "202", 
         "203", 
@@ -15,29 +18,42 @@
         "205", 
         "206", 
         "207", 
+        "3", 
+        "301", 
         "302", 
         "303", 
         "304", 
+        "305", 
         "306", 
         "307", 
+        "4", 
         "401", 
+        "402", 
+        "403", 
         "404", 
         "405", 
         "406", 
         "407", 
+        "5", 
+        "501", 
         "502", 
+        "503", 
         "504", 
+        "505", 
+        "506", 
         "507", 
+        "601", 
         "602", 
         "603", 
+        "604", 
         "605"
       ], 
       "hnrlbls": [
-        "10-12"
+        "5-12"
       ], 
       "housenumber": "10", 
-      "lat": 51.195950445626, 
-      "lon": 3.220012119983, 
+      "lat": 51.196003827078, 
+      "lon": 3.219853139232, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -45,11 +61,11 @@
     }, 
     {
       "hnrlbls": [
-        "10-12"
+        "5-12"
       ], 
       "housenumber": "11", 
-      "lat": 51.195950445626, 
-      "lon": 3.220012119983, 
+      "lat": 51.196003827078, 
+      "lon": 3.219853139232, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -57,11 +73,122 @@
     }, 
     {
       "hnrlbls": [
-        "10-12"
+        "5-12"
       ], 
       "housenumber": "12", 
-      "lat": 51.195950445626, 
-      "lon": 3.220012119983, 
+      "lat": 51.196003827078, 
+      "lon": 3.219853139232, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Frank Van Ackerpromenade"
+    }, 
+    {
+      "hnrlbls": [
+        "13-14"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.195524325969, 
+      "lon": 3.220121612505, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Frank Van Ackerpromenade"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0405", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0505"
+      ], 
+      "hnrlbls": [
+        "13-14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.195524325969, 
+      "lon": 3.220121612505, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Frank Van Ackerpromenade"
+    }, 
+    {
+      "hnrlbls": [
+        "15-18"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.195275377651, 
+      "lon": 3.220451937967, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Frank Van Ackerpromenade"
+    }, 
+    {
+      "hnrlbls": [
+        "15-18"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.195275377651, 
+      "lon": 3.220451937967, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Frank Van Ackerpromenade"
+    }, 
+    {
+      "busnrs": [
+        "0701", 
+        "0702", 
+        "0703", 
+        "0704", 
+        "0705", 
+        "0706", 
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0806", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "0905"
+      ], 
+      "hnrlbls": [
+        "15-18"
+      ], 
+      "housenumber": "18", 
+      "lat": 51.195275377651, 
+      "lon": 3.220451937967, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -149,11 +276,11 @@
         "0608"
       ], 
       "hnrlbls": [
-        "6"
+        "5-12"
       ], 
       "housenumber": "6", 
-      "lat": 51.196163277388, 
-      "lon": 3.219795132635, 
+      "lat": 51.196003827078, 
+      "lon": 3.219853139232, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -161,14 +288,14 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "5-12"
       ], 
       "housenumber": "7", 
-      "lat": 51.196073758179, 
-      "lon": 3.219547100109, 
+      "lat": 51.196003827078, 
+      "lon": 3.219853139232, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Frank Van Ackerpromenade"
     }, 
     {
@@ -299,11 +426,11 @@
         "0618"
       ], 
       "hnrlbls": [
-        "8"
+        "5-12"
       ], 
       "housenumber": "8", 
-      "lat": 51.196050268791, 
-      "lon": 3.219461118832, 
+      "lat": 51.196003827078, 
+      "lon": 3.219853139232, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -314,8 +441,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.195837937404, 
-      "lon": 3.219637032913, 
+      "lat": 51.195743279781, 
+      "lon": 3.219674272926, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

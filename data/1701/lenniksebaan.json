@@ -1287,29 +1287,22 @@
       "street": "Lenniksebaan"
     }, 
     {
-      "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
       "busnrs": [
-        "1", 
         "101", 
         "102", 
-        "2", 
         "201", 
         "202", 
-        "3", 
         "301"
       ], 
       "hnrlbls": [
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.817825512234, 
-      "lon": 4.241888786959, 
+      "lat": 50.817840612166, 
+      "lon": 4.241969916936, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lenniksebaan"
     }, 
     {
@@ -1325,6 +1318,21 @@
       "municipality": "Dilbeek", 
       "pcode": "1701", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lenniksebaan"
+    }, 
+    {
+      "apptnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 50.817908224374, 
+      "lon": 4.24189608614, 
+      "municipality": "Dilbeek", 
+      "pcode": "1701", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lenniksebaan"
     }, 
     {

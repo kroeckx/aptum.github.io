@@ -14,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "10-10F"
       ], 
       "housenumber": "10", 
-      "lat": 50.829833665805, 
-      "lon": 3.709268358201, 
+      "lat": 50.829966518677, 
+      "lon": 3.709089203384, 
       "municipality": "Horebeke", 
       "pcode": "9667", 
       "source": "afgeleidVanGebouw", 
@@ -26,47 +26,59 @@
     }, 
     {
       "hnrlbls": [
-        "10B-10F"
+        "10A-10B"
       ], 
-      "housenumber": "10B", 
-      "lat": 50.82976719392, 
-      "lon": 3.709357864892, 
+      "housenumber": "10A", 
+      "lat": 50.829914592435, 
+      "lon": 3.709159485706, 
       "municipality": "Horebeke", 
       "pcode": "9667", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Haaghoek"
     }, 
     {
       "hnrlbls": [
-        "10B-10F"
+        "10A-10B"
+      ], 
+      "housenumber": "10B", 
+      "lat": 50.829914592435, 
+      "lon": 3.709159485706, 
+      "municipality": "Horebeke", 
+      "pcode": "9667", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Haaghoek"
+    }, 
+    {
+      "hnrlbls": [
+        "10C"
       ], 
       "housenumber": "10C", 
       "lat": 50.82976719392, 
       "lon": 3.709357864892, 
       "municipality": "Horebeke", 
       "pcode": "9667", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Haaghoek"
     }, 
     {
       "hnrlbls": [
-        "10B-10F"
+        "10D"
       ], 
       "housenumber": "10D", 
-      "lat": 50.82976719392, 
-      "lon": 3.709357864892, 
+      "lat": 50.829660833245, 
+      "lon": 3.70946808655, 
       "municipality": "Horebeke", 
       "pcode": "9667", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Haaghoek"
     }, 
     {
       "hnrlbls": [
-        "10B-10F"
+        "10-10F"
       ], 
       "housenumber": "10F", 
-      "lat": 50.82976719392, 
-      "lon": 3.709357864892, 
+      "lat": 50.829966518677, 
+      "lon": 3.709089203384, 
       "municipality": "Horebeke", 
       "pcode": "9667", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

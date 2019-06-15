@@ -93,8 +93,7 @@
         "1", 
         "2", 
         "3", 
-        "4", 
-        "B000"
+        "4"
       ], 
       "hnrlbls": [
         "18B"
@@ -290,8 +289,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.213098622202, 
-      "lon": 2.907310441272, 
+      "lat": 51.213102559182, 
+      "lon": 2.907279829848, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -314,16 +313,17 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.212940215055, 
-      "lon": 2.90718672422, 
+      "lat": 51.212987421871, 
+      "lon": 2.907274705431, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kroonlaan"
     }, 
     {
       "busnrs": [
         "0201", 
+        "0301", 
         "1", 
         "2", 
         "3"
@@ -336,7 +336,7 @@
       "lon": 2.907138991565, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kroonlaan"
     }, 
     {
@@ -389,8 +389,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.2139500821, 
-      "lon": 2.908111112105, 
+      "lat": 51.213952672591, 
+      "lon": 2.908117042843, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -401,8 +401,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.21269400927, 
-      "lon": 2.906862220393, 
+      "lat": 51.212694174854, 
+      "lon": 2.906861070122, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -464,17 +464,15 @@
     }, 
     {
       "busnrs": [
-        "003L", 
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
         "0202", 
-        "1", 
-        "2", 
-        "3", 
-        "3L", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+        "0301", 
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "7"
@@ -528,19 +526,14 @@
     }, 
     {
       "busnrs": [
-        "001B", 
-        "002B", 
-        "003A", 
+        "0001", 
         "0101", 
-        "0401", 
-        "1", 
-        "1B", 
-        "2", 
-        "2A", 
-        "2B", 
-        "3", 
-        "3A", 
-        "4AB"
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
         "9"

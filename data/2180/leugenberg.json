@@ -98,9 +98,9 @@
     }, 
     {
       "hnrlbls": [
-        "109A"
+        "109_1"
       ], 
-      "housenumber": "109A", 
+      "housenumber": "109_1", 
       "lat": 51.296091455637, 
       "lon": 4.411262065946, 
       "municipality": "Antwerpen", 
@@ -253,17 +253,48 @@
       "street": "Leugenberg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.297594090506, 
-      "lon": 4.411745896049, 
+      "lat": 51.297513000431, 
+      "lon": 4.411792844776, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "122_1"
+      ], 
+      "housenumber": "122_1", 
+      "lat": 51.297567840105, 
+      "lon": 4.411759778163, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "122_2"
+      ], 
+      "housenumber": "122_2", 
+      "lat": 51.297620242193, 
+      "lon": 4.411755956404, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "122_3"
+      ], 
+      "housenumber": "122_3", 
+      "lat": 51.297675099551, 
+      "lon": 4.411674861109, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -331,11 +362,11 @@
     }, 
     {
       "hnrlbls": [
-        "128-130"
+        "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.29786723666, 
-      "lon": 4.411752604031, 
+      "lat": 51.297840001696, 
+      "lon": 4.411755302484, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -360,21 +391,17 @@
         "21"
       ], 
       "hnrlbls": [
-        "128-130"
+        "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.29786723666, 
-      "lon": 4.411752604031, 
+      "lat": 51.297894651227, 
+      "lon": 4.411750335851, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
       "street": "Leugenberg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -388,23 +415,11 @@
     }, 
     {
       "hnrlbls": [
-        "132-134"
+        "131_2"
       ], 
-      "housenumber": "132", 
-      "lat": 51.297971161248, 
-      "lon": 4.411692773005, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Leugenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "133"
-      ], 
-      "housenumber": "133", 
-      "lat": 51.297032834137, 
-      "lon": 4.411115415102, 
+      "housenumber": "131_2", 
+      "lat": 51.296924707555, 
+      "lon": 4.411114311523, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -412,25 +427,41 @@
     }, 
     {
       "hnrlbls": [
-        "132-134"
+        "132"
       ], 
-      "housenumber": "134", 
-      "lat": 51.297971161248, 
-      "lon": 4.411692773005, 
+      "housenumber": "132", 
+      "lat": 51.297953918394, 
+      "lon": 4.41165390364, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Leugenberg"
     }, 
     {
-      "apptnrs": [
-        "1/11", 
-        "2/11", 
-        "2/21", 
-        "2/31", 
-        "3/11", 
-        "3/21"
+      "hnrlbls": [
+        "133"
       ], 
+      "housenumber": "133", 
+      "lat": 51.29699760242, 
+      "lon": 4.411110794777, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "133_1"
+      ], 
+      "housenumber": "133_1", 
+      "lat": 51.297068335497, 
+      "lon": 4.411120035684, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
       "hnrlbls": [
         "135"
       ], 
@@ -494,18 +525,6 @@
     }, 
     {
       "hnrlbls": [
-        "136-138"
-      ], 
-      "housenumber": "136", 
-      "lat": 51.298142206838, 
-      "lon": 4.411930928085, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leugenberg"
-    }, 
-    {
-      "hnrlbls": [
         "137"
       ], 
       "housenumber": "137", 
@@ -518,23 +537,11 @@
     }, 
     {
       "hnrlbls": [
-        "136-138"
-      ], 
-      "housenumber": "138", 
-      "lat": 51.298142206838, 
-      "lon": 4.411930928085, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leugenberg"
-    }, 
-    {
-      "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.297615589013, 
-      "lon": 4.410961976148, 
+      "lat": 51.297614691708, 
+      "lon": 4.410957817629, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -545,8 +552,32 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.29861376072, 
-      "lon": 4.411828718338, 
+      "lat": 51.298011801789, 
+      "lon": 4.411653957851, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "140_4"
+      ], 
+      "housenumber": "140_4", 
+      "lat": 51.298524089087, 
+      "lon": 4.411991360674, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "140_6"
+      ], 
+      "housenumber": "140_6", 
+      "lat": 51.298703342244, 
+      "lon": 4.41166607529, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -641,8 +672,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.297959282741, 
-      "lon": 4.410993834274, 
+      "lat": 51.297959911596, 
+      "lon": 4.410994695072, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -806,11 +837,59 @@
     }, 
     {
       "hnrlbls": [
+        "165_1"
+      ], 
+      "housenumber": "165_1", 
+      "lat": 51.298806723895, 
+      "lon": 4.410876477108, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "165_3"
+      ], 
+      "housenumber": "165_3", 
+      "lat": 51.298968775062, 
+      "lon": 4.410888526123, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.299093186133, 
-      "lon": 4.410845055128, 
+      "lat": 51.299024604022, 
+      "lon": 4.410853020978, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "167_1"
+      ], 
+      "housenumber": "167_1", 
+      "lat": 51.299076017565, 
+      "lon": 4.410848623677, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "167_2"
+      ], 
+      "housenumber": "167_2", 
+      "lat": 51.299179026636, 
+      "lon": 4.410833664151, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -943,6 +1022,18 @@
       "housenumber": "183", 
       "lat": 51.29966701291, 
       "lon": 4.410772174584, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "185"
+      ], 
+      "housenumber": "185", 
+      "lat": 51.299729569404, 
+      "lon": 4.410774095866, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1106,21 +1197,9 @@
     }, 
     {
       "hnrlbls": [
-        "205-207"
+        "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.301522382499, 
-      "lon": 4.410392627841, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leugenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "205-207"
-      ], 
-      "housenumber": "207", 
       "lat": 51.301522382499, 
       "lon": 4.410392627841, 
       "municipality": "Antwerpen", 
@@ -1145,8 +1224,8 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 51.30158774042, 
-      "lon": 4.41035211048, 
+      "lat": 51.30158720134, 
+      "lon": 4.410351536467, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1169,8 +1248,8 @@
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 51.301673724216, 
-      "lon": 4.410442375387, 
+      "lat": 51.301673274658, 
+      "lon": 4.410442805122, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1183,6 +1262,18 @@
       "housenumber": "212", 
       "lat": 51.301607555462, 
       "lon": 4.410987019553, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "213"
+      ], 
+      "housenumber": "213", 
+      "lat": 51.301695974947, 
+      "lon": 4.410302025384, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1241,8 +1332,8 @@
         "219"
       ], 
       "housenumber": "219", 
-      "lat": 51.301842851595, 
-      "lon": 4.410270614708, 
+      "lat": 51.301857517607, 
+      "lon": 4.410227326714, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1277,8 +1368,20 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 51.301979639786, 
-      "lon": 4.410801396085, 
+      "lat": 51.301954113455, 
+      "lon": 4.41080180279, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "222_1"
+      ], 
+      "housenumber": "222_1", 
+      "lat": 51.302005435604, 
+      "lon": 4.410801419774, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1485,11 +1588,35 @@
     }, 
     {
       "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 51.290651351941, 
+      "lon": 4.411862946476, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
       "lat": 51.290085352725, 
       "lon": 4.412629169112, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 51.290695110405, 
+      "lon": 4.411900114623, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1509,11 +1636,35 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 51.290750395374, 
+      "lon": 4.41187866455, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
       "lat": 51.290242829146, 
       "lon": 4.41261785219, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 51.290791381626, 
+      "lon": 4.411877699693, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1533,11 +1684,35 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.290841450663, 
+      "lon": 4.411863842078, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
       "lat": 51.290380353303, 
       "lon": 4.412602789093, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.290886486026, 
+      "lon": 4.411850839786, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1557,11 +1732,71 @@
     }, 
     {
       "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.290936905306, 
+      "lon": 4.411862068367, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.290978879189, 
+      "lon": 4.411863971386, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.291033441119, 
+      "lon": 4.411853271592, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 51.291095277655, 
+      "lon": 4.411858203615, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
       "lat": 51.293135726936, 
       "lon": 4.411467617607, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.291237475706, 
+      "lon": 4.411842568997, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1581,6 +1816,18 @@
     }, 
     {
       "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.291281888883, 
+      "lon": 4.411810643895, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "66"
       ], 
       "housenumber": "66", 
@@ -1589,6 +1836,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 51.29141761721, 
+      "lon": 4.411790272454, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leugenberg"
     }, 
     {
@@ -1611,11 +1870,35 @@
     }, 
     {
       "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 51.291479807439, 
+      "lon": 4.411810973245, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
       "lat": 51.294193751723, 
       "lon": 4.41137828854, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 51.291562719986, 
+      "lon": 4.411697231213, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1640,11 +1923,23 @@
     }, 
     {
       "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 51.291597793063, 
+      "lon": 4.411644654576, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.294350348268, 
-      "lon": 4.411803492657, 
+      "lat": 51.294350885278, 
+      "lon": 4.411809657583, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1681,6 +1976,18 @@
       "housenumber": "74C", 
       "lat": 51.294641805624, 
       "lon": 4.41211987434, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 51.291642742409, 
+      "lon": 4.411621043857, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1736,11 +2043,35 @@
     }, 
     {
       "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 51.291844390462, 
+      "lon": 4.411500531057, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
       "lat": 51.295368783481, 
       "lon": 4.41182681413, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 51.291893037883, 
+      "lon": 4.411441515806, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1784,6 +2115,18 @@
     }, 
     {
       "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 51.29207833085, 
+      "lon": 4.411311381822, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
@@ -1792,6 +2135,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Leugenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 51.292130571489, 
+      "lon": 4.411257673427, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leugenberg"
     }, 
     {

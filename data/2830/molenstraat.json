@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.057770837938, 
-      "lon": 4.368284972498, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
@@ -65,8 +53,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.056223169217, 
-      "lon": 4.364789411338, 
+      "lat": 51.056279710956, 
+      "lon": 4.364839327627, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +65,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.056279351387, 
-      "lon": 4.364838899764, 
+      "lat": 51.056223169217, 
+      "lon": 4.364789411338, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -338,18 +326,6 @@
     }, 
     {
       "hnrlbls": [
-        "143"
-      ], 
-      "housenumber": "143", 
-      "lat": 51.055701773158, 
-      "lon": 4.363624038473, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -503,8 +479,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.056646231332, 
-      "lon": 4.367328345153, 
+      "lat": 51.056885066068, 
+      "lon": 4.367173301401, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -527,8 +503,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.056699265323, 
-      "lon": 4.367225792964, 
+      "lat": 51.056854233659, 
+      "lon": 4.367123095869, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -695,8 +671,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.056959486082, 
-      "lon": 4.366404374465, 
+      "lat": 51.056947620897, 
+      "lon": 4.366418495383, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -740,7 +716,7 @@
     }, 
     {
       "hnrlbls": [
-        "60-60A"
+        "60"
       ], 
       "housenumber": "60", 
       "lat": 51.056906179912, 
@@ -748,18 +724,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "60-60A"
-      ], 
-      "housenumber": "60A", 
-      "lat": 51.056906179912, 
-      "lon": 4.366278718289, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -980,15 +944,14 @@
     }, 
     {
       "busnrs": [
-        "2A", 
         "AB00"
       ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.056313624922, 
-      "lon": 4.365982071773, 
+      "lat": 51.05652800839, 
+      "lon": 4.365846135841, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1238,8 +1201,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.056394244835, 
-      "lon": 4.365441501963, 
+      "lat": 51.05641060584, 
+      "lon": 4.365493988763, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1250,8 +1213,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.056410965376, 
-      "lon": 4.365492990336, 
+      "lat": 51.056394244835, 
+      "lon": 4.365441501963, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

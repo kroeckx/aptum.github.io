@@ -321,7 +321,7 @@
     }, 
     {
       "hnrlbls": [
-        "34"
+        "34-34A"
       ], 
       "housenumber": "34", 
       "lat": 51.05777641484, 
@@ -329,6 +329,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Geldmunt"
+    }, 
+    {
+      "hnrlbls": [
+        "34-34A"
+      ], 
+      "housenumber": "34A", 
+      "lat": 51.05777641484, 
+      "lon": 3.721221134369, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Geldmunt"
     }, 
     {

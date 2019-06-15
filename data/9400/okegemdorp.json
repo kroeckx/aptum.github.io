@@ -6,7 +6,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "10"
+        "10-11"
       ], 
       "housenumber": "10", 
       "lat": 50.8554762358, 
@@ -18,11 +18,11 @@
     }, 
     {
       "hnrlbls": [
-        "11"
+        "10-11"
       ], 
       "housenumber": "11", 
-      "lat": 50.855482628901, 
-      "lon": 4.054798612721, 
+      "lat": 50.8554762358, 
+      "lon": 4.054794678741, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -33,8 +33,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.855382361229, 
-      "lon": 4.05461763637, 
+      "lat": 50.855499235771, 
+      "lon": 4.054688719641, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -117,6 +117,9 @@
       "street": "Okegem-Dorp"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -125,7 +128,7 @@
       "lon": 4.054398875397, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Okegem-Dorp"
     }, 
     {
@@ -276,6 +279,14 @@
       "street": "Okegem-Dorp"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -284,19 +295,23 @@
       "lon": 4.054079228015, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Okegem-Dorp"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.856226925831, 
-      "lon": 4.054346561977, 
+      "lat": 50.856077916218, 
+      "lon": 4.054226126996, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Okegem-Dorp"
     }, 
     {
@@ -325,11 +340,11 @@
     }, 
     {
       "hnrlbls": [
-        "37"
+        "37-37A"
       ], 
       "housenumber": "37", 
-      "lat": 50.855840497262, 
-      "lon": 4.054661590311, 
+      "lat": 50.855941205205, 
+      "lon": 4.054670860335, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -337,7 +352,7 @@
     }, 
     {
       "hnrlbls": [
-        "37A"
+        "37-37A"
       ], 
       "housenumber": "37A", 
       "lat": 50.855941205205, 
@@ -352,11 +367,35 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.855792067024, 
-      "lon": 4.05493970846, 
+      "lat": 50.855745421977, 
+      "lon": 4.054775415792, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Okegem-Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 50.855742211551, 
+      "lon": 4.054852413082, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Okegem-Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "39B"
+      ], 
+      "housenumber": "39B", 
+      "lat": 50.855733465596, 
+      "lon": 4.05490999024, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Okegem-Dorp"
     }, 
     {

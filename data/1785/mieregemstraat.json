@@ -446,27 +446,24 @@
       "street": "Mieregemstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
       "hnrlbls": [
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 50.952167747678, 
-      "lon": 4.230924649712, 
+      "lat": 50.952012849162, 
+      "lon": 4.230912863759, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Mieregemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "136"
-      ], 
-      "housenumber": "136", 
-      "lat": 50.952031087811, 
-      "lon": 4.230904698614, 
-      "municipality": "Merchtem", 
-      "pcode": "1785", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mieregemstraat"
     }, 
     {
@@ -498,8 +495,8 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.951835221163, 
-      "lon": 4.230681557119, 
+      "lat": 50.951835675613, 
+      "lon": 4.230685825144, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -678,8 +675,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.957034856194, 
-      "lon": 4.23167428955, 
+      "lat": 50.957032529733, 
+      "lon": 4.231683547614, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -846,8 +843,8 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 50.946429068524, 
-      "lon": 4.223768738332, 
+      "lat": 50.946431310941, 
+      "lon": 4.223764747159, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -858,8 +855,8 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 50.947332123246, 
-      "lon": 4.225087199544, 
+      "lat": 50.947332929334, 
+      "lon": 4.225084778017, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -930,8 +927,8 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 50.946227812668, 
-      "lon": 4.222903919849, 
+      "lat": 50.946228895067, 
+      "lon": 4.222906904693, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -942,8 +939,8 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 50.947184655139, 
-      "lon": 4.224755668284, 
+      "lat": 50.947185101825, 
+      "lon": 4.224753390155, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -1292,8 +1289,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.956841632114, 
-      "lon": 4.231557716317, 
+      "lat": 50.956845038097, 
+      "lon": 4.231549166778, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -1304,8 +1301,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.955781765469, 
-      "lon": 4.231837051865, 
+      "lat": 50.955775942932, 
+      "lon": 4.231854716934, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -1570,8 +1567,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.955331865287, 
-      "lon": 4.231382072785, 
+      "lat": 50.955331778704, 
+      "lon": 4.231384919487, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -1612,11 +1609,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.956211134956, 
-      "lon": 4.230946557047, 
+      "lat": 50.956212907232, 
+      "lon": 4.230924633789, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Mieregemstraat"
     }, 
     {
@@ -1636,11 +1633,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.956143418667, 
-      "lon": 4.230923129089, 
+      "lat": 50.956150618832, 
+      "lon": 4.230930651258, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Mieregemstraat"
     }, 
     {
@@ -1677,11 +1674,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.956111039547, 
-      "lon": 4.230676859443, 
+      "lat": 50.95612947463, 
+      "lon": 4.230606069954, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Mieregemstraat"
     }, 
     {
@@ -2014,8 +2011,8 @@
         "63I"
       ], 
       "housenumber": "63I", 
-      "lat": 50.953688256086, 
-      "lon": 4.231290940762, 
+      "lat": 50.953687711269, 
+      "lon": 4.231286245873, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -2202,8 +2199,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.957242943978, 
-      "lon": 4.231740578667, 
+      "lat": 50.957244111584, 
+      "lon": 4.231739721303, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 

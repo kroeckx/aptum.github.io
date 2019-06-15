@@ -14,6 +14,30 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.269911171782, 
+      "lon": 4.711607441896, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Smissestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.269873334264, 
+      "lon": 4.711420462697, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Smissestraat"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -161,8 +185,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.270703855454, 
-      "lon": 4.711233863714, 
+      "lat": 51.270704649844, 
+      "lon": 4.711238884625, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -382,6 +406,18 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Smissestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.269914293658, 
+      "lon": 4.711770523189, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Smissestraat"
     }
   ]

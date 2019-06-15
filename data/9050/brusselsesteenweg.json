@@ -4266,7 +4266,7 @@
     }, 
     {
       "hnrlbls": [
-        "438"
+        "438-438A"
       ], 
       "housenumber": "438", 
       "lat": 51.038517871966, 
@@ -4278,14 +4278,14 @@
     }, 
     {
       "hnrlbls": [
-        "438A"
+        "438-438A"
       ], 
       "housenumber": "438A", 
-      "lat": 51.038518696026, 
-      "lon": 3.746843865176, 
+      "lat": 51.038517871966, 
+      "lon": 3.746875101163, 
       "municipality": "Gent", 
       "pcode": "9050", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -4374,6 +4374,18 @@
       "municipality": "Gent", 
       "pcode": "9050", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "444A"
+      ], 
+      "housenumber": "444A", 
+      "lat": 51.038244583542, 
+      "lon": 3.747366919136, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -4868,7 +4880,19 @@
     }, 
     {
       "hnrlbls": [
-        "481A"
+        "481"
+      ], 
+      "housenumber": "481", 
+      "lat": 51.033434445977, 
+      "lon": 3.757831631371, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "481A-483"
       ], 
       "housenumber": "481A", 
       "lat": 51.03344062725, 
@@ -4896,11 +4920,11 @@
         "0201"
       ], 
       "hnrlbls": [
-        "483"
+        "481A-483"
       ], 
       "housenumber": "483", 
-      "lat": 51.033418171003, 
-      "lon": 3.757865488709, 
+      "lat": 51.03344062725, 
+      "lon": 3.757810166127, 
       "municipality": "Gent", 
       "pcode": "9050", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6209,7 +6233,7 @@
       "lon": 3.761464928002, 
       "municipality": "Gent", 
       "pcode": "9050", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -6221,7 +6245,7 @@
       "lon": 3.761464928002, 
       "municipality": "Gent", 
       "pcode": "9050", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -6558,21 +6582,9 @@
     }, 
     {
       "hnrlbls": [
-        "650-650A"
+        "650"
       ], 
       "housenumber": "650", 
-      "lat": 51.030242888493, 
-      "lon": 3.7632863159, 
-      "municipality": "Gent", 
-      "pcode": "9050", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "650-650A"
-      ], 
-      "housenumber": "650A", 
       "lat": 51.030242888493, 
       "lon": 3.7632863159, 
       "municipality": "Gent", 
@@ -6877,11 +6889,11 @@
         "678"
       ], 
       "housenumber": "678", 
-      "lat": 51.028587927218, 
-      "lon": 3.766456613008, 
+      "lat": 51.028626728497, 
+      "lon": 3.766415060149, 
       "municipality": "Gent", 
       "pcode": "9050", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -6918,6 +6930,18 @@
       "municipality": "Gent", 
       "pcode": "9050", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "680"
+      ], 
+      "housenumber": "680", 
+      "lat": 51.028588632478, 
+      "lon": 3.766453895504, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -7045,7 +7069,7 @@
     }, 
     {
       "hnrlbls": [
-        "69-73"
+        "69-73A"
       ], 
       "housenumber": "69", 
       "lat": 51.040575019374, 
@@ -7303,7 +7327,7 @@
     }, 
     {
       "hnrlbls": [
-        "69-73"
+        "69-73A"
       ], 
       "housenumber": "71", 
       "lat": 51.040575019374, 
@@ -7627,7 +7651,7 @@
     }, 
     {
       "hnrlbls": [
-        "69-73"
+        "69-73A"
       ], 
       "housenumber": "73", 
       "lat": 51.040575019374, 
@@ -7735,14 +7759,14 @@
     }, 
     {
       "hnrlbls": [
-        "73A"
+        "69-73A"
       ], 
       "housenumber": "73A", 
-      "lat": 51.040646553642, 
-      "lon": 3.743411084936, 
+      "lat": 51.040575019374, 
+      "lon": 3.743347162664, 
       "municipality": "Gent", 
       "pcode": "9050", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {

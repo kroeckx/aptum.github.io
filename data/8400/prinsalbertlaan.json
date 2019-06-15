@@ -659,8 +659,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.222179707574, 
-      "lon": 2.946349976628, 
+      "lat": 51.222183573591, 
+      "lon": 2.946350001897, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -695,17 +695,14 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.222084618958, 
-      "lon": 2.946591385389, 
+      "lat": 51.222101376765, 
+      "lon": 2.946571976967, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "65A"
       ], 
@@ -718,9 +715,6 @@
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "65B"
       ], 
@@ -747,8 +741,7 @@
     {
       "busnrs": [
         "1", 
-        "3", 
-        "A000"
+        "3"
       ], 
       "hnrlbls": [
         "66A"
@@ -870,9 +863,6 @@
       "street": "Prins Albertlaan"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "73A"
       ], 
@@ -1021,8 +1011,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.221549685722, 
-      "lon": 2.948953960811, 
+      "lat": 51.221484618714, 
+      "lon": 2.948925734439, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1101,6 +1091,18 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Prins Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 51.221421624908, 
+      "lon": 2.949459779708, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Prins Albertlaan"
     }, 
     {

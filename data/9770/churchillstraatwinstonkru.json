@@ -142,11 +142,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.905421965781, 
-      "lon": 3.526922713777, 
+      "lat": 50.905281159056, 
+      "lon": 3.526756184975, 
       "municipality": "Kruisem", 
       "pcode": "9770", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Churchillstraat (Winston)(KRU)"
     }, 
     {
@@ -485,6 +485,9 @@
       "street": "Churchillstraat (Winston)(KRU)"
     }, 
     {
+      "apptnrs": [
+        "1001"
+      ], 
       "hnrlbls": [
         "46"
       ], 

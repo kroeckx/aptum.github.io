@@ -5,11 +5,35 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.002895296134, 
-      "lon": 3.341436039292, 
+      "lat": 51.001997452638, 
+      "lon": 3.341300129124, 
       "municipality": "Tielt", 
       "pcode": "8700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Robert Tavernierlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.002499351186, 
+      "lon": 3.340547097328, 
+      "municipality": "Tielt", 
+      "pcode": "8700", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Robert Tavernierlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.002691969229, 
+      "lon": 3.34098569969, 
+      "municipality": "Tielt", 
+      "pcode": "8700", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Robert Tavernierlaan"
     }, 
     {

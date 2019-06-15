@@ -125,8 +125,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.223681235431, 
-      "lon": 4.256564920481, 
+      "lat": 51.223696895946, 
+      "lon": 4.25649159456, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -870,18 +870,6 @@
     }, 
     {
       "hnrlbls": [
-        "72"
-      ], 
-      "housenumber": "72", 
-      "lat": 51.226172681663, 
-      "lon": 4.25815078094, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leurshoek"
-    }, 
-    {
-      "hnrlbls": [
         "72_3"
       ], 
       "housenumber": "72_3", 
@@ -1292,6 +1280,42 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Leurshoek"
+    }, 
+    {
+      "hnrlbls": [
+        "99A"
+      ], 
+      "housenumber": "99A", 
+      "lat": 51.228306415373, 
+      "lon": 4.259104464357, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Leurshoek"
+    }, 
+    {
+      "hnrlbls": [
+        "99B"
+      ], 
+      "housenumber": "99B", 
+      "lat": 51.228357663887, 
+      "lon": 4.259218153488, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Leurshoek"
+    }, 
+    {
+      "hnrlbls": [
+        "99C"
+      ], 
+      "housenumber": "99C", 
+      "lat": 51.22842427039, 
+      "lon": 4.25931877985, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leurshoek"
     }
   ]

@@ -361,50 +361,50 @@
     }, 
     {
       "hnrlbls": [
-        "36-36B"
+        "36-36C"
       ], 
       "housenumber": "36", 
-      "lat": 51.055830277461, 
-      "lon": 3.714371680732, 
+      "lat": 51.055853199269, 
+      "lon": 3.714339125361, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
       "hnrlbls": [
-        "36-36B"
+        "36-36C"
       ], 
       "housenumber": "36A", 
-      "lat": 51.055830277461, 
-      "lon": 3.714371680732, 
+      "lat": 51.055853199269, 
+      "lon": 3.714339125361, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
       "hnrlbls": [
-        "36-36B"
+        "36-36C"
       ], 
       "housenumber": "36B", 
-      "lat": 51.055830277461, 
-      "lon": 3.714371680732, 
+      "lat": 51.055853199269, 
+      "lon": 3.714339125361, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
       "hnrlbls": [
-        "36C"
+        "36-36C"
       ], 
       "housenumber": "36C", 
-      "lat": 51.055834512845, 
-      "lon": 3.714357358223, 
+      "lat": 51.055853199269, 
+      "lon": 3.714339125361, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -421,18 +421,6 @@
     }, 
     {
       "hnrlbls": [
-        "38-42"
-      ], 
-      "housenumber": "38", 
-      "lat": 51.055896454976, 
-      "lon": 3.714423245457, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
         "29-45"
       ], 
       "housenumber": "39", 
@@ -441,18 +429,6 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "38-42"
-      ], 
-      "housenumber": "40", 
-      "lat": 51.055896454976, 
-      "lon": 3.714423245457, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -468,8 +444,16 @@
       "street": "Peperstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
-        "38-42"
+        "42"
       ], 
       "housenumber": "42", 
       "lat": 51.055896454976, 

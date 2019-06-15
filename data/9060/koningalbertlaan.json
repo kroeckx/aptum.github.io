@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.200784308241, 
+      "lon": 3.794675093821, 
+      "municipality": "Zelzate", 
+      "pcode": "9060", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koning Albertlaan"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 

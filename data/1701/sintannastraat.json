@@ -25,12 +25,6 @@
       "street": "Sint-Annastraat"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "2A"
       ], 
@@ -40,6 +34,18 @@
       "municipality": "Dilbeek", 
       "pcode": "1701", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint-Annastraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 50.840494602706, 
+      "lon": 4.228713023523, 
+      "municipality": "Dilbeek", 
+      "pcode": "1701", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Annastraat"
     }, 
     {

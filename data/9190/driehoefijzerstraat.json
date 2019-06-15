@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.241175824151, 
-      "lon": 4.004096241348, 
+      "lat": 51.240987908933, 
+      "lon": 4.003756472219, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 
@@ -41,11 +41,11 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.239213451639, 
-      "lon": 4.002923368171, 
+      "lat": 51.239176475729, 
+      "lon": 4.002970767567, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Driehoefijzerstraat"
     }, 
     {
@@ -273,7 +273,19 @@
       "lon": 4.004141022923, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Driehoefijzerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.241229305044, 
+      "lon": 4.004329950728, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Driehoefijzerstraat"
     }
   ]

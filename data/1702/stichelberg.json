@@ -14,25 +14,22 @@
     }, 
     {
       "apptnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "103", 
         "201", 
-        "202", 
-        "203"
-      ], 
-      "busnrs": [
-        "001"
+        "202"
       ], 
       "hnrlbls": [
-        "8-10"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.865263733667, 
-      "lon": 4.261740403207, 
+      "lat": 50.865333886854, 
+      "lon": 4.261680157404, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stichelberg"
     }, 
     {
@@ -627,22 +624,22 @@
       "street": "Stichelberg"
     }, 
     {
+      "apptnrs": [
+        "001"
+      ], 
       "busnrs": [
-        "1", 
         "101", 
-        "201", 
-        "4", 
-        "5"
+        "201"
       ], 
       "hnrlbls": [
-        "8-10"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.865263733667, 
-      "lon": 4.261740403207, 
+      "lat": 50.865224577351, 
+      "lon": 4.261881404885, 
       "municipality": "Dilbeek", 
       "pcode": "1702", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stichelberg"
     }, 
     {

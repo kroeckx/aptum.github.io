@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.731603239967, 
-      "lon": 4.018952872847, 
+      "lat": 50.73201975627, 
+      "lon": 4.019440318883, 
       "municipality": "Herne", 
       "pcode": "1540", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boesmolenstraat"
     }, 
     {
@@ -206,7 +206,7 @@
     }, 
     {
       "hnrlbls": [
-        "1A-3"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.731737709174, 
@@ -218,7 +218,7 @@
     }, 
     {
       "hnrlbls": [
-        "1-1B"
+        "1B"
       ], 
       "housenumber": "1B", 
       "lat": 50.731603239967, 
@@ -326,18 +326,6 @@
     }, 
     {
       "hnrlbls": [
-        "1A-3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.731737709174, 
-      "lon": 4.019217609271, 
-      "municipality": "Herne", 
-      "pcode": "1540", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boesmolenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -367,18 +355,6 @@
       "housenumber": "4", 
       "lat": 50.730999280948, 
       "lon": 4.018856211646, 
-      "municipality": "Herne", 
-      "pcode": "1540", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boesmolenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.732058907805, 
-      "lon": 4.019425439342, 
       "municipality": "Herne", 
       "pcode": "1540", 
       "source": "afgeleidVanGebouw", 

@@ -329,9 +329,6 @@
       "street": "Juliaan Dillensstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -392,9 +389,12 @@
       "street": "Juliaan Dillensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "4"
@@ -708,6 +708,11 @@
       "street": "Juliaan Dillensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "62"
       ], 

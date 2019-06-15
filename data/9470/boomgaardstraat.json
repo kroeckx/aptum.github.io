@@ -109,18 +109,34 @@
       "street": "Boomgaardstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.885688237473, 
-      "lon": 4.077687573994, 
+      "lat": 50.885656920555, 
+      "lon": 4.077710363448, 
       "municipality": "Denderleeuw", 
       "pcode": "9470", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boomgaardstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -129,7 +145,7 @@
       "lon": 4.077626909986, 
       "municipality": "Denderleeuw", 
       "pcode": "9470", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boomgaardstraat"
     }, 
     {
@@ -149,18 +165,6 @@
       "municipality": "Denderleeuw", 
       "pcode": "9470", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Boomgaardstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.885873470564, 
-      "lon": 4.077562364281, 
-      "municipality": "Denderleeuw", 
-      "pcode": "9470", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Boomgaardstraat"
     }, 
     {
@@ -306,8 +310,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.885998222808, 
-      "lon": 4.077953398898, 
+      "lat": 50.88598508947, 
+      "lon": 4.077840784248, 
       "municipality": "Denderleeuw", 
       "pcode": "9470", 
       "source": "manueleAanduidingVanGebouw", 

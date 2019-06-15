@@ -125,8 +125,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.178238787051, 
-      "lon": 4.373454788155, 
+      "lat": 51.178238607313, 
+      "lon": 4.373454073125, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.178239689843, 
-      "lon": 4.373367843064, 
+      "lat": 51.178239959531, 
+      "lon": 4.373367128085, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -181,9 +181,10 @@
       "street": "Gaspar Verreyckenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "31"

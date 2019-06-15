@@ -517,9 +517,10 @@
       "street": "De Bruynlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "142"
@@ -662,11 +663,11 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.182655267567, 
-      "lon": 4.374115029268, 
+      "lat": 51.1827162142, 
+      "lon": 4.374027082532, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "De Bruynlaan"
     }, 
     {
@@ -930,6 +931,11 @@
       "street": "De Bruynlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "31"
       ], 

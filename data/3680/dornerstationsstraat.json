@@ -17,11 +17,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.039736978142, 
-      "lon": 5.642161113103, 
+      "lat": 51.035601485083, 
+      "lon": 5.647322575558, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dornerstationsstraat"
     }, 
     {
@@ -571,6 +571,30 @@
       "housenumber": "52", 
       "lat": 51.039604537978, 
       "lon": 5.639775242699, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dornerstationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6-6A"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.043470900595, 
+      "lon": 5.625811302316, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dornerstationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6-6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.043470900595, 
+      "lon": 5.625811302316, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 

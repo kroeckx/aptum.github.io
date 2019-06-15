@@ -98,18 +98,6 @@
     }, 
     {
       "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.816922634392, 
-      "lon": 3.350650868358, 
-      "municipality": "Zwevegem", 
-      "pcode": "8550", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Stokerijstraat"
-    }, 
-    {
-      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -165,7 +153,19 @@
       "lon": 3.35011485223, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stokerijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.816999736223, 
+      "lon": 3.350470668955, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stokerijstraat"
     }, 
     {

@@ -691,16 +691,17 @@
       "street": "Blijde-Inkomststraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.212019847175, 
-      "lon": 4.437059389477, 
+      "lat": 51.212006315495, 
+      "lon": 4.437143372423, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 

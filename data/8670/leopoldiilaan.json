@@ -476,7 +476,7 @@
       "lon": 2.676769826441, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopold II Laan"
     }, 
     {
@@ -1456,7 +1456,7 @@
       "lon": 2.675133127205, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopold II Laan"
     }, 
     {
@@ -1495,7 +1495,7 @@
       "lon": 2.675037009806, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopold II Laan"
     }, 
     {
@@ -1542,6 +1542,28 @@
       "housenumber": "196", 
       "lat": 51.127661428328, 
       "lon": 2.675012886131, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leopold II Laan"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "401", 
+        "502"
+      ], 
+      "hnrlbls": [
+        "197"
+      ], 
+      "housenumber": "197", 
+      "lat": 51.129468126581, 
+      "lon": 2.673036824217, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2557,6 +2579,7 @@
     }, 
     {
       "apptnrs": [
+        "0601", 
         "101", 
         "102", 
         "103", 
@@ -3623,7 +3646,7 @@
         "201"
       ], 
       "hnrlbls": [
-        "68B-68C"
+        "68B"
       ], 
       "housenumber": "68B", 
       "lat": 51.118906934634, 
@@ -3642,11 +3665,11 @@
         "201"
       ], 
       "hnrlbls": [
-        "68B-68C"
+        "68C"
       ], 
       "housenumber": "68C", 
-      "lat": 51.118906934634, 
-      "lon": 2.681421261742, 
+      "lat": 51.119035513784, 
+      "lon": 2.681434334633, 
       "municipality": "Koksijde", 
       "pcode": "8670", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3685,7 +3708,8 @@
       "apptnrs": [
         "001", 
         "002", 
-        "101"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "70A"

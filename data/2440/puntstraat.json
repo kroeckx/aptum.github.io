@@ -102,6 +102,18 @@
     }, 
     {
       "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.140209140966, 
+      "lon": 4.937226838494, 
+      "municipality": "Geel", 
+      "pcode": "2440", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Puntstraat"
+    }, 
+    {
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -117,11 +129,23 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.140109463254, 
-      "lon": 4.937038438756, 
+      "lat": 51.140121619959, 
+      "lon": 4.937089884154, 
       "municipality": "Geel", 
       "pcode": "2440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Puntstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 51.140074421246, 
+      "lon": 4.937016721394, 
+      "municipality": "Geel", 
+      "pcode": "2440", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Puntstraat"
     }, 
     {
@@ -345,8 +369,8 @@
         "41B"
       ], 
       "housenumber": "41B", 
-      "lat": 51.138323751319, 
-      "lon": 4.938410663397, 
+      "lat": 51.138324030637, 
+      "lon": 4.938408666432, 
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
@@ -626,6 +650,18 @@
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
+      "street": "Puntstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.140517311638, 
+      "lon": 4.93863549482, 
+      "municipality": "Geel", 
+      "pcode": "2440", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Puntstraat"
     }
   ]

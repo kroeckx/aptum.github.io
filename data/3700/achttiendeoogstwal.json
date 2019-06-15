@@ -392,8 +392,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.784558873275, 
-      "lon": 5.469144133561, 
+      "lat": 50.784558034968, 
+      "lon": 5.469147234022, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -585,21 +585,6 @@
     }, 
     {
       "busnrs": [
-        "11"
-      ], 
-      "hnrlbls": [
-        "5-5B"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.783716497301, 
-      "lon": 5.470572541099, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Achttiende - Oogstwal"
-    }, 
-    {
-      "busnrs": [
         "10", 
         "11", 
         "12", 
@@ -615,9 +600,9 @@
         "9"
       ], 
       "hnrlbls": [
-        "5-5B"
+        "5"
       ], 
-      "housenumber": "5B", 
+      "housenumber": "5", 
       "lat": 50.783716497301, 
       "lon": 5.470572541099, 
       "municipality": "Tongeren", 

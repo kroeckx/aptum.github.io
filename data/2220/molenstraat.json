@@ -1130,18 +1130,6 @@
       "street": "Molenstraat"
     }, 
     {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.079047734812, 
-      "lon": 4.715757938715, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2220", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
@@ -1444,18 +1432,6 @@
     }, 
     {
       "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.078379433969, 
-      "lon": 4.717965934759, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2220", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -1509,7 +1485,8 @@
         "5", 
         "6", 
         "7", 
-        "8"
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "3"
@@ -1587,11 +1564,11 @@
         "33B"
       ], 
       "housenumber": "33B", 
-      "lat": 51.078958070383, 
-      "lon": 4.717717827276, 
+      "lat": 51.078933682176, 
+      "lon": 4.717666701084, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1624,11 +1601,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.079007851878, 
-      "lon": 4.717784269598, 
+      "lat": 51.079017940456, 
+      "lon": 4.717777210023, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1652,11 +1629,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.07905046477, 
-      "lon": 4.717843095337, 
+      "lat": 51.079055791427, 
+      "lon": 4.717835286655, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1664,11 +1641,11 @@
         "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 51.079087285761, 
-      "lon": 4.717884753814, 
+      "lat": 51.07909053823, 
+      "lon": 4.717879212824, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -2351,11 +2328,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.080719739255, 
-      "lon": 4.720129304206, 
+      "lat": 51.0807713486, 
+      "lon": 4.720365727681, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenstraat"
     }, 
     {

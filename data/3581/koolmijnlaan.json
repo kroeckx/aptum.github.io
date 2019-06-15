@@ -586,11 +586,11 @@
         "365"
       ], 
       "housenumber": "365", 
-      "lat": 51.078889913559, 
-      "lon": 5.219549465559, 
+      "lat": 51.078938241162, 
+      "lon": 5.219529510067, 
       "municipality": "Beringen", 
       "pcode": "3581", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolmijnlaan"
     }, 
     {
@@ -609,15 +609,18 @@
       "street": "Koolmijnlaan"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "367"
       ], 
       "housenumber": "367", 
-      "lat": 51.078972397607, 
-      "lon": 5.219529989186, 
+      "lat": 51.079048035106, 
+      "lon": 5.219512528725, 
       "municipality": "Beringen", 
       "pcode": "3581", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolmijnlaan"
     }, 
     {
@@ -635,6 +638,18 @@
       "municipality": "Beringen", 
       "pcode": "3581", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Koolmijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "369"
+      ], 
+      "housenumber": "369", 
+      "lat": 51.079073780296, 
+      "lon": 5.219482743289, 
+      "municipality": "Beringen", 
+      "pcode": "3581", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolmijnlaan"
     }, 
     {
@@ -1029,11 +1044,11 @@
         "435"
       ], 
       "housenumber": "435", 
-      "lat": 51.082874435564, 
-      "lon": 5.219332148837, 
+      "lat": 51.082908239873, 
+      "lon": 5.21934403903, 
       "municipality": "Beringen", 
       "pcode": "3581", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolmijnlaan"
     }, 
     {
@@ -1162,11 +1177,11 @@
         "453"
       ], 
       "housenumber": "453", 
-      "lat": 51.084401480659, 
-      "lon": 5.219243625539, 
+      "lat": 51.084432236401, 
+      "lon": 5.219266878527, 
       "municipality": "Beringen", 
       "pcode": "3581", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolmijnlaan"
     }, 
     {
@@ -1174,11 +1189,23 @@
         "455"
       ], 
       "housenumber": "455", 
-      "lat": 51.08454578662, 
-      "lon": 5.219364570991, 
+      "lat": 51.084566620064, 
+      "lon": 5.219442307137, 
       "municipality": "Beringen", 
       "pcode": "3581", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koolmijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "457"
+      ], 
+      "housenumber": "457", 
+      "lat": 51.084717751183, 
+      "lon": 5.219352572547, 
+      "municipality": "Beringen", 
+      "pcode": "3581", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolmijnlaan"
     }, 
     {
@@ -1437,8 +1464,8 @@
         "512"
       ], 
       "housenumber": "512", 
-      "lat": 51.086910666083, 
-      "lon": 5.218650429808, 
+      "lat": 51.087143864998, 
+      "lon": 5.218548906659, 
       "municipality": "Beringen", 
       "pcode": "3581", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1453,11 +1480,11 @@
         "514"
       ], 
       "housenumber": "514", 
-      "lat": 51.087103989428, 
-      "lon": 5.218556174449, 
+      "lat": 51.087420411353, 
+      "lon": 5.21863172619, 
       "municipality": "Beringen", 
       "pcode": "3581", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolmijnlaan"
     }, 
     {
@@ -1471,23 +1498,11 @@
         "516"
       ], 
       "housenumber": "516", 
-      "lat": 51.087163428066, 
-      "lon": 5.218578522688, 
+      "lat": 51.087502314693, 
+      "lon": 5.218667757556, 
       "municipality": "Beringen", 
       "pcode": "3581", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Koolmijnlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "518"
-      ], 
-      "housenumber": "518", 
-      "lat": 51.087655842676, 
-      "lon": 5.218694244167, 
-      "municipality": "Beringen", 
-      "pcode": "3581", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolmijnlaan"
     }, 
     {

@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.786890245507, 
-      "lon": 5.455972050667, 
+      "lat": 50.786888745413, 
+      "lon": 5.455978681915, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -126,30 +126,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ijzerbron"
-    }, 
-    {
-      "hnrlbls": [
-        "31-33"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.786818956734, 
-      "lon": 5.456987167238, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Ijzerbron"
-    }, 
-    {
-      "hnrlbls": [
-        "31-33"
-      ], 
-      "housenumber": "33", 
-      "lat": 50.786818956734, 
-      "lon": 5.456987167238, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Ijzerbron"
     }, 
     {
@@ -298,8 +274,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.787392790579, 
-      "lon": 5.45752294434, 
+      "lat": 50.787382720809, 
+      "lon": 5.45753263932, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -310,8 +286,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.78745289874, 
-      "lon": 5.457672122447, 
+      "lat": 50.787448842143, 
+      "lon": 5.45768294943, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -366,19 +342,27 @@
       "street": "Ijzerbron"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.788285750024, 
-      "lon": 5.459038244751, 
+      "lat": 50.788112459182, 
+      "lon": 5.458772406101, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Ijzerbron"
+    }, 
+    {
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 50.788289311156, 
+      "lon": 5.459042014944, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ijzerbron"
     }, 
     {

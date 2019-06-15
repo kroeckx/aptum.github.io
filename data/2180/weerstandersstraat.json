@@ -209,8 +209,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.287158339094, 
-      "lon": 4.436428400076, 
+      "lat": 51.287146526107, 
+      "lon": 4.43633937076, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -609,15 +609,22 @@
       "street": "Weerstandersstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
+      ], 
       "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.28802754905, 
-      "lon": 4.438025185303, 
+      "lat": 51.288077599432, 
+      "lon": 4.438048194816, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Weerstandersstraat"
     }, 
     {
@@ -630,18 +637,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
-      "street": "Weerstandersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "69"
-      ], 
-      "housenumber": "69", 
-      "lat": 51.288063703524, 
-      "lon": 4.43813976776, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Weerstandersstraat"
     }, 
     {

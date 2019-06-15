@@ -2,110 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.150926152595, 
-      "lon": 2.720130188282, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Hendrikaplein"
-    }, 
-    {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.150420320865, 
-      "lon": 2.720174772851, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hendrikaplein"
-    }, 
-    {
-      "hnrlbls": [
-        "9-11"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.150636542959, 
-      "lon": 2.72076682819, 
+      "lat": 51.150420107328, 
+      "lon": 2.720165917363, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hendrikaplein"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.150818195871, 
-      "lon": 2.72025422214, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Hendrikaplein"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.150710149149, 
-      "lon": 2.720378258596, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Hendrikaplein"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.150602190161, 
-      "lon": 2.720502148425, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Hendrikaplein"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.150366417831, 
-      "lon": 2.72008118339, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
-      "street": "Hendrikaplein"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.150494143169, 
-      "lon": 2.720626183733, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Hendrikaplein"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-8"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.150366417831, 
-      "lon": 2.72008118339, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hendrikaplein"
     }
   ]

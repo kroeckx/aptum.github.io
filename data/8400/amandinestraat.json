@@ -2,11 +2,23 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.209400857308, 
+      "lon": 2.976702114773, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Amandinestraat"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.209441878211, 
-      "lon": 2.974918439376, 
+      "lat": 51.209443238043, 
+      "lon": 2.974919400613, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

@@ -206,19 +206,7 @@
     }, 
     {
       "hnrlbls": [
-        "130-132"
-      ], 
-      "housenumber": "130", 
-      "lat": 51.073236204749, 
-      "lon": 3.779195956902, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Schuurstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "130-132"
+        "132"
       ], 
       "housenumber": "132", 
       "lat": 51.073236204749, 
@@ -230,21 +218,9 @@
     }, 
     {
       "hnrlbls": [
-        "134-134A"
+        "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.073255467148, 
-      "lon": 3.779273049964, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Schuurstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "134-134A"
-      ], 
-      "housenumber": "134A", 
       "lat": 51.073255467148, 
       "lon": 3.779273049964, 
       "municipality": "Gent", 
@@ -641,8 +617,20 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.072768382424, 
-      "lon": 3.77701778136, 
+      "lat": 51.072747737092, 
+      "lon": 3.777059563261, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schuurstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "61D"
+      ], 
+      "housenumber": "61D", 
+      "lat": 51.072922624158, 
+      "lon": 3.777481554809, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanPerceel", 
@@ -650,14 +638,26 @@
     }, 
     {
       "hnrlbls": [
-        "61B"
+        "61F-61G"
       ], 
-      "housenumber": "61B", 
-      "lat": 51.073024620033, 
-      "lon": 3.777726541116, 
+      "housenumber": "61F", 
+      "lat": 51.072993770891, 
+      "lon": 3.777759177184, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schuurstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "61F-61G"
+      ], 
+      "housenumber": "61G", 
+      "lat": 51.072993770891, 
+      "lon": 3.777759177184, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schuurstraat"
     }, 
     {
@@ -667,11 +667,11 @@
         "0201"
       ], 
       "hnrlbls": [
-        "61C"
+        "61H"
       ], 
-      "housenumber": "61C", 
-      "lat": 51.073045236402, 
-      "lon": 3.777858407153, 
+      "housenumber": "61H", 
+      "lat": 51.073033686266, 
+      "lon": 3.777885520322, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanGebouw", 

@@ -121,6 +121,10 @@
       "street": "Hooistraat"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -365,11 +369,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.074835739406, 
-      "lon": 4.797165832297, 
+      "lat": 51.07484654403, 
+      "lon": 4.797136252258, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hooistraat"
     }, 
     {

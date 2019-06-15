@@ -780,6 +780,18 @@
         "185"
       ], 
       "housenumber": "185", 
+      "lat": 51.17459810332, 
+      "lon": 4.572224001523, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Van den Nestlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "187"
+      ], 
+      "housenumber": "187", 
       "lat": 51.17466627143, 
       "lon": 4.571995799197, 
       "municipality": "Ranst", 
@@ -789,19 +801,7 @@
     }, 
     {
       "hnrlbls": [
-        "187-189"
-      ], 
-      "housenumber": "187", 
-      "lat": 51.174286628143, 
-      "lon": 4.57166326068, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van den Nestlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "187-189"
+        "189"
       ], 
       "housenumber": "189", 
       "lat": 51.174286628143, 
@@ -1392,7 +1392,7 @@
         "1A"
       ], 
       "hnrlbls": [
-        "56-56B"
+        "56"
       ], 
       "housenumber": "56", 
       "lat": 51.179406831388, 
@@ -1407,26 +1407,26 @@
         "1"
       ], 
       "hnrlbls": [
-        "56-56B"
+        "56A-56B"
       ], 
       "housenumber": "56A", 
-      "lat": 51.179406831388, 
-      "lon": 4.587550840043, 
+      "lat": 51.17922445053, 
+      "lon": 4.587697421084, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Van den Nestlaan"
     }, 
     {
       "hnrlbls": [
-        "56-56B"
+        "56A-56B"
       ], 
       "housenumber": "56B", 
-      "lat": 51.179406831388, 
-      "lon": 4.587550840043, 
+      "lat": 51.17922445053, 
+      "lon": 4.587697421084, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Van den Nestlaan"
     }, 
     {

@@ -65,8 +65,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.170372561691, 
-      "lon": 3.690755895306, 
+      "lat": 51.17015840145, 
+      "lon": 3.690701237563, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -261,7 +261,7 @@
       "lon": 3.711334695819, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tervenen"
     }, 
     {
@@ -293,11 +293,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.168365089938, 
-      "lon": 3.710806733808, 
+      "lat": 51.168400346022, 
+      "lon": 3.710810240776, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tervenen"
     }, 
     {
@@ -560,11 +560,11 @@
         "33C"
       ], 
       "housenumber": "33C", 
-      "lat": 51.168543205863, 
-      "lon": 3.707528030321, 
+      "lat": 51.168581828459, 
+      "lon": 3.707538779072, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tervenen"
     }, 
     {
@@ -572,11 +572,11 @@
         "33D"
       ], 
       "housenumber": "33D", 
-      "lat": 51.168564447155, 
-      "lon": 3.707436509793, 
+      "lat": 51.168594236522, 
+      "lon": 3.707442951159, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tervenen"
     }, 
     {
@@ -586,6 +586,18 @@
       "housenumber": "33E", 
       "lat": 51.168547539848, 
       "lon": 3.70725831259, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tervenen"
+    }, 
+    {
+      "hnrlbls": [
+        "33F"
+      ], 
+      "housenumber": "33F", 
+      "lat": 51.168542623913, 
+      "lon": 3.707150862774, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -641,6 +653,18 @@
     }, 
     {
       "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 51.168514623782, 
+      "lon": 3.706003432959, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tervenen"
+    }, 
+    {
+      "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
@@ -680,11 +704,11 @@
         "3C"
       ], 
       "housenumber": "3C", 
-      "lat": 51.168653078753, 
-      "lon": 3.712777350774, 
+      "lat": 51.168663875719, 
+      "lon": 3.712779200904, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tervenen"
     }, 
     {
@@ -716,11 +740,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.168946950333, 
-      "lon": 3.712150122626, 
+      "lat": 51.168955081809, 
+      "lon": 3.712157586262, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tervenen"
     }, 
     {
@@ -740,11 +764,11 @@
         "43A"
       ], 
       "housenumber": "43A", 
-      "lat": 51.168718926181, 
-      "lon": 3.704767059811, 
+      "lat": 51.168739028499, 
+      "lon": 3.704777211606, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tervenen"
     }, 
     {
@@ -992,11 +1016,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.168962697497, 
-      "lon": 3.707684947729, 
+      "lat": 51.168950181848, 
+      "lon": 3.707665107702, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tervenen"
     }, 
     {
@@ -1390,6 +1414,18 @@
       "housenumber": "85", 
       "lat": 51.170013104623, 
       "lon": 3.695634389684, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tervenen"
+    }, 
+    {
+      "hnrlbls": [
+        "85A"
+      ], 
+      "housenumber": "85A", 
+      "lat": 51.170040180157, 
+      "lon": 3.695527191557, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 

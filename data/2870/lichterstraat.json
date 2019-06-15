@@ -77,11 +77,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.058352334954, 
-      "lon": 4.325141846265, 
+      "lat": 51.058488561674, 
+      "lon": 4.325264245659, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lichterstraat"
     }, 
     {
@@ -356,11 +356,23 @@
     }, 
     {
       "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.066860165302, 
+      "lon": 4.305645474382, 
+      "municipality": "Puurs-Sint-Amands", 
+      "pcode": "2870", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lichterstraat"
+    }, 
+    {
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.065460861795, 
-      "lon": 4.307189751867, 
+      "lat": 51.065462209687, 
+      "lon": 4.307188894169, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -404,18 +416,6 @@
     }, 
     {
       "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.063812756393, 
-      "lon": 4.311918108456, 
-      "municipality": "Puurs-Sint-Amands", 
-      "pcode": "2870", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lichterstraat"
-    }, 
-    {
-      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -424,30 +424,6 @@
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lichterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "39A"
-      ], 
-      "housenumber": "39A", 
-      "lat": 51.063472011746, 
-      "lon": 4.311406684713, 
-      "municipality": "Puurs-Sint-Amands", 
-      "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Lichterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "39B"
-      ], 
-      "housenumber": "39B", 
-      "lat": 51.063393972891, 
-      "lon": 4.311562411439, 
-      "municipality": "Puurs-Sint-Amands", 
-      "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Lichterstraat"
     }, 
     {
@@ -467,8 +443,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.065075807495, 
-      "lon": 4.307949326079, 
+      "lat": 51.065076524205, 
+      "lon": 4.307944617506, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -491,8 +467,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.064826509292, 
-      "lon": 4.308409424615, 
+      "lat": 51.064824082072, 
+      "lon": 4.308408999744, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -703,6 +679,11 @@
       "street": "Lichterstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "68"
       ], 
@@ -779,8 +760,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.06087467522, 
-      "lon": 4.313718083583, 
+      "lat": 51.060872785772, 
+      "lon": 4.313714234408, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -863,8 +844,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.060757607514, 
-      "lon": 4.313843745341, 
+      "lat": 51.060754908149, 
+      "lon": 4.313837900108, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -1055,8 +1036,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.058633897813, 
-      "lon": 4.326733696202, 
+      "lat": 51.058610976917, 
+      "lon": 4.326736141264, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 

@@ -52,6 +52,26 @@
       "street": "Gorsemweg"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 50.823683958905, 
+      "lon": 5.176389426195, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gorsemweg"
+    }, 
+    {
       "hnrlbls": [
         "102"
       ], 
@@ -92,8 +112,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.821406775667, 
-      "lon": 5.177807720821, 
+      "lat": 50.821419194265, 
+      "lon": 5.177805947674, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -374,8 +394,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.825073962731, 
-      "lon": 5.174960598226, 
+      "lat": 50.825084081247, 
+      "lon": 5.17495339114, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -418,10 +438,6 @@
       "street": "Gorsemweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
-      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -710,9 +726,11 @@
       "street": "Gorsemweg"
     }, 
     {
-      "busnrs": [
-        "001", 
+      "apptnrs": [
         "101"
+      ], 
+      "busnrs": [
+        "001"
       ], 
       "hnrlbls": [
         "155"
@@ -1546,10 +1564,6 @@
       "street": "Gorsemweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101"
-      ], 
       "hnrlbls": [
         "234"
       ], 
@@ -1626,8 +1640,8 @@
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 50.825974837069, 
-      "lon": 5.173473629777, 
+      "lat": 50.825974387617, 
+      "lon": 5.17347362208, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -3093,8 +3107,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.820970920445, 
-      "lon": 5.177848896791, 
+      "lat": 50.820971375779, 
+      "lon": 5.177848053086, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -3105,8 +3119,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.821017092737, 
-      "lon": 5.177854233343, 
+      "lat": 50.821017534346, 
+      "lon": 5.17785537634, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 

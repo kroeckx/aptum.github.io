@@ -876,11 +876,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.143138714884, 
-      "lon": 3.339799176792, 
+      "lat": 51.143175629691, 
+      "lon": 3.339898685706, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bloemendalestraat"
     }, 
     {
@@ -1046,6 +1046,18 @@
       "municipality": "Beernem", 
       "pcode": "8730", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bloemendalestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.143179425618, 
+      "lon": 3.339756551252, 
+      "municipality": "Beernem", 
+      "pcode": "8730", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bloemendalestraat"
     }, 
     {

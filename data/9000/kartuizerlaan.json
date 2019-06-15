@@ -597,10 +597,12 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201"
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
-        "26-30"
+        "26"
       ], 
       "housenumber": "26", 
       "lat": 51.062354229104, 
@@ -617,18 +619,6 @@
       "housenumber": "27", 
       "lat": 51.062552745783, 
       "lon": 3.725554687147, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kartuizerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "26-30"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.062354229104, 
-      "lon": 3.72574628596, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -665,18 +655,6 @@
       "housenumber": "3", 
       "lat": 51.062502851061, 
       "lon": 3.725356085256, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kartuizerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "26-30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.062354229104, 
-      "lon": 3.72574628596, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

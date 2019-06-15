@@ -47,8 +47,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.232256367814, 
-      "lon": 2.94443899326, 
+      "lat": 51.232260738554, 
+      "lon": 2.94443613908, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -57,17 +57,17 @@
     {
       "busnrs": [
         "0101", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.232237475111, 
-      "lon": 2.944534937461, 
+      "lat": 51.232266231583, 
+      "lon": 2.944608663312, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Rudderstraat"
     }, 
     {
@@ -184,34 +184,31 @@
       "street": "De Rudderstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.231513570367, 
-      "lon": 2.945750262001, 
+      "lat": 51.231489483563, 
+      "lon": 2.945690999703, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Rudderstraat"
     }, 
     {
       "busnrs": [
+        "0101", 
         "1"
       ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.231468957425, 
-      "lon": 2.945808183977, 
+      "lat": 51.231472742169, 
+      "lon": 2.945808927643, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Rudderstraat"
     }, 
     {
@@ -425,11 +422,9 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "71"
@@ -439,7 +434,7 @@
       "lon": 2.945724080239, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "De Rudderstraat"
     }, 
     {
@@ -536,8 +531,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.232407935328, 
-      "lon": 2.944334127841, 
+      "lat": 51.232411277891, 
+      "lon": 2.944328011574, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 

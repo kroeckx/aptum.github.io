@@ -13,9 +13,6 @@
       "street": "Van der Delftstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -188,10 +185,9 @@
       "street": "Van der Delftstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "23"
@@ -253,9 +249,6 @@
       "street": "Van der Delftstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -319,8 +312,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.23052573967, 
-      "lon": 4.444144114923, 
+      "lat": 51.230574760938, 
+      "lon": 4.444229806152, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

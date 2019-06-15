@@ -56,6 +56,11 @@
       "street": "Laurent Delvauxstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -302,25 +307,39 @@
       "street": "Laurent Delvauxstraat"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 51.042146764796, 
+      "lon": 3.720588269538, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Laurent Delvauxstraat"
+    }, 
+    {
+      "busnrs": [
         "0001", 
         "0002", 
-        "0003", 
         "0101", 
-        "0102", 
         "0201", 
-        "0202", 
         "0301"
       ], 
       "hnrlbls": [
-        "4"
+        "4B"
       ], 
-      "housenumber": "4", 
-      "lat": 51.042151176247, 
-      "lon": 3.720638543367, 
+      "housenumber": "4B", 
+      "lat": 51.042154391482, 
+      "lon": 3.720667445002, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Laurent Delvauxstraat"
     }, 
     {

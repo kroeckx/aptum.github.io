@@ -2,38 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "2-5"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.072195889448, 
-      "lon": 4.359124271429, 
+      "lat": 51.072729248198, 
+      "lon": 4.359789483668, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanStraat", 
-      "street": "Gansdijk"
-    }, 
-    {
-      "hnrlbls": [
-        "27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.073104396994, 
-      "lon": 4.360425772644, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Gansdijk"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.072233907621, 
-      "lon": 4.359061343209, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Gansdijk"
     }, 
     {
@@ -46,18 +22,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Gansdijk"
-    }, 
-    {
-      "hnrlbls": [
-        "2-5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.072195889448, 
-      "lon": 4.359124271429, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanStraat", 
       "street": "Gansdijk"
     }, 
     {

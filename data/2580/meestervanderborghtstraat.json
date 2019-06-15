@@ -50,11 +50,11 @@
     }, 
     {
       "hnrlbls": [
-        "102-104"
+        "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.031083027756, 
-      "lon": 4.657423824406, 
+      "lat": 51.031218154375, 
+      "lon": 4.657378757131, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -74,7 +74,7 @@
     }, 
     {
       "hnrlbls": [
-        "102-104"
+        "104"
       ], 
       "housenumber": "104", 
       "lat": 51.031083027756, 
@@ -221,11 +221,11 @@
         "117A"
       ], 
       "housenumber": "117A", 
-      "lat": 51.02499377739, 
-      "lon": 4.657186362443, 
+      "lat": 51.024972717608, 
+      "lon": 4.657233268958, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Meester van der Borghtstraat"
     }, 
     {
@@ -1055,8 +1055,8 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.024034057212, 
-      "lon": 4.65573672912, 
+      "lat": 51.024039651216, 
+      "lon": 4.655691438268, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1211,8 +1211,8 @@
         "200A"
       ], 
       "housenumber": "200A", 
-      "lat": 51.021607128976, 
-      "lon": 4.654504517082, 
+      "lat": 51.021597585066, 
+      "lon": 4.654510872317, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1937,11 +1937,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.03349662219, 
-      "lon": 4.658798773028, 
+      "lat": 51.03353640033, 
+      "lon": 4.658852765568, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Meester van der Borghtstraat"
     }, 
     {
@@ -2047,8 +2047,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.032523174544, 
-      "lon": 4.658260844337, 
+      "lat": 51.032567914672, 
+      "lon": 4.65848992742, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 

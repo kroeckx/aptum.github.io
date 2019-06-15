@@ -413,11 +413,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.247176043514, 
-      "lon": 3.370043350918, 
+      "lat": 51.247154833275, 
+      "lon": 3.370011865699, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoornstraat"
     }, 
     {
@@ -561,11 +561,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.247290203616, 
-      "lon": 3.370362879764, 
+      "lat": 51.247346758693, 
+      "lon": 3.370620336796, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoornstraat"
     }, 
     {
@@ -597,11 +597,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.247372950798, 
-      "lon": 3.37069898071, 
+      "lat": 51.247395763699, 
+      "lon": 3.370760653005, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoornstraat"
     }, 
     {
@@ -986,6 +986,18 @@
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hoornstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 51.248977291474, 
+      "lon": 3.373139689309, 
+      "municipality": "Damme", 
+      "pcode": "8340", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hoornstraat"
     }, 
     {
@@ -1632,6 +1644,18 @@
       "housenumber": "84", 
       "lat": 51.252326106859, 
       "lon": 3.382777416121, 
+      "municipality": "Damme", 
+      "pcode": "8340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoornstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "84A"
+      ], 
+      "housenumber": "84A", 
+      "lat": 51.252763992759, 
+      "lon": 3.383115521342, 
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "afgeleidVanGebouw", 

@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.167996745512, 
-      "lon": 3.068660334367, 
+      "lat": 51.1678879766, 
+      "lon": 3.068955352264, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
       "source": "manueleAanduidingVanGebouw", 
@@ -14,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
+        "11"
       ], 
-      "housenumber": "1A", 
-      "lat": 51.167895259373, 
-      "lon": 3.068955435558, 
+      "housenumber": "11", 
+      "lat": 51.168880148487, 
+      "lon": 3.067970670994, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
       "source": "manueleAanduidingVanGebouw", 
@@ -26,11 +26,11 @@
     }, 
     {
       "hnrlbls": [
-        "1C"
+        "13"
       ], 
-      "housenumber": "1C", 
-      "lat": 51.168226335364, 
-      "lon": 3.068332351291, 
+      "housenumber": "13", 
+      "lat": 51.169056060433, 
+      "lon": 3.067748274679, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
       "source": "manueleAanduidingVanGebouw", 
@@ -38,26 +38,38 @@
     }, 
     {
       "hnrlbls": [
-        "1D"
+        "15"
       ], 
-      "housenumber": "1D", 
-      "lat": 51.16839724154, 
-      "lon": 3.068202329851, 
+      "housenumber": "15", 
+      "lat": 51.169211239329, 
+      "lon": 3.067651433092, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Krakeelstraat"
     }, 
     {
       "hnrlbls": [
-        "1E"
+        "17"
       ], 
-      "housenumber": "1E", 
-      "lat": 51.168573332853, 
-      "lon": 3.068094184165, 
+      "housenumber": "17", 
+      "lat": 51.169344330262, 
+      "lon": 3.06754891443, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Krakeelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.169585587545, 
+      "lon": 3.067113343096, 
+      "municipality": "Jabbeke", 
+      "pcode": "8490", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Krakeelstraat"
     }, 
     {
@@ -67,6 +79,30 @@
       "housenumber": "2", 
       "lat": 51.169088208134, 
       "lon": 3.068455494627, 
+      "municipality": "Jabbeke", 
+      "pcode": "8490", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Krakeelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.169535790764, 
+      "lon": 3.066983459538, 
+      "municipality": "Jabbeke", 
+      "pcode": "8490", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Krakeelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.17360151491, 
+      "lon": 3.067083631775, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
       "source": "manueleAanduidingVanGebouw", 
@@ -137,20 +173,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.168882622576, 
-      "lon": 3.067958590483, 
-      "municipality": "Jabbeke", 
-      "pcode": "8490", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Krakeelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 51.169056229159, 
-      "lon": 3.067747269009, 
+      "lat": 51.167991264896, 
+      "lon": 3.068660629929, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
       "source": "manueleAanduidingVanGebouw", 
@@ -173,8 +197,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.173608681447, 
-      "lon": 3.067048680638, 
+      "lat": 51.168213596957, 
+      "lon": 3.068343001502, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
       "source": "manueleAanduidingVanGebouw", 
@@ -218,11 +242,35 @@
     }, 
     {
       "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.168397809094, 
+      "lon": 3.068204887933, 
+      "municipality": "Jabbeke", 
+      "pcode": "8490", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Krakeelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
       "lat": 51.173969561425, 
       "lon": 3.067312057453, 
+      "municipality": "Jabbeke", 
+      "pcode": "8490", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Krakeelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.168573293159, 
+      "lon": 3.068106911762, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
       "source": "manueleAanduidingVanGebouw", 

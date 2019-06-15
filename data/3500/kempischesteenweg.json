@@ -358,11 +358,11 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.938480480345, 
-      "lon": 5.340576547397, 
+      "lat": 50.938660253171, 
+      "lon": 5.340688552192, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kempische steenweg"
     }, 
     {
@@ -375,11 +375,11 @@
         "136A"
       ], 
       "housenumber": "136A", 
-      "lat": 50.938618384247, 
-      "lon": 5.340522634996, 
+      "lat": 50.938541574352, 
+      "lon": 5.340657208096, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kempische steenweg"
     }, 
     {
@@ -1237,18 +1237,6 @@
       "street": "Kempische steenweg"
     }, 
     {
-      "hnrlbls": [
-        "216"
-      ], 
-      "housenumber": "216", 
-      "lat": 50.944905004542, 
-      "lon": 5.343269919028, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kempische steenweg"
-    }, 
-    {
       "apptnrs": [
         "1", 
         "2", 
@@ -1279,21 +1267,21 @@
         "1.01", 
         "1.02", 
         "1.03", 
-        "1.04", 
         "2.01", 
         "2.02", 
         "2.03", 
-        "2.04"
+        "3.01", 
+        "3.02"
       ], 
       "hnrlbls": [
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 50.944985045432, 
-      "lon": 5.343331350445, 
+      "lat": 50.945006696257, 
+      "lon": 5.34327900613, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kempische steenweg"
     }, 
     {
@@ -1326,18 +1314,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kempische steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "220"
-      ], 
-      "housenumber": "220", 
-      "lat": 50.945060317225, 
-      "lon": 5.343360806957, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Kempische steenweg"
     }, 
     {
@@ -2386,6 +2362,18 @@
       "street": "Kempische steenweg"
     }, 
     {
+      "hnrlbls": [
+        "307"
+      ], 
+      "housenumber": "307", 
+      "lat": 50.951761077277, 
+      "lon": 5.350694905162, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kempische steenweg"
+    }, 
+    {
       "apptnrs": [
         "1", 
         "2", 
@@ -2398,6 +2386,41 @@
       "housenumber": "308", 
       "lat": 50.947315456544, 
       "lon": 5.344725919096, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kempische steenweg"
+    }, 
+    {
+      "busnrs": [
+        "0.01", 
+        "0.02", 
+        "0.03", 
+        "0.04", 
+        "1.01", 
+        "1.02", 
+        "1.03", 
+        "1.04", 
+        "2.01", 
+        "2.02", 
+        "2.03", 
+        "2.04", 
+        "2.05", 
+        "2.06", 
+        "2.07", 
+        "2.08", 
+        "2.09", 
+        "2.10", 
+        "3.01", 
+        "4.01", 
+        "5.01"
+      ], 
+      "hnrlbls": [
+        "309"
+      ], 
+      "housenumber": "309", 
+      "lat": 50.951684103011, 
+      "lon": 5.351428251653, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2790,7 +2813,8 @@
         "1"
       ], 
       "hnrlbls": [
-        "348-350"
+        "348-350", 
+        "348"
       ], 
       "housenumber": "348", 
       "lat": 50.948863674266, 
@@ -2835,8 +2859,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "348-350", 
-        "350"
+        "348-350"
       ], 
       "housenumber": "350", 
       "lat": 50.948863674266, 
@@ -3817,6 +3840,9 @@
       "street": "Kempische steenweg"
     }, 
     {
+      "busnrs": [
+        "1.01"
+      ], 
       "hnrlbls": [
         "464"
       ], 
@@ -4423,8 +4449,8 @@
         "541"
       ], 
       "housenumber": "541", 
-      "lat": 50.968343283476, 
-      "lon": 5.359330639519, 
+      "lat": 50.968342409838, 
+      "lon": 5.359327631184, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4447,8 +4473,8 @@
         "542A"
       ], 
       "housenumber": "542A", 
-      "lat": 50.964576567944, 
-      "lon": 5.355783896147, 
+      "lat": 50.964581197263, 
+      "lon": 5.355767906662, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4534,8 +4560,8 @@
         "553"
       ], 
       "housenumber": "553", 
-      "lat": 50.969036461448, 
-      "lon": 5.35974053344, 
+      "lat": 50.969046852421, 
+      "lon": 5.35971298981, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4780,8 +4806,8 @@
         "590"
       ], 
       "housenumber": "590", 
-      "lat": 50.968865624943, 
-      "lon": 5.358591789593, 
+      "lat": 50.968862842036, 
+      "lon": 5.358612660063, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

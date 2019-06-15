@@ -5,20 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.085849785967, 
-      "lon": 4.4514074994, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.086383431009, 
-      "lon": 4.45232429221, 
+      "lat": 51.085843668113, 
+      "lon": 4.451415195351, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -158,18 +146,6 @@
     }, 
     {
       "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.086443821557, 
-      "lon": 4.452344524736, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "121"
       ], 
       "housenumber": "121", 
@@ -302,11 +278,11 @@
     }, 
     {
       "hnrlbls": [
-        "14"
+        "13B"
       ], 
-      "housenumber": "14", 
-      "lat": 51.086485981309, 
-      "lon": 4.452341603569, 
+      "housenumber": "13B", 
+      "lat": 51.086813603967, 
+      "lon": 4.451485859155, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -338,18 +314,6 @@
     }, 
     {
       "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.086525899973, 
-      "lon": 4.452330115062, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -361,12 +325,20 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
+      "busnrs": [
+        "18.00.01", 
+        "18.00.02", 
+        "18.01.01", 
+        "18.01.02", 
+        "18.02.01", 
+        "18.02.02"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.086571835031, 
-      "lon": 4.45232720068, 
+      "lat": 51.086465125491, 
+      "lon": 4.452343992246, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -824,8 +796,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.092170752436, 
-      "lon": 4.452391531505, 
+      "lat": 51.092184529409, 
+      "lon": 4.452608947656, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -1095,8 +1067,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.093245117652, 
-      "lon": 4.450967190039, 
+      "lat": 51.093237024412, 
+      "lon": 4.450971886177, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
@@ -1355,15 +1327,12 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
-        "97"
+        "97A"
       ], 
-      "housenumber": "97", 
-      "lat": 51.096661351512, 
-      "lon": 4.451044909602, 
+      "housenumber": "97A", 
+      "lat": 51.096650531398, 
+      "lon": 4.450964806243, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 

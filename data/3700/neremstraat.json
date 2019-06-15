@@ -89,8 +89,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.764564766976, 
-      "lon": 5.510487129566, 
+      "lat": 50.76455965035, 
+      "lon": 5.510495511175, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -423,8 +423,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 50.766010750428, 
-      "lon": 5.511583195406, 
+      "lat": 50.76602231996, 
+      "lon": 5.511540095718, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -596,8 +596,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.766517333648, 
-      "lon": 5.51086057112, 
+      "lat": 50.766516701676, 
+      "lon": 5.510860839319, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -827,8 +827,8 @@
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 50.768229442618, 
-      "lon": 5.511873558563, 
+      "lat": 50.768211249204, 
+      "lon": 5.511904448528, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1091,11 +1091,53 @@
         "242"
       ], 
       "housenumber": "242", 
-      "lat": 50.764786513272, 
-      "lon": 5.511036312859, 
+      "lat": 50.76912933207, 
+      "lon": 5.513840873828, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanStraat", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Neremstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "262"
+      ], 
+      "housenumber": "262", 
+      "lat": 50.769612779938, 
+      "lon": 5.514216015142, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Neremstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "272"
+      ], 
+      "housenumber": "272", 
+      "lat": 50.7693761789, 
+      "lon": 5.514781617005, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Neremstraat"
+    }, 
+    {
+      "busnrs": [
+        "0002"
+      ], 
+      "hnrlbls": [
+        "276"
+      ], 
+      "housenumber": "276", 
+      "lat": 50.769206577068, 
+      "lon": 5.515134054345, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
       "street": "Neremstraat"
     }, 
     {
@@ -1151,8 +1193,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.76114524451, 
-      "lon": 5.507790972273, 
+      "lat": 50.761174926981, 
+      "lon": 5.507817347807, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1397,8 +1439,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.763244445616, 
-      "lon": 5.510056756054, 
+      "lat": 50.763237293411, 
+      "lon": 5.510052613364, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1493,8 +1535,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.762842126937, 
-      "lon": 5.50894838063, 
+      "lat": 50.762828450903, 
+      "lon": 5.508995537941, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1710,8 +1752,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.764111384088, 
-      "lon": 5.510328273066, 
+      "lat": 50.764108285077, 
+      "lon": 5.510341806953, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 

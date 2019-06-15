@@ -449,7 +449,7 @@
     }, 
     {
       "busnrs": [
-        "0001"
+        "0101"
       ], 
       "hnrlbls": [
         "7"
@@ -477,14 +477,19 @@
     {
       "busnrs": [
         "0001", 
-        "0002"
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
-        "9B"
+        "9"
       ], 
-      "housenumber": "9B", 
-      "lat": 51.174302089626, 
-      "lon": 5.579922300083, 
+      "housenumber": "9", 
+      "lat": 51.174286280777, 
+      "lon": 5.579956068716, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "manueleAanduidingVanGebouw", 

@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.139223581985, 
-      "lon": 5.609420261722, 
+      "lat": 51.139218432115, 
+      "lon": 5.609422697095, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -128,8 +128,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.139780484828, 
-      "lon": 5.609866776609, 
+      "lat": 51.139782168702, 
+      "lon": 5.609860533594, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -352,15 +352,92 @@
       "street": "Brugstraat"
     }, 
     {
-      "hnrlbls": [
-        "43"
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2"
       ], 
-      "housenumber": "43", 
-      "lat": 51.140379217672, 
-      "lon": 5.611369204347, 
+      "hnrlbls": [
+        "43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 51.140412931603, 
+      "lon": 5.611386107306, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/2"
+      ], 
+      "hnrlbls": [
+        "43B"
+      ], 
+      "housenumber": "43B", 
+      "lat": 51.140619490658, 
+      "lon": 5.61108164117, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2"
+      ], 
+      "hnrlbls": [
+        "43C"
+      ], 
+      "housenumber": "43C", 
+      "lat": 51.140854265713, 
+      "lon": 5.610923402966, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2"
+      ], 
+      "hnrlbls": [
+        "43D"
+      ], 
+      "housenumber": "43D", 
+      "lat": 51.141015431705, 
+      "lon": 5.611284104309, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2"
+      ], 
+      "hnrlbls": [
+        "43E"
+      ], 
+      "housenumber": "43E", 
+      "lat": 51.14083115177, 
+      "lon": 5.611504707018, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugstraat"
     }, 
     {
@@ -368,8 +445,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.140433542006, 
-      "lon": 5.611776361292, 
+      "lat": 51.140452096561, 
+      "lon": 5.611747416679, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 

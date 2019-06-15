@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.958557968117, 
-      "lon": 5.177943522823, 
+      "lat": 50.958560753311, 
+      "lon": 5.177956808593, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -159,8 +159,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.95757948191, 
-      "lon": 5.17830182561, 
+      "lat": 50.957580219642, 
+      "lon": 5.178299133943, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -183,8 +183,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.957427994873, 
-      "lon": 5.178994240165, 
+      "lat": 50.95725962844, 
+      "lon": 5.179096800046, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -303,11 +303,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.957987276133, 
-      "lon": 5.181046616049, 
+      "lat": 50.957990879138, 
+      "lon": 5.181071587811, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kerkstraat"
     }, 
     {
@@ -427,8 +427,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.958285196789, 
-      "lon": 5.181358523208, 
+      "lat": 50.95828293682, 
+      "lon": 5.181360334429, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -903,7 +903,7 @@
       "lon": 5.188182751358, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraat"
     }, 
     {
@@ -911,11 +911,11 @@
         "79A"
       ], 
       "housenumber": "79A", 
-      "lat": 50.958850967309, 
-      "lon": 5.188313463693, 
+      "lat": 50.95884748008, 
+      "lon": 5.18829788746, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraat"
     }, 
     {
@@ -951,7 +951,7 @@
       "lon": 5.188469760839, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraat"
     }, 
     {
@@ -963,7 +963,7 @@
       "lon": 5.188600401343, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraat"
     }, 
     {

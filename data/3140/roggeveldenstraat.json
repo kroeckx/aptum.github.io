@@ -110,6 +110,18 @@
     }, 
     {
       "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 51.017861131918, 
+      "lon": 4.690599504365, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Roggeveldenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -125,11 +137,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.018392663805, 
-      "lon": 4.690761784396, 
+      "lat": 51.018579297261, 
+      "lon": 4.690787583084, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Roggeveldenstraat"
     }
   ]

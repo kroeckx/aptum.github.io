@@ -141,8 +141,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.784482706168, 
-      "lon": 5.45548158097, 
+      "lat": 50.784475871759, 
+      "lon": 5.455472062898, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -153,8 +153,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.784530805285, 
-      "lon": 5.456091529815, 
+      "lat": 50.784529582433, 
+      "lon": 5.45608767238, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -356,8 +356,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.784791950917, 
-      "lon": 5.455165513707, 
+      "lat": 50.784792116213, 
+      "lon": 5.455167077564, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -416,11 +416,11 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.785011286528, 
-      "lon": 5.4553921063, 
+      "lat": 50.784984508805, 
+      "lon": 5.455477715694, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hasseltsesteenweg"
     }, 
     {
@@ -452,8 +452,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 50.78513071297, 
-      "lon": 5.455456558164, 
+      "lat": 50.785132778105, 
+      "lon": 5.455466533472, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -936,29 +936,10 @@
       "street": "Hasseltsesteenweg"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "178-178B"
+        "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.786003338325, 
-      "lon": 5.454284676103, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Hasseltsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "178-178B"
-      ], 
-      "housenumber": "178B", 
       "lat": 50.786003338325, 
       "lon": 5.454284676103, 
       "municipality": "Tongeren", 
@@ -1436,8 +1417,8 @@
         "220"
       ], 
       "housenumber": "220", 
-      "lat": 50.78739574648, 
-      "lon": 5.453350243108, 
+      "lat": 50.787395871069, 
+      "lon": 5.453356202823, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1544,8 +1525,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.782992293065, 
-      "lon": 5.459274632143, 
+      "lat": 50.782996824456, 
+      "lon": 5.459280409854, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1958,8 +1939,8 @@
         "269"
       ], 
       "housenumber": "269", 
-      "lat": 50.789053343005, 
-      "lon": 5.452311801423, 
+      "lat": 50.789054142798, 
+      "lon": 5.452312812691, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -2349,8 +2330,8 @@
         "303"
       ], 
       "housenumber": "303", 
-      "lat": 50.790307951317, 
-      "lon": 5.45134344083, 
+      "lat": 50.790313033609, 
+      "lon": 5.451357741646, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -2564,8 +2545,8 @@
         "369"
       ], 
       "housenumber": "369", 
-      "lat": 50.794841652863, 
-      "lon": 5.451060126907, 
+      "lat": 50.794843447247, 
+      "lon": 5.451050805975, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -2591,8 +2572,8 @@
         "371"
       ], 
       "housenumber": "371", 
-      "lat": 50.795019172374, 
-      "lon": 5.450938531119, 
+      "lat": 50.795025709032, 
+      "lon": 5.450921942944, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -2603,8 +2584,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.782879458704, 
-      "lon": 5.458425374059, 
+      "lat": 50.782888681541, 
+      "lon": 5.458439060239, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -3071,8 +3052,8 @@
         "472"
       ], 
       "housenumber": "472", 
-      "lat": 50.805571851326, 
-      "lon": 5.433611777419, 
+      "lat": 50.805581138052, 
+      "lon": 5.433608866307, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -3768,8 +3749,8 @@
         "558"
       ], 
       "housenumber": "558", 
-      "lat": 50.810610186794, 
-      "lon": 5.426444358692, 
+      "lat": 50.810611858767, 
+      "lon": 5.426448369477, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -3828,8 +3809,8 @@
         "565"
       ], 
       "housenumber": "565", 
-      "lat": 50.805983224336, 
-      "lon": 5.434376490706, 
+      "lat": 50.805961567251, 
+      "lon": 5.434365500353, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -4020,8 +4001,8 @@
         "590"
       ], 
       "housenumber": "590", 
-      "lat": 50.812900396141, 
-      "lon": 5.423187782921, 
+      "lat": 50.812907448192, 
+      "lon": 5.423183400122, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -4044,8 +4025,8 @@
         "592"
       ], 
       "housenumber": "592", 
-      "lat": 50.813035848684, 
-      "lon": 5.423261490437, 
+      "lat": 50.813034200524, 
+      "lon": 5.423274792633, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -4068,8 +4049,8 @@
         "596"
       ], 
       "housenumber": "596", 
-      "lat": 50.81320379226, 
-      "lon": 5.423001737346, 
+      "lat": 50.81320529607, 
+      "lon": 5.423004467297, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -4167,8 +4148,8 @@
         "607"
       ], 
       "housenumber": "607", 
-      "lat": 50.80794259755, 
-      "lon": 5.43103453286, 
+      "lat": 50.807934468036, 
+      "lon": 5.431028815429, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -4387,8 +4368,8 @@
         "653"
       ], 
       "housenumber": "653", 
-      "lat": 50.811144241559, 
-      "lon": 5.426442326291, 
+      "lat": 50.81113925511, 
+      "lon": 5.426427030757, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -4555,8 +4536,8 @@
         "693"
       ], 
       "housenumber": "693", 
-      "lat": 50.813440991636, 
-      "lon": 5.42360746669, 
+      "lat": 50.813371103844, 
+      "lon": 5.423501171002, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -4798,8 +4779,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.784198110696, 
-      "lon": 5.456405628876, 
+      "lat": 50.784194283768, 
+      "lon": 5.456401427606, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 

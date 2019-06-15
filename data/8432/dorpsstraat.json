@@ -146,11 +146,11 @@
     }, 
     {
       "hnrlbls": [
-        "109-111"
+        "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.176202253399, 
-      "lon": 2.877059283353, 
+      "lat": 51.176171549597, 
+      "lon": 2.877169535029, 
       "municipality": "Middelkerke", 
       "pcode": "8432", 
       "source": "manueleAanduidingVanGebouw", 
@@ -186,11 +186,11 @@
         "0101"
       ], 
       "hnrlbls": [
-        "109-111"
+        "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.176202253399, 
-      "lon": 2.877059283353, 
+      "lat": 51.176229268234, 
+      "lon": 2.877176701636, 
       "municipality": "Middelkerke", 
       "pcode": "8432", 
       "source": "manueleAanduidingVanGebouw", 
@@ -683,14 +683,14 @@
         "0202"
       ], 
       "hnrlbls": [
-        "142-144"
+        "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.17825086221, 
-      "lon": 2.877527619549, 
+      "lat": 51.178130036293, 
+      "lon": 2.877506591525, 
       "municipality": "Middelkerke", 
       "pcode": "8432", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -715,14 +715,14 @@
         "0202"
       ], 
       "hnrlbls": [
-        "142-144"
+        "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.17825086221, 
-      "lon": 2.877527619549, 
+      "lat": 51.178263380895, 
+      "lon": 2.877493750465, 
       "municipality": "Middelkerke", 
       "pcode": "8432", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -1602,8 +1602,8 @@
         "70A"
       ], 
       "housenumber": "70A", 
-      "lat": 51.174878409543, 
-      "lon": 2.877934386703, 
+      "lat": 51.174876678614, 
+      "lon": 2.877932582705, 
       "municipality": "Middelkerke", 
       "pcode": "8432", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1626,8 +1626,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.174611084194, 
-      "lon": 2.877325506339, 
+      "lat": 51.174784308069, 
+      "lon": 2.87767294698, 
       "municipality": "Middelkerke", 
       "pcode": "8432", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1754,6 +1754,10 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -113,8 +113,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.08617636609, 
-      "lon": 3.073707936347, 
+      "lat": 51.086180590766, 
+      "lon": 3.073699683103, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -605,8 +605,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.085133353712, 
-      "lon": 3.070064274344, 
+      "lat": 51.085132994213, 
+      "lon": 3.070064284323, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -740,11 +740,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.085124170974, 
-      "lon": 3.07119031206, 
+      "lat": 51.085361987601, 
+      "lon": 3.071110919221, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wijnendale-Stationsstraat"
     }, 
     {
@@ -792,7 +792,7 @@
       "lon": 3.071824134224, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Wijnendale-Stationsstraat"
     }, 
     {
@@ -1060,11 +1060,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.085177659063, 
-      "lon": 3.072350868194, 
+      "lat": 51.085105704637, 
+      "lon": 3.072478757701, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Wijnendale-Stationsstraat"
     }, 
     {

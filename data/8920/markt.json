@@ -548,12 +548,42 @@
       "street": "Markt"
     }, 
     {
+      "apptnrs": [
+        "0002"
+      ], 
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.913505821151, 
+      "lon": 2.920284034587, 
+      "municipality": "Langemark-Poelkapelle", 
+      "pcode": "8920", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 50.913800704129, 
       "lon": 2.917942900838, 
+      "municipality": "Langemark-Poelkapelle", 
+      "pcode": "8920", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Markt"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.913476861168, 
+      "lon": 2.919291788754, 
       "municipality": "Langemark-Poelkapelle", 
       "pcode": "8920", 
       "source": "manueleAanduidingVanGebouw", 

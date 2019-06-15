@@ -384,11 +384,11 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.158345000319, 
-      "lon": 3.629169024396, 
+      "lat": 51.15835442669, 
+      "lon": 3.629152722079, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oostmoer"
     }, 
     {
@@ -1452,8 +1452,8 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.161887329942, 
-      "lon": 3.630480363908, 
+      "lat": 51.161866930107, 
+      "lon": 3.6304236456, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1584,11 +1584,11 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 51.163849107598, 
-      "lon": 3.628513194879, 
+      "lat": 51.164005411881, 
+      "lon": 3.628927177204, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oostmoer"
     }, 
     {
@@ -2175,8 +2175,20 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.157072068846, 
-      "lon": 3.622948077952, 
+      "lat": 51.15706035287, 
+      "lon": 3.6228720756, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oostmoer"
+    }, 
+    {
+      "hnrlbls": [
+        "65A"
+      ], 
+      "housenumber": "65A", 
+      "lat": 51.157049478229, 
+      "lon": 3.622957872779, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -2223,8 +2235,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.156542407764, 
-      "lon": 3.62464096715, 
+      "lat": 51.156542941654, 
+      "lon": 3.624640100993, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -2259,8 +2271,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.156625435253, 
-      "lon": 3.62456460016, 
+      "lat": 51.156626241487, 
+      "lon": 3.624564158493, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 

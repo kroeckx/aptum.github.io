@@ -227,8 +227,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.285976545458, 
-      "lon": 4.47771830672, 
+      "lat": 51.285976996591, 
+      "lon": 4.477716444454, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -528,6 +528,18 @@
     }, 
     {
       "hnrlbls": [
+        "165"
+      ], 
+      "housenumber": "165", 
+      "lat": 51.285187034988, 
+      "lon": 4.472844068249, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Donksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "167"
       ], 
       "housenumber": "167", 
@@ -560,8 +572,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.287605768369, 
-      "lon": 4.484649527265, 
+      "lat": 51.287604782074, 
+      "lon": 4.484647088048, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -775,11 +787,11 @@
         "203B"
       ], 
       "housenumber": "203B", 
-      "lat": 51.283754878254, 
-      "lon": 4.461892735504, 
+      "lat": 51.283642902573, 
+      "lon": 4.461871440965, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Donksesteenweg"
     }, 
     {
@@ -1409,8 +1421,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.287103014248, 
-      "lon": 4.484239616009, 
+      "lat": 51.287102835188, 
+      "lon": 4.48423889888, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -1433,8 +1445,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.287062314665, 
-      "lon": 4.484130865492, 
+      "lat": 51.287038278155, 
+      "lon": 4.484078057818, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -1469,8 +1481,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.287010464425, 
-      "lon": 4.483935655666, 
+      "lat": 51.28698795539, 
+      "lon": 4.483883281959, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -2069,15 +2081,23 @@
       "street": "Donksesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "1001", 
+        "1002", 
+        "2001", 
+        "2002"
+      ], 
       "hnrlbls": [
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.286341432175, 
-      "lon": 4.479581649697, 
+      "lat": 51.286339688128, 
+      "lon": 4.479524741874, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Donksesteenweg"
     }, 
     {
@@ -2087,18 +2107,6 @@
       "housenumber": "88", 
       "lat": 51.284688546673, 
       "lon": 4.473658775232, 
-      "municipality": "Brasschaat", 
-      "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Donksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "89"
-      ], 
-      "housenumber": "89", 
-      "lat": 51.286335338842, 
-      "lon": 4.47946639448, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 

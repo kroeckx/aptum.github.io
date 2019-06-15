@@ -4,8 +4,8 @@
       "b": 50.978361184261, 
       "l": 4.086095696298, 
       "name": "Aalstersestraat", 
-      "numOfAddr": 174, 
-      "r": 4.119318551431, 
+      "numOfAddr": 175, 
+      "r": 4.119611563442, 
       "sanName": "aalstersestraat", 
       "t": 50.993277028125
     }, 
@@ -40,7 +40,7 @@
       "b": 51.005262498985, 
       "l": 4.134372950251, 
       "name": "Baasrodestraat", 
-      "numOfAddr": 217, 
+      "numOfAddr": 220, 
       "r": 4.15392925822, 
       "sanName": "baasrodestraat", 
       "t": 51.019175279606
@@ -220,7 +220,7 @@
       "b": 50.971522345102, 
       "l": 4.127870430462, 
       "name": "Brusselsesteenweg", 
-      "numOfAddr": 362, 
+      "numOfAddr": 363, 
       "r": 4.148092060598, 
       "sanName": "brusselsesteenweg", 
       "t": 51.000413396047
@@ -280,6 +280,15 @@
       "t": 51.002205454402
     }, 
     {
+      "b": 50.993906481715, 
+      "l": 4.13632883287, 
+      "name": "De Niepte", 
+      "numOfAddr": 1, 
+      "r": 4.13632883287, 
+      "sanName": "deniepte", 
+      "t": 50.993906481715
+    }, 
+    {
       "b": 50.982087918846, 
       "l": 4.133838424698, 
       "name": "D'Helst", 
@@ -301,7 +310,7 @@
       "b": 50.999029150191, 
       "l": 4.095247325771, 
       "name": "Dries", 
-      "numOfAddr": 67, 
+      "numOfAddr": 68, 
       "r": 4.105059962052, 
       "sanName": "dries", 
       "t": 51.009496828865
@@ -688,7 +697,7 @@
       "b": 50.995007775121, 
       "l": 4.088571872596, 
       "name": "Kapellenstraat", 
-      "numOfAddr": 116, 
+      "numOfAddr": 118, 
       "r": 4.092959231912, 
       "sanName": "kapellenstraat", 
       "t": 51.003518178863
@@ -697,10 +706,10 @@
       "b": 50.975717581778, 
       "l": 4.079472848722, 
       "name": "Kapittelstraat", 
-      "numOfAddr": 54, 
+      "numOfAddr": 55, 
       "r": 4.087202660532, 
       "sanName": "kapittelstraat", 
-      "t": 50.978447243573
+      "t": 50.978536260176
     }, 
     {
       "b": 50.979082690757, 
@@ -832,7 +841,7 @@
       "b": 50.978480333014, 
       "l": 4.131793541395, 
       "name": "Korte Minnestraat", 
-      "numOfAddr": 62, 
+      "numOfAddr": 65, 
       "r": 4.140417429706, 
       "sanName": "korteminnestraat", 
       "t": 50.982330682303
@@ -1066,7 +1075,7 @@
       "b": 50.996571067718, 
       "l": 4.090946925143, 
       "name": "Molenveldstraat", 
-      "numOfAddr": 86, 
+      "numOfAddr": 88, 
       "r": 4.101858370133, 
       "sanName": "molenveldstraat", 
       "t": 51.001111832297
@@ -1111,7 +1120,7 @@
       "b": 50.98228840226, 
       "l": 4.092061616435, 
       "name": "Olmendreef", 
-      "numOfAddr": 24, 
+      "numOfAddr": 25, 
       "r": 4.095678317287, 
       "sanName": "olmendreef", 
       "t": 50.983977959587
@@ -1210,7 +1219,7 @@
       "b": 50.968250847486, 
       "l": 4.084315862836, 
       "name": "Populierenstraat", 
-      "numOfAddr": 21, 
+      "numOfAddr": 22, 
       "r": 4.096093606381, 
       "sanName": "populierenstraat", 
       "t": 50.97169458993
@@ -1264,7 +1273,7 @@
       "b": 50.977336116452, 
       "l": 4.108876133453, 
       "name": "Rooien", 
-      "numOfAddr": 139, 
+      "numOfAddr": 140, 
       "r": 4.12661622001, 
       "sanName": "rooien", 
       "t": 50.981221490884
@@ -1318,7 +1327,7 @@
       "b": 50.973084859454, 
       "l": 4.077545873074, 
       "name": "Schrovestraat", 
-      "numOfAddr": 92, 
+      "numOfAddr": 93, 
       "r": 4.081700892119, 
       "sanName": "schrovestraat", 
       "t": 50.978993997181
@@ -1381,8 +1390,8 @@
       "b": 51.002379394785, 
       "l": 4.083415365289, 
       "name": "Steenkouterbaan", 
-      "numOfAddr": 11, 
-      "r": 4.084665358978, 
+      "numOfAddr": 10, 
+      "r": 4.084563821108, 
       "sanName": "steenkouterbaan", 
       "t": 51.003238770743
     }, 
@@ -1444,7 +1453,7 @@
       "b": 51.00212216105, 
       "l": 4.082652369188, 
       "name": "Visstraat", 
-      "numOfAddr": 60, 
+      "numOfAddr": 61, 
       "r": 4.088984153258, 
       "sanName": "visstraat", 
       "t": 51.003729363451
@@ -1525,7 +1534,7 @@
       "b": 50.976614357175, 
       "l": 4.096728762981, 
       "name": "Wolvenstraat", 
-      "numOfAddr": 65, 
+      "numOfAddr": 66, 
       "r": 4.100533615599, 
       "sanName": "wolvenstraat", 
       "t": 50.982125412283
@@ -1549,13 +1558,13 @@
       "t": 51.004417411056
     }, 
     {
-      "b": 51.001640258278, 
+      "b": 51.001576981126, 
       "l": 4.128319218655, 
       "name": "Zwanenstraat", 
-      "numOfAddr": 6, 
+      "numOfAddr": 8, 
       "r": 4.128808959744, 
       "sanName": "zwanenstraat", 
-      "t": 51.002078645307
+      "t": 51.002138253357
     }
   ]
 }

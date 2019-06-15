@@ -5,11 +5,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.890386744151, 
-      "lon": 4.694285434554, 
+      "lat": 50.890391887077, 
+      "lon": 4.694052098048, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -41,11 +41,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.892705973914, 
-      "lon": 4.690367992365, 
+      "lat": 50.892857495027, 
+      "lon": 4.690612223985, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -65,11 +65,11 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.892834047325, 
-      "lon": 4.690213945112, 
+      "lat": 50.89282237896, 
+      "lon": 4.690240159883, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -461,8 +461,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.891808415494, 
-      "lon": 4.692181536545, 
+      "lat": 50.891810646341, 
+      "lon": 4.692187521447, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -719,8 +719,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.892686893912, 
-      "lon": 4.690866892945, 
+      "lat": 50.89268544976, 
+      "lon": 4.690869015024, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

@@ -77,8 +77,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.218716376208, 
-      "lon": 2.897354154377, 
+      "lat": 51.218718885344, 
+      "lon": 2.897353502612, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -212,8 +212,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.218981526632, 
-      "lon": 2.898433768421, 
+      "lat": 51.218895334261, 
+      "lon": 2.898406709087, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -275,8 +275,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.218924219731, 
-      "lon": 2.898567992959, 
+      "lat": 51.218841353295, 
+      "lon": 2.898548129464, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -360,6 +360,22 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Goedheidstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 51.218539051629, 
+      "lon": 2.899144300846, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Goedheidstraat"
     }, 
     {
@@ -579,6 +595,22 @@
       "street": "Goedheidstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.21845706304, 
+      "lon": 2.899940525903, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Goedheidstraat"
+    }, 
+    {
       "hnrlbls": [
         "6"
       ], 
@@ -592,6 +624,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "1", 
         "2", 
         "3"
@@ -600,11 +633,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.218950572246, 
-      "lon": 2.897339895483, 
+      "lat": 51.218950028633, 
+      "lon": 2.897346784067, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Goedheidstraat"
     }, 
     {

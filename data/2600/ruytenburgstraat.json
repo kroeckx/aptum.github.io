@@ -42,6 +42,11 @@
       "street": "Ruytenburgstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -66,6 +71,11 @@
       "street": "Ruytenburgstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -90,6 +100,11 @@
       "street": "Ruytenburgstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -404,8 +419,10 @@
       "street": "Ruytenburgstraat"
     }, 
     {
-      "busnrs": [
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "38"

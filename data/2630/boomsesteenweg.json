@@ -722,7 +722,6 @@
     }, 
     {
       "busnrs": [
-        "A", 
         "B1", 
         "B2", 
         "C1", 
@@ -737,6 +736,18 @@
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "29_1"
+      ], 
+      "housenumber": "29_1", 
+      "lat": 51.133304748096, 
+      "lon": 4.37743294455, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Boomsesteenweg"
     }, 
     {
@@ -1476,6 +1487,150 @@
       "housenumber": "77", 
       "lat": 51.126805558387, 
       "lon": 4.377478922318, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_1-78_12"
+      ], 
+      "housenumber": "78_1", 
+      "lat": 51.113596817842, 
+      "lon": 4.368794337626, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_10"
+      ], 
+      "housenumber": "78_10", 
+      "lat": 51.113734167873, 
+      "lon": 4.368338079099, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_1-78_12"
+      ], 
+      "housenumber": "78_11", 
+      "lat": 51.113596817842, 
+      "lon": 4.368794337626, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_1-78_12"
+      ], 
+      "housenumber": "78_12", 
+      "lat": 51.113596817842, 
+      "lon": 4.368794337626, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_2"
+      ], 
+      "housenumber": "78_2", 
+      "lat": 51.113347468527, 
+      "lon": 4.368995258113, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_3"
+      ], 
+      "housenumber": "78_3", 
+      "lat": 51.113338660633, 
+      "lon": 4.368847313627, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_1-78_12"
+      ], 
+      "housenumber": "78_4", 
+      "lat": 51.113596817842, 
+      "lon": 4.368794337626, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_1-78_12"
+      ], 
+      "housenumber": "78_5", 
+      "lat": 51.113596817842, 
+      "lon": 4.368794337626, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_6"
+      ], 
+      "housenumber": "78_6", 
+      "lat": 51.113288326261, 
+      "lon": 4.368081601839, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_1-78_12"
+      ], 
+      "housenumber": "78_7", 
+      "lat": 51.113596817842, 
+      "lon": 4.368794337626, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_1-78_12"
+      ], 
+      "housenumber": "78_8", 
+      "lat": 51.113596817842, 
+      "lon": 4.368794337626, 
+      "municipality": "Aartselaar", 
+      "pcode": "2630", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Boomsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78_9"
+      ], 
+      "housenumber": "78_9", 
+      "lat": 51.113657044734, 
+      "lon": 4.368103593881, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

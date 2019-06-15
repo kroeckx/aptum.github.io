@@ -547,11 +547,12 @@
       "street": "Generaal Baron Jacquesstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "5"
@@ -699,8 +700,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.033456717231, 
-      "lon": 2.8601587087, 
+      "lat": 51.033458246872, 
+      "lon": 2.860158802017, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
       "source": "afgeleidVanGebouw", 

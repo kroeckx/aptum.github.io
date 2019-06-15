@@ -11,29 +11,17 @@
         "0401", 
         "0402", 
         "0501", 
-        "0502", 
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0502"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.219454242362, 
-      "lon": 2.897899782686, 
+      "lat": 51.219443235964, 
+      "lon": 2.897940070383, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Werkzaamheidstraat"
     }, 
     {
@@ -170,17 +158,19 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.218957919427, 
-      "lon": 2.897728186207, 
+      "lat": 51.21894496096, 
+      "lon": 2.897784997888, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Werkzaamheidstraat"
     }, 
     {
@@ -197,9 +187,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
-        "0102", 
-        "1"
+        "0102"
       ], 
       "hnrlbls": [
         "111"
@@ -226,9 +217,10 @@
     }, 
     {
       "busnrs": [
-        "0102", 
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "113"
@@ -255,8 +247,8 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "115"
@@ -295,21 +287,6 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Werkzaamheidstraat"
-    }, 
-    {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "117A"
-      ], 
-      "housenumber": "117A", 
-      "lat": 51.21568440099, 
-      "lon": 2.896447773618, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Werkzaamheidstraat"
     }, 
     {
@@ -365,9 +342,10 @@
     }, 
     {
       "busnrs": [
-        "0102", 
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "121"
@@ -394,10 +372,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
-        "0102", 
-        "1", 
-        "2"
+        "0102"
       ], 
       "hnrlbls": [
         "123"
@@ -424,10 +402,10 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
-        "0102", 
-        "1", 
-        "2"
+        "0102"
       ], 
       "hnrlbls": [
         "125"
@@ -465,9 +443,6 @@
       "street": "Werkzaamheidstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "12A"
       ], 

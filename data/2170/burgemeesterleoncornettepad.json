@@ -1,0 +1,58 @@
+{
+  "addresses": [
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "103"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.248094671707, 
+      "lon": 4.442889151437, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Burgemeester Leon Cornettepad"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.248154112963, 
+      "lon": 4.442416059308, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Burgemeester Leon Cornettepad"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.248503915007, 
+      "lon": 4.44245156258, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Burgemeester Leon Cornettepad"
+    }
+  ]
+}

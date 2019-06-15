@@ -14,6 +14,18 @@
     }, 
     {
       "hnrlbls": [
+        "103"
+      ], 
+      "housenumber": "103", 
+      "lat": 50.828265522419, 
+      "lon": 4.030726508138, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "105"
       ], 
       "housenumber": "105", 
@@ -111,8 +123,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 50.8282567116, 
-      "lon": 4.031382897872, 
+      "lat": 50.828345053774, 
+      "lon": 4.031405117639, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -123,8 +135,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.828281888086, 
-      "lon": 4.031510037088, 
+      "lat": 50.828353943259, 
+      "lon": 4.03149546941, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -255,7 +267,7 @@
       "lon": 4.03180821384, 
       "municipality": "Ninove", 
       "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -279,7 +291,7 @@
       "lon": 4.03180821384, 
       "municipality": "Ninove", 
       "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1108,8 +1120,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 50.8288024631, 
-      "lon": 4.034303254139, 
+      "lat": 50.828780479522, 
+      "lon": 4.034349257004, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1389,7 +1401,7 @@
       "lon": 4.038903156907, 
       "municipality": "Ninove", 
       "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1567,6 +1579,18 @@
       "housenumber": "267", 
       "lat": 50.828772248208, 
       "lon": 4.041030460765, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "268"
+      ], 
+      "housenumber": "268", 
+      "lat": 50.829112590527, 
+      "lon": 4.039934575581, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1757,8 +1781,8 @@
         "299"
       ], 
       "housenumber": "299", 
-      "lat": 50.828780819839, 
-      "lon": 4.043500309795, 
+      "lat": 50.828920798023, 
+      "lon": 4.043276496281, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1769,8 +1793,8 @@
         "301"
       ], 
       "housenumber": "301", 
-      "lat": 50.828819656617, 
-      "lon": 4.043468388971, 
+      "lat": 50.828925346746, 
+      "lon": 4.043425786841, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1841,8 +1865,8 @@
         "307"
       ], 
       "housenumber": "307", 
-      "lat": 50.828999671103, 
-      "lon": 4.043808373223, 
+      "lat": 50.829009468448, 
+      "lon": 4.043807879844, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1906,6 +1930,18 @@
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "315"
+      ], 
+      "housenumber": "315", 
+      "lat": 50.828922358703, 
+      "lon": 4.044198108608, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2017,6 +2053,23 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "330"
+      ], 
+      "housenumber": "330", 
+      "lat": 50.829520132008, 
+      "lon": 4.045031596339, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "331"
       ], 
@@ -2112,8 +2165,8 @@
         "342"
       ], 
       "housenumber": "342", 
-      "lat": 50.829457033653, 
-      "lon": 4.046015124427, 
+      "lat": 50.829413050129, 
+      "lon": 4.046071776812, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2298,8 +2351,8 @@
         "361"
       ], 
       "housenumber": "361", 
-      "lat": 50.829159764585, 
-      "lon": 4.048452738155, 
+      "lat": 50.829204780172, 
+      "lon": 4.048444483463, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2310,8 +2363,8 @@
         "362"
       ], 
       "housenumber": "362", 
-      "lat": 50.829606482248, 
-      "lon": 4.047243185989, 
+      "lat": 50.829724950343, 
+      "lon": 4.04713904295, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2343,14 +2396,18 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "367"
       ], 
       "housenumber": "367", 
-      "lat": 50.829219161528, 
-      "lon": 4.049169992626, 
+      "lat": 50.829217308736, 
+      "lon": 4.049116776987, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2363,6 +2420,25 @@
       "housenumber": "368", 
       "lat": 50.829711228788, 
       "lon": 4.048038915672, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "369"
+      ], 
+      "housenumber": "369", 
+      "lat": 50.829230825667, 
+      "lon": 4.049360115694, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2390,18 +2466,6 @@
       "housenumber": "370", 
       "lat": 50.829625843321, 
       "lon": 4.048242475409, 
-      "municipality": "Ninove", 
-      "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "371"
-      ], 
-      "housenumber": "371", 
-      "lat": 50.829229381176, 
-      "lon": 4.049423999343, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2496,8 +2560,8 @@
         "381"
       ], 
       "housenumber": "381", 
-      "lat": 50.829331948037, 
-      "lon": 4.050051256727, 
+      "lat": 50.829390965365, 
+      "lon": 4.050034818128, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2688,8 +2752,8 @@
         "399"
       ], 
       "housenumber": "399", 
-      "lat": 50.82932182841, 
-      "lon": 4.051294170872, 
+      "lat": 50.829333712763, 
+      "lon": 4.051334118521, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2724,8 +2788,8 @@
         "403"
       ], 
       "housenumber": "403", 
-      "lat": 50.829451020208, 
-      "lon": 4.051997619603, 
+      "lat": 50.82948742681, 
+      "lon": 4.051997091022, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3365,8 +3429,8 @@
         "489"
       ], 
       "housenumber": "489", 
-      "lat": 50.829794127884, 
-      "lon": 4.059205904593, 
+      "lat": 50.829876672504, 
+      "lon": 4.05914517828, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4105,18 +4169,6 @@
     }, 
     {
       "hnrlbls": [
-        "575A"
-      ], 
-      "housenumber": "575A", 
-      "lat": 50.830288392871, 
-      "lon": 4.066602818757, 
-      "municipality": "Ninove", 
-      "pcode": "9402", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "577"
       ], 
       "housenumber": "577", 
@@ -4168,8 +4220,8 @@
         "585"
       ], 
       "housenumber": "585", 
-      "lat": 50.830275235932, 
-      "lon": 4.067325402775, 
+      "lat": 50.830352932338, 
+      "lon": 4.067335551767, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4216,8 +4268,8 @@
         "592"
       ], 
       "housenumber": "592", 
-      "lat": 50.830661721954, 
-      "lon": 4.066040022243, 
+      "lat": 50.830635111638, 
+      "lon": 4.066039625369, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4396,8 +4448,8 @@
         "607"
       ], 
       "housenumber": "607", 
-      "lat": 50.830287289451, 
-      "lon": 4.068733419633, 
+      "lat": 50.830318578655, 
+      "lon": 4.068700289215, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 

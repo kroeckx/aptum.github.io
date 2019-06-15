@@ -1,15 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.026340706411, 
-      "lon": 4.477529031061, 
+      "lat": 51.02622983807, 
+      "lon": 4.477468478353, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nauwstraat"
     }, 
     {

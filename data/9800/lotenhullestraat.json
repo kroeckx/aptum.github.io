@@ -118,11 +118,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.009162287774, 
-      "lon": 3.478026368073, 
+      "lat": 51.009156523429, 
+      "lon": 3.4779654893, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -645,14 +645,14 @@
     }, 
     {
       "hnrlbls": [
-        "51-53"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.01133347843, 
-      "lon": 3.477122684997, 
+      "lat": 51.011422831927, 
+      "lon": 3.477799299359, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -669,7 +669,7 @@
     }, 
     {
       "hnrlbls": [
-        "51-53"
+        "53"
       ], 
       "housenumber": "53", 
       "lat": 51.01133347843, 
@@ -677,6 +677,30 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Lotenhullestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.011541165705, 
+      "lon": 3.476876621377, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lotenhullestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 51.011586179264, 
+      "lon": 3.476837716499, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lotenhullestraat"
     }, 
     {
@@ -804,8 +828,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.008958668705, 
-      "lon": 3.478109322006, 
+      "lat": 51.008961201625, 
+      "lon": 3.478111411314, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

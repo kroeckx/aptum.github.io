@@ -285,8 +285,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.094268673922, 
-      "lon": 5.523062079903, 
+      "lat": 51.094266660664, 
+      "lon": 5.523074878783, 
       "municipality": "Oudsbergen", 
       "pcode": "3670", 
       "source": "afgeleidVanGebouw", 
@@ -649,26 +649,30 @@
     }, 
     {
       "hnrlbls": [
-        "49-49A"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.09270093997, 
-      "lon": 5.524078758709, 
+      "lat": 51.092687884669, 
+      "lon": 5.52397993317, 
       "municipality": "Oudsbergen", 
       "pcode": "3670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
-        "49-49A"
+        "49A"
       ], 
       "housenumber": "49A", 
-      "lat": 51.09270093997, 
-      "lon": 5.524078758709, 
+      "lat": 51.092658023355, 
+      "lon": 5.52399061551, 
       "municipality": "Oudsbergen", 
       "pcode": "3670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -696,20 +700,27 @@
       "street": "Hoogstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.092956428684, 
-      "lon": 5.522941723663, 
+      "lat": 51.092973885648, 
+      "lon": 5.523031807168, 
       "municipality": "Oudsbergen", 
       "pcode": "3670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "52A"
+      ], 
+      "housenumber": "52A", 
+      "lat": 51.092955596219, 
+      "lon": 5.523045060172, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3670", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {

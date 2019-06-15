@@ -13,10 +13,10 @@
       "b": 51.222171545369, 
       "l": 5.44524325141, 
       "name": "Acaciastraat", 
-      "numOfAddr": 17, 
+      "numOfAddr": 18, 
       "r": 5.446251455933, 
       "sanName": "acaciastraat", 
-      "t": 51.224473404789
+      "t": 51.224613769064
     }, 
     {
       "b": 51.245412420377, 
@@ -232,7 +232,7 @@
       "b": 51.234014430463, 
       "l": 5.442280939745, 
       "name": "Boelehoef", 
-      "numOfAddr": 59, 
+      "numOfAddr": 61, 
       "r": 5.44912689271, 
       "sanName": "boelehoef", 
       "t": 51.245492797979
@@ -313,7 +313,7 @@
       "b": 51.235625829484, 
       "l": 5.42374554913, 
       "name": "Broeseinderdijk", 
-      "numOfAddr": 93, 
+      "numOfAddr": 94, 
       "r": 5.428111372308, 
       "sanName": "broeseinderdijk", 
       "t": 51.255024649805
@@ -367,7 +367,7 @@
       "b": 51.232011582073, 
       "l": 5.458842575027, 
       "name": "Damsheide", 
-      "numOfAddr": 44, 
+      "numOfAddr": 45, 
       "r": 5.461926812078, 
       "sanName": "damsheide", 
       "t": 51.237375010215
@@ -385,7 +385,7 @@
       "b": 51.214014723962, 
       "l": 5.441013365703, 
       "name": "De Bemmert", 
-      "numOfAddr": 71, 
+      "numOfAddr": 72, 
       "r": 5.445929790572, 
       "sanName": "debemmert", 
       "t": 51.220341596172
@@ -556,7 +556,7 @@
       "b": 51.229925242693, 
       "l": 5.486958346287, 
       "name": "Erkestraat", 
-      "numOfAddr": 25, 
+      "numOfAddr": 26, 
       "r": 5.490326706142, 
       "sanName": "erkestraat", 
       "t": 51.231265720094
@@ -583,7 +583,7 @@
       "b": 51.224752521765, 
       "l": 5.489102819172, 
       "name": "Fierkens-Heikant", 
-      "numOfAddr": 53, 
+      "numOfAddr": 54, 
       "r": 5.497296371015, 
       "sanName": "fierkensheikant", 
       "t": 51.228294605976
@@ -646,10 +646,19 @@
       "b": 51.246162735443, 
       "l": 5.435616447555, 
       "name": "Grote Heide", 
-      "numOfAddr": 107, 
+      "numOfAddr": 108, 
       "r": 5.441644583739, 
       "sanName": "groteheide", 
       "t": 51.270082364529
+    }, 
+    {
+      "b": 51.27619506028, 
+      "l": 5.433410958756, 
+      "name": "Grote Heide 'Achthoek'", 
+      "numOfAddr": 1, 
+      "r": 5.433410958756, 
+      "sanName": "groteheideachthoek", 
+      "t": 51.27619506028
     }, 
     {
       "b": 51.231099350615, 
@@ -703,7 +712,7 @@
       "b": 51.234265294524, 
       "l": 5.447937891098, 
       "name": "Hamonterweg", 
-      "numOfAddr": 125, 
+      "numOfAddr": 127, 
       "r": 5.489408883946, 
       "sanName": "hamonterweg", 
       "t": 51.242729185033
@@ -838,7 +847,7 @@
       "b": 51.22779456297, 
       "l": 5.425192460069, 
       "name": "Hoekstraat", 
-      "numOfAddr": 49, 
+      "numOfAddr": 50, 
       "r": 5.430028550903, 
       "sanName": "hoekstraat", 
       "t": 51.22906042928
@@ -964,7 +973,7 @@
       "b": 51.227093472237, 
       "l": 5.430860052525, 
       "name": "Kempenplein", 
-      "numOfAddr": 13, 
+      "numOfAddr": 12, 
       "r": 5.431735345853, 
       "sanName": "kempenplein", 
       "t": 51.227727506441
@@ -1174,16 +1183,16 @@
       "b": 51.229241415986, 
       "l": 5.434555834448, 
       "name": "Koning Boudewijnplein", 
-      "numOfAddr": 14, 
-      "r": 5.435787316084, 
+      "numOfAddr": 15, 
+      "r": 5.435881862061, 
       "sanName": "koningboudewijnplein", 
-      "t": 51.230174985533
+      "t": 51.230160537633
     }, 
     {
       "b": 51.230255867411, 
       "l": 5.426288582006, 
       "name": "Koninginnelaan", 
-      "numOfAddr": 17, 
+      "numOfAddr": 18, 
       "r": 5.426981061884, 
       "sanName": "koninginnelaan", 
       "t": 51.231200340542
@@ -1609,7 +1618,7 @@
       "b": 51.22975192738, 
       "l": 5.444246154793, 
       "name": "Oogststraat", 
-      "numOfAddr": 5, 
+      "numOfAddr": 7, 
       "r": 5.444963249424, 
       "sanName": "oogststraat", 
       "t": 51.230567540175
@@ -1690,7 +1699,7 @@
       "b": 51.231730685374, 
       "l": 5.462817143994, 
       "name": "Pater Pellensstraat", 
-      "numOfAddr": 59, 
+      "numOfAddr": 60, 
       "r": 5.465393262294, 
       "sanName": "paterpellensstraat", 
       "t": 51.237914172031
@@ -1825,10 +1834,10 @@
       "b": 51.246650927693, 
       "l": 5.437557039561, 
       "name": "Regenboogplein", 
-      "numOfAddr": 5, 
-      "r": 5.438386775011, 
+      "numOfAddr": 15, 
+      "r": 5.438920205297, 
       "sanName": "regenboogplein", 
-      "t": 51.246910772841
+      "t": 51.247422743365
     }, 
     {
       "b": 51.2370317907, 
@@ -1912,13 +1921,13 @@
       "t": 51.222373248062
     }, 
     {
-      "b": 51.225640545398, 
-      "l": 5.43759821077, 
+      "b": 51.225587575738, 
+      "l": 5.437600717775, 
       "name": "Saxbylaan", 
-      "numOfAddr": 1, 
-      "r": 5.43759821077, 
+      "numOfAddr": 3, 
+      "r": 5.437608551991, 
       "sanName": "saxbylaan", 
-      "t": 51.225640545398
+      "t": 51.225741851173
     }, 
     {
       "b": 51.224273451168, 
@@ -2329,7 +2338,7 @@
       "b": 51.243950495095, 
       "l": 5.425478016486, 
       "name": "Weidenstraat", 
-      "numOfAddr": 63, 
+      "numOfAddr": 65, 
       "r": 5.436608729883, 
       "sanName": "weidenstraat", 
       "t": 51.250006019507

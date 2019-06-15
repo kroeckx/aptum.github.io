@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.0320021273, 
-      "lon": 5.366921535365, 
+      "lat": 51.032055841068, 
+      "lon": 5.366725509332, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kruisstraat"
     }, 
     {
@@ -209,10 +209,8 @@
     }, 
     {
       "apptnrs": [
-        "1.1"
-      ], 
-      "busnrs": [
-        "1"
+        "2A", 
+        "2A/1-1"
       ], 
       "hnrlbls": [
         "2-2A"
@@ -643,8 +641,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.038054162603, 
-      "lon": 5.365074708626, 
+      "lat": 51.038053689695, 
+      "lon": 5.365066856292, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 

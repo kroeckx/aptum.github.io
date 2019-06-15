@@ -484,6 +484,18 @@
       "street": "Heistraat"
     }, 
     {
+      "hnrlbls": [
+        "43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 51.090170541971, 
+      "lon": 5.06329885414, 
+      "municipality": "Laakdal", 
+      "pcode": "2430", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Heistraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -561,18 +573,27 @@
       "street": "Heistraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.090595844265, 
-      "lon": 5.06577543965, 
+      "lat": 51.090583763361, 
+      "lon": 5.065705459435, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "48_1"
+      ], 
+      "housenumber": "48_1", 
+      "lat": 51.090627543697, 
+      "lon": 5.06581131225, 
+      "municipality": "Laakdal", 
+      "pcode": "2430", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heistraat"
     }, 
     {
@@ -627,15 +648,21 @@
       "street": "Heistraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.090941370871, 
-      "lon": 5.0654595703, 
+      "lat": 51.091079237499, 
+      "lon": 5.065540277227, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Heistraat"
     }, 
     {

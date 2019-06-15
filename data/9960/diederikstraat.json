@@ -104,8 +104,8 @@
         "17-19"
       ], 
       "housenumber": "17", 
-      "lat": 51.226862920527, 
-      "lon": 3.752051847989, 
+      "lat": 51.226862751951, 
+      "lon": 3.752053997557, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -119,8 +119,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.227118915018, 
-      "lon": 3.751930504271, 
+      "lat": 51.227117497812, 
+      "lon": 3.751934531391, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -131,26 +131,23 @@
         "17-19"
       ], 
       "housenumber": "19", 
-      "lat": 51.226862920527, 
-      "lon": 3.752051847989, 
+      "lat": 51.226862751951, 
+      "lon": 3.752053997557, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
       "street": "Diederikstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "2"
+        "2-2A"
       ], 
       "housenumber": "2", 
-      "lat": 51.227398758577, 
-      "lon": 3.752677811105, 
+      "lat": 51.227368193241, 
+      "lon": 3.752728892345, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diederikstraat"
     }, 
     {
@@ -305,6 +302,18 @@
     }, 
     {
       "hnrlbls": [
+        "2-2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.227368193241, 
+      "lon": 3.752728892345, 
+      "municipality": "Assenede", 
+      "pcode": "9960", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Diederikstraat"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -332,11 +341,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.227041886784, 
-      "lon": 3.751310652094, 
+      "lat": 51.227040003772, 
+      "lon": 3.751311535944, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diederikstraat"
     }, 
     {
@@ -356,11 +365,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.227365817773, 
-      "lon": 3.752583332444, 
+      "lat": 51.227347633859, 
+      "lon": 3.752595454579, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diederikstraat"
     }, 
     {
@@ -500,8 +509,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.227327388545, 
-      "lon": 3.75233245528, 
+      "lat": 51.227322640528, 
+      "lon": 3.752335524294, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 

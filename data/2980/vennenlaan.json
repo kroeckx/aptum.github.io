@@ -98,14 +98,26 @@
     }, 
     {
       "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.272821858191, 
+      "lon": 4.704818154778, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vennenlaan"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.273038330847, 
-      "lon": 4.703317707162, 
+      "lat": 51.27200181963, 
+      "lon": 4.706752676578, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vennenlaan"
     }, 
     {

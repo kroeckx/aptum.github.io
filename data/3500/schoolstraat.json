@@ -53,8 +53,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.925966139466, 
-      "lon": 5.332692843376, 
+      "lat": 50.925975533098, 
+      "lon": 5.332687488915, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -353,11 +353,23 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.925766820229, 
-      "lon": 5.331488913187, 
+      "lat": 50.925428267752, 
+      "lon": 5.33141055617, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schoolstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.925922924012, 
+      "lon": 5.331429672602, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {

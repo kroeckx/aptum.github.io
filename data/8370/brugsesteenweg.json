@@ -527,11 +527,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.301041614374, 
-      "lon": 3.145256266706, 
+      "lat": 51.301060961702, 
+      "lon": 3.145084110081, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brugse Steenweg"
     }, 
     {
@@ -539,11 +539,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.302046149281, 
-      "lon": 3.145315198145, 
+      "lat": 51.302057260617, 
+      "lon": 3.145346598029, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brugse Steenweg"
     }, 
     {
@@ -850,6 +850,30 @@
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "77B"
+      ], 
+      "housenumber": "77B", 
+      "lat": 51.298968379348, 
+      "lon": 3.147519261952, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brugse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "77C"
+      ], 
+      "housenumber": "77C", 
+      "lat": 51.298891117725, 
+      "lon": 3.147593557554, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugse Steenweg"
     }, 
     {

@@ -40,8 +40,8 @@
       "t": 50.979327412925
     }, 
     {
-      "b": 51.030583147053, 
-      "l": 5.000436830525, 
+      "b": 51.030411172759, 
+      "l": 5.000552944986, 
       "name": "Averbodeweg", 
       "numOfAddr": 69, 
       "otherPCs": [
@@ -118,11 +118,11 @@
       "t": 51.029462803667
     }, 
     {
-      "b": 51.022251599224, 
+      "b": 51.022176853988, 
       "l": 4.972803183417, 
       "name": "Bredestraat", 
-      "numOfAddr": 98, 
-      "r": 4.986293576352, 
+      "numOfAddr": 102, 
+      "r": 4.987635720119, 
       "sanName": "bredestraat", 
       "t": 51.026169491365
     }, 
@@ -160,8 +160,8 @@
       "t": 50.98087630659
     }, 
     {
-      "b": 50.995454160609, 
-      "l": 4.958250232314, 
+      "b": 50.995454430274, 
+      "l": 4.95825023571, 
       "name": "Dasstraat", 
       "numOfAddr": 5, 
       "r": 4.959344542433, 
@@ -172,10 +172,19 @@
       "b": 51.023621351118, 
       "l": 4.986015381923, 
       "name": "Dennenlaan", 
-      "numOfAddr": 29, 
+      "numOfAddr": 30, 
       "r": 4.990797824146, 
       "sanName": "dennenlaan", 
       "t": 51.027362417993
+    }, 
+    {
+      "b": 51.022090111935, 
+      "l": 4.995460659099, 
+      "name": "Dopheide", 
+      "numOfAddr": 13, 
+      "r": 4.996267663094, 
+      "sanName": "dopheide", 
+      "t": 51.022723560466
     }, 
     {
       "b": 50.995085995746, 
@@ -235,10 +244,10 @@
       "t": 50.995802914211
     }, 
     {
-      "b": 51.001998710742, 
+      "b": 51.002008310391, 
       "l": 4.986381344756, 
       "name": "Ernest Claesstraat", 
-      "numOfAddr": 134, 
+      "numOfAddr": 130, 
       "r": 4.992027668032, 
       "sanName": "ernestclaesstraat", 
       "t": 51.015849693707
@@ -283,7 +292,7 @@
       "b": 50.998964026205, 
       "l": 4.97118874586, 
       "name": "Hamerstraat", 
-      "numOfAddr": 17, 
+      "numOfAddr": 16, 
       "r": 4.972418759371, 
       "sanName": "hamerstraat", 
       "t": 51.002997963797
@@ -367,10 +376,10 @@
       "b": 51.00917606404, 
       "l": 4.991973660021, 
       "name": "Hoornblaas", 
-      "numOfAddr": 120, 
+      "numOfAddr": 121, 
       "r": 5.015198626432, 
       "sanName": "hoornblaas", 
-      "t": 51.021465168243
+      "t": 51.029423651998
     }, 
     {
       "b": 50.979341799248, 
@@ -467,7 +476,7 @@
       "l": 4.955851324634, 
       "name": "Konijntjesstraat", 
       "numOfAddr": 6, 
-      "r": 4.95707115988, 
+      "r": 4.95709520546, 
       "sanName": "konijntjesstraat", 
       "t": 50.99689976766
     }, 
@@ -500,7 +509,7 @@
     }, 
     {
       "b": 51.031901336262, 
-      "l": 4.943512450696, 
+      "l": 4.943515943774, 
       "name": "Langestraat", 
       "numOfAddr": 56, 
       "r": 4.960058902213, 
@@ -553,7 +562,7 @@
       "b": 50.982781031359, 
       "l": 4.938214858472, 
       "name": "Lobbensestraat", 
-      "numOfAddr": 209, 
+      "numOfAddr": 208, 
       "otherPCs": [
         "3272"
       ], 
@@ -617,7 +626,7 @@
       "b": 51.018863224328, 
       "l": 4.995481931899, 
       "name": "Molenvijver", 
-      "numOfAddr": 22, 
+      "numOfAddr": 21, 
       "r": 5.006949151705, 
       "sanName": "molenvijver", 
       "t": 51.022188416521
@@ -644,7 +653,7 @@
       "b": 51.019216113084, 
       "l": 4.978947200965, 
       "name": "Mortelbroekstraat", 
-      "numOfAddr": 44, 
+      "numOfAddr": 43, 
       "r": 4.984150827649, 
       "sanName": "mortelbroekstraat", 
       "t": 51.02340990664
@@ -728,7 +737,7 @@
       "b": 51.022793236079, 
       "l": 5.003816592448, 
       "name": "Pastoor Brissacstraat", 
-      "numOfAddr": 44, 
+      "numOfAddr": 45, 
       "r": 5.014472832324, 
       "sanName": "pastoorbrissacstraat", 
       "t": 51.029471898129
@@ -777,9 +786,9 @@
     }, 
     {
       "b": 51.027700623366, 
-      "l": 4.978582407574, 
+      "l": 4.978564489553, 
       "name": "Prelaatstraat", 
-      "numOfAddr": 23, 
+      "numOfAddr": 26, 
       "r": 4.980198453552, 
       "sanName": "prelaatstraat", 
       "t": 51.028634229264
@@ -815,10 +824,19 @@
       "b": 51.000478994502, 
       "l": 4.971791002135, 
       "name": "Reyndersveldweg", 
-      "numOfAddr": 32, 
+      "numOfAddr": 33, 
       "r": 4.978989708621, 
       "sanName": "reyndersveldweg", 
       "t": 51.00156971606
+    }, 
+    {
+      "b": 51.02622049674, 
+      "l": 4.978260820553, 
+      "name": "Roskam", 
+      "numOfAddr": 10, 
+      "r": 4.978804185291, 
+      "sanName": "roskam", 
+      "t": 51.026504079206
     }, 
     {
       "b": 50.996255655307, 
@@ -890,7 +908,7 @@
       "b": 51.014183781179, 
       "l": 5.003729533681, 
       "name": "Steenweg Molenstede", 
-      "numOfAddr": 13, 
+      "numOfAddr": 12, 
       "r": 5.007099369955, 
       "sanName": "steenwegmolenstede", 
       "t": 51.015473499548
@@ -965,7 +983,7 @@
       "b": 51.019161595601, 
       "l": 5.009210851874, 
       "name": "Turnhoutsebaan", 
-      "numOfAddr": 100, 
+      "numOfAddr": 101, 
       "r": 5.019837943344, 
       "sanName": "turnhoutsebaan", 
       "t": 51.038421933624
@@ -1010,7 +1028,7 @@
       "b": 50.98255765149, 
       "l": 5.0016402754, 
       "name": "Vinkenberg", 
-      "numOfAddr": 15, 
+      "numOfAddr": 14, 
       "r": 5.010895572455, 
       "sanName": "vinkenberg", 
       "t": 50.987050780691
@@ -1031,11 +1049,11 @@
       "b": 51.016618386077, 
       "l": 4.992334811719, 
       "name": "Vorststraat", 
-      "numOfAddr": 158, 
+      "numOfAddr": 159, 
       "otherPCs": [
         "3270"
       ], 
-      "r": 5.01049291799, 
+      "r": 5.010515565787, 
       "sanName": "vorststraat", 
       "t": 51.034680674917
     }, 
@@ -1043,7 +1061,7 @@
       "b": 50.979043430559, 
       "l": 4.949351368332, 
       "name": "Vossekotstraat", 
-      "numOfAddr": 125, 
+      "numOfAddr": 126, 
       "otherPCs": [
         "3270"
       ], 
@@ -1082,7 +1100,7 @@
       "b": 50.993145515641, 
       "l": 4.943678022482, 
       "name": "Weg Messelbroek", 
-      "numOfAddr": 152, 
+      "numOfAddr": 153, 
       "otherPCs": [
         "3272"
       ], 
@@ -1094,7 +1112,7 @@
       "b": 51.016538173408, 
       "l": 4.97759093262, 
       "name": "Westelsebaan", 
-      "numOfAddr": 193, 
+      "numOfAddr": 194, 
       "r": 4.991992570489, 
       "sanName": "westelsebaan", 
       "t": 51.030265922833
@@ -1121,7 +1139,7 @@
       "b": 50.998648575619, 
       "l": 4.982853103373, 
       "name": "Wijk\"De Stad\"", 
-      "numOfAddr": 24, 
+      "numOfAddr": 25, 
       "r": 4.98469179738, 
       "sanName": "wijkdestad", 
       "t": 51.000157921849
@@ -1157,7 +1175,7 @@
       "b": 51.023536646274, 
       "l": 4.976546008355, 
       "name": "Zandstraat", 
-      "numOfAddr": 91, 
+      "numOfAddr": 90, 
       "r": 4.982817038041, 
       "sanName": "zandstraat", 
       "t": 51.028763494183

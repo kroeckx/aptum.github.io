@@ -335,9 +335,6 @@
       "street": "Jacob Jordaensstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1033,14 +1030,6 @@
       "street": "Jacob Jordaensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1050,6 +1039,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Jacob Jordaensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "72A"
+      ], 
+      "housenumber": "72A", 
+      "lat": 51.208907711978, 
+      "lon": 4.414809504442, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Jacob Jordaensstraat"
     }, 
     {
@@ -1215,11 +1216,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.208820708635, 
-      "lon": 4.414110680657, 
+      "lat": 51.20879165281, 
+      "lon": 4.414170179765, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jacob Jordaensstraat"
     }, 
     {

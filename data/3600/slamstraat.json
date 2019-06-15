@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.01495607127, 
-      "lon": 5.513360082366, 
+      "lat": 51.014959707646, 
+      "lon": 5.513476040355, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Slamstraat"
     }, 
     {
@@ -31,18 +31,6 @@
       "housenumber": "11", 
       "lat": 51.015199099545, 
       "lon": 5.512081768077, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Slamstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "11B"
-      ], 
-      "housenumber": "11B", 
-      "lat": 51.014677140566, 
-      "lon": 5.512349211446, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -89,8 +77,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.014786929249, 
-      "lon": 5.510459231118, 
+      "lat": 51.014801370842, 
+      "lon": 5.510481103875, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +89,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.014476189662, 
-      "lon": 5.511916745091, 
+      "lat": 51.014477548811, 
+      "lon": 5.511924901861, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -118,6 +106,18 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Slamstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.014677140566, 
+      "lon": 5.512349211446, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Slamstraat"
     }
   ]

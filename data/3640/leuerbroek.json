@@ -140,8 +140,8 @@
         "1037"
       ], 
       "housenumber": "1037", 
-      "lat": 51.137291458612, 
-      "lon": 5.749508862421, 
+      "lat": 51.137292252402, 
+      "lon": 5.74951017201, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -367,6 +367,22 @@
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
+      "street": "Leuerbroek"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "2036"
+      ], 
+      "housenumber": "2036", 
+      "lat": 51.13498085111, 
+      "lon": 5.751376172443, 
+      "municipality": "Kinrooi", 
+      "pcode": "3640", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leuerbroek"
     }
   ]

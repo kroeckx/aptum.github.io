@@ -70,8 +70,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.182930116654, 
-      "lon": 4.383988341032, 
+      "lat": 51.182927689639, 
+      "lon": 4.383989198302, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -222,8 +222,10 @@
       "street": "VIIde-Olympiadelaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "117"
@@ -400,8 +402,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.183308197205, 
-      "lon": 4.383123929294, 
+      "lat": 51.18330666892, 
+      "lon": 4.383125788028, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -430,8 +432,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.183339576133, 
-      "lon": 4.383053145714, 
+      "lat": 51.183341463522, 
+      "lon": 4.383054719514, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -913,43 +915,44 @@
       "street": "VIIde-Olympiadelaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "24"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.184003103106, 
-      "lon": 4.387958217164, 
+      "lat": 51.183938461519, 
+      "lon": 4.388042142007, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "VIIde-Olympiadelaan"
     }, 
     {
       "hnrlbls": [
-        "22-24"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.184003103106, 
-      "lon": 4.387958217164, 
+      "lat": 51.183913933695, 
+      "lon": 4.387978058831, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "VIIde-Olympiadelaan"
     }, 
     {
       "hnrlbls": [
-        "25-40"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.182608934525, 
-      "lon": 4.387717499897, 
+      "lat": 51.182567770676, 
+      "lon": 4.387696030271, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "VIIde-Olympiadelaan"
     }, 
     {
@@ -1411,6 +1414,11 @@
       "street": "VIIde-Olympiadelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "63"
       ], 

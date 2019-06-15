@@ -69,11 +69,9 @@
       "street": "Benoitstraat (Peter)"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "busnrs": [
         "00/1", 
+        "01/1", 
         "02/1"
       ], 
       "hnrlbls": [
@@ -89,11 +87,11 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2"
+        "1"
       ], 
       "busnrs": [
-        "00/1"
+        "00/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "15"
@@ -222,9 +220,6 @@
       "street": "Benoitstraat (Peter)"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "busnrs": [
         "00/1"
       ], 
@@ -244,20 +239,18 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.931067647568, 
-      "lon": 4.430147603874, 
+      "lat": 50.931059023187, 
+      "lon": 4.430137492806, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Benoitstraat (Peter)"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "2"
-      ], 
       "busnrs": [
+        "00/1", 
         "01/1", 
+        "02/1", 
         "03/1"
       ], 
       "hnrlbls": [
@@ -285,15 +278,13 @@
     }, 
     {
       "apptnrs": [
-        "0/1", 
-        "0/2", 
         "1/1", 
         "1/2", 
         "2/1", 
         "2/2"
       ], 
       "busnrs": [
-        "O/01", 
+        "00/1", 
         "O/02"
       ], 
       "hnrlbls": [
@@ -362,10 +353,8 @@
       "street": "Benoitstraat (Peter)"
     }, 
     {
-      "apptnrs": [
-        "0"
-      ], 
       "busnrs": [
+        "00/1", 
         "01/1"
       ], 
       "hnrlbls": [
@@ -440,9 +429,8 @@
       "street": "Benoitstraat (Peter)"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "42"
@@ -456,10 +444,6 @@
       "street": "Benoitstraat (Peter)"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
-      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -472,11 +456,6 @@
       "street": "Benoitstraat (Peter)"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "44"
       ], 

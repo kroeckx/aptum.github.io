@@ -222,15 +222,25 @@
       "street": "Bretheistraat"
     }, 
     {
+      "busnrs": [
+        "BU09", 
+        "BU10", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU14", 
+        "BU15", 
+        "BU16"
+      ], 
       "hnrlbls": [
-        "124-128"
+        "124"
       ], 
       "housenumber": "124", 
-      "lat": 50.971191819599, 
-      "lon": 5.512384120049, 
+      "lat": 50.971223264625, 
+      "lon": 5.512358545972, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bretheistraat"
     }, 
     {
@@ -256,14 +266,14 @@
         "BU02"
       ], 
       "hnrlbls": [
-        "124-128"
+        "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.971191819599, 
-      "lon": 5.512384120049, 
+      "lat": 50.971178915014, 
+      "lon": 5.512407583712, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bretheistraat"
     }, 
     {
@@ -291,17 +301,18 @@
         "BU04", 
         "BU05", 
         "BU06", 
-        "BU07"
+        "BU07", 
+        "BU08"
       ], 
       "hnrlbls": [
-        "124-128"
+        "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.971191819599, 
-      "lon": 5.512384120049, 
+      "lat": 50.971182648837, 
+      "lon": 5.51254123411, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bretheistraat"
     }, 
     {
@@ -484,6 +495,18 @@
       "housenumber": "144", 
       "lat": 50.968980984209, 
       "lon": 5.515386924487, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bretheistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "145"
+      ], 
+      "housenumber": "145", 
+      "lat": 50.969167532678, 
+      "lon": 5.515976392102, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

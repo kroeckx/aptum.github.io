@@ -43,11 +43,11 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "103"
@@ -939,6 +939,27 @@
       "housenumber": "169", 
       "lat": 51.127808809446, 
       "lon": 3.014769148141, 
+      "municipality": "Ichtegem", 
+      "pcode": "8480", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0401"
+      ], 
+      "hnrlbls": [
+        "2-170"
+      ], 
+      "housenumber": "170", 
+      "lat": 51.128466423283, 
+      "lon": 3.015739782252, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanGebouw", 
@@ -3240,8 +3261,8 @@
         "348"
       ], 
       "housenumber": "348", 
-      "lat": 51.12298228554, 
-      "lon": 3.003658543971, 
+      "lat": 51.122981461827, 
+      "lon": 3.003657282312, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3315,8 +3336,8 @@
         "350"
       ], 
       "housenumber": "350", 
-      "lat": 51.122867827371, 
-      "lon": 3.003618600829, 
+      "lat": 51.122866076178, 
+      "lon": 3.003622651955, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3351,8 +3372,8 @@
         "352"
       ], 
       "housenumber": "352", 
-      "lat": 51.122805931783, 
-      "lon": 3.003568265755, 
+      "lat": 51.122805409068, 
+      "lon": 3.003569709585, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3530,8 +3551,8 @@
         "364"
       ], 
       "housenumber": "364", 
-      "lat": 51.122336413887, 
-      "lon": 3.003292124574, 
+      "lat": 51.122335083979, 
+      "lon": 3.003293734825, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3554,8 +3575,8 @@
         "366"
       ], 
       "housenumber": "366", 
-      "lat": 51.122197782894, 
-      "lon": 3.003159890622, 
+      "lat": 51.122197046744, 
+      "lon": 3.00316619773, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3602,8 +3623,8 @@
         "368B"
       ], 
       "housenumber": "368B", 
-      "lat": 51.122003077887, 
-      "lon": 3.002913298187, 
+      "lat": 51.122004262749, 
+      "lon": 3.002914692109, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3626,8 +3647,8 @@
         "370"
       ], 
       "housenumber": "370", 
-      "lat": 51.121820378701, 
-      "lon": 3.00284963796, 
+      "lat": 51.121820711115, 
+      "lon": 3.002855056679, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3638,8 +3659,8 @@
         "370A"
       ], 
       "housenumber": "370A", 
-      "lat": 51.121744251181, 
-      "lon": 3.002781435661, 
+      "lat": 51.121746445096, 
+      "lon": 3.002776800251, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3650,8 +3671,8 @@
         "370B"
       ], 
       "housenumber": "370B", 
-      "lat": 51.121682449635, 
-      "lon": 3.002715957723, 
+      "lat": 51.121686398017, 
+      "lon": 3.002707556868, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3662,8 +3683,8 @@
         "370C"
       ], 
       "housenumber": "370C", 
-      "lat": 51.121608565113, 
-      "lon": 3.002631833631, 
+      "lat": 51.12160994191, 
+      "lon": 3.002626507841, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3674,8 +3695,8 @@
         "372"
       ], 
       "housenumber": "372", 
-      "lat": 51.121506232947, 
-      "lon": 3.002482257614, 
+      "lat": 51.121500815829, 
+      "lon": 3.00248027315, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4777,11 +4798,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.129099058441, 
-      "lon": 3.019832274424, 
+      "lat": 51.12915991866, 
+      "lon": 3.019800514191, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

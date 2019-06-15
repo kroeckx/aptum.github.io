@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.135492051336, 
+      "lon": 3.867061395844, 
+      "municipality": "Lochristi", 
+      "pcode": "9080", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Valkenburg"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -86,14 +98,14 @@
     }, 
     {
       "hnrlbls": [
-        "5-7"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.099730962838, 
-      "lon": 3.854909275858, 
+      "lat": 51.135681210319, 
+      "lon": 3.866899775843, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
-      "source": "afgeleidVanGemeente", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Valkenburg"
     }, 
     {
@@ -110,14 +122,14 @@
     }, 
     {
       "hnrlbls": [
-        "5-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.099730962838, 
-      "lon": 3.854909275858, 
+      "lat": 51.135738408216, 
+      "lon": 3.866843012287, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
-      "source": "afgeleidVanGemeente", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Valkenburg"
     }, 
     {

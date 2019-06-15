@@ -1219,38 +1219,38 @@
     }, 
     {
       "hnrlbls": [
-        "239-239B"
+        "239"
       ], 
       "housenumber": "239", 
-      "lat": 51.044790891136, 
-      "lon": 3.730709918317, 
+      "lat": 51.04494453769, 
+      "lon": 3.730613852741, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hofstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
-        "239-239B"
+        "239A"
       ], 
       "housenumber": "239A", 
-      "lat": 51.044790891136, 
-      "lon": 3.730709918317, 
+      "lat": 51.044807890067, 
+      "lon": 3.73069499909, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Hofstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "239-239B"
-      ], 
-      "housenumber": "239B", 
-      "lat": 51.044790891136, 
-      "lon": 3.730709918317, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hofstraat"
     }, 
     {
@@ -1459,7 +1459,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26A", 
       "lat": 51.045913971429, 
@@ -1471,7 +1471,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26B", 
       "lat": 51.045913971429, 
@@ -1483,7 +1483,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26C", 
       "lat": 51.045913971429, 
@@ -1495,7 +1495,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26D", 
       "lat": 51.045913971429, 
@@ -1507,7 +1507,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26F", 
       "lat": 51.045913971429, 
@@ -1519,7 +1519,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26G", 
       "lat": 51.045913971429, 
@@ -1531,7 +1531,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26J", 
       "lat": 51.045913971429, 
@@ -1543,7 +1543,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26K", 
       "lat": 51.045913971429, 
@@ -1555,7 +1555,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26L", 
       "lat": 51.045913971429, 
@@ -1567,7 +1567,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26M", 
       "lat": 51.045913971429, 
@@ -1579,7 +1579,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26N", 
       "lat": 51.045913971429, 
@@ -1591,7 +1591,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26P", 
       "lat": 51.045913971429, 
@@ -1603,7 +1603,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26Q", 
       "lat": 51.045913971429, 
@@ -1615,7 +1615,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26R", 
       "lat": 51.045913971429, 
@@ -1627,7 +1627,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26S", 
       "lat": 51.045913971429, 
@@ -1639,7 +1639,7 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26T", 
       "lat": 51.045913971429, 
@@ -1651,9 +1651,21 @@
     }, 
     {
       "hnrlbls": [
-        "26A-26V"
+        "26A-26W"
       ], 
       "housenumber": "26V", 
+      "lat": 51.045913971429, 
+      "lon": 3.729739328016, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "26A-26W"
+      ], 
+      "housenumber": "26W", 
       "lat": 51.045913971429, 
       "lon": 3.729739328016, 
       "municipality": "Gent", 

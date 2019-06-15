@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-48"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.876740481289, 
@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "2-6"
       ], 
       "housenumber": "2", 
       "lat": 50.876648875119, 
@@ -29,23 +29,23 @@
         "3-5"
       ], 
       "housenumber": "3", 
-      "lat": 50.877000094772, 
-      "lon": 4.689568844221, 
+      "lat": 50.877030966793, 
+      "lon": 4.68948934506, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grasmushof"
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "2-6"
       ], 
       "housenumber": "4", 
-      "lat": 50.876590188651, 
-      "lon": 4.689234696637, 
+      "lat": 50.876648875119, 
+      "lon": 4.689240212926, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grasmushof"
     }, 
     {
@@ -53,23 +53,23 @@
         "3-5"
       ], 
       "housenumber": "5", 
-      "lat": 50.877000094772, 
-      "lon": 4.689568844221, 
+      "lat": 50.877030966793, 
+      "lon": 4.68948934506, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grasmushof"
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "2-6"
       ], 
       "housenumber": "6", 
-      "lat": 50.876590188651, 
-      "lon": 4.689234696637, 
+      "lat": 50.876648875119, 
+      "lon": 4.689240212926, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grasmushof"
     }
   ]

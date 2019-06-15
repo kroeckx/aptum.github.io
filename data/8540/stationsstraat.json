@@ -529,6 +529,10 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "152"
       ], 
@@ -538,6 +542,18 @@
       "municipality": "Deerlijk", 
       "pcode": "8540", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "154"
+      ], 
+      "housenumber": "154", 
+      "lat": 50.845834565518, 
+      "lon": 3.350338923094, 
+      "municipality": "Deerlijk", 
+      "pcode": "8540", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {

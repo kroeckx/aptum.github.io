@@ -422,6 +422,18 @@
     }, 
     {
       "hnrlbls": [
+        "36D"
+      ], 
+      "housenumber": "36D", 
+      "lat": 51.195888889357, 
+      "lon": 3.504403199504, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "36E"
       ], 
       "housenumber": "36E", 
@@ -689,8 +701,20 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.197292403525, 
-      "lon": 3.500801321508, 
+      "lat": 51.197301356148, 
+      "lon": 3.500747360689, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.197283451928, 
+      "lon": 3.500855425356, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
@@ -701,11 +725,11 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.197676032079, 
-      "lon": 3.501079616793, 
+      "lat": 51.197614679659, 
+      "lon": 3.501085478367, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenstraat"
     }, 
     {

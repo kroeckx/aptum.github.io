@@ -57,11 +57,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.057285699686, 
-      "lon": 4.358777384371, 
+      "lat": 51.057281395822, 
+      "lon": 4.358915738572, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -563,21 +563,9 @@
         "5"
       ], 
       "hnrlbls": [
-        "140-144"
+        "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.056350413392, 
-      "lon": 4.357831936466, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Overwinningsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "140-144"
-      ], 
-      "housenumber": "142", 
       "lat": 51.056350413392, 
       "lon": 4.357831936466, 
       "municipality": "Willebroek", 
@@ -595,18 +583,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Overwinningsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "140-144"
-      ], 
-      "housenumber": "144", 
-      "lat": 51.056350413392, 
-      "lon": 4.357831936466, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -696,18 +672,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Overwinningsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "150A"
-      ], 
-      "housenumber": "150A", 
-      "lat": 51.056186605824, 
-      "lon": 4.357500074634, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -895,11 +859,11 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.056244833331, 
-      "lon": 4.358301779989, 
+      "lat": 51.056235016311, 
+      "lon": 4.35807400332, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -1114,11 +1078,11 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 51.055548378057, 
-      "lon": 4.356401419985, 
+      "lat": 51.055752613685, 
+      "lon": 4.356473538694, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -1215,11 +1179,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.059123273375, 
-      "lon": 4.360896619464, 
+      "lat": 51.059143723999, 
+      "lon": 4.36020453679, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -1327,14 +1291,14 @@
     }, 
     {
       "hnrlbls": [
-        "37-41"
+        "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.059031526405, 
-      "lon": 4.359970059328, 
+      "lat": 51.059073412143, 
+      "lon": 4.359931825161, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -1351,17 +1315,21 @@
     }, 
     {
       "hnrlbls": [
-        "37-41"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.059031526405, 
-      "lon": 4.359970059328, 
+      "lat": 51.059037725351, 
+      "lon": 4.359920562985, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -1392,14 +1360,14 @@
         "301"
       ], 
       "hnrlbls": [
-        "37-41"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.059031526405, 
-      "lon": 4.359970059328, 
+      "lat": 51.059002127855, 
+      "lon": 4.359900742557, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -1523,7 +1491,7 @@
         "302"
       ], 
       "hnrlbls": [
-        "50-50C"
+        "50"
       ], 
       "housenumber": "50", 
       "lat": 51.058633994686, 
@@ -1531,18 +1499,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Overwinningsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "50-50C"
-      ], 
-      "housenumber": "50C", 
-      "lat": 51.058633994686, 
-      "lon": 4.359385033387, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -2125,11 +2081,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.057699196253, 
-      "lon": 4.358853896576, 
+      "lat": 51.057646628624, 
+      "lon": 4.359081692507, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {
@@ -2161,11 +2117,11 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.057652633033, 
-      "lon": 4.358846346165, 
+      "lat": 51.057600064558, 
+      "lon": 4.359062873848, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overwinningsstraat"
     }, 
     {

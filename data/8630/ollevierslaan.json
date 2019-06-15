@@ -161,11 +161,23 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.077055215787, 
-      "lon": 2.661365320229, 
+      "lat": 51.076979565023, 
+      "lon": 2.661375360271, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ollevierslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 51.076999767005, 
+      "lon": 2.661292695903, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ollevierslaan"
     }, 
     {
@@ -398,6 +410,18 @@
     }, 
     {
       "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 51.076886685832, 
+      "lon": 2.660891184667, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ollevierslaan"
+    }, 
+    {
+      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
@@ -413,11 +437,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.076960598949, 
-      "lon": 2.660835676399, 
+      "lat": 51.076900881993, 
+      "lon": 2.660803601214, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ollevierslaan"
     }, 
     {

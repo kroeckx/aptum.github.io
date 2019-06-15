@@ -41,11 +41,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.192720912505, 
-      "lon": 3.487263480571, 
+      "lat": 51.192748121511, 
+      "lon": 3.487078853157, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verbranden Bos"
     }, 
     {
@@ -53,11 +53,11 @@
         "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 51.192748121511, 
-      "lon": 3.487078853157, 
+      "lat": 51.192940746705, 
+      "lon": 3.487053185002, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Verbranden Bos"
     }, 
     {
@@ -329,8 +329,8 @@
         "4B"
       ], 
       "housenumber": "4B", 
-      "lat": 51.191931574642, 
-      "lon": 3.49081553467, 
+      "lat": 51.191919184428, 
+      "lon": 3.490793308177, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
@@ -382,6 +382,18 @@
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Verbranden Bos"
+    }, 
+    {
+      "hnrlbls": [
+        "6C"
+      ], 
+      "housenumber": "6C", 
+      "lat": 51.192129142891, 
+      "lon": 3.489869948743, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Verbranden Bos"
     }, 
     {

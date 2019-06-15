@@ -503,6 +503,27 @@
       "street": "Vijfhoekstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "21", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.8690088261, 
+      "lon": 4.081115470463, 
+      "municipality": "Liedekerke", 
+      "pcode": "1770", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vijfhoekstraat"
+    }, 
+    {
       "hnrlbls": [
         "28"
       ], 
@@ -710,8 +731,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.867606955741, 
-      "lon": 4.081981065111, 
+      "lat": 50.867613454427, 
+      "lon": 4.081991821922, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
       "source": "afgeleidVanGebouw", 

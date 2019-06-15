@@ -13,6 +13,13 @@
       "street": "Booischotseweg"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -65,8 +72,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.06881070161, 
-      "lon": 4.786607076169, 
+      "lat": 51.068814092301, 
+      "lon": 4.786588844778, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 
@@ -427,8 +434,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.062790628132, 
-      "lon": 4.781597943852, 
+      "lat": 51.062797424276, 
+      "lon": 4.781582454924, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 
@@ -571,8 +578,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.066381231999, 
-      "lon": 4.785416651989, 
+      "lat": 51.06637001887, 
+      "lon": 4.785359344389, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 
@@ -894,8 +901,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.072967529777, 
-      "lon": 4.788819462715, 
+      "lat": 51.072967785686, 
+      "lon": 4.788823317442, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 
@@ -962,8 +969,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.072738503431, 
-      "lon": 4.788614081221, 
+      "lat": 51.072746800331, 
+      "lon": 4.788631705669, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 
@@ -1423,7 +1430,8 @@
     {
       "apptnrs": [
         "0/1", 
-        "1/1"
+        "1/1", 
+        "2/1"
       ], 
       "hnrlbls": [
         "8"

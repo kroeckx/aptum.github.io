@@ -756,14 +756,14 @@
     }, 
     {
       "hnrlbls": [
-        "163"
+        "132-163"
       ], 
       "housenumber": "163", 
-      "lat": 51.062351108439, 
-      "lon": 4.353245069345, 
+      "lat": 51.059971711079, 
+      "lon": 4.352994347494, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jozef Wautersstraat"
     }, 
     {
@@ -852,7 +852,7 @@
     }, 
     {
       "hnrlbls": [
-        "26-26J"
+        "26"
       ], 
       "housenumber": "26", 
       "lat": 51.065460626661, 
@@ -860,18 +860,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jozef Wautersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26-26J"
-      ], 
-      "housenumber": "26J", 
-      "lat": 51.065460626661, 
-      "lon": 4.354629001286, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jozef Wautersstraat"
     }, 
     {
@@ -1259,18 +1247,6 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.064386719384, 
-      "lon": 4.35383658142, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef Wautersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "56C"
-      ], 
-      "housenumber": "56C", 
       "lat": 51.064352378151, 
       "lon": 4.353806634547, 
       "municipality": "Willebroek", 

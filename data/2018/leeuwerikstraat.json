@@ -239,10 +239,10 @@
       "street": "Leeuwerikstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "26"
@@ -681,6 +681,11 @@
       "street": "Leeuwerikstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "62"
       ], 

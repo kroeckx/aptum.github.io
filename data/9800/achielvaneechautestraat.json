@@ -11,8 +11,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.978646791849, 
-      "lon": 3.532583259783, 
+      "lat": 50.978564382085, 
+      "lon": 3.532359164216, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -47,8 +47,8 @@
         "11A"
       ], 
       "housenumber": "11A", 
-      "lat": 50.978833434069, 
-      "lon": 3.533180444838, 
+      "lat": 50.978833525976, 
+      "lon": 3.533180728006, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -103,8 +103,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.978992101001, 
-      "lon": 3.533446190923, 
+      "lat": 50.97900318724, 
+      "lon": 3.533437591734, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -223,8 +223,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.978730612623, 
-      "lon": 3.532752933303, 
+      "lat": 50.978646791849, 
+      "lon": 3.532583259783, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -382,11 +382,27 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.978539280035, 
-      "lon": 3.533039722458, 
+      "lat": 50.978730612623, 
+      "lon": 3.532752933303, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Achiel Van Eechautestraat"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.978772226621, 
+      "lon": 3.532853012632, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Achiel Van Eechautestraat"
     }, 
     {

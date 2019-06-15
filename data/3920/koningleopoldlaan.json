@@ -73,8 +73,10 @@
       "street": "Koning Leopoldlaan"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "busnrs": [
-        "1", 
         "101", 
         "102"
       ], 
@@ -87,6 +89,23 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Koning Leopoldlaan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
+      "lat": 51.230181553315, 
+      "lon": 5.32595173076, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Koning Leopoldlaan"
     }, 
     {

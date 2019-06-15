@@ -285,6 +285,11 @@
       "street": "Bosuil"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -590,11 +595,11 @@
         "138D-193"
       ], 
       "housenumber": "138D", 
-      "lat": 51.229026625913, 
-      "lon": 4.464741795853, 
+      "lat": 51.229019800619, 
+      "lon": 4.464734623806, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bosuil"
     }, 
     {
@@ -686,11 +691,11 @@
         "138D-193"
       ], 
       "housenumber": "193", 
-      "lat": 51.229026625913, 
-      "lon": 4.464741795853, 
+      "lat": 51.229019800619, 
+      "lon": 4.464734623806, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bosuil"
     }, 
     {

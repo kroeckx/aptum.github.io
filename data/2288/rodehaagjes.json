@@ -2,26 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "3"
+        "1"
       ], 
-      "housenumber": "3", 
-      "lat": 51.169526138989, 
-      "lon": 4.744098187752, 
+      "housenumber": "1", 
+      "lat": 51.169547240025, 
+      "lon": 4.744415624069, 
       "municipality": "Grobbendonk", 
       "pcode": "2288", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rode Haagjes"
-    }, 
-    {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.169534943939, 
-      "lon": 4.744381639352, 
-      "municipality": "Grobbendonk", 
-      "pcode": "2288", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Rode Haagjes"
     }
   ]

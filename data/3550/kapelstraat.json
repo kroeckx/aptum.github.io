@@ -1038,8 +1038,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.034802189449, 
-      "lon": 5.281041815525, 
+      "lat": 51.034801737822, 
+      "lon": 5.281042091866, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -1131,11 +1131,23 @@
     }, 
     {
       "hnrlbls": [
-        "67"
+        "67_1"
       ], 
-      "housenumber": "67", 
-      "lat": 51.032732889047, 
-      "lon": 5.266710433296, 
+      "housenumber": "67_1", 
+      "lat": 51.03282228305, 
+      "lon": 5.266740947985, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kapelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "67_2"
+      ], 
+      "housenumber": "67_2", 
+      "lat": 51.032820167033, 
+      "lon": 5.266582371503, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 

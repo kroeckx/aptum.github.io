@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.118303593299, 
+      "lon": 4.6630891062, 
+      "municipality": "Berlaar", 
+      "pcode": "2590", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Sollevelden"
+    }, 
+    {
+      "hnrlbls": [
         "108"
       ], 
       "housenumber": "108", 
@@ -374,14 +386,14 @@
     }, 
     {
       "hnrlbls": [
-        "3B"
+        "3B-24"
       ], 
       "housenumber": "3B", 
-      "lat": 51.118100426502, 
-      "lon": 4.661980690247, 
+      "lat": 51.118440298867, 
+      "lon": 4.661978400442, 
       "municipality": "Berlaar", 
       "pcode": "2590", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sollevelden"
     }, 
     {

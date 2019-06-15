@@ -377,12 +377,15 @@
       "street": "Houtmarkt"
     }, 
     {
+      "busnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.934449457024, 
-      "lon": 4.044324119546, 
+      "lat": 50.934491205447, 
+      "lon": 4.044468368039, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 

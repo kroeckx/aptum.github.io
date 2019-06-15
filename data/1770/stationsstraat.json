@@ -303,8 +303,8 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.874228877672, 
-      "lon": 4.087856852278, 
+      "lat": 50.874230758996, 
+      "lon": 4.087854141583, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
       "source": "afgeleidVanGebouw", 
@@ -1464,11 +1464,11 @@
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 50.876162893359, 
-      "lon": 4.091615215601, 
+      "lat": 50.876143691237, 
+      "lon": 4.091630247347, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -2303,15 +2303,19 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "317"
       ], 
       "housenumber": "317", 
-      "lat": 50.879070350527, 
-      "lon": 4.0930626494, 
+      "lat": 50.87905826482, 
+      "lon": 4.093045669096, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {

@@ -1566,24 +1566,30 @@
       "street": "Roeselarestraat"
     }, 
     {
+      "apptnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 50.817393011019, 
-      "lon": 3.178485753737, 
+      "lat": 50.817406835921, 
+      "lon": 3.178483701, 
       "municipality": "Wevelgem", 
       "pcode": "8560", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Roeselarestraat"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "227A"
       ], 
       "housenumber": "227A", 
-      "lat": 50.817416007001, 
-      "lon": 3.178483752892, 
+      "lat": 50.817427868005, 
+      "lon": 3.178474227894, 
       "municipality": "Wevelgem", 
       "pcode": "8560", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3256,18 +3262,6 @@
     }, 
     {
       "hnrlbls": [
-        "383"
-      ], 
-      "housenumber": "383", 
-      "lat": 50.822912066988, 
-      "lon": 3.174833139037, 
-      "municipality": "Wevelgem", 
-      "pcode": "8560", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Roeselarestraat"
-    }, 
-    {
-      "hnrlbls": [
         "385"
       ], 
       "housenumber": "385", 
@@ -4102,9 +4096,11 @@
     {
       "apptnrs": [
         "0001", 
+        "0101", 
         "0102", 
         "0201", 
-        "0202"
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "91"

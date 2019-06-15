@@ -1524,11 +1524,35 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 50.963917633929, 
-      "lon": 3.647401701827, 
+      "lat": 50.963888202388, 
+      "lon": 3.647263927541, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "190A"
+      ], 
+      "housenumber": "190A", 
+      "lat": 50.963925649769, 
+      "lon": 3.647316165594, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "190B"
+      ], 
+      "housenumber": "190B", 
+      "lat": 50.963977230425, 
+      "lon": 3.647386265605, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Steenweg"
     }, 
     {
@@ -1620,8 +1644,8 @@
         "196A"
       ], 
       "housenumber": "196A", 
-      "lat": 50.965501637748, 
-      "lon": 3.647377639816, 
+      "lat": 50.965496945263, 
+      "lon": 3.647374722387, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1632,8 +1656,20 @@
         "196B"
       ], 
       "housenumber": "196B", 
-      "lat": 50.965798696761, 
-      "lon": 3.6471791784, 
+      "lat": 50.96579314292, 
+      "lon": 3.647167732573, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "196C"
+      ], 
+      "housenumber": "196C", 
+      "lat": 50.965505374523, 
+      "lon": 3.648237151078, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1740,8 +1776,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 50.965039124647, 
-      "lon": 3.650052403136, 
+      "lat": 50.96503806164, 
+      "lon": 3.650054981865, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1776,8 +1812,8 @@
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 50.96353224, 
-      "lon": 3.648075264773, 
+      "lat": 50.963531528743, 
+      "lon": 3.648076556879, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3180,8 +3216,8 @@
         "312"
       ], 
       "housenumber": "312", 
-      "lat": 50.973325837012, 
-      "lon": 3.666164876397, 
+      "lat": 50.97333091661, 
+      "lon": 3.666172489038, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3192,8 +3228,8 @@
         "313"
       ], 
       "housenumber": "313", 
-      "lat": 50.969017836102, 
-      "lon": 3.663157024093, 
+      "lat": 50.969015879051, 
+      "lon": 3.663160470404, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3204,8 +3240,8 @@
         "315"
       ], 
       "housenumber": "315", 
-      "lat": 50.969160729911, 
-      "lon": 3.663510232756, 
+      "lat": 50.969155280019, 
+      "lon": 3.663515867112, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3698,6 +3734,54 @@
       "housenumber": "53", 
       "lat": 50.95246531799, 
       "lon": 3.641813421544, 
+      "municipality": "Nazareth", 
+      "pcode": "9810", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Steenweg"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0110", 
+        "0111", 
+        "0112", 
+        "0113", 
+        "0114", 
+        "0115", 
+        "0116", 
+        "0117", 
+        "0118"
+      ], 
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.955323837987, 
+      "lon": 3.640808148284, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanGebouw", 

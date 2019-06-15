@@ -84,17 +84,21 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.20747928509, 
-      "lon": 4.388513841291, 
+      "lat": 51.207479093738, 
+      "lon": 4.388580664992, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Gijzelaarsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "15"
@@ -354,8 +358,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.207021237478, 
-      "lon": 4.388496469589, 
+      "lat": 51.207020338931, 
+      "lon": 4.388494752113, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -397,8 +401,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.206977735952, 
-      "lon": 4.388481998429, 
+      "lat": 51.206976387291, 
+      "lon": 4.38848428728, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -421,8 +425,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.206931986426, 
-      "lon": 4.388472677551, 
+      "lat": 51.206931896344, 
+      "lon": 4.388473822231, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -445,8 +449,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.206887136038, 
-      "lon": 4.388461640007, 
+      "lat": 51.206886955998, 
+      "lon": 4.388463213916, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -511,11 +515,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.206811995757, 
-      "lon": 4.388444007121, 
+      "lat": 51.206788536854, 
+      "lon": 4.388438702557, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gijzelaarsstraat"
     }, 
     {
@@ -627,11 +631,11 @@
     }, 
     {
       "hnrlbls": [
-        "46-50"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.206596191995, 
-      "lon": 4.388394117864, 
+      "lat": 51.206624684007, 
+      "lon": 4.388401857092, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -651,14 +655,14 @@
     }, 
     {
       "hnrlbls": [
-        "48"
+        "48-50"
       ], 
       "housenumber": "48", 
-      "lat": 51.206600057391, 
-      "lon": 4.388391973216, 
+      "lat": 51.206569048247, 
+      "lon": 4.388386379234, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gijzelaarsstraat"
     }, 
     {
@@ -699,20 +703,17 @@
         "402"
       ], 
       "hnrlbls": [
-        "46-50"
+        "48-50"
       ], 
       "housenumber": "50", 
-      "lat": 51.206596191995, 
-      "lon": 4.388394117864, 
+      "lat": 51.206569048247, 
+      "lon": 4.388386379234, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
       "street": "Gijzelaarsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -834,8 +835,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.207666847109, 
-      "lon": 4.388666889102, 
+      "lat": 51.207665855611, 
+      "lon": 4.388682771897, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

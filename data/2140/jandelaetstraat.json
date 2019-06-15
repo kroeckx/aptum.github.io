@@ -216,6 +216,12 @@
       "street": "Jan De Laetstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -276,9 +282,6 @@
       "street": "Jan De Laetstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "29"
       ], 

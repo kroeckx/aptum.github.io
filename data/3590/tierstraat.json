@@ -137,11 +137,23 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.891133568992, 
-      "lon": 5.400680674717, 
+      "lat": 50.891083597755, 
+      "lon": 5.401128600187, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Tierstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "34A"
+      ], 
+      "housenumber": "34A", 
+      "lat": 50.891003074426, 
+      "lon": 5.400951568879, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Tierstraat"
     }, 
     {
@@ -161,11 +173,23 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.89111329927, 
-      "lon": 5.400511649349, 
+      "lat": 50.890916323606, 
+      "lon": 5.400787478184, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Tierstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36A"
+      ], 
+      "housenumber": "36A", 
+      "lat": 50.890868635391, 
+      "lon": 5.400608042974, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Tierstraat"
     }, 
     {
@@ -329,8 +353,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.889762057273, 
-      "lon": 5.39424780541, 
+      "lat": 50.889766461659, 
+      "lon": 5.394247901653, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "afgeleidVanGebouw", 

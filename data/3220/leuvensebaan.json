@@ -2094,6 +2094,18 @@
     }, 
     {
       "hnrlbls": [
+        "290A"
+      ], 
+      "housenumber": "290A", 
+      "lat": 50.911156628957, 
+      "lon": 4.725389757075, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Leuvensebaan"
+    }, 
+    {
+      "hnrlbls": [
         "291"
       ], 
       "housenumber": "291", 
@@ -2874,8 +2886,8 @@
         "352"
       ], 
       "housenumber": "352", 
-      "lat": 50.909016602122, 
-      "lon": 4.721138818021, 
+      "lat": 50.909017413291, 
+      "lon": 4.721138113205, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3270,11 +3282,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.917390927689, 
-      "lon": 4.747396413671, 
+      "lat": 50.91724148757, 
+      "lon": 4.747574388751, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Leuvensebaan"
     }, 
     {

@@ -1,14 +1,10 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "busnrs": [
         "1", 
         "2", 
-        "3", 
-        "GLV"
+        "3"
       ], 
       "hnrlbls": [
         "117"
@@ -225,6 +221,16 @@
       "street": "Plantin en Moretuslei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
         "139"
       ], 
@@ -698,9 +704,6 @@
       "street": "Plantin en Moretuslei"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
       "busnrs": [
         "1", 
         "10", 

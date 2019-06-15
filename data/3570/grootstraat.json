@@ -100,6 +100,21 @@
       "street": "Grootstraat"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
+      "hnrlbls": [
+        "112"
+      ], 
+      "housenumber": "112", 
+      "lat": 50.879420475802, 
+      "lon": 5.326703215728, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grootstraat"
+    }, 
+    {
       "hnrlbls": [
         "113"
       ], 
@@ -176,8 +191,8 @@
         "119A"
       ], 
       "housenumber": "119A", 
-      "lat": 50.880261772469, 
-      "lon": 5.326087158586, 
+      "lat": 50.88026150049, 
+      "lon": 5.326087437252, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -224,8 +239,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.879781633567, 
-      "lon": 5.326535370815, 
+      "lat": 50.879774531351, 
+      "lon": 5.326535367998, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -344,11 +359,11 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 50.88010672052, 
-      "lon": 5.329338085702, 
+      "lat": 50.88029046208, 
+      "lon": 5.329592664454, 
       "municipality": "Alken", 
       "pcode": "3570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Grootstraat"
     }, 
     {
@@ -512,8 +527,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.879880189592, 
-      "lon": 5.33342083286, 
+      "lat": 50.8798826959, 
+      "lon": 5.33342216332, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -652,6 +667,9 @@
       "street": "Grootstraat"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "164"
       ], 
@@ -920,8 +938,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.878488696919, 
-      "lon": 5.31191179757, 
+      "lat": 50.878490124827, 
+      "lon": 5.311913105169, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1160,8 +1178,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.878488747138, 
-      "lon": 5.312006153579, 
+      "lat": 50.878487023285, 
+      "lon": 5.31200810835, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1429,8 +1447,8 @@
         "236"
       ], 
       "housenumber": "236", 
-      "lat": 50.880418402639, 
-      "lon": 5.344897972895, 
+      "lat": 50.880411974586, 
+      "lon": 5.344914181581, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1501,8 +1519,8 @@
         "244"
       ], 
       "housenumber": "244", 
-      "lat": 50.880601778121, 
-      "lon": 5.346185449171, 
+      "lat": 50.880604009888, 
+      "lon": 5.346187343051, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1530,6 +1548,21 @@
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grootstraat"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "247A"
+      ], 
+      "housenumber": "247A", 
+      "lat": 50.882182647945, 
+      "lon": 5.346817802512, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grootstraat"
     }, 
     {
@@ -2034,8 +2067,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.878390633841, 
-      "lon": 5.318226344615, 
+      "lat": 50.878391241194, 
+      "lon": 5.318229056814, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -2098,8 +2131,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.878557503468, 
-      "lon": 5.318946336725, 
+      "lat": 50.878539301411, 
+      "lon": 5.318951510208, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -2374,8 +2407,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.87886015504, 
-      "lon": 5.323313865646, 
+      "lat": 50.878861223274, 
+      "lon": 5.323315166291, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -2446,8 +2479,8 @@
         "89A"
       ], 
       "housenumber": "89A", 
-      "lat": 50.8791711647, 
-      "lon": 5.322026908931, 
+      "lat": 50.879171782359, 
+      "lon": 5.322028342507, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -2458,8 +2491,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.878264214081, 
-      "lon": 5.310670020495, 
+      "lat": 50.878308791219, 
+      "lon": 5.310671767613, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -2482,8 +2515,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.879166096891, 
-      "lon": 5.322130541346, 
+      "lat": 50.879165907877, 
+      "lon": 5.322131674332, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -2578,6 +2611,18 @@
         "97A-97C"
       ], 
       "housenumber": "97B", 
+      "lat": 50.879304844321, 
+      "lon": 5.322823414691, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grootstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "97A-97C"
+      ], 
+      "housenumber": "97C", 
       "lat": 50.879304844321, 
       "lon": 5.322823414691, 
       "municipality": "Alken", 

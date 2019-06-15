@@ -197,11 +197,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.301893309029, 
-      "lon": 4.53284450072, 
+      "lat": 51.301919963777, 
+      "lon": 4.532808606132, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heibos"
     }, 
     {
@@ -233,11 +233,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.301815208346, 
-      "lon": 4.533806460615, 
+      "lat": 51.301934412137, 
+      "lon": 4.533662642467, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heibos"
     }, 
     {
@@ -266,14 +266,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-9"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.301262077088, 
-      "lon": 4.532777458101, 
+      "lat": 51.30121353944, 
+      "lon": 4.533037091101, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heibos"
     }, 
     {
@@ -290,14 +290,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-9"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.301262077088, 
-      "lon": 4.532777458101, 
+      "lat": 51.30110179913, 
+      "lon": 4.533050029366, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heibos"
     }
   ]

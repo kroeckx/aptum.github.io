@@ -905,6 +905,26 @@
       "street": "Koninginlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 51.315050456423, 
+      "lon": 3.134195501111, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koninginlaan"
+    }, 
+    {
       "hnrlbls": [
         "31"
       ], 
@@ -962,9 +982,6 @@
       "street": "Koninginlaan"
     }, 
     {
-      "apptnrs": [
-        "-102"
-      ], 
       "hnrlbls": [
         "35"
       ], 

@@ -627,15 +627,28 @@
       "street": "Lange Vesting"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "2"
+        "2-12"
       ], 
       "housenumber": "2", 
-      "lat": 51.204462553741, 
-      "lon": 3.210777163277, 
+      "lat": 51.204704167929, 
+      "lon": 3.210811379438, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Vesting"
     }, 
     {
@@ -1112,11 +1125,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.205038741033, 
-      "lon": 3.210653536898, 
+      "lat": 51.205039818114, 
+      "lon": 3.210653367068, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Vesting"
     }, 
     {
@@ -1354,6 +1367,23 @@
       "housenumber": "79", 
       "lat": 51.208376225422, 
       "lon": 3.211244479938, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lange Vesting"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.205101513842, 
+      "lon": 3.210757158924, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 

@@ -10,8 +10,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.221369088033, 
-      "lon": 4.421334035417, 
+      "lat": 51.221377626738, 
+      "lon": 4.42133461771, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -30,6 +30,11 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -640,11 +645,10 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "14"
@@ -953,6 +957,10 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "159"
       ], 
@@ -997,26 +1005,14 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "161-163"
@@ -1166,10 +1162,6 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "16", 
-        "21"
-      ], 
       "hnrlbls": [
         "169-171"
       ], 
@@ -1194,20 +1186,15 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4", 
-        "6"
-      ], 
       "hnrlbls": [
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.2214781639, 
-      "lon": 4.429224169416, 
+      "lat": 51.221318022577, 
+      "lon": 4.429336462771, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Beeldekensstraat"
     }, 
     {
@@ -1230,35 +1217,23 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 51.221368398328, 
-      "lon": 4.429431140736, 
+      "lat": 51.22132131295, 
+      "lon": 4.429404598945, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Beeldekensstraat"
     }, 
     {
       "hnrlbls": [
-        "175A-175B"
+        "175A"
       ], 
       "housenumber": "175A", 
-      "lat": 51.221383497397, 
-      "lon": 4.429433880162, 
+      "lat": 51.221316982111, 
+      "lon": 4.42943622589, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Beeldekensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "175A-175B"
-      ], 
-      "housenumber": "175B", 
-      "lat": 51.221383497397, 
-      "lon": 4.429433880162, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Beeldekensstraat"
     }, 
     {
@@ -1296,8 +1271,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "178"
@@ -1995,11 +1972,11 @@
         "223"
       ], 
       "housenumber": "223", 
-      "lat": 51.221592562821, 
-      "lon": 4.431486138338, 
+      "lat": 51.221592922433, 
+      "lon": 4.431485995692, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lange Beeldekensstraat"
     }, 
     {
@@ -2029,11 +2006,11 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.221527387831, 
-      "lon": 4.431670550406, 
+      "lat": 51.221679106101, 
+      "lon": 4.431513881165, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lange Beeldekensstraat"
     }, 
     {
@@ -2621,9 +2598,6 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -2762,8 +2736,10 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "288"
@@ -2993,12 +2969,6 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
         "314"
       ], 
@@ -3451,9 +3421,6 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -3581,18 +3548,6 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
-      "hnrlbls": [
-        "30A-78"
-      ], 
-      "housenumber": "74", 
-      "lat": 51.221293780662, 
-      "lon": 4.424779472118, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Beeldekensstraat"
-    }, 
-    {
       "apptnrs": [
         "101", 
         "201"
@@ -3609,8 +3564,14 @@
       "street": "Lange Beeldekensstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "30A-78"
+        "76-78"
       ], 
       "housenumber": "76", 
       "lat": 51.221293780662, 
@@ -3637,7 +3598,7 @@
     }, 
     {
       "hnrlbls": [
-        "30A-78"
+        "76-78"
       ], 
       "housenumber": "78", 
       "lat": 51.221293780662, 

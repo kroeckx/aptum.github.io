@@ -239,8 +239,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.128179416502, 
-      "lon": 5.661832807066, 
+      "lat": 51.128181802363, 
+      "lon": 5.661836587769, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -263,11 +263,35 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.1288844359, 
-      "lon": 5.661068389998, 
+      "lat": 51.128858971184, 
+      "lon": 5.661021251649, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Poststraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.128865141585, 
+      "lon": 5.661147293084, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Poststraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 51.128930860523, 
+      "lon": 5.661122537808, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Poststraat"
     }, 
     {

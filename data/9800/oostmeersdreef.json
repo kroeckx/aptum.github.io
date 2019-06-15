@@ -341,11 +341,11 @@
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.983264591111, 
-      "lon": 3.540167765352, 
+      "lat": 50.983138611198, 
+      "lon": 3.540175687333, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostmeersdreef"
     }, 
     {
@@ -353,11 +353,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.983264560839, 
-      "lon": 3.540278423065, 
+      "lat": 50.983177720662, 
+      "lon": 3.540304025088, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostmeersdreef"
     }, 
     {
@@ -461,8 +461,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.983178772464, 
-      "lon": 3.540772981292, 
+      "lat": 50.983180858868, 
+      "lon": 3.540775650361, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -679,18 +679,6 @@
     }, 
     {
       "hnrlbls": [
-        "21B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 50.982951250826, 
-      "lon": 3.534179478323, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oostmeersdreef"
-    }, 
-    {
-      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -706,11 +694,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.982947043894, 
-      "lon": 3.534308866079, 
+      "lat": 50.982951250826, 
+      "lon": 3.534179478323, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostmeersdreef"
     }, 
     {
@@ -730,8 +718,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.982944497349, 
-      "lon": 3.534406180884, 
+      "lat": 50.982947917571, 
+      "lon": 3.534292615216, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -754,11 +742,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.982947587367, 
-      "lon": 3.534487017693, 
+      "lat": 50.982944497349, 
+      "lon": 3.534406180884, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oostmeersdreef"
     }, 
     {
@@ -790,8 +778,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.983006027311, 
-      "lon": 3.533347083304, 
+      "lat": 50.983009434887, 
+      "lon": 3.533345883293, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -862,8 +850,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.983235480806, 
-      "lon": 3.534594548348, 
+      "lat": 50.983226928537, 
+      "lon": 3.534592849029, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1226,8 +1214,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.983181001763, 
-      "lon": 3.536804813073, 
+      "lat": 50.983174873425, 
+      "lon": 3.536802643114, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1394,30 +1382,18 @@
       "street": "Oostmeersdreef"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
       ], 
       "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.983283012393, 
-      "lon": 3.538444206268, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oostmeersdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "86"
-      ], 
-      "housenumber": "86", 
-      "lat": 50.983116404664, 
-      "lon": 3.538389192303, 
+      "lat": 50.983151039369, 
+      "lon": 3.538456369024, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1434,18 +1410,6 @@
       "housenumber": "87", 
       "lat": 50.982857298352, 
       "lon": 3.537774417364, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oostmeersdreef"
-    }, 
-    {
-      "hnrlbls": [
-        "88"
-      ], 
-      "housenumber": "88", 
-      "lat": 50.98317485158, 
-      "lon": 3.538518610432, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1480,8 +1444,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.983192084475, 
-      "lon": 3.538616714697, 
+      "lat": 50.983144244111, 
+      "lon": 3.538614570625, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

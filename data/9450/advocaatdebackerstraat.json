@@ -1,15 +1,23 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.872518801955, 
-      "lon": 4.018779386393, 
+      "lat": 50.872509230043, 
+      "lon": 4.019006632168, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Advocaat de Backerstraat"
     }, 
     {
@@ -934,11 +942,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.872381362439, 
-      "lon": 4.018782965484, 
+      "lat": 50.872379379293, 
+      "lon": 4.019053060118, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Advocaat de Backerstraat"
     }, 
     {

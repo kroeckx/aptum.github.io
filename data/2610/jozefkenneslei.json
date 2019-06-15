@@ -206,11 +206,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.174104673763, 
-      "lon": 4.392669212508, 
+      "lat": 51.174185036945, 
+      "lon": 4.392642515834, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jozef Kenneslei"
     }, 
     {
@@ -319,8 +319,10 @@
       "street": "Jozef Kenneslei"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "32"

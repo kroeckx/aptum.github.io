@@ -263,7 +263,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-40"
+        "40"
       ], 
       "housenumber": "40", 
       "lat": 51.128287700286, 
@@ -326,11 +326,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.12759431336, 
-      "lon": 2.76208790214, 
+      "lat": 51.127057404664, 
+      "lon": 2.760782301785, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Toevluchtweg"
     }, 
     {
@@ -442,18 +442,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Toevluchtweg"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-40"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.128287700286, 
-      "lon": 2.763020663245, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Toevluchtweg"
     }
   ]

@@ -37,6 +37,10 @@
       "street": "Pas"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "101"
       ], 
@@ -2861,15 +2865,21 @@
       "street": "Pas"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "259"
       ], 
       "housenumber": "259", 
-      "lat": 51.15513033254, 
-      "lon": 4.980575015947, 
+      "lat": 51.155133764409, 
+      "lon": 4.980571916372, 
       "municipality": "Geel", 
       "pcode": "2440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pas"
     }, 
     {
@@ -2937,21 +2947,6 @@
       "street": "Pas"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "266"
-      ], 
-      "housenumber": "266", 
-      "lat": 51.152831344424, 
-      "lon": 4.976084904396, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Pas"
-    }, 
-    {
       "hnrlbls": [
         "267"
       ], 
@@ -2961,21 +2956,6 @@
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
-      "street": "Pas"
-    }, 
-    {
-      "apptnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "268"
-      ], 
-      "housenumber": "268", 
-      "lat": 51.15280317216, 
-      "lon": 4.97598734595, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Pas"
     }, 
     {
@@ -3003,21 +2983,6 @@
       "street": "Pas"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "270"
-      ], 
-      "housenumber": "270", 
-      "lat": 51.152773728319, 
-      "lon": 4.975909781098, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Pas"
-    }, 
-    {
       "hnrlbls": [
         "271"
       ], 
@@ -3027,21 +2992,6 @@
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
-      "street": "Pas"
-    }, 
-    {
-      "apptnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "272"
-      ], 
-      "housenumber": "272", 
-      "lat": 51.152748270311, 
-      "lon": 4.975843702516, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Pas"
     }, 
     {
@@ -3067,39 +3017,6 @@
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
-      "street": "Pas"
-    }, 
-    {
-      "apptnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "18", 
-        "19", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "274"
-      ], 
-      "housenumber": "274", 
-      "lat": 51.152714020633, 
-      "lon": 4.975774222232, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Pas"
     }, 
     {
@@ -3313,6 +3230,9 @@
       "street": "Pas"
     }, 
     {
+      "apptnrs": [
+        "11"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -3321,7 +3241,7 @@
       "lon": 4.990171788257, 
       "municipality": "Geel", 
       "pcode": "2440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pas"
     }, 
     {
@@ -3616,18 +3536,6 @@
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Pas"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.159622915617, 
-      "lon": 4.990097950431, 
-      "municipality": "Geel", 
-      "pcode": "2440", 
-      "source": "afgeleidVanGebouw", 
       "street": "Pas"
     }, 
     {

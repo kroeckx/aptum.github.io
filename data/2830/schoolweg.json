@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.062391822591, 
@@ -134,14 +134,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.062391822591, 
-      "lon": 4.359543674311, 
+      "lat": 51.062983076119, 
+      "lon": 4.359047288386, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schoolweg"
     }, 
     {
@@ -233,11 +233,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.061117290853, 
-      "lon": 4.358454391359, 
+      "lat": 51.061148375451, 
+      "lon": 4.358247551025, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolweg"
     }, 
     {
@@ -245,11 +245,35 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.061178778922, 
-      "lon": 4.358502307186, 
+      "lat": 51.061225235697, 
+      "lon": 4.35830815875, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schoolweg"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.061275307821, 
+      "lon": 4.358355078351, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schoolweg"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.061294381184, 
+      "lon": 4.358562051637, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolweg"
     }, 
     {
@@ -282,11 +306,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.061333017103, 
-      "lon": 4.358360629523, 
+      "lat": 51.061354223577, 
+      "lon": 4.358271614814, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolweg"
     }, 
     {

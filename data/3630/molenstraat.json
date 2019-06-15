@@ -38,18 +38,6 @@
     }, 
     {
       "hnrlbls": [
-        "102-104"
-      ], 
-      "housenumber": "102", 
-      "lat": 51.000524215884, 
-      "lon": 5.738603837439, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
@@ -113,11 +101,11 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.000495063864, 
-      "lon": 5.739215379522, 
+      "lat": 51.000445109731, 
+      "lon": 5.739112184165, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -269,11 +257,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.999517171185, 
-      "lon": 5.744741943663, 
+      "lat": 50.9995543977, 
+      "lon": 5.744649285081, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -317,11 +305,11 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.999374606948, 
-      "lon": 5.745039243007, 
+      "lat": 50.999471438026, 
+      "lon": 5.745031403054, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -329,11 +317,11 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.999381783982, 
-      "lon": 5.745524457721, 
+      "lat": 50.999508726501, 
+      "lon": 5.745601710361, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -677,11 +665,11 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 50.999784042881, 
-      "lon": 5.745975984142, 
+      "lat": 50.999689758198, 
+      "lon": 5.745919922899, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -689,11 +677,11 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.999666073058, 
-      "lon": 5.746276427243, 
+      "lat": 50.999643788616, 
+      "lon": 5.746167913258, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -1208,11 +1196,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.000679405794, 
-      "lon": 5.733886452348, 
+      "lat": 51.000694523776, 
+      "lon": 5.733807814424, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -1268,11 +1256,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.000344758908, 
-      "lon": 5.734793716855, 
+      "lat": 51.000267801059, 
+      "lon": 5.734778078278, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -1452,7 +1440,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "81-81_1"
+        "81"
       ], 
       "housenumber": "81", 
       "lat": 50.999993851798, 
@@ -1479,18 +1467,6 @@
     }, 
     {
       "hnrlbls": [
-        "81-81_1"
-      ], 
-      "housenumber": "81_1", 
-      "lat": 50.999993851798, 
-      "lon": 5.740432468495, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
@@ -1503,7 +1479,7 @@
     }, 
     {
       "hnrlbls": [
-        "83-83B"
+        "83"
       ], 
       "housenumber": "83", 
       "lat": 50.99988955587, 
@@ -1520,18 +1496,6 @@
       "housenumber": "83A", 
       "lat": 50.999858203556, 
       "lon": 5.740993292729, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "83-83B"
-      ], 
-      "housenumber": "83B", 
-      "lat": 50.99988955587, 
-      "lon": 5.74084132844, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -1611,7 +1575,7 @@
     }, 
     {
       "busnrs": [
-        "0"
+        "1"
       ], 
       "hnrlbls": [
         "89A"

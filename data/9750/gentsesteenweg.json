@@ -50,6 +50,18 @@
     }, 
     {
       "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 50.907683650002, 
+      "lon": 3.615951197901, 
+      "municipality": "Kruisem", 
+      "pcode": "9750", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gentsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -88,10 +100,8 @@
       "street": "Gentsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0101"
-      ], 
       "busnrs": [
+        "0101", 
         "1", 
         "2", 
         "3", 
@@ -507,7 +517,7 @@
       "lon": 3.616088999266, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -657,7 +667,7 @@
       "lon": 3.61859799369, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -717,7 +727,7 @@
       "lon": 3.617759475048, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Gentsesteenweg"
     }, 
     {

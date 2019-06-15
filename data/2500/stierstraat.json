@@ -1,0 +1,79 @@
+{
+  "addresses": [
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.144992636947, 
+      "lon": 4.565820673483, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stierstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.145231534639, 
+      "lon": 4.566476173479, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Stierstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.14549339029, 
+      "lon": 4.567001022527, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Stierstraat"
+    }
+  ]
+}

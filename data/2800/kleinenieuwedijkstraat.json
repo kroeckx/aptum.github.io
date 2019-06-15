@@ -428,8 +428,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.038462066478, 
-      "lon": 4.492940236256, 
+      "lat": 51.038475016794, 
+      "lon": 4.492934425219, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -712,6 +712,22 @@
       "street": "Kleine Nieuwedijkstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "184"
+      ], 
+      "housenumber": "184", 
+      "lat": 51.038887554354, 
+      "lon": 4.4943370524, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kleine Nieuwedijkstraat"
+    }, 
+    {
       "hnrlbls": [
         "19"
       ], 
@@ -812,7 +828,7 @@
         "201"
       ], 
       "hnrlbls": [
-        "184-260"
+        "260"
       ], 
       "housenumber": "260", 
       "lat": 51.037484449083, 

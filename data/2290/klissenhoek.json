@@ -593,11 +593,23 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.216471566155, 
-      "lon": 4.759318551205, 
+      "lat": 51.216427215887, 
+      "lon": 4.759248192898, 
       "municipality": "Vorselaar", 
       "pcode": "2290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Klissenhoek"
+    }, 
+    {
+      "hnrlbls": [
+        "60A"
+      ], 
+      "housenumber": "60A", 
+      "lat": 51.216491442378, 
+      "lon": 4.75923356083, 
+      "municipality": "Vorselaar", 
+      "pcode": "2290", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Klissenhoek"
     }, 
     {

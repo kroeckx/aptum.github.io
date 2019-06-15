@@ -221,7 +221,8 @@
       "apptnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "25A-25C"
@@ -706,6 +707,18 @@
       "housenumber": "61A", 
       "lat": 50.887208535301, 
       "lon": 3.422630870893, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Westerlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "61B"
+      ], 
+      "housenumber": "61B", 
+      "lat": 50.887191278446, 
+      "lon": 3.422542104468, 
       "municipality": "Waregem", 
       "pcode": "8790", 
       "source": "manueleAanduidingVanGebouw", 

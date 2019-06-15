@@ -41,8 +41,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.843838922491, 
-      "lon": 5.258908628889, 
+      "lat": 50.843831289872, 
+      "lon": 5.258919275858, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -406,6 +406,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Startelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "47A"
+      ], 
+      "housenumber": "47A", 
+      "lat": 50.845919546471, 
+      "lon": 5.262389175704, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Startelstraat"
     }, 
     {

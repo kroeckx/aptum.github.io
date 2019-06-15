@@ -41,11 +41,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.059316316031, 
-      "lon": 4.517399244033, 
+      "lat": 51.059304018591, 
+      "lon": 4.517385511464, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vestinglaan"
     }, 
     {
@@ -125,11 +125,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.060632623391, 
-      "lon": 4.516500088207, 
+      "lat": 51.060785353761, 
+      "lon": 4.516564762203, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Vestinglaan"
     }, 
     {
@@ -401,8 +401,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.060193745732, 
-      "lon": 4.516957573563, 
+      "lat": 51.060192845941, 
+      "lon": 4.516958283907, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 

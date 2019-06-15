@@ -168,6 +168,13 @@
       "street": "Processieweg"
     }, 
     {
+      "apptnrs": [
+        "1V1", 
+        "1V2", 
+        "2V", 
+        "GV1", 
+        "GV2"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -177,18 +184,6 @@
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
-      "street": "Processieweg"
-    }, 
-    {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.3479732285, 
-      "lon": 4.676784670875, 
-      "municipality": "Brecht", 
-      "pcode": "2960", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Processieweg"
     }, 
     {

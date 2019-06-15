@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.987961606517, 
-      "lon": 5.704036937183, 
+      "lat": 50.987787827306, 
+      "lon": 5.703798659744, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanPerceel", 
@@ -34,41 +34,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nijverheidslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "15-17"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.988012900569, 
-      "lon": 5.702836880122, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Nijverheidslaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "K1"
-      ], 
-      "hnrlbls": [
-        "15-17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.988012900569, 
-      "lon": 5.702836880122, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Nijverheidslaan"
     }, 
     {
@@ -195,18 +160,6 @@
       "hnrlbls": [
         "36-38"
       ], 
-      "housenumber": "36", 
-      "lat": 50.988987365435, 
-      "lon": 5.699721535872, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nijverheidslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "36-38"
-      ], 
       "housenumber": "38", 
       "lat": 50.988987365435, 
       "lon": 5.699721535872, 
@@ -292,6 +245,18 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Nijverheidslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.98808190493, 
+      "lon": 5.703624855605, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nijverheidslaan"
     }
   ]

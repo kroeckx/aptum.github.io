@@ -536,6 +536,13 @@
       "street": "Posterijstraat"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -544,7 +551,7 @@
       "lon": 3.409621756275, 
       "municipality": "Waregem", 
       "pcode": "8793", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Posterijstraat"
     }, 
     {
@@ -557,6 +564,18 @@
       "municipality": "Waregem", 
       "pcode": "8793", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Posterijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.903962609245, 
+      "lon": 3.409480233555, 
+      "municipality": "Waregem", 
+      "pcode": "8793", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Posterijstraat"
     }, 
     {

@@ -590,18 +590,6 @@
     }, 
     {
       "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.921003063867, 
-      "lon": 3.260035240355, 
-      "municipality": "Ingelmunster", 
-      "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Bollewerpstraat"
-    }, 
-    {
-      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
@@ -614,26 +602,14 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "2-4"
       ], 
       "housenumber": "2", 
-      "lat": 50.920359516976, 
-      "lon": 3.25770061836, 
+      "lat": 50.920294423907, 
+      "lon": 3.257690779901, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Bollewerpstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.920921754449, 
-      "lon": 3.260488894489, 
-      "municipality": "Ingelmunster", 
-      "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bollewerpstraat"
     }, 
     {
@@ -650,35 +626,11 @@
     }, 
     {
       "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.921086425519, 
-      "lon": 3.260209073675, 
-      "municipality": "Ingelmunster", 
-      "pcode": "8770", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Bollewerpstraat"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 50.921034637985, 
       "lon": 3.259055924197, 
-      "municipality": "Ingelmunster", 
-      "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Bollewerpstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.921135773074, 
-      "lon": 3.259998397462, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "manueleAanduidingVanPerceel", 
@@ -878,6 +830,18 @@
     }, 
     {
       "hnrlbls": [
+        "2-4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.920294423907, 
+      "lon": 3.257690779901, 
+      "municipality": "Ingelmunster", 
+      "pcode": "8770", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bollewerpstraat"
+    }, 
+    {
+      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -989,8 +953,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.921587570438, 
-      "lon": 3.260430936463, 
+      "lat": 50.921618434056, 
+      "lon": 3.260395644695, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -1001,8 +965,8 @@
         "49A"
       ], 
       "housenumber": "49A", 
-      "lat": 50.921620912763, 
-      "lon": 3.260496431415, 
+      "lat": 50.921648760643, 
+      "lon": 3.260455948113, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -1138,6 +1102,18 @@
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Bollewerpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.920784254193, 
+      "lon": 3.259046053177, 
+      "municipality": "Ingelmunster", 
+      "pcode": "8770", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Bollewerpstraat"
     }, 
     {
@@ -1394,6 +1370,18 @@
     }, 
     {
       "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.920822963693, 
+      "lon": 3.25914669312, 
+      "municipality": "Ingelmunster", 
+      "pcode": "8770", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bollewerpstraat"
+    }, 
+    {
+      "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
@@ -1589,8 +1577,8 @@
         "92B"
       ], 
       "housenumber": "92B", 
-      "lat": 50.920972120821, 
-      "lon": 3.261435410144, 
+      "lat": 50.920957857847, 
+      "lon": 3.261515112947, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 

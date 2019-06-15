@@ -105,18 +105,6 @@
     }, 
     {
       "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.218364030259, 
-      "lon": 4.325507396458, 
-      "municipality": "Zwijndrecht", 
-      "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Adrien Van Roeyenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -128,15 +116,12 @@
       "street": "Adrien Van Roeyenstraat"
     }, 
     {
-      "apptnrs": [
-        "V2"
-      ], 
       "hnrlbls": [
-        "18"
+        "18B"
       ], 
-      "housenumber": "18", 
-      "lat": 51.218324874924, 
-      "lon": 4.325602180884, 
+      "housenumber": "18B", 
+      "lat": 51.218343165798, 
+      "lon": 4.325475784878, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "manueleAanduidingVanGebouw", 
@@ -179,14 +164,15 @@
     }, 
     {
       "apptnrs": [
-        "V2"
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.218297152487, 
-      "lon": 4.325496007499, 
+      "lat": 51.218329324754, 
+      "lon": 4.325478803141, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "manueleAanduidingVanGebouw", 
@@ -214,8 +200,32 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.218235504722, 
-      "lon": 4.325531129306, 
+      "lat": 51.218306674723, 
+      "lon": 4.325480827572, 
+      "municipality": "Zwijndrecht", 
+      "pcode": "2070", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Adrien Van Roeyenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 51.21827081572, 
+      "lon": 4.325493884667, 
+      "municipality": "Zwijndrecht", 
+      "pcode": "2070", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Adrien Van Roeyenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 51.218236843557, 
+      "lon": 4.325504936275, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "manueleAanduidingVanGebouw", 
@@ -229,8 +239,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.218184447736, 
-      "lon": 4.325273981167, 
+      "lat": 51.218175251061, 
+      "lon": 4.325195271152, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -253,8 +263,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.218095527167, 
-      "lon": 4.325204075012, 
+      "lat": 51.218097955382, 
+      "lon": 4.32520779401, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -282,8 +292,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.21804351587, 
-      "lon": 4.325291142237, 
+      "lat": 51.218040090752, 
+      "lon": 4.325264810554, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -294,8 +304,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.217991751721, 
-      "lon": 4.32531609327, 
+      "lat": 51.217985006958, 
+      "lon": 4.325306510153, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 

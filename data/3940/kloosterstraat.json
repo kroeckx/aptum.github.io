@@ -116,15 +116,19 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.12699280449, 
-      "lon": 5.362953015505, 
+      "lat": 51.126999318991, 
+      "lon": 5.362980011521, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -134,6 +138,30 @@
       "housenumber": "23", 
       "lat": 51.12706404388, 
       "lon": 5.360781374819, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 51.127037981772, 
+      "lon": 5.362552546377, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "24B"
+      ], 
+      "housenumber": "24B", 
+      "lat": 51.12704026552, 
+      "lon": 5.362654881362, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
       "source": "afgeleidVanGebouw", 

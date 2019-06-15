@@ -368,21 +368,6 @@
       "street": "Kruibekesteenweg"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "12b"
-      ], 
-      "housenumber": "12b", 
-      "lat": 51.207751244331, 
-      "lon": 4.259066911929, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
-      "street": "Kruibekesteenweg"
-    }, 
-    {
       "hnrlbls": [
         "13"
       ], 
@@ -459,8 +444,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.204531644818, 
-      "lon": 4.262402396, 
+      "lat": 51.204523011316, 
+      "lon": 4.262397264579, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -483,8 +468,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.204519300217, 
-      "lon": 4.262368370284, 
+      "lat": 51.204497859431, 
+      "lon": 4.262414920715, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1169,6 +1154,18 @@
     }, 
     {
       "hnrlbls": [
+        "184"
+      ], 
+      "housenumber": "184", 
+      "lat": 51.201695983912, 
+      "lon": 4.264453060296, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kruibekesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "185"
       ], 
       "housenumber": "185", 
@@ -1596,7 +1593,7 @@
       "lon": 4.263556876674, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kruibekesteenweg"
     }, 
     {

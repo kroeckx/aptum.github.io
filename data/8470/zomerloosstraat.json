@@ -182,18 +182,6 @@
     }, 
     {
       "hnrlbls": [
-        "23B"
-      ], 
-      "housenumber": "23B", 
-      "lat": 51.159616178439, 
-      "lon": 2.965299813697, 
-      "municipality": "Gistel", 
-      "pcode": "8470", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Zomerloosstraat"
-    }, 
-    {
-      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -209,11 +197,74 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.159760813925, 
-      "lon": 2.965147063971, 
+      "lat": 51.159616178439, 
+      "lon": 2.965299813697, 
       "municipality": "Gistel", 
       "pcode": "8470", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Zomerloosstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 51.159111244545, 
+      "lon": 2.965190173589, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zomerloosstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "25B"
+      ], 
+      "housenumber": "25B", 
+      "lat": 51.159160189039, 
+      "lon": 2.965147956652, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Zomerloosstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "25C"
+      ], 
+      "housenumber": "25C", 
+      "lat": 51.159069429706, 
+      "lon": 2.964924507358, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zomerloosstraat"
     }, 
     {
@@ -223,6 +274,18 @@
       "housenumber": "26", 
       "lat": 51.159269142, 
       "lon": 2.966600682707, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zomerloosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.159760813925, 
+      "lon": 2.965147063971, 
       "municipality": "Gistel", 
       "pcode": "8470", 
       "source": "manueleAanduidingVanGebouw", 

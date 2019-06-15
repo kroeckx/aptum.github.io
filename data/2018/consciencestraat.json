@@ -473,17 +473,23 @@
     }, 
     {
       "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
         "401"
       ], 
       "hnrlbls": [
-        "41-43A"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.207132768623, 
-      "lon": 4.416805842216, 
+      "lat": 51.20728185081, 
+      "lon": 4.416674926636, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Consciencestraat"
     }, 
     {
@@ -500,17 +506,21 @@
     }, 
     {
       "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
         "402"
       ], 
       "hnrlbls": [
-        "41-43A"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.207132768623, 
-      "lon": 4.416805842216, 
+      "lat": 51.207274454926, 
+      "lon": 4.416517804993, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Consciencestraat"
     }, 
     {

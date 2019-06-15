@@ -147,7 +147,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "109-113"
+        "109"
       ], 
       "housenumber": "109", 
       "lat": 50.84304028874, 
@@ -192,11 +192,11 @@
         "7"
       ], 
       "hnrlbls": [
-        "109-113"
+        "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.84304028874, 
-      "lon": 4.027504088394, 
+      "lat": 50.843109442952, 
+      "lon": 4.027574295463, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -244,11 +244,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "109-113"
+        "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.84304028874, 
-      "lon": 4.027504088394, 
+      "lat": 50.843145175296, 
+      "lon": 4.027713181093, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -382,18 +382,6 @@
       "housenumber": "13", 
       "lat": 50.841302789576, 
       "lon": 4.022683156255, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Aalstersesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "130"
-      ], 
-      "housenumber": "130", 
-      "lat": 50.84352072038, 
-      "lon": 4.027420386374, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -717,8 +705,24 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 50.843938137099, 
-      "lon": 4.029759570991, 
+      "lat": 50.843888668273, 
+      "lon": 4.029594796873, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Aalstersesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "161A"
+      ], 
+      "housenumber": "161A", 
+      "lat": 50.843975703671, 
+      "lon": 4.029724939893, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -801,8 +805,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.844127474801, 
-      "lon": 4.02898707672, 
+      "lat": 50.84420648692, 
+      "lon": 4.028984802974, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -861,8 +865,8 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 50.844205604222, 
-      "lon": 4.030236427352, 
+      "lat": 50.844269808985, 
+      "lon": 4.030180590843, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1373,8 +1377,8 @@
         "260-262"
       ], 
       "housenumber": "260", 
-      "lat": 50.845945012361, 
-      "lon": 4.030864171498, 
+      "lat": 50.8459129558, 
+      "lon": 4.031064468793, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1385,8 +1389,8 @@
         "260-262"
       ], 
       "housenumber": "262", 
-      "lat": 50.845945012361, 
-      "lon": 4.030864171498, 
+      "lat": 50.8459129558, 
+      "lon": 4.031064468793, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1397,8 +1401,8 @@
         "264"
       ], 
       "housenumber": "264", 
-      "lat": 50.845975508545, 
-      "lon": 4.030871620347, 
+      "lat": 50.845973609371, 
+      "lon": 4.031086610802, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1568,8 +1572,8 @@
         "275"
       ], 
       "housenumber": "275", 
-      "lat": 50.851492506708, 
-      "lon": 4.034990074085, 
+      "lat": 50.851524714023, 
+      "lon": 4.034872120099, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1736,8 +1740,8 @@
         "298"
       ], 
       "housenumber": "298", 
-      "lat": 50.853038199279, 
-      "lon": 4.029565264649, 
+      "lat": 50.853054756583, 
+      "lon": 4.029570967981, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1817,11 +1821,47 @@
     }, 
     {
       "hnrlbls": [
+        "308"
+      ], 
+      "housenumber": "308", 
+      "lat": 50.85255772521, 
+      "lon": 4.033236624042, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Aalstersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "310"
+      ], 
+      "housenumber": "310", 
+      "lat": 50.852750854849, 
+      "lon": 4.033374279047, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Aalstersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
       "lat": 50.842044776324, 
       "lon": 4.023441420086, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Aalstersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "336"
+      ], 
+      "housenumber": "336", 
+      "lat": 50.8533870405, 
+      "lon": 4.033686868342, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2060,11 +2100,11 @@
         "366"
       ], 
       "housenumber": "366", 
-      "lat": 50.858045632856, 
-      "lon": 4.037976235067, 
+      "lat": 50.85804505461, 
+      "lon": 4.037866592712, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Aalstersesteenweg"
     }, 
     {
@@ -2090,11 +2130,11 @@
         "7"
       ], 
       "hnrlbls": [
-        "37-39"
+        "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.841661849682, 
-      "lon": 4.023819337352, 
+      "lat": 50.841633259963, 
+      "lon": 4.023726550071, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2285,11 +2325,11 @@
         "388"
       ], 
       "housenumber": "388", 
-      "lat": 50.8596571027, 
-      "lon": 4.040220130487, 
+      "lat": 50.859586174406, 
+      "lon": 4.040284256378, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aalstersesteenweg"
     }, 
     {
@@ -2322,17 +2362,18 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4", 
         "5", 
         "6"
       ], 
       "hnrlbls": [
-        "37-39"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.841661849682, 
-      "lon": 4.023819337352, 
+      "lat": 50.84168685814, 
+      "lon": 4.023917120252, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3350,11 +3391,8 @@
       "street": "Aalstersesteenweg"
     }, 
     {
-      "busnrs": [
-        "8"
-      ], 
       "hnrlbls": [
-        "6-8"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 50.841627092225, 
@@ -3614,18 +3652,6 @@
     }, 
     {
       "hnrlbls": [
-        "6-8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.841627092225, 
-      "lon": 4.021723689468, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Aalstersesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
@@ -3798,6 +3824,15 @@
       "street": "Aalstersesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "96"
       ], 

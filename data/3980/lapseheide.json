@@ -62,6 +62,18 @@
     }, 
     {
       "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.0259926556, 
+      "lon": 5.075119979262, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lapseheide"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -77,11 +89,23 @@
         "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.025739160034, 
-      "lon": 5.074355116101, 
+      "lat": 51.025729649498, 
+      "lon": 5.074277144362, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lapseheide"
+    }, 
+    {
+      "hnrlbls": [
+        "18B"
+      ], 
+      "housenumber": "18B", 
+      "lat": 51.025700035831, 
+      "lon": 5.074388451095, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lapseheide"
     }, 
     {

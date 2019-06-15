@@ -557,8 +557,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.841188585402, 
-      "lon": 5.430193690899, 
+      "lat": 50.841187406596, 
+      "lon": 5.430194800196, 
       "municipality": "Kortessem", 
       "pcode": "3724", 
       "source": "afgeleidVanGebouw", 
@@ -733,18 +733,15 @@
       "street": "Leopold III-straat"
     }, 
     {
-      "apptnrs": [
-        "A"
-      ], 
       "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.84151083775, 
-      "lon": 5.430834824898, 
+      "lat": 50.841554647914, 
+      "lon": 5.430851718467, 
       "municipality": "Kortessem", 
       "pcode": "3724", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold III-straat"
     }, 
     {
@@ -752,11 +749,11 @@
         "30A"
       ], 
       "housenumber": "30A", 
-      "lat": 50.841519368272, 
-      "lon": 5.430816132783, 
+      "lat": 50.841523022897, 
+      "lon": 5.430809683759, 
       "municipality": "Kortessem", 
       "pcode": "3724", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold III-straat"
     }, 
     {
@@ -857,11 +854,11 @@
     }, 
     {
       "hnrlbls": [
-        "4-4B"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.839654423832, 
-      "lon": 5.428717298547, 
+      "lat": 50.839654694774, 
+      "lon": 5.428717162674, 
       "municipality": "Kortessem", 
       "pcode": "3724", 
       "source": "afgeleidVanGebouw", 
@@ -1013,7 +1010,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-4B"
+        "4B"
       ], 
       "housenumber": "4B", 
       "lat": 50.839654423832, 
@@ -1204,22 +1201,13 @@
       "street": "Leopold III-straat"
     }, 
     {
+      "apptnrs": [
+        "A"
+      ], 
       "hnrlbls": [
-        "63-63A"
+        "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.842938542479, 
-      "lon": 5.43268579404, 
-      "municipality": "Kortessem", 
-      "pcode": "3724", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leopold III-straat"
-    }, 
-    {
-      "hnrlbls": [
-        "63-63A"
-      ], 
-      "housenumber": "63A", 
       "lat": 50.842938542479, 
       "lon": 5.43268579404, 
       "municipality": "Kortessem", 
@@ -1277,7 +1265,7 @@
     }, 
     {
       "hnrlbls": [
-        "6-6B"
+        "6A-6B"
       ], 
       "housenumber": "6A", 
       "lat": 50.839783595297, 
@@ -1289,7 +1277,7 @@
     }, 
     {
       "hnrlbls": [
-        "6-6B"
+        "6A-6B"
       ], 
       "housenumber": "6B", 
       "lat": 50.839783595297, 
@@ -1388,8 +1376,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.844394379385, 
-      "lon": 5.432961445489, 
+      "lat": 50.844393799173, 
+      "lon": 5.432956036308, 
       "municipality": "Kortessem", 
       "pcode": "3724", 
       "source": "afgeleidVanGebouw", 
@@ -1460,11 +1448,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.839867937982, 
-      "lon": 5.428817673095, 
+      "lat": 50.839824124785, 
+      "lon": 5.428930274163, 
       "municipality": "Kortessem", 
       "pcode": "3724", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold III-straat"
     }, 
     {
@@ -1640,8 +1628,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.846910672386, 
-      "lon": 5.434183064791, 
+      "lat": 50.846911923044, 
+      "lon": 5.434183945209, 
       "municipality": "Kortessem", 
       "pcode": "3724", 
       "source": "afgeleidVanGebouw", 

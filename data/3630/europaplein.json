@@ -114,11 +114,12 @@
     }, 
     {
       "apptnrs": [
+        "1L", 
         "1R", 
         "2L", 
         "2R", 
-        "3R", 
-        "R1"
+        "3L", 
+        "3R"
       ], 
       "hnrlbls": [
         "18"
@@ -129,21 +130,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Europaplein"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "18L"
-      ], 
-      "housenumber": "18L", 
-      "lat": 50.988814583408, 
-      "lon": 5.689387392262, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Europaplein"
     }, 
     {
@@ -170,7 +156,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "20-22"
+        "20"
       ], 
       "housenumber": "20", 
       "lat": 50.988822893578, 
@@ -201,14 +187,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "20-22"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.988822893578, 
-      "lon": 5.689255863588, 
+      "lat": 50.988764632454, 
+      "lon": 5.689256072719, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Europaplein"
     }, 
     {
@@ -571,9 +557,6 @@
         "2L", 
         "2R"
       ], 
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "6-6L"
       ], 
@@ -640,9 +623,7 @@
       "busnrs": [
         "1", 
         "2", 
-        "3", 
-        "4", 
-        "A"
+        "3"
       ], 
       "hnrlbls": [
         "9"
@@ -653,21 +634,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Europaplein"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "9_1"
-      ], 
-      "housenumber": "9_1", 
-      "lat": 50.987879251946, 
-      "lon": 5.690463389836, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Europaplein"
     }
   ]

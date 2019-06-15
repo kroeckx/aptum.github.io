@@ -469,11 +469,11 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 50.997045812542, 
-      "lon": 5.735855073015, 
+      "lat": 50.99714441797, 
+      "lon": 5.736112124355, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St-Pietersstraat"
     }, 
     {
@@ -748,11 +748,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.990542558581, 
-      "lon": 5.735465375839, 
+      "lat": 50.990496681168, 
+      "lon": 5.735374718883, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St-Pietersstraat"
     }, 
     {
@@ -865,10 +865,10 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "1"
       ], 
       "busnrs": [
-        "B"
+        "2"
       ], 
       "hnrlbls": [
         "43"
@@ -984,7 +984,7 @@
     }, 
     {
       "busnrs": [
-        "B"
+        "1"
       ], 
       "hnrlbls": [
         "5"
@@ -1161,8 +1161,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.993475451128, 
-      "lon": 5.736651348696, 
+      "lat": 50.993463506247, 
+      "lon": 5.73675072336, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1178,6 +1178,18 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
+      "street": "St-Pietersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.993481107103, 
+      "lon": 5.7366288624, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St-Pietersstraat"
     }, 
     {
@@ -1248,18 +1260,6 @@
         "68-68B"
       ], 
       "housenumber": "68", 
-      "lat": 50.993957199457, 
-      "lon": 5.736926983966, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "St-Pietersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "68-68B"
-      ], 
-      "housenumber": "68B", 
       "lat": 50.993957199457, 
       "lon": 5.736926983966, 
       "municipality": "Maasmechelen", 
@@ -1464,23 +1464,23 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.992218503333, 
-      "lon": 5.735689794543, 
+      "lat": 50.992191266888, 
+      "lon": 5.735758946603, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St-Pietersstraat"
     }, 
     {
       "hnrlbls": [
-        "81A-162"
+        "81A"
       ], 
       "housenumber": "81A", 
-      "lat": 50.992340684698, 
-      "lon": 5.735666721024, 
+      "lat": 50.992282972739, 
+      "lon": 5.735774302297, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St-Pietersstraat"
     }, 
     {
@@ -1496,15 +1496,12 @@
       "street": "St-Pietersstraat"
     }, 
     {
-      "busnrs": [
-        "1A"
-      ], 
       "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.992589741069, 
-      "lon": 5.736036550061, 
+      "lat": 50.992549910073, 
+      "lon": 5.735990369976, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1530,11 +1527,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.994617063576, 
-      "lon": 5.737471961385, 
+      "lat": 50.994658901811, 
+      "lon": 5.737353370405, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St-Pietersstraat"
     }, 
     {
@@ -1566,11 +1563,11 @@
         "86A"
       ], 
       "housenumber": "86A", 
-      "lat": 50.994744058729, 
-      "lon": 5.737784539845, 
+      "lat": 50.99483544086, 
+      "lon": 5.737565106179, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St-Pietersstraat"
     }, 
     {
@@ -1671,18 +1668,6 @@
     }, 
     {
       "hnrlbls": [
-        "91-91A"
-      ], 
-      "housenumber": "91A", 
-      "lat": 50.993256209752, 
-      "lon": 5.736238216893, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "St-Pietersstraat"
-    }, 
-    {
-      "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
@@ -1698,11 +1683,11 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.993448797468, 
-      "lon": 5.736191129598, 
+      "lat": 50.993425302629, 
+      "lon": 5.736355984527, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St-Pietersstraat"
     }, 
     {
@@ -1710,11 +1695,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.993554605019, 
-      "lon": 5.736199917662, 
+      "lat": 50.993513984855, 
+      "lon": 5.736353018312, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St-Pietersstraat"
     }, 
     {

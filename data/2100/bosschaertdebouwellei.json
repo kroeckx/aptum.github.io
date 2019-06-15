@@ -291,8 +291,10 @@
       "street": "Bosschaert de Bouwellei"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "32"
@@ -648,6 +650,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201"
       ], 

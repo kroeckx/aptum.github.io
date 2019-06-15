@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "6-35"
+        "6-12"
       ], 
       "housenumber": "10", 
       "lat": 50.984912162935, 
@@ -24,7 +24,7 @@
         "8"
       ], 
       "hnrlbls": [
-        "6-35"
+        "6-12"
       ], 
       "housenumber": "12", 
       "lat": 50.984912162935, 
@@ -35,58 +35,58 @@
       "street": "Schutterijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015"
       ], 
       "hnrlbls": [
-        "13-15"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.985347048967, 
-      "lon": 3.528283856703, 
+      "lat": 50.985270522723, 
+      "lon": 3.528280528027, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
       "street": "Schutterijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015"
       ], 
       "hnrlbls": [
-        "13-15"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.985347048967, 
-      "lon": 3.528283856703, 
+      "lat": 50.985423575209, 
+      "lon": 3.52828718539, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -165,11 +165,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.985260276215, 
-      "lon": 3.527915683388, 
+      "lat": 50.985273247074, 
+      "lon": 3.527957038176, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schutterijstraat"
     }, 
     {
@@ -177,11 +177,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.985306170532, 
-      "lon": 3.527897057856, 
+      "lat": 50.985299911337, 
+      "lon": 3.527926936342, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schutterijstraat"
     }, 
     {
@@ -189,11 +189,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.985358542974, 
-      "lon": 3.527904379478, 
+      "lat": 50.985361811022, 
+      "lon": 3.5279214116, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schutterijstraat"
     }, 
     {
@@ -201,11 +201,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.985402409205, 
-      "lon": 3.527903877936, 
+      "lat": 50.98539849047, 
+      "lon": 3.527921608599, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schutterijstraat"
     }, 
     {
@@ -213,11 +213,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.985446634598, 
-      "lon": 3.527915903162, 
+      "lat": 50.985450886934, 
+      "lon": 3.527944881191, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schutterijstraat"
     }, 
     {
@@ -225,11 +225,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.986549187452, 
-      "lon": 3.528049388094, 
+      "lat": 50.985977773659, 
+      "lon": 3.527982578543, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schutterijstraat"
     }, 
     {
@@ -265,7 +265,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "6-35"
+        "6-12"
       ], 
       "housenumber": "6", 
       "lat": 50.984912162935, 
@@ -286,7 +286,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "6-35"
+        "6-12"
       ], 
       "housenumber": "8", 
       "lat": 50.984912162935, 

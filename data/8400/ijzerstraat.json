@@ -97,9 +97,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "2", 
-        "3"
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "15"
@@ -338,8 +340,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.230226044517, 
-      "lon": 2.911338571838, 
+      "lat": 51.230223033085, 
+      "lon": 2.911334943036, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -347,13 +349,12 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
+        "0301", 
         "0401", 
         "0501", 
-        "1", 
-        "2", 
-        "5", 
-        "6"
+        "0601"
       ], 
       "hnrlbls": [
         "3"
@@ -363,7 +364,7 @@
       "lon": 2.913003776971, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ijzerstraat"
     }, 
     {
@@ -453,8 +454,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.229445620112, 
-      "lon": 2.912938013313, 
+      "lat": 51.229444742622, 
+      "lon": 2.91293245643, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -497,10 +498,9 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
-        "0301", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "8"
@@ -510,7 +510,7 @@
       "lon": 2.912721644444, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ijzerstraat"
     }, 
     {

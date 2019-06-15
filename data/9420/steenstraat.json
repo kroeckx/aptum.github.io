@@ -145,10 +145,10 @@
       "street": "Steenstraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
+      "busnrs": [
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "13"
@@ -268,18 +268,6 @@
       "street": "Steenstraat"
     }, 
     {
-      "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.920838933716, 
-      "lon": 3.969060665885, 
-      "municipality": "Erpe-Mere", 
-      "pcode": "9420", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Steenstraat"
-    }, 
-    {
       "busnrs": [
         "2", 
         "3", 
@@ -299,7 +287,6 @@
     {
       "busnrs": [
         "1", 
-        "2", 
         "3", 
         "4", 
         "5", 
@@ -339,7 +326,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "44"
@@ -640,8 +628,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.921897731692, 
-      "lon": 3.968511359342, 
+      "lat": 50.921897982419, 
+      "lon": 3.96847935705, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 

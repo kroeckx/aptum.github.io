@@ -41,8 +41,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.392987599675, 
-      "lon": 5.018815745208, 
+      "lat": 51.392991561217, 
+      "lon": 5.01881450769, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -284,11 +284,6 @@
         "01-2", 
         "02-1"
       ], 
-      "busnrs": [
-        "11", 
-        "12", 
-        "21"
-      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -482,14 +477,14 @@
     }, 
     {
       "hnrlbls": [
-        "47"
+        "49"
       ], 
-      "housenumber": "47", 
-      "lat": 51.395992968795, 
-      "lon": 5.024686144602, 
+      "housenumber": "49", 
+      "lat": 51.395876837232, 
+      "lon": 5.024443411927, 
       "municipality": "Ravels", 
       "pcode": "2380", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kapelstraat"
     }, 
     {
@@ -514,6 +509,30 @@
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kapelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.395992441803, 
+      "lon": 5.024781395618, 
+      "municipality": "Ravels", 
+      "pcode": "2380", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kapelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.396048103316, 
+      "lon": 5.024874280268, 
+      "municipality": "Ravels", 
+      "pcode": "2380", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kapelstraat"
     }, 
     {

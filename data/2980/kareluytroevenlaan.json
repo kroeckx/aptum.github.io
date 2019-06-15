@@ -81,12 +81,12 @@
       "street": "Karel Uytroevenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "b1", 
         "b2"
       ], 
       "hnrlbls": [
-        "15-15b"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.268897228043, 
@@ -97,24 +97,14 @@
       "street": "Karel Uytroevenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4"
       ], 
       "hnrlbls": [
-        "15-15b"
-      ], 
-      "housenumber": "15b", 
-      "lat": 51.268897228043, 
-      "lon": 4.645655350909, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Karel Uytroevenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "16-16b"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 51.268877817921, 
@@ -122,24 +112,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Karel Uytroevenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "16-16b"
-      ], 
-      "housenumber": "16b", 
-      "lat": 51.268877817921, 
-      "lon": 4.644847415704, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Karel Uytroevenlaan"
     }, 
     {
@@ -279,8 +251,14 @@
       "street": "Karel Uytroevenlaan"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4"
+      ], 
       "hnrlbls": [
-        "28-28b"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 51.267904027639, 
@@ -288,24 +266,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Karel Uytroevenlaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "28-28b"
-      ], 
-      "housenumber": "28b", 
-      "lat": 51.267904027639, 
-      "lon": 4.645806751355, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Karel Uytroevenlaan"
     }, 
     {
@@ -445,7 +405,8 @@
       "street": "Karel Uytroevenlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "b1", 
         "b2", 
         "b3", 
         "b4"
@@ -454,11 +415,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.269510262002, 
-      "lon": 4.645180725241, 
+      "lat": 51.269478877618, 
+      "lon": 4.645110473096, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Uytroevenlaan"
     }
   ]

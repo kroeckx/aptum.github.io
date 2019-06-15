@@ -77,8 +77,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.406697392471, 
-      "lon": 4.99142259616, 
+      "lat": 51.406683905878, 
+      "lon": 4.991372116462, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -557,8 +557,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.40263001739, 
-      "lon": 4.989851988878, 
+      "lat": 51.402630104253, 
+      "lon": 4.989852564833, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -650,11 +650,23 @@
     }, 
     {
       "hnrlbls": [
-        "72"
+        "70A"
       ], 
-      "housenumber": "72", 
+      "housenumber": "70A", 
       "lat": 51.401804479648, 
       "lon": 4.990089960199, 
+      "municipality": "Ravels", 
+      "pcode": "2381", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Singelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70B"
+      ], 
+      "housenumber": "70B", 
+      "lat": 51.401590043196, 
+      "lon": 4.990206642103, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -809,8 +821,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.396356002711, 
-      "lon": 4.988256645704, 
+      "lat": 51.396354117607, 
+      "lon": 4.988256189498, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -860,11 +872,11 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.394944819464, 
-      "lon": 4.990260303704, 
+      "lat": 51.394964888727, 
+      "lon": 4.990169626784, 
       "municipality": "Ravels", 
       "pcode": "2381", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Singelstraat"
     }, 
     {

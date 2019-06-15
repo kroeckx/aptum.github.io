@@ -83,6 +83,15 @@
       "street": "Te Boelaarlei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -553,6 +562,11 @@
       "street": "Te Boelaarlei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "144"
       ], 
@@ -742,10 +756,6 @@
       "street": "Te Boelaarlei"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -817,6 +827,11 @@
       "street": "Te Boelaarlei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "25-27"
       ], 
@@ -942,6 +957,11 @@
       "street": "Te Boelaarlei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "33-35"
       ], 
@@ -1555,6 +1575,10 @@
       "street": "Te Boelaarlei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "87"
       ], 

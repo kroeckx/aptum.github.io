@@ -560,6 +560,29 @@
       "street": "Pastoor De Swaeflaan"
     }, 
     {
+      "apptnrs": [
+        "0-01", 
+        "1-01", 
+        "1-02", 
+        "1-03", 
+        "1-04", 
+        "1-05", 
+        "2-01", 
+        "2-02", 
+        "2-03"
+      ], 
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 51.205668880469, 
+      "lon": 3.384402987616, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Pastoor De Swaeflaan"
+    }, 
+    {
       "hnrlbls": [
         "6"
       ], 
@@ -581,6 +604,21 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Pastoor De Swaeflaan"
+    }, 
+    {
+      "apptnrs": [
+        "0-01"
+      ], 
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 51.20558220978, 
+      "lon": 3.384422845889, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor De Swaeflaan"
     }, 
     {

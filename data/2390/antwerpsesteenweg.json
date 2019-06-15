@@ -529,8 +529,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.297915479599, 
-      "lon": 4.702513782083, 
+      "lat": 51.297906124776, 
+      "lon": 4.702516295547, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -649,8 +649,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.297876699337, 
-      "lon": 4.701188899435, 
+      "lat": 51.297876339413, 
+      "lon": 4.70118904023, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanGebouw", 
@@ -715,8 +715,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.297752522922, 
-      "lon": 4.701110590677, 
+      "lat": 51.29781251895, 
+      "lon": 4.701094675674, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanGebouw", 
@@ -742,8 +742,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.29778505312, 
-      "lon": 4.700985230744, 
+      "lat": 51.297783074144, 
+      "lon": 4.700985790072, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanGebouw", 
@@ -2415,11 +2415,11 @@
         "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.296821241162, 
-      "lon": 4.691648258917, 
+      "lat": 51.296799763483, 
+      "lon": 4.691679650473, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -2592,8 +2592,8 @@
         "283"
       ], 
       "housenumber": "283", 
-      "lat": 51.29643801391, 
-      "lon": 4.690682029359, 
+      "lat": 51.296497868797, 
+      "lon": 4.690750399951, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2655,8 +2655,8 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 51.296419402826, 
-      "lon": 4.690519036206, 
+      "lat": 51.296573696278, 
+      "lon": 4.690630497462, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3719,8 +3719,8 @@
         "344"
       ], 
       "housenumber": "344", 
-      "lat": 51.296819624194, 
-      "lon": 4.684024677967, 
+      "lat": 51.296819802807, 
+      "lon": 4.684025109282, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4460,8 +4460,8 @@
         "398"
       ], 
       "housenumber": "398", 
-      "lat": 51.29354015364, 
-      "lon": 4.6786017164, 
+      "lat": 51.293539160068, 
+      "lon": 4.678603573418, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4769,8 +4769,8 @@
         "421"
       ], 
       "housenumber": "421", 
-      "lat": 51.290564027529, 
-      "lon": 4.675551914066, 
+      "lat": 51.29055907442, 
+      "lon": 4.675555608405, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -5012,11 +5012,11 @@
         "442"
       ], 
       "housenumber": "442", 
-      "lat": 51.291558895693, 
-      "lon": 4.675773655238, 
+      "lat": 51.291581124373, 
+      "lon": 4.675728359791, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -5254,6 +5254,18 @@
       "housenumber": "463", 
       "lat": 51.286869147495, 
       "lon": 4.669964611539, 
+      "municipality": "Malle", 
+      "pcode": "2390", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Antwerpsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "463A"
+      ], 
+      "housenumber": "463A", 
+      "lat": 51.286631752627, 
+      "lon": 4.669547541065, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanGebouw", 
@@ -5563,8 +5575,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.300791593633, 
-      "lon": 4.725328716106, 
+      "lat": 51.300800919953, 
+      "lon": 4.725335813319, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanGebouw", 
@@ -5666,8 +5678,8 @@
         "507B"
       ], 
       "housenumber": "507B", 
-      "lat": 51.277298706834, 
-      "lon": 4.655015953645, 
+      "lat": 51.277301146825, 
+      "lon": 4.655010523006, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -5888,8 +5900,8 @@
         "525"
       ], 
       "housenumber": "525", 
-      "lat": 51.274502170375, 
-      "lon": 4.650954120551, 
+      "lat": 51.274500675267, 
+      "lon": 4.650940354808, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanPerceelGrb", 
@@ -5924,8 +5936,8 @@
         "527"
       ], 
       "housenumber": "527", 
-      "lat": 51.274255679676, 
-      "lon": 4.65040307624, 
+      "lat": 51.274258490945, 
+      "lon": 4.650392632542, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanPerceelGrb", 

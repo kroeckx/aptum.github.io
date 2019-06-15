@@ -29,11 +29,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.930360519176, 
-      "lon": 5.342557918323, 
+      "lat": 50.930693001426, 
+      "lon": 5.342532672984, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Maastrichterstraat"
     }, 
     {
@@ -41,8 +41,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.930150046381, 
-      "lon": 5.342754842264, 
+      "lat": 50.930143702498, 
+      "lon": 5.342760969838, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1180,11 +1180,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.930033577185, 
-      "lon": 5.340666924478, 
+      "lat": 50.930034881499, 
+      "lon": 5.340661403464, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Maastrichterstraat"
     }, 
     {

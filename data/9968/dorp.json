@@ -17,11 +17,11 @@
         "10-12"
       ], 
       "housenumber": "10", 
-      "lat": 51.229905847152, 
-      "lon": 3.677355290752, 
+      "lat": 51.229892241445, 
+      "lon": 3.677303522859, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorp"
     }, 
     {
@@ -86,8 +86,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.234108710292, 
-      "lon": 3.67485094301, 
+      "lat": 51.234104119817, 
+      "lon": 3.674834545624, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -266,11 +266,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.234948056658, 
-      "lon": 3.676013842961, 
+      "lat": 51.234882345185, 
+      "lon": 3.675690654595, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -326,11 +326,11 @@
         "10-12"
       ], 
       "housenumber": "12", 
-      "lat": 51.229905847152, 
-      "lon": 3.677355290752, 
+      "lat": 51.229892241445, 
+      "lon": 3.677303522859, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorp"
     }, 
     {
@@ -504,8 +504,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.235264407956, 
-      "lon": 3.674991829897, 
+      "lat": 51.235257191913, 
+      "lon": 3.674941536728, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -660,11 +660,11 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.236771871659, 
-      "lon": 3.673943474461, 
+      "lat": 51.236969446691, 
+      "lon": 3.673943968727, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -780,8 +780,8 @@
         "2-2A"
       ], 
       "housenumber": "2", 
-      "lat": 51.229635614176, 
-      "lon": 3.678058230112, 
+      "lat": 51.229636569443, 
+      "lon": 3.678052489341, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -801,19 +801,19 @@
     }, 
     {
       "hnrlbls": [
-        "21"
+        "21-21F"
       ], 
       "housenumber": "21", 
-      "lat": 51.230787774553, 
-      "lon": 3.677839737074, 
+      "lat": 51.230853171779, 
+      "lon": 3.677940562337, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
       "hnrlbls": [
-        "21A-21E"
+        "21-21F"
       ], 
       "housenumber": "21A", 
       "lat": 51.230853171779, 
@@ -825,43 +825,43 @@
     }, 
     {
       "hnrlbls": [
-        "21B-21F"
+        "21-21F"
       ], 
       "housenumber": "21B", 
-      "lat": 51.230850346297, 
-      "lon": 3.677826068531, 
+      "lat": 51.230853171779, 
+      "lon": 3.677940562337, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
       "hnrlbls": [
-        "21B-21F"
+        "21-21F"
       ], 
       "housenumber": "21C", 
-      "lat": 51.230850346297, 
-      "lon": 3.677826068531, 
+      "lat": 51.230853171779, 
+      "lon": 3.677940562337, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
       "hnrlbls": [
-        "21B-21F"
+        "21-21F"
       ], 
       "housenumber": "21D", 
-      "lat": 51.230850346297, 
-      "lon": 3.677826068531, 
+      "lat": 51.230853171779, 
+      "lon": 3.677940562337, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
       "hnrlbls": [
-        "21A-21E"
+        "21-21F"
       ], 
       "housenumber": "21E", 
       "lat": 51.230853171779, 
@@ -873,14 +873,14 @@
     }, 
     {
       "hnrlbls": [
-        "21B-21F"
+        "21-21F"
       ], 
       "housenumber": "21F", 
-      "lat": 51.230850346297, 
-      "lon": 3.677826068531, 
+      "lat": 51.230853171779, 
+      "lon": 3.677940562337, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1008,8 +1008,8 @@
         "2-2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.229635614176, 
-      "lon": 3.678058230112, 
+      "lat": 51.229636569443, 
+      "lon": 3.678052489341, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -1032,11 +1032,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.230694929789, 
-      "lon": 3.676810151231, 
+      "lat": 51.230799687938, 
+      "lon": 3.676786120245, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1072,11 +1072,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.231405320365, 
-      "lon": 3.677442742495, 
+      "lat": 51.231416673211, 
+      "lon": 3.677431979627, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1096,11 +1096,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.231482522958, 
-      "lon": 3.677610254757, 
+      "lat": 51.23149574373, 
+      "lon": 3.677549926896, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1193,26 +1193,26 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "42-42A"
       ], 
       "housenumber": "42", 
-      "lat": 51.231545342862, 
-      "lon": 3.67683891744, 
+      "lat": 51.231553716858, 
+      "lon": 3.676872152282, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
       "hnrlbls": [
-        "42A"
+        "42-42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.231538964478, 
-      "lon": 3.676701137691, 
+      "lat": 51.231553716858, 
+      "lon": 3.676872152282, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1247,11 +1247,11 @@
         "45-45A"
       ], 
       "housenumber": "45", 
-      "lat": 51.231832513096, 
-      "lon": 3.677435554558, 
+      "lat": 51.231858031057, 
+      "lon": 3.67764936278, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1259,11 +1259,11 @@
         "45-45A"
       ], 
       "housenumber": "45A", 
-      "lat": 51.231832513096, 
-      "lon": 3.677435554558, 
+      "lat": 51.231858031057, 
+      "lon": 3.67764936278, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1280,14 +1280,14 @@
     }, 
     {
       "hnrlbls": [
-        "48"
+        "48-50"
       ], 
       "housenumber": "48", 
-      "lat": 51.231875186565, 
-      "lon": 3.676308868977, 
+      "lat": 51.231941512053, 
+      "lon": 3.676675839148, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1304,7 +1304,7 @@
     }, 
     {
       "hnrlbls": [
-        "50"
+        "48-50"
       ], 
       "housenumber": "50", 
       "lat": 51.231941512053, 
@@ -1478,11 +1478,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.232386385459, 
-      "lon": 3.677079292044, 
+      "lat": 51.232428490707, 
+      "lon": 3.677193493787, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1571,11 +1571,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.230295854095, 
-      "lon": 3.67832305355, 
+      "lat": 51.230334821198, 
+      "lon": 3.678284680664, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1806,11 +1806,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.233421851001, 
-      "lon": 3.675797251859, 
+      "lat": 51.233495152134, 
+      "lon": 3.675927457223, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1818,11 +1818,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.230403411601, 
-      "lon": 3.678270351121, 
+      "lat": 51.230339476697, 
+      "lon": 3.678081170093, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -1890,11 +1890,11 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.233912404511, 
-      "lon": 3.675634903771, 
+      "lat": 51.233952094852, 
+      "lon": 3.675720221654, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {

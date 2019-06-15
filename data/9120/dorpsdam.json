@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.219939594434, 
+      "lon": 4.193942129774, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorpsdam"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -46,6 +58,23 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorpsdam"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.219956437777, 
+      "lon": 4.193295690447, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsdam"
     }, 
     {
@@ -134,6 +163,59 @@
     }, 
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.219935815017, 
+      "lon": 4.193817191192, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpsdam"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.219936802045, 
+      "lon": 4.193694095498, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpsdam"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "011", 
+        "021"
+      ], 
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 51.219957861198, 
+      "lon": 4.193529130639, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Dorpsdam"
+    }, 
+    {
+      "hnrlbls": [
+        "1D"
+      ], 
+      "housenumber": "1D", 
+      "lat": 51.219877300628, 
+      "lon": 4.19357351623, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Dorpsdam"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -167,8 +249,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.220832484411, 
-      "lon": 4.192531082627, 
+      "lat": 51.220863317242, 
+      "lon": 4.192472281993, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -625,8 +707,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.219801902625, 
-      "lon": 4.193340067361, 
+      "lat": 51.219787436856, 
+      "lon": 4.193343842939, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 

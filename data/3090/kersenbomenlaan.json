@@ -169,16 +169,24 @@
       "street": "Kersenbomenlaan"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
       "lat": 50.789960482942, 
       "lon": 4.485920706372, 
+      "municipality": "Overijse", 
+      "pcode": "3090", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kersenbomenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 50.789968407331, 
+      "lon": 4.485817904996, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "manueleAanduidingVanGebouw", 

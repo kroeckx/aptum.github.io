@@ -258,20 +258,15 @@
       "street": "Kortebergstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.058165069887, 
-      "lon": 5.212624095719, 
+      "lat": 51.058286170754, 
+      "lon": 5.212158264635, 
       "municipality": "Beringen", 
       "pcode": "3580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kortebergstraat"
     }, 
     {
@@ -389,6 +384,39 @@
       "housenumber": "47", 
       "lat": 51.058781837232, 
       "lon": 5.215503841956, 
+      "municipality": "Beringen", 
+      "pcode": "3580", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortebergstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.058169135088, 
+      "lon": 5.212621316209, 
+      "municipality": "Beringen", 
+      "pcode": "3580", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortebergstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.058082545894, 
+      "lon": 5.212423475228, 
       "municipality": "Beringen", 
       "pcode": "3580", 
       "source": "manueleAanduidingVanGebouw", 

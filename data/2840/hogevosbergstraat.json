@@ -101,11 +101,11 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.087034945776, 
-      "lon": 4.453938666004, 
+      "lat": 51.087006229402, 
+      "lon": 4.453996273389, 
       "municipality": "Rumst", 
       "pcode": "2840", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoge Vosbergstraat"
     }, 
     {
@@ -314,18 +314,6 @@
     }, 
     {
       "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.087870165258, 
-      "lon": 4.458302325782, 
-      "municipality": "Rumst", 
-      "pcode": "2840", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Hoge Vosbergstraat"
-    }, 
-    {
-      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -410,6 +398,30 @@
     }, 
     {
       "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 51.088076398441, 
+      "lon": 4.457674727839, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoge Vosbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37B"
+      ], 
+      "housenumber": "37B", 
+      "lat": 51.088097010543, 
+      "lon": 4.457756549571, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoge Vosbergstraat"
+    }, 
+    {
+      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -427,6 +439,30 @@
       "housenumber": "39", 
       "lat": 51.088213580701, 
       "lon": 4.458130003654, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoge Vosbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 51.088133937454, 
+      "lon": 4.457897206024, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoge Vosbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "39B"
+      ], 
+      "housenumber": "39B", 
+      "lat": 51.088149795884, 
+      "lon": 4.457965174337, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 

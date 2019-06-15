@@ -37,6 +37,10 @@
       "street": "Zonnedauwstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "13-15"
       ], 
@@ -137,11 +141,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.179756847303, 
-      "lon": 4.383001656341, 
+      "lat": 51.17976735347, 
+      "lon": 4.383083745522, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zonnedauwstraat"
     }, 
     {

@@ -129,8 +129,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.189628976811, 
-      "lon": 4.378357692818, 
+      "lat": 51.189628976824, 
+      "lon": 4.378357549781, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -843,6 +843,10 @@
       "street": "De Bosschaertstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "162"
       ], 
@@ -2153,7 +2157,7 @@
     }, 
     {
       "hnrlbls": [
-        "259-261"
+        "259"
       ], 
       "housenumber": "259", 
       "lat": 51.18517879701, 
@@ -2189,11 +2193,11 @@
     }, 
     {
       "hnrlbls": [
-        "259-261"
+        "261"
       ], 
       "housenumber": "261", 
-      "lat": 51.18517879701, 
-      "lon": 4.386882897735, 
+      "lat": 51.185168628784, 
+      "lon": 4.386953118026, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -2337,6 +2341,12 @@
       "street": "De Bosschaertstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "272"
       ], 
@@ -2393,6 +2403,11 @@
       "street": "De Bosschaertstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "276"
       ], 
@@ -2737,6 +2752,11 @@
       "street": "De Bosschaertstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "310"
       ], 
@@ -2746,6 +2766,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
+      "street": "De Bosschaertstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "310A"
+      ], 
+      "housenumber": "310A", 
+      "lat": 51.184810773307, 
+      "lon": 4.387095423154, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "De Bosschaertstraat"
     }, 
     {
@@ -3446,11 +3478,11 @@
         "302"
       ], 
       "hnrlbls": [
-        "60-72"
+        "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.188389466037, 
-      "lon": 4.379310448614, 
+      "lat": 51.188453746922, 
+      "lon": 4.379171864875, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -3470,35 +3502,11 @@
     }, 
     {
       "hnrlbls": [
-        "60-72"
-      ], 
-      "housenumber": "62", 
-      "lat": 51.188389466037, 
-      "lon": 4.379310448614, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "De Bosschaertstraat"
-    }, 
-    {
-      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
       "lat": 51.188405042275, 
       "lon": 4.379961110039, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "De Bosschaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "60-72"
-      ], 
-      "housenumber": "64", 
-      "lat": 51.188389466037, 
-      "lon": 4.379310448614, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -3522,16 +3530,17 @@
         "2", 
         "3", 
         "4", 
+        "5", 
         "6", 
         "7", 
         "8"
       ], 
       "hnrlbls": [
-        "60-72"
+        "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.188389466037, 
-      "lon": 4.379310448614, 
+      "lat": 51.188390724468, 
+      "lon": 4.379310019818, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -3544,18 +3553,6 @@
       "housenumber": "67", 
       "lat": 51.188349570795, 
       "lon": 4.380083961195, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "De Bosschaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "60-72"
-      ], 
-      "housenumber": "68", 
-      "lat": 51.188389466037, 
-      "lon": 4.379310448614, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -3586,18 +3583,6 @@
       "street": "De Bosschaertstraat"
     }, 
     {
-      "hnrlbls": [
-        "60-72"
-      ], 
-      "housenumber": "70", 
-      "lat": 51.188389466037, 
-      "lon": 4.379310448614, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "De Bosschaertstraat"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -3624,11 +3609,11 @@
         "8"
       ], 
       "hnrlbls": [
-        "60-72"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.188389466037, 
-      "lon": 4.379310448614, 
+      "lat": 51.188324016427, 
+      "lon": 4.379449603818, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -3758,6 +3743,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [

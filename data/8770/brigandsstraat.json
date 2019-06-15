@@ -73,15 +73,19 @@
       "street": "Brigandsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.910935624612, 
-      "lon": 3.260667216523, 
+      "lat": 50.910938665146, 
+      "lon": 3.261085080824, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brigandsstraat"
     }, 
     {
@@ -122,26 +126,26 @@
     }, 
     {
       "hnrlbls": [
-        "2A-2B"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.912811648965, 
-      "lon": 3.259429394117, 
+      "lat": 50.912874053659, 
+      "lon": 3.259459206229, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brigandsstraat"
     }, 
     {
       "hnrlbls": [
-        "2A-2B"
+        "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.912811648965, 
-      "lon": 3.259429394117, 
+      "lat": 50.912853224831, 
+      "lon": 3.25945272992, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brigandsstraat"
     }, 
     {
@@ -149,11 +153,11 @@
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 50.912809314681, 
-      "lon": 3.259429733669, 
+      "lat": 50.912829879267, 
+      "lon": 3.25944631306, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brigandsstraat"
     }, 
     {

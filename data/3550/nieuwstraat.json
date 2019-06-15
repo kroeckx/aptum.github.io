@@ -497,8 +497,8 @@
         "152_1"
       ], 
       "housenumber": "152_1", 
-      "lat": 51.022036293829, 
-      "lon": 5.333033068007, 
+      "lat": 51.022059461444, 
+      "lon": 5.333025278269, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -509,8 +509,8 @@
         "152_2"
       ], 
       "housenumber": "152_2", 
-      "lat": 51.02205882586, 
-      "lon": 5.333113780686, 
+      "lat": 51.022075782225, 
+      "lon": 5.333107003277, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -533,8 +533,8 @@
         "154_1"
       ], 
       "housenumber": "154_1", 
-      "lat": 51.022107239952, 
-      "lon": 5.333272282049, 
+      "lat": 51.022106435681, 
+      "lon": 5.333271695323, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -845,6 +845,18 @@
     }, 
     {
       "hnrlbls": [
+        "186"
+      ], 
+      "housenumber": "186", 
+      "lat": 51.023192393814, 
+      "lon": 5.336458194827, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
         "187"
       ], 
       "housenumber": "187", 
@@ -857,11 +869,23 @@
     }, 
     {
       "hnrlbls": [
-        "189"
+        "189_1"
       ], 
-      "housenumber": "189", 
-      "lat": 51.022989253995, 
-      "lon": 5.337361260833, 
+      "housenumber": "189_1", 
+      "lat": 51.022946520276, 
+      "lon": 5.337245061505, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "189_2"
+      ], 
+      "housenumber": "189_2", 
+      "lat": 51.023031987599, 
+      "lon": 5.337477460373, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -1196,8 +1220,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.019002418774, 
-      "lon": 5.322302931055, 
+      "lat": 51.019004045909, 
+      "lon": 5.322301823991, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanPerceelGrb", 

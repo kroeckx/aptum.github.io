@@ -575,7 +575,7 @@
     }, 
     {
       "hnrlbls": [
-        "15-17"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.112338360635, 
@@ -659,26 +659,14 @@
     }, 
     {
       "hnrlbls": [
-        "15-17"
+        "171-179"
       ], 
-      "housenumber": "17", 
-      "lat": 51.112338360635, 
-      "lon": 4.338436108958, 
+      "housenumber": "171", 
+      "lat": 51.111409858194, 
+      "lon": 4.345982974335, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanGebouw", 
-      "street": "Matenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "171"
-      ], 
-      "housenumber": "171", 
-      "lat": 51.111476681166, 
-      "lon": 4.345699632124, 
-      "municipality": "Niel", 
-      "pcode": "2845", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Matenstraat"
     }, 
     {
@@ -719,6 +707,18 @@
     }, 
     {
       "hnrlbls": [
+        "171-179"
+      ], 
+      "housenumber": "179", 
+      "lat": 51.111409858194, 
+      "lon": 4.345982974335, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Matenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -734,11 +734,23 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 51.111522440819, 
-      "lon": 4.346216110039, 
+      "lat": 51.111522440793, 
+      "lon": 4.346215967241, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanGebouw", 
+      "street": "Matenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "183"
+      ], 
+      "housenumber": "183", 
+      "lat": 51.111403712645, 
+      "lon": 4.346287992661, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Matenstraat"
     }, 
     {
@@ -1047,11 +1059,11 @@
         "203"
       ], 
       "housenumber": "203", 
-      "lat": 51.112551484165, 
-      "lon": 4.351215091681, 
+      "lat": 51.112304431445, 
+      "lon": 4.350924867849, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Matenstraat"
     }, 
     {
@@ -1127,6 +1139,21 @@
       "street": "Matenstraat"
     }, 
     {
+      "busnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004", 
+        "B005", 
+        "B006", 
+        "B007", 
+        "B008", 
+        "B009", 
+        "B010", 
+        "B011", 
+        "B012", 
+        "B013"
+      ], 
       "hnrlbls": [
         "210"
       ], 

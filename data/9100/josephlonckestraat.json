@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.167965858665, 
+      "lon": 4.133180282027, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Joseph Lonckestraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 

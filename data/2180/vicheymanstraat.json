@@ -139,10 +139,13 @@
       "apptnrs": [
         "001", 
         "101", 
-        "201"
+        "102", 
+        "201", 
+        "202", 
+        "302"
       ], 
       "hnrlbls": [
-        "2-4"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.284526666616, 
@@ -343,23 +346,6 @@
       "housenumber": "38", 
       "lat": 51.283623476977, 
       "lon": 4.418516103681, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vic Heymanstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "2-4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.284526666616, 
-      "lon": 4.419423347974, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 

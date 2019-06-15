@@ -1139,6 +1139,11 @@
       "street": "Velmerlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "216"
       ], 
@@ -2028,8 +2033,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.787396430088, 
-      "lon": 5.139949096403, 
+      "lat": 50.787395537713, 
+      "lon": 5.139948089013, 
       "municipality": "Sint-Truiden", 
       "pcode": "3806", 
       "source": "afgeleidVanGebouw", 

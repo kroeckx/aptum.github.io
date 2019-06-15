@@ -613,6 +613,42 @@
       "street": "Torhoutbaan"
     }, 
     {
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 51.101792367836, 
+      "lon": 3.033548211475, 
+      "municipality": "Ichtegem", 
+      "pcode": "8480", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Torhoutbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "15C"
+      ], 
+      "housenumber": "15C", 
+      "lat": 51.101578643141, 
+      "lon": 3.033871593693, 
+      "municipality": "Ichtegem", 
+      "pcode": "8480", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Torhoutbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "15D"
+      ], 
+      "housenumber": "15D", 
+      "lat": 51.101470743402, 
+      "lon": 3.034029029584, 
+      "municipality": "Ichtegem", 
+      "pcode": "8480", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Torhoutbaan"
+    }, 
+    {
       "busnrs": [
         "101"
       ], 
@@ -644,11 +680,11 @@
         "160A-160C"
       ], 
       "housenumber": "160A", 
-      "lat": 51.089878454276, 
-      "lon": 3.049123878106, 
+      "lat": 51.090035502618, 
+      "lon": 3.049420232252, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Torhoutbaan"
     }, 
     {
@@ -668,11 +704,11 @@
         "160A-160C"
       ], 
       "housenumber": "160C", 
-      "lat": 51.089878454276, 
-      "lon": 3.049123878106, 
+      "lat": 51.090035502618, 
+      "lon": 3.049420232252, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Torhoutbaan"
     }, 
     {
@@ -764,8 +800,8 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.092286871374, 
-      "lon": 3.054480732486, 
+      "lat": 51.092275564968, 
+      "lon": 3.054418092359, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1745,11 +1781,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.096735968034, 
-      "lon": 3.040371596075, 
+      "lat": 51.09662961857, 
+      "lon": 3.040276244288, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutbaan"
     }, 
     {
@@ -1769,11 +1805,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.09663717094, 
-      "lon": 3.040459924268, 
+      "lat": 51.096572715271, 
+      "lon": 3.040348534092, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torhoutbaan"
     }, 
     {

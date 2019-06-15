@@ -2,11 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-200"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.881755378356, 
-      "lon": 4.7120469145, 
+      "lat": 50.881732572475, 
+      "lon": 4.712068204706, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -110,6 +110,40 @@
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Oppendorpgang"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "8-198"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.881748283208, 
+      "lon": 4.711921955924, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oppendorpgang"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
+      "hnrlbls": [
+        "8-198"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.881748283208, 
+      "lon": 4.711921955924, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oppendorpgang"
     }
   ]

@@ -33,6 +33,40 @@
       "street": "Mgr. Waffelaertlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.312787191295, 
+      "lon": 3.137649623948, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mgr. Waffelaertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.312700213748, 
+      "lon": 3.137679319965, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mgr. Waffelaertlaan"
+    }, 
+    {
       "hnrlbls": [
         "17"
       ], 
@@ -325,6 +359,18 @@
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Mgr. Waffelaertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.311882400644, 
+      "lon": 3.138998720245, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mgr. Waffelaertlaan"
     }, 
     {

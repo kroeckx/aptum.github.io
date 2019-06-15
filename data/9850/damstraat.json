@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.027983274592, 
-      "lon": 3.557974662592, 
+      "lat": 51.027985153347, 
+      "lon": 3.557973347123, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -437,14 +437,26 @@
     }, 
     {
       "hnrlbls": [
-        "38"
+        "38A"
       ], 
-      "housenumber": "38", 
+      "housenumber": "38A", 
       "lat": 51.024790842166, 
       "lon": 3.562774680568, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
+      "street": "Damstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38B"
+      ], 
+      "housenumber": "38B", 
+      "lat": 51.024726756808, 
+      "lon": 3.562920747432, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Damstraat"
     }, 
     {
@@ -584,11 +596,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.022645098033, 
-      "lon": 3.566194937885, 
+      "lat": 51.022470243437, 
+      "lon": 3.566035442566, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Damstraat"
     }, 
     {

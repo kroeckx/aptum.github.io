@@ -1068,37 +1068,10 @@
       "street": "Brabantdam"
     }, 
     {
-      "busnrs": [
-        "0101"
-      ], 
       "hnrlbls": [
-        "158-158B"
+        "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.049438007461, 
-      "lon": 3.732859283916, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "158-158B"
-      ], 
-      "housenumber": "158A", 
-      "lat": 51.049438007461, 
-      "lon": 3.732859283916, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "158-158B"
-      ], 
-      "housenumber": "158B", 
       "lat": 51.049438007461, 
       "lon": 3.732859283916, 
       "municipality": "Gent", 
@@ -1559,18 +1532,6 @@
     }, 
     {
       "hnrlbls": [
-        "21-23"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.050610508881, 
-      "lon": 3.727320944495, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
         "205-241"
       ], 
       "housenumber": "211", 
@@ -1714,15 +1675,20 @@
       "street": "Brabantdam"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "21-23"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.050610508881, 
-      "lon": 3.727320944495, 
+      "lat": 51.050612636481, 
+      "lon": 3.727282408692, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantdam"
     }, 
     {
@@ -1811,14 +1777,14 @@
     }, 
     {
       "hnrlbls": [
-        "25-27"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.050608245096, 
-      "lon": 3.727400555941, 
+      "lat": 51.050607269193, 
+      "lon": 3.72733681937, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantdam"
     }, 
     {
@@ -1835,7 +1801,7 @@
     }, 
     {
       "hnrlbls": [
-        "25-27"
+        "27"
       ], 
       "housenumber": "27", 
       "lat": 51.050608245096, 
@@ -2805,183 +2771,24 @@
       "street": "Brabantdam"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
       "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.05000806768, 
-      "lon": 3.729775332565, 
+      "lat": 51.050031766642, 
+      "lon": 3.72966975911, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72A", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72B", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72C", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72D", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72E", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72F", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72G", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72H", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72K", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72L", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72M", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72N", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72P", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "72A-72Q"
-      ], 
-      "housenumber": "72Q", 
-      "lat": 51.050031862711, 
-      "lon": 3.729670898723, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantdam"
     }, 
     {
@@ -2998,50 +2805,14 @@
     }, 
     {
       "hnrlbls": [
-        "74-74C"
+        "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.049990377862, 
-      "lon": 3.729878399509, 
+      "lat": 51.050005148051, 
+      "lon": 3.72976738592, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "74-74C"
-      ], 
-      "housenumber": "74A", 
-      "lat": 51.049990377862, 
-      "lon": 3.729878399509, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "74-74C"
-      ], 
-      "housenumber": "74B", 
-      "lat": 51.049990377862, 
-      "lon": 3.729878399509, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brabantdam"
-    }, 
-    {
-      "hnrlbls": [
-        "74-74C"
-      ], 
-      "housenumber": "74C", 
-      "lat": 51.049990377862, 
-      "lon": 3.729878399509, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Brabantdam"
     }, 
     {
@@ -3054,6 +2825,28 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Brabantdam"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 51.049984307589, 
+      "lon": 3.729869640132, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantdam"
     }, 
     {

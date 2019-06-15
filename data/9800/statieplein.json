@@ -17,26 +17,75 @@
     }, 
     {
       "hnrlbls": [
-        "3-13"
+        "3-13A"
       ], 
-      "housenumber": "11", 
-      "lat": 50.978232147631, 
-      "lon": 3.53338823741, 
+      "housenumber": "11A", 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statieplein"
     }, 
     {
       "hnrlbls": [
-        "3-13"
+        "3-13A"
       ], 
-      "housenumber": "13", 
-      "lat": 50.978232147631, 
-      "lon": 3.53338823741, 
+      "housenumber": "11B", 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Statieplein"
+    }, 
+    {
+      "hnrlbls": [
+        "3-13A"
+      ], 
+      "housenumber": "11C", 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Statieplein"
+    }, 
+    {
+      "hnrlbls": [
+        "3-13A"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Statieplein"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "501"
+      ], 
+      "hnrlbls": [
+        "3-13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statieplein"
     }, 
     {
@@ -44,8 +93,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.978342901983, 
-      "lon": 3.533755796092, 
+      "lat": 50.978349641407, 
+      "lon": 3.533755391332, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -99,8 +148,8 @@
         "2-4"
       ], 
       "housenumber": "2", 
-      "lat": 50.978165778734, 
-      "lon": 3.534842759478, 
+      "lat": 50.978165867611, 
+      "lon": 3.534842615498, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -176,14 +225,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-13"
+        "3-13A"
       ], 
       "housenumber": "3", 
-      "lat": 50.978232147631, 
-      "lon": 3.53338823741, 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statieplein"
     }, 
     {
@@ -241,12 +290,20 @@
       "street": "Statieplein"
     }, 
     {
-      "hnrlbls": [
-        "2-4"
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "301", 
+        "302", 
+        "303"
       ], 
-      "housenumber": "4", 
-      "lat": 50.978165778734, 
-      "lon": 3.534842759478, 
+      "hnrlbls": [
+        "3-13A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -254,38 +311,102 @@
     }, 
     {
       "hnrlbls": [
-        "3-13"
+        "2-4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.978165867611, 
+      "lon": 3.534842615498, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Statieplein"
+    }, 
+    {
+      "hnrlbls": [
+        "3-13A"
       ], 
       "housenumber": "5", 
-      "lat": 50.978232147631, 
-      "lon": 3.53338823741, 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statieplein"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
-        "3-13"
+        "3-13A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Statieplein"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "3-13A"
       ], 
       "housenumber": "7", 
-      "lat": 50.978232147631, 
-      "lon": 3.53338823741, 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statieplein"
     }, 
     {
       "hnrlbls": [
-        "3-13"
+        "3-13A"
       ], 
-      "housenumber": "9", 
-      "lat": 50.978232147631, 
-      "lon": 3.53338823741, 
+      "housenumber": "9A", 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Statieplein"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "3-13A"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.978363880946, 
+      "lon": 3.533367664253, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Statieplein"
     }
   ]

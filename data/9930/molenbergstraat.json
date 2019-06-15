@@ -1,6 +1,30 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.114264848882, 
+      "lon": 3.559778985621, 
+      "municipality": "Lievegem", 
+      "pcode": "9930", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Molenbergstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -659,11 +683,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.114192731529, 
-      "lon": 3.559723107103, 
+      "lat": 51.114154784191, 
+      "lon": 3.559681918842, 
       "municipality": "Lievegem", 
       "pcode": "9930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Molenbergstraat"
     }, 
     {

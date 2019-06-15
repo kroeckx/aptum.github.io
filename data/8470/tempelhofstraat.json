@@ -154,6 +154,27 @@
       "street": "Tempelhofstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.155800078922, 
+      "lon": 2.961572449022, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tempelhofstraat"
+    }, 
+    {
       "hnrlbls": [
         "18B"
       ], 
@@ -223,6 +244,26 @@
       "municipality": "Gistel", 
       "pcode": "8470", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Tempelhofstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.155826247627, 
+      "lon": 2.961188244663, 
+      "municipality": "Gistel", 
+      "pcode": "8470", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Tempelhofstraat"
     }, 
     {
@@ -372,8 +413,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.155988563723, 
-      "lon": 2.960218948658, 
+      "lat": 51.156093466954, 
+      "lon": 2.960180188413, 
       "municipality": "Gistel", 
       "pcode": "8470", 
       "source": "manueleAanduidingVanGebouw", 

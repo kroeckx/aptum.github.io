@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -262,6 +267,10 @@
       "street": "August Petenlei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -439,6 +448,11 @@
       "street": "August Petenlei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -471,6 +485,11 @@
       "street": "August Petenlei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -495,6 +514,11 @@
       "street": "August Petenlei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "43"
       ], 
@@ -552,23 +576,6 @@
       "street": "August Petenlei"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "49", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "47-49"
-      ], 
-      "housenumber": "47", 
-      "lat": 51.204029351655, 
-      "lon": 4.461575678845, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "August Petenlei"
-    }, 
-    {
       "hnrlbls": [
         "48"
       ], 
@@ -581,8 +588,16 @@
       "street": "August Petenlei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "47-49"
+        "49"
       ], 
       "housenumber": "49", 
       "lat": 51.204029351655, 

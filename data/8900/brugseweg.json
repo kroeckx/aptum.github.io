@@ -114,21 +114,6 @@
       "street": "Brugseweg"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "105_1"
-      ], 
-      "housenumber": "105_1", 
-      "lat": 50.858895894654, 
-      "lon": 2.892796472301, 
-      "municipality": "Ieper", 
-      "pcode": "8900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brugseweg"
-    }, 
-    {
       "hnrlbls": [
         "106"
       ], 
@@ -1320,11 +1305,23 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 50.863847781534, 
-      "lon": 2.90272874296, 
+      "lat": 50.863841822993, 
+      "lon": 2.902662012486, 
       "municipality": "Ieper", 
       "pcode": "8900", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brugseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "202A"
+      ], 
+      "housenumber": "202A", 
+      "lat": 50.863821576942, 
+      "lon": 2.902631956218, 
+      "municipality": "Ieper", 
+      "pcode": "8900", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brugseweg"
     }, 
     {
@@ -2130,8 +2127,8 @@
         "279"
       ], 
       "housenumber": "279", 
-      "lat": 50.865258768854, 
-      "lon": 2.904860646997, 
+      "lat": 50.865230411397, 
+      "lon": 2.904828994511, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2902,8 +2899,8 @@
         "354"
       ], 
       "housenumber": "354", 
-      "lat": 50.871490876226, 
-      "lon": 2.918117449673, 
+      "lat": 50.871448052471, 
+      "lon": 2.918115361138, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2914,8 +2911,8 @@
         "354A"
       ], 
       "housenumber": "354A", 
-      "lat": 50.871549668591, 
-      "lon": 2.918182135772, 
+      "lat": 50.87150057309, 
+      "lon": 2.918174556927, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2926,8 +2923,8 @@
         "354B"
       ], 
       "housenumber": "354B", 
-      "lat": 50.871607496839, 
-      "lon": 2.918248841127, 
+      "lat": 50.871558318487, 
+      "lon": 2.918241833143, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3036,6 +3033,18 @@
       "housenumber": "358E", 
       "lat": 50.872369172234, 
       "lon": 2.91919785261, 
+      "municipality": "Ieper", 
+      "pcode": "8900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "358F"
+      ], 
+      "housenumber": "358F", 
+      "lat": 50.872423852857, 
+      "lon": 2.919257268333, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 

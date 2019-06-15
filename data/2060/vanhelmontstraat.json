@@ -133,6 +133,11 @@
       "street": "Van Helmontstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -232,7 +237,7 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.224926979956, 
+      "lat": 51.224926979957, 
       "lon": 4.435707446245, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 

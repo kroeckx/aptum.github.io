@@ -345,8 +345,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.025671122513, 
-      "lon": 5.354930415035, 
+      "lat": 51.02566391879, 
+      "lon": 5.354931831243, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -544,26 +544,47 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.030367963464, 
-      "lon": 5.369302405519, 
+      "lat": 51.030368780886, 
+      "lon": 5.369301425056, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "16"
+        "16A"
       ], 
-      "housenumber": "16", 
-      "lat": 51.030761693707, 
-      "lon": 5.369188933014, 
+      "housenumber": "16A", 
+      "lat": 51.030783036882, 
+      "lon": 5.369247983422, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16B"
+      ], 
+      "housenumber": "16B", 
+      "lat": 51.030755017208, 
+      "lon": 5.369138892692, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16C"
+      ], 
+      "housenumber": "16C", 
+      "lat": 51.0307311918, 
+      "lon": 5.369044005641, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -571,8 +592,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.030349579925, 
-      "lon": 5.368641374461, 
+      "lat": 51.030350216367, 
+      "lon": 5.368640532683, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -739,8 +760,8 @@
         "29A"
       ], 
       "housenumber": "29A", 
-      "lat": 51.030110619257, 
-      "lon": 5.367594848833, 
+      "lat": 51.030104349643, 
+      "lon": 5.367602698481, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -981,8 +1002,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.030275817538, 
-      "lon": 5.36598798476, 
+      "lat": 51.030269002937, 
+      "lon": 5.365975293977, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1236,8 +1257,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.028974951037, 
-      "lon": 5.362954546203, 
+      "lat": 51.029004984129, 
+      "lon": 5.362943066868, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1248,8 +1269,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.028972169996, 
-      "lon": 5.362826184135, 
+      "lat": 51.028974568345, 
+      "lon": 5.362818964589, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1257,7 +1278,7 @@
     }, 
     {
       "hnrlbls": [
-        "66-66A"
+        "66"
       ], 
       "housenumber": "66", 
       "lat": 51.029023988389, 
@@ -1269,14 +1290,14 @@
     }, 
     {
       "hnrlbls": [
-        "66-66A"
+        "66A"
       ], 
       "housenumber": "66A", 
-      "lat": 51.029023988389, 
-      "lon": 5.36182110364, 
+      "lat": 51.028977848078, 
+      "lon": 5.36157877219, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1296,8 +1317,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.028923846378, 
-      "lon": 5.362661642596, 
+      "lat": 51.028925046149, 
+      "lon": 5.362657961556, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1404,11 +1425,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.028732331062, 
-      "lon": 5.362260977604, 
+      "lat": 51.028745813803, 
+      "lon": 5.362282505063, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1560,8 +1581,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.02745956116, 
-      "lon": 5.358537521981, 
+      "lat": 51.027453960888, 
+      "lon": 5.358540682257, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1608,8 +1629,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.028170051693, 
-      "lon": 5.360637438333, 
+      "lat": 51.028173197329, 
+      "lon": 5.360648196746, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 

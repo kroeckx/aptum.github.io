@@ -65,8 +65,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.177115359709, 
-      "lon": 4.431213341458, 
+      "lat": 51.1771154499, 
+      "lon": 4.431212769586, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -89,8 +89,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.177151989707, 
-      "lon": 4.43129418528, 
+      "lat": 51.177151720204, 
+      "lon": 4.431293898917, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -121,6 +121,11 @@
       "street": "Pater Damiaanstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -489,8 +494,10 @@
       "street": "Pater Damiaanstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "37"

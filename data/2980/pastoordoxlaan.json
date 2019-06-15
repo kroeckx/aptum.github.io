@@ -85,11 +85,11 @@
       "street": "Pastoor Doxlaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "b1"
       ], 
       "hnrlbls": [
-        "3-3b"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.269299400774, 
@@ -97,21 +97,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Pastoor Doxlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "3-3b"
-      ], 
-      "housenumber": "3b", 
-      "lat": 51.269299400774, 
-      "lon": 4.709161529909, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Pastoor Doxlaan"
     }, 
     {
@@ -133,6 +118,18 @@
       "housenumber": "5", 
       "lat": 51.26912500115, 
       "lon": 4.709170712374, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pastoor Doxlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.268941463637, 
+      "lon": 4.709200603729, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

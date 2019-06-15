@@ -421,6 +421,18 @@
       "street": "Kerkstraat"
     }, 
     {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.153545480017, 
+      "lon": 5.393914147444, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -449,11 +461,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.153545480017, 
-      "lon": 5.393914147444, 
+      "lat": 51.153550468452, 
+      "lon": 5.393650389833, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kerkstraat"
     }
   ]

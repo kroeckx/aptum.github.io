@@ -89,8 +89,8 @@
         "14A"
       ], 
       "housenumber": "14A", 
-      "lat": 50.888055887891, 
-      "lon": 4.872614720356, 
+      "lat": 50.888059005401, 
+      "lon": 4.872621433565, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +149,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.886785338788, 
-      "lon": 4.861758908883, 
+      "lat": 50.886785790041, 
+      "lon": 4.861758487273, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -197,11 +197,23 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.887854531998, 
-      "lon": 4.875968177696, 
+      "lat": 50.887988355799, 
+      "lon": 4.875954702163, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Gertrudendries"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 50.887909516871, 
+      "lon": 4.87576767075, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Gertrudendries"
     }, 
     {
@@ -221,11 +233,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.887944981669, 
-      "lon": 4.876214173085, 
+      "lat": 50.888010081047, 
+      "lon": 4.876335396522, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Gertrudendries"
     }, 
     {
@@ -430,6 +442,30 @@
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint-Gertrudendries"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.890268000597, 
+      "lon": 4.87689608387, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Sint-Gertrudendries"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 50.890432778136, 
+      "lon": 4.876813586751, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sint-Gertrudendries"
     }, 
     {

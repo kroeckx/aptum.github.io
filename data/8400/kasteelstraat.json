@@ -65,8 +65,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.202159206446, 
-      "lon": 2.973977852948, 
+      "lat": 51.202158639803, 
+      "lon": 2.973983164604, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -161,8 +161,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.202429565624, 
-      "lon": 2.975017130854, 
+      "lat": 51.20237977116, 
+      "lon": 2.97517817587, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +173,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.202242857612, 
-      "lon": 2.975735492032, 
+      "lat": 51.202244921222, 
+      "lon": 2.975735144229, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +257,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.20266277572, 
-      "lon": 2.975277193934, 
+      "lat": 51.202593990381, 
+      "lon": 2.975306723519, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -305,8 +305,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.203164302026, 
-      "lon": 2.976121840467, 
+      "lat": 51.203139898483, 
+      "lon": 2.976278694639, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -325,9 +325,6 @@
       "street": "Kasteelstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "34A"
       ], 
@@ -348,13 +345,10 @@
       "lon": 2.97558877058, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kasteelstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "35-35A"
       ], 
@@ -363,7 +357,7 @@
       "lon": 2.97558877058, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -467,8 +461,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.203595325965, 
-      "lon": 2.976484197892, 
+      "lat": 51.203560571405, 
+      "lon": 2.976624761961, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -635,11 +629,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.204562099294, 
-      "lon": 2.977208528716, 
+      "lat": 51.204315791052, 
+      "lon": 2.976912200795, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -659,8 +653,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.201845622169, 
-      "lon": 2.974777278305, 
+      "lat": 51.201777519724, 
+      "lon": 2.974841847051, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -683,8 +677,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.204775187542, 
-      "lon": 2.975706547465, 
+      "lat": 51.204737203125, 
+      "lon": 2.97583232884, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -767,8 +761,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.201849867995, 
-      "lon": 2.974962036098, 
+      "lat": 51.2018516242, 
+      "lon": 2.974943237602, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

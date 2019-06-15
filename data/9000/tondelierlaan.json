@@ -91,8 +91,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.066039423067, 
-      "lon": 3.715773806919, 
+      "lat": 51.066022855047, 
+      "lon": 3.715785023081, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -216,6 +216,57 @@
       "housenumber": "6", 
       "lat": 51.065703864675, 
       "lon": 3.715256194251, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Tondelierlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 51.063629679874, 
+      "lon": 3.714379689522, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Tondelierlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 51.063529701463, 
+      "lon": 3.714246846217, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Tondelierlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 51.063412142958, 
+      "lon": 3.714104833863, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

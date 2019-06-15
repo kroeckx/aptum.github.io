@@ -41,8 +41,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.215170980369, 
-      "lon": 3.448209368071, 
+      "lat": 51.215170470057, 
+      "lon": 3.448213099419, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -190,6 +190,18 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.216828426558, 
+      "lon": 3.448734168699, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Molenberg"
     }, 
     {

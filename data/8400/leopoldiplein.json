@@ -53,6 +53,7 @@
     }, 
     {
       "busnrs": [
+        "0201", 
         "0301", 
         "0401", 
         "0501", 
@@ -74,7 +75,7 @@
       "lon": 2.910954968359, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold I-plein"
     }, 
     {
@@ -137,8 +138,7 @@
         "5", 
         "6", 
         "8", 
-        "9", 
-        "A000"
+        "9"
       ], 
       "hnrlbls": [
         "5A"
@@ -184,8 +184,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.228405973885, 
-      "lon": 2.910278618871, 
+      "lat": 51.228405691934, 
+      "lon": 2.910277625404, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -202,8 +202,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.228434168929, 
-      "lon": 2.910377965605, 
+      "lat": 51.228429829, 
+      "lon": 2.910383255925, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

@@ -101,8 +101,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.979574019475, 
-      "lon": 5.124735206791, 
+      "lat": 50.979570769806, 
+      "lon": 5.124737290379, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -221,11 +221,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.980414372926, 
-      "lon": 5.125558635017, 
+      "lat": 50.980386650072, 
+      "lon": 5.125494246811, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meldertsestraat"
     }, 
     {
@@ -245,11 +245,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.980376720383, 
-      "lon": 5.125528548525, 
+      "lat": 50.980425896745, 
+      "lon": 5.125528061595, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meldertsestraat"
     }, 
     {
@@ -278,14 +278,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-5A"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.978861980556, 
-      "lon": 5.124143570251, 
+      "lat": 50.978857554292, 
+      "lon": 5.124090952865, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meldertsestraat"
     }, 
     {
@@ -293,11 +293,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.980369917614, 
-      "lon": 5.126151890645, 
+      "lat": 50.980644595251, 
+      "lon": 5.125698496351, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meldertsestraat"
     }, 
     {
@@ -341,11 +341,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.981024781146, 
-      "lon": 5.125333242688, 
+      "lat": 50.980950479931, 
+      "lon": 5.125466190029, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Meldertsestraat"
     }, 
     {
@@ -353,8 +353,8 @@
         "39-41"
       ], 
       "housenumber": "39", 
-      "lat": 50.981208886891, 
-      "lon": 5.126282377498, 
+      "lat": 50.98121951111, 
+      "lon": 5.126251931589, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -389,8 +389,8 @@
         "39-41"
       ], 
       "housenumber": "41", 
-      "lat": 50.981208886891, 
-      "lon": 5.126282377498, 
+      "lat": 50.98121951111, 
+      "lon": 5.126251931589, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -494,14 +494,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-5A"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.978861980556, 
-      "lon": 5.124143570251, 
+      "lat": 50.978896381243, 
+      "lon": 5.124120201758, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meldertsestraat"
     }, 
     {
@@ -509,8 +509,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.981486799015, 
-      "lon": 5.125857225136, 
+      "lat": 50.981498648551, 
+      "lon": 5.125790057213, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -557,8 +557,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.981683232706, 
-      "lon": 5.125967208352, 
+      "lat": 50.981680151749, 
+      "lon": 5.125984959739, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -626,14 +626,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-5A"
+        "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 50.978861980556, 
-      "lon": 5.124143570251, 
+      "lat": 50.978964979329, 
+      "lon": 5.124314831725, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Meldertsestraat"
     }, 
     {
@@ -854,8 +854,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.980203261494, 
-      "lon": 5.122066439872, 
+      "lat": 50.980637145728, 
+      "lon": 5.121526294282, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 

@@ -322,8 +322,30 @@
       "street": "Leeuwstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0110", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0209", 
+        "0210"
+      ], 
       "hnrlbls": [
-        "32-32T"
+        "32-32A"
       ], 
       "housenumber": "32", 
       "lat": 51.041188871698, 
@@ -335,237 +357,9 @@
     }, 
     {
       "hnrlbls": [
-        "32-32T"
+        "32-32A"
       ], 
       "housenumber": "32A", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32B", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32C", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32D", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32E", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32F", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32G", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32H", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32I", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32J", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32K", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32L", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32M", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32N", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32O", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32P", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32Q", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32R", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32S", 
-      "lat": 51.041188871698, 
-      "lon": 3.731656272252, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Leeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32T"
-      ], 
-      "housenumber": "32T", 
       "lat": 51.041188871698, 
       "lon": 3.731656272252, 
       "municipality": "Gent", 

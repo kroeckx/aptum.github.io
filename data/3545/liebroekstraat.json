@@ -26,6 +26,18 @@
     }, 
     {
       "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 50.949923435614, 
+      "lon": 5.080719381879, 
+      "municipality": "Halen", 
+      "pcode": "3545", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Liebroekstraat"
+    }, 
+    {
+      "hnrlbls": [
         "101A"
       ], 
       "housenumber": "101A", 
@@ -53,8 +65,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.949668255893, 
-      "lon": 5.080194217156, 
+      "lat": 50.949671047829, 
+      "lon": 5.080208206085, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +185,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.955695176398, 
-      "lon": 5.092349343541, 
+      "lat": 50.955677645616, 
+      "lon": 5.092349499778, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -269,11 +281,11 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.947946795011, 
-      "lon": 5.078163837985, 
+      "lat": 50.948335141009, 
+      "lon": 5.077763144804, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Liebroekstraat"
     }, 
     {
@@ -401,11 +413,11 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.948509917362, 
-      "lon": 5.075568268925, 
+      "lat": 50.948441884183, 
+      "lon": 5.075445711843, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Liebroekstraat"
     }, 
     {
@@ -509,8 +521,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.947331128042, 
-      "lon": 5.073949563621, 
+      "lat": 50.947407135709, 
+      "lon": 5.073927084922, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -533,11 +545,11 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 50.946846855059, 
-      "lon": 5.073979559062, 
+      "lat": 50.947339306146, 
+      "lon": 5.073725414937, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Liebroekstraat"
     }, 
     {
@@ -665,11 +677,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.954920566254, 
-      "lon": 5.090021138671, 
+      "lat": 50.954857706883, 
+      "lon": 5.090083222074, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Liebroekstraat"
     }, 
     {
@@ -677,8 +689,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.954892172662, 
-      "lon": 5.089960354649, 
+      "lat": 50.954846317888, 
+      "lon": 5.090020137979, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -833,8 +845,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.953572029928, 
-      "lon": 5.088012829987, 
+      "lat": 50.953574165337, 
+      "lon": 5.088001761528, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -1037,8 +1049,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.952367960053, 
-      "lon": 5.085821832965, 
+      "lat": 50.95236814678, 
+      "lon": 5.085820697263, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -1229,8 +1241,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.951255757901, 
-      "lon": 5.08310819913, 
+      "lat": 50.951256877245, 
+      "lon": 5.083101527321, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -1265,8 +1277,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.951062691421, 
-      "lon": 5.082851791081, 
+      "lat": 50.951070442574, 
+      "lon": 5.08284849363, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -1373,8 +1385,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.955141359549, 
-      "lon": 5.092328976978, 
+      "lat": 50.955142714883, 
+      "lon": 5.092327859282, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 

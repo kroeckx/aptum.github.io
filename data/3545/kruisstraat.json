@@ -125,8 +125,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.973327573754, 
-      "lon": 5.119632423774, 
+      "lat": 50.973321893577, 
+      "lon": 5.119635038006, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -266,26 +266,14 @@
     }, 
     {
       "hnrlbls": [
-        "37-37A"
+        "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.973040426645, 
-      "lon": 5.122289106744, 
+      "lat": 50.973165107773, 
+      "lon": 5.122500132049, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37-37A"
-      ], 
-      "housenumber": "37A", 
-      "lat": 50.973040426645, 
-      "lon": 5.122289106744, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kruisstraat"
     }, 
     {

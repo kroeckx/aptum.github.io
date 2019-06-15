@@ -1,0 +1,34 @@
+{
+  "addresses": [
+    {
+      "apptnrs": [
+        "1"
+      ], 
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "157A"
+      ], 
+      "housenumber": "157A", 
+      "lat": 51.036608232922, 
+      "lon": 4.773758192646, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2222", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kleine steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.049005936311, 
+      "lon": 4.775367049095, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2222", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kleine steenweg"
+    }
+  ]
+}

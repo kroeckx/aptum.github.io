@@ -560,8 +560,8 @@
         "39B"
       ], 
       "housenumber": "39B", 
-      "lat": 50.933461922915, 
-      "lon": 3.634332484559, 
+      "lat": 50.933455263, 
+      "lon": 3.63434567689, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -584,8 +584,8 @@
         "40A"
       ], 
       "housenumber": "40A", 
-      "lat": 50.934901635556, 
-      "lon": 3.635371140417, 
+      "lat": 50.934903228122, 
+      "lon": 3.635352620808, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -596,8 +596,8 @@
         "40B"
       ], 
       "housenumber": "40B", 
-      "lat": 50.934770048634, 
-      "lon": 3.635331511182, 
+      "lat": 50.934776955257, 
+      "lon": 3.635314615831, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -608,8 +608,8 @@
         "41A"
       ], 
       "housenumber": "41A", 
-      "lat": 50.933348361953, 
-      "lon": 3.634458740162, 
+      "lat": 50.9333399158, 
+      "lon": 3.634473809785, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -644,8 +644,8 @@
         "41D"
       ], 
       "housenumber": "41D", 
-      "lat": 50.933110835407, 
-      "lon": 3.634340677905, 
+      "lat": 50.933110164978, 
+      "lon": 3.63436288123, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1133,6 +1133,30 @@
     }, 
     {
       "hnrlbls": [
+        "83A"
+      ], 
+      "housenumber": "83A", 
+      "lat": 50.928005069021, 
+      "lon": 3.632377997968, 
+      "municipality": "Gavere", 
+      "pcode": "9890", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Luxemburgstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "83B"
+      ], 
+      "housenumber": "83B", 
+      "lat": 50.927958893892, 
+      "lon": 3.632383131539, 
+      "municipality": "Gavere", 
+      "pcode": "9890", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Luxemburgstraat"
+    }, 
+    {
+      "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
@@ -1169,23 +1193,11 @@
     }, 
     {
       "hnrlbls": [
-        "85-85A"
-      ], 
-      "housenumber": "85", 
-      "lat": 50.927831230124, 
-      "lon": 3.632453411046, 
-      "municipality": "Gavere", 
-      "pcode": "9890", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luxemburgstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "85-85A"
+        "85A"
       ], 
       "housenumber": "85A", 
-      "lat": 50.927831230124, 
-      "lon": 3.632453411046, 
+      "lat": 50.927860171582, 
+      "lon": 3.632452530608, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -1196,11 +1208,11 @@
         "85B"
       ], 
       "housenumber": "85B", 
-      "lat": 50.927800354578, 
-      "lon": 3.632102405834, 
+      "lat": 50.927798872008, 
+      "lon": 3.632454202797, 
       "municipality": "Gavere", 
       "pcode": "9890", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luxemburgstraat"
     }, 
     {
@@ -1319,8 +1331,8 @@
         "90B"
       ], 
       "housenumber": "90B", 
-      "lat": 50.929014272401, 
-      "lon": 3.633141702004, 
+      "lat": 50.929015136587, 
+      "lon": 3.633136140742, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1331,8 +1343,8 @@
         "90C"
       ], 
       "housenumber": "90C", 
-      "lat": 50.928921599106, 
-      "lon": 3.633114703642, 
+      "lat": 50.928922646627, 
+      "lon": 3.633109708515, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1355,8 +1367,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.928830667517, 
-      "lon": 3.633078716428, 
+      "lat": 50.928831712368, 
+      "lon": 3.633073294606, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1367,8 +1379,8 @@
         "92A"
       ], 
       "housenumber": "92A", 
-      "lat": 50.928740551125, 
-      "lon": 3.63305807943, 
+      "lat": 50.928740883985, 
+      "lon": 3.633053806759, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1391,11 +1403,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.928593777138, 
-      "lon": 3.633163223872, 
+      "lat": 50.928586260304, 
+      "lon": 3.633168747025, 
       "municipality": "Gavere", 
       "pcode": "9890", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Luxemburgstraat"
     }, 
     {

@@ -446,7 +446,7 @@
     }, 
     {
       "hnrlbls": [
-        "9-9A"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 50.757358543227, 
@@ -458,14 +458,14 @@
     }, 
     {
       "hnrlbls": [
-        "9-9A"
+        "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 50.757358543227, 
-      "lon": 3.627716592088, 
+      "lat": 50.757289210584, 
+      "lon": 3.628168669509, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Populierstraat"
     }
   ]

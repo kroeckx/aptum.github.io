@@ -733,6 +733,11 @@
       "street": "Mortselsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -1231,18 +1236,6 @@
     }, 
     {
       "hnrlbls": [
-        "215-217"
-      ], 
-      "housenumber": "215", 
-      "lat": 51.193799051058, 
-      "lon": 4.468139325261, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Mortselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "216"
       ], 
       "housenumber": "216", 
@@ -1254,8 +1247,12 @@
       "street": "Mortselsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
-        "215-217"
+        "217"
       ], 
       "housenumber": "217", 
       "lat": 51.193799051058, 
@@ -1934,6 +1931,10 @@
       "street": "Mortselsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -1958,12 +1959,13 @@
       "street": "Mortselsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "4"

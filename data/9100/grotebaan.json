@@ -1104,9 +1104,25 @@
     }, 
     {
       "hnrlbls": [
-        "76A-76B"
+        "76A"
       ], 
       "housenumber": "76A", 
+      "lat": 51.183084977131, 
+      "lon": 4.197290231536, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "76B-76C"
+      ], 
+      "housenumber": "76B", 
       "lat": 51.183267203604, 
       "lon": 4.197496797428, 
       "municipality": "Sint-Niklaas", 
@@ -1116,9 +1132,9 @@
     }, 
     {
       "hnrlbls": [
-        "76A-76B"
+        "76B-76C"
       ], 
-      "housenumber": "76B", 
+      "housenumber": "76C", 
       "lat": 51.183267203604, 
       "lon": 4.197496797428, 
       "municipality": "Sint-Niklaas", 
@@ -1158,11 +1174,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.183666771715, 
-      "lon": 4.19732914897, 
+      "lat": 51.183622229167, 
+      "lon": 4.197543983211, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {

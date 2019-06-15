@@ -302,8 +302,8 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.165624784018, 
-      "lon": 4.396241970825, 
+      "lat": 51.165617769414, 
+      "lon": 4.396256691812, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -438,6 +438,12 @@
       "street": "Doornstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -474,9 +480,6 @@
       "street": "Doornstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "156"
       ], 
@@ -1342,11 +1345,11 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.162739519009, 
-      "lon": 4.40019192042, 
+      "lat": 51.162736640289, 
+      "lon": 4.400200638663, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Doornstraat"
     }, 
     {
@@ -1494,27 +1497,6 @@
       "street": "Doornstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "14", 
-        "15", 
-        "17", 
-        "18", 
-        "2", 
-        "20", 
-        "21", 
-        "22", 
-        "23", 
-        "24", 
-        "25", 
-        "26", 
-        "3", 
-        "4", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "246"
       ], 
@@ -1749,11 +1731,6 @@
       "street": "Doornstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "268"
       ], 
@@ -1836,10 +1813,10 @@
       "street": "Doornstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "275"
@@ -2049,6 +2026,17 @@
       "street": "Doornstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204"
+      ], 
       "hnrlbls": [
         "295"
       ], 
@@ -2639,8 +2627,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.166515495853, 
-      "lon": 4.396475829156, 
+      "lat": 51.166515766026, 
+      "lon": 4.39647368483, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -2663,8 +2651,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.166472431913, 
-      "lon": 4.396511830357, 
+      "lat": 51.166473420622, 
+      "lon": 4.396511973926, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 

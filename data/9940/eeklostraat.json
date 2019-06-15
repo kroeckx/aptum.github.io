@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.179043275896, 
-      "lon": 3.744498753536, 
+      "lat": 51.179222706207, 
+      "lon": 3.74453525486, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -101,11 +101,11 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.181489262196, 
-      "lon": 3.733264258786, 
+      "lat": 51.181509201436, 
+      "lon": 3.733294736262, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -137,11 +137,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.181475223506, 
-      "lon": 3.733160905355, 
+      "lat": 51.181456249106, 
+      "lon": 3.733125981302, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -161,11 +161,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.181581313232, 
-      "lon": 3.733097964519, 
+      "lat": 51.181588996242, 
+      "lon": 3.733105868961, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -185,11 +185,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.181608292974, 
-      "lon": 3.733033525575, 
+      "lat": 51.1815629001, 
+      "lon": 3.732983515106, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -209,11 +209,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.18169383328, 
-      "lon": 3.732926957464, 
+      "lat": 51.181699389887, 
+      "lon": 3.732940611548, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -233,11 +233,11 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.181721412964, 
-      "lon": 3.73287380851, 
+      "lat": 51.181732934079, 
+      "lon": 3.732893388167, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -257,11 +257,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.181757933431, 
-      "lon": 3.732728148167, 
+      "lat": 51.181746217246, 
+      "lon": 3.732722443937, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -605,11 +605,11 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.183462702461, 
-      "lon": 3.730215475815, 
+      "lat": 51.183467309141, 
+      "lon": 3.730202969824, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -686,11 +686,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.179018443517, 
-      "lon": 3.743541494301, 
+      "lat": 51.179008101778, 
+      "lon": 3.743540631625, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -776,6 +776,26 @@
       "housenumber": "26", 
       "lat": 51.179050469318, 
       "lon": 3.743070421406, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Eeklostraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.178892355607, 
+      "lon": 3.742238510051, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1135,11 +1155,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.179098919158, 
-      "lon": 3.739749230323, 
+      "lat": 51.179074686871, 
+      "lon": 3.739739402875, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -1147,11 +1167,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.179263708854, 
-      "lon": 3.741429097964, 
+      "lat": 51.179253994, 
+      "lon": 3.741427798303, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -1243,11 +1263,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.179263112731, 
-      "lon": 3.739067435141, 
+      "lat": 51.179227968869, 
+      "lon": 3.739051033599, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -1327,11 +1347,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.178642031153, 
-      "lon": 3.74428073569, 
+      "lat": 51.178731130775, 
+      "lon": 3.744301568122, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -1399,11 +1419,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.179670040385, 
-      "lon": 3.737482960687, 
+      "lat": 51.17963005546, 
+      "lon": 3.737452181454, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -1531,11 +1551,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.178639689041, 
-      "lon": 3.744160640065, 
+      "lat": 51.178735108367, 
+      "lon": 3.744203697119, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {
@@ -1548,6 +1568,22 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Eeklostraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 51.180816205681, 
+      "lon": 3.735078836372, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eeklostraat"
     }, 
     {

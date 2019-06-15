@@ -216,6 +216,13 @@
       "street": "Andr\u00e9 Dumontlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU21", 
+        "BU22"
+      ], 
       "hnrlbls": [
         "129"
       ], 
@@ -240,6 +247,18 @@
       "street": "Andr\u00e9 Dumontlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU31", 
+        "BU32", 
+        "BU33"
+      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -252,6 +271,20 @@
       "street": "Andr\u00e9 Dumontlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU03", 
+        "BU11", 
+        "BU12", 
+        "BU13", 
+        "BU21", 
+        "BU22", 
+        "BU23", 
+        "BU31", 
+        "BU32", 
+        "BU33"
+      ], 
       "hnrlbls": [
         "133"
       ], 
@@ -264,6 +297,14 @@
       "street": "Andr\u00e9 Dumontlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22"
+      ], 
       "hnrlbls": [
         "135"
       ], 
@@ -669,11 +710,11 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.989843553046, 
-      "lon": 5.536519972513, 
+      "lat": 50.989905141182, 
+      "lon": 5.536591876011, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Andr\u00e9 Dumontlaan"
     }, 
     {
@@ -962,6 +1003,22 @@
       "housenumber": "209", 
       "lat": 50.986910676405, 
       "lon": 5.5397184525, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Andr\u00e9 Dumontlaan"
+    }, 
+    {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.996280294903, 
+      "lon": 5.530529323222, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1391,29 +1448,18 @@
     }, 
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
-        "42-44"
-      ], 
-      "housenumber": "42", 
-      "lat": 50.994939485376, 
-      "lon": 5.531103364178, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Andr\u00e9 Dumontlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "42-44"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.994939485376, 
-      "lon": 5.531103364178, 
+      "lat": 50.994993454743, 
+      "lon": 5.531136899841, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Andr\u00e9 Dumontlaan"
     }, 
     {
@@ -1663,8 +1709,8 @@
         "85-91"
       ], 
       "housenumber": "85", 
-      "lat": 50.992881591662, 
-      "lon": 5.535363933669, 
+      "lat": 50.992878556377, 
+      "lon": 5.535370838292, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1687,8 +1733,8 @@
         "85-91"
       ], 
       "housenumber": "87", 
-      "lat": 50.992881591662, 
-      "lon": 5.535363933669, 
+      "lat": 50.992878556377, 
+      "lon": 5.535370838292, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1720,8 +1766,8 @@
         "85-91"
       ], 
       "housenumber": "89", 
-      "lat": 50.992881591662, 
-      "lon": 5.535363933669, 
+      "lat": 50.992878556377, 
+      "lon": 5.535370838292, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1744,8 +1790,8 @@
         "85-91"
       ], 
       "housenumber": "91", 
-      "lat": 50.992881591662, 
-      "lon": 5.535363933669, 
+      "lat": 50.992878556377, 
+      "lon": 5.535370838292, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 

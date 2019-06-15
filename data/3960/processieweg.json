@@ -17,8 +17,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.147565018481, 
-      "lon": 5.656108280308, 
+      "lat": 51.147566980529, 
+      "lon": 5.656126200617, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -58,6 +58,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Processieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.147407417365, 
+      "lon": 5.655820505012, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Processieweg"
     }
   ]

@@ -421,8 +421,9 @@
       "street": "Korte Zavelstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "37"
@@ -433,6 +434,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
+      "street": "Korte Zavelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 51.223258150613, 
+      "lon": 4.427068095153, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Korte Zavelstraat"
     }, 
     {

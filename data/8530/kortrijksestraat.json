@@ -372,6 +372,20 @@
       "street": "Kortrijksestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -390,30 +404,6 @@
       "housenumber": "5", 
       "lat": 50.853721089596, 
       "lon": 3.307376238229, 
-      "municipality": "Harelbeke", 
-      "pcode": "8530", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kortrijksestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 50.852836440519, 
-      "lon": 3.306353587465, 
-      "municipality": "Harelbeke", 
-      "pcode": "8530", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kortrijksestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 50.85280300136, 
-      "lon": 3.306314433463, 
       "municipality": "Harelbeke", 
       "pcode": "8530", 
       "source": "manueleAanduidingVanGebouw", 

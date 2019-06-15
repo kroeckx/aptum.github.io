@@ -197,8 +197,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.083559064908, 
-      "lon": 5.027116364685, 
+      "lat": 51.083585944219, 
+      "lon": 5.027083918305, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +221,8 @@
         "31-33"
       ], 
       "housenumber": "31", 
-      "lat": 51.083522959695, 
-      "lon": 5.027303672711, 
+      "lat": 51.083541285541, 
+      "lon": 5.02732191351, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
       "source": "afgeleidVanGebouw", 
@@ -245,8 +245,8 @@
         "31-33"
       ], 
       "housenumber": "33", 
-      "lat": 51.083522959695, 
-      "lon": 5.027303672711, 
+      "lat": 51.083541285541, 
+      "lon": 5.02732191351, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
       "source": "afgeleidVanGebouw", 
@@ -533,8 +533,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.083443078612, 
-      "lon": 5.028951364632, 
+      "lat": 51.083464583499, 
+      "lon": 5.028947672433, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
       "source": "afgeleidVanGebouw", 
@@ -554,26 +554,26 @@
     }, 
     {
       "hnrlbls": [
-        "61"
+        "61-63"
       ], 
       "housenumber": "61", 
-      "lat": 51.083447750786, 
-      "lon": 5.029288387296, 
+      "lat": 51.083528712794, 
+      "lon": 5.02939000549, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rozenstraat"
     }, 
     {
       "hnrlbls": [
-        "63"
+        "61-63"
       ], 
       "housenumber": "63", 
-      "lat": 51.083409816502, 
-      "lon": 5.029368486423, 
+      "lat": 51.083528712794, 
+      "lon": 5.02939000549, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rozenstraat"
     }, 
     {
@@ -581,35 +581,35 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.083582100669, 
-      "lon": 5.02947153894, 
+      "lat": 51.083635159767, 
+      "lon": 5.029579613538, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rozenstraat"
     }, 
     {
       "hnrlbls": [
-        "67-69"
+        "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.083579141969, 
-      "lon": 5.02969442288, 
+      "lat": 51.083537993617, 
+      "lon": 5.029594366252, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rozenstraat"
     }, 
     {
       "hnrlbls": [
-        "67-69"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.083579141969, 
-      "lon": 5.02969442288, 
+      "lat": 51.083537961583, 
+      "lon": 5.029600074521, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rozenstraat"
     }, 
     {

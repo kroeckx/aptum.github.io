@@ -61,12 +61,68 @@
       "street": "Witherenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.842843715067, 
+      "lon": 4.018893377056, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
       "lat": 50.843578646377, 
       "lon": 4.019598555822, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.843234874688, 
+      "lon": 4.018960896069, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -134,11 +190,47 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.844065418886, 
+      "lon": 4.019563142551, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 50.84387410536, 
       "lon": 4.019104808881, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.844220797796, 
+      "lon": 4.019606290765, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.844049103171, 
+      "lon": 4.019094706687, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -170,11 +262,23 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.844300143949, 
+      "lon": 4.019111727513, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "28A"
       ], 
       "housenumber": "28A", 
-      "lat": 50.844373547964, 
-      "lon": 4.019158322624, 
+      "lat": 50.84437264049, 
+      "lon": 4.01912524618, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -206,11 +310,35 @@
     }, 
     {
       "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.844449605123, 
+      "lon": 4.019129786474, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 50.844671288833, 
       "lon": 4.019583215098, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.844487986779, 
+      "lon": 4.018072541081, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -230,6 +358,18 @@
     }, 
     {
       "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.84449385807, 
+      "lon": 4.017961462543, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -242,11 +382,35 @@
     }, 
     {
       "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.844487507928, 
+      "lon": 4.017520920287, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
       "lat": 50.844902046318, 
       "lon": 4.019611464288, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.844339531551, 
+      "lon": 4.017398210337, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -271,6 +435,18 @@
       "housenumber": "4", 
       "lat": 50.842298044994, 
       "lon": 4.020163763958, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.844270186086, 
+      "lon": 4.017356273315, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -389,8 +565,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.842909058042, 
-      "lon": 4.019645120166, 
+      "lat": 50.842891340062, 
+      "lon": 4.01961202736, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -434,6 +610,18 @@
     }, 
     {
       "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 50.844651104491, 
+      "lon": 4.017155357252, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "55A"
       ], 
       "housenumber": "55A", 
@@ -445,15 +633,95 @@
       "street": "Witherenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.84287236135, 
+      "lon": 4.017677502683, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.844510965302, 
+      "lon": 4.017068228572, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.842564548264, 
+      "lon": 4.017674685478, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 50.844354435327, 
+      "lon": 4.016941182245, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
       "hnrlbls": [
         "59A"
       ], 
       "housenumber": "59A", 
-      "lat": 50.84435608998, 
-      "lon": 4.016953380843, 
+      "lat": 50.844287856862, 
+      "lon": 4.016892693781, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Witherenstraat"
     }, 
     {
@@ -470,11 +738,35 @@
     }, 
     {
       "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.844220153547, 
+      "lon": 4.016858838566, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
       "lat": 50.844035611171, 
       "lon": 4.016833665687, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Witherenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 50.843868425907, 
+      "lon": 4.016900938444, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 

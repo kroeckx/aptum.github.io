@@ -121,8 +121,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.182782350552, 
-      "lon": 3.019654223869, 
+      "lat": 51.18279972808, 
+      "lon": 3.019664449669, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -485,11 +485,35 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.183384365181, 
-      "lon": 3.01819396877, 
+      "lat": 51.183384195244, 
+      "lon": 3.018194831934, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ettelgemsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137A-137B"
+      ], 
+      "housenumber": "137A", 
+      "lat": 51.183329104645, 
+      "lon": 3.019069978278, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Ettelgemsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137A-137B"
+      ], 
+      "housenumber": "137B", 
+      "lat": 51.183329104645, 
+      "lon": 3.019069978278, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ettelgemsestraat"
     }, 
     {
@@ -1696,15 +1720,14 @@
         "1", 
         "10", 
         "11", 
-        "12", 
         "13", 
         "14", 
         "15", 
         "16", 
         "2", 
+        "3", 
         "4", 
         "5", 
-        "6", 
         "7", 
         "8", 
         "9"
@@ -1737,8 +1760,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.183128556712, 
-      "lon": 3.017309367727, 
+      "lat": 51.183128736452, 
+      "lon": 3.017309362524, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -1778,6 +1801,18 @@
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ettelgemsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 51.182537258061, 
+      "lon": 3.017204901342, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ettelgemsestraat"
     }, 
     {

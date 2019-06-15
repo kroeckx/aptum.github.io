@@ -212,8 +212,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.221666798308, 
-      "lon": 4.194180155532, 
+      "lat": 51.221625301943, 
+      "lon": 4.19426175433, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -680,21 +680,6 @@
       "street": "Nieuwe Baan"
     }, 
     {
-      "busnrs": [
-        "102"
-      ], 
-      "hnrlbls": [
-        "60b"
-      ], 
-      "housenumber": "60b", 
-      "lat": 51.223036576912, 
-      "lon": 4.194204247828, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
-      "street": "Nieuwe Baan"
-    }, 
-    {
       "hnrlbls": [
         "61"
       ], 
@@ -763,7 +748,7 @@
       "lon": 4.19368550974, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nieuwe Baan"
     }, 
     {

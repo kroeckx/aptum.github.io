@@ -142,6 +142,29 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.206438209567, 
+      "lon": 4.042363848272, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Polenlaan"
+    }, 
+    {
+      "busnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -212,15 +235,20 @@
       "street": "Polenlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.206470531313, 
-      "lon": 4.042285209311, 
+      "lat": 51.206579914571, 
+      "lon": 4.041891519531, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Polenlaan"
     }, 
     {
@@ -885,18 +913,6 @@
     }, 
     {
       "hnrlbls": [
-        "71A"
-      ], 
-      "housenumber": "71A", 
-      "lat": 51.20946936752, 
-      "lon": 4.043886147794, 
-      "municipality": "Stekene", 
-      "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Polenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
@@ -908,15 +924,20 @@
       "street": "Polenlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.20951417338, 
-      "lon": 4.043934633201, 
+      "lat": 51.209513265914, 
+      "lon": 4.043931491325, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Polenlaan"
     }, 
     {
@@ -1113,8 +1134,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.207203198353, 
-      "lon": 4.042028965214, 
+      "lat": 51.207479753628, 
+      "lon": 4.041825700208, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 

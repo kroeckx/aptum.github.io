@@ -650,6 +650,11 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -792,8 +797,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.150754658385, 
-      "lon": 3.606274608729, 
+      "lat": 51.15075412094, 
+      "lon": 3.606274903347, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 

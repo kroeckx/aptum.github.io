@@ -14,24 +14,9 @@
     }, 
     {
       "hnrlbls": [
-        "8-10W"
+        "8-10"
       ], 
       "housenumber": "10", 
-      "lat": 51.222005452729, 
-      "lon": 4.400223315852, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oude Beurs"
-    }, 
-    {
-      "busnrs": [
-        "11"
-      ], 
-      "hnrlbls": [
-        "8-10W"
-      ], 
-      "housenumber": "10W", 
       "lat": 51.222005452729, 
       "lon": 4.400223315852, 
       "municipality": "Antwerpen", 
@@ -374,6 +359,15 @@
       "street": "Oude Beurs"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -399,11 +393,11 @@
     }, 
     {
       "hnrlbls": [
-        "27-40"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.221483671794, 
-      "lon": 4.401218457084, 
+      "lat": 51.221519507181, 
+      "lon": 4.401319106272, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -629,7 +623,7 @@
     }, 
     {
       "hnrlbls": [
-        "8-10W"
+        "8-10"
       ], 
       "housenumber": "8", 
       "lat": 51.222005452729, 

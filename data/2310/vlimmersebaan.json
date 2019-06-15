@@ -41,8 +41,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.320245014935, 
-      "lon": 4.7741138257, 
+      "lat": 51.320260771328, 
+      "lon": 4.77407968091, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanPerceelKadaster", 
@@ -206,6 +206,18 @@
     }, 
     {
       "hnrlbls": [
+        "113B"
+      ], 
+      "housenumber": "113B", 
+      "lat": 51.318855532883, 
+      "lon": 4.77479593101, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Vlimmersebaan"
+    }, 
+    {
+      "hnrlbls": [
         "114"
       ], 
       "housenumber": "114", 
@@ -257,11 +269,11 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.318108209255, 
-      "lon": 4.775254697953, 
+      "lat": 51.318122544863, 
+      "lon": 4.775320229325, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Vlimmersebaan"
     }, 
     {

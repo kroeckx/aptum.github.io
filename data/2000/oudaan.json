@@ -62,14 +62,14 @@
     }, 
     {
       "hnrlbls": [
-        "15-36"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.216244921061, 
-      "lon": 4.403838810069, 
+      "lat": 51.216033168553, 
+      "lon": 4.403791561817, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oudaan"
     }, 
     {
@@ -94,18 +94,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oudaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19-27"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.21608271198, 
-      "lon": 4.403734209451, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudaan"
     }, 
     {
@@ -181,18 +169,6 @@
     }, 
     {
       "hnrlbls": [
-        "19-27"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.21608271198, 
-      "lon": 4.403734209451, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oudaan"
-    }, 
-    {
-      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -201,18 +177,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oudaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19-27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.21608271198, 
-      "lon": 4.403734209451, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudaan"
     }, 
     {
@@ -237,48 +201,50 @@
         "23", 
         "31", 
         "32", 
+        "33", 
         "41", 
         "42", 
         "51", 
-        "6", 
         "61"
       ], 
       "hnrlbls": [
-        "3-3"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.21587877408, 
-      "lon": 4.402181229624, 
+      "lat": 51.215810329737, 
+      "lon": 4.402328447132, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oudaan"
     }, 
     {
-      "busnrs": [
-        "32"
+      "apptnrs": [
+        "101", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
-        "30-32"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.215836325416, 
-      "lon": 4.404663424528, 
+      "lat": 51.215846507628, 
+      "lon": 4.404581569423, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oudaan"
     }, 
     {
       "hnrlbls": [
-        "30-32"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.215836325416, 
-      "lon": 4.404663424528, 
+      "lat": 51.215860928709, 
+      "lon": 4.404743875791, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oudaan"
     }, 
     {
@@ -304,8 +270,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.216139947174, 
-      "lon": 4.402593887391, 
+      "lat": 51.215951615534, 
+      "lon": 4.402677901082, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

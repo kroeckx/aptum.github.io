@@ -1238,9 +1238,9 @@
     }, 
     {
       "hnrlbls": [
-        "70-70C"
+        "70A-70C"
       ], 
-      "housenumber": "70", 
+      "housenumber": "70A", 
       "lat": 51.086224850181, 
       "lon": 4.912398810053, 
       "municipality": "Westerlo", 
@@ -1250,26 +1250,26 @@
     }, 
     {
       "hnrlbls": [
-        "70-70C"
+        "70A-70C"
       ], 
-      "housenumber": "70A", 
+      "housenumber": "70B", 
       "lat": 51.086224850181, 
       "lon": 4.912398810053, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
       "hnrlbls": [
-        "70-70C"
+        "70A-70C"
       ], 
       "housenumber": "70C", 
       "lat": 51.086224850181, 
       "lon": 4.912398810053, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {

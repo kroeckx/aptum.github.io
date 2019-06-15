@@ -987,7 +987,7 @@
       "lon": 3.636209639705, 
       "municipality": "Gent", 
       "pcode": "9031", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoon Catriestraat"
     }, 
     {
@@ -1472,7 +1472,19 @@
     }, 
     {
       "hnrlbls": [
-        "205-205B"
+        "204A"
+      ], 
+      "housenumber": "204A", 
+      "lat": 51.062800017473, 
+      "lon": 3.632688968874, 
+      "municipality": "Gent", 
+      "pcode": "9031", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Antoon Catriestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "205"
       ], 
       "housenumber": "205", 
       "lat": 51.062018703268, 
@@ -1496,11 +1508,11 @@
     }, 
     {
       "hnrlbls": [
-        "205-205B"
+        "205B"
       ], 
       "housenumber": "205B", 
-      "lat": 51.062018703268, 
-      "lon": 3.631989977108, 
+      "lat": 51.06216279085, 
+      "lon": 3.631757894375, 
       "municipality": "Gent", 
       "pcode": "9031", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1683,7 +1695,7 @@
       "lon": 3.653608236518, 
       "municipality": "Gent", 
       "pcode": "9031", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antoon Catriestraat"
     }, 
     {

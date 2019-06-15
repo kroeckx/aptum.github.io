@@ -89,8 +89,8 @@
         "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 50.988219632993, 
-      "lon": 3.812001680715, 
+      "lat": 50.988219975718, 
+      "lon": 3.811998115995, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +185,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.988149017429, 
-      "lon": 3.809808589607, 
+      "lat": 50.988148845086, 
+      "lon": 3.809810158345, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -245,8 +245,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.987759718413, 
-      "lon": 3.809606853502, 
+      "lat": 50.987759083783, 
+      "lon": 3.809605721667, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -312,8 +312,8 @@
         "26A"
       ], 
       "housenumber": "26A", 
-      "lat": 50.988944813106, 
-      "lon": 3.808552434222, 
+      "lat": 50.988888027215, 
+      "lon": 3.808633726566, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -384,11 +384,23 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.989267047179, 
-      "lon": 3.807921612908, 
+      "lat": 50.989174378069, 
+      "lon": 3.807886258712, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kalverhagestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "32A"
+      ], 
+      "housenumber": "32A", 
+      "lat": 50.989235566986, 
+      "lon": 3.807785826797, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kalverhagestraat"
     }, 
     {
@@ -396,8 +408,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.989348477467, 
-      "lon": 3.806937875188, 
+      "lat": 50.989342781191, 
+      "lon": 3.806930964343, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -492,8 +504,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.989619123108, 
-      "lon": 3.807026929449, 
+      "lat": 50.98962384894, 
+      "lon": 3.807037697587, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -504,8 +516,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.988695354045, 
-      "lon": 3.800370663406, 
+      "lat": 50.988695268279, 
+      "lon": 3.800371519012, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -540,8 +552,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.990609646858, 
-      "lon": 3.804484455037, 
+      "lat": 50.99060855523, 
+      "lon": 3.804481761929, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -588,8 +600,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.990678837604, 
-      "lon": 3.817713426708, 
+      "lat": 50.990688161992, 
+      "lon": 3.817688961064, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -612,8 +624,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.988507648566, 
-      "lon": 3.79951296192, 
+      "lat": 50.988505305266, 
+      "lon": 3.799511708504, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -624,8 +636,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.989055886623, 
-      "lon": 3.800885876352, 
+      "lat": 50.989045861602, 
+      "lon": 3.800876170096, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -648,8 +660,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.988484760635, 
-      "lon": 3.799427213619, 
+      "lat": 50.988484849146, 
+      "lon": 3.799426927691, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 

@@ -149,8 +149,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.743731041705, 
-      "lon": 5.266150690368, 
+      "lat": 50.743727849854, 
+      "lon": 5.266156580641, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +173,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.743618058435, 
-      "lon": 5.266041841673, 
+      "lat": 50.743618858756, 
+      "lon": 5.266042990472, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +185,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.743533260123, 
-      "lon": 5.266067713716, 
+      "lat": 50.743532651543, 
+      "lon": 5.266065009953, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanGebouw", 
@@ -197,8 +197,8 @@
         "127A"
       ], 
       "housenumber": "127A", 
-      "lat": 50.743491280852, 
-      "lon": 5.265961494203, 
+      "lat": 50.743468622893, 
+      "lon": 5.265961770819, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanGebouw", 
@@ -209,11 +209,11 @@
         "127B"
       ], 
       "housenumber": "127B", 
-      "lat": 50.743449744618, 
-      "lon": 5.265926412962, 
+      "lat": 50.743448760165, 
+      "lon": 5.265925827429, 
       "municipality": "Heers", 
       "pcode": "3870", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bovelingenstraat"
     }, 
     {
@@ -221,8 +221,8 @@
         "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.743384492802, 
-      "lon": 5.265912275352, 
+      "lat": 50.743386282255, 
+      "lon": 5.265901682532, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanGebouw", 
@@ -233,8 +233,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 50.743311854488, 
-      "lon": 5.265829701422, 
+      "lat": 50.743312571442, 
+      "lon": 5.265829998469, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanGebouw", 
@@ -1133,8 +1133,8 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 50.738649682172, 
-      "lon": 5.258040667326, 
+      "lat": 50.738648394603, 
+      "lon": 5.258044468308, 
       "municipality": "Heers", 
       "pcode": "3870", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1226,7 +1226,7 @@
     }, 
     {
       "hnrlbls": [
-        "225"
+        "225-225A"
       ], 
       "housenumber": "225", 
       "lat": 50.738185237321, 
@@ -2563,11 +2563,11 @@
         "350A-350B"
       ], 
       "housenumber": "350A", 
-      "lat": 50.728029044911, 
-      "lon": 5.25404696051, 
+      "lat": 50.728036297996, 
+      "lon": 5.254003328289, 
       "municipality": "Heers", 
       "pcode": "3870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bovelingenstraat"
     }, 
     {
@@ -2575,11 +2575,11 @@
         "350A-350B"
       ], 
       "housenumber": "350B", 
-      "lat": 50.728029044911, 
-      "lon": 5.25404696051, 
+      "lat": 50.728036297996, 
+      "lon": 5.254003328289, 
       "municipality": "Heers", 
       "pcode": "3870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bovelingenstraat"
     }, 
     {

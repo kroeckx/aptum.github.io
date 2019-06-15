@@ -194,8 +194,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.219211876319, 
-      "lon": 4.67368115449, 
+      "lat": 51.219210336096, 
+      "lon": 4.673685867646, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "afgeleidVanGebouw", 
@@ -431,8 +431,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.223874018806, 
-      "lon": 4.676102777556, 
+      "lat": 51.223880102118, 
+      "lon": 4.676079342267, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "afgeleidVanGebouw", 
@@ -859,11 +859,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.215329847553, 
-      "lon": 4.664178799773, 
+      "lat": 51.21539011339, 
+      "lon": 4.664197501436, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -947,8 +947,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.214972989484, 
-      "lon": 4.666080831906, 
+      "lat": 51.214970919281, 
+      "lon": 4.666081963602, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "afgeleidVanGebouw", 
@@ -1079,35 +1079,35 @@
         "38A"
       ], 
       "housenumber": "38A", 
-      "lat": 51.214665301721, 
-      "lon": 4.667614916916, 
+      "lat": 51.21472370771, 
+      "lon": 4.667657940359, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
       "hnrlbls": [
-        "38B-44D"
+        "38B-38C"
       ], 
       "housenumber": "38B", 
-      "lat": 51.214410249455, 
-      "lon": 4.66752783951, 
+      "lat": 51.214662877409, 
+      "lon": 4.667613899539, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
       "hnrlbls": [
-        "38B-44D"
+        "38B-38C"
       ], 
       "housenumber": "38C", 
-      "lat": 51.214410249455, 
-      "lon": 4.66752783951, 
+      "lat": 51.214662877409, 
+      "lon": 4.667613899539, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -1154,11 +1154,11 @@
         "40A-40C"
       ], 
       "housenumber": "40A", 
-      "lat": 51.214485622375, 
-      "lon": 4.667898417034, 
+      "lat": 51.214410249455, 
+      "lon": 4.66752783951, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -1166,11 +1166,11 @@
         "40A-40C"
       ], 
       "housenumber": "40B", 
-      "lat": 51.214485622375, 
-      "lon": 4.667898417034, 
+      "lat": 51.214410249455, 
+      "lon": 4.66752783951, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -1178,11 +1178,11 @@
         "40A-40C"
       ], 
       "housenumber": "40C", 
-      "lat": 51.214485622375, 
-      "lon": 4.667898417034, 
+      "lat": 51.214410249455, 
+      "lon": 4.66752783951, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -1199,23 +1199,23 @@
     }, 
     {
       "hnrlbls": [
-        "38B-44D"
+        "42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.214410249455, 
-      "lon": 4.66752783951, 
+      "lat": 51.214519610913, 
+      "lon": 4.667645466233, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Driehoekstraat"
     }, 
     {
       "hnrlbls": [
-        "38B-44D"
+        "42B-42C"
       ], 
       "housenumber": "42B", 
-      "lat": 51.214410249455, 
-      "lon": 4.66752783951, 
+      "lat": 51.214552734843, 
+      "lon": 4.667769043707, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1223,11 +1223,11 @@
     }, 
     {
       "hnrlbls": [
-        "38B-44D"
+        "42B-42C"
       ], 
       "housenumber": "42C", 
-      "lat": 51.214410249455, 
-      "lon": 4.66752783951, 
+      "lat": 51.214552734843, 
+      "lon": 4.667769043707, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1235,11 +1235,11 @@
     }, 
     {
       "hnrlbls": [
-        "38B-44D"
+        "44A-44D"
       ], 
       "housenumber": "44A", 
-      "lat": 51.214410249455, 
-      "lon": 4.66752783951, 
+      "lat": 51.214485622375, 
+      "lon": 4.667898417034, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1247,11 +1247,11 @@
     }, 
     {
       "hnrlbls": [
-        "38B-44D"
+        "44A-44D"
       ], 
       "housenumber": "44B", 
-      "lat": 51.214410249455, 
-      "lon": 4.66752783951, 
+      "lat": 51.214485622375, 
+      "lon": 4.667898417034, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1259,11 +1259,11 @@
     }, 
     {
       "hnrlbls": [
-        "38B-44D"
+        "44A-44D"
       ], 
       "housenumber": "44C", 
-      "lat": 51.214410249455, 
-      "lon": 4.66752783951, 
+      "lat": 51.214485622375, 
+      "lon": 4.667898417034, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1271,11 +1271,11 @@
     }, 
     {
       "hnrlbls": [
-        "38B-44D"
+        "44A-44D"
       ], 
       "housenumber": "44D", 
-      "lat": 51.214410249455, 
-      "lon": 4.66752783951, 
+      "lat": 51.214485622375, 
+      "lon": 4.667898417034, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1497,8 +1497,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.217995528286, 
-      "lon": 4.671073029105, 
+      "lat": 51.217971974125, 
+      "lon": 4.671144867921, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "afgeleidVanGebouw", 
@@ -1569,8 +1569,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.216976466706, 
-      "lon": 4.671088018651, 
+      "lat": 51.216977514491, 
+      "lon": 4.671100047703, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "afgeleidVanGebouw", 

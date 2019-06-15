@@ -120,8 +120,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.122612046848, 
-      "lon": 4.824177735761, 
+      "lat": 51.122606263255, 
+      "lon": 4.824185678033, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -248,8 +248,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.122295231933, 
-      "lon": 4.823002409242, 
+      "lat": 51.122295317412, 
+      "lon": 4.823003552741, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -291,8 +291,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.123484427123, 
-      "lon": 4.825243817212, 
+      "lat": 51.123483049049, 
+      "lon": 4.825205094878, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -674,8 +674,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.119840241795, 
-      "lon": 4.819923748158, 
+      "lat": 51.119832790588, 
+      "lon": 4.819921248069, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -865,14 +865,26 @@
     }, 
     {
       "hnrlbls": [
-        "71"
+        "71A"
       ], 
-      "housenumber": "71", 
-      "lat": 51.119420769138, 
-      "lon": 4.818338338073, 
+      "housenumber": "71A", 
+      "lat": 51.119432460694, 
+      "lon": 4.81838386896, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "71B"
+      ], 
+      "housenumber": "71B", 
+      "lat": 51.119491265237, 
+      "lon": 4.818261606298, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Molenstraat"
     }, 
     {

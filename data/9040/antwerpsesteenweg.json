@@ -2732,7 +2732,7 @@
       "lon": 3.751359145237, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -3533,18 +3533,6 @@
     }, 
     {
       "hnrlbls": [
-        "328A"
-      ], 
-      "housenumber": "328A", 
-      "lat": 51.060588727594, 
-      "lon": 3.748045794499, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "329-331"
       ], 
       "housenumber": "329", 
@@ -3587,14 +3575,14 @@
         "0202"
       ], 
       "hnrlbls": [
-        "332-334"
+        "332"
       ], 
       "housenumber": "332", 
-      "lat": 51.060877924036, 
-      "lon": 3.748287459995, 
+      "lat": 51.060857760751, 
+      "lon": 3.748248070877, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -3613,18 +3601,17 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "0202"
+        "0201"
       ], 
       "hnrlbls": [
-        "332-334"
+        "334"
       ], 
       "housenumber": "334", 
-      "lat": 51.060877924036, 
-      "lon": 3.748287459995, 
+      "lat": 51.060932285865, 
+      "lon": 3.748317266686, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -5367,11 +5354,11 @@
     }, 
     {
       "hnrlbls": [
-        "466-472"
+        "466"
       ], 
       "housenumber": "466", 
-      "lat": 51.063679759416, 
-      "lon": 3.751797933547, 
+      "lat": 51.063591874639, 
+      "lon": 3.751666135297, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5379,11 +5366,11 @@
     }, 
     {
       "hnrlbls": [
-        "466-472"
+        "468"
       ], 
       "housenumber": "468", 
-      "lat": 51.063679759416, 
-      "lon": 3.751797933547, 
+      "lat": 51.063683458141, 
+      "lon": 3.751766072372, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5391,11 +5378,11 @@
     }, 
     {
       "hnrlbls": [
-        "466-472"
+        "470-472"
       ], 
       "housenumber": "470", 
-      "lat": 51.063679759416, 
-      "lon": 3.751797933547, 
+      "lat": 51.063782472627, 
+      "lon": 3.751877467191, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanGebouw", 
@@ -5403,11 +5390,11 @@
     }, 
     {
       "hnrlbls": [
-        "466-472"
+        "470-472"
       ], 
       "housenumber": "472", 
-      "lat": 51.063679759416, 
-      "lon": 3.751797933547, 
+      "lat": 51.063782472627, 
+      "lon": 3.751877467191, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanGebouw", 
@@ -7772,18 +7759,6 @@
     }, 
     {
       "hnrlbls": [
-        "685-691B"
-      ], 
-      "housenumber": "685", 
-      "lat": 51.071202592284, 
-      "lon": 3.771333815572, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "676-692"
       ], 
       "housenumber": "686", 
@@ -7796,35 +7771,11 @@
     }, 
     {
       "hnrlbls": [
-        "685-691B"
-      ], 
-      "housenumber": "687", 
-      "lat": 51.071202592284, 
-      "lon": 3.771333815572, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "676-692"
       ], 
       "housenumber": "688", 
       "lat": 51.066240628087, 
       "lon": 3.757761103245, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "685-691B"
-      ], 
-      "housenumber": "689", 
-      "lat": 51.071202592284, 
-      "lon": 3.771333815572, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanPerceel", 
@@ -7853,30 +7804,6 @@
       "housenumber": "690", 
       "lat": 51.066240628087, 
       "lon": 3.757761103245, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "685-691B"
-      ], 
-      "housenumber": "691", 
-      "lat": 51.071202592284, 
-      "lon": 3.771333815572, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "685-691B"
-      ], 
-      "housenumber": "691B", 
-      "lat": 51.071202592284, 
-      "lon": 3.771333815572, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanPerceel", 
@@ -10161,19 +10088,19 @@
     }, 
     {
       "hnrlbls": [
-        "960-966"
+        "960"
       ], 
       "housenumber": "960", 
-      "lat": 51.073599665092, 
-      "lon": 3.777871815914, 
+      "lat": 51.07347701865, 
+      "lon": 3.777631652898, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "960-966"
+        "966"
       ], 
       "housenumber": "966", 
       "lat": 51.073599665092, 

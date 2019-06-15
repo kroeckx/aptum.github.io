@@ -455,6 +455,13 @@
       "street": "Wilgendijk"
     }, 
     {
+      "apptnrs": [
+        "5/0001", 
+        "5/0011", 
+        "5/0012", 
+        "5/0021", 
+        "5/0022"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -512,18 +519,6 @@
       "municipality": "Diksmuide", 
       "pcode": "8600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Wilgendijk"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.034609987023, 
-      "lon": 2.863533372344, 
-      "municipality": "Diksmuide", 
-      "pcode": "8600", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Wilgendijk"
     }, 
     {

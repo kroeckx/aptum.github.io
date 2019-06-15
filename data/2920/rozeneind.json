@@ -2,14 +2,62 @@
   "addresses": [
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.38384200116, 
+      "lon": 4.476371888225, 
+      "municipality": "Kalmthout", 
+      "pcode": "2920", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rozeneind"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.383862646318, 
+      "lon": 4.478738466033, 
+      "municipality": "Kalmthout", 
+      "pcode": "2920", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rozeneind"
+    }, 
+    {
+      "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.384067041657, 
-      "lon": 4.477269273509, 
+      "lat": 51.384125655461, 
+      "lon": 4.477156944473, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Rozeneind"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.383733929584, 
+      "lon": 4.477977470727, 
+      "municipality": "Kalmthout", 
+      "pcode": "2920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Rozeneind"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.383667117367, 
+      "lon": 4.47645004852, 
+      "municipality": "Kalmthout", 
+      "pcode": "2920", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rozeneind"
     }
   ]

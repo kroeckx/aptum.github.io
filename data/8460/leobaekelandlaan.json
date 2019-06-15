@@ -11,6 +11,22 @@
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
       "street": "Leo Baekelandlaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.207830669513, 
+      "lon": 2.999696121773, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Leo Baekelandlaan"
     }
   ]
 }

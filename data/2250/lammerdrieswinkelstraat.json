@@ -13,33 +13,51 @@
       "street": "Lammerdries-Winkelstraat"
     }, 
     {
-      "apptnrs": [
+      "hnrlbls": [
         "14"
       ], 
+      "housenumber": "14", 
+      "lat": 51.152536034933, 
+      "lon": 4.906853118192, 
+      "municipality": "Olen", 
+      "pcode": "2250", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lammerdries-Winkelstraat"
+    }, 
+    {
       "hnrlbls": [
         "14A"
       ], 
       "housenumber": "14A", 
-      "lat": 51.152545415862, 
-      "lon": 4.906885385014, 
+      "lat": 51.152554814394, 
+      "lon": 4.906913793021, 
       "municipality": "Olen", 
       "pcode": "2250", 
       "source": "manueleAanduidingVanPerceel", 
       "street": "Lammerdries-Winkelstraat"
     }, 
     {
-      "apptnrs": [
-        "14C"
-      ], 
       "hnrlbls": [
         "14B"
       ], 
       "housenumber": "14B", 
-      "lat": 51.152629181066, 
-      "lon": 4.907065010684, 
+      "lat": 51.152607699642, 
+      "lon": 4.907044895846, 
       "municipality": "Olen", 
       "pcode": "2250", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Lammerdries-Winkelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "14C"
+      ], 
+      "housenumber": "14C", 
+      "lat": 51.152632367616, 
+      "lon": 4.90711521495, 
+      "municipality": "Olen", 
+      "pcode": "2250", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lammerdries-Winkelstraat"
     }, 
     {
@@ -125,6 +143,7 @@
         "A2", 
         "A3", 
         "A4", 
+        "A5", 
         "A6", 
         "B1", 
         "B4", 
@@ -156,8 +175,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.150556527988, 
-      "lon": 4.901703277473, 
+      "lat": 51.150908253277, 
+      "lon": 4.903808964344, 
       "municipality": "Olen", 
       "pcode": "2250", 
       "source": "manueleAanduidingVanPerceel", 

@@ -1019,7 +1019,7 @@
       "lon": 4.018969523196, 
       "municipality": "Aalst", 
       "pcode": "9300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Gentse steenweg"
     }, 
     {
@@ -1043,7 +1043,7 @@
       "lon": 4.018854552119, 
       "municipality": "Aalst", 
       "pcode": "9300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Gentse steenweg"
     }, 
     {
@@ -1055,7 +1055,7 @@
       "lon": 4.018781882484, 
       "municipality": "Aalst", 
       "pcode": "9300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Gentse steenweg"
     }, 
     {
@@ -1845,7 +1845,9 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "11", 
+        "21"
       ], 
       "hnrlbls": [
         "277"
@@ -2796,6 +2798,18 @@
     }, 
     {
       "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.938072077916, 
+      "lon": 4.025519306531, 
+      "municipality": "Aalst", 
+      "pcode": "9300", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Gentse steenweg"
+    }, 
+    {
+      "hnrlbls": [
         "410"
       ], 
       "housenumber": "410", 
@@ -2855,6 +2869,28 @@
       "street": "Gentse steenweg"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22", 
+        "23", 
+        "31", 
+        "32"
+      ], 
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.938093891835, 
+      "lon": 4.025416427255, 
+      "municipality": "Aalst", 
+      "pcode": "9300", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Gentse steenweg"
+    }, 
+    {
       "hnrlbls": [
         "440"
       ], 
@@ -2895,8 +2931,8 @@
         "444"
       ], 
       "housenumber": "444", 
-      "lat": 50.941373440076, 
-      "lon": 4.002172270395, 
+      "lat": 50.941251906581, 
+      "lon": 4.002086569004, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2939,24 +2975,30 @@
       "street": "Gentse steenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.938150781857, 
+      "lon": 4.025350424528, 
+      "municipality": "Aalst", 
+      "pcode": "9300", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Gentse steenweg"
+    }, 
+    {
       "hnrlbls": [
         "450"
       ], 
       "housenumber": "450", 
       "lat": 50.941394424283, 
       "lon": 4.000887729782, 
-      "municipality": "Aalst", 
-      "pcode": "9300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gentse steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.938079403521, 
-      "lon": 4.025534476088, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3159,8 +3201,8 @@
         "516"
       ], 
       "housenumber": "516", 
-      "lat": 50.941713096652, 
-      "lon": 3.998335529756, 
+      "lat": 50.941622595872, 
+      "lon": 3.998285448197, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 

@@ -370,7 +370,7 @@
     }, 
     {
       "hnrlbls": [
-        "31"
+        "31-31B"
       ], 
       "housenumber": "31", 
       "lat": 51.050532339877, 
@@ -378,6 +378,30 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Pelikaanstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31-31B"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.050532339877, 
+      "lon": 3.732521831383, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pelikaanstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31-31B"
+      ], 
+      "housenumber": "31B", 
+      "lat": 51.050532339877, 
+      "lon": 3.732521831383, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pelikaanstraat"
     }, 
     {

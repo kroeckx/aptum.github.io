@@ -13,6 +13,23 @@
       "street": "Doornboomstraat"
     }, 
     {
+      "apptnrs": [
+        "102", 
+        "2", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.188268687083, 
+      "lon": 5.11135730705, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Doornboomstraat"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 
@@ -22,6 +39,24 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Doornboomstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.188330153551, 
+      "lon": 5.111231552742, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornboomstraat"
     }, 
     {

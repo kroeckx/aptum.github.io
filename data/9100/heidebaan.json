@@ -301,8 +301,75 @@
       "street": "Heidebaan"
     }, 
     {
+      "hnrlbls": [
+        "130A-130E"
+      ], 
+      "housenumber": "130A", 
+      "lat": 51.176712012737, 
+      "lon": 4.190050982883, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heidebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "130A-130E"
+      ], 
+      "housenumber": "130B", 
+      "lat": 51.176712012737, 
+      "lon": 4.190050982883, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heidebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "130A-130E"
+      ], 
+      "housenumber": "130D", 
+      "lat": 51.176712012737, 
+      "lon": 4.190050982883, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heidebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "130A-130E"
+      ], 
+      "housenumber": "130E", 
+      "lat": 51.176712012737, 
+      "lon": 4.190050982883, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heidebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "130F-130I"
+      ], 
+      "housenumber": "130F", 
+      "lat": 51.177002875355, 
+      "lon": 4.189867264342, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heidebaan"
+    }, 
+    {
       "apptnrs": [
-        "0001"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "130F-130I"
@@ -310,6 +377,54 @@
       "housenumber": "130G", 
       "lat": 51.177002875355, 
       "lon": 4.189867264342, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heidebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "130F-130I"
+      ], 
+      "housenumber": "130H", 
+      "lat": 51.177002875355, 
+      "lon": 4.189867264342, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heidebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "130F-130I"
+      ], 
+      "housenumber": "130I", 
+      "lat": 51.177002875355, 
+      "lon": 4.189867264342, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heidebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "130J-130L"
+      ], 
+      "housenumber": "130J", 
+      "lat": 51.177147457157, 
+      "lon": 4.189302581146, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heidebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "130J-130L"
+      ], 
+      "housenumber": "130L", 
+      "lat": 51.177147457157, 
+      "lon": 4.189302581146, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1008,23 +1123,8 @@
       "street": "Heidebaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "90-90A"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.172956130578, 
-      "lon": 4.183659667315, 
-      "municipality": "Sint-Niklaas", 
-      "pcode": "9100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Heidebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "90-90A"
+        "90A"
       ], 
       "housenumber": "90A", 
       "lat": 51.172956130578, 

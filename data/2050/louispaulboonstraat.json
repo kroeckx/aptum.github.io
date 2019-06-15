@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "20-22"
+        "20"
       ], 
       "housenumber": "20", 
       "lat": 51.224710112073, 
@@ -26,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "20-22"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.224710112073, 
-      "lon": 4.381922725693, 
+      "lat": 51.224620881011, 
+      "lon": 4.382477955603, 
       "municipality": "Antwerpen", 
       "pcode": "2050", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Louis Paul Boonstraat"
     }, 
     {
@@ -72,8 +72,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.225159033574, 
-      "lon": 4.382323667636, 
+      "lat": 51.225086486732, 
+      "lon": 4.382411966308, 
       "municipality": "Antwerpen", 
       "pcode": "2050", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

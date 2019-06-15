@@ -1395,23 +1395,11 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 51.027897767077, 
-      "lon": 2.89781195557, 
+      "lat": 51.028044813727, 
+      "lon": 2.897873348285, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Esenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "191A"
-      ], 
-      "housenumber": "191A", 
-      "lat": 51.028015590027, 
-      "lon": 2.897880253957, 
-      "municipality": "Diksmuide", 
-      "pcode": "8600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Esenweg"
     }, 
     {
@@ -2205,10 +2193,17 @@
       "street": "Esenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "40/0011", 
+        "40/0012", 
+        "40/0013", 
+        "40/0014", 
+        "40/0021", 
+        "40/0022", 
+        "40/0023", 
+        "40/0031", 
+        "40/0032", 
+        "40/0033"
       ], 
       "hnrlbls": [
         "40"
@@ -3069,6 +3064,18 @@
       "municipality": "Diksmuide", 
       "pcode": "8600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Esenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "97C"
+      ], 
+      "housenumber": "97C", 
+      "lat": 51.030713658598, 
+      "lon": 2.880254373092, 
+      "municipality": "Diksmuide", 
+      "pcode": "8600", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Esenweg"
     }, 
     {

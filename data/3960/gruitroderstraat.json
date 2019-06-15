@@ -133,6 +133,43 @@
       "street": "Gruitroderstraat"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.136655586154, 
+      "lon": 5.59713182639, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gruitroderstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0/1", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.136654831734, 
+      "lon": 5.596971193437, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gruitroderstraat"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
@@ -149,8 +186,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.135622508914, 
-      "lon": 5.596005097006, 
+      "lat": 51.135614109655, 
+      "lon": 5.596017450612, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -342,6 +379,30 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Gruitroderstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.136588680386, 
+      "lon": 5.596814413022, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gruitroderstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 51.136547422533, 
+      "lon": 5.596779318941, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Gruitroderstraat"
     }, 
     {

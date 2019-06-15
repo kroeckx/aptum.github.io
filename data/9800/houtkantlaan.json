@@ -1,21 +1,21 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.966614119829, 
-      "lon": 3.522036689753, 
+      "lat": 50.966579896042, 
+      "lon": 3.522002997195, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Houtkantlaan"
     }, 
     {
@@ -585,8 +585,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.963122374317, 
-      "lon": 3.52860531995, 
+      "lat": 50.963048354859, 
+      "lon": 3.528638390262, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -681,8 +681,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.963881218477, 
-      "lon": 3.532456876021, 
+      "lat": 50.963882560702, 
+      "lon": 3.532455997957, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

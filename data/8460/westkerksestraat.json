@@ -317,11 +317,11 @@
         "34-129B"
       ], 
       "housenumber": "129A", 
-      "lat": 51.166928247276, 
-      "lon": 3.014726167327, 
+      "lat": 51.166943269036, 
+      "lon": 3.014734740242, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Westkerksestraat"
     }, 
     {
@@ -329,11 +329,11 @@
         "34-129B"
       ], 
       "housenumber": "129B", 
-      "lat": 51.166928247276, 
-      "lon": 3.014726167327, 
+      "lat": 51.166943269036, 
+      "lon": 3.014734740242, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Westkerksestraat"
     }, 
     {
@@ -742,8 +742,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.164994489931, 
-      "lon": 3.015950990953, 
+      "lat": 51.164994672947, 
+      "lon": 3.015951271622, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -754,23 +754,23 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.164726032658, 
-      "lon": 3.015800626279, 
+      "lat": 51.164951671055, 
+      "lon": 3.015980113296, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Westkerksestraat"
     }, 
     {
       "hnrlbls": [
-        "161-165"
+        "161"
       ], 
       "housenumber": "161", 
-      "lat": 51.174299414934, 
-      "lon": 3.008850505667, 
+      "lat": 51.164906365245, 
+      "lon": 3.016011881345, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Westkerksestraat"
     }, 
     {
@@ -786,8 +786,8 @@
         "162-166"
       ], 
       "housenumber": "162", 
-      "lat": 51.165278402098, 
-      "lon": 3.015276452466, 
+      "lat": 51.165279036107, 
+      "lon": 3.01527686305, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -795,14 +795,14 @@
     }, 
     {
       "hnrlbls": [
-        "161-165"
+        "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.174299414934, 
-      "lon": 3.008850505667, 
+      "lat": 51.164861180393, 
+      "lon": 3.016046362538, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Westkerksestraat"
     }, 
     {
@@ -818,8 +818,8 @@
         "162-166"
       ], 
       "housenumber": "164", 
-      "lat": 51.165278402098, 
-      "lon": 3.015276452466, 
+      "lat": 51.165279036107, 
+      "lon": 3.01527686305, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -827,14 +827,14 @@
     }, 
     {
       "hnrlbls": [
-        "161-165"
+        "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.174299414934, 
-      "lon": 3.008850505667, 
+      "lat": 51.164817770175, 
+      "lon": 3.016086654634, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Westkerksestraat"
     }, 
     {
@@ -850,8 +850,8 @@
         "162-166"
       ], 
       "housenumber": "166", 
-      "lat": 51.165278402098, 
-      "lon": 3.015276452466, 
+      "lat": 51.165279036107, 
+      "lon": 3.01527686305, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -1358,11 +1358,11 @@
         "14-43A"
       ], 
       "housenumber": "43A", 
-      "lat": 51.177370828238, 
-      "lon": 3.00667719931, 
+      "lat": 51.177329186224, 
+      "lon": 3.006667830375, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Westkerksestraat"
     }, 
     {

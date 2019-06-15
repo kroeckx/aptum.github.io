@@ -53,11 +53,23 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.055622227339, 
-      "lon": 4.837328796915, 
+      "lat": 51.055586579491, 
+      "lon": 4.837319025858, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Groenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 51.055679117858, 
+      "lon": 4.837376578036, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -125,11 +137,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.056297478093, 
-      "lon": 4.837760184389, 
+      "lat": 51.056283295976, 
+      "lon": 4.837890265164, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -149,11 +161,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.056361166976, 
-      "lon": 4.837883915386, 
+      "lat": 51.056323458082, 
+      "lon": 4.837940161788, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -353,11 +365,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.057322682288, 
-      "lon": 4.839651264058, 
+      "lat": 51.057277946822, 
+      "lon": 4.839688611534, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -425,8 +437,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.055928145411, 
-      "lon": 4.836962878215, 
+      "lat": 51.055925332586, 
+      "lon": 4.836946875355, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 
@@ -449,8 +461,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.055989454731, 
-      "lon": 4.836939387877, 
+      "lat": 51.055990805881, 
+      "lon": 4.836938688259, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 

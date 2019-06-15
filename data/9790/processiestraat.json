@@ -133,10 +133,32 @@
       "street": "Processiestraat"
     }, 
     {
+      "apptnrs": [
+        "3/0001", 
+        "3/0002", 
+        "3/0101", 
+        "3/0102"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
+      "lat": 50.853374962686, 
+      "lon": 3.508104074258, 
+      "municipality": "Wortegem-Petegem", 
+      "pcode": "9790", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Processiestraat"
+    }, 
+    {
+      "apptnrs": [
+        "3A/0003", 
+        "3A/0103"
+      ], 
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
       "lat": 50.853492847435, 
       "lon": 3.508291376511, 
       "municipality": "Wortegem-Petegem", 

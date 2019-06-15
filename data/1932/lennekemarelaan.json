@@ -47,26 +47,26 @@
         "9"
       ], 
       "hnrlbls": [
-        "10-14"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.856120550869, 
-      "lon": 4.449407458346, 
+      "lat": 50.855969008873, 
+      "lon": 4.449247563966, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lenneke Marelaan"
     }, 
     {
       "hnrlbls": [
-        "37-100"
+        "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.856612799445, 
-      "lon": 4.450588808696, 
+      "lat": 50.856351529573, 
+      "lon": 4.450766446262, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lenneke Marelaan"
     }, 
     {
@@ -76,7 +76,7 @@
         "269"
       ], 
       "hnrlbls": [
-        "10C"
+        "10C-14C"
       ], 
       "housenumber": "10C", 
       "lat": 50.856105055464, 
@@ -92,14 +92,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "10-14"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.856120550869, 
-      "lon": 4.449407458346, 
+      "lat": 50.856104428467, 
+      "lon": 4.449452451367, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lenneke Marelaan"
     }, 
     {
@@ -137,14 +137,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "10-14"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.856120550869, 
-      "lon": 4.449407458346, 
+      "lat": 50.856283970498, 
+      "lon": 4.449550473692, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lenneke Marelaan"
     }, 
     {
@@ -152,64 +152,63 @@
         "140"
       ], 
       "hnrlbls": [
-        "14C"
+        "10C-14C"
       ], 
       "housenumber": "14C", 
-      "lat": 50.855969277673, 
-      "lon": 4.449248842624, 
+      "lat": 50.856105055464, 
+      "lon": 4.449455718956, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lenneke Marelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "100", 
-        "11", 
-        "12", 
-        "13", 
-        "15", 
-        "21", 
-        "22", 
-        "23", 
-        "24", 
-        "25", 
-        "31", 
-        "32", 
-        "33", 
-        "34", 
-        "35", 
-        "41", 
-        "42", 
-        "43", 
-        "44", 
-        "45", 
-        "5", 
-        "51", 
-        "52", 
-        "53", 
-        "54", 
-        "55", 
-        "61", 
-        "62", 
-        "63", 
-        "64", 
-        "65", 
-        "71", 
-        "72", 
-        "73", 
-        "74", 
-        "75", 
-        "81", 
-        "82", 
-        "83", 
-        "85", 
-        "91", 
-        "92", 
-        "93", 
-        "94", 
-        "95"
+      "apptnrs": [
+        "011", 
+        "012", 
+        "013", 
+        "014", 
+        "015", 
+        "021", 
+        "022", 
+        "023", 
+        "024", 
+        "025", 
+        "031", 
+        "032", 
+        "033", 
+        "034", 
+        "035", 
+        "041", 
+        "042", 
+        "043", 
+        "044", 
+        "045", 
+        "051", 
+        "052", 
+        "053", 
+        "054", 
+        "055", 
+        "061", 
+        "062", 
+        "063", 
+        "064", 
+        "065", 
+        "071", 
+        "072", 
+        "073", 
+        "074", 
+        "075", 
+        "081", 
+        "082", 
+        "083", 
+        "084", 
+        "085", 
+        "091", 
+        "092", 
+        "093", 
+        "094", 
+        "095"
       ], 
       "hnrlbls": [
         "16"
@@ -223,41 +222,43 @@
       "street": "Lenneke Marelaan"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "21", 
-        "22", 
-        "23", 
-        "24", 
-        "31", 
-        "32", 
-        "33", 
-        "34", 
-        "41", 
-        "42", 
-        "43", 
-        "44", 
-        "51", 
-        "52", 
-        "53", 
-        "54", 
-        "63", 
-        "64", 
-        "71", 
-        "72", 
-        "73", 
-        "74", 
-        "81", 
-        "82", 
-        "83", 
-        "84", 
-        "91", 
-        "92", 
-        "93", 
-        "94"
+      "apptnrs": [
+        "011", 
+        "012", 
+        "013", 
+        "014", 
+        "021", 
+        "022", 
+        "023", 
+        "024", 
+        "031", 
+        "032", 
+        "033", 
+        "034", 
+        "041", 
+        "042", 
+        "043", 
+        "044", 
+        "051", 
+        "052", 
+        "053", 
+        "054", 
+        "061", 
+        "062", 
+        "063", 
+        "064", 
+        "071", 
+        "072", 
+        "073", 
+        "074", 
+        "081", 
+        "082", 
+        "083", 
+        "084", 
+        "091", 
+        "092", 
+        "093", 
+        "094"
       ], 
       "hnrlbls": [
         "18"
@@ -286,50 +287,48 @@
       "street": "Lenneke Marelaan"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
-        "21", 
-        "22", 
-        "23", 
-        "24", 
-        "25", 
-        "31", 
-        "32", 
-        "33", 
-        "34", 
-        "35", 
-        "41", 
-        "43", 
-        "44", 
-        "45", 
-        "51", 
-        "52", 
-        "53", 
-        "54", 
-        "55", 
-        "61", 
-        "62", 
-        "63", 
-        "64", 
-        "65", 
-        "71", 
-        "72", 
-        "73", 
-        "74", 
-        "75", 
-        "81", 
-        "82", 
-        "83", 
-        "84", 
-        "85", 
-        "91", 
-        "92", 
-        "94", 
-        "95"
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "013", 
+        "014", 
+        "015", 
+        "021", 
+        "022", 
+        "023", 
+        "024", 
+        "025", 
+        "031", 
+        "032", 
+        "033", 
+        "034", 
+        "035", 
+        "041", 
+        "042", 
+        "043", 
+        "044", 
+        "045", 
+        "061", 
+        "062", 
+        "063", 
+        "064", 
+        "065", 
+        "071", 
+        "072", 
+        "073", 
+        "074", 
+        "075", 
+        "081", 
+        "082", 
+        "083", 
+        "084", 
+        "085", 
+        "091", 
+        "092", 
+        "093", 
+        "094", 
+        "095"
       ], 
       "hnrlbls": [
         "20"
@@ -454,7 +453,6 @@
       "apptnrs": [
         "001", 
         "002", 
-        "003", 
         "011", 
         "012", 
         "013", 
@@ -471,7 +469,8 @@
         "052", 
         "053", 
         "061", 
-        "062"
+        "062", 
+        "X003"
       ], 
       "hnrlbls": [
         "28"
@@ -682,18 +681,6 @@
       "street": "Lenneke Marelaan"
     }, 
     {
-      "hnrlbls": [
-        "37-100"
-      ], 
-      "housenumber": "37", 
-      "lat": 50.856612799445, 
-      "lon": 4.450588808696, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "afgeleidVanStraat", 
-      "street": "Lenneke Marelaan"
-    }, 
-    {
       "apptnrs": [
         "001", 
         "002", 
@@ -739,14 +726,14 @@
     }, 
     {
       "hnrlbls": [
-        "4-8"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.855371880715, 
-      "lon": 4.448793063833, 
+      "lat": 50.855060909881, 
+      "lon": 4.448828176381, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lenneke Marelaan"
     }, 
     {
@@ -842,50 +829,26 @@
         "5"
       ], 
       "hnrlbls": [
-        "4-8"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.855371880715, 
-      "lon": 4.448793063833, 
+      "lat": 50.855417737967, 
+      "lon": 4.448646578198, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lenneke Marelaan"
     }, 
     {
       "hnrlbls": [
-        "4-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.855371880715, 
-      "lon": 4.448793063833, 
+      "lat": 50.855523227345, 
+      "lon": 4.449236710518, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lenneke Marelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "37-100"
-      ], 
-      "housenumber": "83", 
-      "lat": 50.856612799445, 
-      "lon": 4.450588808696, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "afgeleidVanStraat", 
-      "street": "Lenneke Marelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "37-100"
-      ], 
-      "housenumber": "85", 
-      "lat": 50.856612799445, 
-      "lon": 4.450588808696, 
-      "municipality": "Zaventem", 
-      "pcode": "1932", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lenneke Marelaan"
     }
   ]

@@ -193,18 +193,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.301185512105, 
-      "lon": 3.078592463664, 
-      "municipality": "De Haan", 
-      "pcode": "8420", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Graaf Jansdijk"
-    }, 
-    {
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -216,10 +204,11 @@
       "street": "Graaf Jansdijk"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "0201", 
-        "0401"
+      "apptnrs": [
+        "0001", 
+        "0301", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
         "6"

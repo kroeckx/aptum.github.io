@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -122,9 +119,6 @@
       "street": "Pottershofstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -367,6 +361,11 @@
       "street": "Pottershofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "5"
       ], 

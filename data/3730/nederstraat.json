@@ -29,11 +29,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.86840556759, 
-      "lon": 5.483636145506, 
+      "lat": 50.868198736649, 
+      "lon": 5.483083395853, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Nederstraat"
     }, 
     {
@@ -1608,6 +1608,18 @@
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nederstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "96C"
+      ], 
+      "housenumber": "96C", 
+      "lat": 50.877866585855, 
+      "lon": 5.479106337302, 
+      "municipality": "Hoeselt", 
+      "pcode": "3730", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nederstraat"
     }, 
     {

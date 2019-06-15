@@ -61,18 +61,6 @@
       "street": "Langstraat"
     }, 
     {
-      "hnrlbls": [
-        "103"
-      ], 
-      "housenumber": "103", 
-      "lat": 50.987550442748, 
-      "lon": 5.708456765499, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Langstraat"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -361,14 +349,14 @@
         "1"
       ], 
       "hnrlbls": [
-        "14-14A"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.983937058978, 
-      "lon": 5.712369439004, 
+      "lat": 50.98390710414, 
+      "lon": 5.71233938111, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Langstraat"
     }, 
     {
@@ -384,15 +372,18 @@
       "street": "Langstraat"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
-        "14-14A"
+        "14A"
       ], 
       "housenumber": "14A", 
-      "lat": 50.983937058978, 
-      "lon": 5.712369439004, 
+      "lat": 50.983964003342, 
+      "lon": 5.712356111093, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Langstraat"
     }, 
     {
@@ -448,8 +439,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.985954272346, 
-      "lon": 5.712433288367, 
+      "lat": 50.985954479766, 
+      "lon": 5.712430872862, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -484,11 +475,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.986330932988, 
-      "lon": 5.712287837715, 
+      "lat": 50.98627867293, 
+      "lon": 5.712801257627, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Langstraat"
     }, 
     {
@@ -540,18 +531,6 @@
       "street": "Langstraat"
     }, 
     {
-      "hnrlbls": [
-        "36-38"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.986466261657, 
-      "lon": 5.712136602355, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Langstraat"
-    }, 
-    {
       "apptnrs": [
         "1"
       ], 
@@ -564,18 +543,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Langstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "36-38"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.986466261657, 
-      "lon": 5.712136602355, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Langstraat"
     }, 
     {
@@ -869,11 +836,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.987432983324, 
-      "lon": 5.710620532882, 
+      "lat": 50.987357264943, 
+      "lon": 5.710622067053, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Langstraat"
     }, 
     {
@@ -901,9 +868,6 @@
       "street": "Langstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "72"
       ], 

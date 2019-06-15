@@ -279,9 +279,9 @@
     {
       "apptnrs": [
         "001", 
+        "002", 
         "101", 
         "102", 
-        "103", 
         "201", 
         "202", 
         "301"
@@ -295,18 +295,6 @@
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
-      "street": "Schoolstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "31A"
-      ], 
-      "housenumber": "31A", 
-      "lat": 51.152799399741, 
-      "lon": 3.603686491544, 
-      "municipality": "Lievegem", 
-      "pcode": "9950", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -358,11 +346,11 @@
         "33A"
       ], 
       "housenumber": "33A", 
-      "lat": 51.151451093706, 
-      "lon": 3.602849138372, 
+      "lat": 51.151440701667, 
+      "lon": 3.602882324916, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schoolstraat"
     }, 
     {
@@ -378,6 +366,26 @@
       "street": "Schoolstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "107", 
+        "108", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207", 
+        "208"
+      ], 
       "hnrlbls": [
         "33C"
       ], 

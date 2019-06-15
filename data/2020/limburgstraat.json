@@ -61,6 +61,10 @@
       "street": "Limburgstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -545,18 +549,6 @@
     }, 
     {
       "hnrlbls": [
-        "2-4"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.189458971917, 
-      "lon": 4.382154984376, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Limburgstraat"
-    }, 
-    {
-      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -808,7 +800,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "2-4"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 51.189458971917, 
@@ -1177,6 +1169,11 @@
       "street": "Limburgstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "66-68"
       ], 

@@ -278,11 +278,11 @@
         "127-129"
       ], 
       "housenumber": "127", 
-      "lat": 51.230603376842, 
-      "lon": 4.430355101319, 
+      "lat": 51.230604363524, 
+      "lon": 4.430358968029, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Lobroekstraat"
     }, 
     {
@@ -302,11 +302,11 @@
         "127-129"
       ], 
       "housenumber": "129", 
-      "lat": 51.230603376842, 
-      "lon": 4.430355101319, 
+      "lat": 51.230604363524, 
+      "lon": 4.430358968029, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Lobroekstraat"
     }, 
     {
@@ -2209,18 +2209,15 @@
       "street": "Lange Lobroekstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
-        "41-45"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.22885335062, 
-      "lon": 4.43301491539, 
+      "lat": 51.228893718956, 
+      "lon": 4.433322187404, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Lobroekstraat"
     }, 
     {
@@ -2241,18 +2238,15 @@
       "street": "Lange Lobroekstraat"
     }, 
     {
-      "busnrs": [
-        "45"
-      ], 
       "hnrlbls": [
-        "41-45"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.22885335062, 
-      "lon": 4.43301491539, 
+      "lat": 51.228932147311, 
+      "lon": 4.433235058275, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Lobroekstraat"
     }, 
     {
@@ -2269,14 +2263,14 @@
     }, 
     {
       "hnrlbls": [
-        "41-45"
+        "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.22885335062, 
-      "lon": 4.43301491539, 
+      "lat": 51.228980654689, 
+      "lon": 4.433125896794, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Lobroekstraat"
     }, 
     {
@@ -2289,18 +2283,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lange Lobroekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 51.228892003355, 
-      "lon": 4.433173301318, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Lobroekstraat"
     }, 
     {
@@ -2705,6 +2687,12 @@
       "street": "Lange Lobroekstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "81"
       ], 

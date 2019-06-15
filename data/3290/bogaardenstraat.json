@@ -67,12 +67,22 @@
       "street": "Bogaardenstraat"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "A1", 
+        "A2", 
+        "A3", 
+        "B", 
+        "B1", 
+        "B2", 
+        "B3"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.988798789992, 
-      "lon": 5.058941330412, 
+      "lat": 50.988636764265, 
+      "lon": 5.059008447357, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanPerceel", 

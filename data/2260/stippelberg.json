@@ -737,11 +737,11 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.074770878655, 
-      "lon": 4.852935404448, 
+      "lat": 51.074750849238, 
+      "lon": 4.85295331828, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stippelberg"
     }, 
     {
@@ -1370,6 +1370,18 @@
     }, 
     {
       "hnrlbls": [
+        "237"
+      ], 
+      "housenumber": "237", 
+      "lat": 51.073053371834, 
+      "lon": 4.848735693484, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Stippelberg"
+    }, 
+    {
+      "hnrlbls": [
         "238"
       ], 
       "housenumber": "238", 
@@ -1378,6 +1390,18 @@
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stippelberg"
+    }, 
+    {
+      "hnrlbls": [
+        "239"
+      ], 
+      "housenumber": "239", 
+      "lat": 51.073006382788, 
+      "lon": 4.848531458968, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stippelberg"
     }, 
     {
@@ -1397,11 +1421,11 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 51.072900686629, 
-      "lon": 4.848637956255, 
+      "lat": 51.072969387461, 
+      "lon": 4.848345305544, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stippelberg"
     }, 
     {
@@ -2407,6 +2431,18 @@
       "housenumber": "54", 
       "lat": 51.080262064808, 
       "lon": 4.866863879459, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stippelberg"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.08016555671, 
+      "lon": 4.86802275907, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 

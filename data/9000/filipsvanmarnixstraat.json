@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1-7"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.040751813519, 
+      "lon": 3.717962995768, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Filips van Marnixstraat"
+    }, 
+    {
+      "hnrlbls": [
         "8-24"
       ], 
       "housenumber": "10", 
@@ -10,6 +22,28 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Filips van Marnixstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.040609774509, 
+      "lon": 3.718336264915, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Filips van Marnixstraat"
     }, 
     {
@@ -133,6 +167,40 @@
       "street": "Filips van Marnixstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504"
+      ], 
+      "hnrlbls": [
+        "1-7"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.040751813519, 
+      "lon": 3.717962995768, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Filips van Marnixstraat"
+    }, 
+    {
       "hnrlbls": [
         "30"
       ], 
@@ -229,6 +297,29 @@
       "street": "Filips van Marnixstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "1-7"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.040751813519, 
+      "lon": 3.717962995768, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Filips van Marnixstraat"
+    }, 
+    {
       "hnrlbls": [
         "59"
       ], 
@@ -298,6 +389,29 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Filips van Marnixstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "1-7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.040751813519, 
+      "lon": 3.717962995768, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Filips van Marnixstraat"
     }, 
     {
@@ -406,6 +520,30 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Filips van Marnixstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.040658936933, 
+      "lon": 3.718204259789, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Filips van Marnixstraat"
     }
   ]

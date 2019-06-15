@@ -332,11 +332,23 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.139707290865, 
-      "lon": 4.91395355244, 
+      "lat": 51.139676019091, 
+      "lon": 4.914087501465, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "O.-L.-Vrouwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7_1"
+      ], 
+      "housenumber": "7_1", 
+      "lat": 51.139679285208, 
+      "lon": 4.914197563229, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "manueleAanduidingVanLot", 
       "street": "O.-L.-Vrouwstraat"
     }, 
     {

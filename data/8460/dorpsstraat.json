@@ -257,6 +257,106 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "122A-122H"
+      ], 
+      "housenumber": "122A", 
+      "lat": 51.178002076499, 
+      "lon": 3.035599421448, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "122A-122H"
+      ], 
+      "housenumber": "122B", 
+      "lat": 51.178002076499, 
+      "lon": 3.035599421448, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "122A-122H"
+      ], 
+      "housenumber": "122C", 
+      "lat": 51.178002076499, 
+      "lon": 3.035599421448, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "122A-122H"
+      ], 
+      "housenumber": "122D", 
+      "lat": 51.178002076499, 
+      "lon": 3.035599421448, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "122A-122H"
+      ], 
+      "housenumber": "122E", 
+      "lat": 51.178002076499, 
+      "lon": 3.035599421448, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "122A-122H"
+      ], 
+      "housenumber": "122F", 
+      "lat": 51.178002076499, 
+      "lon": 3.035599421448, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "122A-122H"
+      ], 
+      "housenumber": "122G", 
+      "lat": 51.178002076499, 
+      "lon": 3.035599421448, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "122A-122H"
+      ], 
+      "housenumber": "122H", 
+      "lat": 51.178002076499, 
+      "lon": 3.035599421448, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Dorpsstraat"
+    }, 
+    {
       "hnrlbls": [
         "123"
       ], 
@@ -333,8 +433,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.178343296752, 
-      "lon": 3.037270512008, 
+      "lat": 51.178328791074, 
+      "lon": 3.037243750873, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -465,11 +565,11 @@
         "158A-158B"
       ], 
       "housenumber": "158A", 
-      "lat": 51.178296159051, 
-      "lon": 3.039431964202, 
+      "lat": 51.178318391337, 
+      "lon": 3.039450353575, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -477,11 +577,11 @@
         "158A-158B"
       ], 
       "housenumber": "158B", 
-      "lat": 51.178296159051, 
-      "lon": 3.039431964202, 
+      "lat": 51.178318391337, 
+      "lon": 3.039450353575, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -501,11 +601,11 @@
         "160A-162B"
       ], 
       "housenumber": "160A", 
-      "lat": 51.178504335045, 
-      "lon": 3.039684913765, 
+      "lat": 51.178506724189, 
+      "lon": 3.039737479211, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -513,11 +613,11 @@
         "160A-162B"
       ], 
       "housenumber": "160B", 
-      "lat": 51.178504335045, 
-      "lon": 3.039684913765, 
+      "lat": 51.178506724189, 
+      "lon": 3.039737479211, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -525,11 +625,11 @@
         "160A-162B"
       ], 
       "housenumber": "162A", 
-      "lat": 51.178504335045, 
-      "lon": 3.039684913765, 
+      "lat": 51.178506724189, 
+      "lon": 3.039737479211, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -537,11 +637,11 @@
         "160A-162B"
       ], 
       "housenumber": "162B", 
-      "lat": 51.178504335045, 
-      "lon": 3.039684913765, 
+      "lat": 51.178506724189, 
+      "lon": 3.039737479211, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -558,11 +658,11 @@
     }, 
     {
       "hnrlbls": [
-        "166-170"
+        "166"
       ], 
       "housenumber": "166", 
-      "lat": 51.17849558007, 
-      "lon": 3.04032148408, 
+      "lat": 51.178517923317, 
+      "lon": 3.040173817949, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -570,11 +670,11 @@
     }, 
     {
       "hnrlbls": [
-        "166-170"
+        "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.17849558007, 
-      "lon": 3.04032148408, 
+      "lat": 51.178517117485, 
+      "lon": 3.0402540783, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -594,11 +694,11 @@
     }, 
     {
       "hnrlbls": [
-        "166-170"
+        "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.17849558007, 
-      "lon": 3.04032148408, 
+      "lat": 51.178516327672, 
+      "lon": 3.040335768447, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 

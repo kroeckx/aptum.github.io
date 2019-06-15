@@ -41,11 +41,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.791460308535, 
-      "lon": 3.608567551141, 
+      "lat": 50.791439699382, 
+      "lon": 3.608744467133, 
       "municipality": "Maarkedal", 
       "pcode": "9681", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Ruitegem"
     }, 
     {
@@ -58,6 +58,18 @@
       "municipality": "Maarkedal", 
       "pcode": "9681", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ruitegem"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.791457154048, 
+      "lon": 3.608399954128, 
+      "municipality": "Maarkedal", 
+      "pcode": "9681", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Ruitegem"
     }, 
     {

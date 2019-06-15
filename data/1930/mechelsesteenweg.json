@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "114-5925"
+        "114-130"
       ], 
       "housenumber": "114", 
       "lat": 50.868708929211, 
@@ -913,14 +913,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-490"
+        "490"
       ], 
       "housenumber": "490", 
-      "lat": 50.879775531396, 
-      "lon": 4.506513164755, 
+      "lat": 50.879786822517, 
+      "lon": 4.506543321879, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1608,6 +1608,16 @@
       "street": "Mechelsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "011", 
+        "012", 
+        "013", 
+        "X021", 
+        "X022"
+      ], 
       "hnrlbls": [
         "561"
       ], 
@@ -1923,18 +1933,6 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Mechelsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "114-5925"
-      ], 
-      "housenumber": "5925", 
-      "lat": 50.868708929211, 
-      "lon": 4.510970649512, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanStraat", 
       "street": "Mechelsesteenweg"
     }, 
     {

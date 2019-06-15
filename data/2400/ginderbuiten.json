@@ -577,7 +577,7 @@
       "street": "Ginderbuiten"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -835,18 +835,6 @@
     }, 
     {
       "hnrlbls": [
-        "172"
-      ], 
-      "housenumber": "172", 
-      "lat": 51.198331474504, 
-      "lon": 5.1330439519, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ginderbuiten"
-    }, 
-    {
-      "hnrlbls": [
         "173"
       ], 
       "housenumber": "173", 
@@ -1072,18 +1060,6 @@
     }, 
     {
       "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.193388264607, 
-      "lon": 5.127274852574, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ginderbuiten"
-    }, 
-    {
-      "hnrlbls": [
         "190"
       ], 
       "housenumber": "190", 
@@ -1272,18 +1248,6 @@
     }, 
     {
       "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.193472878524, 
-      "lon": 5.12734046171, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ginderbuiten"
-    }, 
-    {
-      "hnrlbls": [
         "210"
       ], 
       "housenumber": "210", 
@@ -1319,7 +1283,7 @@
       "street": "Ginderbuiten"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -1351,11 +1315,11 @@
       "street": "Ginderbuiten"
     }, 
     {
-      "busnrs": [
-        "002", 
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
+        "2", 
         "201", 
         "202"
       ], 
@@ -1506,18 +1470,6 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ginderbuiten"
-    }, 
-    {
-      "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.193518878065, 
-      "lon": 5.127456084515, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ginderbuiten"
     }, 
     {
@@ -1733,6 +1685,21 @@
       "street": "Ginderbuiten"
     }, 
     {
+      "apptnrs": [
+        "201"
+      ], 
+      "hnrlbls": [
+        "251"
+      ], 
+      "housenumber": "251", 
+      "lat": 51.201656575372, 
+      "lon": 5.13787482544, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ginderbuiten"
+    }, 
+    {
       "hnrlbls": [
         "255"
       ], 
@@ -1827,8 +1794,8 @@
         "260"
       ], 
       "housenumber": "260", 
-      "lat": 51.201417940084, 
-      "lon": 5.13978745339, 
+      "lat": 51.201408422179, 
+      "lon": 5.139785865116, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3143,18 +3110,6 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ginderbuiten"
-    }, 
-    {
-      "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.196644880569, 
-      "lon": 5.128615158302, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
       "street": "Ginderbuiten"
     }, 
     {

@@ -169,6 +169,28 @@
       "street": "Daalstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "013", 
+        "021", 
+        "022", 
+        "023"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.217757835567, 
+      "lon": 4.196091547606, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Daalstraat"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 

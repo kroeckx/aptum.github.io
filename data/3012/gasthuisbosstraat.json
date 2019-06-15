@@ -17,8 +17,20 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.921554088898, 
-      "lon": 4.725031873804, 
+      "lat": 50.921627892448, 
+      "lon": 4.725150052492, 
+      "municipality": "Leuven", 
+      "pcode": "3012", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gasthuisbosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "10C"
+      ], 
+      "housenumber": "10C", 
+      "lat": 50.921526206332, 
+      "lon": 4.725096088008, 
       "municipality": "Leuven", 
       "pcode": "3012", 
       "source": "afgeleidVanGebouw", 
@@ -29,11 +41,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.92117887738, 
-      "lon": 4.725059170638, 
+      "lat": 50.921164702619, 
+      "lon": 4.725315912637, 
       "municipality": "Leuven", 
       "pcode": "3012", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gasthuisbosstraat"
     }, 
     {
@@ -50,14 +62,14 @@
     }, 
     {
       "hnrlbls": [
-        "13-15"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.92169936012, 
-      "lon": 4.725385973505, 
+      "lat": 50.921016280741, 
+      "lon": 4.725318053896, 
       "municipality": "Leuven", 
       "pcode": "3012", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gasthuisbosstraat"
     }, 
     {
@@ -74,14 +86,14 @@
     }, 
     {
       "hnrlbls": [
-        "13-15"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.92169936012, 
-      "lon": 4.725385973505, 
+      "lat": 50.920891549902, 
+      "lon": 4.725422346828, 
       "municipality": "Leuven", 
       "pcode": "3012", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gasthuisbosstraat"
     }, 
     {

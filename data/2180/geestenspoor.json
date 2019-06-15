@@ -267,6 +267,10 @@
       "street": "Geestenspoor"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -424,8 +428,8 @@
         "4-30D"
       ], 
       "housenumber": "30D", 
-      "lat": 51.281940880061, 
-      "lon": 4.424137458588, 
+      "lat": 51.281938815566, 
+      "lon": 4.424131579963, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanPerceelGrb", 
@@ -536,8 +540,8 @@
         "4-30D"
       ], 
       "housenumber": "4", 
-      "lat": 51.281940880061, 
-      "lon": 4.424137458588, 
+      "lat": 51.281938815566, 
+      "lon": 4.424131579963, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanPerceelGrb", 

@@ -1,0 +1,55 @@
+{
+  "addresses": [
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.133068024258, 
+      "lon": 4.552688266143, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ten Rode"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.13307932998, 
+      "lon": 4.553045471247, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ten Rode"
+    }
+  ]
+}

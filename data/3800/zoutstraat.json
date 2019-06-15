@@ -170,6 +170,27 @@
       "street": "Zoutstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
+      "busnrs": [
+        "001"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.81577931054, 
+      "lon": 5.185450677535, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zoutstraat"
+    }, 
+    {
       "hnrlbls": [
         "20"
       ], 
@@ -230,8 +251,14 @@
       "street": "Zoutstraat"
     }, 
     {
+      "apptnrs": [
+        "106", 
+        "303", 
+        "304"
+      ], 
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
         "102", 
         "103", 
@@ -251,7 +278,7 @@
         "401"
       ], 
       "hnrlbls": [
-        "25-37"
+        "25"
       ], 
       "housenumber": "25", 
       "lat": 50.816786906288, 
@@ -274,18 +301,6 @@
       "street": "Zoutstraat"
     }, 
     {
-      "hnrlbls": [
-        "25-37"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.816786906288, 
-      "lon": 5.184214823723, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutstraat"
-    }, 
-    {
       "busnrs": [
         "101", 
         "201"
@@ -302,19 +317,8 @@
       "street": "Zoutstraat"
     }, 
     {
-      "hnrlbls": [
-        "25-37"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.816786906288, 
-      "lon": 5.184214823723, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutstraat"
-    }, 
-    {
       "busnrs": [
+        "001", 
         "101", 
         "201", 
         "301"
@@ -362,18 +366,6 @@
     }, 
     {
       "hnrlbls": [
-        "25-37"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.816786906288, 
-      "lon": 5.184214823723, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutstraat"
-    }, 
-    {
-      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -385,63 +377,23 @@
       "street": "Zoutstraat"
     }, 
     {
-      "hnrlbls": [
-        "25-37"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
       ], 
-      "housenumber": "33", 
-      "lat": 50.816786906288, 
-      "lon": 5.184214823723, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutstraat"
-    }, 
-    {
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.816558226181, 
-      "lon": 5.183836211, 
+      "lat": 50.816577694779, 
+      "lon": 5.183777371773, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25-37"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.816786906288, 
-      "lon": 5.184214823723, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.81651679442, 
-      "lon": 5.183731046098, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25-37"
-      ], 
-      "housenumber": "37", 
-      "lat": 50.816786906288, 
-      "lon": 5.184214823723, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zoutstraat"
     }, 
     {
@@ -680,22 +632,23 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
         "101", 
-        "2", 
+        "102", 
         "201", 
         "202", 
         "203", 
         "204", 
         "205", 
-        "3", 
         "301", 
         "302", 
         "303", 
         "304", 
-        "305", 
-        "4", 
-        "5"
+        "305"
       ], 
       "hnrlbls": [
         "63-65"

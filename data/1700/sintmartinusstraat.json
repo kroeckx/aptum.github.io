@@ -302,30 +302,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "001", 
+        "002"
       ], 
       "hnrlbls": [
-        "32-32A"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.863253418309, 
-      "lon": 4.214571281029, 
+      "lat": 50.863344917147, 
+      "lon": 4.214217292718, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Sint-Martinusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-32A"
-      ], 
-      "housenumber": "32A", 
-      "lat": 50.863253418309, 
-      "lon": 4.214571281029, 
-      "municipality": "Dilbeek", 
-      "pcode": "1700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Martinusstraat"
     }, 
     {
@@ -729,11 +717,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.866333173537, 
-      "lon": 4.208938479025, 
+      "lat": 50.866308140798, 
+      "lon": 4.209040131643, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Martinusstraat"
     }, 
     {

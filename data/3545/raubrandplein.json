@@ -105,50 +105,50 @@
     }, 
     {
       "hnrlbls": [
-        "20-20C"
+        "20-20B"
       ], 
       "housenumber": "20", 
-      "lat": 50.948114079859, 
-      "lon": 5.116347677343, 
+      "lat": 50.948099229335, 
+      "lon": 5.116350428881, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Raubrandplein"
     }, 
     {
       "hnrlbls": [
-        "20-20C"
+        "20A"
       ], 
       "housenumber": "20A", 
-      "lat": 50.948114079859, 
-      "lon": 5.116347677343, 
+      "lat": 50.948196523753, 
+      "lon": 5.11637460803, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Raubrandplein"
     }, 
     {
       "hnrlbls": [
-        "20-20C"
+        "20-20B"
       ], 
       "housenumber": "20B", 
-      "lat": 50.948114079859, 
-      "lon": 5.116347677343, 
+      "lat": 50.948099229335, 
+      "lon": 5.116350428881, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Raubrandplein"
     }, 
     {
       "hnrlbls": [
-        "20-20C"
+        "20C"
       ], 
       "housenumber": "20C", 
-      "lat": 50.948114079859, 
-      "lon": 5.116347677343, 
+      "lat": 50.948100397878, 
+      "lon": 5.116350447524, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Raubrandplein"
     }, 
     {
@@ -208,7 +208,7 @@
       "lon": 5.115704528584, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Raubrandplein"
     }, 
     {
@@ -220,7 +220,7 @@
       "lon": 5.115704528584, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Raubrandplein"
     }
   ]

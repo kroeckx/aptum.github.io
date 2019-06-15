@@ -161,11 +161,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.003226879183, 
-      "lon": 5.588765349766, 
+      "lat": 51.00327399745, 
+      "lon": 5.588677808106, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schansstraat"
     }, 
     {
@@ -261,7 +261,7 @@
       "lon": 5.583793317514, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Schansstraat"
     }, 
     {
@@ -353,11 +353,11 @@
         "4A"
       ], 
       "housenumber": "4A", 
-      "lat": 51.002350046966, 
-      "lon": 5.583929526384, 
+      "lat": 51.002388504334, 
+      "lon": 5.58388806421, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Schansstraat"
     }, 
     {

@@ -60,7 +60,7 @@
     }, 
     {
       "hnrlbls": [
-        "103-103B"
+        "103"
       ], 
       "housenumber": "103", 
       "lat": 51.059852923046, 
@@ -72,23 +72,11 @@
     }, 
     {
       "hnrlbls": [
-        "103-103B"
-      ], 
-      "housenumber": "103B", 
-      "lat": 51.059852923046, 
-      "lon": 4.354872956611, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dendermondsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.059673590645, 
-      "lon": 4.354841911719, 
+      "lat": 51.059845272775, 
+      "lon": 4.354786661487, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -364,7 +352,7 @@
     }, 
     {
       "hnrlbls": [
-        "132"
+        "132-163"
       ], 
       "housenumber": "132", 
       "lat": 51.059971711079, 
@@ -929,7 +917,7 @@
     }, 
     {
       "hnrlbls": [
-        "162-162A"
+        "162"
       ], 
       "housenumber": "162", 
       "lat": 51.059825373145, 
@@ -937,18 +925,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dendermondsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "162-162A"
-      ], 
-      "housenumber": "162A", 
-      "lat": 51.059825373145, 
-      "lon": 4.351026817434, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -1044,11 +1020,11 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.060085696522, 
-      "lon": 4.348725069614, 
+      "lat": 51.060239675214, 
+      "lon": 4.348716162223, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -1080,18 +1056,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dendermondsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "174"
-      ], 
-      "housenumber": "174", 
-      "lat": 51.059429325728, 
-      "lon": 4.349281061871, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -1274,15 +1238,13 @@
         "002", 
         "101", 
         "102", 
-        "12", 
         "201", 
         "202", 
         "301", 
         "302", 
         "401", 
         "402", 
-        "403", 
-        "41"
+        "403"
       ], 
       "hnrlbls": [
         "194"
@@ -1551,11 +1513,11 @@
         "220"
       ], 
       "housenumber": "220", 
-      "lat": 51.060033037574, 
-      "lon": 4.354665648902, 
+      "lat": 51.059376943101, 
+      "lon": 4.344866985394, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -1914,8 +1876,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.060330192439, 
-      "lon": 4.356166296229, 
+      "lat": 51.060353736382, 
+      "lon": 4.356096966387, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

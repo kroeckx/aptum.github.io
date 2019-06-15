@@ -74,6 +74,18 @@
     }, 
     {
       "hnrlbls": [
+        "2-6"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.751308617606, 
+      "lon": 3.613821776384, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oscar Delghuststraat"
+    }, 
+    {
+      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -206,19 +218,23 @@
     }, 
     {
       "busnrs": [
-        "201", 
-        "202", 
-        "301"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
-        "6-39"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.749827167851, 
-      "lon": 3.613801000923, 
+      "lat": 50.749804868774, 
+      "lon": 3.613577316693, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oscar Delghuststraat"
     }, 
     {
@@ -252,6 +268,18 @@
     }, 
     {
       "hnrlbls": [
+        "2-6"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.751308617606, 
+      "lon": 3.613821776384, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oscar Delghuststraat"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -276,14 +304,14 @@
     }, 
     {
       "hnrlbls": [
-        "6-39"
+        "2-6"
       ], 
       "housenumber": "6", 
-      "lat": 50.749827167851, 
-      "lon": 3.613801000923, 
+      "lat": 50.751308617606, 
+      "lon": 3.613821776384, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oscar Delghuststraat"
     }, 
     {
@@ -407,31 +435,15 @@
       "street": "Oscar Delghuststraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "108", 
-        "109", 
-        "127", 
-        "128", 
-        "129", 
-        "140", 
-        "15", 
-        "203", 
-        "205", 
-        "208", 
-        "303", 
-        "316", 
-        "6"
-      ], 
       "hnrlbls": [
-        "6-39"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.749827167851, 
-      "lon": 3.613801000923, 
+      "lat": 50.750748763621, 
+      "lon": 3.613802540399, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oscar Delghuststraat"
     }, 
     {

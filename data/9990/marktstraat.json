@@ -480,24 +480,20 @@
       "street": "Marktstraat"
     }, 
     {
-      "hnrlbls": [
-        "43A"
+      "apptnrs": [
+        "0-01", 
+        "1-01", 
+        "2-01", 
+        "3-01", 
+        "4-01", 
+        "4-02"
       ], 
-      "housenumber": "43A", 
-      "lat": 51.208920162805, 
-      "lon": 3.447035532046, 
-      "municipality": "Maldegem", 
-      "pcode": "9990", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Marktstraat"
-    }, 
-    {
       "hnrlbls": [
-        "43B"
+        "43"
       ], 
-      "housenumber": "43B", 
-      "lat": 51.208918364201, 
-      "lon": 3.447127728505, 
+      "housenumber": "43", 
+      "lat": 51.208911433551, 
+      "lon": 3.447034273364, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -682,11 +678,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.20925959014, 
-      "lon": 3.448258985949, 
+      "lat": 51.209072069516, 
+      "lon": 3.448188697692, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -731,14 +727,14 @@
     }, 
     {
       "hnrlbls": [
-        "60-62"
+        "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.209199330056, 
-      "lon": 3.448428039958, 
+      "lat": 51.20910217869, 
+      "lon": 3.448407630862, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {

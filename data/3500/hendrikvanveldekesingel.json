@@ -137,8 +137,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.931464858135, 
-      "lon": 5.312179668348, 
+      "lat": 50.931461514488, 
+      "lon": 5.312170638603, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -239,6 +239,7 @@
         "3.02"
       ], 
       "hnrlbls": [
+        "13", 
         "13-27"
       ], 
       "housenumber": "13", 
@@ -256,6 +257,18 @@
       "housenumber": "130", 
       "lat": 50.931791428991, 
       "lon": 5.311915656686, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hendrik van Veldekesingel"
+    }, 
+    {
+      "hnrlbls": [
+        "140"
+      ], 
+      "housenumber": "140", 
+      "lat": 50.933728020617, 
+      "lon": 5.316976400718, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -324,8 +337,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.935603959868, 
-      "lon": 5.314926757279, 
+      "lat": 50.935599984274, 
+      "lon": 5.314929237974, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -343,7 +356,8 @@
         "4.02"
       ], 
       "hnrlbls": [
-        "13-27"
+        "13-27", 
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 50.930979930705, 

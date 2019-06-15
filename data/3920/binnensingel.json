@@ -349,6 +349,9 @@
       "street": "Binnensingel"
     }, 
     {
+      "apptnrs": [
+        "0105"
+      ], 
       "busnrs": [
         "70 0002", 
         "72", 
@@ -376,20 +379,32 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.222736174568, 
-      "lon": 5.31486523833, 
+      "lat": 51.222608664394, 
+      "lon": 5.314635040974, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Binnensingel"
     }, 
     {
       "hnrlbls": [
-        "90"
+        "88"
       ], 
-      "housenumber": "90", 
-      "lat": 51.222489508072, 
-      "lon": 5.317645772118, 
+      "housenumber": "88", 
+      "lat": 51.222419890653, 
+      "lon": 5.317583802136, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Binnensingel"
+    }, 
+    {
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 51.222443742255, 
+      "lon": 5.318161895049, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanPerceel", 

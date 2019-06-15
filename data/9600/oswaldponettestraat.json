@@ -105,8 +105,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "17"
@@ -182,6 +182,7 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0201"
       ], 
       "hnrlbls": [
@@ -653,15 +654,21 @@
       "street": "Oswald Ponettestraat"
     }, 
     {
-      "hnrlbls": [
-        "74"
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202"
       ], 
-      "housenumber": "74", 
-      "lat": 50.745289419616, 
-      "lon": 3.593631785308, 
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.745679923486, 
+      "lon": 3.594034585445, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Oswald Ponettestraat"
     }, 
     {
@@ -794,6 +801,54 @@
     }, 
     {
       "hnrlbls": [
+        "86"
+      ], 
+      "housenumber": "86", 
+      "lat": 50.745235922564, 
+      "lon": 3.592748486341, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Oswald Ponettestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "86A"
+      ], 
+      "housenumber": "86A", 
+      "lat": 50.745158123863, 
+      "lon": 3.59278419863, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Oswald Ponettestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "86B"
+      ], 
+      "housenumber": "86B", 
+      "lat": 50.745117897962, 
+      "lon": 3.59279180368, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Oswald Ponettestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "86C"
+      ], 
+      "housenumber": "86C", 
+      "lat": 50.745077665489, 
+      "lon": 3.592798416961, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Oswald Ponettestraat"
+    }, 
+    {
+      "hnrlbls": [
         "87"
       ], 
       "housenumber": "87", 
@@ -805,15 +860,27 @@
       "street": "Oswald Ponettestraat"
     }, 
     {
-      "hnrlbls": [
-        "88"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202"
       ], 
-      "housenumber": "88", 
-      "lat": 50.744673765702, 
-      "lon": 3.592423341269, 
+      "hnrlbls": [
+        "88A"
+      ], 
+      "housenumber": "88A", 
+      "lat": 50.744858398978, 
+      "lon": 3.592649987549, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oswald Ponettestraat"
     }, 
     {
@@ -866,20 +933,43 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "2", 
-        "201", 
-        "202"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
-        "92A"
+        "92A-92B"
       ], 
       "housenumber": "92A", 
-      "lat": 50.744852160304, 
-      "lon": 3.59192589158, 
+      "lat": 50.744736470451, 
+      "lon": 3.592185680261, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oswald Ponettestraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "92A-92B"
+      ], 
+      "housenumber": "92B", 
+      "lat": 50.744736470451, 
+      "lon": 3.592185680261, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oswald Ponettestraat"
     }, 
     {

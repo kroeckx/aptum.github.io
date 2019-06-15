@@ -550,6 +550,10 @@
       "street": "Boomsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "292"
       ], 
@@ -764,6 +768,12 @@
       "street": "Boomsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "320"
       ], 
@@ -1681,6 +1691,13 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
         "8"
       ], 
       "hnrlbls": [
@@ -2005,11 +2022,11 @@
         "448"
       ], 
       "housenumber": "448", 
-      "lat": 51.184642336839, 
-      "lon": 4.388654003748, 
+      "lat": 51.184690052873, 
+      "lon": 4.388728253089, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Boomsesteenweg"
     }, 
     {
@@ -2041,11 +2058,11 @@
         "454"
       ], 
       "housenumber": "454", 
-      "lat": 51.184561595737, 
-      "lon": 4.388792698818, 
+      "lat": 51.184609242948, 
+      "lon": 4.388746524047, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Boomsesteenweg"
     }, 
     {
@@ -2400,6 +2417,11 @@
       "street": "Boomsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "516"
       ], 

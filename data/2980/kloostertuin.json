@@ -89,11 +89,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.258866599042, 
-      "lon": 4.630593544821, 
+      "lat": 51.258926871491, 
+      "lon": 4.630489598087, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloostertuin"
     }, 
     {
@@ -113,8 +113,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.258764322546, 
-      "lon": 4.630629353988, 
+      "lat": 51.258757518217, 
+      "lon": 4.63061728264, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -350,6 +350,18 @@
     }, 
     {
       "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 51.257946964894, 
+      "lon": 4.631016529485, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kloostertuin"
+    }, 
+    {
+      "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
@@ -401,8 +413,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.257782324568, 
-      "lon": 4.631085934524, 
+      "lat": 51.257771823978, 
+      "lon": 4.631078856141, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -425,8 +437,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.257697022517, 
-      "lon": 4.631127710737, 
+      "lat": 51.257697563083, 
+      "lon": 4.631127140802, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -437,8 +449,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.257600143508, 
-      "lon": 4.631161399618, 
+      "lat": 51.257600503992, 
+      "lon": 4.631160971914, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

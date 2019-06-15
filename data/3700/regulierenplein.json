@@ -26,23 +26,11 @@
     }, 
     {
       "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.777695120019, 
-      "lon": 5.461585280685, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Regulierenplein"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.77748915975, 
-      "lon": 5.461920532672, 
+      "lat": 50.77747194349, 
+      "lon": 5.461934879818, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -53,8 +41,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.777624356821, 
-      "lon": 5.461460837777, 
+      "lat": 50.777603502455, 
+      "lon": 5.461402640674, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -193,6 +181,11 @@
       "street": "Regulierenplein"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -254,18 +247,6 @@
     }, 
     {
       "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.777753704046, 
-      "lon": 5.461752690254, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Regulierenplein"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -278,18 +259,6 @@
     }, 
     {
       "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.777737765806, 
-      "lon": 5.461697584884, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Regulierenplein"
-    }, 
-    {
-      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -298,18 +267,6 @@
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Regulierenplein"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.777712270391, 
-      "lon": 5.461645377146, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Regulierenplein"
     }
   ]

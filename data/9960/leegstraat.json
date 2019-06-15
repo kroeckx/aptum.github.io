@@ -41,8 +41,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.228854490759, 
-      "lon": 3.751576575563, 
+      "lat": 51.228855287744, 
+      "lon": 3.751574274429, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -250,11 +250,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.235312731312, 
-      "lon": 3.739668042558, 
+      "lat": 51.235423180992, 
+      "lon": 3.739427295549, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leegstraat"
     }, 
     {
@@ -262,8 +262,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.231781576864, 
-      "lon": 3.744243292541, 
+      "lat": 51.231772377357, 
+      "lon": 3.744237402457, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -274,8 +274,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.231823639391, 
-      "lon": 3.744037994555, 
+      "lat": 51.231823004186, 
+      "lon": 3.744036857687, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -283,7 +283,7 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "3-5"
       ], 
       "housenumber": "3", 
       "lat": 51.228216042799, 
@@ -415,14 +415,14 @@
     }, 
     {
       "hnrlbls": [
-        "5"
+        "3-5"
       ], 
       "housenumber": "5", 
-      "lat": 51.22811732532, 
-      "lon": 3.752110431943, 
+      "lat": 51.228216042799, 
+      "lon": 3.752131890138, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leegstraat"
     }, 
     {

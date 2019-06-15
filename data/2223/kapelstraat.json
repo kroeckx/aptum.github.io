@@ -416,11 +416,11 @@
         "34A"
       ], 
       "housenumber": "34A", 
-      "lat": 51.014633012383, 
-      "lon": 4.709727228403, 
+      "lat": 51.014651882826, 
+      "lon": 4.709791492858, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kapelstraat"
     }, 
     {
@@ -493,18 +493,6 @@
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.013511274039, 
-      "lon": 4.709783028597, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2223", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Kapelstraat"
     }, 
     {
@@ -907,18 +895,6 @@
       "street": "Kapelstraat"
     }, 
     {
-      "hnrlbls": [
-        "72"
-      ], 
-      "housenumber": "72", 
-      "lat": 51.008890505582, 
-      "lon": 4.706947323871, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2223", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kapelstraat"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -1022,23 +998,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.004935418287, 
-      "lon": 4.706958463818, 
+      "lat": 51.004923314012, 
+      "lon": 4.707041296347, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kapelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "88"
-      ], 
-      "housenumber": "88", 
-      "lat": 51.005239095247, 
-      "lon": 4.7040979038, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2223", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kapelstraat"
     }, 
     {

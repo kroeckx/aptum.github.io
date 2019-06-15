@@ -105,11 +105,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.995212860486, 
-      "lon": 5.494563101028, 
+      "lat": 50.995183416951, 
+      "lon": 5.494408251765, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wandelstraat"
     }, 
     {
@@ -129,11 +129,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.995092070292, 
-      "lon": 5.494559199687, 
+      "lat": 50.995119130277, 
+      "lon": 5.494418388026, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wandelstraat"
     }, 
     {
@@ -206,6 +206,30 @@
       "housenumber": "38", 
       "lat": 50.995333427361, 
       "lon": 5.493726197438, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wandelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.996762561801, 
+      "lon": 5.494536964727, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wandelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.99656969623, 
+      "lon": 5.494361371016, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

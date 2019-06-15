@@ -1679,11 +1679,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.079852709149, 
-      "lon": 5.010428826863, 
+      "lat": 51.079798225526, 
+      "lon": 5.010348020318, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Veldstraat"
     }, 
     {
@@ -1840,6 +1840,30 @@
       "municipality": "Laakdal", 
       "pcode": "2430", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Veldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 51.078006616161, 
+      "lon": 5.018701959033, 
+      "municipality": "Laakdal", 
+      "pcode": "2430", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Veldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 51.078007919691, 
+      "lon": 5.018905468778, 
+      "municipality": "Laakdal", 
+      "pcode": "2430", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Veldstraat"
     }, 
     {

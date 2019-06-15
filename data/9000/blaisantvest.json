@@ -61,38 +61,31 @@
     }, 
     {
       "hnrlbls": [
-        "103-105"
-      ], 
-      "housenumber": "103", 
-      "lat": 51.067413152899, 
-      "lon": 3.726530985521, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Blaisantvest"
-    }, 
-    {
-      "hnrlbls": [
-        "103-105"
-      ], 
-      "housenumber": "104", 
-      "lat": 51.067413152899, 
-      "lon": 3.726530985521, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Blaisantvest"
-    }, 
-    {
-      "hnrlbls": [
-        "103-105"
+        "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.067413152899, 
-      "lon": 3.726530985521, 
+      "lat": 51.067391458006, 
+      "lon": 3.726475784983, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Blaisantvest"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 51.067413362582, 
+      "lon": 3.726569503151, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blaisantvest"
     }, 
     {

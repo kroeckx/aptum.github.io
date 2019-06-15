@@ -209,6 +209,18 @@
     }, 
     {
       "hnrlbls": [
+        "24B"
+      ], 
+      "housenumber": "24B", 
+      "lat": 50.918360716541, 
+      "lon": 5.46044506057, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hovenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -229,18 +241,6 @@
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hovenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.918344182441, 
-      "lon": 5.460801803884, 
-      "municipality": "Diepenbeek", 
-      "pcode": "3590", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Hovenstraat"
     }, 
     {
@@ -268,6 +268,10 @@
       "street": "Hovenstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "28"
       ], 

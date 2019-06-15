@@ -93,7 +93,9 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "107"
@@ -1434,6 +1436,10 @@
       "street": "Generaal Slingeneyerlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1503,8 +1509,10 @@
       "street": "Generaal Slingeneyerlaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "92"

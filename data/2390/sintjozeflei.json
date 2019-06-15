@@ -545,6 +545,12 @@
       "street": "Sint Jozeflei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "7B"
       ], 
@@ -553,7 +559,7 @@
       "lon": 4.692891177191, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint Jozeflei"
     }, 
     {

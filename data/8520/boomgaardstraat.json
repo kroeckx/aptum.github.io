@@ -221,8 +221,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 50.852435379566, 
-      "lon": 3.275863353177, 
+      "lat": 50.852426232426, 
+      "lon": 3.275865838161, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -737,8 +737,8 @@
         "198"
       ], 
       "housenumber": "198", 
-      "lat": 50.851673476267, 
-      "lon": 3.27121429789, 
+      "lat": 50.851673123365, 
+      "lon": 3.271215016245, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -782,8 +782,8 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 50.851572987336, 
-      "lon": 3.271005453957, 
+      "lat": 50.85157281155, 
+      "lon": 3.271005884131, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -806,8 +806,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 50.851528081619, 
-      "lon": 3.270856667388, 
+      "lat": 50.851528803357, 
+      "lon": 3.270856934586, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -818,8 +818,8 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 50.851518679082, 
-      "lon": 3.27076457166, 
+      "lat": 50.851518866823, 
+      "lon": 3.270765419417, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -1055,15 +1055,18 @@
       "street": "Boomgaardstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.853403284869, 
-      "lon": 3.281651404126, 
+      "lat": 50.853429107846, 
+      "lon": 3.281634189818, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boomgaardstraat"
     }, 
     {

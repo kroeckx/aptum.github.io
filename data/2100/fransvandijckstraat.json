@@ -121,13 +121,15 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
-      "busnrs": [
-        "18", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "16-18"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 51.220531799745, 
@@ -154,24 +156,11 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
-      "hnrlbls": [
-        "16-18"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.220531799745, 
-      "lon": 4.474871367902, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Frans Van Dijckstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "10", 
         "11", 
         "2", 
-        "21", 
         "3", 
         "4", 
         "5", 
@@ -181,7 +170,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "19-21"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 51.220803544008, 
@@ -189,30 +178,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Frans Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "19-21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.220803544008, 
-      "lon": 4.474544646028, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Frans Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21C"
-      ], 
-      "housenumber": "21C", 
-      "lat": 51.220803542332, 
-      "lon": 4.474546506749, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Van Dijckstraat"
     }, 
     {
@@ -374,7 +339,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "32-34"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 51.221326881677, 
@@ -396,18 +361,6 @@
       "housenumber": "33", 
       "lat": 51.221423984038, 
       "lon": 4.474975037215, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Frans Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32-34"
-      ], 
-      "housenumber": "34", 
-      "lat": 51.221326881677, 
-      "lon": 4.47550140549, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -460,8 +413,9 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "38"
@@ -479,11 +433,10 @@
         "1", 
         "2", 
         "3", 
-        "4", 
-        "41"
+        "4"
       ], 
       "hnrlbls": [
-        "39-41"
+        "39"
       ], 
       "housenumber": "39", 
       "lat": 51.221580549164, 
@@ -519,18 +472,6 @@
     }, 
     {
       "hnrlbls": [
-        "39-41"
-      ], 
-      "housenumber": "41", 
-      "lat": 51.221580549164, 
-      "lon": 4.475187665474, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Frans Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
@@ -550,7 +491,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "43-45"
+        "43"
       ], 
       "housenumber": "43", 
       "lat": 51.221714182891, 
@@ -571,18 +512,6 @@
       "housenumber": "44", 
       "lat": 51.221577209659, 
       "lon": 4.475796411064, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Frans Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "43-45"
-      ], 
-      "housenumber": "45", 
-      "lat": 51.221714182891, 
-      "lon": 4.475312929749, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -850,10 +779,10 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "67"
@@ -872,11 +801,10 @@
         "2", 
         "3", 
         "4", 
-        "5", 
-        "70"
+        "5"
       ], 
       "hnrlbls": [
-        "68-70"
+        "68"
       ], 
       "housenumber": "68", 
       "lat": 51.222068571728, 
@@ -887,6 +815,11 @@
       "street": "Frans Van Dijckstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -910,18 +843,6 @@
       "housenumber": "7", 
       "lat": 51.220428070559, 
       "lon": 4.474276132663, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Frans Van Dijckstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "68-70"
-      ], 
-      "housenumber": "70", 
-      "lat": 51.222068571728, 
-      "lon": 4.476521101608, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

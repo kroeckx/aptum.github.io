@@ -113,8 +113,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.079387609084, 
-      "lon": 3.947942080939, 
+      "lat": 51.079387803607, 
+      "lon": 3.94794621755, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1338,7 +1338,7 @@
     }, 
     {
       "hnrlbls": [
-        "80A"
+        "80A-82"
       ], 
       "housenumber": "80A", 
       "lat": 51.08213962954, 
@@ -1355,6 +1355,18 @@
       "housenumber": "81", 
       "lat": 51.082382698548, 
       "lon": 3.950256495355, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Heiendestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "80A-82"
+      ], 
+      "housenumber": "82", 
+      "lat": 51.08213962954, 
+      "lon": 3.951066978413, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 

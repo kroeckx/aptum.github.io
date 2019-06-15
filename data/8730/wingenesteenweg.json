@@ -287,6 +287,12 @@
       "street": "Wingene Steenweg"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -664,15 +670,23 @@
       "street": "Wingene Steenweg"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.123497310219, 
-      "lon": 3.326246575669, 
+      "lat": 51.123518844911, 
+      "lon": 3.326150386962, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wingene Steenweg"
     }, 
     {
@@ -689,65 +703,95 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.124294314855, 
-      "lon": 3.326214519395, 
+      "lat": 51.12429219435, 
+      "lon": 3.326218709356, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Wingene Steenweg"
     }, 
     {
-      "hnrlbls": [
-        "60B"
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
-      "housenumber": "60B", 
-      "lat": 51.124034487291, 
-      "lon": 3.326007752005, 
-      "municipality": "Beernem", 
-      "pcode": "8730", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Wingene Steenweg"
-    }, 
-    {
       "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.123430131423, 
-      "lon": 3.326223217952, 
+      "lat": 51.123456835219, 
+      "lon": 3.326111772174, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wingene Steenweg"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.124063185211, 
-      "lon": 3.325877832497, 
+      "lat": 51.124169362696, 
+      "lon": 3.326133452307, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Wingene Steenweg"
     }, 
     {
-      "hnrlbls": [
-        "63"
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
-      "housenumber": "63", 
-      "lat": 51.123388323924, 
-      "lon": 3.326151297585, 
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 51.124052893093, 
+      "lon": 3.326056053434, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Wingene Steenweg"
     }, 
     {

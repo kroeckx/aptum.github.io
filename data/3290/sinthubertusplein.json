@@ -1,18 +1,6 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.999852364843, 
-      "lon": 5.082827694403, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Hubertusplein"
-    }, 
-    {
       "apptnrs": [
         "14", 
         "14A001", 
@@ -28,36 +16,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Sint-Hubertusplein"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "14A-14C"
-      ], 
-      "housenumber": "14A", 
-      "lat": 50.999770023014, 
-      "lon": 5.082871741694, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Sint-Hubertusplein"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "14A-14C"
-      ], 
-      "housenumber": "14C", 
-      "lat": 50.999770023014, 
-      "lon": 5.082871741694, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -105,11 +63,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.999871595451, 
-      "lon": 5.083302250901, 
+      "lat": 50.999826886909, 
+      "lon": 5.083322083192, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Hubertusplein"
     }, 
     {
@@ -132,8 +90,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.000042899714, 
-      "lon": 5.083884697268, 
+      "lat": 51.000054231752, 
+      "lon": 5.083869056823, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 

@@ -17,8 +17,8 @@
         "1006"
       ], 
       "housenumber": "1006", 
-      "lat": 50.951036275111, 
-      "lon": 5.114749549037, 
+      "lat": 50.951074366768, 
+      "lon": 5.114852481052, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -236,8 +236,8 @@
         "1223"
       ], 
       "housenumber": "1223", 
-      "lat": 50.954968412683, 
-      "lon": 5.113013126198, 
+      "lat": 50.954971672089, 
+      "lon": 5.113009477437, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -425,10 +425,12 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "B001", 
+        "B002", 
+        "B003"
       ], 
       "hnrlbls": [
-        "1241-1241B"
+        "1241"
       ], 
       "housenumber": "1241", 
       "lat": 50.953757922368, 
@@ -436,23 +438,6 @@
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
-      "street": "Industriepark"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "1241-1241B"
-      ], 
-      "housenumber": "1241B", 
-      "lat": 50.953757922368, 
-      "lon": 5.110702045146, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Industriepark"
     }, 
     {
@@ -472,16 +457,16 @@
         "1246"
       ], 
       "housenumber": "1246", 
-      "lat": 50.952894909229, 
-      "lon": 5.110873397988, 
+      "lat": 50.95282035486, 
+      "lon": 5.110664712067, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Industriepark"
     }, 
     {
       "hnrlbls": [
-        "1247-1247B"
+        "1247"
       ], 
       "housenumber": "1247", 
       "lat": 50.953409508931, 
@@ -493,14 +478,14 @@
     }, 
     {
       "hnrlbls": [
-        "1247-1247B"
+        "1247B"
       ], 
       "housenumber": "1247B", 
-      "lat": 50.953409508931, 
-      "lon": 5.109843583178, 
+      "lat": 50.953555511287, 
+      "lon": 5.109628279152, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Industriepark"
     }
   ]

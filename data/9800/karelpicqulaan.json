@@ -185,6 +185,18 @@
     }, 
     {
       "hnrlbls": [
+        "117"
+      ], 
+      "housenumber": "117", 
+      "lat": 50.987055367193, 
+      "lon": 3.541113457048, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Karel Picqu\u00e9laan"
+    }, 
+    {
+      "hnrlbls": [
         "118"
       ], 
       "housenumber": "118", 
@@ -193,6 +205,18 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Karel Picqu\u00e9laan"
+    }, 
+    {
+      "hnrlbls": [
+        "119"
+      ], 
+      "housenumber": "119", 
+      "lat": 50.987673856608, 
+      "lon": 3.540742481907, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Karel Picqu\u00e9laan"
     }, 
     {
@@ -217,6 +241,18 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Karel Picqu\u00e9laan"
+    }, 
+    {
+      "hnrlbls": [
+        "121"
+      ], 
+      "housenumber": "121", 
+      "lat": 50.987704520925, 
+      "lon": 3.540807742951, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Karel Picqu\u00e9laan"
     }, 
     {
@@ -501,9 +537,10 @@
       "street": "Karel Picqu\u00e9laan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "141"
@@ -701,8 +738,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.986029505563, 
-      "lon": 3.53254493372, 
+      "lat": 50.986028971306, 
+      "lon": 3.532545655368, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -713,8 +750,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.985667315209, 
-      "lon": 3.533292704603, 
+      "lat": 50.985669291684, 
+      "lon": 3.533292526975, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -855,8 +892,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.985834812775, 
-      "lon": 3.534309476089, 
+      "lat": 50.985812805499, 
+      "lon": 3.534400733993, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -915,8 +952,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.986124516426, 
-      "lon": 3.533303218465, 
+      "lat": 50.986141784586, 
+      "lon": 3.533304335133, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1043,6 +1080,30 @@
       "street": "Karel Picqu\u00e9laan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "107", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.986101214608, 
+      "lon": 3.536308366722, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Karel Picqu\u00e9laan"
+    }, 
+    {
       "hnrlbls": [
         "1-7"
       ], 
@@ -1083,8 +1144,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.986200651604, 
-      "lon": 3.533973823466, 
+      "lat": 50.986197437933, 
+      "lon": 3.533977014011, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1119,8 +1180,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.986452629535, 
-      "lon": 3.537976628579, 
+      "lat": 50.986451012596, 
+      "lon": 3.537976799645, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1287,8 +1348,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.986301740918, 
-      "lon": 3.534639714047, 
+      "lat": 50.98629586606, 
+      "lon": 3.534635260914, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

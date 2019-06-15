@@ -109,6 +109,9 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -118,18 +121,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16A"
-      ], 
-      "housenumber": "16A", 
-      "lat": 50.939602545123, 
-      "lon": 5.688193857831, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraat"
     }, 
     {
@@ -476,7 +467,7 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
+        "1"
       ], 
       "hnrlbls": [
         "4"
@@ -607,18 +598,6 @@
       "housenumber": "51", 
       "lat": 50.938755506631, 
       "lon": 5.68444560786, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "515A"
-      ], 
-      "housenumber": "515A", 
-      "lat": 50.941674503514, 
-      "lon": 5.680733013519, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 

@@ -152,9 +152,6 @@
       "street": "Consciencestraat (Hendrik)"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -167,22 +164,12 @@
       "street": "Consciencestraat (Hendrik)"
     }, 
     {
-      "apptnrs": [
-        "0/1", 
-        "0/2", 
-        "1", 
-        "2"
-      ], 
-      "busnrs": [
-        "O/01", 
-        "O/02"
-      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.932991229946, 
-      "lon": 4.428667430163, 
+      "lat": 50.932981525409, 
+      "lon": 4.42865987814, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -274,9 +261,7 @@
     }, 
     {
       "apptnrs": [
-        "0", 
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
         "30"
@@ -304,8 +289,7 @@
     {
       "apptnrs": [
         "0", 
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
         "32"
@@ -320,9 +304,7 @@
     }, 
     {
       "apptnrs": [
-        "0", 
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
         "33"
@@ -455,7 +437,6 @@
     {
       "busnrs": [
         "0002", 
-        "0003", 
         "01/1", 
         "O000"
       ], 
@@ -641,8 +622,7 @@
       "apptnrs": [
         "0", 
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "60"
@@ -672,10 +652,6 @@
       "street": "Consciencestraat (Hendrik)"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "62"
       ], 
@@ -741,8 +717,7 @@
     }, 
     {
       "busnrs": [
-        "00/1", 
-        "01/1"
+        "00/1"
       ], 
       "hnrlbls": [
         "69"
@@ -810,8 +785,7 @@
     }, 
     {
       "apptnrs": [
-        "0", 
-        "1"
+        "0"
       ], 
       "hnrlbls": [
         "73"
@@ -826,7 +800,6 @@
     }, 
     {
       "busnrs": [
-        "0001", 
         "01/1", 
         "02/1", 
         "O000"
@@ -846,7 +819,6 @@
       "apptnrs": [
         "0", 
         "1", 
-        "2", 
         "3"
       ], 
       "hnrlbls": [

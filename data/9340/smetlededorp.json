@@ -109,6 +109,12 @@
       "street": "Smetlededorp"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -137,11 +143,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.965772158623, 
-      "lon": 3.928556190049, 
+      "lat": 50.965922472398, 
+      "lon": 3.92858339478, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Smetlededorp"
     }, 
     {

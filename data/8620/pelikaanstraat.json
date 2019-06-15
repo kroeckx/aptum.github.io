@@ -77,8 +77,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.125895728236, 
-      "lon": 2.747907606364, 
+      "lat": 51.125895659943, 
+      "lon": 2.747909180367, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -98,7 +98,7 @@
     }, 
     {
       "hnrlbls": [
-        "17-19"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 51.125747199915, 
@@ -110,11 +110,11 @@
     }, 
     {
       "hnrlbls": [
-        "17-19"
+        "17A-19"
       ], 
       "housenumber": "17A", 
-      "lat": 51.125747199915, 
-      "lon": 2.747842176864, 
+      "lat": 51.125746926396, 
+      "lon": 2.747841900599, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -134,11 +134,11 @@
     }, 
     {
       "hnrlbls": [
-        "17-19"
+        "17A-19"
       ], 
       "housenumber": "19", 
-      "lat": 51.125747199915, 
-      "lon": 2.747842176864, 
+      "lat": 51.125746926396, 
+      "lon": 2.747841900599, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -173,8 +173,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.125598757494, 
-      "lon": 2.747776459048, 
+      "lat": 51.125598192802, 
+      "lon": 2.747774621259, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -194,26 +194,14 @@
     }, 
     {
       "hnrlbls": [
-        "23-23A"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.125535800147, 
-      "lon": 2.747768355579, 
+      "lat": 51.125540831202, 
+      "lon": 2.747741892141, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Pelikaanstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "23-23A"
-      ], 
-      "housenumber": "23A", 
-      "lat": 51.125535800147, 
-      "lon": 2.747768355579, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pelikaanstraat"
     }, 
     {

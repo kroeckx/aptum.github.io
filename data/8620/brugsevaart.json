@@ -369,11 +369,8 @@
         "29", 
         "3", 
         "30", 
-        "301", 
         "31", 
-        "319", 
         "32", 
-        "322", 
         "33", 
         "34", 
         "35", 
@@ -452,11 +449,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.137505029471, 
-      "lon": 2.767758658408, 
+      "lat": 51.136906718264, 
+      "lon": 2.767694127694, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugsevaart"
     }, 
     {
@@ -471,14 +468,14 @@
         "204"
       ], 
       "hnrlbls": [
-        "40-40B"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.137949712322, 
-      "lon": 2.76818301869, 
+      "lat": 51.13786776707, 
+      "lon": 2.767729223196, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsevaart"
     }, 
     {
@@ -493,14 +490,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "40-40B"
+        "40A"
       ], 
       "housenumber": "40A", 
-      "lat": 51.137949712322, 
-      "lon": 2.76818301869, 
+      "lat": 51.137908792024, 
+      "lon": 2.767969909938, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsevaart"
     }, 
     {
@@ -517,31 +514,28 @@
         "3"
       ], 
       "hnrlbls": [
-        "40-40B"
+        "40B"
       ], 
       "housenumber": "40B", 
-      "lat": 51.137949712322, 
-      "lon": 2.76818301869, 
+      "lat": 51.137964161998, 
+      "lon": 2.768273987314, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsevaart"
     }, 
     {
       "busnrs": [
-        "1", 
         "101", 
         "102", 
         "103", 
-        "2", 
         "201", 
         "202", 
         "203", 
-        "204", 
-        "3"
+        "204"
       ], 
       "hnrlbls": [
-        "40C-40_004"
+        "40C"
       ], 
       "housenumber": "40C", 
       "lat": 51.138013766027, 
@@ -565,62 +559,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "40C-40_004"
+        "40D"
       ], 
       "housenumber": "40D", 
-      "lat": 51.138013766027, 
-      "lon": 2.768530816061, 
+      "lat": 51.138056956926, 
+      "lon": 2.768778861467, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brugsevaart"
-    }, 
-    {
-      "hnrlbls": [
-        "40C-40_004"
-      ], 
-      "housenumber": "40_001", 
-      "lat": 51.138013766027, 
-      "lon": 2.768530816061, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brugsevaart"
-    }, 
-    {
-      "hnrlbls": [
-        "40C-40_004"
-      ], 
-      "housenumber": "40_002", 
-      "lat": 51.138013766027, 
-      "lon": 2.768530816061, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brugsevaart"
-    }, 
-    {
-      "hnrlbls": [
-        "40C-40_004"
-      ], 
-      "housenumber": "40_003", 
-      "lat": 51.138013766027, 
-      "lon": 2.768530816061, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brugsevaart"
-    }, 
-    {
-      "hnrlbls": [
-        "40C-40_004"
-      ], 
-      "housenumber": "40_004", 
-      "lat": 51.138013766027, 
-      "lon": 2.768530816061, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsevaart"
     }, 
     {
@@ -657,11 +603,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.137747185088, 
-      "lon": 2.771843764911, 
+      "lat": 51.137798274511, 
+      "lon": 2.771785568944, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Brugsevaart"
     }, 
     {

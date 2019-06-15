@@ -16,11 +16,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.130262405521, 
-      "lon": 4.560710662157, 
+      "lat": 51.130290597278, 
+      "lon": 4.560620636472, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kazernedreef"
     }, 
     {
@@ -177,27 +177,6 @@
         "3", 
         "4", 
         "5", 
-        "7", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "1B-3B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 51.129990827573, 
-      "lon": 4.560011125384, 
-      "municipality": "Lier", 
-      "pcode": "2500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kazernedreef"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
         "6", 
         "7", 
         "8", 
@@ -256,29 +235,6 @@
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Kazernedreef"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "1B-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 51.129990827573, 
-      "lon": 4.560011125384, 
-      "municipality": "Lier", 
-      "pcode": "2500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kazernedreef"
     }, 
     {

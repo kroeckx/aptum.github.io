@@ -150,11 +150,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.849046145961, 
-      "lon": 3.380569079726, 
+      "lat": 50.849059230252, 
+      "lon": 3.380553467427, 
       "municipality": "Deerlijk", 
       "pcode": "8540", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Breestraat"
     }, 
     {
@@ -164,6 +164,18 @@
       "housenumber": "44", 
       "lat": 50.854390680089, 
       "lon": 3.379393126327, 
+      "municipality": "Deerlijk", 
+      "pcode": "8540", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Breestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.848331115692, 
+      "lon": 3.380063631878, 
       "municipality": "Deerlijk", 
       "pcode": "8540", 
       "source": "afgeleidVanPerceelGrb", 

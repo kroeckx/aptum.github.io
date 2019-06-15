@@ -306,8 +306,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.946232097872, 
-      "lon": 4.746557588136, 
+      "lat": 50.946237196017, 
+      "lon": 4.746565597878, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -398,15 +398,18 @@
       "street": "Eektstraat"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 50.947478886793, 
-      "lon": 4.749516252924, 
+      "lat": 50.947579798373, 
+      "lon": 4.749500566706, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Eektstraat"
     }, 
     {
@@ -578,8 +581,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.946306914452, 
-      "lon": 4.745795339199, 
+      "lat": 50.946305097875, 
+      "lon": 4.745801158735, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -619,6 +622,90 @@
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
+      "street": "Eektstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.947069584236, 
+      "lon": 4.749299760375, 
+      "municipality": "Rotselaar", 
+      "pcode": "3111", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Eektstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.947049978324, 
+      "lon": 4.749136241784, 
+      "municipality": "Rotselaar", 
+      "pcode": "3111", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Eektstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4C"
+      ], 
+      "housenumber": "4C", 
+      "lat": 50.947027739013, 
+      "lon": 4.749008561275, 
+      "municipality": "Rotselaar", 
+      "pcode": "3111", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Eektstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4D"
+      ], 
+      "housenumber": "4D", 
+      "lat": 50.947180511215, 
+      "lon": 4.749244880597, 
+      "municipality": "Rotselaar", 
+      "pcode": "3111", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Eektstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4E"
+      ], 
+      "housenumber": "4E", 
+      "lat": 50.947165294678, 
+      "lon": 4.749086093176, 
+      "municipality": "Rotselaar", 
+      "pcode": "3111", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Eektstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4F"
+      ], 
+      "housenumber": "4F", 
+      "lat": 50.94713368359, 
+      "lon": 4.748937702885, 
+      "municipality": "Rotselaar", 
+      "pcode": "3111", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Eektstraat"
     }, 
     {
@@ -1051,8 +1138,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.946042401285, 
-      "lon": 4.740514174506, 
+      "lat": 50.946037107614, 
+      "lon": 4.740511001965, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 

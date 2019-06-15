@@ -26,7 +26,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2", 
         "3", 
         "4", 
@@ -38,8 +37,8 @@
         "6-11"
       ], 
       "housenumber": "11", 
-      "lat": 51.232801321554, 
-      "lon": 2.918990711772, 
+      "lat": 51.2328029181, 
+      "lon": 2.918988943777, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -192,6 +191,7 @@
     {
       "busnrs": [
         "0201", 
+        "0301", 
         "1", 
         "2", 
         "3", 
@@ -209,7 +209,7 @@
       "lon": 2.918774846817, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brabantstraat"
     }, 
     {

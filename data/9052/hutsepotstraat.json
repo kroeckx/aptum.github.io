@@ -635,8 +635,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 51.00797231679, 
-      "lon": 3.704221717004, 
+      "lat": 51.007734029825, 
+      "lon": 3.704608384307, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanPerceel", 
@@ -647,8 +647,8 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.008017589926, 
-      "lon": 3.703769673355, 
+      "lat": 51.007843913836, 
+      "lon": 3.704343226149, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanPerceel", 
@@ -659,11 +659,11 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 51.008552856262, 
-      "lon": 3.702852856041, 
+      "lat": 51.0078885772, 
+      "lon": 3.704213214555, 
       "municipality": "Gent", 
       "pcode": "9052", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hutsepotstraat"
     }, 
     {
@@ -671,8 +671,8 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 51.008812348731, 
-      "lon": 3.702243016557, 
+      "lat": 51.007941068498, 
+      "lon": 3.704068558001, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanPerceel", 
@@ -688,6 +688,152 @@
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Hutsepotstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "180"
+      ], 
+      "housenumber": "180", 
+      "lat": 51.008020674052, 
+      "lon": 3.70375865804, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hutsepotstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "182"
+      ], 
+      "housenumber": "182", 
+      "lat": 51.008570635024, 
+      "lon": 3.702594839648, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hutsepotstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "184"
+      ], 
+      "housenumber": "184", 
+      "lat": 51.008605629974, 
+      "lon": 3.703235689229, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hutsepotstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "186"
+      ], 
+      "housenumber": "186", 
+      "lat": 51.008225582382, 
+      "lon": 3.703399387999, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hutsepotstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0305", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502"
+      ], 
+      "hnrlbls": [
+        "188"
+      ], 
+      "housenumber": "188", 
+      "lat": 51.008359238002, 
+      "lon": 3.703826241154, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hutsepotstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "190"
+      ], 
+      "housenumber": "190", 
+      "lat": 51.008730170188, 
+      "lon": 3.702145011443, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hutsepotstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "192"
+      ], 
+      "housenumber": "192", 
+      "lat": 51.008856960576, 
+      "lon": 3.702199635263, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hutsepotstraat"
     }, 
     {
@@ -1384,11 +1530,23 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.005397224799, 
-      "lon": 3.711484507838, 
+      "lat": 51.005280047776, 
+      "lon": 3.711428160958, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Hutsepotstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "58A"
+      ], 
+      "housenumber": "58A", 
+      "lat": 51.005334579654, 
+      "lon": 3.71126098026, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hutsepotstraat"
     }, 
     {

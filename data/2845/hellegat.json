@@ -316,6 +316,11 @@
       "street": "Hellegat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -593,14 +598,14 @@
     }, 
     {
       "hnrlbls": [
-        "78"
+        "78-78B"
       ], 
       "housenumber": "78", 
-      "lat": 51.097429289238, 
-      "lon": 4.338732207295, 
+      "lat": 51.097435402438, 
+      "lon": 4.338735486822, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hellegat"
     }, 
     {
@@ -609,7 +614,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "78B"
+        "78-78B"
       ], 
       "housenumber": "78B", 
       "lat": 51.097435402438, 

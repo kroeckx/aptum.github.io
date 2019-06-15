@@ -73,9 +73,6 @@
       "street": "Clara Snellingsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -190,8 +187,7 @@
         "3", 
         "4", 
         "5", 
-        "6", 
-        "R"
+        "6"
       ], 
       "hnrlbls": [
         "113"
@@ -202,21 +198,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Clara Snellingsstraat"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "113_1"
-      ], 
-      "housenumber": "113_1", 
-      "lat": 51.22617879979, 
-      "lon": 4.46468177985, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Clara Snellingsstraat"
     }, 
     {
@@ -745,9 +726,6 @@
       "street": "Clara Snellingsstraat"
     }, 
     {
-      "busnrs": [
-        "45"
-      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -856,9 +834,6 @@
       "street": "Clara Snellingsstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "33-43"
       ], 
@@ -1015,13 +990,6 @@
       "street": "Clara Snellingsstraat"
     }, 
     {
-      "apptnrs": [
-        "101"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -1407,9 +1375,6 @@
       "street": "Clara Snellingsstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -1494,6 +1459,11 @@
       "street": "Clara Snellingsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -1590,9 +1560,6 @@
       "street": "Clara Snellingsstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0"
-      ], 
       "hnrlbls": [
         "98"
       ], 

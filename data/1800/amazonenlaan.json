@@ -173,11 +173,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.905067263228, 
-      "lon": 4.364402866486, 
+      "lat": 50.905072116853, 
+      "lon": 4.364382677983, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Amazonenlaan"
     }, 
     {
@@ -327,8 +327,10 @@
     {
       "apptnrs": [
         "0", 
-        "2", 
-        "3"
+        "2"
+      ], 
+      "busnrs": [
+        "03/1"
       ], 
       "hnrlbls": [
         "37"

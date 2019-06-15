@@ -41,11 +41,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.171786211598, 
-      "lon": 3.862755473639, 
+      "lat": 51.171735919769, 
+      "lon": 3.862850102436, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenakkerstraat"
     }, 
     {
@@ -53,11 +53,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.172085498063, 
-      "lon": 3.862998456341, 
+      "lat": 51.17209656587, 
+      "lon": 3.863106291362, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkerstraat"
     }, 
     {
@@ -65,11 +65,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.172147372105, 
-      "lon": 3.86304783216, 
+      "lat": 51.172153385, 
+      "lon": 3.863150717482, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenakkerstraat"
     }, 
     {
@@ -154,6 +154,18 @@
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molenakkerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28-28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 51.172235219986, 
+      "lon": 3.875657316879, 
+      "municipality": "Wachtebeke", 
+      "pcode": "9185", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Molenakkerstraat"
     }, 
     {

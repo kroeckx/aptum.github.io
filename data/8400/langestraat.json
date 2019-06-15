@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.231757818395, 
-      "lon": 2.913810908447, 
+      "lat": 51.231755626399, 
+      "lon": 2.913808112964, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -17,8 +17,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.234039107796, 
-      "lon": 2.9202267127, 
+      "lat": 51.234040878834, 
+      "lon": 2.920224509679, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -53,11 +53,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.234376329323, 
-      "lon": 2.920043536444, 
+      "lat": 51.234346719483, 
+      "lon": 2.92012164187, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -91,8 +91,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.234388885403, 
-      "lon": 2.920158566737, 
+      "lat": 51.2343858983, 
+      "lon": 2.920164244389, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -122,8 +122,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.234407910199, 
-      "lon": 2.920243896641, 
+      "lat": 51.234407013289, 
+      "lon": 2.920244067704, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -140,11 +140,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.234430170614, 
-      "lon": 2.920321822829, 
+      "lat": 51.234417925027, 
+      "lon": 2.920334948134, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -152,8 +152,8 @@
         "112B"
       ], 
       "housenumber": "112B", 
-      "lat": 51.234497250748, 
-      "lon": 2.920198160883, 
+      "lat": 51.234516346655, 
+      "lon": 2.920326019741, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -184,8 +184,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.234518378338, 
-      "lon": 2.920455267906, 
+      "lat": 51.234519068731, 
+      "lon": 2.920460258528, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -215,19 +215,39 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.234533279581, 
-      "lon": 2.920541585438, 
+      "lat": 51.234518214316, 
+      "lon": 2.920559380743, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
       "busnrs": [
         "0101", 
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
+      "hnrlbls": [
+        "117"
+      ], 
+      "housenumber": "117", 
+      "lat": 51.234365027434, 
+      "lon": 2.920838798422, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Langestraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0004", 
+        "0101", 
         "0501", 
-        "0601", 
-        "5"
+        "0601"
       ], 
       "hnrlbls": [
         "118"
@@ -237,7 +257,7 @@
       "lon": 2.920634685617, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -257,8 +277,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.231803455625, 
-      "lon": 2.913866762087, 
+      "lat": 51.231803526129, 
+      "lon": 2.913865184756, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -311,6 +331,9 @@
     }, 
     {
       "busnrs": [
+        "0006", 
+        "0021", 
+        "0024", 
         "0101", 
         "0303", 
         "0401", 
@@ -361,8 +384,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.231849268842, 
-      "lon": 2.913936929736, 
+      "lat": 51.231849438014, 
+      "lon": 2.913936065295, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -457,8 +480,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.231647152211, 
-      "lon": 2.914315537623, 
+      "lat": 51.231648096748, 
+      "lon": 2.914311928333, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -481,8 +504,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.231692437278, 
-      "lon": 2.914342763921, 
+      "lat": 51.231690315805, 
+      "lon": 2.914338391091, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -553,8 +576,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.231783711211, 
-      "lon": 2.914454472196, 
+      "lat": 51.23177943458, 
+      "lon": 2.914457612633, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -577,8 +600,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.231820185564, 
-      "lon": 2.91449629285, 
+      "lat": 51.231821625317, 
+      "lon": 2.914489088262, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -654,14 +677,14 @@
     }, 
     {
       "hnrlbls": [
-        "39"
+        "7-39"
       ], 
       "housenumber": "39", 
-      "lat": 51.232007130461, 
-      "lon": 2.915077559799, 
+      "lat": 51.231960895788, 
+      "lon": 2.915126684717, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Langestraat"
     }, 
     {
@@ -696,11 +719,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.232144391968, 
-      "lon": 2.915273753652, 
+      "lat": 51.232120850884, 
+      "lon": 2.915260167922, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Langestraat"
     }, 
     {
@@ -711,11 +734,11 @@
         "41A"
       ], 
       "housenumber": "41A", 
-      "lat": 51.232163068618, 
-      "lon": 2.915330449453, 
+      "lat": 51.23214525788, 
+      "lon": 2.915314966752, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Langestraat"
     }, 
     {
@@ -723,11 +746,11 @@
         "41B"
       ], 
       "housenumber": "41B", 
-      "lat": 51.232226467182, 
-      "lon": 2.915375871038, 
+      "lat": 51.232218712868, 
+      "lon": 2.915352055955, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Langestraat"
     }, 
     {
@@ -832,8 +855,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.232404632244, 
-      "lon": 2.915967300462, 
+      "lat": 51.232400121354, 
+      "lon": 2.915966009038, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -856,6 +879,7 @@
     }, 
     {
       "busnrs": [
+        "0003", 
         "0401"
       ], 
       "hnrlbls": [
@@ -866,11 +890,12 @@
       "lon": 2.916133932199, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
       "busnrs": [
+        "001", 
         "2", 
         "3", 
         "5", 
@@ -884,13 +909,13 @@
       "lon": 2.916302151918, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
       "busnrs": [
         "0501", 
-        "6"
+        "0601"
       ], 
       "hnrlbls": [
         "50"
@@ -910,8 +935,7 @@
         "3", 
         "4", 
         "5", 
-        "6", 
-        "A000"
+        "6"
       ], 
       "hnrlbls": [
         "50A"
@@ -933,8 +957,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.232941872667, 
-      "lon": 2.916523351883, 
+      "lat": 51.23294122779, 
+      "lon": 2.916522083192, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -978,8 +1002,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.232859384285, 
-      "lon": 2.917127347684, 
+      "lat": 51.232859772147, 
+      "lon": 2.917122323719, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -999,7 +1023,8 @@
         "0602", 
         "0606", 
         "1", 
-        "2"
+        "2", 
+        "A001"
       ], 
       "hnrlbls": [
         "56"
@@ -1090,9 +1115,6 @@
       "street": "Langestraat"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "60B"
       ], 
@@ -1189,8 +1211,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.233212112883, 
-      "lon": 2.918032834308, 
+      "lat": 51.233212955028, 
+      "lon": 2.91803552887, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1213,11 +1235,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.233152540999, 
-      "lon": 2.918306763291, 
+      "lat": 51.233341721401, 
+      "lon": 2.91816985253, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -1310,22 +1332,19 @@
     }, 
     {
       "hnrlbls": [
-        "76"
+        "76-76A"
       ], 
       "housenumber": "76", 
-      "lat": 51.233654212831, 
-      "lon": 2.91816227975, 
+      "lat": 51.233623715726, 
+      "lon": 2.918248575152, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
       "street": "Langestraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
-        "76A"
+        "76-76A"
       ], 
       "housenumber": "76A", 
       "lat": 51.233623715726, 
@@ -1367,8 +1386,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.233666358224, 
-      "lon": 2.918419660702, 
+      "lat": 51.233666623937, 
+      "lon": 2.918426669204, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1378,19 +1397,17 @@
       "busnrs": [
         "0101", 
         "0201", 
-        "0301", 
-        "2", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.233736295632, 
-      "lon": 2.918411900726, 
+      "lat": 51.233701106991, 
+      "lon": 2.918511516365, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -1415,8 +1432,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.233600254789, 
-      "lon": 2.918894273665, 
+      "lat": 51.233598053739, 
+      "lon": 2.918898065276, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1459,8 +1476,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.233656279417, 
-      "lon": 2.919064370868, 
+      "lat": 51.233657852746, 
+      "lon": 2.919068045137, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1514,8 +1531,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.233694155163, 
-      "lon": 2.919220712685, 
+      "lat": 51.23369516123, 
+      "lon": 2.919222113406, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1542,8 +1559,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.233722517997, 
-      "lon": 2.919334390591, 
+      "lat": 51.233720669816, 
+      "lon": 2.919330295253, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1692,8 +1709,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.23393376932, 
-      "lon": 2.9197001446, 
+      "lat": 51.233929707804, 
+      "lon": 2.91969883881, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1704,18 +1721,18 @@
         "0101", 
         "0201", 
         "0203", 
-        "0401", 
-        "3"
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.234000532285, 
-      "lon": 2.92001311058, 
+      "lat": 51.234041323303, 
+      "lon": 2.920003824061, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langestraat"
     }
   ]

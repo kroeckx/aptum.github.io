@@ -50,6 +50,18 @@
     }, 
     {
       "hnrlbls": [
+        "10F"
+      ], 
+      "housenumber": "10F", 
+      "lat": 50.717720600891, 
+      "lon": 3.94169803559, 
+      "municipality": "Bever", 
+      "pcode": "1547", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Plaats"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -166,6 +178,18 @@
       "municipality": "Bever", 
       "pcode": "1547", 
       "source": "afgeleidVanGebouw", 
+      "street": "Plaats"
+    }, 
+    {
+      "hnrlbls": [
+        "19_1"
+      ], 
+      "housenumber": "19_1", 
+      "lat": 50.717413753812, 
+      "lon": 3.939994455641, 
+      "municipality": "Bever", 
+      "pcode": "1547", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plaats"
     }, 
     {
@@ -680,6 +704,12 @@
       "street": "Plaats"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -744,11 +774,11 @@
         "53A"
       ], 
       "housenumber": "53A", 
-      "lat": 50.716091497696, 
-      "lon": 3.939475595852, 
+      "lat": 50.716106421693, 
+      "lon": 3.939549376588, 
       "municipality": "Bever", 
       "pcode": "1547", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plaats"
     }, 
     {
@@ -848,15 +878,25 @@
       "street": "Plaats"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "103", 
+        "104"
+      ], 
       "hnrlbls": [
-        "6-6D"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.717091048889, 
-      "lon": 3.941110686919, 
+      "lat": 50.716958038238, 
+      "lon": 3.94131891798, 
       "municipality": "Bever", 
       "pcode": "1547", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Plaats"
     }, 
     {
@@ -949,6 +989,18 @@
     }, 
     {
       "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.716300709595, 
+      "lon": 3.942507960868, 
+      "municipality": "Bever", 
+      "pcode": "1547", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Plaats"
+    }, 
+    {
+      "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
@@ -981,47 +1033,6 @@
       "municipality": "Bever", 
       "pcode": "1547", 
       "source": "afgeleidVanGebouw", 
-      "street": "Plaats"
-    }, 
-    {
-      "apptnrs": [
-        "K1", 
-        "K2", 
-        "K3"
-      ], 
-      "hnrlbls": [
-        "6-6D"
-      ], 
-      "housenumber": "6A", 
-      "lat": 50.717091048889, 
-      "lon": 3.941110686919, 
-      "municipality": "Bever", 
-      "pcode": "1547", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Plaats"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6D"
-      ], 
-      "housenumber": "6B", 
-      "lat": 50.717091048889, 
-      "lon": 3.941110686919, 
-      "municipality": "Bever", 
-      "pcode": "1547", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Plaats"
-    }, 
-    {
-      "hnrlbls": [
-        "6-6D"
-      ], 
-      "housenumber": "6D", 
-      "lat": 50.717091048889, 
-      "lon": 3.941110686919, 
-      "municipality": "Bever", 
-      "pcode": "1547", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Plaats"
     }, 
     {

@@ -142,6 +142,22 @@
       "street": "Venlosesteenweg"
     }, 
     {
+      "busnrs": [
+        "A000", 
+        "B000"
+      ], 
+      "hnrlbls": [
+        "119"
+      ], 
+      "housenumber": "119", 
+      "lat": 51.128775029152, 
+      "lon": 5.80273045457, 
+      "municipality": "Kinrooi", 
+      "pcode": "3640", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Venlosesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "121"
       ], 
@@ -493,11 +509,11 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.131463641398, 
-      "lon": 5.804434063425, 
+      "lat": 51.13146134685, 
+      "lon": 5.804282820021, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Venlosesteenweg"
     }, 
     {
@@ -601,6 +617,18 @@
     }, 
     {
       "hnrlbls": [
+        "170"
+      ], 
+      "housenumber": "170", 
+      "lat": 51.132741506012, 
+      "lon": 5.805012193178, 
+      "municipality": "Kinrooi", 
+      "pcode": "3640", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Venlosesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "171"
       ], 
       "housenumber": "171", 
@@ -609,6 +637,18 @@
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
+      "street": "Venlosesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "172"
+      ], 
+      "housenumber": "172", 
+      "lat": 51.132888963507, 
+      "lon": 5.804885413469, 
+      "municipality": "Kinrooi", 
+      "pcode": "3640", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Venlosesteenweg"
     }, 
     {
@@ -628,6 +668,18 @@
     }, 
     {
       "hnrlbls": [
+        "174"
+      ], 
+      "housenumber": "174", 
+      "lat": 51.132986584356, 
+      "lon": 5.804871840965, 
+      "municipality": "Kinrooi", 
+      "pcode": "3640", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Venlosesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "175"
       ], 
       "housenumber": "175", 
@@ -636,6 +688,18 @@
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
+      "street": "Venlosesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "176"
+      ], 
+      "housenumber": "176", 
+      "lat": 51.133069377186, 
+      "lon": 5.804828233993, 
+      "municipality": "Kinrooi", 
+      "pcode": "3640", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Venlosesteenweg"
     }, 
     {
@@ -1153,8 +1217,8 @@
         "247"
       ], 
       "housenumber": "247", 
-      "lat": 51.141077126844, 
-      "lon": 5.806861589338, 
+      "lat": 51.141078198314, 
+      "lon": 5.806862194007, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -1688,8 +1752,8 @@
         "327"
       ], 
       "housenumber": "327", 
-      "lat": 51.148951789247, 
-      "lon": 5.809644397977, 
+      "lat": 51.148951970728, 
+      "lon": 5.809629537903, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -2147,8 +2211,8 @@
         "377"
       ], 
       "housenumber": "377", 
-      "lat": 51.154220168481, 
-      "lon": 5.811008744703, 
+      "lat": 51.154220780098, 
+      "lon": 5.811010193159, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -2432,12 +2496,15 @@
       "street": "Venlosesteenweg"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "408"
       ], 
       "housenumber": "408", 
-      "lat": 51.156667871829, 
-      "lon": 5.813169508571, 
+      "lat": 51.156669282401, 
+      "lon": 5.813179130751, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -2568,8 +2635,8 @@
         "422"
       ], 
       "housenumber": "422", 
-      "lat": 51.158257599442, 
-      "lon": 5.813553690296, 
+      "lat": 51.15826175203, 
+      "lon": 5.813544954862, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 
@@ -2715,8 +2782,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.123482888632, 
-      "lon": 5.801883359339, 
+      "lat": 51.123484658653, 
+      "lon": 5.801878270662, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 

@@ -245,8 +245,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.954038810217, 
-      "lon": 2.810749440761, 
+      "lat": 50.954034690544, 
+      "lon": 2.810743883591, 
       "municipality": "Lo-Reninge", 
       "pcode": "8647", 
       "source": "afgeleidVanGebouw", 
@@ -338,7 +338,7 @@
     }, 
     {
       "hnrlbls": [
-        "37"
+        "37-37A"
       ], 
       "housenumber": "37", 
       "lat": 50.942072085854, 
@@ -346,6 +346,18 @@
       "municipality": "Lo-Reninge", 
       "pcode": "8647", 
       "source": "afgeleidVanGebouw", 
+      "street": "Middelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37-37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 50.942072085854, 
+      "lon": 2.817028276836, 
+      "municipality": "Lo-Reninge", 
+      "pcode": "8647", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Middelstraat"
     }, 
     {

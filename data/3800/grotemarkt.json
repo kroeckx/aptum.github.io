@@ -238,7 +238,10 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "26"
@@ -563,11 +566,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.815726647454, 
-      "lon": 5.185460831252, 
+      "lat": 50.815677421476, 
+      "lon": 5.185506663657, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Markt"
     }, 
     {

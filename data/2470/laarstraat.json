@@ -109,6 +109,29 @@
       "street": "Laarstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.267838543284, 
+      "lon": 5.088563366182, 
+      "municipality": "Retie", 
+      "pcode": "2470", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Laarstraat"
+    }, 
+    {
       "hnrlbls": [
         "20"
       ], 
@@ -152,6 +175,28 @@
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
+      "street": "Laarstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.267681487715, 
+      "lon": 5.08877399902, 
+      "municipality": "Retie", 
+      "pcode": "2470", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Laarstraat"
     }, 
     {

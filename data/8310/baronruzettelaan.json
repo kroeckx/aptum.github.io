@@ -17,8 +17,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.195581937466, 
-      "lon": 3.231858399205, 
+      "lat": 51.195584338362, 
+      "lon": 3.231874364782, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -770,8 +770,8 @@
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.184013317135, 
-      "lon": 3.234003854697, 
+      "lat": 51.18401107996, 
+      "lon": 3.234023648085, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1052,8 +1052,49 @@
         "282"
       ], 
       "housenumber": "282", 
-      "lat": 51.182591843452, 
-      "lon": 3.234392690775, 
+      "lat": 51.182591566967, 
+      "lon": 3.234391982332, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "284-286"
+      ], 
+      "housenumber": "284", 
+      "lat": 51.182475125695, 
+      "lon": 3.234407970118, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "284-286"
+      ], 
+      "housenumber": "286", 
+      "lat": 51.182475125695, 
+      "lon": 3.234407970118, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "288"
+      ], 
+      "housenumber": "288", 
+      "lat": 51.18223073125, 
+      "lon": 3.234027294938, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1073,6 +1114,70 @@
       "housenumber": "29", 
       "lat": 51.198106053714, 
       "lon": 3.231320177871, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "290"
+      ], 
+      "housenumber": "290", 
+      "lat": 51.182151125651, 
+      "lon": 3.234050398056, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "292-294C"
+      ], 
+      "housenumber": "292", 
+      "lat": 51.182260848574, 
+      "lon": 3.234439636493, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "292-294C"
+      ], 
+      "housenumber": "294A", 
+      "lat": 51.182260848574, 
+      "lon": 3.234439636493, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "292-294C"
+      ], 
+      "housenumber": "294B", 
+      "lat": 51.182260848574, 
+      "lon": 3.234439636493, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "292-294C"
+      ], 
+      "housenumber": "294C", 
+      "lat": 51.182260848574, 
+      "lon": 3.234439636493, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1224,8 +1329,8 @@
         "329"
       ], 
       "housenumber": "329", 
-      "lat": 51.187566487282, 
-      "lon": 3.233943241842, 
+      "lat": 51.187563995598, 
+      "lon": 3.233964616446, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1371,8 +1476,8 @@
         "359"
       ], 
       "housenumber": "359", 
-      "lat": 51.186166604808, 
-      "lon": 3.234314848784, 
+      "lat": 51.186168418732, 
+      "lon": 3.234297782597, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1888,15 +1993,60 @@
       "street": "Baron Ruzettelaan"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
-        "433A"
+        "433A-433D"
       ], 
       "housenumber": "433A", 
-      "lat": 51.182718616464, 
-      "lon": 3.235069443729, 
+      "lat": 51.183341073333, 
+      "lon": 3.235821565991, 
       "municipality": "Brugge", 
       "pcode": "8310", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "433A-433D"
+      ], 
+      "housenumber": "433B", 
+      "lat": 51.183341073333, 
+      "lon": 3.235821565991, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "433A-433D"
+      ], 
+      "housenumber": "433C", 
+      "lat": 51.183341073333, 
+      "lon": 3.235821565991, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron Ruzettelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "433A-433D"
+      ], 
+      "housenumber": "433D", 
+      "lat": 51.183341073333, 
+      "lon": 3.235821565991, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
       "street": "Baron Ruzettelaan"
     }, 
     {
@@ -1933,8 +2083,8 @@
         "439"
       ], 
       "housenumber": "439", 
-      "lat": 51.181919634532, 
-      "lon": 3.235942588166, 
+      "lat": 51.181869773716, 
+      "lon": 3.235842675813, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -2065,8 +2215,8 @@
         "455"
       ], 
       "housenumber": "455", 
-      "lat": 51.180656182114, 
-      "lon": 3.235505115678, 
+      "lat": 51.180650510556, 
+      "lon": 3.235485515736, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -2778,8 +2928,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.195630281436, 
-      "lon": 3.231912447559, 
+      "lat": 51.195630194313, 
+      "lon": 3.231912735825, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 

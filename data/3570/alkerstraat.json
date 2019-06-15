@@ -26,18 +26,6 @@
     }, 
     {
       "hnrlbls": [
-        "112"
-      ], 
-      "housenumber": "112", 
-      "lat": 50.869166745357, 
-      "lon": 5.328513282711, 
-      "municipality": "Alken", 
-      "pcode": "3570", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alkerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "114"
       ], 
       "housenumber": "114", 
@@ -53,8 +41,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.876520229717, 
-      "lon": 5.316247777732, 
+      "lat": 50.876524106339, 
+      "lon": 5.316246435029, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -280,6 +268,7 @@
       "busnrs": [
         "1", 
         "10", 
+        "11", 
         "2", 
         "3", 
         "4", 
@@ -327,14 +316,15 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.874005906281, 
-      "lon": 5.317842686696, 
+      "lat": 50.874006487197, 
+      "lon": 5.317848666115, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -597,8 +587,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.872690015046, 
-      "lon": 5.320360515373, 
+      "lat": 50.872684825768, 
+      "lon": 5.320368508946, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -618,6 +608,30 @@
     }, 
     {
       "hnrlbls": [
+        "71A"
+      ], 
+      "housenumber": "71A", 
+      "lat": 50.87201146224, 
+      "lon": 5.320778120426, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Alkerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "71B"
+      ], 
+      "housenumber": "71B", 
+      "lat": 50.871959841366, 
+      "lon": 5.320824528778, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Alkerstraat"
+    }, 
+    {
+      "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
@@ -633,8 +647,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.87166317808, 
-      "lon": 5.321110771993, 
+      "lat": 50.87166170769, 
+      "lon": 5.321103638141, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -681,8 +695,8 @@
         "81A"
       ], 
       "housenumber": "81A", 
-      "lat": 50.871136636024, 
-      "lon": 5.321938924465, 
+      "lat": 50.871135741773, 
+      "lon": 5.321938337993, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 

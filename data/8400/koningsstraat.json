@@ -216,8 +216,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.230401375971, 
-      "lon": 2.912435651786, 
+      "lat": 51.230399353102, 
+      "lon": 2.91243199203, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -269,6 +269,7 @@
         "0402", 
         "0501", 
         "0502", 
+        "0601", 
         "0701", 
         "0702", 
         "0802", 
@@ -289,7 +290,7 @@
       "lon": 2.912680872404, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -332,7 +333,7 @@
       "lon": 2.912680872404, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -414,6 +415,7 @@
     {
       "busnrs": [
         "0101", 
+        "0602", 
         "1", 
         "10", 
         "11", 
@@ -435,7 +437,7 @@
       "lon": 2.912001369404, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -734,16 +736,17 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.229621134704, 
-      "lon": 2.911815674831, 
+      "lat": 51.229692019465, 
+      "lon": 2.911738859712, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101", 
         "0201", 
         "0301", 
@@ -784,15 +787,16 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.229591696538, 
-      "lon": 2.911659088757, 
+      "lat": 51.229640336942, 
+      "lon": 2.911630220266, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
       "busnrs": [
+        "0401", 
         "1", 
         "3", 
         "4", 
@@ -802,11 +806,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.229424462315, 
-      "lon": 2.910490184086, 
+      "lat": 51.229428770603, 
+      "lon": 2.910489619809, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -828,11 +832,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.22925732941, 
-      "lon": 2.910934561822, 
+      "lat": 51.229279000943, 
+      "lon": 2.9109058199, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -863,52 +867,49 @@
     }, 
     {
       "busnrs": [
-        "0009", 
-        "0010", 
-        "0011", 
-        "0015", 
-        "0017", 
-        "0019", 
-        "0020", 
-        "0023", 
-        "002D", 
-        "0030", 
-        "0031", 
-        "0038", 
-        "0042", 
-        "0043", 
         "0101", 
         "0102", 
         "0103", 
         "0104", 
+        "0105", 
         "0201", 
         "0202", 
         "0203", 
         "0204", 
+        "0205", 
         "0301", 
         "0302", 
         "0303", 
         "0304", 
+        "0305", 
         "0401", 
         "0402", 
         "0403", 
         "0404", 
+        "0405", 
         "0501", 
         "0502", 
         "0503", 
         "0504", 
+        "0505", 
         "0601", 
         "0602", 
         "0603", 
         "0604", 
+        "0605", 
         "0701", 
         "0702", 
         "0703", 
         "0704", 
+        "0705", 
         "0801", 
         "0802", 
         "0803", 
-        "0804"
+        "0804", 
+        "0805", 
+        "0901", 
+        "0902", 
+        "0903"
       ], 
       "hnrlbls": [
         "4"
@@ -934,11 +935,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.229207570831, 
-      "lon": 2.91086538342, 
+      "lat": 51.229235335616, 
+      "lon": 2.910835019151, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -971,6 +972,7 @@
     }, 
     {
       "busnrs": [
+        "0102", 
         "0404", 
         "0501", 
         "0502", 
@@ -985,11 +987,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.229166386832, 
-      "lon": 2.910820851427, 
+      "lat": 51.229199144925, 
+      "lon": 2.910757971045, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -1008,8 +1010,7 @@
       "busnrs": [
         "0402", 
         "0501", 
-        "1", 
-        "A000"
+        "1"
       ], 
       "hnrlbls": [
         "43A"
@@ -1037,11 +1038,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.229125576392, 
-      "lon": 2.910777453318, 
+      "lat": 51.229165593924, 
+      "lon": 2.910690863532, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -1111,11 +1112,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.229070506891, 
-      "lon": 2.91059102922, 
+      "lat": 51.229103598415, 
+      "lon": 2.910562502919, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -1272,11 +1273,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.228736523751, 
-      "lon": 2.909045485875, 
+      "lat": 51.228704299673, 
+      "lon": 2.909209867902, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -1303,6 +1304,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0601", 
         "0701", 
@@ -1320,7 +1322,7 @@
       "lon": 2.910234808809, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -1374,23 +1376,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.228835920306, 
-      "lon": 2.91015062517, 
+      "lat": 51.228833231377, 
+      "lon": 2.910151282008, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koningsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "61"
-      ], 
-      "housenumber": "61", 
-      "lat": 51.228538006404, 
-      "lon": 2.908891190229, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -1416,6 +1406,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301"
@@ -1707,6 +1698,7 @@
       "busnrs": [
         "002R", 
         "0101", 
+        "0102", 
         "0201", 
         "0302", 
         "0402", 
@@ -1830,8 +1822,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.227730404249, 
-      "lon": 2.905803847605, 
+      "lat": 51.227730369253, 
+      "lon": 2.905808287331, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1839,6 +1831,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0401", 
         "1", 
         "2", 
@@ -1854,7 +1847,7 @@
       "lon": 2.912955553734, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -1890,24 +1883,10 @@
     }, 
     {
       "busnrs": [
-        "8"
-      ], 
-      "hnrlbls": [
-        "84"
-      ], 
-      "housenumber": "84", 
-      "lat": 51.228262683393, 
-      "lon": 2.908865587845, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Koningsstraat"
-    }, 
-    {
-      "busnrs": [
         "0201", 
         "0302", 
         "0401", 
+        "0501", 
         "0502"
       ], 
       "hnrlbls": [
@@ -1918,7 +1897,7 @@
       "lon": 2.908809180699, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }, 
     {
@@ -1997,6 +1976,7 @@
         "0104", 
         "0204", 
         "0303", 
+        "0404", 
         "0501", 
         "0502", 
         "0503", 
@@ -2011,7 +1991,7 @@
       "lon": 2.908508814077, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningsstraat"
     }
   ]

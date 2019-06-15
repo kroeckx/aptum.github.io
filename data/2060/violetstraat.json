@@ -197,15 +197,21 @@
       "street": "Violetstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.221141621083, 
-      "lon": 4.435377613629, 
+      "lat": 51.221144944666, 
+      "lon": 4.435381339901, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Violetstraat"
     }, 
     {
@@ -227,12 +233,6 @@
       "street": "Violetstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -527,6 +527,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [

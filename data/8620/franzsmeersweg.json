@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "/zn-13A"
+        "1-13A"
       ], 
       "housenumber": "1", 
       "lat": 51.147405172154, 
@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-13A"
+        "1-13A"
       ], 
       "housenumber": "11", 
       "lat": 51.147405172154, 
@@ -26,7 +26,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-13A"
+        "1-13A"
       ], 
       "housenumber": "13A", 
       "lat": 51.147405172154, 
@@ -50,14 +50,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-3"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.147580312365, 
-      "lon": 2.719725523539, 
+      "lat": 51.14757325643, 
+      "lon": 2.719773944509, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franz Smeersweg"
     }, 
     {
@@ -65,11 +65,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.147581532667, 
-      "lon": 2.720495516126, 
+      "lat": 51.14761695139, 
+      "lon": 2.720482259185, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franz Smeersweg"
     }, 
     {
@@ -118,18 +118,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Franz Smeersweg"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-13A"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.147405172154, 
-      "lon": 2.719629073024, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Franz Smeersweg"
     }
   ]

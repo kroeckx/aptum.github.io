@@ -658,25 +658,9 @@
     }, 
     {
       "hnrlbls": [
-        "36-36A"
+        "36-38"
       ], 
       "housenumber": "36", 
-      "lat": 50.989221186137, 
-      "lon": 5.366836487246, 
-      "municipality": "Zonhoven", 
-      "pcode": "3520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heuvenstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "36-36A"
-      ], 
-      "housenumber": "36A", 
       "lat": 50.989221186137, 
       "lon": 5.366836487246, 
       "municipality": "Zonhoven", 
@@ -700,14 +684,16 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
-        "38"
+        "36-38"
       ], 
       "housenumber": "38", 
-      "lat": 50.989124533145, 
-      "lon": 5.366848386124, 
+      "lat": 50.989221186137, 
+      "lon": 5.366836487246, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanGebouw", 

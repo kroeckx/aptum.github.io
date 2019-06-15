@@ -173,12 +173,10 @@
     }, 
     {
       "apptnrs": [
-        "1-01", 
-        "2-01"
-      ], 
-      "busnrs": [
         "1", 
-        "2"
+        "1-01", 
+        "2", 
+        "2-01"
       ], 
       "hnrlbls": [
         "11"
@@ -763,11 +761,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.096655718295, 
-      "lon": 3.208840143558, 
+      "lat": 51.096675752397, 
+      "lon": 3.208847927452, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Elooisstraat"
     }, 
     {
@@ -831,11 +829,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.096660197778, 
-      "lon": 3.209323308444, 
+      "lat": 51.096778559997, 
+      "lon": 3.209219150702, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Elooisstraat"
     }, 
     {
@@ -939,11 +937,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.096877997351, 
-      "lon": 3.2096958237, 
+      "lat": 51.09695407967, 
+      "lon": 3.209597996629, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Elooisstraat"
     }, 
     {
@@ -1297,8 +1295,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.097916566061, 
-      "lon": 3.211221611187, 
+      "lat": 51.097865058474, 
+      "lon": 3.211258721906, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -1533,28 +1531,23 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.097756549978, 
-      "lon": 3.211991976991, 
+      "lat": 51.097740197782, 
+      "lon": 3.211956259778, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Elooisstraat"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "78A"
       ], 
       "housenumber": "78A", 
-      "lat": 51.097817681168, 
-      "lon": 3.211927787802, 
+      "lat": 51.097869463131, 
+      "lon": 3.212047008017, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Elooisstraat"
     }, 
     {
@@ -1712,6 +1705,7 @@
         "0-13", 
         "0-14", 
         "0-15", 
+        "1", 
         "1-01", 
         "1-02", 
         "1-03", 
@@ -1727,9 +1721,6 @@
         "1-13", 
         "1-14", 
         "1-15"
-      ], 
-      "busnrs": [
-        "1"
       ], 
       "hnrlbls": [
         "89"

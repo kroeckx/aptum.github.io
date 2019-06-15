@@ -1,19 +1,23 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.199918257799, 
-      "lon": 4.467784194748, 
+      "lat": 51.199926468242, 
+      "lon": 4.467854029763, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Constant Jorislaan"
     }, 
     {
@@ -139,8 +143,10 @@
       "street": "Constant Jorislaan"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "19"
@@ -348,8 +354,9 @@
       "street": "Constant Jorislaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "5"
@@ -471,6 +478,11 @@
       "street": "Constant Jorislaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "9"
       ], 

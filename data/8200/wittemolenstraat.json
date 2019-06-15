@@ -193,12 +193,57 @@
       "street": "Wittemolenstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "17-130"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.185579922837, 
+      "lon": 3.2075381371, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wittemolenstraat"
+    }, 
+    {
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 51.185888682156, 
       "lon": 3.20743404677, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wittemolenstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.185456979877, 
+      "lon": 3.206956154827, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -229,12 +274,51 @@
       "street": "Wittemolenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.185400090281, 
+      "lon": 3.206738144937, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wittemolenstraat"
+    }, 
+    {
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
       "lat": 51.185815342773, 
       "lon": 3.207298407006, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wittemolenstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.185362814805, 
+      "lon": 3.206595030077, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -253,12 +337,49 @@
       "street": "Wittemolenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 51.185317693034, 
+      "lon": 3.206421929086, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wittemolenstraat"
+    }, 
+    {
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
       "lat": 51.185821910694, 
       "lon": 3.20709769775, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wittemolenstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.185257252216, 
+      "lon": 3.206190276963, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -278,14 +399,89 @@
     }, 
     {
       "busnrs": [
-        "16"
+        "1", 
+        "10", 
+        "101", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "107", 
+        "108", 
+        "109", 
+        "11", 
+        "110", 
+        "112", 
+        "113", 
+        "114", 
+        "115", 
+        "116", 
+        "117", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207", 
+        "208", 
+        "209", 
+        "210", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "29A"
       ], 
       "housenumber": "29A", 
-      "lat": 51.184783286852, 
-      "lon": 3.206013266567, 
+      "lat": 51.184698513413, 
+      "lon": 3.206122800263, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Wittemolenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "107", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 51.184868061593, 
+      "lon": 3.205903875477, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 

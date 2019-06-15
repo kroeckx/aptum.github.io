@@ -1,12 +1,17 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1A", 
+        "2A", 
+        "GLVA"
+      ], 
       "hnrlbls": [
-        "1"
+        "1-14B"
       ], 
       "housenumber": "1", 
-      "lat": 50.853036190353, 
-      "lon": 2.883099212449, 
+      "lat": 50.853019489356, 
+      "lon": 2.883058406274, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 

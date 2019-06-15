@@ -948,18 +948,6 @@
     }, 
     {
       "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.036011119608, 
-      "lon": 5.728600389574, 
-      "municipality": "Dilsen-Stokkem", 
-      "pcode": "3650", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Europalaan"
-    }, 
-    {
-      "hnrlbls": [
         "200"
       ], 
       "housenumber": "200", 
@@ -1506,6 +1494,13 @@
       "street": "Europalaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
+      ], 
       "hnrlbls": [
         "87"
       ], 
@@ -1701,11 +1696,11 @@
         "95A"
       ], 
       "housenumber": "95A", 
-      "lat": 51.038669602712, 
-      "lon": 5.718831176093, 
+      "lat": 51.038850984429, 
+      "lon": 5.71891355679, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Europalaan"
     }, 
     {

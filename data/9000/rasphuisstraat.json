@@ -57,6 +57,12 @@
       "street": "Rasphuisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -344,18 +350,6 @@
       "housenumber": "2", 
       "lat": 51.055086902603, 
       "lon": 3.712243595646, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Rasphuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.054746736217, 
-      "lon": 3.71170879295, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -752,18 +746,6 @@
       "housenumber": "27G", 
       "lat": 51.054057387788, 
       "lon": 3.711490113946, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Rasphuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.054622552697, 
-      "lon": 3.711620677952, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

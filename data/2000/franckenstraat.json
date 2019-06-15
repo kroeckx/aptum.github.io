@@ -150,8 +150,10 @@
       "street": "Franckenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "20-22"
@@ -293,6 +295,13 @@
       "street": "Franckenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "8"
       ], 

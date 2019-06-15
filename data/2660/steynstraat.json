@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.17850973253, 
-      "lon": 4.355004598959, 
+      "lat": 51.178510092181, 
+      "lon": 4.355005599878, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -123,10 +123,6 @@
         "202", 
         "301", 
         "302"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
       ], 
       "hnrlbls": [
         "107"
@@ -1476,8 +1472,10 @@
       "street": "Steynstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "232"
@@ -2041,8 +2039,8 @@
         "287"
       ], 
       "housenumber": "287", 
-      "lat": 51.183196179108, 
-      "lon": 4.363636089519, 
+      "lat": 51.183197886937, 
+      "lon": 4.363636375392, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -2073,8 +2071,8 @@
         "289"
       ], 
       "housenumber": "289", 
-      "lat": 51.183222696943, 
-      "lon": 4.363681995538, 
+      "lat": 51.183221977963, 
+      "lon": 4.363684712933, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3906,8 +3904,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.178471884169, 
-      "lon": 4.354944691423, 
+      "lat": 51.178471884311, 
+      "lon": 4.354945978447, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 

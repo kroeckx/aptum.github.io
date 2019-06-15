@@ -438,8 +438,8 @@
         "33A"
       ], 
       "housenumber": "33A", 
-      "lat": 51.406682070673, 
-      "lon": 4.757585635512, 
+      "lat": 51.406681981269, 
+      "lon": 4.757585491055, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -502,8 +502,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.406863209129, 
-      "lon": 4.754273969162, 
+      "lat": 51.4068662649, 
+      "lon": 4.754273994576, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -658,8 +658,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.407061874061, 
-      "lon": 4.756549808682, 
+      "lat": 51.407062245319, 
+      "lon": 4.756546219075, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -694,8 +694,8 @@
         "51B"
       ], 
       "housenumber": "51B", 
-      "lat": 51.407628200348, 
-      "lon": 4.750792627774, 
+      "lat": 51.407627032428, 
+      "lon": 4.750792474438, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -780,6 +780,30 @@
       "housenumber": "52D", 
       "lat": 51.407102709499, 
       "lon": 4.755357512245, 
+      "municipality": "Hoogstraten", 
+      "pcode": "2320", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Moerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "52E"
+      ], 
+      "housenumber": "52E", 
+      "lat": 51.40711396693, 
+      "lon": 4.755240339855, 
+      "municipality": "Hoogstraten", 
+      "pcode": "2320", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Moerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "52F"
+      ], 
+      "housenumber": "52F", 
+      "lat": 51.407117555771, 
+      "lon": 4.755132013429, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -917,8 +941,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.409438070871, 
-      "lon": 4.7459390289, 
+      "lat": 51.409431774093, 
+      "lon": 4.745940702247, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 
@@ -953,11 +977,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.407453234788, 
-      "lon": 4.753229939191, 
+      "lat": 51.407441438129, 
+      "lon": 4.753264619084, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Moerstraat"
     }, 
     {
@@ -965,11 +989,11 @@
         "64A"
       ], 
       "housenumber": "64A", 
-      "lat": 51.407562664096, 
-      "lon": 4.753242918492, 
+      "lat": 51.407549591457, 
+      "lon": 4.753283048859, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Moerstraat"
     }, 
     {
@@ -977,11 +1001,11 @@
         "64B"
       ], 
       "housenumber": "64B", 
-      "lat": 51.407795277852, 
-      "lon": 4.753267697985, 
+      "lat": 51.407745535375, 
+      "lon": 4.753335404184, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Moerstraat"
     }, 
     {
@@ -1037,8 +1061,8 @@
         "68B"
       ], 
       "housenumber": "68B", 
-      "lat": 51.407820617009, 
-      "lon": 4.751464912075, 
+      "lat": 51.407819006673, 
+      "lon": 4.751462599406, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
       "source": "afgeleidVanGebouw", 

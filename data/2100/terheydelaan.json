@@ -38,8 +38,10 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "100"
@@ -65,8 +67,10 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "102"
@@ -117,6 +121,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -177,8 +182,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.224956102758, 
-      "lon": 4.457017533657, 
+      "lat": 51.224979531048, 
+      "lon": 4.457059233677, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -298,8 +303,11 @@
       "apptnrs": [
         "001", 
         "101", 
+        "102", 
         "201", 
-        "301"
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "120"
@@ -361,6 +369,12 @@
       "street": "Ter Heydelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -385,8 +399,13 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "128"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "126-128"
@@ -489,8 +508,10 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "136"
@@ -614,8 +635,10 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "142"
@@ -974,8 +997,11 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "166"
@@ -1353,8 +1379,10 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "63"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "186"
@@ -1365,18 +1393,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ter Heydelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "186D"
-      ], 
-      "housenumber": "186D", 
-      "lat": 51.226886725724, 
-      "lon": 4.464679811379, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Ter Heydelaan"
     }, 
     {
@@ -1414,11 +1430,13 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "15", 
-        "2", 
-        "6"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "19"
@@ -1654,8 +1672,10 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "202"
@@ -1848,7 +1868,6 @@
         "10", 
         "11", 
         "2", 
-        "215", 
         "3", 
         "4", 
         "5", 
@@ -1858,7 +1877,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "213-215"
+        "213"
       ], 
       "housenumber": "213", 
       "lat": 51.227506673755, 
@@ -1869,24 +1888,16 @@
       "street": "Ter Heydelaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "214"
       ], 
       "housenumber": "214", 
       "lat": 51.22711168267, 
       "lon": 4.466017603481, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ter Heydelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "213-215"
-      ], 
-      "housenumber": "215", 
-      "lat": 51.227506673755, 
-      "lon": 4.465313260738, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2959,6 +2970,12 @@
       "street": "Ter Heydelaan"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "316A"
       ], 
@@ -3068,6 +3085,12 @@
       "street": "Ter Heydelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "326"
       ], 
@@ -3102,8 +3125,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.225662009424, 
-      "lon": 4.458139582488, 
+      "lat": 51.225667314302, 
+      "lon": 4.458137302377, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3188,32 +3211,19 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
-        "342", 
+        "4", 
+        "5", 
         "6", 
         "7", 
         "8"
       ], 
       "hnrlbls": [
-        "340-342"
+        "340"
       ], 
       "housenumber": "340", 
-      "lat": 51.229685187959, 
-      "lon": 4.473591016242, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ter Heydelaan"
-    }, 
-    {
-      "busnrs": [
-        "7"
-      ], 
-      "hnrlbls": [
-        "340-342"
-      ], 
-      "housenumber": "342", 
       "lat": 51.229685187959, 
       "lon": 4.473591016242, 
       "municipality": "Antwerpen", 
@@ -3237,8 +3247,8 @@
         "344"
       ], 
       "housenumber": "344", 
-      "lat": 51.229662311102, 
-      "lon": 4.473542290108, 
+      "lat": 51.229751035477, 
+      "lon": 4.473733323297, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3278,18 +3288,18 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
         "35"
@@ -3518,6 +3528,12 @@
       "street": "Ter Heydelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "378"
       ], 
@@ -3553,13 +3569,14 @@
       "street": "Ter Heydelaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "382", 
-        "5", 
-        "6", 
-        "7"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "380-382"
@@ -4558,6 +4575,11 @@
       "street": "Ter Heydelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -4599,8 +4621,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.224908734934, 
-      "lon": 4.457016298117, 
+      "lat": 51.224953132398, 
+      "lon": 4.457023110658, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -4640,6 +4662,12 @@
       "street": "Ter Heydelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "92"
       ], 
@@ -4749,6 +4777,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ter Heydelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.22493050885, 
+      "lon": 4.456986994881, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ter Heydelaan"
     }
   ]

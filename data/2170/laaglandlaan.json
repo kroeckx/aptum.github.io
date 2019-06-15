@@ -1027,8 +1027,10 @@
       "street": "Laaglandlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "22"
@@ -1257,6 +1259,10 @@
       "street": "Laaglandlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -1521,6 +1527,10 @@
       "street": "Laaglandlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -3443,6 +3453,18 @@
       "street": "Laaglandlaan"
     }, 
     {
+      "hnrlbls": [
+        "795"
+      ], 
+      "housenumber": "795", 
+      "lat": 51.266789871415, 
+      "lon": 4.456715600332, 
+      "municipality": "Antwerpen", 
+      "pcode": "2170", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Laaglandlaan"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -3864,9 +3886,6 @@
       "street": "Laaglandlaan"
     }, 
     {
-      "busnrs": [
-        "118"
-      ], 
       "hnrlbls": [
         "96"
       ], 

@@ -143,18 +143,16 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
+        "0102", 
+        "0201", 
         "0202", 
+        "0301", 
+        "0302", 
         "0401", 
-        "0501", 
-        "10", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "8", 
-        "9"
+        "0402", 
+        "0501"
       ], 
       "hnrlbls": [
         "2"
@@ -164,7 +162,7 @@
       "lon": 2.904628407955, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eendrachtstraat"
     }, 
     {
@@ -225,15 +223,18 @@
       "street": "Eendrachtstraat"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.215982652718, 
-      "lon": 2.904540406217, 
+      "lat": 51.215986721516, 
+      "lon": 2.904542282544, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eendrachtstraat"
     }, 
     {
@@ -301,8 +302,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.215847675678, 
-      "lon": 2.904530328312, 
+      "lat": 51.215846071769, 
+      "lon": 2.904524223415, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -325,11 +326,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.215806631073, 
-      "lon": 2.904395628867, 
+      "lat": 51.215785211048, 
+      "lon": 2.904662407673, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Eendrachtstraat"
     }, 
     {
@@ -516,8 +517,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.215036536822, 
-      "lon": 2.904250607656, 
+      "lat": 51.215004546512, 
+      "lon": 2.904309870949, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -639,8 +640,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.214876713122, 
-      "lon": 2.90360633219, 
+      "lat": 51.214852062421, 
+      "lon": 2.903764562697, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -721,8 +722,8 @@
         "74A"
       ], 
       "housenumber": "74A", 
-      "lat": 51.214467932771, 
-      "lon": 2.904187153749, 
+      "lat": 51.214471643379, 
+      "lon": 2.904181884185, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -793,8 +794,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.213907215367, 
-      "lon": 2.903918478475, 
+      "lat": 51.213948469994, 
+      "lon": 2.903924912617, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -804,8 +805,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "8"
@@ -834,6 +834,7 @@
       "busnrs": [
         "0102", 
         "0201", 
+        "0202", 
         "0301", 
         "0302", 
         "2", 
@@ -847,7 +848,7 @@
       "lon": 2.903735808135, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Eendrachtstraat"
     }, 
     {

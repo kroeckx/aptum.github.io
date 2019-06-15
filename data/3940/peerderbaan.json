@@ -524,8 +524,8 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.127289055342, 
-      "lon": 5.389045408967, 
+      "lat": 51.127288214301, 
+      "lon": 5.389049104935, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
       "source": "afgeleidVanGebouw", 
@@ -569,7 +569,7 @@
     }, 
     {
       "hnrlbls": [
-        "16"
+        "16-16A"
       ], 
       "housenumber": "16", 
       "lat": 51.12478547113, 
@@ -605,6 +605,42 @@
     }, 
     {
       "hnrlbls": [
+        "16-16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 51.12478547113, 
+      "lon": 5.370774262432, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Peerderbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "16B"
+      ], 
+      "housenumber": "16B", 
+      "lat": 51.124774311431, 
+      "lon": 5.371029584003, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Peerderbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "16C"
+      ], 
+      "housenumber": "16C", 
+      "lat": 51.1248001242, 
+      "lon": 5.371281842337, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Peerderbaan"
+    }, 
+    {
+      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -620,8 +656,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.125274752013, 
-      "lon": 5.371844302783, 
+      "lat": 51.125268426468, 
+      "lon": 5.371848166767, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
       "source": "afgeleidVanGebouw", 
@@ -1314,8 +1350,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.126168458276, 
-      "lon": 5.376865310187, 
+      "lat": 51.126245860503, 
+      "lon": 5.376875552804, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
       "source": "afgeleidVanGebouw", 
@@ -1563,11 +1599,11 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.126445107056, 
-      "lon": 5.383734405351, 
+      "lat": 51.126419648037, 
+      "lon": 5.383736566176, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Peerderbaan"
     }, 
     {
@@ -1591,7 +1627,7 @@
       "lon": 5.383914347433, 
       "municipality": "Hechtel-Eksel", 
       "pcode": "3940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Peerderbaan"
     }, 
     {

@@ -118,6 +118,10 @@
       "street": "Lange Zavelstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "113"
       ], 
@@ -230,11 +234,18 @@
       "street": "Lange Zavelstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "17-19"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 51.223892103789, 
@@ -251,21 +262,6 @@
       "housenumber": "18", 
       "lat": 51.223842427743, 
       "lon": 4.427362561751, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Zavelstraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "17-19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.223892103789, 
-      "lon": 4.427778738813, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

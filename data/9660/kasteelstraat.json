@@ -463,15 +463,28 @@
       "street": "Kasteelstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.800119553164, 
-      "lon": 3.761456573603, 
+      "lat": 50.800233834623, 
+      "lon": 3.761234653183, 
       "municipality": "Brakel", 
       "pcode": "9660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kasteelstraat"
     }, 
     {

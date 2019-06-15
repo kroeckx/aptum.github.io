@@ -1,18 +1,6 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.221194629428, 
-      "lon": 2.892637531314, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Troonstraat"
-    }, 
-    {
       "busnrs": [
         "0101", 
         "0102", 
@@ -85,6 +73,18 @@
       "housenumber": "11", 
       "lat": 51.221718934032, 
       "lon": 2.892291662357, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Troonstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "119"
+      ], 
+      "housenumber": "119", 
+      "lat": 51.218230074338, 
+      "lon": 2.884408855174, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -510,8 +510,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.217507997709, 
-      "lon": 2.885492151294, 
+      "lat": 51.217507422484, 
+      "lon": 2.885496464113, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -549,8 +549,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 51.217537928906, 
-      "lon": 2.885470156358, 
+      "lat": 51.217534023389, 
+      "lon": 2.885466988071, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -580,8 +580,8 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.217568489162, 
-      "lon": 2.88544814139, 
+      "lat": 51.217569790358, 
+      "lon": 2.885451535641, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -616,8 +616,8 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.21759965335, 
-      "lon": 2.885424103071, 
+      "lat": 51.217596391252, 
+      "lon": 2.885422059534, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -645,8 +645,8 @@
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 51.217636441408, 
-      "lon": 2.885396879706, 
+      "lat": 51.217631978745, 
+      "lon": 2.885392297622, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -673,8 +673,8 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.217672587833, 
-      "lon": 2.885368674641, 
+      "lat": 51.217676552838, 
+      "lon": 2.885362249889, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -697,8 +697,8 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 51.217872109396, 
-      "lon": 2.885206150891, 
+      "lat": 51.217872463355, 
+      "lon": 2.885212867781, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -709,8 +709,8 @@
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 51.217861469534, 
-      "lon": 2.884959981459, 
+      "lat": 51.217860245624, 
+      "lon": 2.884955582678, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -846,8 +846,8 @@
         "220"
       ], 
       "housenumber": "220", 
-      "lat": 51.217791645723, 
-      "lon": 2.884811893057, 
+      "lat": 51.217795544075, 
+      "lon": 2.884814488927, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -876,8 +876,8 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 51.21768636915, 
-      "lon": 2.884546689872, 
+      "lat": 51.217684293252, 
+      "lon": 2.884546040165, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1241,26 +1241,15 @@
         "0204", 
         "0205", 
         "0206", 
-        "1", 
         "10", 
-        "104", 
         "11", 
         "14", 
         "15", 
         "16", 
         "17", 
         "19", 
-        "2", 
         "20", 
-        "201", 
-        "22", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "22"
       ], 
       "hnrlbls": [
         "252"
@@ -1730,56 +1719,14 @@
         "0901", 
         "0902", 
         "0903", 
-        "10", 
-        "11", 
-        "13", 
-        "14", 
-        "15", 
-        "16", 
-        "17", 
-        "19", 
-        "2", 
-        "22", 
-        "23", 
-        "25", 
-        "27", 
-        "28", 
-        "29", 
-        "30", 
-        "32", 
-        "36", 
-        "37", 
-        "42", 
-        "43", 
-        "44", 
-        "45", 
-        "46", 
-        "48", 
-        "51", 
-        "53", 
-        "55", 
-        "58", 
-        "6", 
-        "60", 
-        "62", 
-        "63", 
-        "65", 
-        "66", 
-        "67", 
-        "7", 
-        "71", 
-        "73", 
-        "77", 
-        "8", 
-        "81A", 
-        "9"
+        "81A"
       ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.220048505134, 
-      "lon": 2.889552945539, 
+      "lat": 51.219854251611, 
+      "lon": 2.889899964843, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2246,18 +2193,6 @@
       "street": "Troonstraat"
     }, 
     {
-      "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 51.218148894427, 
-      "lon": 2.885620078581, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Troonstraat"
-    }, 
-    {
       "busnrs": [
         "0301", 
         "1", 
@@ -2384,11 +2319,11 @@
     }, 
     {
       "hnrlbls": [
-        "79"
+        "79-81C"
       ], 
       "housenumber": "79", 
-      "lat": 51.219778975516, 
-      "lon": 2.887892988777, 
+      "lat": 51.219775929311, 
+      "lon": 2.887886643385, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2436,11 +2371,23 @@
     }, 
     {
       "hnrlbls": [
+        "79-81C"
+      ], 
+      "housenumber": "81C", 
+      "lat": 51.219775929311, 
+      "lon": 2.887886643385, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Troonstraat"
+    }, 
+    {
+      "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.219686847259, 
-      "lon": 2.887693632001, 
+      "lat": 51.219736724599, 
+      "lon": 2.88774243982, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

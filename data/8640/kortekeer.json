@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-1A"
       ], 
       "housenumber": "1", 
       "lat": 50.931434888906, 
@@ -103,6 +103,18 @@
       "housenumber": "19", 
       "lat": 50.930739751182, 
       "lon": 2.73799641457, 
+      "municipality": "Vleteren", 
+      "pcode": "8640", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortekeer"
+    }, 
+    {
+      "hnrlbls": [
+        "1-1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.931434888906, 
+      "lon": 2.73659139461, 
       "municipality": "Vleteren", 
       "pcode": "8640", 
       "source": "manueleAanduidingVanGebouw", 

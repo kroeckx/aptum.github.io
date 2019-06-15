@@ -385,39 +385,12 @@
       "street": "Frenchlaan"
     }, 
     {
-      "apptnrs": [
-        "1A"
-      ], 
-      "hnrlbls": [
-        "32-38"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.852598371574, 
-      "lon": 2.89400888781, 
-      "municipality": "Ieper", 
-      "pcode": "8900", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Frenchlaan"
-    }, 
-    {
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
       "lat": 50.852994876154, 
       "lon": 2.89373623317, 
-      "municipality": "Ieper", 
-      "pcode": "8900", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Frenchlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "32-38"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.852598371574, 
-      "lon": 2.89400888781, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -441,11 +414,11 @@
         "1B"
       ], 
       "hnrlbls": [
-        "32-38"
+        "38-40"
       ], 
       "housenumber": "38", 
-      "lat": 50.852598371574, 
-      "lon": 2.89400888781, 
+      "lat": 50.852654449158, 
+      "lon": 2.893992356816, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -480,6 +453,18 @@
     }, 
     {
       "hnrlbls": [
+        "38-40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.852654449158, 
+      "lon": 2.893992356816, 
+      "municipality": "Ieper", 
+      "pcode": "8900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Frenchlaan"
+    }, 
+    {
+      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -495,8 +480,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.852693296981, 
-      "lon": 2.894364844136, 
+      "lat": 50.852900070474, 
+      "lon": 2.894205382945, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -691,7 +676,8 @@
         "1A"
       ], 
       "hnrlbls": [
-        "8B"
+        "8B", 
+        "8-8B"
       ], 
       "housenumber": "8B", 
       "lat": 50.852165939534, 

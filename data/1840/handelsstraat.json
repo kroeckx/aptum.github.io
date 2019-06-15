@@ -321,6 +321,26 @@
       "street": "Handelsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "126A"
+      ], 
+      "housenumber": "126A", 
+      "lat": 51.014965128037, 
+      "lon": 4.230700314124, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Handelsstraat"
+    }, 
+    {
       "hnrlbls": [
         "127"
       ], 
@@ -618,8 +638,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.014669226526, 
-      "lon": 4.228121453702, 
+      "lat": 51.014684774682, 
+      "lon": 4.2281189847, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 
@@ -1545,8 +1565,8 @@
         "63A"
       ], 
       "housenumber": "63A", 
-      "lat": 51.014928586039, 
-      "lon": 4.2344873114, 
+      "lat": 51.014928405773, 
+      "lon": 4.234486884403, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 

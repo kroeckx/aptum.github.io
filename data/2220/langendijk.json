@@ -62,6 +62,18 @@
     }, 
     {
       "hnrlbls": [
+        "11A"
+      ], 
+      "housenumber": "11A", 
+      "lat": 51.087680943505, 
+      "lon": 4.726310253417, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Langendijk"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -178,18 +190,6 @@
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Langendijk"
-    }, 
-    {
-      "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.08742583381, 
-      "lon": 4.727109276899, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2220", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Langendijk"
     }, 
     {
@@ -514,18 +514,6 @@
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Langendijk"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.087291955088, 
-      "lon": 4.72626331398, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2220", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Langendijk"
     }
   ]

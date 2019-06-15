@@ -424,8 +424,8 @@
         "11A"
       ], 
       "housenumber": "11A", 
-      "lat": 51.206573254178, 
-      "lon": 4.402447578595, 
+      "lat": 51.206571816445, 
+      "lon": 4.402446146646, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
@@ -444,8 +444,11 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "120"
@@ -834,14 +837,14 @@
     }, 
     {
       "hnrlbls": [
-        "145-147"
+        "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.201974286112, 
-      "lon": 4.406067269933, 
+      "lat": 51.201944018107, 
+      "lon": 4.405995421795, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -857,21 +860,25 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4", 
-        "A", 
-        "B"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
-        "145-147"
+        "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.201974286112, 
-      "lon": 4.406067269933, 
+      "lat": 51.201926378219, 
+      "lon": 4.406065514002, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Lozanastraat"
     }, 
     {
@@ -1188,8 +1195,10 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "17"
@@ -2764,9 +2773,6 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "294"
       ], 
@@ -2791,9 +2797,10 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "298-298A"
@@ -3247,6 +3254,8 @@
     {
       "busnrs": [
         "1", 
+        "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -3577,25 +3586,6 @@
       "street": "Lange Lozanastraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "002", 
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302", 
-        "303", 
-        "401", 
-        "402", 
-        "403", 
-        "501", 
-        "502", 
-        "503"
-      ], 
       "hnrlbls": [
         "81"
       ], 

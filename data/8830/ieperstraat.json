@@ -44,8 +44,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.967263727057, 
-      "lon": 3.066916686606, 
+      "lat": 50.96726252055, 
+      "lon": 3.066937650001, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1156,8 +1156,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.977712056017, 
-      "lon": 3.081145810415, 
+      "lat": 50.977713497183, 
+      "lon": 3.081146055669, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1472,8 +1472,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.977657687164, 
-      "lon": 3.080983672454, 
+      "lat": 50.977657504291, 
+      "lon": 3.080983392653, 
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
@@ -1645,6 +1645,42 @@
       "municipality": "Hooglede", 
       "pcode": "8830", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ieperstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 50.972473974196, 
+      "lon": 3.074539199398, 
+      "municipality": "Hooglede", 
+      "pcode": "8830", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ieperstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.972405949025, 
+      "lon": 3.074354253348, 
+      "municipality": "Hooglede", 
+      "pcode": "8830", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ieperstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.972346907647, 
+      "lon": 3.074176891607, 
+      "municipality": "Hooglede", 
+      "pcode": "8830", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ieperstraat"
     }, 
     {

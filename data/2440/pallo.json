@@ -1121,6 +1121,30 @@
       "street": "Pallo"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.163703618864, 
+      "lon": 4.993329948946, 
+      "municipality": "Geel", 
+      "pcode": "2440", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pallo"
+    }, 
+    {
       "hnrlbls": [
         "60"
       ], 
@@ -1355,11 +1379,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.165857681306, 
-      "lon": 4.990972646397, 
+      "lat": 51.165930814153, 
+      "lon": 4.991081849991, 
       "municipality": "Geel", 
       "pcode": "2440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pallo"
     }, 
     {
@@ -1372,6 +1396,21 @@
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
+      "street": "Pallo"
+    }, 
+    {
+      "apptnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.163776458602, 
+      "lon": 4.993256440934, 
+      "municipality": "Geel", 
+      "pcode": "2440", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pallo"
     }, 
     {

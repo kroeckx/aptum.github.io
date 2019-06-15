@@ -8,11 +8,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.209289017915, 
-      "lon": 2.874193165612, 
+      "lat": 51.209321755914, 
+      "lon": 2.87416578165, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -125,8 +125,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.209834831998, 
-      "lon": 2.873760610046, 
+      "lat": 51.209836203503, 
+      "lon": 2.87376242676, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +149,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.209932961138, 
-      "lon": 2.873700214359, 
+      "lat": 51.209935287379, 
+      "lon": 2.873706437453, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -350,8 +350,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.210644401088, 
-      "lon": 2.873106325795, 
+      "lat": 51.210649459532, 
+      "lon": 2.873115323974, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -369,8 +369,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.210707377844, 
-      "lon": 2.873088562504, 
+      "lat": 51.210707236114, 
+      "lon": 2.873091572789, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -422,20 +422,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "3", 
-        "4", 
-        "5"
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.20947736064, 
-      "lon": 2.874064901977, 
+      "lat": 51.2094515713, 
+      "lon": 2.874001893699, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -476,8 +477,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.210966179588, 
-      "lon": 2.872937134257, 
+      "lat": 51.210967841797, 
+      "lon": 2.872933502679, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -491,22 +492,8 @@
         "0203", 
         "0301", 
         "0302", 
-        "0501", 
-        "1", 
-        "10", 
-        "11", 
-        "13", 
-        "14", 
-        "15", 
-        "1a", 
-        "1c", 
-        "2", 
-        "3", 
-        "4", 
-        "4r", 
-        "5", 
-        "8", 
-        "C"
+        "0303", 
+        "0501"
       ], 
       "hnrlbls": [
         "79"
@@ -516,7 +503,7 @@
       "lon": 2.872877521113, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -533,14 +520,13 @@
     }, 
     {
       "busnrs": [
-        "001B", 
-        "002B", 
+        "0001", 
         "0101", 
         "0102", 
-        "1a", 
-        "1b", 
-        "2a", 
-        "2b"
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "81"
@@ -595,8 +581,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.211668880315, 
-      "lon": 2.872342069742, 
+      "lat": 51.211669286193, 
+      "lon": 2.872338621518, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

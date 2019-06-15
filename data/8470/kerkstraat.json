@@ -1,26 +1,15 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "203", 
-        "301", 
-        "302", 
-        "303"
-      ], 
       "hnrlbls": [
-        "1-2"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.156798771576, 
-      "lon": 2.966483554528, 
+      "lat": 51.156779670068, 
+      "lon": 2.966502712983, 
       "municipality": "Gistel", 
       "pcode": "8470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -60,8 +49,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.156992303143, 
-      "lon": 2.96702657721, 
+      "lat": 51.157021715907, 
+      "lon": 2.966944491898, 
       "municipality": "Gistel", 
       "pcode": "8470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -72,8 +61,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.157264370789, 
-      "lon": 2.966384799847, 
+      "lat": 51.157291734758, 
+      "lon": 2.966304347749, 
       "municipality": "Gistel", 
       "pcode": "8470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -208,11 +197,11 @@
         "21-23"
       ], 
       "housenumber": "21", 
-      "lat": 51.157654984244, 
-      "lon": 2.966512605801, 
+      "lat": 51.15759805928, 
+      "lon": 2.966526323686, 
       "municipality": "Gistel", 
       "pcode": "8470", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -232,11 +221,11 @@
         "21-23"
       ], 
       "housenumber": "23", 
-      "lat": 51.157654984244, 
-      "lon": 2.966512605801, 
+      "lat": 51.15759805928, 
+      "lon": 2.966526323686, 
       "municipality": "Gistel", 
       "pcode": "8470", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -282,7 +271,7 @@
     }, 
     {
       "hnrlbls": [
-        "27-27"
+        "27"
       ], 
       "housenumber": "27", 
       "lat": 51.157780029625, 
@@ -376,8 +365,8 @@
         "31A"
       ], 
       "housenumber": "31A", 
-      "lat": 51.158101847957, 
-      "lon": 2.966698628047, 
+      "lat": 51.158070444754, 
+      "lon": 2.966802362976, 
       "municipality": "Gistel", 
       "pcode": "8470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -444,20 +433,12 @@
       "street": "Kerkstraat"
     }, 
     {
-      "apptnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "201", 
-        "202", 
-        "301"
-      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.157004467516, 
-      "lon": 2.966528988914, 
+      "lat": 51.156935001164, 
+      "lon": 2.966501052178, 
       "municipality": "Gistel", 
       "pcode": "8470", 
       "source": "afgeleidVanGebouw", 

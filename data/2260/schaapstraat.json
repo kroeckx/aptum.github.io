@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.129003861547, 
+      "lon": 4.8690387942, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Schaapstraat"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -173,11 +185,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.129219358695, 
-      "lon": 4.868925106542, 
+      "lat": 51.129058040199, 
+      "lon": 4.869023375423, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Schaapstraat"
     }, 
     {
@@ -293,11 +305,23 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.129230075102, 
-      "lon": 4.86902636291, 
+      "lat": 51.129146144412, 
+      "lon": 4.869020320181, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Schaapstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5_1"
+      ], 
+      "housenumber": "5_1", 
+      "lat": 51.129226698287, 
+      "lon": 4.86901718397, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Schaapstraat"
     }, 
     {
@@ -307,6 +331,30 @@
       "housenumber": "6", 
       "lat": 51.129741287656, 
       "lon": 4.869446414828, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Schaapstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.129345114197, 
+      "lon": 4.868988454006, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Schaapstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7_1"
+      ], 
+      "housenumber": "7_1", 
+      "lat": 51.129418177159, 
+      "lon": 4.868971237545, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "manueleAanduidingVanLot", 

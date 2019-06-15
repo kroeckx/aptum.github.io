@@ -1,15 +1,19 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.229829369687, 
-      "lon": 2.920031431887, 
+      "lat": 51.229811996936, 
+      "lon": 2.920117740825, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Pietersstraat"
     }, 
     {

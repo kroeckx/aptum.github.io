@@ -85,6 +85,9 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -357,18 +360,6 @@
     }, 
     {
       "hnrlbls": [
-        "124"
-      ], 
-      "housenumber": "124", 
-      "lat": 51.059417382767, 
-      "lon": 4.82438704376, 
-      "municipality": "Hulshout", 
-      "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "125"
       ], 
       "housenumber": "125", 
@@ -377,18 +368,6 @@
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "126"
-      ], 
-      "housenumber": "126", 
-      "lat": 51.059428901751, 
-      "lon": 4.824174762832, 
-      "municipality": "Hulshout", 
-      "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1874,8 +1853,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.060359085924, 
-      "lon": 4.834145404733, 
+      "lat": 51.060381769707, 
+      "lon": 4.834137499946, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 

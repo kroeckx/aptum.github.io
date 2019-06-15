@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-1_1"
       ], 
       "housenumber": "1", 
-      "lat": 51.311106521872, 
-      "lon": 4.778402714659, 
+      "lat": 51.311142878625, 
+      "lon": 4.778493671973, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "den Abt"
     }, 
     {
@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.310286997366, 
-      "lon": 4.779925385272, 
+      "lat": 51.310295098728, 
+      "lon": 4.779973642713, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -629,8 +629,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.313295801453, 
-      "lon": 4.792152548934, 
+      "lat": 51.313298070503, 
+      "lon": 4.792146402583, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -641,8 +641,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.312728885514, 
-      "lon": 4.779570240495, 
+      "lat": 51.31273068758, 
+      "lon": 4.779568965674, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -773,8 +773,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.309534169961, 
-      "lon": 4.780331879851, 
+      "lat": 51.309542833746, 
+      "lon": 4.780295961289, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -902,14 +902,14 @@
     }, 
     {
       "hnrlbls": [
-        "1_1"
+        "1-1_1"
       ], 
       "housenumber": "1_1", 
-      "lat": 51.311138169461, 
-      "lon": 4.778581685731, 
+      "lat": 51.311142878625, 
+      "lon": 4.778493671973, 
       "municipality": "Beerse", 
       "pcode": "2340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "den Abt"
     }, 
     {
@@ -1061,8 +1061,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.311954243244, 
-      "lon": 4.780950930963, 
+      "lat": 51.311968615323, 
+      "lon": 4.78097931126, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1121,8 +1121,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.312816505111, 
-      "lon": 4.780789062005, 
+      "lat": 51.312820250106, 
+      "lon": 4.780771885093, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1241,8 +1241,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.311785939622, 
-      "lon": 4.782251211571, 
+      "lat": 51.311785619713, 
+      "lon": 4.782239878974, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1325,8 +1325,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.312363290589, 
-      "lon": 4.782907890908, 
+      "lat": 51.312356865491, 
+      "lon": 4.782894639326, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1577,8 +1577,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.312015577836, 
-      "lon": 4.784995929431, 
+      "lat": 51.312017031043, 
+      "lon": 4.784991639992, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1733,8 +1733,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.310648232053, 
-      "lon": 4.785523764941, 
+      "lat": 51.310643745675, 
+      "lon": 4.785521573529, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 
@@ -1829,8 +1829,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.311720442469, 
-      "lon": 4.786082230633, 
+      "lat": 51.311719372522, 
+      "lon": 4.786079782977, 
       "municipality": "Beerse", 
       "pcode": "2340", 
       "source": "afgeleidVanGebouw", 

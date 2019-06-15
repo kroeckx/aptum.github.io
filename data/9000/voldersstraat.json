@@ -119,11 +119,23 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.052115784298, 
-      "lon": 3.722319977229, 
+      "lat": 51.052123400415, 
+      "lon": 3.722413860036, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Voldersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 51.052118344036, 
+      "lon": 3.722262180005, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Voldersstraat"
     }, 
     {
@@ -403,6 +415,11 @@
       "street": "Voldersstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "52"
       ], 

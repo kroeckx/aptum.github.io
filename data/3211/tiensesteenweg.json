@@ -77,8 +77,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.865900441119, 
-      "lon": 4.889440007812, 
+      "lat": 50.865888031429, 
+      "lon": 4.889481350124, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
@@ -113,11 +113,11 @@
         "110A"
       ], 
       "housenumber": "110A", 
-      "lat": 50.865626670472, 
-      "lon": 4.889427594516, 
+      "lat": 50.865640794073, 
+      "lon": 4.889506307132, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -245,11 +245,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.882926487114, 
-      "lon": 4.87978174151, 
+      "lat": 50.882919647999, 
+      "lon": 4.879824583076, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -425,8 +425,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 50.858405720679, 
-      "lon": 4.896634450962, 
+      "lat": 50.858408216553, 
+      "lon": 4.896639166101, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
@@ -641,11 +641,11 @@
         "14A"
       ], 
       "housenumber": "14A", 
-      "lat": 50.882623932175, 
-      "lon": 4.879794076958, 
+      "lat": 50.88262154232, 
+      "lon": 4.879806129873, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {
@@ -821,8 +821,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.880935633227, 
-      "lon": 4.880834330859, 
+      "lat": 50.880935784329, 
+      "lon": 4.880861473651, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
@@ -965,8 +965,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.881504368168, 
-      "lon": 4.879916592675, 
+      "lat": 50.88151562466, 
+      "lon": 4.880015191996, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
@@ -1049,8 +1049,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.877343450832, 
-      "lon": 4.880754482807, 
+      "lat": 50.877344843175, 
+      "lon": 4.880765012615, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
@@ -1121,8 +1121,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.875531392702, 
-      "lon": 4.881333590662, 
+      "lat": 50.875532200489, 
+      "lon": 4.881333883656, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
@@ -1193,8 +1193,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.875184459926, 
-      "lon": 4.881461937238, 
+      "lat": 50.875184873336, 
+      "lon": 4.881470182561, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
@@ -1478,6 +1478,18 @@
     }, 
     {
       "hnrlbls": [
+        "79A"
+      ], 
+      "housenumber": "79A", 
+      "lat": 50.869526747484, 
+      "lon": 4.886385202582, 
+      "municipality": "Lubbeek", 
+      "pcode": "3211", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -1505,8 +1517,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.869376463783, 
-      "lon": 4.886664691985, 
+      "lat": 50.869376614058, 
+      "lon": 4.886671370714, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
@@ -1517,8 +1529,8 @@
         "81A"
       ], 
       "housenumber": "81A", 
-      "lat": 50.869264050401, 
-      "lon": 4.886755651384, 
+      "lat": 50.869264936765, 
+      "lon": 4.886758502469, 
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
@@ -1594,6 +1606,66 @@
       "municipality": "Lubbeek", 
       "pcode": "3211", 
       "source": "afgeleidVanGebouw", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.868777722046, 
+      "lon": 4.887220228716, 
+      "municipality": "Lubbeek", 
+      "pcode": "3211", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "87A"
+      ], 
+      "housenumber": "87A", 
+      "lat": 50.868726316835, 
+      "lon": 4.887257307515, 
+      "municipality": "Lubbeek", 
+      "pcode": "3211", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "87B"
+      ], 
+      "housenumber": "87B", 
+      "lat": 50.868634448097, 
+      "lon": 4.887337268319, 
+      "municipality": "Lubbeek", 
+      "pcode": "3211", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "87C"
+      ], 
+      "housenumber": "87C", 
+      "lat": 50.868590401446, 
+      "lon": 4.887377269468, 
+      "municipality": "Lubbeek", 
+      "pcode": "3211", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "87D"
+      ], 
+      "housenumber": "87D", 
+      "lat": 50.868548075941, 
+      "lon": 4.887414306248, 
+      "municipality": "Lubbeek", 
+      "pcode": "3211", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tiensesteenweg"
     }, 
     {

@@ -169,6 +169,17 @@
       "street": "Leopoldlaan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "118"
       ], 
@@ -205,6 +216,12 @@
       "street": "Leopoldlaan"
     }, 
     {
+      "apptnrs": [
+        "2"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "121"
       ], 
@@ -964,47 +981,11 @@
     }, 
     {
       "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 51.218385952867, 
-      "lon": 5.427037138326, 
-      "municipality": "Pelt", 
-      "pcode": "3900", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leopoldlaan"
-    }, 
-    {
-      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
       "lat": 51.220668886006, 
       "lon": 5.426092259652, 
-      "municipality": "Pelt", 
-      "pcode": "3900", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leopoldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "46"
-      ], 
-      "housenumber": "46", 
-      "lat": 51.218591689377, 
-      "lon": 5.427060419149, 
-      "municipality": "Pelt", 
-      "pcode": "3900", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leopoldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "48"
-      ], 
-      "housenumber": "48", 
-      "lat": 51.218690920813, 
-      "lon": 5.427111770114, 
       "municipality": "Pelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
@@ -1048,18 +1029,6 @@
       "municipality": "Pelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanToegangTotDeWeg", 
-      "street": "Leopoldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "52"
-      ], 
-      "housenumber": "52", 
-      "lat": 51.218685664672, 
-      "lon": 5.4274476016, 
-      "municipality": "Pelt", 
-      "pcode": "3900", 
-      "source": "afgeleidVanGebouw", 
       "street": "Leopoldlaan"
     }, 
     {

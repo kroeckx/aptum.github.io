@@ -486,8 +486,17 @@
       "street": "Van den Nestlei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601", 
+        "701"
+      ], 
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 51.209578466295, 
@@ -509,18 +518,6 @@
       "housenumber": "5", 
       "lat": 51.209943907312, 
       "lon": 4.423901922007, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van den Nestlei"
-    }, 
-    {
-      "hnrlbls": [
-        "4-6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.209578466295, 
-      "lon": 4.424221308693, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

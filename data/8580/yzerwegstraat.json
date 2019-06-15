@@ -95,11 +95,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.770677622736, 
-      "lon": 3.442340625632, 
+      "lat": 50.770775735493, 
+      "lon": 3.442219038119, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanGebouw", 
       "street": "Yzerwegstraat"
     }, 
     {
@@ -176,11 +176,35 @@
     }, 
     {
       "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.769927128425, 
+      "lon": 3.444016675486, 
+      "municipality": "Avelgem", 
+      "pcode": "8580", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Yzerwegstraat"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 50.770231464484, 
       "lon": 3.444530870458, 
+      "municipality": "Avelgem", 
+      "pcode": "8580", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Yzerwegstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.769893374793, 
+      "lon": 3.444080001466, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
       "source": "afgeleidVanGebouw", 
@@ -195,11 +219,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.770588725339, 
-      "lon": 3.442536179717, 
+      "lat": 50.770631501229, 
+      "lon": 3.442454243564, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanGebouw", 
       "street": "Yzerwegstraat"
     }, 
     {
@@ -227,11 +251,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.7704772521, 
-      "lon": 3.442764643108, 
+      "lat": 50.770510555567, 
+      "lon": 3.442701324233, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanGebouw", 
       "street": "Yzerwegstraat"
     }, 
     {
@@ -240,14 +264,14 @@
         "0201"
       ], 
       "hnrlbls": [
-        "8"
+        "8-10"
       ], 
       "housenumber": "8", 
-      "lat": 50.770358321731, 
-      "lon": 3.443005160951, 
+      "lat": 50.770369250523, 
+      "lon": 3.442988783973, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanGebouw", 
       "street": "Yzerwegstraat"
     }
   ]

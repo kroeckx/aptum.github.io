@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.126774106935, 
-      "lon": 5.659188584789, 
+      "lat": 51.126776705451, 
+      "lon": 5.659189370931, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -282,14 +282,38 @@
     }, 
     {
       "hnrlbls": [
-        "30"
+        "30A"
       ], 
-      "housenumber": "30", 
-      "lat": 51.127307794664, 
-      "lon": 5.661958966249, 
+      "housenumber": "30A", 
+      "lat": 51.127457863058, 
+      "lon": 5.661989553108, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 51.12743755078, 
+      "lon": 5.661890697247, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30C"
+      ], 
+      "housenumber": "30C", 
+      "lat": 51.127418427133, 
+      "lon": 5.661790017104, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dorpstraat"
     }, 
     {
@@ -393,8 +417,8 @@
         "39A"
       ], 
       "housenumber": "39A", 
-      "lat": 51.127794200354, 
-      "lon": 5.662037014559, 
+      "lat": 51.127799514823, 
+      "lon": 5.662027875254, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -526,26 +550,26 @@
     }, 
     {
       "hnrlbls": [
-        "57-57A"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.128361800414, 
-      "lon": 5.662892245819, 
+      "lat": 51.128363490825, 
+      "lon": 5.66299215951, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpstraat"
     }, 
     {
       "hnrlbls": [
-        "57-57A"
+        "57A"
       ], 
       "housenumber": "57A", 
-      "lat": 51.128361800414, 
-      "lon": 5.662892245819, 
+      "lat": 51.128390708858, 
+      "lon": 5.663002343441, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpstraat"
     }, 
     {
@@ -597,8 +621,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.126981290378, 
-      "lon": 5.65966019873, 
+      "lat": 51.126984800133, 
+      "lon": 5.659659867161, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 

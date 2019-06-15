@@ -1,29 +1,183 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "9"
+      "hnrlbls": [
+        "1"
       ], 
+      "housenumber": "1", 
+      "lat": 50.954449126201, 
+      "lon": 4.306064775834, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.954571244469, 
+      "lon": 4.305301636925, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.954685921928, 
+      "lon": 4.305086579748, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.954737171478, 
+      "lon": 4.305107005082, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.954784021333, 
+      "lon": 4.305136829526, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.954823138316, 
+      "lon": 4.30516267942, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.954858664474, 
+      "lon": 4.305197642705, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.95446256422, 
+      "lon": 4.305977943077, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.954301880503, 
-      "lon": 4.307265575026, 
+      "lat": 50.95447474391, 
+      "lon": 4.305891538896, 
       "municipality": "Meise", 
       "pcode": "1861", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.954480089315, 
+      "lon": 4.305800589512, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.954500368383, 
+      "lon": 4.305731537499, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.95450823654, 
+      "lon": 4.305651685633, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.954518799519, 
+      "lon": 4.305568272155, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.95453061805, 
+      "lon": 4.305479448808, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hof ter Wilderweg"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.954556102032, 
+      "lon": 4.305394165154, 
+      "municipality": "Meise", 
+      "pcode": "1861", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hof ter Wilderweg"
     }
   ]

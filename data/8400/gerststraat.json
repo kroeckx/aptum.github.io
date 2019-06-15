@@ -11,11 +11,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.220236016754, 
-      "lon": 2.910510595477, 
+      "lat": 51.220235151945, 
+      "lon": 2.910535245751, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gerststraat"
     }, 
     {
@@ -79,9 +79,6 @@
       "street": "Gerststraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "103A"
       ], 
@@ -111,8 +108,7 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "A000"
+        "0201"
       ], 
       "hnrlbls": [
         "104A"
@@ -156,8 +152,7 @@
     }, 
     {
       "busnrs": [
-        "0102", 
-        "A000"
+        "0102"
       ], 
       "hnrlbls": [
         "106A"
@@ -251,8 +246,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.215708688469, 
-      "lon": 2.90928709154, 
+      "lat": 51.215711814381, 
+      "lon": 2.909285419154, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -395,8 +390,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 51.215993265904, 
-      "lon": 2.909778481369, 
+      "lat": 51.21594046219, 
+      "lon": 2.909907102614, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -445,9 +440,6 @@
       "street": "Gerststraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "127A"
       ], 
@@ -1067,18 +1059,15 @@
       "street": "Gerststraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "35A"
       ], 
       "housenumber": "35A", 
-      "lat": 51.218348078146, 
-      "lon": 2.90998469338, 
+      "lat": 51.218344667319, 
+      "lon": 2.910014289475, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gerststraat"
     }, 
     {
@@ -1329,8 +1318,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.218318139949, 
-      "lon": 2.910356394564, 
+      "lat": 51.218282135765, 
+      "lon": 2.910505969221, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1660,9 +1649,6 @@
       "street": "Gerststraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "78A"
       ], 
@@ -1720,8 +1706,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.216973889779, 
-      "lon": 2.909601943175, 
+      "lat": 51.216975959735, 
+      "lon": 2.909580263021, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1828,19 +1814,29 @@
     {
       "busnrs": [
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.216689722844, 
-      "lon": 2.909624717113, 
+      "lat": 51.216771696378, 
+      "lon": 2.909667101445, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gerststraat"
+    }, 
+    {
+      "hnrlbls": [
+        "89A"
+      ], 
+      "housenumber": "89A", 
+      "lat": 51.216688992052, 
+      "lon": 2.909645639507, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gerststraat"
     }, 
     {

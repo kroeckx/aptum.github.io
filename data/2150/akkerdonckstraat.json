@@ -115,10 +115,6 @@
         "001R", 
         "002L", 
         "002R", 
-        "gelA", 
-        "gelV"
-      ], 
-      "busnrs": [
         "gelL", 
         "gelR"
       ], 
@@ -126,11 +122,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.193155772066, 
-      "lon": 4.489670364888, 
+      "lat": 51.193148353813, 
+      "lon": 4.489716693056, 
       "municipality": "Borsbeek", 
       "pcode": "2150", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Akkerdonckstraat"
     }, 
     {

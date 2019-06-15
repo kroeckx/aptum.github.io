@@ -679,6 +679,14 @@
       "street": "Thibautstraat"
     }, 
     {
+      "busnrs": [
+        "A4", 
+        "A5", 
+        "B4", 
+        "B5", 
+        "C4", 
+        "C5"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -688,42 +696,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Thibautstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54A-56C"
-      ], 
-      "housenumber": "54A", 
-      "lat": 51.205694745372, 
-      "lon": 4.455571398801, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Thibautstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54A-56C"
-      ], 
-      "housenumber": "54B", 
-      "lat": 51.205694745372, 
-      "lon": 4.455571398801, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Thibautstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "54A-56C"
-      ], 
-      "housenumber": "54C", 
-      "lat": 51.205694745372, 
-      "lon": 4.455571398801, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Thibautstraat"
     }, 
     {
@@ -739,6 +711,20 @@
       "street": "Thibautstraat"
     }, 
     {
+      "busnrs": [
+        "A6", 
+        "A7", 
+        "A8", 
+        "A9", 
+        "B6", 
+        "B7", 
+        "B8", 
+        "B9", 
+        "C6", 
+        "C7", 
+        "C8", 
+        "C9"
+      ], 
       "hnrlbls": [
         "56-58"
       ], 
@@ -752,7 +738,7 @@
     }, 
     {
       "hnrlbls": [
-        "54A-56C"
+        "56A-56C"
       ], 
       "housenumber": "56A", 
       "lat": 51.205694745372, 
@@ -764,7 +750,7 @@
     }, 
     {
       "hnrlbls": [
-        "54A-56C"
+        "56A-56C"
       ], 
       "housenumber": "56B", 
       "lat": 51.205694745372, 
@@ -776,7 +762,7 @@
     }, 
     {
       "hnrlbls": [
-        "54A-56C"
+        "56A-56C"
       ], 
       "housenumber": "56C", 
       "lat": 51.205694745372, 
@@ -799,6 +785,17 @@
       "street": "Thibautstraat"
     }, 
     {
+      "busnrs": [
+        "A1", 
+        "A2", 
+        "A3", 
+        "B1", 
+        "B2", 
+        "B3", 
+        "C1", 
+        "C2", 
+        "C3"
+      ], 
       "hnrlbls": [
         "56-58"
       ], 
@@ -808,57 +805,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Thibautstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "58A-58C"
-      ], 
-      "housenumber": "58A", 
-      "lat": 51.205605812855, 
-      "lon": 4.455378065896, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Thibautstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "58A-58C"
-      ], 
-      "housenumber": "58B", 
-      "lat": 51.205605812855, 
-      "lon": 4.455378065896, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Thibautstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "58A-58C"
-      ], 
-      "housenumber": "58C", 
-      "lat": 51.205605812855, 
-      "lon": 4.455378065896, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Thibautstraat"
     }, 
     {

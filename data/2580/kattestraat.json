@@ -432,8 +432,8 @@
         "41A"
       ], 
       "housenumber": "41A", 
-      "lat": 51.053290668585, 
-      "lon": 4.663098407859, 
+      "lat": 51.05328104454, 
+      "lon": 4.663064831193, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -629,6 +629,18 @@
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kattestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "54B"
+      ], 
+      "housenumber": "54B", 
+      "lat": 51.055207468933, 
+      "lon": 4.664000485935, 
+      "municipality": "Putte", 
+      "pcode": "2580", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kattestraat"
     }, 
     {

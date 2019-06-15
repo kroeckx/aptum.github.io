@@ -2393,11 +2393,11 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.077641485743, 
-      "lon": 3.711923783229, 
+      "lat": 51.077659326018, 
+      "lon": 3.71191511366, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westergemstraat"
     }, 
     {
@@ -2414,14 +2414,26 @@
     }, 
     {
       "hnrlbls": [
-        "69"
+        "69-69A"
       ], 
       "housenumber": "69", 
-      "lat": 51.077677151995, 
-      "lon": 3.711903875683, 
+      "lat": 51.077686830198, 
+      "lon": 3.711898460006, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Westergemstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "69-69A"
+      ], 
+      "housenumber": "69A", 
+      "lat": 51.077686830198, 
+      "lon": 3.711898460006, 
+      "municipality": "Gent", 
+      "pcode": "9032", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westergemstraat"
     }, 
     {

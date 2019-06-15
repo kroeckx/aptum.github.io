@@ -671,6 +671,11 @@
       "street": "Eikblokstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -964,8 +969,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.222872117537, 
-      "lon": 4.464396235846, 
+      "lat": 51.22287283719, 
+      "lon": 4.464395521638, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -993,8 +998,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.222901838034, 
-      "lon": 4.464324012027, 
+      "lat": 51.222902018967, 
+      "lon": 4.46432258101, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

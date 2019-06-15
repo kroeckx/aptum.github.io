@@ -29,11 +29,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.35666197268, 
-      "lon": 4.307804316513, 
+      "lat": 51.356822328331, 
+      "lon": 4.307650795881, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hulkstraat"
     }, 
     {
@@ -133,15 +133,24 @@
       "street": "Hulkstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.356719972364, 
-      "lon": 4.307330235947, 
+      "lat": 51.356659168127, 
+      "lon": 4.307415728104, 
+      "municipality": "Antwerpen", 
+      "pcode": "2040", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hulkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7_1"
+      ], 
+      "housenumber": "7_1", 
+      "lat": 51.356780866416, 
+      "lon": 4.307244743448, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 

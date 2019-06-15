@@ -547,33 +547,22 @@
       "street": "Sint-Annastraat"
     }, 
     {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.128874739412, 
-      "lon": 4.560922502905, 
-      "municipality": "Lier", 
-      "pcode": "2500", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Sint-Annastraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
-        "33B"
+        "33"
       ], 
-      "housenumber": "33B", 
-      "lat": 51.128914865205, 
-      "lon": 4.561065377165, 
+      "housenumber": "33", 
+      "lat": 51.128831823745, 
+      "lon": 4.561001608182, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Annastraat"
     }, 
     {
@@ -593,11 +582,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.128808356313, 
-      "lon": 4.561170647032, 
+      "lat": 51.128876807999, 
+      "lon": 4.561141645429, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Annastraat"
     }, 
     {

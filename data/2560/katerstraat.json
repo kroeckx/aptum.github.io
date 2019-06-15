@@ -249,30 +249,6 @@
     }, 
     {
       "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.16585505222, 
-      "lon": 4.680078231601, 
-      "municipality": "Nijlen", 
-      "pcode": "2560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Katerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.165923802071, 
-      "lon": 4.679913137055, 
-      "municipality": "Nijlen", 
-      "pcode": "2560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Katerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -288,11 +264,23 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.165947552367, 
-      "lon": 4.679837380993, 
+      "lat": 51.165934303133, 
+      "lon": 4.67991906879, 
       "municipality": "Nijlen", 
       "pcode": "2560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Katerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.165955925256, 
+      "lon": 4.67983229015, 
+      "municipality": "Nijlen", 
+      "pcode": "2560", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Katerstraat"
     }, 
     {
@@ -304,20 +292,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.167509122176, 
-      "lon": 4.678209656084, 
-      "municipality": "Nijlen", 
-      "pcode": "2560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Katerstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.166009232281, 
-      "lon": 4.679558151903, 
+      "lat": 51.167492453515, 
+      "lon": 4.678190530291, 
       "municipality": "Nijlen", 
       "pcode": "2560", 
       "source": "afgeleidVanGebouw", 
@@ -340,11 +316,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.166026105718, 
-      "lon": 4.679397284994, 
+      "lat": 51.166016003202, 
+      "lon": 4.679581071607, 
       "municipality": "Nijlen", 
       "pcode": "2560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Katerstraat"
     }, 
     {
@@ -364,11 +340,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.165932092606, 
-      "lon": 4.679291864289, 
+      "lat": 51.166076475022, 
+      "lon": 4.67941892284, 
       "municipality": "Nijlen", 
       "pcode": "2560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Katerstraat"
     }, 
     {
@@ -388,11 +364,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.166042790357, 
-      "lon": 4.679069146661, 
+      "lat": 51.166106640695, 
+      "lon": 4.679262147306, 
       "municipality": "Nijlen", 
       "pcode": "2560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Katerstraat"
     }, 
     {
@@ -408,6 +384,18 @@
       "municipality": "Nijlen", 
       "pcode": "2560", 
       "source": "afgeleidVanGebouw", 
+      "street": "Katerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 51.166066675661, 
+      "lon": 4.679078455606, 
+      "municipality": "Nijlen", 
+      "pcode": "2560", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Katerstraat"
     }, 
     {
@@ -451,11 +439,11 @@
         "3C"
       ], 
       "housenumber": "3C", 
-      "lat": 51.165770019121, 
-      "lon": 4.681808683902, 
+      "lat": 51.165895794106, 
+      "lon": 4.681867430198, 
       "municipality": "Nijlen", 
       "pcode": "2560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Katerstraat"
     }, 
     {
@@ -571,11 +559,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.16749866881, 
-      "lon": 4.677500167989, 
+      "lat": 51.16757090109, 
+      "lon": 4.677479773097, 
       "municipality": "Nijlen", 
       "pcode": "2560", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Katerstraat"
     }, 
     {
@@ -703,8 +691,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.168539310735, 
-      "lon": 4.672439943553, 
+      "lat": 51.168545800503, 
+      "lon": 4.672432980169, 
       "municipality": "Nijlen", 
       "pcode": "2560", 
       "source": "afgeleidVanGebouw", 
@@ -895,8 +883,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.16806485511, 
-      "lon": 4.672767258221, 
+      "lat": 51.168070429082, 
+      "lon": 4.672766865688, 
       "municipality": "Nijlen", 
       "pcode": "2560", 
       "source": "afgeleidVanGebouw", 

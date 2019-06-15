@@ -38,14 +38,14 @@
     }, 
     {
       "hnrlbls": [
-        "101"
+        "101-103"
       ], 
       "housenumber": "101", 
-      "lat": 50.953845161205, 
-      "lon": 5.100191178626, 
+      "lat": 50.953907506338, 
+      "lon": 5.100169237603, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestersteenweg"
     }, 
     {
@@ -62,7 +62,7 @@
     }, 
     {
       "hnrlbls": [
-        "103"
+        "101-103"
       ], 
       "housenumber": "103", 
       "lat": 50.953907506338, 
@@ -337,8 +337,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.950621454397, 
-      "lon": 5.1070168023, 
+      "lat": 50.950619264452, 
+      "lon": 5.107007659637, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -628,11 +628,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.949047420215, 
-      "lon": 5.110730066791, 
+      "lat": 50.949054946546, 
+      "lon": 5.110719797311, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Diestersteenweg"
     }, 
     {
@@ -1264,11 +1264,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.951600695126, 
-      "lon": 5.10316089882, 
+      "lat": 50.951491240961, 
+      "lon": 5.102737496367, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diestersteenweg"
     }, 
     {
@@ -1276,8 +1276,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.95254526682, 
-      "lon": 5.103142258613, 
+      "lat": 50.952540649602, 
+      "lon": 5.103133077717, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 

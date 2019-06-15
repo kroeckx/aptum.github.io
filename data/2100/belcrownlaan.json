@@ -20,11 +20,11 @@
         "12-14"
       ], 
       "housenumber": "12", 
-      "lat": 51.235789268381, 
-      "lon": 4.462197077318, 
+      "lat": 51.235709950061, 
+      "lon": 4.462361572275, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Belcrownlaan"
     }, 
     {
@@ -177,11 +177,11 @@
         "12-14"
       ], 
       "housenumber": "14", 
-      "lat": 51.235789268381, 
-      "lon": 4.462197077318, 
+      "lat": 51.235709950061, 
+      "lon": 4.462361572275, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Belcrownlaan"
     }, 
     {
@@ -189,8 +189,8 @@
         "15-17"
       ], 
       "housenumber": "15", 
-      "lat": 51.2377025693, 
-      "lon": 4.462368181045, 
+      "lat": 51.237696815634, 
+      "lon": 4.462369601249, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -213,8 +213,8 @@
         "15-17"
       ], 
       "housenumber": "17", 
-      "lat": 51.2377025693, 
-      "lon": 4.462368181045, 
+      "lat": 51.237696815634, 
+      "lon": 4.462369601249, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -225,8 +225,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.236226247698, 
-      "lon": 4.462577529952, 
+      "lat": 51.236353466004, 
+      "lon": 4.462535836074, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -237,11 +237,11 @@
         "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.236493269178, 
-      "lon": 4.462605132581, 
+      "lat": 51.236305982769, 
+      "lon": 4.462791602885, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Belcrownlaan"
     }, 
     {
@@ -297,23 +297,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.236716138998, 
-      "lon": 4.463884624817, 
+      "lat": 51.236605432866, 
+      "lon": 4.463958278696, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Belcrownlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "24B"
-      ], 
-      "housenumber": "24B", 
-      "lat": 51.236723844128, 
-      "lon": 4.4639152815, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Belcrownlaan"
     }, 
     {

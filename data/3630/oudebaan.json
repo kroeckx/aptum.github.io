@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -215,12 +215,6 @@
       "street": "Oude Baan"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004"
-      ], 
       "hnrlbls": [
         "130"
       ], 
@@ -273,7 +267,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "134-134A"
+        "134"
       ], 
       "housenumber": "134", 
       "lat": 50.98415487819, 
@@ -285,26 +279,14 @@
     }, 
     {
       "hnrlbls": [
-        "134-134A"
+        "134A"
       ], 
       "housenumber": "134A", 
-      "lat": 50.98415487819, 
-      "lon": 5.692360182655, 
+      "lat": 50.98423944954, 
+      "lon": 5.692139238102, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "135"
-      ], 
-      "housenumber": "135", 
-      "lat": 50.983952390373, 
-      "lon": 5.692864936264, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Baan"
     }, 
     {
@@ -483,11 +465,11 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.983441309079, 
-      "lon": 5.692870001582, 
+      "lat": 50.983387185064, 
+      "lon": 5.69303767851, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Baan"
     }, 
     {
@@ -726,10 +708,6 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "174"
       ], 
@@ -1164,6 +1142,9 @@
       "street": "Oude Baan"
     }, 
     {
+      "apptnrs": [
+        "4"
+      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -1226,13 +1207,6 @@
       "street": "Oude Baan"
     }, 
     {
-      "apptnrs": [
-        "0.01"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "212"
       ], 
@@ -1366,10 +1340,6 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "222"
       ], 
@@ -1593,8 +1563,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.98782893388, 
-      "lon": 5.693647862548, 
+      "lat": 50.987829015734, 
+      "lon": 5.693648577082, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1790,19 +1760,19 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "258-262A"
+        "258"
       ], 
       "housenumber": "258", 
-      "lat": 50.9750501653, 
-      "lon": 5.68750057228, 
+      "lat": 50.974849748162, 
+      "lon": 5.687990781379, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oude Baan"
     }, 
     {
@@ -1818,6 +1788,9 @@
       "street": "Oude Baan"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "26-28"
       ], 
@@ -1830,19 +1803,19 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
       "hnrlbls": [
-        "258-262A"
+        "260"
       ], 
       "housenumber": "260", 
-      "lat": 50.9750501653, 
-      "lon": 5.68750057228, 
+      "lat": 50.974812300414, 
+      "lon": 5.68793888869, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oude Baan"
     }, 
     {
@@ -1863,26 +1836,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "258-262A"
+        "262"
       ], 
       "housenumber": "262", 
-      "lat": 50.9750501653, 
-      "lon": 5.68750057228, 
+      "lat": 50.974766034675, 
+      "lon": 5.687911668446, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "258-262A"
-      ], 
-      "housenumber": "262A", 
-      "lat": 50.9750501653, 
-      "lon": 5.68750057228, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oude Baan"
     }, 
     {
@@ -2281,21 +2242,6 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "291R"
-      ], 
-      "housenumber": "291R", 
-      "lat": 50.969485979713, 
-      "lon": 5.682121187492, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
       "hnrlbls": [
         "292"
       ], 
@@ -2406,7 +2352,7 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -2723,7 +2669,7 @@
         "K9"
       ], 
       "hnrlbls": [
-        "32-32K"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 50.987542905337, 
@@ -2800,27 +2746,6 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "13", 
-        "14", 
-        "16", 
-        "19", 
-        "2", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "32-32K"
-      ], 
-      "housenumber": "32K", 
-      "lat": 50.987542905337, 
-      "lon": 5.6938427523, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
       "apptnrs": [
         "1"
       ], 
@@ -2858,14 +2783,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "332-334"
+        "332"
       ], 
       "housenumber": "332", 
-      "lat": 50.971615032703, 
-      "lon": 5.684565399599, 
+      "lat": 50.971540469753, 
+      "lon": 5.684688612106, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oude Baan"
     }, 
     {
@@ -2877,7 +2802,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "332-334"
+        "334"
       ], 
       "housenumber": "334", 
       "lat": 50.971615032703, 
@@ -2889,14 +2814,14 @@
     }, 
     {
       "hnrlbls": [
-        "335-337"
+        "335"
       ], 
       "housenumber": "335", 
-      "lat": 50.966804026485, 
-      "lon": 5.679718966691, 
+      "lat": 50.966543941126, 
+      "lon": 5.679306765671, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oude Baan"
     }, 
     {
@@ -2918,14 +2843,14 @@
     }, 
     {
       "hnrlbls": [
-        "335-337"
+        "337"
       ], 
       "housenumber": "337", 
-      "lat": 50.966804026485, 
-      "lon": 5.679718966691, 
+      "lat": 50.966515009579, 
+      "lon": 5.679289013454, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oude Baan"
     }, 
     {
@@ -3180,8 +3105,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.98740044707, 
-      "lon": 5.69391079768, 
+      "lat": 50.987384143947, 
+      "lon": 5.693993237812, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3288,8 +3213,8 @@
         "371"
       ], 
       "housenumber": "371", 
-      "lat": 50.965212483924, 
-      "lon": 5.678165128801, 
+      "lat": 50.965205118689, 
+      "lon": 5.678164495864, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -3300,8 +3225,8 @@
         "371A"
       ], 
       "housenumber": "371A", 
-      "lat": 50.965177284501, 
-      "lon": 5.678120863411, 
+      "lat": 50.965154480872, 
+      "lon": 5.678117948222, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -3558,24 +3483,9 @@
     }, 
     {
       "hnrlbls": [
-        "396-396A"
+        "396"
       ], 
       "housenumber": "396", 
-      "lat": 50.967083095252, 
-      "lon": 5.679275571991, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "396-396A"
-      ], 
-      "housenumber": "396A", 
       "lat": 50.967083095252, 
       "lon": 5.679275571991, 
       "municipality": "Maasmechelen", 
@@ -3600,21 +3510,9 @@
         "1"
       ], 
       "hnrlbls": [
-        "398-398A"
+        "398"
       ], 
       "housenumber": "398", 
-      "lat": 50.967001357965, 
-      "lon": 5.679171911448, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "398-398A"
-      ], 
-      "housenumber": "398A", 
       "lat": 50.967001357965, 
       "lon": 5.679171911448, 
       "municipality": "Maasmechelen", 
@@ -3699,7 +3597,7 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -4603,8 +4501,8 @@
         "502A"
       ], 
       "housenumber": "502A", 
-      "lat": 50.961163317705, 
-      "lon": 5.673475619783, 
+      "lat": 50.961167125974, 
+      "lon": 5.673464621579, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4615,8 +4513,8 @@
         "502B"
       ], 
       "housenumber": "502B", 
-      "lat": 50.961090959832, 
-      "lon": 5.67339317087, 
+      "lat": 50.961103395011, 
+      "lon": 5.673374440588, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4819,8 +4717,8 @@
         "527A"
       ], 
       "housenumber": "527A", 
-      "lat": 50.951437775073, 
-      "lon": 5.668499396223, 
+      "lat": 50.951427341433, 
+      "lon": 5.6685079315, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -5304,14 +5202,14 @@
         "006"
       ], 
       "hnrlbls": [
-        "58-60"
+        "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.986697509784, 
-      "lon": 5.693309326193, 
+      "lat": 50.986697418303, 
+      "lon": 5.693309466046, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Baan"
     }, 
     {
@@ -5450,7 +5348,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "59-59A"
+        "59"
       ], 
       "housenumber": "59", 
       "lat": 50.98596311925, 
@@ -5570,18 +5468,6 @@
     }, 
     {
       "hnrlbls": [
-        "59-59A"
-      ], 
-      "housenumber": "59A", 
-      "lat": 50.98596311925, 
-      "lon": 5.693672000726, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -5590,18 +5476,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "58-60"
-      ], 
-      "housenumber": "60", 
-      "lat": 50.986697509784, 
-      "lon": 5.693309326193, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Baan"
     }, 
     {
@@ -5975,35 +5849,11 @@
         "1"
       ], 
       "hnrlbls": [
-        "630-630A"
+        "630"
       ], 
       "housenumber": "630", 
       "lat": 50.948965812315, 
       "lon": 5.666750568043, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "630-630A"
-      ], 
-      "housenumber": "630A", 
-      "lat": 50.948965812315, 
-      "lon": 5.666750568043, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "630B"
-      ], 
-      "housenumber": "630B", 
-      "lat": 50.948979519461, 
-      "lon": 5.666844454949, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -6247,9 +6097,6 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
-        "B"
-      ], 
       "hnrlbls": [
         "67-67C"
       ], 
@@ -6304,30 +6151,6 @@
       "housenumber": "678", 
       "lat": 50.945364987671, 
       "lon": 5.664828254478, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "67-67C"
-      ], 
-      "housenumber": "67B", 
-      "lat": 50.985690716037, 
-      "lon": 5.693511460136, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "67-67C"
-      ], 
-      "housenumber": "67C", 
-      "lat": 50.985690716037, 
-      "lon": 5.693511460136, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -6742,9 +6565,6 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
         "754"
       ], 
@@ -6781,7 +6601,7 @@
       "street": "Oude Baan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -6792,7 +6612,7 @@
       "lon": 5.693110932656, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Baan"
     }, 
     {
@@ -7003,14 +6823,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "92-96"
+        "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.985473457357, 
-      "lon": 5.692709522855, 
+      "lat": 50.985471808722, 
+      "lon": 5.692847924456, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Oude Baan"
     }, 
     {

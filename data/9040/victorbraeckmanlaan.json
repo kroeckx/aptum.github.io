@@ -809,18 +809,6 @@
     }, 
     {
       "hnrlbls": [
-        "152"
-      ], 
-      "housenumber": "152", 
-      "lat": 51.060250142549, 
-      "lon": 3.755754179, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Victor Braeckmanlaan"
-    }, 
-    {
-      "hnrlbls": [
         "154"
       ], 
       "housenumber": "154", 
@@ -845,18 +833,6 @@
     }, 
     {
       "hnrlbls": [
-        "156"
-      ], 
-      "housenumber": "156", 
-      "lat": 51.060213551178, 
-      "lon": 3.756272320567, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Victor Braeckmanlaan"
-    }, 
-    {
-      "hnrlbls": [
         "157"
       ], 
       "housenumber": "157", 
@@ -872,11 +848,11 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.060508335495, 
-      "lon": 3.757109227624, 
+      "lat": 51.060462692713, 
+      "lon": 3.757234924879, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Victor Braeckmanlaan"
     }, 
     {
@@ -2635,12 +2611,26 @@
       "street": "Victor Braeckmanlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
-        "353-353B"
+        "353"
       ], 
       "housenumber": "353", 
-      "lat": 51.06146879722, 
-      "lon": 3.758004367771, 
+      "lat": 51.061362704706, 
+      "lon": 3.758382631226, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2648,11 +2638,167 @@
     }, 
     {
       "hnrlbls": [
-        "353-353B"
+        "353A"
+      ], 
+      "housenumber": "353A", 
+      "lat": 51.061261254157, 
+      "lon": 3.758459414611, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353B"
       ], 
       "housenumber": "353B", 
-      "lat": 51.06146879722, 
-      "lon": 3.758004367771, 
+      "lat": 51.061422666448, 
+      "lon": 3.758001260347, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353C"
+      ], 
+      "housenumber": "353C", 
+      "lat": 51.061465578169, 
+      "lon": 3.757938220191, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353D"
+      ], 
+      "housenumber": "353D", 
+      "lat": 51.061507754011, 
+      "lon": 3.757889311868, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353E"
+      ], 
+      "housenumber": "353E", 
+      "lat": 51.061551665, 
+      "lon": 3.757845658883, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353F"
+      ], 
+      "housenumber": "353F", 
+      "lat": 51.061597297106, 
+      "lon": 3.757804551073, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353G"
+      ], 
+      "housenumber": "353G", 
+      "lat": 51.061758456706, 
+      "lon": 3.758131116526, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353H"
+      ], 
+      "housenumber": "353H", 
+      "lat": 51.06166539121, 
+      "lon": 3.758177977863, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353K"
+      ], 
+      "housenumber": "353K", 
+      "lat": 51.061661634031, 
+      "lon": 3.758442072888, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353L"
+      ], 
+      "housenumber": "353L", 
+      "lat": 51.06160129796, 
+      "lon": 3.758577520894, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353M"
+      ], 
+      "housenumber": "353M", 
+      "lat": 51.061513015787, 
+      "lon": 3.758575960519, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353N"
+      ], 
+      "housenumber": "353N", 
+      "lat": 51.061498988481, 
+      "lon": 3.758818505566, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353P"
+      ], 
+      "housenumber": "353P", 
+      "lat": 51.061380200251, 
+      "lon": 3.758810637427, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Victor Braeckmanlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "353R"
+      ], 
+      "housenumber": "353R", 
+      "lat": 51.061328264453, 
+      "lon": 3.75895396315, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanPerceel", 

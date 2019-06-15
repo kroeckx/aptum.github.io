@@ -121,16 +121,24 @@
       "street": "Jozef Michelstraat"
     }, 
     {
-      "apptnrs": [
-        "01", 
-        "11"
-      ], 
       "hnrlbls": [
-        "20"
+        "20A"
       ], 
-      "housenumber": "20", 
-      "lat": 50.739354393027, 
-      "lon": 4.239046364155, 
+      "housenumber": "20A", 
+      "lat": 50.739361713847, 
+      "lon": 4.239000301331, 
+      "municipality": "Halle", 
+      "pcode": "1500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jozef Michelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "20B"
+      ], 
+      "housenumber": "20B", 
+      "lat": 50.739390277439, 
+      "lon": 4.23906014957, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "manueleAanduidingVanGebouw", 

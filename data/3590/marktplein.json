@@ -291,7 +291,7 @@
         "41"
       ], 
       "hnrlbls": [
-        "24A-41A"
+        "24A-33A"
       ], 
       "housenumber": "24A", 
       "lat": 50.907308030112, 
@@ -429,7 +429,7 @@
     }, 
     {
       "hnrlbls": [
-        "24A-41A"
+        "24A-33A"
       ], 
       "housenumber": "31A", 
       "lat": 50.907308030112, 
@@ -453,7 +453,7 @@
     }, 
     {
       "hnrlbls": [
-        "24A-41A"
+        "24A-33A"
       ], 
       "housenumber": "32A", 
       "lat": 50.907308030112, 
@@ -477,7 +477,7 @@
     }, 
     {
       "hnrlbls": [
-        "24A-41A"
+        "24A-33A"
       ], 
       "housenumber": "33A", 
       "lat": 50.907308030112, 
@@ -590,6 +590,11 @@
       "street": "Marktplein"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -599,18 +604,6 @@
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "afgeleidVanGebouw", 
-      "street": "Marktplein"
-    }, 
-    {
-      "hnrlbls": [
-        "24A-41A"
-      ], 
-      "housenumber": "41A", 
-      "lat": 50.907308030112, 
-      "lon": 5.418688861326, 
-      "municipality": "Diepenbeek", 
-      "pcode": "3590", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Marktplein"
     }, 
     {

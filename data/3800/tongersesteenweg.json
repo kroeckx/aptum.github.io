@@ -685,6 +685,18 @@
     }, 
     {
       "hnrlbls": [
+        "152"
+      ], 
+      "housenumber": "152", 
+      "lat": 50.812619361437, 
+      "lon": 5.204184651433, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tongersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "153"
       ], 
       "housenumber": "153", 
@@ -708,10 +720,6 @@
       "street": "Tongersesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "156B"
       ], 
@@ -1189,6 +1197,18 @@
     }, 
     {
       "hnrlbls": [
+        "205"
+      ], 
+      "housenumber": "205", 
+      "lat": 50.809669195405, 
+      "lon": 5.223670009733, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Tongersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "207"
       ], 
       "housenumber": "207", 
@@ -1374,6 +1394,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Tongersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "233"
+      ], 
+      "housenumber": "233", 
+      "lat": 50.809485614919, 
+      "lon": 5.228703641449, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tongersesteenweg"
     }, 
     {
@@ -1766,11 +1798,11 @@
         "269"
       ], 
       "housenumber": "269", 
-      "lat": 50.809080632684, 
-      "lon": 5.23361908465, 
+      "lat": 50.809101202441, 
+      "lon": 5.233584983961, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Tongersesteenweg"
     }, 
     {
@@ -2905,8 +2937,8 @@
         "42A-42B"
       ], 
       "housenumber": "42A", 
-      "lat": 50.81305383626, 
-      "lon": 5.192513099112, 
+      "lat": 50.813053743376, 
+      "lon": 5.192513523186, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2924,8 +2956,8 @@
         "42A-42B"
       ], 
       "housenumber": "42B", 
-      "lat": 50.81305383626, 
-      "lon": 5.192513099112, 
+      "lat": 50.813053743376, 
+      "lon": 5.192513523186, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2936,8 +2968,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.812699858961, 
-      "lon": 5.192339170047, 
+      "lat": 50.812699916917, 
+      "lon": 5.192343711845, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -2955,8 +2987,8 @@
         "44A"
       ], 
       "housenumber": "44A", 
-      "lat": 50.812948524812, 
-      "lon": 5.192543890432, 
+      "lat": 50.812948345032, 
+      "lon": 5.192543887281, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3190,8 +3222,11 @@
       "street": "Tongersesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "busnrs": [
-        "1", 
+        "001", 
         "102", 
         "201"
       ], 

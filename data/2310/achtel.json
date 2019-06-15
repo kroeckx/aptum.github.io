@@ -377,8 +377,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.378045670809, 
-      "lon": 4.768381827416, 
+      "lat": 51.378039060869, 
+      "lon": 4.768396275978, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanPerceelGrb", 
@@ -509,15 +509,19 @@
       "street": "Achtel"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.378746915716, 
-      "lon": 4.769523624378, 
+      "lat": 51.378767184611, 
+      "lon": 4.769510011868, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Achtel"
     }, 
     {
@@ -581,18 +585,6 @@
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanGebouw", 
-      "street": "Achtel"
-    }, 
-    {
-      "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 51.378876304565, 
-      "lon": 4.769508082191, 
-      "municipality": "Rijkevorsel", 
-      "pcode": "2310", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Achtel"
     }, 
     {
@@ -813,6 +805,18 @@
     }, 
     {
       "hnrlbls": [
+        "78A"
+      ], 
+      "housenumber": "78A", 
+      "lat": 51.381770401945, 
+      "lon": 4.767220781285, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Achtel"
+    }, 
+    {
+      "hnrlbls": [
         "78B"
       ], 
       "housenumber": "78B", 
@@ -845,6 +849,30 @@
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanGebouw", 
+      "street": "Achtel"
+    }, 
+    {
+      "hnrlbls": [
+        "80A"
+      ], 
+      "housenumber": "80A", 
+      "lat": 51.381644835502, 
+      "lon": 4.766393255431, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Achtel"
+    }, 
+    {
+      "hnrlbls": [
+        "80B"
+      ], 
+      "housenumber": "80B", 
+      "lat": 51.381655448337, 
+      "lon": 4.766230469942, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Achtel"
     }, 
     {

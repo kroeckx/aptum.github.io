@@ -45,11 +45,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.963274561881, 
-      "lon": 3.465033730609, 
+      "lat": 50.963273367985, 
+      "lon": 3.465042152659, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ardense Jagersstraat-Gottem"
     }, 
     {
@@ -129,11 +129,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.964669963713, 
-      "lon": 3.461726569081, 
+      "lat": 50.964719007071, 
+      "lon": 3.461721207846, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ardense Jagersstraat-Gottem"
     }, 
     {
@@ -141,8 +141,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.962883399849, 
-      "lon": 3.464669288599, 
+      "lat": 50.962883776889, 
+      "lon": 3.464671559026, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -153,8 +153,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.961296077018, 
-      "lon": 3.470116746851, 
+      "lat": 50.961290438146, 
+      "lon": 3.470119986553, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -225,8 +225,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.958952276432, 
-      "lon": 3.475658938285, 
+      "lat": 50.958952098822, 
+      "lon": 3.475659226352, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -261,11 +261,11 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.964677524608, 
-      "lon": 3.461821093146, 
+      "lat": 50.964679698312, 
+      "lon": 3.46182318655, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ardense Jagersstraat-Gottem"
     }, 
     {
@@ -285,8 +285,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.964872064986, 
-      "lon": 3.462871379807, 
+      "lat": 50.964788494961, 
+      "lon": 3.462525773403, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -333,11 +333,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.961716881282, 
-      "lon": 3.464202356525, 
+      "lat": 50.961712061385, 
+      "lon": 3.464125009853, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ardense Jagersstraat-Gottem"
     }, 
     {
@@ -357,8 +357,20 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.95830537685, 
-      "lon": 3.476098700945, 
+      "lat": 50.958305199238, 
+      "lon": 3.476098989007, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ardense Jagersstraat-Gottem"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.964438821927, 
+      "lon": 3.46223826762, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -393,11 +405,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.964392201595, 
-      "lon": 3.462628239142, 
+      "lat": 50.964327110359, 
+      "lon": 3.462534257186, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ardense Jagersstraat-Gottem"
     }, 
     {
@@ -417,11 +429,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.964250234976, 
-      "lon": 3.462917978256, 
+      "lat": 50.964254706231, 
+      "lon": 3.462914902381, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ardense Jagersstraat-Gottem"
     }, 
     {

@@ -510,6 +510,25 @@
       "street": "Liebaardstraat"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.886015189649, 
+      "lon": 3.349588893139, 
+      "municipality": "Waregem", 
+      "pcode": "8791", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Liebaardstraat"
+    }, 
+    {
       "hnrlbls": [
         "260"
       ], 
@@ -591,6 +610,48 @@
       "municipality": "Waregem", 
       "pcode": "8791", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Liebaardstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21", 
+        "22", 
+        "31"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.885953255555, 
+      "lon": 3.34977642049, 
+      "municipality": "Waregem", 
+      "pcode": "8791", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Liebaardstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21", 
+        "22", 
+        "31"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.885909327033, 
+      "lon": 3.349873591732, 
+      "municipality": "Waregem", 
+      "pcode": "8791", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Liebaardstraat"
     }
   ]

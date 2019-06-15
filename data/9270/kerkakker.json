@@ -37,12 +37,83 @@
       "street": "Kerkakker"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.038292535791, 
-      "lon": 3.917182350855, 
+      "lat": 51.037577087639, 
+      "lon": 3.917651754553, 
+      "municipality": "Laarne", 
+      "pcode": "9270", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kerkakker"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.037518272555, 
+      "lon": 3.917433468211, 
+      "municipality": "Laarne", 
+      "pcode": "9270", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kerkakker"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 51.037416876406, 
+      "lon": 3.917034665541, 
+      "municipality": "Laarne", 
+      "pcode": "9270", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kerkakker"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "3C"
+      ], 
+      "housenumber": "3C", 
+      "lat": 51.037291080996, 
+      "lon": 3.917118855595, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanLot", 
@@ -67,6 +138,18 @@
       "housenumber": "6", 
       "lat": 51.037901966771, 
       "lon": 3.916504457133, 
+      "municipality": "Laarne", 
+      "pcode": "9270", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkakker"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.038286273093, 
+      "lon": 3.917190110336, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 

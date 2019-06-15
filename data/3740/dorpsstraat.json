@@ -26,6 +26,18 @@
     }, 
     {
       "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 50.87008593476, 
+      "lon": 5.577330155954, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
@@ -65,11 +77,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.876105252779, 
-      "lon": 5.575435731177, 
+      "lat": 50.876145623242, 
+      "lon": 5.57533061928, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -981,8 +993,8 @@
         "74A"
       ], 
       "housenumber": "74A", 
-      "lat": 50.868509281168, 
-      "lon": 5.576794432444, 
+      "lat": 50.868414470046, 
+      "lon": 5.57675562128, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanPerceel", 
@@ -993,11 +1005,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.872724470341, 
-      "lon": 5.575814899501, 
+      "lat": 50.87288572337, 
+      "lon": 5.576071967641, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -1106,6 +1118,18 @@
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 50.870370585629, 
+      "lon": 5.577294573584, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dorpsstraat"
     }, 
     {

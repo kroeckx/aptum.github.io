@@ -1919,15 +1919,20 @@
       "street": "Zuidlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.877035954562, 
-      "lon": 3.733462990194, 
+      "lat": 50.877042953748, 
+      "lon": 3.733527120441, 
       "municipality": "Zwalm", 
       "pcode": "9630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Zuidlaan"
     }, 
     {

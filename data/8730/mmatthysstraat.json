@@ -73,15 +73,41 @@
       "street": "M. Matthysstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.168844678089, 
-      "lon": 3.339523745352, 
+      "lat": 51.168728626254, 
+      "lon": 3.339606517965, 
       "municipality": "Beernem", 
       "pcode": "8730", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "M. Matthysstraat"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.168818033758, 
+      "lon": 3.339612555327, 
+      "municipality": "Beernem", 
+      "pcode": "8730", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "M. Matthysstraat"
     }, 
     {

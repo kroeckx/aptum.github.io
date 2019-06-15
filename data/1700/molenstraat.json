@@ -1124,8 +1124,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.863972426713, 
-      "lon": 4.209922612443, 
+      "lat": 50.863972695822, 
+      "lon": 4.2099221854, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "afgeleidVanGebouw", 
@@ -1332,14 +1332,14 @@
     }, 
     {
       "hnrlbls": [
-        "44-46"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.865150050292, 
-      "lon": 4.208793333639, 
+      "lat": 50.865105777483, 
+      "lon": 4.208760528264, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -1356,14 +1356,14 @@
     }, 
     {
       "hnrlbls": [
-        "44-46"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.865150050292, 
-      "lon": 4.208793333639, 
+      "lat": 50.865150835634, 
+      "lon": 4.208709663861, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }, 
     {
@@ -2047,7 +2047,7 @@
       "lon": 4.206520308083, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenstraat"
     }
   ]

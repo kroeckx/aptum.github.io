@@ -13,8 +13,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.228826662305, 
-      "lon": 2.926259165522, 
+      "lat": 51.228861493223, 
+      "lon": 2.926454107426, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -25,11 +25,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.229998548931, 
-      "lon": 2.92586380272, 
+      "lat": 51.229667116336, 
+      "lon": 2.925836828529, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nati\u00ebnkaai"
     }, 
     {
@@ -37,11 +37,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.231177408676, 
-      "lon": 2.925141155004, 
+      "lat": 51.231173437082, 
+      "lon": 2.925139846035, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Nati\u00ebnkaai"
     }
   ]

@@ -10,14 +10,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.154022558658, 
-      "lon": 3.236227606945, 
+      "lat": 51.154315375406, 
+      "lon": 3.236248812177, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -59,11 +59,9 @@
     {
       "apptnrs": [
         "0-01", 
-        "1-01", 
-        "1-02"
-      ], 
-      "busnrs": [
         "1", 
+        "1-01", 
+        "1-02", 
         "2"
       ], 
       "hnrlbls": [
@@ -204,14 +202,14 @@
     }, 
     {
       "hnrlbls": [
-        "10-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.154022558658, 
-      "lon": 3.236227606945, 
+      "lat": 51.15430352166, 
+      "lon": 3.236325146401, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -725,7 +723,7 @@
       "lon": 3.247030553492, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -735,6 +733,18 @@
       "housenumber": "165", 
       "lat": 51.153498812287, 
       "lon": 3.247090222454, 
+      "municipality": "Oostkamp", 
+      "pcode": "8020", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "165A"
+      ], 
+      "housenumber": "165A", 
+      "lat": 51.153494978271, 
+      "lon": 3.247150350345, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "manueleAanduidingVanGebouw", 
@@ -772,8 +782,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.154432458583, 
-      "lon": 3.237059477905, 
+      "lat": 51.1544323646, 
+      "lon": 3.237059051345, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -817,11 +827,9 @@
     }, 
     {
       "apptnrs": [
-        "19 A 1-1", 
-        "19 A 1-2"
-      ], 
-      "busnrs": [
         "19 A", 
+        "19 A 1-1", 
+        "19 A 1-2", 
         "19 B"
       ], 
       "hnrlbls": [
@@ -1379,15 +1387,13 @@
     }, 
     {
       "apptnrs": [
+        "0", 
         "0-01", 
         "0-02", 
         "1-01", 
         "1-02", 
         "2-01", 
         "2-02"
-      ], 
-      "busnrs": [
-        "0"
       ], 
       "hnrlbls": [
         "229-233"
@@ -1774,14 +1780,12 @@
       "apptnrs": [
         "1-01", 
         "1-02", 
+        "102", 
+        "1022", 
         "2-01", 
         "2-02", 
         "3-01", 
         "3-02"
-      ], 
-      "busnrs": [
-        "102", 
-        "1022"
       ], 
       "hnrlbls": [
         "35-37"
@@ -2458,10 +2462,8 @@
       "apptnrs": [
         "0-01", 
         "1-01", 
+        "2", 
         "2-01"
-      ], 
-      "busnrs": [
-        "2"
       ], 
       "hnrlbls": [
         "9"

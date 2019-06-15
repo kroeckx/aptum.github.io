@@ -812,11 +812,11 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.06656172426, 
-      "lon": 4.360103143416, 
+      "lat": 51.066481720796, 
+      "lon": 4.360069489177, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "August Van Landeghemstraat"
     }, 
     {
@@ -840,7 +840,7 @@
       "lon": 4.360066619597, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "August Van Landeghemstraat"
     }, 
     {
@@ -860,11 +860,11 @@
         "167-169"
       ], 
       "housenumber": "167", 
-      "lat": 51.066556053884, 
-      "lon": 4.359994722331, 
+      "lat": 51.066476678109, 
+      "lon": 4.359939241139, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "August Van Landeghemstraat"
     }, 
     {
@@ -884,11 +884,11 @@
         "167-169"
       ], 
       "housenumber": "169", 
-      "lat": 51.066556053884, 
-      "lon": 4.359994722331, 
+      "lat": 51.066476678109, 
+      "lon": 4.359939241139, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "August Van Landeghemstraat"
     }, 
     {
@@ -968,8 +968,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.066604187654, 
-      "lon": 4.360652237377, 
+      "lat": 51.066568053604, 
+      "lon": 4.360673214211, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -980,8 +980,8 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 51.066568053604, 
-      "lon": 4.360673214211, 
+      "lat": 51.066604187654, 
+      "lon": 4.360652237377, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -992,11 +992,11 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.066588723692, 
-      "lon": 4.36060373519, 
+      "lat": 51.066564629759, 
+      "lon": 4.360545676159, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "August Van Landeghemstraat"
     }, 
     {
@@ -1260,10 +1260,14 @@
       "lon": 4.360432361651, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "August Van Landeghemstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "36-38"
       ], 
@@ -1702,8 +1706,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.063343205223, 
-      "lon": 4.362493947534, 
+      "lat": 51.063441623976, 
+      "lon": 4.362290658013, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1788,11 +1792,11 @@
     }, 
     {
       "hnrlbls": [
-        "69-71"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.062659879907, 
-      "lon": 4.361027600072, 
+      "lat": 51.062624102734, 
+      "lon": 4.361005637565, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -2134,11 +2138,11 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.063359077431, 
-      "lon": 4.361737610872, 
+      "lat": 51.063409047762, 
+      "lon": 4.361590388291, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "August Van Landeghemstraat"
     }, 
     {

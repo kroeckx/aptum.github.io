@@ -61,6 +61,24 @@
       "street": "Busweg"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.97194782627, 
+      "lon": 5.502109242763, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Busweg"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 

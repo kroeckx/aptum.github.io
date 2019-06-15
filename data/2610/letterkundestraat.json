@@ -1312,9 +1312,10 @@
       "street": "Letterkundestraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "22"
@@ -1471,8 +1472,8 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 51.177299583957, 
-      "lon": 4.373254051862, 
+      "lat": 51.177300392944, 
+      "lon": 4.373253622955, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -1684,18 +1685,6 @@
     }, 
     {
       "hnrlbls": [
-        "26-28"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.180947548517, 
-      "lon": 4.381583947782, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Letterkundestraat"
-    }, 
-    {
-      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
@@ -1707,8 +1696,13 @@
       "street": "Letterkundestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "26-28"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 51.180947548517, 

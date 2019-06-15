@@ -293,8 +293,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.036345465328, 
-      "lon": 5.182521593864, 
+      "lat": 51.036324031884, 
+      "lon": 5.182566132734, 
       "municipality": "Beringen", 
       "pcode": "3583", 
       "source": "manueleAanduidingVanGebouw", 
@@ -341,8 +341,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.0363786617, 
-      "lon": 5.182634949972, 
+      "lat": 51.036359696656, 
+      "lon": 5.182686518056, 
       "municipality": "Beringen", 
       "pcode": "3583", 
       "source": "manueleAanduidingVanGebouw", 
@@ -365,8 +365,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.036422323427, 
-      "lon": 5.182781851465, 
+      "lat": 51.0363890832, 
+      "lon": 5.182804798216, 
       "municipality": "Beringen", 
       "pcode": "3583", 
       "source": "manueleAanduidingVanGebouw", 
@@ -401,11 +401,11 @@
         "26A"
       ], 
       "housenumber": "26A", 
-      "lat": 51.035838874488, 
-      "lon": 5.182370062264, 
+      "lat": 51.035892572062, 
+      "lon": 5.182443709915, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Buitingstraat"
     }, 
     {
@@ -413,11 +413,11 @@
         "26B"
       ], 
       "housenumber": "26B", 
-      "lat": 51.035857421309, 
-      "lon": 5.182443953887, 
+      "lat": 51.035908738457, 
+      "lon": 5.182523833573, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Buitingstraat"
     }, 
     {
@@ -425,11 +425,11 @@
         "28A"
       ], 
       "housenumber": "28A", 
-      "lat": 51.03589683899, 
-      "lon": 5.182593631234, 
+      "lat": 51.03595788427, 
+      "lon": 5.182670686337, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Buitingstraat"
     }, 
     {
@@ -437,11 +437,11 @@
         "28B"
       ], 
       "housenumber": "28B", 
-      "lat": 51.035913023875, 
-      "lon": 5.182658071939, 
+      "lat": 51.035980923154, 
+      "lon": 5.182744941595, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Buitingstraat"
     }, 
     {
@@ -449,11 +449,11 @@
         "30A"
       ], 
       "housenumber": "30A", 
-      "lat": 51.035933959781, 
-      "lon": 5.182724448852, 
+      "lat": 51.036024400048, 
+      "lon": 5.182892551608, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Buitingstraat"
     }, 
     {
@@ -461,11 +461,11 @@
         "30B"
       ], 
       "housenumber": "30B", 
-      "lat": 51.03595486902, 
-      "lon": 5.182794674911, 
+      "lat": 51.036068380778, 
+      "lon": 5.18295433976, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Buitingstraat"
     }, 
     {
@@ -473,11 +473,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.036053412823, 
-      "lon": 5.182986871743, 
+      "lat": 51.036114373188, 
+      "lon": 5.183102136619, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Buitingstraat"
     }, 
     {
@@ -497,11 +497,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.03608773932, 
-      "lon": 5.183183654306, 
+      "lat": 51.036139595756, 
+      "lon": 5.183185555259, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Buitingstraat"
     }, 
     {
@@ -802,6 +802,18 @@
       "municipality": "Beringen", 
       "pcode": "3583", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Buitingstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "79A"
+      ], 
+      "housenumber": "79A", 
+      "lat": 51.037250168185, 
+      "lon": 5.188556772857, 
+      "municipality": "Beringen", 
+      "pcode": "3583", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Buitingstraat"
     }, 
     {

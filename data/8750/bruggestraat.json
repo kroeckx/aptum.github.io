@@ -522,6 +522,30 @@
     }, 
     {
       "hnrlbls": [
+        "129A"
+      ], 
+      "housenumber": "129A", 
+      "lat": 51.039869197922, 
+      "lon": 3.219132955884, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "129B"
+      ], 
+      "housenumber": "129B", 
+      "lat": 51.039859815131, 
+      "lon": 3.219341519408, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bruggestraat"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -599,6 +623,18 @@
       "housenumber": "133", 
       "lat": 51.04056475096, 
       "lon": 3.218533368314, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "133A"
+      ], 
+      "housenumber": "133A", 
+      "lat": 51.040679526449, 
+      "lon": 3.218530549599, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanLot", 
@@ -1050,11 +1086,11 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.041518393517, 
-      "lon": 3.219415609208, 
+      "lat": 51.041506738449, 
+      "lon": 3.219418889852, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1605,11 +1641,11 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 51.04252864534, 
-      "lon": 3.221006239847, 
+      "lat": 51.042531366705, 
+      "lon": 3.221008740035, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1639,11 +1675,11 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.042541380878, 
-      "lon": 3.221187748392, 
+      "lat": 51.042542384819, 
+      "lon": 3.221189292441, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1660,11 +1696,11 @@
         "204A"
       ], 
       "housenumber": "204A", 
-      "lat": 51.042640947573, 
-      "lon": 3.221118712315, 
+      "lat": 51.042640954515, 
+      "lon": 3.221119425169, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -2409,7 +2445,7 @@
       "lon": 3.210295654058, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Bruggestraat"
     }, 
     {
@@ -2692,20 +2728,18 @@
       "apptnrs": [
         "0001", 
         "0002", 
-        "0003", 
         "0101", 
         "0102", 
         "0201", 
         "0202", 
-        "0301", 
-        "0302"
+        "0301"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.036397469408, 
-      "lon": 3.210546089472, 
+      "lat": 51.036421537754, 
+      "lon": 3.210525247109, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2983,8 +3017,8 @@
         "98A"
       ], 
       "housenumber": "98A", 
-      "lat": 51.039454346174, 
-      "lon": 3.214676487896, 
+      "lat": 51.039426126914, 
+      "lon": 3.214604031922, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3031,11 +3065,11 @@
         "98E"
       ], 
       "housenumber": "98E", 
-      "lat": 51.039583623233, 
-      "lon": 3.215006976188, 
+      "lat": 51.039549347069, 
+      "lon": 3.214912709323, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {

@@ -62,8 +62,7 @@
         "6", 
         "7", 
         "8", 
-        "9", 
-        "bs10"
+        "9"
       ], 
       "hnrlbls": [
         "10"
@@ -457,6 +456,19 @@
       "street": "Hoekstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -466,6 +478,28 @@
       "municipality": "Pelt", 
       "pcode": "3910", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hoekstraat"
+    }, 
+    {
+      "apptnrs": [
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 51.228397807088, 
+      "lon": 5.427364790376, 
+      "municipality": "Pelt", 
+      "pcode": "3910", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoekstraat"
     }, 
     {
@@ -685,7 +719,8 @@
         "2", 
         "3", 
         "4", 
-        "5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "70"

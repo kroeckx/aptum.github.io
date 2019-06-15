@@ -338,6 +338,11 @@
       "street": "Lodewijk Van Berckenlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "120"
       ], 
@@ -825,6 +830,10 @@
       "street": "Lodewijk Van Berckenlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "151"
       ], 
@@ -2196,15 +2205,19 @@
       "street": "Lodewijk Van Berckenlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "91-93"
+        "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.196734786892, 
-      "lon": 4.440554310319, 
+      "lat": 51.196814915703, 
+      "lon": 4.440486624882, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lodewijk Van Berckenlaan"
     }, 
     {
@@ -2221,14 +2234,14 @@
     }, 
     {
       "hnrlbls": [
-        "91-93"
+        "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.196734786892, 
-      "lon": 4.440554310319, 
+      "lat": 51.196824941031, 
+      "lon": 4.440554736531, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lodewijk Van Berckenlaan"
     }, 
     {

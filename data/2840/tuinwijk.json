@@ -73,6 +73,18 @@
       "street": "Tuinwijk"
     }, 
     {
+      "hnrlbls": [
+        "107A"
+      ], 
+      "housenumber": "107A", 
+      "lat": 51.081002295877, 
+      "lon": 4.428189935894, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tuinwijk"
+    }, 
+    {
       "busnrs": [
         "1", 
         "3"
@@ -1215,8 +1227,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.079947974616, 
-      "lon": 4.423074016699, 
+      "lat": 51.079945997335, 
+      "lon": 4.423073443568, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 

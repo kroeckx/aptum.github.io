@@ -220,6 +220,18 @@
       "street": "Welriekendedreef"
     }, 
     {
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 50.789170504259, 
+      "lon": 4.468520966905, 
+      "municipality": "Overijse", 
+      "pcode": "3090", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Welriekendedreef"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -227,8 +239,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.788719464263, 
-      "lon": 4.467923799013, 
+      "lat": 50.788718926819, 
+      "lon": 4.467921528776, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "afgeleidVanGebouw", 

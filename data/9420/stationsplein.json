@@ -15,7 +15,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "14"
@@ -45,8 +46,20 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.90732820385, 
-      "lon": 3.920782015888, 
+      "lat": 50.907384402551, 
+      "lon": 3.920785745838, 
+      "municipality": "Erpe-Mere", 
+      "pcode": "9420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsplein"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 50.907251159396, 
+      "lon": 3.920686494695, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 

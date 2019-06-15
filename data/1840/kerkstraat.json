@@ -199,11 +199,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.002952412882, 
-      "lon": 4.302127199382, 
+      "lat": 51.002909293328, 
+      "lon": 4.302338110986, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -409,18 +409,6 @@
       "street": "Kerkstraat"
     }, 
     {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.002302679633, 
-      "lon": 4.301964136568, 
-      "municipality": "Londerzeel", 
-      "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
       "apptnrs": [
         "001", 
         "002", 
@@ -436,6 +424,23 @@
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 51.002302679633, 
+      "lon": 4.301964136568, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {

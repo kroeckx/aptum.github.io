@@ -369,6 +369,18 @@
     }, 
     {
       "hnrlbls": [
+        "132"
+      ], 
+      "housenumber": "132", 
+      "lat": 51.17261191697, 
+      "lon": 5.182792018902, 
+      "municipality": "Balen", 
+      "pcode": "2490", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "133"
       ], 
       "housenumber": "133", 
@@ -1053,18 +1065,6 @@
       "municipality": "Balen", 
       "pcode": "2490", 
       "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "202"
-      ], 
-      "housenumber": "202", 
-      "lat": 51.172311601798, 
-      "lon": 5.192119611295, 
-      "municipality": "Balen", 
-      "pcode": "2490", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {
@@ -2163,6 +2163,18 @@
     }, 
     {
       "hnrlbls": [
+        "317"
+      ], 
+      "housenumber": "317", 
+      "lat": 51.173220161476, 
+      "lon": 5.204976220964, 
+      "municipality": "Balen", 
+      "pcode": "2490", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "318"
       ], 
       "housenumber": "318", 
@@ -2914,8 +2926,10 @@
       "street": "Molenstraat"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "7"
@@ -3192,8 +3206,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.172704307265, 
-      "lon": 5.178718601114, 
+      "lat": 51.172697711667, 
+      "lon": 5.178723491334, 
       "municipality": "Balen", 
       "pcode": "2490", 
       "source": "afgeleidVanGebouw", 

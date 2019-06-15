@@ -794,8 +794,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.999424592812, 
-      "lon": 4.175319738119, 
+      "lat": 50.999473074383, 
+      "lon": 4.175393046395, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 
@@ -822,7 +822,7 @@
       "lon": 4.176911962022, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Broekstraat"
     }, 
     {
@@ -1014,15 +1014,18 @@
       "street": "Broekstraat"
     }, 
     {
-      "hnrlbls": [
-        "47"
+      "busnrs": [
+        "001"
       ], 
-      "housenumber": "47", 
-      "lat": 50.996415601508, 
-      "lon": 4.177213989621, 
+      "hnrlbls": [
+        "47C"
+      ], 
+      "housenumber": "47C", 
+      "lat": 50.996331413309, 
+      "lon": 4.177072455057, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Broekstraat"
     }, 
     {

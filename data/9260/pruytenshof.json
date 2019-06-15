@@ -37,11 +37,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.99164924839, 
-      "lon": 3.924268049307, 
+      "lat": 50.9914492499, 
+      "lon": 3.924271510162, 
       "municipality": "Wichelen", 
       "pcode": "9260", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pruytenshof"
     }, 
     {
@@ -54,6 +54,50 @@
       "municipality": "Wichelen", 
       "pcode": "9260", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Pruytenshof"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.991495107396, 
+      "lon": 3.924036486036, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pruytenshof"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.991541403114, 
+      "lon": 3.923798608596, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pruytenshof"
     }
   ]

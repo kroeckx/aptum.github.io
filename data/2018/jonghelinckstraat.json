@@ -84,6 +84,26 @@
       "street": "Jonghelinckstraat"
     }, 
     {
+      "apptnrs": [
+        "1101", 
+        "1102", 
+        "1201", 
+        "1202", 
+        "1301", 
+        "1302"
+      ], 
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.201265174161, 
+      "lon": 4.395381174563, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Jonghelinckstraat"
+    }, 
+    {
       "hnrlbls": [
         "17-19"
       ], 
@@ -96,15 +116,18 @@
       "street": "Jonghelinckstraat"
     }, 
     {
+      "apptnrs": [
+        "1001"
+      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.20142127105, 
-      "lon": 4.394736865022, 
+      "lat": 51.201169600583, 
+      "lon": 4.395104702964, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jonghelinckstraat"
     }, 
     {
@@ -153,11 +176,32 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.201442476102, 
-      "lon": 4.395938548154, 
+      "lat": 51.201443555021, 
+      "lon": 4.395937261141, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
+      "street": "Jonghelinckstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1101", 
+        "1102", 
+        "1201", 
+        "1202", 
+        "1301", 
+        "2001", 
+        "3001"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.201129360659, 
+      "lon": 4.394980493013, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jonghelinckstraat"
     }, 
     {
@@ -174,38 +218,11 @@
     }, 
     {
       "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.201128111557, 
-      "lon": 4.394939716732, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jonghelinckstraat"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
       "lat": 51.200768348913, 
       "lon": 4.394739925327, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jonghelinckstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.201195371044, 
-      "lon": 4.394825869902, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -369,8 +386,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.201437643094, 
-      "lon": 4.395850412242, 
+      "lat": 51.201430360798, 
+      "lon": 4.395857418484, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

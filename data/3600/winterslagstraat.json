@@ -252,18 +252,6 @@
     }, 
     {
       "hnrlbls": [
-        "57-122"
-      ], 
-      "housenumber": "120", 
-      "lat": 50.970366711221, 
-      "lon": 5.500971786192, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Winterslagstraat"
-    }, 
-    {
-      "hnrlbls": [
         "121"
       ], 
       "housenumber": "121", 
@@ -272,18 +260,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Winterslagstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "57-122"
-      ], 
-      "housenumber": "122", 
-      "lat": 50.970366711221, 
-      "lon": 5.500971786192, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Winterslagstraat"
     }, 
     {
@@ -2077,6 +2053,18 @@
       "housenumber": "55", 
       "lat": 50.966446010575, 
       "lon": 5.498848663137, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Winterslagstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.96675470473, 
+      "lon": 5.499375202154, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanGebouw", 

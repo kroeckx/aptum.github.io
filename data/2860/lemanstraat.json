@@ -328,6 +328,24 @@
       "street": "Lemanstraat"
     }, 
     {
+      "apptnrs": [
+        "0011", 
+        "0012", 
+        "0022", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "34-36"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.068388019077, 
+      "lon": 4.533748107972, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lemanstraat"
+    }, 
+    {
       "hnrlbls": [
         "35"
       ], 
@@ -528,8 +546,8 @@
     }, 
     {
       "apptnrs": [
-        "11", 
-        "21"
+        "0011", 
+        "0021"
       ], 
       "hnrlbls": [
         "49"

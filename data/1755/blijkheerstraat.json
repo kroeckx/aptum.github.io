@@ -321,7 +321,7 @@
       "lon": 4.050028180848, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Blijkheerstraat"
     }, 
     {
@@ -593,11 +593,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.774708669331, 
-      "lon": 4.046348934247, 
+      "lat": 50.774686933719, 
+      "lon": 4.046421531073, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Blijkheerstraat"
     }, 
     {

@@ -153,7 +153,43 @@
       "lon": 4.278142456983, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brielstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.233262407913, 
+      "lon": 4.278120578016, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brielstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.233321812212, 
+      "lon": 4.278109152891, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brielstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 51.233395500664, 
+      "lon": 4.278088107695, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brielstraat"
     }, 
     {
@@ -353,8 +389,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.233247051096, 
-      "lon": 4.276034608818, 
+      "lat": 51.233295228352, 
+      "lon": 4.276034227369, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -970,6 +1006,18 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Brielstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 51.231945091953, 
+      "lon": 4.270979810726, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brielstraat"
     }
   ]

@@ -377,12 +377,6 @@
       "street": "Kalkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -438,6 +432,22 @@
       "housenumber": "40", 
       "lat": 51.164442599607, 
       "lon": 4.145293314387, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kalkstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 51.164030113782, 
+      "lon": 4.145580485981, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -662,10 +672,23 @@
       "street": "Kalkstraat"
     }, 
     {
+      "hnrlbls": [
+        "5A-5B"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.164802129903, 
+      "lon": 4.143576776148, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kalkstraat"
+    }, 
+    {
       "apptnrs": [
         "001", 
         "101", 
-        "201"
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "5A-5B"

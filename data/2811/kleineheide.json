@@ -29,11 +29,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.024675724005, 
-      "lon": 4.389891677251, 
+      "lat": 51.024489546243, 
+      "lon": 4.389972691417, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kleine Heide"
     }, 
     {
@@ -77,8 +77,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.028017051619, 
-      "lon": 4.386058966121, 
+      "lat": 51.028019836187, 
+      "lon": 4.386072223707, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
       "source": "afgeleidVanGebouw", 
@@ -113,8 +113,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.020703404832, 
-      "lon": 4.387171951677, 
+      "lat": 51.020680212402, 
+      "lon": 4.387176360359, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.019335140664, 
-      "lon": 4.387432484033, 
+      "lat": 51.019336309333, 
+      "lon": 4.387431914449, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
       "source": "afgeleidVanGebouw", 
@@ -458,6 +458,18 @@
     }, 
     {
       "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 51.025847528282, 
+      "lon": 4.387886163807, 
+      "municipality": "Mechelen", 
+      "pcode": "2811", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kleine Heide"
+    }, 
+    {
+      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
@@ -485,8 +497,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.023289802506, 
-      "lon": 4.388346589215, 
+      "lat": 51.023306337575, 
+      "lon": 4.388374104444, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
       "source": "afgeleidVanGebouw", 

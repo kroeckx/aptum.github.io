@@ -269,11 +269,23 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.928517904797, 
-      "lon": 4.805617834845, 
+      "lat": 50.928574107594, 
+      "lon": 4.805612811417, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kerkstraatje"
+    }, 
+    {
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 50.928319562909, 
+      "lon": 4.806567447416, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraatje"
     }, 
     {

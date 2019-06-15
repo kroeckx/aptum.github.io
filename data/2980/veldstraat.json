@@ -169,11 +169,11 @@
       "street": "Veldstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "b1"
       ], 
       "hnrlbls": [
-        "79-79b"
+        "79"
       ], 
       "housenumber": "79", 
       "lat": 51.274350366155, 
@@ -181,21 +181,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Veldstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "79-79b"
-      ], 
-      "housenumber": "79b", 
-      "lat": 51.274350366155, 
-      "lon": 4.695151830093, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Veldstraat"
     }, 
     {

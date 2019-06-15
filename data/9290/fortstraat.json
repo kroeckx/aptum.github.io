@@ -25,6 +25,27 @@
       "street": "Fortstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.046723748473, 
+      "lon": 3.952534021914, 
+      "municipality": "Berlare", 
+      "pcode": "9290", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Fortstraat"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 

@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.122171962057, 
@@ -26,11 +26,11 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.122171962057, 
-      "lon": 3.797806685049, 
+      "lat": 51.122170851252, 
+      "lon": 3.797855833707, 
       "municipality": "Gent", 
       "pcode": "9042", 
       "source": "manueleAanduidingVanGebouw", 
@@ -221,11 +221,59 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.121998586149, 
-      "lon": 3.799207717689, 
+      "lat": 51.121955939486, 
+      "lon": 3.798938709242, 
       "municipality": "Gent", 
       "pcode": "9042", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Moleneinde"
+    }, 
+    {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 51.121970778112, 
+      "lon": 3.799051938688, 
+      "municipality": "Gent", 
+      "pcode": "9042", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Moleneinde"
+    }, 
+    {
+      "hnrlbls": [
+        "23B"
+      ], 
+      "housenumber": "23B", 
+      "lat": 51.121986130809, 
+      "lon": 3.799141308666, 
+      "municipality": "Gent", 
+      "pcode": "9042", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Moleneinde"
+    }, 
+    {
+      "hnrlbls": [
+        "23C"
+      ], 
+      "housenumber": "23C", 
+      "lat": 51.12199938304, 
+      "lon": 3.799223848236, 
+      "municipality": "Gent", 
+      "pcode": "9042", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Moleneinde"
+    }, 
+    {
+      "hnrlbls": [
+        "23D"
+      ], 
+      "housenumber": "23D", 
+      "lat": 51.122013360486, 
+      "lon": 3.799307664532, 
+      "municipality": "Gent", 
+      "pcode": "9042", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Moleneinde"
     }, 
     {

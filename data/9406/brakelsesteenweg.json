@@ -195,7 +195,7 @@
       "lon": 4.001469775479, 
       "municipality": "Ninove", 
       "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brakelsesteenweg"
     }, 
     {
@@ -219,7 +219,7 @@
       "lon": 4.001399605868, 
       "municipality": "Ninove", 
       "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brakelsesteenweg"
     }, 
     {
@@ -235,6 +235,9 @@
       "street": "Brakelsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "138"
       ], 
@@ -291,8 +294,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.834749834972, 
-      "lon": 4.001120602922, 
+      "lat": 50.834866478854, 
+      "lon": 4.001078524421, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -550,11 +553,11 @@
     }, 
     {
       "hnrlbls": [
-        "69-167"
+        "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.835260299895, 
-      "lon": 4.000757742964, 
+      "lat": 50.835231169623, 
+      "lon": 4.000785226931, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -633,8 +636,8 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.834228430444, 
-      "lon": 3.998001324276, 
+      "lat": 50.834248454475, 
+      "lon": 3.997994068806, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -884,6 +887,9 @@
       "street": "Brakelsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "202"
       ], 
@@ -912,8 +918,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 50.83420248733, 
-      "lon": 3.995911205912, 
+      "lat": 50.834210647437, 
+      "lon": 3.995904753243, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -921,7 +927,7 @@
     }, 
     {
       "hnrlbls": [
-        "205"
+        "205-209"
       ], 
       "housenumber": "205", 
       "lat": 50.834574755519, 
@@ -972,11 +978,11 @@
     }, 
     {
       "hnrlbls": [
-        "209"
+        "205-209"
       ], 
       "housenumber": "209", 
-      "lat": 50.834554308538, 
-      "lon": 3.99658087855, 
+      "lat": 50.834574755519, 
+      "lon": 3.996622026936, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1008,30 +1014,6 @@
     }, 
     {
       "hnrlbls": [
-        "212"
-      ], 
-      "housenumber": "212", 
-      "lat": 50.834141371748, 
-      "lon": 3.995038652731, 
-      "municipality": "Ninove", 
-      "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brakelsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "214"
-      ], 
-      "housenumber": "214", 
-      "lat": 50.834129767291, 
-      "lon": 3.994951441122, 
-      "municipality": "Ninove", 
-      "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brakelsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "215"
       ], 
       "housenumber": "215", 
@@ -1047,11 +1029,11 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 50.833916543627, 
-      "lon": 3.994700734323, 
+      "lat": 50.833930444246, 
+      "lon": 3.994690261116, 
       "municipality": "Ninove", 
       "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brakelsesteenweg"
     }, 
     {
@@ -1552,7 +1534,7 @@
       "lon": 3.983987937872, 
       "municipality": "Ninove", 
       "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Brakelsesteenweg"
     }, 
     {
@@ -1574,18 +1556,6 @@
       "housenumber": "361A", 
       "lat": 50.832773157754, 
       "lon": 3.978998861859, 
-      "municipality": "Ninove", 
-      "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Brakelsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "369"
-      ], 
-      "housenumber": "369", 
-      "lat": 50.83266079986, 
-      "lon": 3.978326082992, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1686,8 +1656,8 @@
         "398"
       ], 
       "housenumber": "398", 
-      "lat": 50.831109277229, 
-      "lon": 3.973650107396, 
+      "lat": 50.831429248065, 
+      "lon": 3.973658495642, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 

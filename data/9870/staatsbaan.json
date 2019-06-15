@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.929028729504, 
-      "lon": 3.456975102938, 
+      "lat": 50.929085706904, 
+      "lon": 3.457076988049, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanPerceelGrb", 
@@ -596,8 +596,8 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 50.921270127159, 
-      "lon": 3.442580306118, 
+      "lat": 50.921274970062, 
+      "lon": 3.442567409911, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
@@ -1489,8 +1489,8 @@
         "251"
       ], 
       "housenumber": "251", 
-      "lat": 50.917153676952, 
-      "lon": 3.437334289849, 
+      "lat": 50.917152537727, 
+      "lon": 3.437338010099, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1585,8 +1585,8 @@
         "262"
       ], 
       "housenumber": "262", 
-      "lat": 50.91594255652, 
-      "lon": 3.433600157891, 
+      "lat": 50.915944326476, 
+      "lon": 3.433585332386, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1711,8 +1711,8 @@
         "27B"
       ], 
       "housenumber": "27B", 
-      "lat": 50.925892506026, 
-      "lon": 3.45226044539, 
+      "lat": 50.925926900989, 
+      "lon": 3.452151953256, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1723,8 +1723,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.926540366545, 
-      "lon": 3.449134325489, 
+      "lat": 50.926531941944, 
+      "lon": 3.449149141786, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1863,6 +1863,30 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.928954504277, 
+      "lon": 3.456005952075, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Staatsbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "30-30B"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.92576605651, 
+      "lon": 3.449559434231, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Staatsbaan"
+    }, 
+    {
+      "hnrlbls": [
         "300"
       ], 
       "housenumber": "300", 
@@ -1878,8 +1902,8 @@
         "304"
       ], 
       "housenumber": "304", 
-      "lat": 50.90884022257, 
-      "lon": 3.420962821926, 
+      "lat": 50.908839644269, 
+      "lon": 3.420957999036, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1911,26 +1935,14 @@
     }, 
     {
       "hnrlbls": [
-        "30A"
-      ], 
-      "housenumber": "30A", 
-      "lat": 50.925800448062, 
-      "lon": 3.449600296192, 
-      "municipality": "Zulte", 
-      "pcode": "9870", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Staatsbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30B"
+        "30-30B"
       ], 
       "housenumber": "30B", 
-      "lat": 50.925824823639, 
-      "lon": 3.449383466491, 
+      "lat": 50.92576605651, 
+      "lon": 3.449559434231, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -2014,8 +2026,8 @@
         "316"
       ], 
       "housenumber": "316", 
-      "lat": 50.90812138325, 
-      "lon": 3.41958257597, 
+      "lat": 50.908110557542, 
+      "lon": 3.419589051092, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -2086,8 +2098,8 @@
         "322"
       ], 
       "housenumber": "322", 
-      "lat": 50.907835259717, 
-      "lon": 3.418863188598, 
+      "lat": 50.907835367989, 
+      "lon": 3.418865461447, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -2119,11 +2131,11 @@
     }, 
     {
       "hnrlbls": [
-        "325"
+        "325-327"
       ], 
       "housenumber": "325", 
-      "lat": 50.909001618833, 
-      "lon": 3.422851590325, 
+      "lat": 50.908959760208, 
+      "lon": 3.422900636661, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -2143,11 +2155,11 @@
     }, 
     {
       "hnrlbls": [
-        "327"
+        "325-327"
       ], 
       "housenumber": "327", 
-      "lat": 50.909001714441, 
-      "lon": 3.422852299366, 
+      "lat": 50.908959760208, 
+      "lon": 3.422900636661, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -2218,8 +2230,8 @@
         "349"
       ], 
       "housenumber": "349", 
-      "lat": 50.908447195223, 
-      "lon": 3.421701190115, 
+      "lat": 50.908446062218, 
+      "lon": 3.421705620898, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -2242,7 +2254,7 @@
         "357"
       ], 
       "housenumber": "357", 
-      "lat": 50.907117214229, 
+      "lat": 50.90711721423, 
       "lon": 3.419374084506, 
       "municipality": "Zulte", 
       "pcode": "9870", 
@@ -2764,8 +2776,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.923938237506, 
-      "lon": 3.446876330959, 
+      "lat": 50.923935392373, 
+      "lon": 3.446880369473, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -2852,11 +2864,11 @@
         "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 50.928658949152, 
-      "lon": 3.453535656415, 
+      "lat": 50.92863516775, 
+      "lon": 3.453298558934, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Staatsbaan"
     }, 
     {

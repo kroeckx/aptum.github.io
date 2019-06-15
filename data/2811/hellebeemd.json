@@ -9,7 +9,7 @@
       "lon": 4.442314908399, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hellebeemd"
     }, 
     {
@@ -21,7 +21,7 @@
       "lon": 4.443455422739, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hellebeemd"
     }, 
     {
@@ -50,12 +50,12 @@
       "busnrs": [
         "0001", 
         "0002", 
+        "0003", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
-        "0202", 
-        "0301", 
-        "0302"
+        "0301"
       ], 
       "hnrlbls": [
         "15"
@@ -77,7 +77,7 @@
       "lon": 4.442541899426, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hellebeemd"
     }, 
     {
@@ -89,7 +89,7 @@
       "lon": 4.442768320508, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hellebeemd"
     }, 
     {
@@ -101,7 +101,7 @@
       "lon": 4.44299588211, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hellebeemd"
     }, 
     {
@@ -113,7 +113,7 @@
       "lon": 4.443224440592, 
       "municipality": "Mechelen", 
       "pcode": "2811", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hellebeemd"
     }
   ]

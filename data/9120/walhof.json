@@ -2,7 +2,148 @@
   "addresses": [
     {
       "apptnrs": [
-        "002"
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.206500246496, 
+      "lon": 4.258887110831, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Walhof"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.206357310781, 
+      "lon": 4.258671668186, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Walhof"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.206353524152, 
+      "lon": 4.258465200625, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Walhof"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.206325166805, 
+      "lon": 4.258321177407, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Walhof"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.206319627385, 
+      "lon": 4.258163650316, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Walhof"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.206267199945, 
+      "lon": 4.257943847502, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Walhof"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.206073541617, 
+      "lon": 4.259056666588, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Walhof"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "8"

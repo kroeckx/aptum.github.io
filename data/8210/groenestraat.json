@@ -496,14 +496,14 @@
     }, 
     {
       "busnrs": [
-        "201"
+        "0201"
       ], 
       "hnrlbls": [
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.130022870407, 
-      "lon": 3.154434224594, 
+      "lat": 51.130022665682, 
+      "lon": 3.154431801063, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -526,8 +526,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.12996811551, 
-      "lon": 3.154547231104, 
+      "lat": 51.129960904948, 
+      "lon": 3.15454541818, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1045,8 +1045,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.140663797259, 
-      "lon": 3.138096343942, 
+      "lat": 51.140691631751, 
+      "lon": 3.138136196421, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -1087,8 +1087,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.142095559306, 
-      "lon": 3.137211176247, 
+      "lat": 51.142110236099, 
+      "lon": 3.13720478719, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -1241,8 +1241,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.140246086469, 
-      "lon": 3.138575644567, 
+      "lat": 51.140246902779, 
+      "lon": 3.138576337605, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -1253,8 +1253,8 @@
         "38A"
       ], 
       "housenumber": "38A", 
-      "lat": 51.140193494627, 
-      "lon": 3.138627331582, 
+      "lat": 51.140199149595, 
+      "lon": 3.138643759721, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 
@@ -2096,6 +2096,18 @@
       "housenumber": "95", 
       "lat": 51.138755480827, 
       "lon": 3.143513800869, 
+      "municipality": "Zedelgem", 
+      "pcode": "8210", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Groenestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 51.137284596771, 
+      "lon": 3.14551218103, 
       "municipality": "Zedelgem", 
       "pcode": "8210", 
       "source": "afgeleidVanGebouw", 

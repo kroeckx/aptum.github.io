@@ -98,8 +98,13 @@
       "street": "Albert Spietaelslaan"
     }, 
     {
-      "busnrs": [
-        "17"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "15-17"
@@ -349,8 +354,10 @@
       "street": "Albert Spietaelslaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "5"
@@ -364,6 +371,11 @@
       "street": "Albert Spietaelslaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -410,8 +422,10 @@
       "street": "Albert Spietaelslaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "9"

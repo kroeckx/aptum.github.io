@@ -601,10 +601,6 @@
       "street": "Kerkhove"
     }, 
     {
-      "apptnrs": [
-        "Kerkhove 5A", 
-        "Kerkhove 5B"
-      ], 
       "hnrlbls": [
         "5-5B"
       ], 
@@ -757,7 +753,7 @@
       "lon": 3.938634485722, 
       "municipality": "Bever", 
       "pcode": "1547", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkhove"
     }, 
     {
@@ -769,7 +765,7 @@
       "lon": 3.938634485722, 
       "municipality": "Bever", 
       "pcode": "1547", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkhove"
     }, 
     {

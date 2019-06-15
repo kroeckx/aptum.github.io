@@ -54,8 +54,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.267703243071, 
-      "lon": 5.0868668046, 
+      "lat": 51.267698751783, 
+      "lon": 5.08686630544, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -142,11 +142,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.267631357476, 
-      "lon": 5.086003990769, 
+      "lat": 51.267604815895, 
+      "lon": 5.085845110677, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -222,15 +222,22 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.267868185236, 
-      "lon": 5.088138414941, 
+      "lat": 51.267902423007, 
+      "lon": 5.088198980213, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -240,18 +247,6 @@
       "housenumber": "27", 
       "lat": 51.268550314187, 
       "lon": 5.09020697672, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kloosterstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.267891756969, 
-      "lon": 5.088312152892, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -274,8 +269,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.268001218493, 
-      "lon": 5.089717314977, 
+      "lat": 51.267978369205, 
+      "lon": 5.089970860602, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -394,11 +389,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.267629341812, 
-      "lon": 5.086114001103, 
+      "lat": 51.267628170244, 
+      "lon": 5.086055236982, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -535,8 +530,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.267533125475, 
-      "lon": 5.086475739706, 
+      "lat": 51.267483381468, 
+      "lon": 5.086452190538, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 

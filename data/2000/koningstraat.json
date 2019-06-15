@@ -16,9 +16,6 @@
       "street": "Koningstraat"
     }, 
     {
-      "busnrs": [
-        "10"
-      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -179,9 +176,6 @@
       "street": "Koningstraat"
     }, 
     {
-      "busnrs": [
-        "8"
-      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -228,19 +222,15 @@
       "street": "Koningstraat"
     }, 
     {
-      "busnrs": [
-        "111", 
-        "113"
-      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.221832764165, 
-      "lon": 4.408754226295, 
+      "lat": 51.221871627683, 
+      "lon": 4.408917148757, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Koningstraat"
     }, 
     {

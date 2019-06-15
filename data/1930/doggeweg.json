@@ -265,9 +265,9 @@
       "street": "Doggeweg"
     }, 
     {
-      "busnrs": [
-        "11", 
-        "GLVL"
+      "apptnrs": [
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "34"
@@ -527,7 +527,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
+        "001", 
+        "021"
       ], 
       "hnrlbls": [
         "56"
@@ -597,8 +598,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.885126646248, 
-      "lon": 4.467294866083, 
+      "lat": 50.885124845243, 
+      "lon": 4.467298557129, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -626,8 +627,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.885200757172, 
-      "lon": 4.4673561299, 
+      "lat": 50.885194193584, 
+      "lon": 4.467357679233, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 

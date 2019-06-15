@@ -801,11 +801,6 @@
       "street": "Boomsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "233"
       ], 
@@ -916,8 +911,8 @@
         "253-253A"
       ], 
       "housenumber": "253", 
-      "lat": 51.171192210438, 
-      "lon": 4.387845091696, 
+      "lat": 51.171204075215, 
+      "lon": 4.387845811627, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -928,8 +923,8 @@
         "253-253A"
       ], 
       "housenumber": "253A", 
-      "lat": 51.171192210438, 
-      "lon": 4.387845091696, 
+      "lat": 51.171204075215, 
+      "lon": 4.387845811627, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -940,8 +935,8 @@
         "259"
       ], 
       "housenumber": "259", 
-      "lat": 51.171076975809, 
-      "lon": 4.387852906753, 
+      "lat": 51.171090728663, 
+      "lon": 4.387850767884, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -1390,23 +1385,15 @@
       "street": "Boomsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "376"
       ], 
       "housenumber": "376", 
-      "lat": 51.169903881775, 
-      "lon": 4.386152848456, 
+      "lat": 51.169887150977, 
+      "lon": 4.386231478982, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boomsesteenweg"
     }, 
     {
@@ -1443,8 +1430,8 @@
         "387"
       ], 
       "housenumber": "387", 
-      "lat": 51.166304461134, 
-      "lon": 4.386400499153, 
+      "lat": 51.166303023073, 
+      "lon": 4.386399783761, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -3517,6 +3504,11 @@
       "street": "Boomsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "8"
       ], 

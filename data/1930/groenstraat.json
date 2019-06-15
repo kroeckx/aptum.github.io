@@ -251,11 +251,11 @@
         "21B"
       ], 
       "housenumber": "21B", 
-      "lat": 50.887556449706, 
-      "lon": 4.469857110939, 
+      "lat": 50.88783265164, 
+      "lon": 4.470216841349, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -422,20 +422,20 @@
       "street": "Groenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "011", 
+        "X001", 
+        "X002"
       ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.888346418283, 
-      "lon": 4.471628493812, 
+      "lat": 50.88834349152, 
+      "lon": 4.471583435512, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {
@@ -880,15 +880,12 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "5", 
-        "6"
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "66"
@@ -968,8 +965,8 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "1.0"
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "72"

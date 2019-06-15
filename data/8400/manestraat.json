@@ -13,6 +13,22 @@
       "street": "Manestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.216392335237, 
+      "lon": 2.939203982715, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Manestraat"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 
@@ -185,11 +201,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.216405771378, 
-      "lon": 2.93912555666, 
+      "lat": 51.216350416966, 
+      "lon": 2.939172200695, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Manestraat"
     }
   ]

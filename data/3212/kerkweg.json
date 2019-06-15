@@ -125,8 +125,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.869809306405, 
-      "lon": 4.793400969808, 
+      "lat": 50.869810654801, 
+      "lon": 4.793400982015, 
       "municipality": "Lubbeek", 
       "pcode": "3212", 
       "source": "afgeleidVanGebouw", 
@@ -166,6 +166,18 @@
       "municipality": "Lubbeek", 
       "pcode": "3212", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kerkweg"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.869833974947, 
+      "lon": 4.792124023558, 
+      "municipality": "Lubbeek", 
+      "pcode": "3212", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkweg"
     }
   ]

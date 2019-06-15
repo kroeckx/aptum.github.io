@@ -435,9 +435,6 @@
       "street": "Van Amstelstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "131"
       ], 
@@ -806,8 +803,10 @@
       "street": "Van Amstelstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "16"
@@ -1628,7 +1627,7 @@
       "lon": 4.443475832309, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Amstelstraat"
     }, 
     {
@@ -1783,7 +1782,7 @@
       "lon": 4.44357373025, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Amstelstraat"
     }, 
     {
@@ -2031,7 +2030,7 @@
       "lon": 4.44357373025, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Amstelstraat"
     }, 
     {

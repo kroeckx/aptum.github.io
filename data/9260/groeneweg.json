@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.985711782936, 
-      "lon": 3.925665841399, 
+      "lat": 50.985836160801, 
+      "lon": 3.925776322591, 
       "municipality": "Wichelen", 
       "pcode": "9260", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Groeneweg"
     }, 
     {
@@ -58,6 +58,30 @@
       "municipality": "Wichelen", 
       "pcode": "9260", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Groeneweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.985758127357, 
+      "lon": 3.925774637908, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Groeneweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.985649646905, 
+      "lon": 3.925756150542, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Groeneweg"
     }, 
     {

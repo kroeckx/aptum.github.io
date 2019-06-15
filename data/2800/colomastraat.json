@@ -204,9 +204,6 @@
       "street": "Colomastraat"
     }, 
     {
-      "busnrs": [
-        "0101"
-      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -355,6 +352,18 @@
     }, 
     {
       "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 51.019103571088, 
+      "lon": 4.481857149007, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Colomastraat"
+    }, 
+    {
+      "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
@@ -436,8 +445,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.020017619316, 
-      "lon": 4.481348011876, 
+      "lat": 51.020021116945, 
+      "lon": 4.481356428958, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 

@@ -1255,6 +1255,11 @@
       "street": "Rerum Novarumlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -1331,8 +1336,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.252312351014, 
-      "lon": 4.453732372603, 
+      "lat": 51.252315758259, 
+      "lon": 4.453743837219, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1343,8 +1348,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.25229066305, 
-      "lon": 4.453644389926, 
+      "lat": 51.25229236305, 
+      "lon": 4.453655135248, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

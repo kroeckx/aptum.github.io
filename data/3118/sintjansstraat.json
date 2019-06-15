@@ -32,8 +32,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.973150054191, 
-      "lon": 4.700602167421, 
+      "lat": 50.973131311805, 
+      "lon": 4.700617980776, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 
@@ -176,8 +176,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.972856151241, 
-      "lon": 4.701918492536, 
+      "lat": 50.972853807613, 
+      "lon": 4.701920753876, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 
@@ -390,8 +390,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.971501622709, 
-      "lon": 4.694628474106, 
+      "lat": 50.971502438449, 
+      "lon": 4.694626059452, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 
@@ -470,6 +470,24 @@
       "street": "Sint Jansstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.971858993984, 
+      "lon": 4.694967108035, 
+      "municipality": "Rotselaar", 
+      "pcode": "3118", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Sint Jansstraat"
+    }, 
+    {
       "hnrlbls": [
         "32"
       ], 
@@ -486,11 +504,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.971680507991, 
-      "lon": 4.695081755272, 
+      "lat": 50.971644987124, 
+      "lon": 4.694989534443, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint Jansstraat"
     }, 
     {
@@ -506,15 +524,25 @@
       "street": "Sint Jansstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.971698763395, 
-      "lon": 4.695143815003, 
+      "lat": 50.971682430955, 
+      "lon": 4.695101416196, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint Jansstraat"
     }, 
     {
@@ -522,8 +550,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.971736600494, 
-      "lon": 4.697080072954, 
+      "lat": 50.97172733018, 
+      "lon": 4.697084136723, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 
@@ -634,8 +662,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.971893052289, 
-      "lon": 4.697740362212, 
+      "lat": 50.971895206478, 
+      "lon": 4.697741516352, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 
@@ -646,8 +674,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.971895596379, 
-      "lon": 4.69612343944, 
+      "lat": 50.971895145733, 
+      "lon": 4.696123863408, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 
@@ -670,8 +698,8 @@
         "51-53"
       ], 
       "housenumber": "51", 
-      "lat": 50.971912602205, 
-      "lon": 4.69627874607, 
+      "lat": 50.971911338964, 
+      "lon": 4.696280445714, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 
@@ -694,8 +722,8 @@
         "51-53"
       ], 
       "housenumber": "53", 
-      "lat": 50.971912602205, 
-      "lon": 4.69627874607, 
+      "lat": 50.971911338964, 
+      "lon": 4.696280445714, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 
@@ -882,8 +910,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.972201628153, 
-      "lon": 4.697749508576, 
+      "lat": 50.972227436623, 
+      "lon": 4.697682061977, 
       "municipality": "Rotselaar", 
       "pcode": "3118", 
       "source": "afgeleidVanGebouw", 

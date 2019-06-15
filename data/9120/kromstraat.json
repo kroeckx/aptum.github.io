@@ -45,7 +45,7 @@
       "lon": 4.240693001042, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kromstraat"
     }, 
     {
@@ -57,7 +57,7 @@
       "lon": 4.240640062862, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kromstraat"
     }, 
     {
@@ -94,6 +94,51 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kromstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.219890090434, 
+      "lon": 4.240204649697, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kromstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22"
+      ], 
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 51.219981437667, 
+      "lon": 4.240144713938, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kromstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 51.22006883277, 
+      "lon": 4.240087365139, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kromstraat"
     }, 
     {

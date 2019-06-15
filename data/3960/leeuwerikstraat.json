@@ -38,26 +38,26 @@
     }, 
     {
       "hnrlbls": [
-        "12-12A"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.138905144849, 
-      "lon": 5.600612790299, 
+      "lat": 51.138934741306, 
+      "lon": 5.60078305227, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leeuwerikstraat"
     }, 
     {
       "hnrlbls": [
-        "12-12A"
+        "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 51.138905144849, 
-      "lon": 5.600612790299, 
+      "lat": 51.138908923643, 
+      "lon": 5.6007502181, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leeuwerikstraat"
     }, 
     {
@@ -160,6 +160,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Leeuwerikstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.138788090673, 
+      "lon": 5.601611436509, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leeuwerikstraat"
     }, 
     {
@@ -319,6 +331,10 @@
       "street": "Leeuwerikstraat"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "1/1"
+      ], 
       "hnrlbls": [
         "5"
       ], 

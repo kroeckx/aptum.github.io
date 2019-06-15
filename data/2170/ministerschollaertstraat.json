@@ -294,16 +294,16 @@
       "street": "Minister Schollaertstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "31-31B"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 51.239144517324, 
@@ -329,6 +329,14 @@
       "street": "Minister Schollaertstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "33"
       ], 

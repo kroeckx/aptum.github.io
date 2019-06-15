@@ -622,14 +622,18 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 50.958397770721, 
-      "lon": 3.898299431441, 
+      "lat": 50.958419107155, 
+      "lon": 3.898307330769, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Grote Steenweg"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "153"
       ], 
@@ -704,11 +708,11 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 50.956880914713, 
-      "lon": 3.900558312833, 
+      "lat": 50.956792081649, 
+      "lon": 3.900373031407, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -1199,11 +1203,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.956147473347, 
-      "lon": 3.903620969536, 
+      "lat": 50.955871506411, 
+      "lon": 3.903691165404, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -1351,8 +1355,8 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 50.956712915873, 
-      "lon": 3.902214707559, 
+      "lat": 50.956717378464, 
+      "lon": 3.902183920108, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1914,8 +1918,8 @@
         "258A"
       ], 
       "housenumber": "258A", 
-      "lat": 50.956360945673, 
-      "lon": 3.907429976019, 
+      "lat": 50.956401632579, 
+      "lon": 3.907535753246, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2406,8 +2410,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.963624145992, 
-      "lon": 3.888069448504, 
+      "lat": 50.96362314093, 
+      "lon": 3.888065472981, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 

@@ -188,15 +188,40 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
+        "3", 
+        "4", 
         "5"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.027756327748, 
-      "lon": 3.139487729049, 
+      "lat": 51.027640114975, 
+      "lon": 3.139559635717, 
+      "municipality": "Lichtervelde", 
+      "pcode": "8810", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Marktplaats"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "103", 
+        "104"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.027449226732, 
+      "lon": 3.139539981285, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "manueleAanduidingVanLot", 
@@ -204,41 +229,8 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002", 
-        "101", 
-        "102", 
-        "103"
-      ], 
-      "hnrlbls": [
-        "3-7"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.027499268149, 
-      "lon": 3.139105995211, 
-      "municipality": "Lichtervelde", 
-      "pcode": "8810", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Marktplaats"
-    }, 
-    {
-      "apptnrs": [
-        "001", 
-        "002", 
         "101"
       ], 
-      "hnrlbls": [
-        "3-7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.027499268149, 
-      "lon": 3.139105995211, 
-      "municipality": "Lichtervelde", 
-      "pcode": "8810", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Marktplaats"
-    }, 
-    {
       "hnrlbls": [
         "9"
       ], 
@@ -247,7 +239,7 @@
       "lon": 3.139543080793, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Marktplaats"
     }
   ]

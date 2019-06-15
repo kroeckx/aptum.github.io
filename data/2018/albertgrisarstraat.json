@@ -337,6 +337,11 @@
       "street": "Albert Grisarstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -415,9 +420,6 @@
       "street": "Albert Grisarstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "56"
       ], 

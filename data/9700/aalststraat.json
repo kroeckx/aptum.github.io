@@ -1079,6 +1079,16 @@
       "street": "Aalststraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -1087,7 +1097,7 @@
       "lon": 3.610144954871, 
       "municipality": "Oudenaarde", 
       "pcode": "9700", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Aalststraat"
     }, 
     {
@@ -2311,12 +2321,31 @@
       "street": "Aalststraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.839381453673, 
-      "lon": 3.61513228067, 
+      "lat": 50.839264317763, 
+      "lon": 3.615020857994, 
+      "municipality": "Oudenaarde", 
+      "pcode": "9700", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Aalststraat"
+    }, 
+    {
+      "hnrlbls": [
+        "74A"
+      ], 
+      "housenumber": "74A", 
+      "lat": 50.839368949542, 
+      "lon": 3.615159030907, 
       "municipality": "Oudenaarde", 
       "pcode": "9700", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2335,12 +2364,18 @@
       "street": "Aalststraat"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.839433641731, 
-      "lon": 3.615013460563, 
+      "lat": 50.839443775112, 
+      "lon": 3.615093516243, 
       "municipality": "Oudenaarde", 
       "pcode": "9700", 
       "source": "manueleAanduidingVanGebouw", 

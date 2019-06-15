@@ -85,6 +85,18 @@
       "street": "Leliestraat"
     }, 
     {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 51.067286439791, 
+      "lon": 4.537407083824, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leliestraat"
+    }, 
+    {
       "apptnrs": [
         "1", 
         "11", 
@@ -562,8 +574,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.065429561087, 
-      "lon": 4.558955208789, 
+      "lat": 51.06560270391, 
+      "lon": 4.558556472415, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 

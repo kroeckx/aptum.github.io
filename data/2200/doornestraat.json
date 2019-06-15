@@ -416,11 +416,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.123430558108, 
-      "lon": 4.813619654825, 
+      "lat": 51.123497652587, 
+      "lon": 4.813681143162, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Doornestraat"
     }, 
     {
@@ -437,11 +437,23 @@
     }, 
     {
       "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 51.123971874641, 
+      "lon": 4.812569383311, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Doornestraat"
+    }, 
+    {
+      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.124942473642, 
-      "lon": 4.80828294806, 
+      "lat": 51.124901446402, 
+      "lon": 4.808293131773, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -548,8 +560,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.126833109861, 
-      "lon": 4.795866210136, 
+      "lat": 51.126834728837, 
+      "lon": 4.795865939265, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 

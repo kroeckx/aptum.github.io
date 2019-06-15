@@ -517,6 +517,14 @@
       "street": "Standonklaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -541,6 +549,11 @@
       "street": "Standonklaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -814,8 +827,8 @@
         "84A"
       ], 
       "housenumber": "84A", 
-      "lat": 51.164926804758, 
-      "lon": 4.39269668366, 
+      "lat": 51.16492698441, 
+      "lon": 4.3926972556, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanPerceelGrb", 

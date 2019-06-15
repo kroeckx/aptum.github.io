@@ -78,6 +78,10 @@
       "street": "Van Rossumstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -258,6 +262,10 @@
       "street": "Van Rossumstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -390,9 +398,6 @@
       "street": "Van Rossumstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "39"
       ], 

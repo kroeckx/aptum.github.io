@@ -361,11 +361,35 @@
     }, 
     {
       "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 51.232799515532, 
+      "lon": 2.974421639243, 
+      "municipality": "Bredene", 
+      "pcode": "8450", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
       "lat": 51.232645664631, 
       "lon": 2.974098467989, 
+      "municipality": "Bredene", 
+      "pcode": "8450", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 51.232802254631, 
+      "lon": 2.974493870611, 
       "municipality": "Bredene", 
       "pcode": "8450", 
       "source": "manueleAanduidingVanGebouw", 
@@ -734,6 +758,11 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "70"
       ], 

@@ -326,6 +326,18 @@
     }, 
     {
       "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.908418785441, 
+      "lon": 4.883001107481, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Halensebaan"
+    }, 
+    {
+      "hnrlbls": [
         "131"
       ], 
       "housenumber": "131", 
@@ -857,8 +869,8 @@
         "21_1"
       ], 
       "housenumber": "21_1", 
-      "lat": 50.908501587883, 
-      "lon": 4.884718457347, 
+      "lat": 50.908560914738, 
+      "lon": 4.884739869123, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "manueleAanduidingVanGebouw", 
@@ -869,8 +881,8 @@
         "21_2"
       ], 
       "housenumber": "21_2", 
-      "lat": 50.908503725329, 
-      "lon": 4.884784311931, 
+      "lat": 50.908570104166, 
+      "lon": 4.884817033946, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1196,11 +1208,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.90935632266, 
-      "lon": 4.891295735914, 
+      "lat": 50.909338672171, 
+      "lon": 4.891343029418, 
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Halensebaan"
     }, 
     {
@@ -1297,6 +1309,18 @@
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanGebouw", 
+      "street": "Halensebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.908294013536, 
+      "lon": 4.882179627015, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Halensebaan"
     }, 
     {
@@ -1576,6 +1600,30 @@
       "municipality": "Tielt-Winge", 
       "pcode": "3390", 
       "source": "afgeleidVanGebouw", 
+      "street": "Halensebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 50.908322441852, 
+      "lon": 4.88246217187, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Halensebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9b"
+      ], 
+      "housenumber": "9b", 
+      "lat": 50.908349899821, 
+      "lon": 4.882453088648, 
+      "municipality": "Tielt-Winge", 
+      "pcode": "3390", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Halensebaan"
     }
   ]

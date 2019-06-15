@@ -919,11 +919,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.227402797809, 
-      "lon": 4.419730174972, 
+      "lat": 51.22735036999, 
+      "lon": 4.419582955956, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Oranjestraat"
     }, 
     {
@@ -958,8 +958,8 @@
         "23A"
       ], 
       "housenumber": "23A", 
-      "lat": 51.227436681678, 
-      "lon": 4.41994064729, 
+      "lat": 51.227388042381, 
+      "lon": 4.419763370056, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1000,8 +1000,8 @@
         "23B"
       ], 
       "housenumber": "23B", 
-      "lat": 51.227474335869, 
-      "lon": 4.420161144838, 
+      "lat": 51.227428211004, 
+      "lon": 4.419989882452, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1012,11 +1012,11 @@
         "23C"
       ], 
       "housenumber": "23C", 
-      "lat": 51.227418968331, 
-      "lon": 4.419543664735, 
+      "lat": 51.227479706295, 
+      "lon": 4.420212399626, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oranjestraat"
     }, 
     {
@@ -1603,11 +1603,6 @@
       "street": "Oranjestraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "5"
-      ], 
       "hnrlbls": [
         "60"
       ], 

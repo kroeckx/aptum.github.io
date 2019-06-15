@@ -205,11 +205,39 @@
         "146"
       ], 
       "housenumber": "146", 
+      "lat": 50.980456404793, 
+      "lon": 3.543318287807, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gentsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "146A-146B"
+      ], 
+      "housenumber": "146A", 
       "lat": 50.980442042974, 
       "lon": 3.543334205322, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Gentsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "146A-146B"
+      ], 
+      "housenumber": "146B", 
+      "lat": 50.980442042974, 
+      "lon": 3.543334205322, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gentsesteenweg"
     }, 
     {
@@ -437,20 +465,32 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 50.980349318649, 
-      "lon": 3.545652228853, 
+      "lat": 50.980263418742, 
+      "lon": 3.545735335113, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gentsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "204"
+      ], 
       "hnrlbls": [
         "194"
       ], 
       "housenumber": "194", 
-      "lat": 50.980655886605, 
-      "lon": 3.545616374392, 
+      "lat": 50.980649699404, 
+      "lon": 3.545618619079, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -669,8 +709,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.980892078302, 
-      "lon": 3.54012394229, 
+      "lat": 50.980932066738, 
+      "lon": 3.540211102172, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -693,8 +733,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.980632941101, 
-      "lon": 3.540652865791, 
+      "lat": 50.980628887218, 
+      "lon": 3.540651655684, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -789,8 +829,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.980934841804, 
-      "lon": 3.543383067187, 
+      "lat": 50.98093747146, 
+      "lon": 3.543386296321, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

@@ -241,12 +241,28 @@
       "street": "Hortensiastraat"
     }, 
     {
+      "apptnrs": [
+        "1eVerd", 
+        "GV"
+      ], 
+      "hnrlbls": [
+        "30-30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.800900016213, 
+      "lon": 4.277420834738, 
+      "municipality": "Sint-Pieters-Leeuw", 
+      "pcode": "1600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hortensiastraat"
+    }, 
+    {
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.801116109603, 
-      "lon": 4.277050600134, 
+      "lat": 50.801117907526, 
+      "lon": 4.277050596657, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 

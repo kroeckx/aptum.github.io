@@ -284,18 +284,6 @@
     }, 
     {
       "hnrlbls": [
-        "107B"
-      ], 
-      "housenumber": "107B", 
-      "lat": 51.054983273417, 
-      "lon": 3.74319018849, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dendermondsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "108"
       ], 
       "housenumber": "108", 
@@ -365,7 +353,7 @@
         "0201"
       ], 
       "hnrlbls": [
-        "1-111"
+        "111"
       ], 
       "housenumber": "111", 
       "lat": 51.054899321885, 
@@ -1128,7 +1116,7 @@
       "lon": 3.743518723785, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -1140,7 +1128,7 @@
       "lon": 3.743518723785, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -2691,8 +2679,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "501"
+        "0201"
       ], 
       "hnrlbls": [
         "48-50"
@@ -2931,18 +2918,6 @@
       "housenumber": "58", 
       "lat": 51.055452575115, 
       "lon": 3.74243981164, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Dendermondsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "59"
-      ], 
-      "housenumber": "59", 
-      "lat": 51.055269157937, 
-      "lon": 3.742907099036, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -3470,7 +3445,7 @@
       "lon": 3.74378412783, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -3482,7 +3457,7 @@
       "lon": 3.74385564875, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -3494,7 +3469,7 @@
       "lon": 3.743635157866, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {

@@ -63,6 +63,10 @@
       "street": "Familie De Bayostraat"
     }, 
     {
+      "busnrs": [
+        "01K1", 
+        "02K2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -430,8 +434,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.869598700407, 
-      "lon": 4.704965378893, 
+      "lat": 50.869608611953, 
+      "lon": 4.704957352313, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

@@ -259,8 +259,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.051254494626, 
-      "lon": 4.206861939794, 
+      "lat": 51.0512667059, 
+      "lon": 4.206851914731, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -623,6 +623,14 @@
       "street": "Winkelstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -639,8 +647,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.050428802012, 
-      "lon": 4.207149722053, 
+      "lat": 51.050430422552, 
+      "lon": 4.207151570435, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -675,8 +683,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.050409233698, 
-      "lon": 4.207235784193, 
+      "lat": 51.050410849173, 
+      "lon": 4.207233924689, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -750,8 +758,8 @@
         "47-49"
       ], 
       "housenumber": "47", 
-      "lat": 51.050233328822, 
-      "lon": 4.207374293661, 
+      "lat": 51.050234402824, 
+      "lon": 4.207370867305, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -762,8 +770,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.048490932513, 
-      "lon": 4.206669955881, 
+      "lat": 51.04849102084, 
+      "lon": 4.20666881473, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -779,8 +787,8 @@
         "47-49"
       ], 
       "housenumber": "49", 
-      "lat": 51.050233328822, 
-      "lon": 4.207374293661, 
+      "lat": 51.050234402824, 
+      "lon": 4.207370867305, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -815,8 +823,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.048415642189, 
-      "lon": 4.206697167967, 
+      "lat": 51.048416452951, 
+      "lon": 4.206698448623, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -827,8 +835,8 @@
         "51-53"
       ], 
       "housenumber": "51", 
-      "lat": 51.050124633605, 
-      "lon": 4.207426577195, 
+      "lat": 51.05012652653, 
+      "lon": 4.207430421191, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -851,8 +859,8 @@
         "51-53"
       ], 
       "housenumber": "53", 
-      "lat": 51.050124633605, 
-      "lon": 4.207426577195, 
+      "lat": 51.05012652653, 
+      "lon": 4.207430421191, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -915,8 +923,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.047719853799, 
-      "lon": 4.207918113818, 
+      "lat": 51.047712104315, 
+      "lon": 4.207904165192, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -927,8 +935,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.049961919049, 
-      "lon": 4.207416154669, 
+      "lat": 51.049962112441, 
+      "lon": 4.207426136729, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -1007,15 +1015,18 @@
       "street": "Winkelstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.049770767576, 
-      "lon": 4.207316556118, 
+      "lat": 51.04975012398, 
+      "lon": 4.207339301962, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Winkelstraat"
     }, 
     {
@@ -1124,8 +1135,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.049288703172, 
-      "lon": 4.207261025849, 
+      "lat": 51.049293272147, 
+      "lon": 4.207249744095, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -1304,8 +1315,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.048368875831, 
-      "lon": 4.207337342655, 
+      "lat": 51.048367349658, 
+      "lon": 4.207338773951, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 

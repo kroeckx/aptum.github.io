@@ -64,8 +64,10 @@
       "street": "Weggestraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "14"
@@ -100,8 +102,9 @@
       "street": "Weggestraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "16"

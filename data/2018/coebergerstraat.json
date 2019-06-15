@@ -404,8 +404,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.200852028183, 
-      "lon": 4.396675012439, 
+      "lat": 51.200850949464, 
+      "lon": 4.396675440991, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -610,39 +610,77 @@
       "street": "Coebergerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.200078334466, 
-      "lon": 4.395006068074, 
+      "lat": 51.200093580433, 
+      "lon": 4.395156585435, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Coebergerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.200059492795, 
-      "lon": 4.394856121022, 
+      "lat": 51.200035722254, 
+      "lon": 4.395036374043, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Coebergerstraat"
     }, 
     {
-      "hnrlbls": [
-        "58"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402"
       ], 
-      "housenumber": "58", 
-      "lat": 51.199913107219, 
-      "lon": 4.394694941899, 
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 51.199926295633, 
+      "lon": 4.394803967592, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Coebergerstraat"
     }, 
     {

@@ -474,7 +474,9 @@
       "busnrs": [
         "1", 
         "2", 
-        "4"
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "5"
@@ -500,6 +502,10 @@
       "street": "Bosselaersstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "6"
       ], 

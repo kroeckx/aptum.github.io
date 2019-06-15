@@ -839,12 +839,18 @@
       "street": "Koning Albertstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.185235438483, 
-      "lon": 3.561051720402, 
+      "lat": 51.185308703206, 
+      "lon": 3.561078630644, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 

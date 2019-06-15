@@ -95,14 +95,14 @@
         "1"
       ], 
       "hnrlbls": [
-        "12-16"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.236986725885, 
-      "lon": 4.476243391193, 
+      "lat": 51.236975393265, 
+      "lon": 4.476349606166, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Middelmolenlaan"
     }, 
     {
@@ -229,18 +229,15 @@
       "street": "Middelmolenlaan"
     }, 
     {
-      "busnrs": [
-        "137"
-      ], 
       "hnrlbls": [
         "135-137"
       ], 
       "housenumber": "135", 
-      "lat": 51.235100666447, 
-      "lon": 4.46736908396, 
+      "lat": 51.235078817717, 
+      "lon": 4.467377484823, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Middelmolenlaan"
     }, 
     {
@@ -248,11 +245,11 @@
         "135-137"
       ], 
       "housenumber": "137", 
-      "lat": 51.235100666447, 
-      "lon": 4.46736908396, 
+      "lat": 51.235078817717, 
+      "lon": 4.467377484823, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Middelmolenlaan"
     }, 
     {
@@ -269,7 +266,7 @@
     }, 
     {
       "hnrlbls": [
-        "12-16"
+        "14"
       ], 
       "housenumber": "14", 
       "lat": 51.236986725885, 
@@ -305,14 +302,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-16"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.236986725885, 
-      "lon": 4.476243391193, 
+      "lat": 51.236993643748, 
+      "lon": 4.476246843626, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Middelmolenlaan"
     }, 
     {
@@ -700,11 +697,11 @@
         "33-35"
       ], 
       "housenumber": "33", 
-      "lat": 51.23652664756, 
-      "lon": 4.474720596434, 
+      "lat": 51.236254707494, 
+      "lon": 4.474867592838, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Middelmolenlaan"
     }, 
     {
@@ -724,11 +721,11 @@
         "33-35"
       ], 
       "housenumber": "35", 
-      "lat": 51.23652664756, 
-      "lon": 4.474720596434, 
+      "lat": 51.236254707494, 
+      "lon": 4.474867592838, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Middelmolenlaan"
     }, 
     {
@@ -775,11 +772,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.236396055383, 
-      "lon": 4.474111494, 
+      "lat": 51.236394885874, 
+      "lon": 4.474112636784, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Middelmolenlaan"
     }, 
     {
@@ -816,37 +813,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Middelmolenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "71"
-      ], 
-      "housenumber": "71", 
-      "lat": 51.235964092955, 
-      "lon": 4.47196540048, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
-      "street": "Middelmolenlaan"
-    }, 
-    {
-      "apptnrs": [
-        "0.0", 
-        "0.00"
-      ], 
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "75"
-      ], 
-      "housenumber": "75", 
-      "lat": 51.235907965802, 
-      "lon": 4.471703544114, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Middelmolenlaan"
     }, 
     {

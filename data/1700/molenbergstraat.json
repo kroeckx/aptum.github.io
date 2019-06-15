@@ -303,33 +303,15 @@
       "street": "Molenbergstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 50.844337393114, 
-      "lon": 4.240843603395, 
+      "lat": 50.843960948713, 
+      "lon": 4.241376215029, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Molenbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "153A"
-      ], 
-      "housenumber": "153A", 
-      "lat": 50.843963419586, 
-      "lon": 4.241416674179, 
-      "municipality": "Dilbeek", 
-      "pcode": "1700", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenbergstraat"
     }, 
     {
@@ -814,8 +796,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.844255524844, 
-      "lon": 4.253791542514, 
+      "lat": 50.844293587116, 
+      "lon": 4.25382907635, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1178,6 +1160,10 @@
       "street": "Molenbergstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002"
+      ], 
       "hnrlbls": [
         "99"
       ], 

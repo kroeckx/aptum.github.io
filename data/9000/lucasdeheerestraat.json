@@ -692,6 +692,22 @@
       "street": "Lucas de Heerestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.034490087456, 
+      "lon": 3.725475330951, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lucas de Heerestraat"
+    }, 
+    {
       "hnrlbls": [
         "3"
       ], 

@@ -89,8 +89,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.903912491733, 
-      "lon": 3.889946507399, 
+      "lat": 50.904064513888, 
+      "lon": 3.889772080791, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -137,8 +137,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.907279798964, 
-      "lon": 3.902181589675, 
+      "lat": 50.907342157973, 
+      "lon": 3.902106468747, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -305,8 +305,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.903377143256, 
-      "lon": 3.888112450949, 
+      "lat": 50.903532664043, 
+      "lon": 3.887958883312, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -374,18 +374,6 @@
     }, 
     {
       "hnrlbls": [
-        "131"
-      ], 
-      "housenumber": "131", 
-      "lat": 50.902980103892, 
-      "lon": 3.887635986782, 
-      "municipality": "Herzele", 
-      "pcode": "9552", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Provincieweg"
-    }, 
-    {
-      "hnrlbls": [
         "132"
       ], 
       "housenumber": "132", 
@@ -413,8 +401,20 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 50.903972476898, 
-      "lon": 3.888497615601, 
+      "lat": 50.903937060978, 
+      "lon": 3.888564370477, 
+      "municipality": "Herzele", 
+      "pcode": "9552", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Provincieweg"
+    }, 
+    {
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 50.903228784489, 
+      "lon": 3.887357637569, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -541,7 +541,7 @@
       "lon": 3.887424345173, 
       "municipality": "Herzele", 
       "pcode": "9552", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Provincieweg"
     }, 
     {
@@ -633,8 +633,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.903382275496, 
-      "lon": 3.886533483348, 
+      "lat": 50.903500790379, 
+      "lon": 3.886607190437, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -861,8 +861,8 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 50.902486134139, 
-      "lon": 3.885510982307, 
+      "lat": 50.902762246822, 
+      "lon": 3.884581791397, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1125,8 +1125,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 50.900849956353, 
-      "lon": 3.88222214835, 
+      "lat": 50.900914209586, 
+      "lon": 3.882216792201, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1149,8 +1149,8 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 50.900803779649, 
-      "lon": 3.882120697429, 
+      "lat": 50.900811181249, 
+      "lon": 3.882106262662, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1549,8 +1549,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.906162940397, 
-      "lon": 3.897380156455, 
+      "lat": 50.906231371836, 
+      "lon": 3.89736297793, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1561,8 +1561,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.90653357083, 
-      "lon": 3.897669752092, 
+      "lat": 50.906639748559, 
+      "lon": 3.897717455105, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1602,8 +1602,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.906509764179, 
-      "lon": 3.897516581531, 
+      "lat": 50.906559850302, 
+      "lon": 3.897497738655, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1923,11 +1923,11 @@
     }, 
     {
       "hnrlbls": [
-        "74-74A"
+        "1A-74A"
       ], 
       "housenumber": "74", 
-      "lat": 50.905259835051, 
-      "lon": 3.893690002357, 
+      "lat": 50.905408817892, 
+      "lon": 3.893696458739, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1940,11 +1940,11 @@
         "0003"
       ], 
       "hnrlbls": [
-        "74-74A"
+        "1A-74A"
       ], 
       "housenumber": "74A", 
-      "lat": 50.905259835051, 
-      "lon": 3.893690002357, 
+      "lat": 50.905408817892, 
+      "lon": 3.893696458739, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2013,8 +2013,8 @@
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 50.90742982081, 
-      "lon": 3.90231417648, 
+      "lat": 50.907384559086, 
+      "lon": 3.902348322106, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2037,8 +2037,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.905100142053, 
-      "lon": 3.893213346328, 
+      "lat": 50.905090883199, 
+      "lon": 3.893213439974, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2123,20 +2123,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.904789306195, 
-      "lon": 3.89210868632, 
-      "municipality": "Herzele", 
-      "pcode": "9552", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Provincieweg"
-    }, 
-    {
-      "hnrlbls": [
-        "89"
-      ], 
-      "housenumber": "89", 
-      "lat": 50.904304329538, 
-      "lon": 3.891114002062, 
+      "lat": 50.904779502229, 
+      "lon": 3.892107363991, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2318,8 +2306,8 @@
         "99A"
       ], 
       "housenumber": "99A", 
-      "lat": 50.904130169524, 
-      "lon": 3.89015527091, 
+      "lat": 50.904178032597, 
+      "lon": 3.890208950522, 
       "municipality": "Herzele", 
       "pcode": "9552", 
       "source": "manueleAanduidingVanGebouw", 

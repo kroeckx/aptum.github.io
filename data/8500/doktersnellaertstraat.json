@@ -469,27 +469,35 @@
       "street": "Dokter Snellaertstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026"
+      ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.825995224656, 
-      "lon": 3.290632154867, 
+      "lat": 50.826126285659, 
+      "lon": 3.290913612221, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dokter Snellaertstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "48"
-      ], 
-      "housenumber": "48", 
-      "lat": 50.825990349972, 
-      "lon": 3.29074738458, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dokter Snellaertstraat"
     }, 
     {

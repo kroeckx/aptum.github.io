@@ -50,38 +50,31 @@
     }, 
     {
       "hnrlbls": [
-        "103-107"
+        "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.057056479307, 
-      "lon": 3.737809632109, 
+      "lat": 51.057039208071, 
+      "lon": 3.737790608772, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dampoortstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "103-107"
+        "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.057056479307, 
-      "lon": 3.737809632109, 
+      "lat": 51.057048249125, 
+      "lon": 3.737867510844, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Dampoortstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "103-107"
-      ], 
-      "housenumber": "107", 
-      "lat": 51.057056479307, 
-      "lon": 3.737809632109, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dampoortstraat"
     }, 
     {
@@ -1277,7 +1270,7 @@
       "lon": 3.73667798532, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dampoortstraat"
     }, 
     {
@@ -1594,7 +1587,7 @@
     }, 
     {
       "hnrlbls": [
-        "93-93D"
+        "93-93C"
       ], 
       "housenumber": "93", 
       "lat": 51.057018194206, 
@@ -1606,7 +1599,7 @@
     }, 
     {
       "hnrlbls": [
-        "93-93D"
+        "93-93C"
       ], 
       "housenumber": "93A", 
       "lat": 51.057018194206, 
@@ -1618,7 +1611,7 @@
     }, 
     {
       "hnrlbls": [
-        "93-93D"
+        "93-93C"
       ], 
       "housenumber": "93B", 
       "lat": 51.057018194206, 
@@ -1630,21 +1623,9 @@
     }, 
     {
       "hnrlbls": [
-        "93-93D"
+        "93-93C"
       ], 
       "housenumber": "93C", 
-      "lat": 51.057018194206, 
-      "lon": 3.737458548383, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Dampoortstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "93-93D"
-      ], 
-      "housenumber": "93D", 
       "lat": 51.057018194206, 
       "lon": 3.737458548383, 
       "municipality": "Gent", 
@@ -1738,7 +1719,7 @@
     }, 
     {
       "hnrlbls": [
-        "63-98"
+        "98"
       ], 
       "housenumber": "98", 
       "lat": 51.056882812011, 

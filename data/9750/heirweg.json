@@ -53,11 +53,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.895776921875, 
-      "lon": 3.649323971447, 
+      "lat": 50.895637745229, 
+      "lon": 3.649395043499, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heirweg"
     }, 
     {
@@ -1191,8 +1191,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.897582314383, 
-      "lon": 3.651201198286, 
+      "lat": 50.897582132868, 
+      "lon": 3.65120091675, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
       "source": "afgeleidVanGebouw", 
@@ -1441,7 +1441,7 @@
       "lon": 3.650180593635, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heirweg"
     }, 
     {
@@ -1453,7 +1453,7 @@
       "lon": 3.650174960191, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heirweg"
     }, 
     {
@@ -1477,7 +1477,7 @@
       "lon": 3.650114465718, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heirweg"
     }, 
     {
@@ -1489,7 +1489,7 @@
       "lon": 3.649983624889, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heirweg"
     }, 
     {

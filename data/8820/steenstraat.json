@@ -101,8 +101,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.096392363195, 
-      "lon": 3.066854941353, 
+      "lat": 51.096393017608, 
+      "lon": 3.066849069422, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -521,11 +521,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.09029255826, 
-      "lon": 3.061137050265, 
+      "lat": 51.090283993001, 
+      "lon": 3.061126725801, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Steenstraat"
     }, 
     {
@@ -569,8 +569,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.090327015279, 
-      "lon": 3.060628449448, 
+      "lat": 51.090322297161, 
+      "lon": 3.060616447184, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -581,8 +581,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.090694928626, 
-      "lon": 3.061474842469, 
+      "lat": 51.090695797318, 
+      "lon": 3.061472105823, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -817,8 +817,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.091314851065, 
-      "lon": 3.062737060567, 
+      "lat": 51.091311968767, 
+      "lon": 3.062736570003, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -985,8 +985,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.093102435864, 
-      "lon": 3.063896217695, 
+      "lat": 51.093105832029, 
+      "lon": 3.06388627227, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -1069,8 +1069,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.093526198169, 
-      "lon": 3.064893030958, 
+      "lat": 51.0935169033, 
+      "lon": 3.064898001279, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -1280,8 +1280,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.094904327209, 
-      "lon": 3.064870606708, 
+      "lat": 51.094894717065, 
+      "lon": 3.064887721338, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -1301,26 +1301,26 @@
     }, 
     {
       "hnrlbls": [
-        "80"
+        "80-80A"
       ], 
       "housenumber": "80", 
-      "lat": 51.094907491585, 
-      "lon": 3.06521387818, 
+      "lat": 51.094982921044, 
+      "lon": 3.065124544094, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Steenstraat"
     }, 
     {
       "hnrlbls": [
-        "80A"
+        "80-80A"
       ], 
       "housenumber": "80A", 
-      "lat": 51.094958341835, 
-      "lon": 3.065381642665, 
+      "lat": 51.094982921044, 
+      "lon": 3.065124544094, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Steenstraat"
     }, 
     {
@@ -1340,8 +1340,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.095071042555, 
-      "lon": 3.065362083875, 
+      "lat": 51.095070238418, 
+      "lon": 3.06536253459, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -1412,8 +1412,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.096049756582, 
-      "lon": 3.066969843255, 
+      "lat": 51.096041131604, 
+      "lon": 3.066986644902, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 

@@ -224,10 +224,10 @@
       "street": "Beeldhouwersstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "4"
@@ -351,6 +351,13 @@
       "street": "Beeldhouwersstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "6"
       ], 

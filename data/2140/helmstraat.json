@@ -580,8 +580,8 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.21784490206, 
-      "lon": 4.436085179898, 
+      "lat": 51.21784706051, 
+      "lon": 4.436083036195, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanPerceelGrb", 
@@ -842,21 +842,6 @@
     }, 
     {
       "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "158_3"
-      ], 
-      "housenumber": "158_3", 
-      "lat": 51.218029465601, 
-      "lon": 4.436961797684, 
-      "municipality": "Antwerpen", 
-      "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Helmstraat"
-    }, 
-    {
-      "busnrs": [
         "2"
       ], 
       "hnrlbls": [
@@ -871,6 +856,14 @@
       "street": "Helmstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -1883,11 +1876,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.218033705352, 
-      "lon": 4.43489981563, 
+      "lat": 51.218394807046, 
+      "lon": 4.434514038417, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Helmstraat"
     }, 
     {

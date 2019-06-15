@@ -1100,11 +1100,11 @@
         "342A"
       ], 
       "housenumber": "342A", 
-      "lat": 51.232923382299, 
-      "lon": 3.445991258967, 
+      "lat": 51.232878635129, 
+      "lon": 3.445901367594, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aardenburgkalseide"
     }, 
     {
@@ -1112,8 +1112,8 @@
         "342B"
       ], 
       "housenumber": "342B", 
-      "lat": 51.232886171362, 
-      "lon": 3.445553719039, 
+      "lat": 51.232886693871, 
+      "lon": 3.445551560989, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1153,6 +1153,18 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Aardenburgkalseide"
+    }, 
+    {
+      "hnrlbls": [
+        "347"
+      ], 
+      "housenumber": "347", 
+      "lat": 51.228348369369, 
+      "lon": 3.4471745403, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Aardenburgkalseide"
     }, 
     {
@@ -1477,6 +1489,18 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Aardenburgkalseide"
+    }, 
+    {
+      "hnrlbls": [
+        "388A"
+      ], 
+      "housenumber": "388A", 
+      "lat": 51.239098808213, 
+      "lon": 3.447013538068, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Aardenburgkalseide"
     }, 
     {

@@ -20,8 +20,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.805480202732, 
-      "lon": 5.084814800245, 
+      "lat": 50.805477230224, 
+      "lon": 5.08481574809, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -675,8 +675,8 @@
         "141B"
       ], 
       "housenumber": "141B", 
-      "lat": 50.810312574378, 
-      "lon": 5.12375776435, 
+      "lat": 50.810339650202, 
+      "lon": 5.123769266782, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -771,8 +771,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.808728507274, 
-      "lon": 5.114192330849, 
+      "lat": 50.808697996115, 
+      "lon": 5.114197806151, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -858,8 +858,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.808712614705, 
-      "lon": 5.115247425825, 
+      "lat": 50.808706222458, 
+      "lon": 5.115248885046, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -996,8 +996,8 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 50.808944061906, 
-      "lon": 5.117675943609, 
+      "lat": 50.808952074951, 
+      "lon": 5.117674084875, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -1407,6 +1407,9 @@
       "street": "Grote Steenweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "35A"
       ], 
@@ -1841,8 +1844,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.807851351755, 
-      "lon": 5.102594370418, 
+      "lat": 50.807855544649, 
+      "lon": 5.102599543671, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -1973,6 +1976,21 @@
       "street": "Grote Steenweg"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "75A"
+      ], 
+      "housenumber": "75A", 
+      "lat": 50.808202077111, 
+      "lon": 5.104824589198, 
+      "municipality": "Zoutleeuw", 
+      "pcode": "3440", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grote Steenweg"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -2051,6 +2069,10 @@
       "street": "Grote Steenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "81"
       ], 
@@ -2181,11 +2203,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.808533804267, 
-      "lon": 5.109699567367, 
+      "lat": 50.808532926106, 
+      "lon": 5.109710478685, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Steenweg"
     }, 
     {

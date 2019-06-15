@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.735152506114, 
-      "lon": 3.59940534489, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Stooktstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -389,11 +377,11 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.735855101052, 
-      "lon": 3.606762684666, 
+      "lat": 50.735813153858, 
+      "lon": 3.606699329081, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stooktstraat"
     }, 
     {
@@ -413,11 +401,11 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.735856005995, 
-      "lon": 3.606929411847, 
+      "lat": 50.735810133235, 
+      "lon": 3.606815402873, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stooktstraat"
     }, 
     {
@@ -437,11 +425,11 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.735872747262, 
-      "lon": 3.60705678323, 
+      "lat": 50.735856005995, 
+      "lon": 3.606929411847, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stooktstraat"
     }, 
     {
@@ -461,11 +449,11 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.735859015427, 
-      "lon": 3.607212413474, 
+      "lat": 50.735821704221, 
+      "lon": 3.607046274283, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stooktstraat"
     }, 
     {
@@ -478,6 +466,18 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Stooktstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "162"
+      ], 
+      "housenumber": "162", 
+      "lat": 50.735914346008, 
+      "lon": 3.607066594729, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stooktstraat"
     }, 
     {
@@ -509,11 +509,11 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.735937147047, 
-      "lon": 3.607310177084, 
+      "lat": 50.735854911668, 
+      "lon": 3.60721729641, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stooktstraat"
     }, 
     {
@@ -533,11 +533,11 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.735945066622, 
-      "lon": 3.607408224477, 
+      "lat": 50.735937325912, 
+      "lon": 3.607310032529, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stooktstraat"
     }, 
     {
@@ -569,11 +569,11 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.735993942559, 
-      "lon": 3.607472602357, 
+      "lat": 50.735950788609, 
+      "lon": 3.607444823872, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stooktstraat"
     }, 
     {
@@ -583,18 +583,6 @@
       "housenumber": "171", 
       "lat": 50.735799740906, 
       "lon": 3.605716379434, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Stooktstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "172"
-      ], 
-      "housenumber": "172", 
-      "lat": 50.735880510539, 
-      "lon": 3.607628566903, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 

@@ -113,7 +113,7 @@
       "l": 4.083822303693, 
       "name": "Aldriezen", 
       "numOfAddr": 8, 
-      "r": 4.090330643871, 
+      "r": 4.090357127637, 
       "sanName": "aldriezen", 
       "t": 50.857727597222
     }, 
@@ -121,7 +121,7 @@
       "b": 50.880353556046, 
       "l": 4.090323882031, 
       "name": "Appelboomstraat", 
-      "numOfAddr": 24, 
+      "numOfAddr": 22, 
       "r": 4.091394985296, 
       "sanName": "appelboomstraat", 
       "t": 50.881762548004
@@ -455,7 +455,7 @@
       "l": 4.07929472882, 
       "name": "Heuvelkouterweg", 
       "numOfAddr": 30, 
-      "r": 4.083143976654, 
+      "r": 4.083199580513, 
       "sanName": "heuvelkouterweg", 
       "t": 50.869350619666
     }, 
@@ -499,7 +499,7 @@
       "b": 50.8619493292, 
       "l": 4.071955629751, 
       "name": "Houtmarktstraat", 
-      "numOfAddr": 146, 
+      "numOfAddr": 151, 
       "r": 4.080672211377, 
       "sanName": "houtmarktstraat", 
       "t": 50.869764510985
@@ -643,10 +643,19 @@
       "b": 50.857644857978, 
       "l": 4.115667631857, 
       "name": "Lijsterlaan", 
-      "numOfAddr": 36, 
+      "numOfAddr": 37, 
       "r": 4.118405678795, 
       "sanName": "lijsterlaan", 
       "t": 50.859553326966
+    }, 
+    {
+      "b": 50.862505888568, 
+      "l": 4.091789021851, 
+      "name": "Lindebergstraat", 
+      "numOfAddr": 2, 
+      "r": 4.092608481912, 
+      "sanName": "lindebergstraat", 
+      "t": 50.862672233961
     }, 
     {
       "b": 50.872464981822, 
@@ -679,7 +688,7 @@
       "b": 50.873660727469, 
       "l": 4.085116341909, 
       "name": "Meersstraat", 
-      "numOfAddr": 197, 
+      "numOfAddr": 198, 
       "r": 4.092277070911, 
       "sanName": "meersstraat", 
       "t": 50.880877192534
@@ -770,7 +779,7 @@
       "l": 4.083488995837, 
       "name": "Mulhofstraat", 
       "numOfAddr": 11, 
-      "r": 4.085003084893, 
+      "r": 4.0850038016, 
       "sanName": "mulhofstraat", 
       "t": 50.864053436817
     }, 
@@ -842,9 +851,9 @@
       "l": 4.088865347384, 
       "name": "Oude Bombardonstraat", 
       "numOfAddr": 18, 
-      "r": 4.090051756749, 
+      "r": 4.090054753286, 
       "sanName": "oudebombardonstraat", 
-      "t": 50.868763530091
+      "t": 50.868761289811
     }, 
     {
       "b": 50.878295334762, 
@@ -1000,7 +1009,7 @@
       "t": 50.862755950899
     }, 
     {
-      "b": 50.875773713492, 
+      "b": 50.875724658737, 
       "l": 4.098795472204, 
       "name": "Rozenlaan", 
       "numOfAddr": 27, 
@@ -1012,7 +1021,7 @@
       "b": 50.871849812629, 
       "l": 4.096259479386, 
       "name": "Salvialaan", 
-      "numOfAddr": 51, 
+      "numOfAddr": 52, 
       "r": 4.099358572608, 
       "sanName": "salvialaan", 
       "t": 50.874520212875
@@ -1099,20 +1108,20 @@
       "t": 50.859479123062
     }, 
     {
-      "b": 50.878174874165, 
+      "b": 50.87817487714, 
       "l": 4.093142784426, 
       "name": "Valierstraat", 
       "numOfAddr": 29, 
-      "r": 4.094973453292, 
+      "r": 4.09497473208, 
       "sanName": "valierstraat", 
       "t": 50.879608526589
     }, 
     {
       "b": 50.868651009867, 
-      "l": 4.089142452272, 
+      "l": 4.089141316868, 
       "name": "Velodroomplein", 
       "numOfAddr": 5, 
-      "r": 4.089670838504, 
+      "r": 4.089655435699, 
       "sanName": "velodroomplein", 
       "t": 50.868921236195
     }, 
@@ -1138,7 +1147,7 @@
       "b": 50.864581304868, 
       "l": 4.080900476014, 
       "name": "Vijfhoekstraat", 
-      "numOfAddr": 88, 
+      "numOfAddr": 89, 
       "r": 4.083292978837, 
       "sanName": "vijfhoekstraat", 
       "t": 50.869436201423

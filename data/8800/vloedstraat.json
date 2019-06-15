@@ -125,8 +125,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.972902396115, 
-      "lon": 3.146383978019, 
+      "lat": 50.972807959477, 
+      "lon": 3.144745910784, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -187,6 +187,18 @@
       "housenumber": "29", 
       "lat": 50.972936136952, 
       "lon": 3.150043929838, 
+      "municipality": "Roeselare", 
+      "pcode": "8800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vloedstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.972771473035, 
+      "lon": 3.144807807823, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -265,6 +277,18 @@
       "street": "Vloedstraat"
     }, 
     {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.97281396019, 
+      "lon": 3.144847423975, 
+      "municipality": "Roeselare", 
+      "pcode": "8800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vloedstraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -300,6 +324,18 @@
     }, 
     {
       "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.97277596262, 
+      "lon": 3.144893696971, 
+      "municipality": "Roeselare", 
+      "pcode": "8800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vloedstraat"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -312,11 +348,47 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.972823752487, 
+      "lon": 3.144959090674, 
+      "municipality": "Roeselare", 
+      "pcode": "8800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vloedstraat"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
       "lat": 50.973347490394, 
       "lon": 3.146693623806, 
+      "municipality": "Roeselare", 
+      "pcode": "8800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vloedstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.972902396115, 
+      "lon": 3.146383978019, 
+      "municipality": "Roeselare", 
+      "pcode": "8800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vloedstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 50.972771325567, 
+      "lon": 3.14589171873, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 

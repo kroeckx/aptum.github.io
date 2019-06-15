@@ -445,8 +445,8 @@
         "136-138"
       ], 
       "housenumber": "136", 
-      "lat": 51.25441304613, 
-      "lon": 4.445173597204, 
+      "lat": 51.254412776015, 
+      "lon": 4.445174312936, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -473,8 +473,8 @@
         "136-138"
       ], 
       "housenumber": "138", 
-      "lat": 51.25441304613, 
-      "lon": 4.445173597204, 
+      "lat": 51.254412776015, 
+      "lon": 4.445174312936, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1972,8 +1972,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.252930116724, 
-      "lon": 4.44427036155, 
+      "lat": 51.25292894825, 
+      "lon": 4.444270359639, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -2100,8 +2100,9 @@
       "street": "Moeshofstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "93"

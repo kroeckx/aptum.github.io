@@ -293,11 +293,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.949605862492, 
-      "lon": 4.450213374077, 
+      "lat": 50.949553077179, 
+      "lon": 4.450239750317, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kluitingstraat"
     }, 
     {
@@ -833,6 +833,9 @@
         "0", 
         "1"
       ], 
+      "busnrs": [
+        "01/1"
+      ], 
       "hnrlbls": [
         "86"
       ], 
@@ -924,8 +927,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.947937047563, 
-      "lon": 4.458135559944, 
+      "lat": 50.947940108375, 
+      "lon": 4.458129731525, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 

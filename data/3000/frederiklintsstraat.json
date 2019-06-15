@@ -111,8 +111,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.871961292632, 
-      "lon": 4.706135654303, 
+      "lat": 50.871963892587, 
+      "lon": 4.706138088221, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -131,10 +131,6 @@
       "street": "Frederik Lintsstraat"
     }, 
     {
-      "apptnrs": [
-        "0201", 
-        "0202"
-      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -1059,6 +1055,16 @@
       "street": "Frederik Lintsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "182"
       ], 
@@ -2098,8 +2104,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.872771587779, 
-      "lon": 4.70567491534, 
+      "lat": 50.872775660752, 
+      "lon": 4.705696539799, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2410,7 +2416,8 @@
         "0101", 
         "0201", 
         "0202", 
-        "0301"
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "81"
@@ -2729,8 +2736,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.870532922237, 
-      "lon": 4.70769976127, 
+      "lat": 50.870532662836, 
+      "lon": 4.707696207724, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

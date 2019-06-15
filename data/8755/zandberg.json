@@ -17,11 +17,23 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.072496180865, 
-      "lon": 3.390249987271, 
+      "lat": 51.072381102269, 
+      "lon": 3.390086158142, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Zandberg"
+    }, 
+    {
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 51.072365522894, 
+      "lon": 3.390180374344, 
+      "municipality": "Ruiselede", 
+      "pcode": "8755", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Zandberg"
     }, 
     {
@@ -101,8 +113,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.071899668817, 
-      "lon": 3.390417559789, 
+      "lat": 51.071931480846, 
+      "lon": 3.39042702586, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -209,11 +221,35 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.072525661009, 
-      "lon": 3.390010934048, 
+      "lat": 51.072451516171, 
+      "lon": 3.389775046575, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Zandberg"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 51.072428420198, 
+      "lon": 3.389873415561, 
+      "municipality": "Ruiselede", 
+      "pcode": "8755", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Zandberg"
+    }, 
+    {
+      "hnrlbls": [
+        "8B"
+      ], 
+      "housenumber": "8B", 
+      "lat": 51.072405407025, 
+      "lon": 3.389981771074, 
+      "municipality": "Ruiselede", 
+      "pcode": "8755", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Zandberg"
     }
   ]

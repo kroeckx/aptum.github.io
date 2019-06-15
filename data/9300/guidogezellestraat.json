@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.943755925035, 
+      "lon": 4.059997561182, 
+      "municipality": "Aalst", 
+      "pcode": "9300", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Guido Gezellestraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -607,6 +623,10 @@
       "street": "Guido Gezellestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "67"
       ], 

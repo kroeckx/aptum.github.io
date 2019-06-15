@@ -161,11 +161,11 @@
         "110-112"
       ], 
       "housenumber": "110", 
-      "lat": 51.229524985467, 
-      "lon": 4.451205964467, 
+      "lat": 51.229529280043, 
+      "lon": 4.451234174525, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Deynsestraat"
     }, 
     {
@@ -173,11 +173,11 @@
         "110-112"
       ], 
       "housenumber": "112", 
-      "lat": 51.229524985467, 
-      "lon": 4.451205964467, 
+      "lat": 51.229529280043, 
+      "lon": 4.451234174525, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Deynsestraat"
     }, 
     {
@@ -1290,11 +1290,11 @@
         "59-61"
       ], 
       "housenumber": "59", 
-      "lat": 51.228430004297, 
-      "lon": 4.451232642775, 
+      "lat": 51.228429999162, 
+      "lon": 4.451239943722, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Deynsestraat"
     }, 
     {
@@ -1326,11 +1326,11 @@
         "59-61"
       ], 
       "housenumber": "61", 
-      "lat": 51.228430004297, 
-      "lon": 4.451232642775, 
+      "lat": 51.228429999162, 
+      "lon": 4.451239943722, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Deynsestraat"
     }, 
     {
@@ -1569,18 +1569,6 @@
     }, 
     {
       "hnrlbls": [
-        "80-82"
-      ], 
-      "housenumber": "80", 
-      "lat": 51.229062695057, 
-      "lon": 4.451360609495, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Deynsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "79-81"
       ], 
       "housenumber": "81", 
@@ -1593,7 +1581,7 @@
     }, 
     {
       "hnrlbls": [
-        "80-82"
+        "82"
       ], 
       "housenumber": "82", 
       "lat": 51.229062695057, 
@@ -1644,11 +1632,11 @@
         "86-88"
       ], 
       "housenumber": "86", 
-      "lat": 51.229176339978, 
-      "lon": 4.451315145064, 
+      "lat": 51.229176340785, 
+      "lon": 4.451313999799, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Deynsestraat"
     }, 
     {
@@ -1668,11 +1656,11 @@
         "86-88"
       ], 
       "housenumber": "88", 
-      "lat": 51.229176339978, 
-      "lon": 4.451315145064, 
+      "lat": 51.229176340785, 
+      "lon": 4.451313999799, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Deynsestraat"
     }, 
     {

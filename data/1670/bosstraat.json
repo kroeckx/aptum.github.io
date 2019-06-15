@@ -305,11 +305,23 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.723240537599, 
-      "lon": 4.096190808761, 
+      "lat": 50.723408529825, 
+      "lon": 4.095792162721, 
       "municipality": "Pepingen", 
       "pcode": "1670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.72340255906, 
+      "lon": 4.09616254097, 
+      "municipality": "Pepingen", 
+      "pcode": "1670", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bosstraat"
     }, 
     {

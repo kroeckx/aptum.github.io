@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.014862236474, 
-      "lon": 4.201546549715, 
-      "municipality": "Buggenhout", 
-      "pcode": "9255", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Schoolstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -70,6 +58,18 @@
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Schoolstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.014868043863, 
+      "lon": 4.20152144845, 
+      "municipality": "Buggenhout", 
+      "pcode": "9255", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Schoolstraat"
     }, 
     {
@@ -389,18 +389,6 @@
     }, 
     {
       "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 51.014051942748, 
-      "lon": 4.196958189262, 
-      "municipality": "Buggenhout", 
-      "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Schoolstraat"
-    }, 
-    {
-      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -420,7 +408,7 @@
       "lon": 4.196621128356, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -440,8 +428,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.013996379095, 
-      "lon": 4.196579909887, 
+      "lat": 51.014048725981, 
+      "lon": 4.196539105441, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 
@@ -464,8 +452,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.013368126891, 
-      "lon": 4.195101788081, 
+      "lat": 51.013445197726, 
+      "lon": 4.195064026193, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 

@@ -260,18 +260,6 @@
       "street": "Florali\u00ebnlaan"
     }, 
     {
-      "hnrlbls": [
-        "477"
-      ], 
-      "housenumber": "477", 
-      "lat": 51.17898877514, 
-      "lon": 4.428766498701, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Florali\u00ebnlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2", 
@@ -281,8 +269,8 @@
         "479"
       ], 
       "housenumber": "479", 
-      "lat": 51.178710966272, 
-      "lon": 4.428363296604, 
+      "lat": 51.17898877514, 
+      "lon": 4.428766498701, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -301,9 +289,53 @@
         "9"
       ], 
       "hnrlbls": [
-        "481"
+        "481-481B"
       ], 
       "housenumber": "481", 
+      "lat": 51.178710966272, 
+      "lon": 4.428363296604, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Florali\u00ebnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "481-481B"
+      ], 
+      "housenumber": "481A", 
+      "lat": 51.178710966272, 
+      "lon": 4.428363296604, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Florali\u00ebnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "481-481B"
+      ], 
+      "housenumber": "481B", 
+      "lat": 51.178710966272, 
+      "lon": 4.428363296604, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Florali\u00ebnlaan"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
+      "hnrlbls": [
+        "483"
+      ], 
+      "housenumber": "483", 
       "lat": 51.178885895182, 
       "lon": 4.428865895659, 
       "municipality": "Antwerpen", 
@@ -321,9 +353,9 @@
         "22"
       ], 
       "hnrlbls": [
-        "483"
+        "483A"
       ], 
-      "housenumber": "483", 
+      "housenumber": "483A", 
       "lat": 51.178792453166, 
       "lon": 4.428965161492, 
       "municipality": "Antwerpen", 
@@ -576,8 +608,8 @@
         "539"
       ], 
       "housenumber": "539", 
-      "lat": 51.177133491278, 
-      "lon": 4.431762623723, 
+      "lat": 51.177133850897, 
+      "lon": 4.431762481215, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -588,8 +620,8 @@
         "541"
       ], 
       "housenumber": "541", 
-      "lat": 51.177121038715, 
-      "lon": 4.431852266843, 
+      "lat": 51.177120949061, 
+      "lon": 4.431851837725, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 

@@ -41,8 +41,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.186755774548, 
-      "lon": 3.570519611868, 
+      "lat": 51.186813698273, 
+      "lon": 3.570444814988, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -746,6 +746,12 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -1368,8 +1374,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.186814550807, 
-      "lon": 3.569985367133, 
+      "lat": 51.186759619612, 
+      "lon": 3.570024068251, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1404,8 +1410,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.18687378334, 
-      "lon": 3.570064454592, 
+      "lat": 51.18681055801, 
+      "lon": 3.57011288095, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1418,6 +1424,30 @@
       "housenumber": "92", 
       "lat": 51.186626357673, 
       "lon": 3.570283669047, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 51.186870054753, 
+      "lon": 3.570071384119, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1440,11 +1470,95 @@
     }, 
     {
       "hnrlbls": [
+        "95A"
+      ], 
+      "housenumber": "95A", 
+      "lat": 51.186989053055, 
+      "lon": 3.569975802795, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "95C"
+      ], 
+      "housenumber": "95C", 
+      "lat": 51.187051562301, 
+      "lon": 3.569861305105, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "95D"
+      ], 
+      "housenumber": "95D", 
+      "lat": 51.187082551591, 
+      "lon": 3.569804704351, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "95E"
+      ], 
+      "housenumber": "95E", 
+      "lat": 51.187113539887, 
+      "lon": 3.569747960502, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "95F"
+      ], 
+      "housenumber": "95F", 
+      "lat": 51.187144439242, 
+      "lon": 3.569691361136, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "95G"
+      ], 
+      "housenumber": "95G", 
+      "lat": 51.187190256677, 
+      "lon": 3.569607615343, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "96"
       ], 
       "housenumber": "96", 
       "lat": 51.186648994101, 
       "lon": 3.570414446043, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "97E"
+      ], 
+      "housenumber": "97E", 
+      "lat": 51.187354235158, 
+      "lon": 3.569557177641, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 

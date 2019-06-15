@@ -1462,7 +1462,7 @@
       "lon": 3.261078289469, 
       "municipality": "Knokke-Heist", 
       "pcode": "8301", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Elizabetlaan"
     }, 
     {
@@ -2462,6 +2462,22 @@
       "housenumber": "409", 
       "lat": 51.340514092851, 
       "lon": 3.235661320064, 
+      "municipality": "Knokke-Heist", 
+      "pcode": "8301", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elizabetlaan"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "411"
+      ], 
+      "housenumber": "411", 
+      "lat": 51.340513544565, 
+      "lon": 3.235603926363, 
       "municipality": "Knokke-Heist", 
       "pcode": "8301", 
       "source": "manueleAanduidingVanGebouw", 

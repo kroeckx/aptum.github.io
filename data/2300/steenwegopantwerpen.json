@@ -95,27 +95,19 @@
       "street": "Steenweg op Antwerpen"
     }, 
     {
-      "hnrlbls": [
-        "102_1"
+      "busnrs": [
+        "1", 
+        "2"
       ], 
-      "housenumber": "102_1", 
-      "lat": 51.318660647456, 
-      "lon": 4.914219089391, 
+      "hnrlbls": [
+        "102A"
+      ], 
+      "housenumber": "102A", 
+      "lat": 51.318712128323, 
+      "lon": 4.914204345877, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Steenweg op Antwerpen"
-    }, 
-    {
-      "hnrlbls": [
-        "102_2"
-      ], 
-      "housenumber": "102_2", 
-      "lat": 51.318742427041, 
-      "lon": 4.914222057482, 
-      "municipality": "Turnhout", 
-      "pcode": "2300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenweg op Antwerpen"
     }, 
     {

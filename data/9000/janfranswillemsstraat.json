@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-7"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.03871911254, 
-      "lon": 3.72730605149, 
+      "lat": 51.038684170744, 
+      "lon": 3.727310949775, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jan Frans Willemsstraat"
     }, 
     {
@@ -109,6 +109,18 @@
       "street": "Jan Frans Willemsstraat"
     }, 
     {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.038773670532, 
+      "lon": 3.727304734388, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jan Frans Willemsstraat"
+    }, 
+    {
       "apptnrs": [
         "0001", 
         "0101", 
@@ -127,14 +139,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-7"
+        "3-7"
       ], 
       "housenumber": "3", 
-      "lat": 51.03871911254, 
-      "lon": 3.72730605149, 
+      "lat": 51.038864878063, 
+      "lon": 3.727281956145, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jan Frans Willemsstraat"
     }, 
     {
@@ -151,14 +163,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-7"
+        "3-7"
       ], 
       "housenumber": "5", 
-      "lat": 51.03871911254, 
-      "lon": 3.72730605149, 
+      "lat": 51.038864878063, 
+      "lon": 3.727281956145, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jan Frans Willemsstraat"
     }, 
     {
@@ -175,14 +187,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-7"
+        "3-7"
       ], 
       "housenumber": "7", 
-      "lat": 51.03871911254, 
-      "lon": 3.72730605149, 
+      "lat": 51.038864878063, 
+      "lon": 3.727281956145, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jan Frans Willemsstraat"
     }, 
     {

@@ -355,11 +355,11 @@
       "street": "Cockerillkaai"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "501"
       ], 
       "hnrlbls": [
         "37"
@@ -414,6 +414,11 @@
       "street": "Cockerillkaai"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "5-6"
       ], 

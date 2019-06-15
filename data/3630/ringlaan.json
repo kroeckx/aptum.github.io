@@ -582,7 +582,7 @@
     }, 
     {
       "busnrs": [
-        "0"
+        "1"
       ], 
       "hnrlbls": [
         "273A"
@@ -863,8 +863,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.958841359282, 
-      "lon": 5.688741058579, 
+      "lat": 50.958840558375, 
+      "lon": 5.688740324244, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -947,7 +947,7 @@
         "2R"
       ], 
       "hnrlbls": [
-        "4-4L"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 50.957743507985, 
@@ -1030,9 +1030,6 @@
       "street": "Ringlaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "414"
       ], 
@@ -1148,22 +1145,6 @@
       "housenumber": "499", 
       "lat": 50.973464226318, 
       "lon": 5.672706190039, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ringlaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "L1"
-      ], 
-      "hnrlbls": [
-        "4-4L"
-      ], 
-      "housenumber": "4L", 
-      "lat": 50.957743507985, 
-      "lon": 5.693223269803, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -1441,7 +1422,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "8-8B"
+        "8"
       ], 
       "housenumber": "8", 
       "lat": 50.957816098449, 
@@ -1557,18 +1538,6 @@
       "housenumber": "89", 
       "lat": 50.960832153222, 
       "lon": 5.682660932354, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ringlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "8-8B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 50.957816098449, 
-      "lon": 5.692438254704, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 

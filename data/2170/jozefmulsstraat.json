@@ -55,9 +55,13 @@
       "street": "Jozef Mulsstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "13"
@@ -68,21 +72,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jozef Mulsstraat"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "13_1"
-      ], 
-      "housenumber": "13_1", 
-      "lat": 51.251288212391, 
-      "lon": 4.435248005741, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Jozef Mulsstraat"
     }, 
     {
@@ -176,6 +165,11 @@
       "street": "Jozef Mulsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -285,6 +279,11 @@
       "street": "Jozef Mulsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -429,6 +428,11 @@
       "street": "Jozef Mulsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -530,6 +534,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "102", 
         "201", 
@@ -656,8 +661,9 @@
       "street": "Jozef Mulsstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "6"

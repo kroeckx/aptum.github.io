@@ -66,6 +66,30 @@
     }, 
     {
       "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 51.002992794037, 
+      "lon": 4.632621879369, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Oudstrijderslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "14B"
+      ], 
+      "housenumber": "14B", 
+      "lat": 51.003018422455, 
+      "lon": 4.632857523719, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Oudstrijderslaan"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -302,11 +326,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.003027808713, 
-      "lon": 4.630473089272, 
+      "lat": 51.002997679194, 
+      "lon": 4.630560823228, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudstrijderslaan"
     }, 
     {
@@ -391,12 +415,16 @@
       "street": "Oudstrijderslaan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.002589931887, 
-      "lon": 4.62796877919, 
+      "lat": 51.002566411766, 
+      "lon": 4.627954544514, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -410,11 +438,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.002543546502, 
-      "lon": 4.627847282837, 
+      "lat": 51.002550298076, 
+      "lon": 4.627802158376, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudstrijderslaan"
     }, 
     {
@@ -673,6 +701,12 @@
       "street": "Oudstrijderslaan"
     }, 
     {
+      "apptnrs": [
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -715,6 +749,11 @@
       "street": "Oudstrijderslaan"
     }, 
     {
+      "apptnrs": [
+        "6", 
+        "7", 
+        "8"
+      ], 
       "busnrs": [
         "1", 
         "2", 

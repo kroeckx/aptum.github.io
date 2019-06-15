@@ -41,11 +41,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.188972659105, 
-      "lon": 4.375695240099, 
+      "lat": 51.188920612794, 
+      "lon": 4.375740144477, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Alfons De Cockstraat"
     }, 
     {
@@ -222,59 +222,6 @@
     }, 
     {
       "busnrs": [
-        "01", 
-        "02", 
-        "03", 
-        "04"
-      ], 
-      "hnrlbls": [
-        "25-27"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.189771962041, 
-      "lon": 4.373180488916, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons De Cockstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "25-27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.189771962041, 
-      "lon": 4.373180488916, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons De Cockstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "29-31"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.189759926622, 
-      "lon": 4.372964501313, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons De Cockstraat"
-    }, 
-    {
-      "busnrs": [
         "06", 
         "1", 
         "10", 
@@ -326,24 +273,6 @@
       "housenumber": "2C", 
       "lat": 51.189068327669, 
       "lon": 4.376558329873, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Alfons De Cockstraat"
-    }, 
-    {
-      "busnrs": [
-        "0", 
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "29-31"
-      ], 
-      "housenumber": "31", 
-      "lat": 51.189759926622, 
-      "lon": 4.372964501313, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -653,6 +582,34 @@
       "street": "Alfons De Cockstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "403", 
+        "501", 
+        "502", 
+        "503"
+      ], 
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.189786427218, 
+      "lon": 4.373323813933, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Alfons De Cockstraat"
+    }, 
+    {
       "hnrlbls": [
         "66"
       ], 
@@ -677,6 +634,28 @@
       "street": "Alfons De Cockstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 51.189773044349, 
+      "lon": 4.373094666647, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Alfons De Cockstraat"
+    }, 
+    {
       "hnrlbls": [
         "70"
       ], 
@@ -695,6 +674,34 @@
       "housenumber": "72", 
       "lat": 51.190013135819, 
       "lon": 4.372883997511, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Alfons De Cockstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "403", 
+        "501", 
+        "502", 
+        "503"
+      ], 
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 51.189758942728, 
+      "lon": 4.372846495461, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 

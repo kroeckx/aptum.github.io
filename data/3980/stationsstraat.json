@@ -246,8 +246,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.066465560145, 
-      "lon": 5.102444487263, 
+      "lat": 51.066461732447, 
+      "lon": 5.102438435152, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanPerceelGrb", 
@@ -482,11 +482,23 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.067231263258, 
-      "lon": 5.091824774645, 
+      "lat": 51.067279747171, 
+      "lon": 5.091848922533, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 51.067275545247, 
+      "lon": 5.091742711378, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -1178,8 +1190,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.067563610577, 
-      "lon": 5.09509393112, 
+      "lat": 51.067568369291, 
+      "lon": 5.095109413488, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1207,8 +1219,8 @@
         "79-81"
       ], 
       "housenumber": "79", 
-      "lat": 51.067537541014, 
-      "lon": 5.095297972685, 
+      "lat": 51.067537360364, 
+      "lon": 5.095298112547, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -1236,8 +1248,8 @@
         "79-81"
       ], 
       "housenumber": "81", 
-      "lat": 51.067537541014, 
-      "lon": 5.095297972685, 
+      "lat": 51.067537360364, 
+      "lon": 5.095298112547, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -1265,8 +1277,8 @@
         "83-83A"
       ], 
       "housenumber": "83", 
-      "lat": 51.067676609581, 
-      "lon": 5.095355633472, 
+      "lat": 51.067676695063, 
+      "lon": 5.095356348155, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -1282,8 +1294,8 @@
         "83-83A"
       ], 
       "housenumber": "83A", 
-      "lat": 51.067676609581, 
-      "lon": 5.095355633472, 
+      "lat": 51.067676695063, 
+      "lon": 5.095356348155, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 

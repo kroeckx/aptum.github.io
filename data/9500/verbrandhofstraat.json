@@ -1,15 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.774092714258, 
-      "lon": 3.874495725265, 
+      "lat": 50.774085649347, 
+      "lon": 3.874525856157, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Verbrandhofstraat"
     }, 
     {
@@ -170,8 +175,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.77375739218, 
-      "lon": 3.873749951711, 
+      "lat": 50.773758477501, 
+      "lon": 3.873751499858, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 

@@ -1,27 +1,59 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.909275463754, 
+      "lon": 3.389097616867, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Andr\u00e9 Demedtsstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.909322050662, 
-      "lon": 3.388905677241, 
+      "lat": 50.909319644469, 
+      "lon": 3.388875866454, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Andr\u00e9 Demedtsstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.909377560616, 
-      "lon": 3.388705730325, 
+      "lat": 50.909371905894, 
+      "lon": 3.388696036824, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Andr\u00e9 Demedtsstraat"
     }
   ]

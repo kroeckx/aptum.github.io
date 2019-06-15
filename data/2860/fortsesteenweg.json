@@ -17,8 +17,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.066863358152, 
-      "lon": 4.507545859646, 
+      "lat": 51.066873102832, 
+      "lon": 4.507590827169, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
@@ -29,8 +29,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.066827067727, 
-      "lon": 4.507524922846, 
+      "lat": 51.06680596378, 
+      "lon": 4.507508025867, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
@@ -292,8 +292,34 @@
       "street": "Fortsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0008"
+      ], 
       "busnrs": [
-        "3"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0018", 
+        "0019", 
+        "0020", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025"
       ], 
       "hnrlbls": [
         "34"
@@ -427,18 +453,6 @@
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
-      "street": "Fortsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "87"
-      ], 
-      "housenumber": "87", 
-      "lat": 51.066734418883, 
-      "lon": 4.508712445368, 
-      "municipality": "Sint-Katelijne-Waver", 
-      "pcode": "2860", 
-      "source": "afgeleidVanStraat", 
       "street": "Fortsesteenweg"
     }, 
     {

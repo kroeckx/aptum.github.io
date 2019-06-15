@@ -218,16 +218,16 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.259759081996, 
-      "lon": 4.629278353854, 
+      "lat": 51.259733944227, 
+      "lon": 4.629305717481, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
       "street": "Kapellei"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "b1"
       ], 
       "hnrlbls": [
         "116"
@@ -238,21 +238,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Kapellei"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "116b"
-      ], 
-      "housenumber": "116b", 
-      "lat": 51.259533843464, 
-      "lon": 4.628948613263, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kapellei"
     }, 
     {
@@ -272,8 +257,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.262550498646, 
-      "lon": 4.632551346591, 
+      "lat": 51.262557651814, 
+      "lon": 4.632527892286, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -374,8 +359,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.260415975038, 
-      "lon": 4.625450680175, 
+      "lat": 51.260416336435, 
+      "lon": 4.625449822641, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -551,8 +536,14 @@
       "street": "Kapellei"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4"
+      ], 
       "hnrlbls": [
-        "152-152b"
+        "152"
       ], 
       "housenumber": "152", 
       "lat": 51.258430148779, 
@@ -560,23 +551,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapellei"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "152-152b"
-      ], 
-      "housenumber": "152b", 
-      "lat": 51.258430148779, 
-      "lon": 4.626500324438, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kapellei"
     }, 
     {
@@ -596,8 +570,8 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.258376893671, 
-      "lon": 4.622831714142, 
+      "lat": 51.258380579141, 
+      "lon": 4.622831591047, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -635,8 +609,8 @@
         "158-160"
       ], 
       "housenumber": "158", 
-      "lat": 51.258049008778, 
-      "lon": 4.626104851776, 
+      "lat": 51.258045958413, 
+      "lon": 4.626102256421, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -647,8 +621,8 @@
         "158-160"
       ], 
       "housenumber": "158A", 
-      "lat": 51.258049008778, 
-      "lon": 4.626104851776, 
+      "lat": 51.258045958413, 
+      "lon": 4.626102256421, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -663,8 +637,8 @@
         "158-160"
       ], 
       "housenumber": "158B", 
-      "lat": 51.258049008778, 
-      "lon": 4.626104851776, 
+      "lat": 51.258045958413, 
+      "lon": 4.626102256421, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -675,8 +649,8 @@
         "158-160"
       ], 
       "housenumber": "160", 
-      "lat": 51.258049008778, 
-      "lon": 4.626104851776, 
+      "lat": 51.258045958413, 
+      "lon": 4.626102256421, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -799,8 +773,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.256848769551, 
-      "lon": 4.623633832954, 
+      "lat": 51.256849399344, 
+      "lon": 4.623633549921, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -823,11 +797,11 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 51.256968241769, 
-      "lon": 4.622958947516, 
+      "lat": 51.256986226508, 
+      "lon": 4.622955178309, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kapellei"
     }, 
     {
@@ -835,8 +809,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 51.256004937101, 
-      "lon": 4.619569311182, 
+      "lat": 51.256004853613, 
+      "lon": 4.619566302661, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -900,8 +874,8 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.255808290191, 
-      "lon": 4.618289252112, 
+      "lat": 51.25578988738, 
+      "lon": 4.618278266978, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1324,11 +1298,11 @@
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.254484453499, 
-      "lon": 4.618519485811, 
+      "lat": 51.254528167435, 
+      "lon": 4.618420027902, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapellei"
     }, 
     {
@@ -1368,8 +1342,11 @@
       "street": "Kapellei"
     }, 
     {
+      "apptnrs": [
+        "b1"
+      ], 
       "hnrlbls": [
-        "260-260b"
+        "260"
       ], 
       "housenumber": "260", 
       "lat": 51.253982326645, 
@@ -1377,21 +1354,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kapellei"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "260-260b"
-      ], 
-      "housenumber": "260b", 
-      "lat": 51.253982326645, 
-      "lon": 4.617218359341, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kapellei"
     }, 
     {
@@ -1792,8 +1754,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.261570318236, 
-      "lon": 4.630819371647, 
+      "lat": 51.261573242165, 
+      "lon": 4.630797899341, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -2109,20 +2071,15 @@
       "street": "Kapellei"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
-        "64b"
+        "64"
       ], 
-      "housenumber": "64b", 
-      "lat": 51.260933034058, 
-      "lon": 4.631027940388, 
+      "housenumber": "64", 
+      "lat": 51.260942513466, 
+      "lon": 4.631049625661, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellei"
     }, 
     {
@@ -2178,8 +2135,8 @@
         "73-75"
       ], 
       "housenumber": "73", 
-      "lat": 51.260632149273, 
-      "lon": 4.629670039745, 
+      "lat": 51.260631686563, 
+      "lon": 4.629676053889, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -2202,8 +2159,8 @@
         "73-75"
       ], 
       "housenumber": "75", 
-      "lat": 51.260632149273, 
-      "lon": 4.629670039745, 
+      "lat": 51.260631686563, 
+      "lon": 4.629676053889, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -2379,8 +2336,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.260338262555, 
-      "lon": 4.630224791279, 
+      "lat": 51.260334746054, 
+      "lon": 4.630229785409, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

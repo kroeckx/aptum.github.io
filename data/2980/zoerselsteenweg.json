@@ -331,8 +331,14 @@
       "street": "Zoerselsteenweg"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4"
+      ], 
       "hnrlbls": [
-        "33-33C"
+        "33"
       ], 
       "housenumber": "33", 
       "lat": 51.266770384644, 
@@ -344,43 +350,38 @@
     }, 
     {
       "hnrlbls": [
-        "33-33C"
+        "33A"
       ], 
       "housenumber": "33A", 
-      "lat": 51.266770384644, 
-      "lon": 4.641150583663, 
+      "lat": 51.266383638649, 
+      "lon": 4.641025101074, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zoerselsteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
-        "33-33C"
+        "33B"
       ], 
       "housenumber": "33B", 
-      "lat": 51.266770384644, 
-      "lon": 4.641150583663, 
+      "lat": 51.266373213629, 
+      "lon": 4.640907555724, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zoerselsteenweg"
     }, 
     {
       "hnrlbls": [
-        "33-33C"
+        "33C"
       ], 
       "housenumber": "33C", 
-      "lat": 51.266770384644, 
-      "lon": 4.641150583663, 
+      "lat": 51.266367565424, 
+      "lon": 4.640784307457, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zoerselsteenweg"
     }, 
     {
@@ -388,11 +389,11 @@
         "33D"
       ], 
       "housenumber": "33D", 
-      "lat": 51.266390730637, 
-      "lon": 4.640911956535, 
+      "lat": 51.266416903395, 
+      "lon": 4.640631580095, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zoerselsteenweg"
     }, 
     {
@@ -412,8 +413,8 @@
         "35-35B"
       ], 
       "housenumber": "35", 
-      "lat": 51.266707099274, 
-      "lon": 4.641387618513, 
+      "lat": 51.266691326978, 
+      "lon": 4.641406151645, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -427,8 +428,8 @@
         "35-35B"
       ], 
       "housenumber": "35B", 
-      "lat": 51.266707099274, 
-      "lon": 4.641387618513, 
+      "lat": 51.266691326978, 
+      "lon": 4.641406151645, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -453,7 +454,7 @@
         "b3"
       ], 
       "hnrlbls": [
-        "37-41b"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 51.266765756274, 
@@ -524,11 +525,11 @@
       "street": "Zoerselsteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4"
       ], 
       "hnrlbls": [
         "41"
@@ -539,24 +540,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zoerselsteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "37-41b"
-      ], 
-      "housenumber": "41b", 
-      "lat": 51.266765756274, 
-      "lon": 4.641636830851, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zoerselsteenweg"
     }, 
     {
@@ -680,8 +663,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.266733823908, 
-      "lon": 4.642656328668, 
+      "lat": 51.266740461185, 
+      "lon": 4.642662385329, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -804,8 +787,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.266785187117, 
-      "lon": 4.643258242208, 
+      "lat": 51.266770083011, 
+      "lon": 4.64325987227, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -844,7 +827,7 @@
         "b5"
       ], 
       "hnrlbls": [
-        "64-66"
+        "64"
       ], 
       "housenumber": "64", 
       "lat": 51.26707969522, 
@@ -951,8 +934,16 @@
       "street": "Zoerselsteenweg"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4", 
+        "b5", 
+        "b6"
+      ], 
       "hnrlbls": [
-        "70-70b"
+        "70"
       ], 
       "housenumber": "70", 
       "lat": 51.26710137675, 
@@ -960,25 +951,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zoerselsteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "70-70b"
-      ], 
-      "housenumber": "70b", 
-      "lat": 51.26710137675, 
-      "lon": 4.646150125477, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zoerselsteenweg"
     }, 
     {

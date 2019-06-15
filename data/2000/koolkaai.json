@@ -106,9 +106,6 @@
       "street": "Koolkaai"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -118,33 +115,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Koolkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "9A-9B"
-      ], 
-      "housenumber": "9A", 
-      "lat": 51.225103405032, 
-      "lon": 4.400156886251, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koolkaai"
-    }, 
-    {
-      "busnrs": [
-        "3"
-      ], 
-      "hnrlbls": [
-        "9A-9B"
-      ], 
-      "housenumber": "9B", 
-      "lat": 51.225103405032, 
-      "lon": 4.400156886251, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Koolkaai"
     }
   ]

@@ -29,8 +29,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.9321991997, 
-      "lon": 4.536290770429, 
+      "lat": 50.932205403719, 
+      "lon": 4.536289796905, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -61,15 +61,20 @@
       "street": "Haachtsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.932465859215, 
-      "lon": 4.537204565637, 
+      "lat": 50.932514968217, 
+      "lon": 4.537123089211, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Haachtsesteenweg"
     }, 
     {
@@ -89,8 +94,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.932691886976, 
-      "lon": 4.537428861375, 
+      "lat": 50.932692698675, 
+      "lon": 4.537427015003, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -354,8 +359,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.933959026214, 
-      "lon": 4.541187191796, 
+      "lat": 50.9339628961, 
+      "lon": 4.541306133608, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -395,8 +400,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.934205832225, 
-      "lon": 4.541275591478, 
+      "lat": 50.934204842148, 
+      "lon": 4.541276441374, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -410,11 +415,11 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 50.934273365174, 
-      "lon": 4.54150359706, 
+      "lat": 50.934293277416, 
+      "lon": 4.541472515986, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Haachtsesteenweg"
     }, 
     {
@@ -425,8 +430,8 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.934322286052, 
-      "lon": 4.541612463704, 
+      "lat": 50.934312771095, 
+      "lon": 4.541603181682, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -827,27 +832,22 @@
       "street": "Haachtsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
-        "215-215A"
+        "215"
       ], 
       "housenumber": "215", 
-      "lat": 50.934981231371, 
-      "lon": 4.542139701594, 
+      "lat": 50.934955684056, 
+      "lon": 4.542090953605, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Haachtsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "215-215A"
-      ], 
-      "housenumber": "215A", 
-      "lat": 50.934981231371, 
-      "lon": 4.542139701594, 
-      "municipality": "Kampenhout", 
-      "pcode": "1910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Haachtsesteenweg"
     }, 
     {
@@ -967,8 +967,8 @@
         "229"
       ], 
       "housenumber": "229", 
-      "lat": 50.935753504388, 
-      "lon": 4.544129557769, 
+      "lat": 50.93575242312, 
+      "lon": 4.54413126087, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -1081,8 +1081,8 @@
         "248"
       ], 
       "housenumber": "248", 
-      "lat": 50.938237237291, 
-      "lon": 4.551828331413, 
+      "lat": 50.938230549206, 
+      "lon": 4.551851353086, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -1340,8 +1340,8 @@
         "290"
       ], 
       "housenumber": "290", 
-      "lat": 50.939961482918, 
-      "lon": 4.556421923503, 
+      "lat": 50.939964100515, 
+      "lon": 4.556415247037, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -1385,11 +1385,11 @@
         "293"
       ], 
       "housenumber": "293", 
-      "lat": 50.93854801545, 
-      "lon": 4.551240970439, 
+      "lat": 50.938568184027, 
+      "lon": 4.551277755318, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Haachtsesteenweg"
     }, 
     {
@@ -1621,8 +1621,8 @@
         "311"
       ], 
       "housenumber": "311", 
-      "lat": 50.939632619533, 
-      "lon": 4.553903045728, 
+      "lat": 50.939631899494, 
+      "lon": 4.553903611976, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -1838,8 +1838,8 @@
         "348"
       ], 
       "housenumber": "348", 
-      "lat": 50.942778595011, 
-      "lon": 4.563440753316, 
+      "lat": 50.942768177676, 
+      "lon": 4.56343459169, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -2051,8 +2051,8 @@
         "380"
       ], 
       "housenumber": "380", 
-      "lat": 50.943825975147, 
-      "lon": 4.566689420656, 
+      "lat": 50.943827960471, 
+      "lon": 4.566684875851, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -2447,8 +2447,8 @@
         "419"
       ], 
       "housenumber": "419", 
-      "lat": 50.945541876107, 
-      "lon": 4.569316301685, 
+      "lat": 50.945523053553, 
+      "lon": 4.569336711121, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -2471,8 +2471,8 @@
         "421"
       ], 
       "housenumber": "421", 
-      "lat": 50.945528908154, 
-      "lon": 4.569434918431, 
+      "lat": 50.945530348136, 
+      "lon": 4.569433928561, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -2567,8 +2567,8 @@
         "484"
       ], 
       "housenumber": "484", 
-      "lat": 50.947971069615, 
-      "lon": 4.577031867182, 
+      "lat": 50.94797394591, 
+      "lon": 4.577032022296, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -2779,11 +2779,11 @@
         "509"
       ], 
       "housenumber": "509", 
-      "lat": 50.949549792134, 
-      "lon": 4.579330869526, 
+      "lat": 50.9495997778, 
+      "lon": 4.57917783173, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Haachtsesteenweg"
     }, 
     {
@@ -2810,8 +2810,8 @@
         "512"
       ], 
       "housenumber": "512", 
-      "lat": 50.949265663845, 
-      "lon": 4.580465463602, 
+      "lat": 50.94926900168, 
+      "lon": 4.580458932714, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -2906,8 +2906,8 @@
         "520"
       ], 
       "housenumber": "520", 
-      "lat": 50.949694828392, 
-      "lon": 4.581449031973, 
+      "lat": 50.949694197339, 
+      "lon": 4.581450025242, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -2999,8 +2999,8 @@
         "531"
       ], 
       "housenumber": "531", 
-      "lat": 50.950417092844, 
-      "lon": 4.582055561226, 
+      "lat": 50.950417996428, 
+      "lon": 4.582053003805, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -3150,8 +3150,8 @@
         "549"
       ], 
       "housenumber": "549", 
-      "lat": 50.951403350698, 
-      "lon": 4.584388552409, 
+      "lat": 50.951409454972, 
+      "lon": 4.584393134514, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -3234,8 +3234,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.92962180782, 
-      "lon": 4.529676970316, 
+      "lat": 50.92960609009, 
+      "lon": 4.529667101307, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -3318,8 +3318,8 @@
         "582"
       ], 
       "housenumber": "582", 
-      "lat": 50.952415737441, 
-      "lon": 4.588397653625, 
+      "lat": 50.952414207411, 
+      "lon": 4.588398642635, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -3390,8 +3390,8 @@
         "599"
       ], 
       "housenumber": "599", 
-      "lat": 50.953008929004, 
-      "lon": 4.588594986144, 
+      "lat": 50.953013288133, 
+      "lon": 4.588571382212, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 

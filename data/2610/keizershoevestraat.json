@@ -213,9 +213,10 @@
       "street": "Keizershoevestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "25"
@@ -253,8 +254,10 @@
       "street": "Keizershoevestraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "28"
@@ -414,6 +417,11 @@
       "street": "Keizershoevestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "37"
       ], 

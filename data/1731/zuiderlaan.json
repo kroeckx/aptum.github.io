@@ -63,8 +63,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.87851026963, 
-      "lon": 4.282940032187, 
+      "lat": 50.878514220134, 
+      "lon": 4.282933346817, 
       "municipality": "Asse", 
       "pcode": "1731", 
       "source": "afgeleidVanGebouw", 
@@ -398,13 +398,25 @@
       "street": "Zuiderlaan"
     }, 
     {
+      "hnrlbls": [
+        "73-75"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.879386157046, 
+      "lon": 4.284632468733, 
+      "municipality": "Asse", 
+      "pcode": "1731", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zuiderlaan"
+    }, 
+    {
       "busnrs": [
-        "2", 
-        "3", 
-        "4"
+        "0101", 
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
-        "75"
+        "73-75"
       ], 
       "housenumber": "75", 
       "lat": 50.879386157046, 

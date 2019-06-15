@@ -314,18 +314,69 @@
       "street": "Dorp"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.230765065834, 
+      "lon": 5.309007389186, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorp"
+    }, 
+    {
       "busnrs": [
-        "102"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.230689330556, 
-      "lon": 5.309148891615, 
+      "lat": 51.230782519493, 
+      "lon": 5.309174969454, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "23A"
+      ], 
+      "housenumber": "23A", 
+      "lat": 51.23086245502, 
+      "lon": 5.309352831536, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.230950865843, 
+      "lon": 5.309538740038, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -585,6 +636,9 @@
       "street": "Dorp"
     }, 
     {
+      "apptnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "40"
       ], 

@@ -398,8 +398,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.146936511799, 
-      "lon": 4.568812223443, 
+      "lat": 51.146935336962, 
+      "lon": 4.568815933965, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -422,8 +422,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.146974556447, 
-      "lon": 4.568798953741, 
+      "lat": 51.146969784223, 
+      "lon": 4.568803792059, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -819,6 +819,28 @@
       "street": "Hagenbroeksesteenweg"
     }, 
     {
+      "apptnrs": [
+        "6"
+      ], 
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "165B"
+      ], 
+      "housenumber": "165B", 
+      "lat": 51.14839258557, 
+      "lon": 4.566740555308, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hagenbroeksesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "167"
       ], 
@@ -949,6 +971,18 @@
       "housenumber": "173", 
       "lat": 51.149459880391, 
       "lon": 4.562814237069, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hagenbroeksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "173A"
+      ], 
+      "housenumber": "173A", 
+      "lat": 51.149439757403, 
+      "lon": 4.562752700017, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1908,6 +1942,18 @@
     }, 
     {
       "hnrlbls": [
+        "251"
+      ], 
+      "housenumber": "251", 
+      "lat": 51.154676293295, 
+      "lon": 4.555182220087, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "street": "Hagenbroeksesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "252"
       ], 
       "housenumber": "252", 
@@ -2718,28 +2764,16 @@
       "street": "Hagenbroeksesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
       "lat": 51.146143427734, 
       "lon": 4.574295050559, 
-      "municipality": "Lier", 
-      "pcode": "2500", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Hagenbroeksesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "38B"
-      ], 
-      "housenumber": "38B", 
-      "lat": 51.146215034463, 
-      "lon": 4.574365389944, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

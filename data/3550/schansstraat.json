@@ -137,8 +137,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.04311658271, 
-      "lon": 5.302517155714, 
+      "lat": 51.043117123136, 
+      "lon": 5.302517023903, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -161,8 +161,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.04316622081, 
-      "lon": 5.302571907122, 
+      "lat": 51.043166126403, 
+      "lon": 5.302572475639, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -301,16 +301,12 @@
       "street": "Schansstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.043392913337, 
-      "lon": 5.301861287805, 
+      "lat": 51.043298769647, 
+      "lon": 5.3016372373, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -318,11 +314,23 @@
     }, 
     {
       "hnrlbls": [
-        "125A"
+        "125_1"
       ], 
-      "housenumber": "125A", 
-      "lat": 51.04372388444, 
-      "lon": 5.301309175185, 
+      "housenumber": "125_1", 
+      "lat": 51.043402703175, 
+      "lon": 5.301851073221, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "125_2"
+      ], 
+      "housenumber": "125_2", 
+      "lat": 51.043477357752, 
+      "lon": 5.302095412978, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -333,8 +341,8 @@
         "126_1"
       ], 
       "housenumber": "126_1", 
-      "lat": 51.043958572875, 
-      "lon": 5.304687984385, 
+      "lat": 51.043949220038, 
+      "lon": 5.304711041518, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -613,8 +621,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.045827313194, 
-      "lon": 5.30617200451, 
+      "lat": 51.045827396262, 
+      "lon": 5.306172861827, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1392,11 +1400,11 @@
         "20_1"
       ], 
       "housenumber": "20_1", 
-      "lat": 51.039267653962, 
-      "lon": 5.288475770093, 
+      "lat": 51.039266858387, 
+      "lon": 5.288474043389, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schansstraat"
     }, 
     {
@@ -1404,8 +1412,8 @@
         "20_2"
       ], 
       "housenumber": "20_2", 
-      "lat": 51.0392759989, 
-      "lon": 5.288604263734, 
+      "lat": 51.03924813004, 
+      "lon": 5.2885583726, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -2670,6 +2678,18 @@
       "housenumber": "45", 
       "lat": 51.040078812012, 
       "lon": 5.29357765215, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 51.0395170664, 
+      "lon": 5.292487857897, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 

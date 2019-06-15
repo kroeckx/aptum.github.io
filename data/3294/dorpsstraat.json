@@ -248,35 +248,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.003293689228, 
-      "lon": 5.016354269664, 
+      "lat": 51.003362025386, 
+      "lon": 5.016465489862, 
       "municipality": "Diest", 
       "pcode": "3294", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24A"
-      ], 
-      "housenumber": "24A", 
-      "lat": 51.00336067472, 
-      "lon": 5.016465898589, 
-      "municipality": "Diest", 
-      "pcode": "3294", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24B"
-      ], 
-      "housenumber": "24B", 
-      "lat": 51.003277522956, 
-      "lon": 5.01648212947, 
-      "municipality": "Diest", 
-      "pcode": "3294", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -863,11 +839,11 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.0009597522, 
-      "lon": 5.020746835015, 
+      "lat": 51.000990255275, 
+      "lon": 5.020774043651, 
       "municipality": "Diest", 
       "pcode": "3294", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {

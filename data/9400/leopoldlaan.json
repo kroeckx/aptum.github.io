@@ -690,10 +690,34 @@
       "street": "Leopoldlaan"
     }, 
     {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.828048755198, 
+      "lon": 4.024955565029, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leopoldlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.828000876466, 
+      "lon": 4.024845060454, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leopoldlaan"
+    }, 
+    {
       "busnrs": [
-        "3", 
-        "BUS1", 
-        "BUS2"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "2"
@@ -1147,7 +1171,7 @@
       "lon": 4.022367694592, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopoldlaan"
     }, 
     {
@@ -1186,7 +1210,7 @@
       "lon": 4.022120365342, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopoldlaan"
     }, 
     {
@@ -1415,8 +1439,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.827550852573, 
-      "lon": 4.025028746849, 
+      "lat": 50.827553375437, 
+      "lon": 4.025030715566, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 

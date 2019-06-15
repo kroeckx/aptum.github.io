@@ -449,8 +449,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.234767662723, 
-      "lon": 3.244045355318, 
+      "lat": 51.234771704364, 
+      "lon": 3.24403552081, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -770,6 +770,18 @@
     }, 
     {
       "hnrlbls": [
+        "164"
+      ], 
+      "housenumber": "164", 
+      "lat": 51.23545444094, 
+      "lon": 3.244612022166, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
         "165"
       ], 
       "housenumber": "165", 
@@ -1049,8 +1061,8 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 51.236190928777, 
-      "lon": 3.245150443994, 
+      "lat": 51.236194006532, 
+      "lon": 3.245133759091, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1085,8 +1097,8 @@
         "194"
       ], 
       "housenumber": "194", 
-      "lat": 51.236314035359, 
-      "lon": 3.245249577213, 
+      "lat": 51.236331882546, 
+      "lon": 3.245216784848, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1256,8 +1268,8 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.237360700629, 
-      "lon": 3.246115207935, 
+      "lat": 51.237359221678, 
+      "lon": 3.246120398726, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1488,8 +1500,8 @@
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 51.239716809222, 
-      "lon": 3.24736682735, 
+      "lat": 51.239718983809, 
+      "lon": 3.247368636749, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1824,8 +1836,8 @@
         "263"
       ], 
       "housenumber": "263", 
-      "lat": 51.24085373285, 
-      "lon": 3.24731428277, 
+      "lat": 51.240853962791, 
+      "lon": 3.247319576025, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1872,8 +1884,8 @@
         "269"
       ], 
       "housenumber": "269", 
-      "lat": 51.240697344394, 
-      "lon": 3.248313638898, 
+      "lat": 51.24069913195, 
+      "lon": 3.248322045333, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1908,8 +1920,8 @@
         "271"
       ], 
       "housenumber": "271", 
-      "lat": 51.24074370549, 
-      "lon": 3.248368090494, 
+      "lat": 51.240744804296, 
+      "lon": 3.248370212245, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -2742,8 +2754,8 @@
         "380C"
       ], 
       "housenumber": "380C", 
-      "lat": 51.246624582118, 
-      "lon": 3.253743639389, 
+      "lat": 51.246620816051, 
+      "lon": 3.253754185087, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -2850,8 +2862,8 @@
         "396"
       ], 
       "housenumber": "396", 
-      "lat": 51.247921201394, 
-      "lon": 3.254717690716, 
+      "lat": 51.247912720079, 
+      "lon": 3.254723909099, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -3006,8 +3018,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.232064156104, 
-      "lon": 3.241952627699, 
+      "lat": 51.232064526502, 
+      "lon": 3.241953764219, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -3015,14 +3027,14 @@
     }, 
     {
       "hnrlbls": [
-        "6"
+        "2A-6"
       ], 
       "housenumber": "6", 
-      "lat": 51.23048018657, 
-      "lon": 3.240655894411, 
+      "lat": 51.230562962254, 
+      "lon": 3.240578723467, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brugse Steenweg"
     }, 
     {
@@ -3150,18 +3162,6 @@
     }, 
     {
       "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.230548311603, 
-      "lon": 3.240710945631, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Brugse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "80"
       ], 
       "housenumber": "80", 
@@ -3177,8 +3177,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.233263328702, 
-      "lon": 3.242187550805, 
+      "lat": 51.233273620497, 
+      "lon": 3.242182720223, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -3261,8 +3261,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.234068396565, 
-      "lon": 3.243035547959, 
+      "lat": 51.234061213527, 
+      "lon": 3.24303643728, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

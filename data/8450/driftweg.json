@@ -34,7 +34,10 @@
       "apptnrs": [
         "0001", 
         "0002", 
-        "0101"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "103"
@@ -949,6 +952,18 @@
       "housenumber": "51", 
       "lat": 51.243172304867, 
       "lon": 2.948353639902, 
+      "municipality": "Bredene", 
+      "pcode": "8450", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Driftweg"
+    }, 
+    {
+      "hnrlbls": [
+        "51B"
+      ], 
+      "housenumber": "51B", 
+      "lat": 51.243059005421, 
+      "lon": 2.948583676853, 
       "municipality": "Bredene", 
       "pcode": "8450", 
       "source": "manueleAanduidingVanGebouw", 

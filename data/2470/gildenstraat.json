@@ -14,6 +14,9 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
         "0101", 
         "0102", 
         "0201", 
@@ -37,18 +40,6 @@
       "housenumber": "11", 
       "lat": 51.26511507975, 
       "lon": 5.081216348636, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gildenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.265435466463, 
-      "lon": 5.080778386903, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -96,18 +87,6 @@
       "housenumber": "13B", 
       "lat": 51.264958010565, 
       "lon": 5.081177838698, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gildenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.265342122782, 
-      "lon": 5.080770368004, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -380,8 +359,8 @@
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 51.265798067612, 
-      "lon": 5.081509491446, 
+      "lat": 51.265739676645, 
+      "lon": 5.081622932299, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 

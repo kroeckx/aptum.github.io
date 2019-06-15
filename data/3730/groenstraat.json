@@ -721,6 +721,10 @@
       "street": "Groenstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "40A"
       ], 
@@ -1880,8 +1884,8 @@
         "86A"
       ], 
       "housenumber": "86A", 
-      "lat": 50.868322569714, 
-      "lon": 5.480655295209, 
+      "lat": 50.868323963416, 
+      "lon": 5.480660016675, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanPerceelGrb", 

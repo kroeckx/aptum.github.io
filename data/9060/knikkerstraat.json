@@ -97,18 +97,27 @@
       "street": "Knikkerstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.198626646218, 
-      "lon": 3.803937554845, 
+      "lat": 51.198627000283, 
+      "lon": 3.803936406014, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Knikkerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "18A"
+      ], 
+      "housenumber": "18A", 
+      "lat": 51.19872966615, 
+      "lon": 3.803995968794, 
+      "municipality": "Zelzate", 
+      "pcode": "9060", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Knikkerstraat"
     }, 
     {

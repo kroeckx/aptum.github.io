@@ -37,18 +37,15 @@
       "street": "Vleugtstraat"
     }, 
     {
-      "busnrs": [
-        "OBIS"
-      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.018215336302, 
-      "lon": 5.110771405998, 
+      "lat": 51.018216321451, 
+      "lon": 5.110771991703, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vleugtstraat"
     }, 
     {
@@ -320,11 +317,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.019686141512, 
-      "lon": 5.115311491033, 
+      "lat": 51.019688975917, 
+      "lon": 5.115303982433, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vleugtstraat"
     }, 
     {
@@ -356,11 +353,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.019738139344, 
-      "lon": 5.115362062013, 
+      "lat": 51.019738982694, 
+      "lon": 5.115356659513, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vleugtstraat"
     }, 
     {

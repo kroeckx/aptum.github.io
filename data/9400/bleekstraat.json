@@ -141,8 +141,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.837288896009, 
-      "lon": 4.017615050688, 
+      "lat": 50.837345442895, 
+      "lon": 4.017585668006, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -244,8 +244,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.837201657409, 
-      "lon": 4.016970890201, 
+      "lat": 50.837207747063, 
+      "lon": 4.016993133433, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -304,8 +304,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.837384535599, 
-      "lon": 4.0181836247, 
+      "lat": 50.837364073325, 
+      "lon": 4.018134798446, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -328,8 +328,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.837375930059, 
-      "lon": 4.018131586932, 
+      "lat": 50.837374201984, 
+      "lon": 4.018185121265, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -348,18 +348,15 @@
       "street": "Bleekstraat"
     }, 
     {
-      "busnrs": [
-        "1A"
-      ], 
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.83760685915, 
-      "lon": 4.018307469511, 
+      "lat": 50.837398526803, 
+      "lon": 4.018323357921, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bleekstraat"
     }, 
     {
@@ -368,10 +365,11 @@
         "2", 
         "3", 
         "4", 
-        "BUS5"
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
-        "50A-54"
+        "50A-54A"
       ], 
       "housenumber": "50A", 
       "lat": 50.837487797977, 
@@ -395,7 +393,7 @@
     }, 
     {
       "hnrlbls": [
-        "50A-54"
+        "50A-54A"
       ], 
       "housenumber": "52", 
       "lat": 50.837487797977, 
@@ -407,9 +405,21 @@
     }, 
     {
       "hnrlbls": [
-        "50A-54"
+        "50A-54A"
       ], 
       "housenumber": "54", 
+      "lat": 50.837487797977, 
+      "lon": 4.018385017433, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bleekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "50A-54A"
+      ], 
+      "housenumber": "54A", 
       "lat": 50.837487797977, 
       "lon": 4.018385017433, 
       "municipality": "Ninove", 
@@ -440,11 +450,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.837514672239, 
-      "lon": 4.018654839155, 
+      "lat": 50.837565880744, 
+      "lon": 4.018855200418, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bleekstraat"
     }, 
     {
@@ -483,11 +493,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.837279557627, 
-      "lon": 4.018190652418, 
+      "lat": 50.837624531745, 
+      "lon": 4.019109738459, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bleekstraat"
     }, 
     {

@@ -470,18 +470,6 @@
     }, 
     {
       "hnrlbls": [
-        "34A"
-      ], 
-      "housenumber": "34A", 
-      "lat": 51.175176576462, 
-      "lon": 4.428549768297, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoge-Aardstraat"
-    }, 
-    {
-      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -505,15 +493,20 @@
       "street": "Hoge-Aardstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 51.175217248313, 
-      "lon": 4.428640049434, 
+      "lat": 51.175176576462, 
+      "lon": 4.428549768297, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoge-Aardstraat"
     }, 
     {

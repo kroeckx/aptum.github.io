@@ -696,8 +696,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.058428154721, 
-      "lon": 4.479897824788, 
+      "lat": 51.058428515632, 
+      "lon": 4.47989639929, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
@@ -720,8 +720,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.058463159085, 
-      "lon": 4.479858398255, 
+      "lat": 51.058463966734, 
+      "lon": 4.479859826546, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
@@ -1524,6 +1524,18 @@
     }, 
     {
       "hnrlbls": [
+        "228"
+      ], 
+      "housenumber": "228", 
+      "lat": 51.068741424654, 
+      "lon": 4.486505296848, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Liersesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "228A"
       ], 
       "housenumber": "228A", 
@@ -2103,11 +2115,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.054309148384, 
-      "lon": 4.480563873536, 
+      "lat": 51.054350868297, 
+      "lon": 4.480552136078, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Liersesteenweg"
     }, 
     {

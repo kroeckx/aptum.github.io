@@ -1,27 +1,10 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.172686697833, 
-      "lon": 4.589429812986, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Klaverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
       "lat": 51.170897102541, 
       "lon": 4.591891736355, 
       "municipality": "Ranst", 
@@ -31,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "1B"
+        "11"
       ], 
-      "housenumber": "1B", 
-      "lat": 51.171069008352, 
-      "lon": 4.591678804609, 
+      "housenumber": "11", 
+      "lat": 51.174047445888, 
+      "lon": 4.585431409924, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -43,11 +26,11 @@
     }, 
     {
       "hnrlbls": [
-        "1C"
+        "13"
       ], 
-      "housenumber": "1C", 
-      "lat": 51.171232179305, 
-      "lon": 4.591521592137, 
+      "housenumber": "13", 
+      "lat": 51.175305668506, 
+      "lon": 4.588052908533, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -67,9 +50,33 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.171069008352, 
+      "lon": 4.591678804609, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Klaverstraat"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
+      "lat": 51.175101928955, 
+      "lon": 4.588999133737, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Klaverstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
       "lat": 51.174001053182, 
       "lon": 4.589358546246, 
       "municipality": "Ranst", 
@@ -82,44 +89,49 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.173944509519, 
-      "lon": 4.586901004776, 
+      "lat": 51.171232179305, 
+      "lon": 4.591521592137, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
       "street": "Klaverstraat"
     }, 
     {
-      "hnrlbls": [
-        "5A"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
       ], 
-      "housenumber": "5A", 
-      "lat": 51.174047445888, 
-      "lon": 4.585431409924, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Klaverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.173310143245, 
-      "lon": 4.589047561463, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanStraat", 
-      "street": "Klaverstraat"
-    }, 
-    {
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.175305668506, 
-      "lon": 4.588052908533, 
+      "lat": 51.172686697833, 
+      "lon": 4.589429812986, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Klaverstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.172324804808, 
+      "lon": 4.589148419052, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Klaverstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.173944509519, 
+      "lon": 4.586901004776, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 

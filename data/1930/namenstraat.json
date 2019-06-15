@@ -2,21 +2,19 @@
   "addresses": [
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
+        "011", 
+        "012", 
+        "021"
       ], 
       "hnrlbls": [
-        "1-490"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.879775531396, 
-      "lon": 4.506513164755, 
+      "lat": 50.879740512577, 
+      "lon": 4.506479243297, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Namenstraat"
     }, 
     {

@@ -22,14 +22,14 @@
         "03.2"
       ], 
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.998452238223, 
-      "lon": 5.142738991754, 
+      "lat": 50.998377790799, 
+      "lon": 5.142754713645, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meldertsebaan"
     }, 
     {
@@ -145,11 +145,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.00523070666, 
-      "lon": 5.134658684131, 
+      "lat": 51.005240913231, 
+      "lon": 5.134623658236, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Meldertsebaan"
     }, 
     {
@@ -217,19 +217,15 @@
         "01.1", 
         "02.1"
       ], 
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "10-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.998452238223, 
-      "lon": 5.142738991754, 
+      "lat": 50.998428313281, 
+      "lon": 5.142672636775, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Meldertsebaan"
     }, 
     {
@@ -359,6 +355,18 @@
       "municipality": "Lummen", 
       "pcode": "3560", 
       "source": "afgeleidVanGebouw", 
+      "street": "Meldertsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "133"
+      ], 
+      "housenumber": "133", 
+      "lat": 51.006387353526, 
+      "lon": 5.131968974079, 
+      "municipality": "Lummen", 
+      "pcode": "3560", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Meldertsebaan"
     }, 
     {
@@ -674,9 +682,6 @@
       "street": "Meldertsebaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -729,11 +734,11 @@
         "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 50.999547163567, 
-      "lon": 5.141387017014, 
+      "lat": 50.999537238658, 
+      "lon": 5.141406228332, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Meldertsebaan"
     }, 
     {
@@ -1041,7 +1046,7 @@
     }, 
     {
       "hnrlbls": [
-        "49-51"
+        "51"
       ], 
       "housenumber": "51", 
       "lat": 51.001488739968, 

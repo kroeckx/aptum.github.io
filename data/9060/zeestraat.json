@@ -50,14 +50,14 @@
     }, 
     {
       "hnrlbls": [
-        "13-17"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.200584524477, 
-      "lon": 3.836065836657, 
+      "lat": 51.199376555062, 
+      "lon": 3.834873671666, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zeestraat"
     }, 
     {
@@ -74,14 +74,14 @@
     }, 
     {
       "hnrlbls": [
-        "13-17"
+        "5B-15"
       ], 
       "housenumber": "15", 
-      "lat": 51.200584524477, 
-      "lon": 3.836065836657, 
+      "lat": 51.199244991192, 
+      "lon": 3.834721088945, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zeestraat"
     }, 
     {
@@ -98,14 +98,14 @@
     }, 
     {
       "hnrlbls": [
-        "13-17"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.200584524477, 
-      "lon": 3.836065836657, 
+      "lat": 51.19907916808, 
+      "lon": 3.834506091343, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zeestraat"
     }, 
     {
@@ -125,11 +125,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.198990427941, 
-      "lon": 3.833705489115, 
+      "lat": 51.198991050002, 
+      "lon": 3.833703908227, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zeestraat"
     }, 
     {
@@ -137,11 +137,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.200057776491, 
-      "lon": 3.835624312957, 
+      "lat": 51.20005777778, 
+      "lon": 3.835624599087, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Zeestraat"
     }, 
     {
@@ -185,35 +185,23 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.199740357657, 
-      "lon": 3.835219180409, 
+      "lat": 51.199593644608, 
+      "lon": 3.83515547271, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Zeestraat"
     }, 
     {
       "hnrlbls": [
-        "5A"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.199376375297, 
-      "lon": 3.834873673721, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zeestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5B"
+        "5B-15"
       ], 
       "housenumber": "5B", 
-      "lat": 51.199244810782, 
-      "lon": 3.834720947937, 
+      "lat": 51.199244991192, 
+      "lon": 3.834721088945, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zeestraat"
     }, 
     {
@@ -223,18 +211,6 @@
       "housenumber": "6", 
       "lat": 51.200265885744, 
       "lon": 3.835429504222, 
-      "municipality": "Zelzate", 
-      "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zeestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.199081023209, 
-      "lon": 3.834518803315, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 

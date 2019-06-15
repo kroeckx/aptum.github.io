@@ -14,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "1-10"
+        "8-10"
       ], 
       "housenumber": "10", 
-      "lat": 51.210192103851, 
-      "lon": 4.418862524356, 
+      "lat": 51.210220800526, 
+      "lon": 4.419016531277, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -43,6 +43,30 @@
       "housenumber": "100A", 
       "lat": 51.210121141628, 
       "lon": 4.426721771893, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Plantin en Moretuslei"
+    }, 
+    {
+      "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 51.210546263814, 
+      "lon": 4.426419934066, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Plantin en Moretuslei"
+    }, 
+    {
+      "hnrlbls": [
+        "105"
+      ], 
+      "housenumber": "105", 
+      "lat": 51.210516002327, 
+      "lon": 4.426542104429, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -150,18 +174,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Plantin en Moretuslei"
-    }, 
-    {
-      "hnrlbls": [
-        "110A"
-      ], 
-      "housenumber": "110A", 
-      "lat": 51.209622165172, 
-      "lon": 4.428386378419, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Plantin en Moretuslei"
     }, 
     {
@@ -348,8 +360,7 @@
         "6", 
         "7", 
         "8", 
-        "9", 
-        "C"
+        "9"
       ], 
       "hnrlbls": [
         "128-130"
@@ -499,8 +510,8 @@
         "146-152"
       ], 
       "housenumber": "146", 
-      "lat": 51.209176969302, 
-      "lon": 4.430970847528, 
+      "lat": 51.209176789762, 
+      "lon": 4.430970417996, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
@@ -547,8 +558,8 @@
         "146-152"
       ], 
       "housenumber": "152", 
-      "lat": 51.209176969302, 
-      "lon": 4.430970847528, 
+      "lat": 51.209176789762, 
+      "lon": 4.430970417996, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1090,11 +1101,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-8"
+        "2-4"
       ], 
       "housenumber": "2", 
-      "lat": 51.210192103789, 
-      "lon": 4.418862667456, 
+      "lat": 51.210219631471, 
+      "lon": 4.418808891822, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1419,8 +1430,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.210250114785, 
-      "lon": 4.419816493131, 
+      "lat": 51.210250294428, 
+      "lon": 4.419816779531, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1627,15 +1638,12 @@
       "street": "Plantin en Moretuslei"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "1-10"
+        "2-4"
       ], 
       "housenumber": "4", 
-      "lat": 51.210192103851, 
-      "lon": 4.418862524356, 
+      "lat": 51.210219631471, 
+      "lon": 4.418808891822, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1898,11 +1906,11 @@
     }, 
     {
       "hnrlbls": [
-        "1-10"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.210192103851, 
-      "lon": 4.418862524356, 
+      "lat": 51.210220046585, 
+      "lon": 4.418888742104, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2189,15 +2197,33 @@
       "street": "Plantin en Moretuslei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.210818392597, 
-      "lon": 4.425029324125, 
+      "lat": 51.210740573225, 
+      "lon": 4.424987014076, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Plantin en Moretuslei"
+    }, 
+    {
+      "hnrlbls": [
+        "77A"
+      ], 
+      "housenumber": "77A", 
+      "lat": 51.210739287818, 
+      "lon": 4.425043108356, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Plantin en Moretuslei"
     }, 
     {
@@ -2231,7 +2257,6 @@
       "busnrs": [
         "1", 
         "10", 
-        "102", 
         "104", 
         "11", 
         "12", 
@@ -2244,7 +2269,6 @@
         "19", 
         "2", 
         "20", 
-        "202", 
         "21", 
         "22", 
         "23", 
@@ -2256,7 +2280,6 @@
         "29", 
         "3", 
         "30", 
-        "302", 
         "31", 
         "32", 
         "33", 
@@ -2303,11 +2326,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-8"
+        "8-10"
       ], 
       "housenumber": "8", 
-      "lat": 51.210192103789, 
-      "lon": 4.418862667456, 
+      "lat": 51.210220800526, 
+      "lon": 4.419016531277, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2543,9 +2566,6 @@
       "street": "Plantin en Moretuslei"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "96"
       ], 

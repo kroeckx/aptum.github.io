@@ -91,6 +91,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -362,11 +363,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.21892017803, 
-      "lon": 4.402801190217, 
+      "lat": 51.219273295943, 
+      "lon": 4.40230866423, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groenplaats"
     }, 
     {

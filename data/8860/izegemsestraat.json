@@ -17,11 +17,11 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.892837813904, 
-      "lon": 3.236773311266, 
+      "lat": 50.892777986578, 
+      "lon": 3.236619809986, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Izegemsestraat"
     }, 
     {
@@ -304,11 +304,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.888677431327, 
-      "lon": 3.236693018895, 
+      "lat": 50.888674599736, 
+      "lon": 3.236688396597, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Izegemsestraat"
     }, 
     {
@@ -773,18 +773,6 @@
     }, 
     {
       "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.891471718439, 
-      "lon": 3.235617318872, 
-      "municipality": "Lendelede", 
-      "pcode": "8860", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Izegemsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -956,6 +944,30 @@
       "municipality": "Lendelede", 
       "pcode": "8860", 
       "source": "afgeleidVanGebouw", 
+      "street": "Izegemsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "77A"
+      ], 
+      "housenumber": "77A", 
+      "lat": 50.893039685026, 
+      "lon": 3.234800949606, 
+      "municipality": "Lendelede", 
+      "pcode": "8860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Izegemsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "77B"
+      ], 
+      "housenumber": "77B", 
+      "lat": 50.893083555062, 
+      "lon": 3.234781979937, 
+      "municipality": "Lendelede", 
+      "pcode": "8860", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Izegemsestraat"
     }, 
     {

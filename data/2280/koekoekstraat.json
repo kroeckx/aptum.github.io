@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.198731480218, 
-      "lon": 4.728659091997, 
+      "lat": 51.198456665663, 
+      "lon": 4.729052973377, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koekoekstraat"
     }, 
     {
@@ -94,6 +94,18 @@
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Koekoekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.198730483204, 
+      "lon": 4.728661802553, 
+      "municipality": "Grobbendonk", 
+      "pcode": "2280", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koekoekstraat"
     }, 
     {

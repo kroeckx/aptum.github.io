@@ -392,8 +392,8 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 50.976046393864, 
-      "lon": 3.541600007135, 
+      "lat": 50.976044722886, 
+      "lon": 3.541592489716, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -476,8 +476,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.973612516033, 
-      "lon": 3.541651317718, 
+      "lat": 50.973611931695, 
+      "lon": 3.541644920624, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -536,11 +536,11 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.975571429223, 
-      "lon": 3.541927340471, 
+      "lat": 50.975580382315, 
+      "lon": 3.541870937625, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -572,11 +572,11 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 50.975463306465, 
-      "lon": 3.541956300536, 
+      "lat": 50.975441822434, 
+      "lon": 3.54193090618, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -596,11 +596,11 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 50.975373165803, 
-      "lon": 3.541972840261, 
+      "lat": 50.975370819519, 
+      "lon": 3.541945969538, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -644,11 +644,11 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.975206571157, 
-      "lon": 3.542009095725, 
+      "lat": 50.975228009704, 
+      "lon": 3.541976822242, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -656,11 +656,11 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 50.975089008976, 
-      "lon": 3.541999633735, 
+      "lat": 50.975069537329, 
+      "lon": 3.541966372593, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1026,8 +1026,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.97722878156, 
-      "lon": 3.535515868714, 
+      "lat": 50.977190608602, 
+      "lon": 3.535495187082, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1086,30 +1086,30 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.977174442506, 
-      "lon": 3.535802198493, 
+      "lat": 50.977252397842, 
+      "lon": 3.53580423192, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
       ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.977626135471, 
-      "lon": 3.535415397416, 
+      "lat": 50.977499952345, 
+      "lon": 3.535445406599, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1117,11 +1117,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.977148716683, 
-      "lon": 3.536041455773, 
+      "lat": 50.977233820108, 
+      "lon": 3.536062728803, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1141,11 +1141,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.977143442089, 
-      "lon": 3.536274369181, 
+      "lat": 50.977214949526, 
+      "lon": 3.536292608743, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1165,11 +1165,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.976731671854, 
-      "lon": 3.53615423148, 
+      "lat": 50.976847558323, 
+      "lon": 3.536091941041, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1177,8 +1177,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.977548447062, 
-      "lon": 3.535730481703, 
+      "lat": 50.977548181435, 
+      "lon": 3.535731056015, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1201,11 +1201,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.976645056666, 
-      "lon": 3.536275096457, 
+      "lat": 50.976906107861, 
+      "lon": 3.53617192557, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1213,11 +1213,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.977523353501, 
-      "lon": 3.535804974552, 
+      "lat": 50.977537969652, 
+      "lon": 3.535799731085, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1225,11 +1225,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.976679948394, 
-      "lon": 3.536378426391, 
+      "lat": 50.976875639663, 
+      "lon": 3.536312726954, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1249,11 +1249,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.976702894103, 
-      "lon": 3.536445087823, 
+      "lat": 50.976881304136, 
+      "lon": 3.536376420128, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1273,11 +1273,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.976704908412, 
-      "lon": 3.536513829394, 
+      "lat": 50.976883077017, 
+      "lon": 3.536449153347, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1297,11 +1297,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.976741092153, 
-      "lon": 3.536596489269, 
+      "lat": 50.976892300616, 
+      "lon": 3.536507657129, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {
@@ -1321,11 +1321,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.977471115336, 
-      "lon": 3.536248618743, 
+      "lat": 50.977479997409, 
+      "lon": 3.536271529671, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Poelstraat"
     }, 
     {

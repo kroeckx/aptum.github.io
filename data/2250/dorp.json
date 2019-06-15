@@ -238,10 +238,12 @@
     }, 
     {
       "apptnrs": [
-        "A", 
         "B", 
         "C", 
         "D"
+      ], 
+      "busnrs": [
+        "A"
       ], 
       "hnrlbls": [
         "26"
@@ -271,8 +273,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.145741860913, 
-      "lon": 4.860236431029, 
+      "lat": 51.145718210062, 
+      "lon": 4.860217318262, 
       "municipality": "Olen", 
       "pcode": "2250", 
       "source": "manueleAanduidingVanPerceel", 

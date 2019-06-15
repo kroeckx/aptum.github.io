@@ -444,7 +444,7 @@
     }, 
     {
       "hnrlbls": [
-        "136-138"
+        "136"
       ], 
       "housenumber": "136", 
       "lat": 51.250016387325, 
@@ -461,18 +461,6 @@
       "housenumber": "137", 
       "lat": 51.252001826177, 
       "lon": 4.436908335677, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Laarsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "136-138"
-      ], 
-      "housenumber": "138", 
-      "lat": 51.250016387325, 
-      "lon": 4.436317331428, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -519,8 +507,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.252103901588, 
-      "lon": 4.436962340497, 
+      "lat": 51.252102912628, 
+      "lon": 4.43696276872, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -543,8 +531,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.252153581278, 
-      "lon": 4.437006098763, 
+      "lat": 51.252152952767, 
+      "lon": 4.437004952002, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -2592,6 +2580,7 @@
     {
       "busnrs": [
         "1", 
+        "10", 
         "2", 
         "3", 
         "4", 
@@ -2733,9 +2722,6 @@
       "street": "Laarsebaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -3112,18 +3098,6 @@
       "housenumber": "50", 
       "lat": 51.247510072922, 
       "lon": 4.434135080002, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Laarsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 51.248902527513, 
-      "lon": 4.434796434109, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -3548,6 +3522,11 @@
       "street": "Laarsebaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -3701,8 +3680,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.250482744506, 
-      "lon": 4.435926727354, 
+      "lat": 51.250482205128, 
+      "lon": 4.435926869792, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

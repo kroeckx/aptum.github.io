@@ -77,8 +77,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.960332551076, 
-      "lon": 4.522889538502, 
+      "lat": 50.960331112618, 
+      "lon": 4.52288967609, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -89,11 +89,23 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.960809620229, 
-      "lon": 4.523222336946, 
+      "lat": 50.960804770848, 
+      "lon": 4.523286800543, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Bergezijpestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.960970800717, 
+      "lon": 4.523219596458, 
+      "municipality": "Kampenhout", 
+      "pcode": "1910", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bergezijpestraat"
     }, 
     {
@@ -113,8 +125,8 @@
         "4C"
       ], 
       "housenumber": "4C", 
-      "lat": 50.961456268753, 
-      "lon": 4.523386176184, 
+      "lat": 50.961454833115, 
+      "lon": 4.523384178652, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 

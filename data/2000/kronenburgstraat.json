@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -69,8 +73,18 @@
       "street": "Kronenburgstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
-        "108-110"
+        "108"
       ], 
       "housenumber": "108", 
       "lat": 51.211493457462, 
@@ -81,6 +95,20 @@
       "street": "Kronenburgstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "501"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -90,30 +118,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kronenburgstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "108-110"
-      ], 
-      "housenumber": "110", 
-      "lat": 51.211493457462, 
-      "lon": 4.400441454763, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kronenburgstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "110A"
-      ], 
-      "housenumber": "110A", 
-      "lat": 51.211491390322, 
-      "lon": 4.400440737808, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Kronenburgstraat"
     }, 
     {
@@ -172,7 +176,7 @@
     }, 
     {
       "hnrlbls": [
-        "13-15"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 51.212457940556, 
@@ -216,18 +220,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Kronenburgstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13-15"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.212457940556, 
-      "lon": 4.394961559521, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Kronenburgstraat"
     }, 
     {
@@ -343,9 +335,6 @@
       "street": "Kronenburgstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -1038,13 +1027,6 @@
       "street": "Kronenburgstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "5", 
-        "6", 
-        "66", 
-        "8"
-      ], 
       "hnrlbls": [
         "62-64"
       ], 
@@ -1094,24 +1076,6 @@
     }, 
     {
       "busnrs": [
-        "2", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 51.211803559072, 
-      "lon": 4.398052247684, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kronenburgstraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "10", 
         "11", 
@@ -1131,18 +1095,6 @@
       "housenumber": "68", 
       "lat": 51.211724859454, 
       "lon": 4.398252400477, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kronenburgstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.212502856504, 
-      "lon": 4.394679950785, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -1355,9 +1307,6 @@
       "street": "Kronenburgstraat"
     }, 
     {
-      "busnrs": [
-        "11"
-      ], 
       "hnrlbls": [
         "9"
       ], 

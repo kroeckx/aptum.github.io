@@ -1507,6 +1507,18 @@
     }, 
     {
       "hnrlbls": [
+        "242A"
+      ], 
+      "housenumber": "242A", 
+      "lat": 51.065237184245, 
+      "lon": 3.706143169378, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanLigplaats", 
+      "street": "Nieuwevaart"
+    }, 
+    {
+      "hnrlbls": [
         "243"
       ], 
       "housenumber": "243", 
@@ -1975,23 +1987,11 @@
     }, 
     {
       "hnrlbls": [
-        "283-284"
+        "283"
       ], 
       "housenumber": "283", 
-      "lat": 51.065084323411, 
-      "lon": 3.703085949573, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Nieuwevaart"
-    }, 
-    {
-      "hnrlbls": [
-        "283-284"
-      ], 
-      "housenumber": "284", 
-      "lat": 51.065084323411, 
-      "lon": 3.703085949573, 
+      "lat": 51.065051938642, 
+      "lon": 3.70316144994, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2002,11 +2002,11 @@
         "285"
       ], 
       "housenumber": "285", 
-      "lat": 51.065064436623, 
-      "lon": 3.702970818854, 
+      "lat": 51.065020481333, 
+      "lon": 3.702987136491, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwevaart"
     }, 
     {
@@ -2107,21 +2107,9 @@
     }, 
     {
       "hnrlbls": [
-        "300-300A"
+        "300"
       ], 
       "housenumber": "300", 
-      "lat": 51.065190142332, 
-      "lon": 3.705898170779, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanLigplaats", 
-      "street": "Nieuwevaart"
-    }, 
-    {
-      "hnrlbls": [
-        "300-300A"
-      ], 
-      "housenumber": "300A", 
       "lat": 51.065190142332, 
       "lon": 3.705898170779, 
       "municipality": "Gent", 
@@ -2158,8 +2146,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.069582388718, 
-      "lon": 3.721227534368, 
+      "lat": 51.069583541568, 
+      "lon": 3.721224664923, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 

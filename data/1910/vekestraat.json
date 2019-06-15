@@ -85,18 +85,27 @@
       "street": "Vekestraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.960815594907, 
-      "lon": 4.590438700764, 
+      "lat": 50.960800202159, 
+      "lon": 4.590449872587, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vekestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 50.960679485654, 
+      "lon": 4.590492571179, 
+      "municipality": "Kampenhout", 
+      "pcode": "1910", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vekestraat"
     }, 
     {
@@ -169,18 +178,6 @@
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Vekestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.959713768274, 
-      "lon": 4.58569040754, 
-      "municipality": "Kampenhout", 
-      "pcode": "1910", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Vekestraat"
     }, 
     {

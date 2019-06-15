@@ -719,11 +719,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.205198326136, 
-      "lon": 4.416685632648, 
+      "lat": 51.205187000644, 
+      "lon": 4.416685763926, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -1472,8 +1472,8 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.208415128763, 
-      "lon": 4.422415915211, 
+      "lat": 51.208411892995, 
+      "lon": 4.422415768345, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2445,11 +2445,11 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 51.201884880154, 
-      "lon": 4.413143946724, 
+      "lat": 51.20192939851, 
+      "lon": 4.413077030831, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -2496,30 +2496,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Belgi\u00eblei"
-    }, 
-    {
-      "hnrlbls": [
-        "213"
-      ], 
-      "housenumber": "213", 
-      "lat": 51.201906787187, 
-      "lon": 4.412972993815, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Belgi\u00eblei"
-    }, 
-    {
-      "hnrlbls": [
-        "215"
-      ], 
-      "housenumber": "215", 
-      "lat": 51.201892954104, 
-      "lon": 4.41294894398, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Belgi\u00eblei"
     }, 
     {
@@ -4010,8 +3986,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.206990382377, 
-      "lon": 4.418751433192, 
+      "lat": 51.207023376455, 
+      "lon": 4.418315186889, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

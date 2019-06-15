@@ -387,18 +387,15 @@
       "street": "Zurenborgstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "41-43"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.204212837722, 
-      "lon": 4.426225574486, 
+      "lat": 51.204466330078, 
+      "lon": 4.4254529594, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zurenborgstraat"
     }, 
     {
@@ -415,7 +412,7 @@
     }, 
     {
       "hnrlbls": [
-        "41-43"
+        "43"
       ], 
       "housenumber": "43", 
       "lat": 51.204212837722, 
@@ -542,6 +539,11 @@
       "street": "Zurenborgstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -678,8 +680,8 @@
         "68-70"
       ], 
       "housenumber": "68", 
-      "lat": 51.204218863617, 
-      "lon": 4.424925112853, 
+      "lat": 51.204218503597, 
+      "lon": 4.424926113986, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -712,8 +714,8 @@
         "68-70"
       ], 
       "housenumber": "70", 
-      "lat": 51.204218863617, 
-      "lon": 4.424925112853, 
+      "lat": 51.204218503597, 
+      "lon": 4.424926113986, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

@@ -287,9 +287,27 @@
       "street": "O. L. Vrouwstraat"
     }, 
     {
+      "busnrs": [
+        "3"
+      ], 
+      "hnrlbls": [
+        "124B"
+      ], 
+      "housenumber": "124B", 
+      "lat": 50.901002661259, 
+      "lon": 5.270684555884, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "O. L. Vrouwstraat"
+    }, 
+    {
       "apptnrs": [
         "1", 
         "3"
+      ], 
+      "busnrs": [
+        "4"
       ], 
       "hnrlbls": [
         "124C"
@@ -454,8 +472,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 50.90140820434, 
-      "lon": 5.269689632546, 
+      "lat": 50.901400302628, 
+      "lon": 5.269676685572, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -547,8 +565,8 @@
         "143A"
       ], 
       "housenumber": "143A", 
-      "lat": 50.898728852151, 
-      "lon": 5.272641621139, 
+      "lat": 50.898728771025, 
+      "lon": 5.272640482287, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -597,18 +615,6 @@
       "housenumber": "148", 
       "lat": 50.90230434043, 
       "lon": 5.268469946008, 
-      "municipality": "Alken", 
-      "pcode": "3570", 
-      "source": "afgeleidVanGebouw", 
-      "street": "O. L. Vrouwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.889906787357, 
-      "lon": 5.28793949924, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -751,8 +757,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.903179799704, 
-      "lon": 5.267072383283, 
+      "lat": 50.903179607958, 
+      "lon": 5.267073943531, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -919,8 +925,8 @@
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 50.904291877542, 
-      "lon": 5.265390102933, 
+      "lat": 50.904305104504, 
+      "lon": 5.265412108969, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1078,8 +1084,8 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 50.902729224124, 
-      "lon": 5.2668839063, 
+      "lat": 50.902721272479, 
+      "lon": 5.266865698076, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1177,8 +1183,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 50.904043049517, 
-      "lon": 5.264882039948, 
+      "lat": 50.904046170594, 
+      "lon": 5.264885369643, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1189,8 +1195,8 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 50.904219004284, 
-      "lon": 5.264502658874, 
+      "lat": 50.904222989513, 
+      "lon": 5.264510554741, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1206,6 +1212,18 @@
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
+      "street": "O. L. Vrouwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "211"
+      ], 
+      "housenumber": "211", 
+      "lat": 50.904355363377, 
+      "lon": 5.264410998526, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "O. L. Vrouwstraat"
     }, 
     {
@@ -1237,8 +1255,8 @@
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 50.904913219121, 
-      "lon": 5.263559329397, 
+      "lat": 50.904910369838, 
+      "lon": 5.263555720555, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1273,8 +1291,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.890801274577, 
-      "lon": 5.286542183165, 
+      "lat": 50.890797481527, 
+      "lon": 5.28654438318, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1554,18 +1572,6 @@
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "O. L. Vrouwstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 50.894839116508, 
-      "lon": 5.280368993076, 
-      "municipality": "Alken", 
-      "pcode": "3570", 
-      "source": "afgeleidVanGebouw", 
       "street": "O. L. Vrouwstraat"
     }, 
     {

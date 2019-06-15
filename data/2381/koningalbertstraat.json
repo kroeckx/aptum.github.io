@@ -85,12 +85,12 @@
       "street": "Koning Albertstraat"
     }, 
     {
-      "apptnrs": [
-        "00-1", 
-        "00-2", 
-        "01-1", 
-        "01-2", 
-        "02-1"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "108"
@@ -128,12 +128,12 @@
       "street": "Koning Albertstraat"
     }, 
     {
-      "apptnrs": [
-        "00-1", 
-        "00-2", 
-        "01-1", 
-        "01-2", 
-        "02-1"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "110"
@@ -1205,8 +1205,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.407570318667, 
-      "lon": 4.990992252533, 
+      "lat": 51.407571634202, 
+      "lon": 4.990981347978, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1691,11 +1691,11 @@
         "44A"
       ], 
       "housenumber": "44A", 
-      "lat": 51.412643962113, 
-      "lon": 5.009790228319, 
+      "lat": 51.412549472248, 
+      "lon": 5.00982830409, 
       "municipality": "Ravels", 
       "pcode": "2381", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1761,8 +1761,8 @@
         "48-50"
       ], 
       "housenumber": "48", 
-      "lat": 51.412508679223, 
-      "lon": 5.009376863077, 
+      "lat": 51.412490601151, 
+      "lon": 5.009412401831, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1773,8 +1773,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.411961256038, 
-      "lon": 5.00887085658, 
+      "lat": 51.411964613926, 
+      "lon": 5.008864866385, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1808,8 +1808,8 @@
         "48-50"
       ], 
       "housenumber": "50", 
-      "lat": 51.412508679223, 
-      "lon": 5.009376863077, 
+      "lat": 51.412490601151, 
+      "lon": 5.009412401831, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1820,8 +1820,8 @@
         "50A"
       ], 
       "housenumber": "50A", 
-      "lat": 51.412504701433, 
-      "lon": 5.009231354629, 
+      "lat": 51.412476415727, 
+      "lon": 5.009276382292, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1869,8 +1869,8 @@
         "52-54"
       ], 
       "housenumber": "52", 
-      "lat": 51.412473074184, 
-      "lon": 5.009096244134, 
+      "lat": 51.412456123422, 
+      "lon": 5.009139416149, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1897,8 +1897,8 @@
         "52-54"
       ], 
       "housenumber": "54", 
-      "lat": 51.412473074184, 
-      "lon": 5.009096244134, 
+      "lat": 51.412456123422, 
+      "lon": 5.009139416149, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1909,8 +1909,8 @@
         "54A"
       ], 
       "housenumber": "54A", 
-      "lat": 51.412474010376, 
-      "lon": 5.008956121614, 
+      "lat": 51.412443298196, 
+      "lon": 5.009001115919, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1937,8 +1937,8 @@
         "56-58"
       ], 
       "housenumber": "56", 
-      "lat": 51.412443385379, 
-      "lon": 5.008818438117, 
+      "lat": 51.412424612432, 
+      "lon": 5.008866184369, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1953,8 +1953,8 @@
         "56-58"
       ], 
       "housenumber": "58", 
-      "lat": 51.412443385379, 
-      "lon": 5.008818438117, 
+      "lat": 51.412424612432, 
+      "lon": 5.008866184369, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -2069,6 +2069,18 @@
       "street": "Koning Albertstraat"
     }, 
     {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 51.412016751289, 
+      "lon": 5.00575849095, 
+      "municipality": "Ravels", 
+      "pcode": "2381", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
       "apptnrs": [
         "00-1", 
         "00-2", 
@@ -2082,6 +2094,18 @@
       "housenumber": "7", 
       "lat": 51.41262471488, 
       "lon": 5.013738346426, 
+      "municipality": "Ravels", 
+      "pcode": "2381", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 51.412004764448, 
+      "lon": 5.005664185037, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 

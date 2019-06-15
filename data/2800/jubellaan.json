@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.011272587057, 
-      "lon": 4.47853572109, 
+      "lat": 51.011219218619, 
+      "lon": 4.47888983086, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jubellaan"
     }, 
     {
@@ -350,6 +350,39 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Jubellaan"
+    }, 
+    {
+      "hnrlbls": [
+        "300"
+      ], 
+      "housenumber": "300", 
+      "lat": 50.998067836126, 
+      "lon": 4.484726330126, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jubellaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "310"
+      ], 
+      "housenumber": "310", 
+      "lat": 50.99767302288, 
+      "lon": 4.486089743094, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jubellaan"
     }, 
     {
@@ -820,8 +853,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.009039612464, 
-      "lon": 4.478053555673, 
+      "lat": 51.009038321233, 
+      "lon": 4.478088604092, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 

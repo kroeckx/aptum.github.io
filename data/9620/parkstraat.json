@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.871956826297, 
-      "lon": 3.830693248549, 
+      "lat": 50.871938829655, 
+      "lon": 3.830689476338, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -218,11 +218,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.870845611855, 
-      "lon": 3.835108708033, 
+      "lat": 50.870981098121, 
+      "lon": 3.835170676599, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Parkstraat"
     }, 
     {
@@ -262,27 +262,20 @@
       "street": "Parkstraat"
     }, 
     {
-      "hnrlbls": [
-        "33"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
       ], 
-      "housenumber": "33", 
-      "lat": 50.870739912967, 
-      "lon": 3.835429847924, 
-      "municipality": "Zottegem", 
-      "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Parkstraat"
-    }, 
-    {
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.870777064553, 
-      "lon": 3.835554021941, 
+      "lat": 50.870840821052, 
+      "lon": 3.835578161564, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Parkstraat"
     }, 
     {

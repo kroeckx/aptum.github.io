@@ -389,11 +389,11 @@
         "192A"
       ], 
       "housenumber": "192A", 
-      "lat": 51.216264205273, 
-      "lon": 3.429744384494, 
+      "lat": 51.215694808878, 
+      "lon": 3.43016032242, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vakebuurtstraat"
     }, 
     {
@@ -401,11 +401,11 @@
         "192G"
       ], 
       "housenumber": "192G", 
-      "lat": 51.215895314447, 
-      "lon": 3.431220738897, 
+      "lat": 51.215971075842, 
+      "lon": 3.431229951487, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vakebuurtstraat"
     }, 
     {
@@ -746,7 +746,7 @@
     }, 
     {
       "hnrlbls": [
-        "227-227A"
+        "227"
       ], 
       "housenumber": "227", 
       "lat": 51.216894240058, 
@@ -758,14 +758,14 @@
     }, 
     {
       "hnrlbls": [
-        "227-227A"
+        "227A"
       ], 
       "housenumber": "227A", 
-      "lat": 51.216894240058, 
-      "lon": 3.431999345501, 
+      "lat": 51.216953554354, 
+      "lon": 3.432236040307, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vakebuurtstraat"
     }, 
     {
@@ -1058,6 +1058,18 @@
     }, 
     {
       "hnrlbls": [
+        "235A"
+      ], 
+      "housenumber": "235A", 
+      "lat": 51.221462418337, 
+      "lon": 3.430921787506, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Vakebuurtstraat"
+    }, 
+    {
+      "hnrlbls": [
         "235B"
       ], 
       "housenumber": "235B", 
@@ -1145,11 +1157,11 @@
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 51.225772738025, 
-      "lon": 3.427102124727, 
+      "lat": 51.225694720819, 
+      "lon": 3.427001483817, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vakebuurtstraat"
     }, 
     {
@@ -1433,11 +1445,23 @@
         "260"
       ], 
       "housenumber": "260", 
-      "lat": 51.222272070219, 
-      "lon": 3.430434698511, 
+      "lat": 51.22194961269, 
+      "lon": 3.430217014247, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Vakebuurtstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "260A"
+      ], 
+      "housenumber": "260A", 
+      "lat": 51.222396688312, 
+      "lon": 3.430234360736, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vakebuurtstraat"
     }, 
     {
@@ -1565,8 +1589,8 @@
         "268"
       ], 
       "housenumber": "268", 
-      "lat": 51.222615916899, 
-      "lon": 3.429586637152, 
+      "lat": 51.222615738282, 
+      "lon": 3.429586783897, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 

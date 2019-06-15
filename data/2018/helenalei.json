@@ -266,10 +266,6 @@
       "street": "Helenalei"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "37"
-      ], 
       "busnrs": [
         "1", 
         "10", 
@@ -291,14 +287,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "24-26A"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.200692283107, 
-      "lon": 4.421170355031, 
+      "lat": 51.200978206695, 
+      "lon": 4.421368405668, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Helenalei"
     }, 
     {
@@ -384,14 +380,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "24-26A"
+        "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 51.200692283107, 
-      "lon": 4.421170355031, 
+      "lat": 51.200769376383, 
+      "lon": 4.421231963364, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Helenalei"
     }, 
     {
@@ -491,14 +487,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "26-43"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.200692552889, 
-      "lon": 4.421170069197, 
+      "lat": 51.200663666752, 
+      "lon": 4.421243860812, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Helenalei"
     }, 
     {
@@ -514,60 +510,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "24-26A"
+        "26A"
       ], 
       "housenumber": "26A", 
-      "lat": 51.200692283107, 
-      "lon": 4.421170355031, 
+      "lat": 51.200489924926, 
+      "lon": 4.421431943124, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Helenalei"
-    }, 
-    {
-      "busnrs": [
-        "18"
-      ], 
-      "hnrlbls": [
-        "26B-26_8"
-      ], 
-      "housenumber": "26B", 
-      "lat": 51.200610377187, 
-      "lon": 4.421217188928, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Helenalei"
-    }, 
-    {
-      "busnrs": [
-        "3", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "26B-26_8"
-      ], 
-      "housenumber": "26S", 
-      "lat": 51.200610377187, 
-      "lon": 4.421217188928, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Helenalei"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "26B-26_8"
-      ], 
-      "housenumber": "26_8", 
-      "lat": 51.200610377187, 
-      "lon": 4.421217188928, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Helenalei"
     }, 
     {
@@ -783,12 +733,11 @@
       "street": "Helenalei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "B"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "49"

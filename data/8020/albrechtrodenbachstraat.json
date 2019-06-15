@@ -15,9 +15,6 @@
         "3-01", 
         "3-02"
       ], 
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -82,11 +79,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.160263566078, 
-      "lon": 3.235668429138, 
+      "lat": 51.160180037281, 
+      "lon": 3.235685609263, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Albrecht Rodenbachstraat"
     }, 
     {
@@ -315,11 +312,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.160256045547, 
-      "lon": 3.235718505822, 
+      "lat": 51.160167084264, 
+      "lon": 3.235816019997, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Albrecht Rodenbachstraat"
     }, 
     {
@@ -418,7 +415,7 @@
       "lon": 3.245139534767, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albrecht Rodenbachstraat"
     }, 
     {
@@ -438,11 +435,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.160224639388, 
-      "lon": 3.235893254046, 
+      "lat": 51.160150380425, 
+      "lon": 3.235939659377, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Albrecht Rodenbachstraat"
     }, 
     {

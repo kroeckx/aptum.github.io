@@ -5,8 +5,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.987364565416, 
-      "lon": 3.480285674594, 
+      "lat": 50.987370453075, 
+      "lon": 3.480291545108, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -14,14 +14,26 @@
     }, 
     {
       "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.985860448805, 
+      "lon": 3.481926135159, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Westaarde"
+    }, 
+    {
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.985444920601, 
-      "lon": 3.482018876635, 
+      "lat": 50.985440162276, 
+      "lon": 3.482031642317, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Westaarde"
     }, 
     {
@@ -53,11 +65,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.982230647597, 
-      "lon": 3.485465820572, 
+      "lat": 50.982039104294, 
+      "lon": 3.485745282348, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Westaarde"
     }
   ]

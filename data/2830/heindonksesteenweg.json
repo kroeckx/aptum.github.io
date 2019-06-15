@@ -77,7 +77,7 @@
       "lon": 4.371415820153, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heindonksesteenweg"
     }, 
     {
@@ -386,26 +386,14 @@
     }, 
     {
       "hnrlbls": [
-        "132-134"
-      ], 
-      "housenumber": "132", 
-      "lat": 51.065611866753, 
-      "lon": 4.374562377391, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Heindonksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "132-134"
+        "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.065611866753, 
-      "lon": 4.374562377391, 
+      "lat": 51.065558655005, 
+      "lon": 4.37451614895, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heindonksesteenweg"
     }, 
     {
@@ -425,11 +413,11 @@
         "136A"
       ], 
       "housenumber": "136A", 
-      "lat": 51.065415799364, 
-      "lon": 4.37490615379, 
+      "lat": 51.065563935598, 
+      "lon": 4.374920726536, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heindonksesteenweg"
     }, 
     {
@@ -914,38 +902,14 @@
     }, 
     {
       "hnrlbls": [
-        "205"
-      ], 
-      "housenumber": "205", 
-      "lat": 51.066146120212, 
-      "lon": 4.373726182576, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Heindonksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "206-206A"
-      ], 
-      "housenumber": "206", 
-      "lat": 51.064820864506, 
-      "lon": 4.380883038556, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heindonksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "206-206A"
+        "206A"
       ], 
       "housenumber": "206A", 
       "lat": 51.064820864506, 
       "lon": 4.380883038556, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heindonksesteenweg"
     }, 
     {
@@ -1089,7 +1053,7 @@
       "lon": 4.374609786156, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heindonksesteenweg"
     }, 
     {
@@ -1142,7 +1106,7 @@
     }, 
     {
       "hnrlbls": [
-        "225-247"
+        "225"
       ], 
       "housenumber": "225", 
       "lat": 51.065877336992, 
@@ -1267,18 +1231,6 @@
       "housenumber": "245", 
       "lat": 51.065426241464, 
       "lon": 4.378399258215, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heindonksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "225-247"
-      ], 
-      "housenumber": "247", 
-      "lat": 51.065877336992, 
-      "lon": 4.375600683005, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1526,18 +1478,6 @@
     }, 
     {
       "hnrlbls": [
-        "5-6"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.066000882086, 
-      "lon": 4.374987840287, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanStraat", 
-      "street": "Heindonksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -1594,18 +1534,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heindonksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "5-6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.066000882086, 
-      "lon": 4.374987840287, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanStraat", 
       "street": "Heindonksesteenweg"
     }, 
     {

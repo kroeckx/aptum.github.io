@@ -135,7 +135,7 @@
       "lon": 4.192083102097, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktplein"
     }, 
     {
@@ -147,7 +147,7 @@
       "lon": 4.19209905603, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktplein"
     }, 
     {
@@ -211,6 +211,9 @@
       "street": "Marktplein"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "22A"
       ], 

@@ -147,21 +147,6 @@
     }, 
     {
       "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "106-116"
-      ], 
-      "housenumber": "108", 
-      "lat": 51.173768508477, 
-      "lon": 4.444537899242, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Antwerpsestraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3"
@@ -194,18 +179,6 @@
     }, 
     {
       "hnrlbls": [
-        "106-116"
-      ], 
-      "housenumber": "110", 
-      "lat": 51.173768508477, 
-      "lon": 4.444537899242, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Antwerpsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
@@ -214,18 +187,6 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Antwerpsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "106-116"
-      ], 
-      "housenumber": "112", 
-      "lat": 51.173768508477, 
-      "lon": 4.444537899242, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -242,18 +203,6 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "afgeleidVanGebouw", 
-      "street": "Antwerpsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "106-116"
-      ], 
-      "housenumber": "114", 
-      "lat": 51.173768508477, 
-      "lon": 4.444537899242, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -1579,18 +1528,6 @@
     }, 
     {
       "hnrlbls": [
-        "206"
-      ], 
-      "housenumber": "206", 
-      "lat": 51.174827219518, 
-      "lon": 4.440482390827, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Antwerpsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "207"
       ], 
       "housenumber": "207", 
@@ -1599,18 +1536,6 @@
       "municipality": "Mortsel", 
       "pcode": "2640", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Antwerpsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "208"
-      ], 
-      "housenumber": "208", 
-      "lat": 51.174889731416, 
-      "lon": 4.440414709724, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -1919,11 +1844,11 @@
         "260"
       ], 
       "housenumber": "260", 
-      "lat": 51.1766963078, 
-      "lon": 4.439134252585, 
+      "lat": 51.176528122703, 
+      "lon": 4.439000437471, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -2522,6 +2447,11 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "GLVL"
+      ], 
       "hnrlbls": [
         "300-302"
       ], 
@@ -2530,10 +2460,13 @@
       "lon": 4.436770359894, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "300-302"
       ], 
@@ -2542,7 +2475,7 @@
       "lon": 4.436770359894, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -2613,11 +2546,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.171138288817, 
-      "lon": 4.449233352028, 
+      "lat": 51.171082958981, 
+      "lon": 4.449306318654, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -2863,11 +2796,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.171759564088, 
-      "lon": 4.446865217452, 
+      "lat": 51.171758245365, 
+      "lon": 4.446955579969, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -2981,21 +2914,9 @@
         "2"
       ], 
       "hnrlbls": [
-        "65-65B"
+        "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.17210767651, 
-      "lon": 4.446481895117, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Antwerpsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "65-65B"
-      ], 
-      "housenumber": "65B", 
       "lat": 51.17210767651, 
       "lon": 4.446481895117, 
       "municipality": "Mortsel", 
@@ -3134,24 +3055,13 @@
         "11", 
         "12", 
         "5", 
-        "8"
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
-        "73-73_9"
+        "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.172239091101, 
-      "lon": 4.446207873243, 
-      "municipality": "Mortsel", 
-      "pcode": "2640", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Antwerpsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "73-73_9"
-      ], 
-      "housenumber": "73_9", 
       "lat": 51.172239091101, 
       "lon": 4.446207873243, 
       "municipality": "Mortsel", 
@@ -3177,11 +3087,15 @@
     }, 
     {
       "busnrs": [
+        "10", 
+        "11", 
         "12", 
         "13", 
         "14", 
         "15", 
         "16", 
+        "17", 
+        "18", 
         "3", 
         "4", 
         "6", 

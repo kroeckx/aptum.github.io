@@ -157,6 +157,10 @@
       "street": "Europalaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -472,8 +476,9 @@
       "street": "Europalaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "85"
@@ -574,45 +579,40 @@
       "street": "Europalaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "011", 
+        "021"
       ], 
       "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.865649459046, 
-      "lon": 4.435099563385, 
+      "lat": 50.865648849095, 
+      "lon": 4.435065754456, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Europalaan"
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "4"
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.865675080012, 
-      "lon": 4.435255003453, 
+      "lat": 50.865660695492, 
+      "lon": 4.435257397746, 
       "municipality": "Zaventem", 
       "pcode": "1932", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Europalaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "GLVL"
-      ], 
       "hnrlbls": [
         "99"
       ], 

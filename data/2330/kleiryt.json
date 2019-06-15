@@ -25,12 +25,18 @@
       "street": "Kleiryt"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.355315848353, 
-      "lon": 4.866279905053, 
+      "lat": 51.355266766564, 
+      "lon": 4.866302921209, 
       "municipality": "Merksplas", 
       "pcode": "2330", 
       "source": "afgeleidVanGebouw", 
@@ -193,11 +199,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.357359734222, 
-      "lon": 4.868756620101, 
+      "lat": 51.357303105024, 
+      "lon": 4.868736343008, 
       "municipality": "Merksplas", 
       "pcode": "2330", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kleiryt"
     }, 
     {
@@ -445,11 +451,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.356593641336, 
-      "lon": 4.870720368033, 
+      "lat": 51.356613377618, 
+      "lon": 4.870665600287, 
       "municipality": "Merksplas", 
       "pcode": "2330", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kleiryt"
     }, 
     {

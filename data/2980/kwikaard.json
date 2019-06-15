@@ -26,6 +26,18 @@
     }, 
     {
       "hnrlbls": [
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 51.269166570426, 
+      "lon": 4.622975840111, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kwikaard"
+    }, 
+    {
+      "hnrlbls": [
         "103"
       ], 
       "housenumber": "103", 
@@ -121,8 +133,11 @@
       "street": "Kwikaard"
     }, 
     {
+      "apptnrs": [
+        "b1"
+      ], 
       "hnrlbls": [
-        "112-112b"
+        "112"
       ], 
       "housenumber": "112", 
       "lat": 51.268243203233, 
@@ -130,21 +145,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kwikaard"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "112-112b"
-      ], 
-      "housenumber": "112b", 
-      "lat": 51.268243203233, 
-      "lon": 4.62331064485, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kwikaard"
     }, 
     {
@@ -188,8 +188,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.267951546531, 
-      "lon": 4.621883714917, 
+      "lat": 51.267932269292, 
+      "lon": 4.621861545035, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -332,8 +332,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.269620604759, 
-      "lon": 4.620188884855, 
+      "lat": 51.26960498642, 
+      "lon": 4.620178913766, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -344,11 +344,11 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.269871988419, 
-      "lon": 4.619901814707, 
+      "lat": 51.26986938525, 
+      "lon": 4.619857955698, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kwikaard"
     }, 
     {
@@ -376,31 +376,21 @@
       "street": "Kwikaard"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.264632821677, 
-      "lon": 4.631823763156, 
+      "lat": 51.264517368301, 
+      "lon": 4.631601331013, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kwikaard"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "17b"
-      ], 
-      "housenumber": "17b", 
-      "lat": 51.264507577891, 
-      "lon": 4.631598267003, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kwikaard"
     }, 
     {
@@ -639,8 +629,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.26359610286, 
-      "lon": 4.631989381222, 
+      "lat": 51.263594062416, 
+      "lon": 4.631977335412, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -783,8 +773,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.26393989566, 
-      "lon": 4.631590184416, 
+      "lat": 51.263938830478, 
+      "lon": 4.63158416122, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -807,8 +797,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.267268546966, 
-      "lon": 4.627512464337, 
+      "lat": 51.267273567775, 
+      "lon": 4.627518223349, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1121,6 +1111,18 @@
       "housenumber": "90", 
       "lat": 51.268158605504, 
       "lon": 4.625311786998, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kwikaard"
+    }, 
+    {
+      "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 51.268735198946, 
+      "lon": 4.625106784704, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

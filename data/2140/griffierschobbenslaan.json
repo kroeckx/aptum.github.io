@@ -487,8 +487,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.214626589815, 
-      "lon": 4.456841835438, 
+      "lat": 51.214603330547, 
+      "lon": 4.456574455003, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -512,6 +512,11 @@
       "street": "Griffier Schobbenslaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -591,7 +596,11 @@
     {
       "busnrs": [
         "1", 
-        "5"
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "72"
@@ -617,8 +626,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.21419272015, 
-      "lon": 4.456480509527, 
+      "lat": 51.214152958859, 
+      "lon": 4.456523940244, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -632,7 +641,8 @@
         "4", 
         "5", 
         "6", 
-        "7"
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "76"

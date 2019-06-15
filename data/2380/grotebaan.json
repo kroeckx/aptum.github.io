@@ -212,8 +212,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.365514980794, 
-      "lon": 4.992124755859, 
+      "lat": 51.36552098431, 
+      "lon": 4.992128282463, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -799,6 +799,14 @@
       "street": "Grote Baan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -963,6 +971,15 @@
       "street": "Grote Baan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "174"
       ], 
@@ -984,6 +1001,27 @@
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "176"
+      ], 
+      "housenumber": "176", 
+      "lat": 51.363323535159, 
+      "lon": 4.990301920725, 
+      "municipality": "Ravels", 
+      "pcode": "2380", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Baan"
     }, 
     {
@@ -1293,8 +1331,8 @@
         "199C"
       ], 
       "housenumber": "199C", 
-      "lat": 51.36156915678, 
-      "lon": 4.990126107286, 
+      "lat": 51.361563754463, 
+      "lon": 4.990127901411, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -1341,7 +1379,19 @@
     }, 
     {
       "hnrlbls": [
-        "200A"
+        "200-200A"
+      ], 
+      "housenumber": "200", 
+      "lat": 51.358326062759, 
+      "lon": 4.986685197075, 
+      "municipality": "Ravels", 
+      "pcode": "2380", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "200-200A"
       ], 
       "housenumber": "200A", 
       "lat": 51.358326062759, 
@@ -1763,16 +1813,14 @@
     }, 
     {
       "apptnrs": [
+        "00-1", 
+        "00-2", 
         "01-1", 
         "01-2", 
         "02-1", 
         "02-2", 
         "03-1", 
         "03-2"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
       ], 
       "hnrlbls": [
         "44"
@@ -1808,8 +1856,7 @@
       ], 
       "busnrs": [
         "1", 
-        "2", 
-        "4"
+        "2"
       ], 
       "hnrlbls": [
         "46"
@@ -1894,8 +1941,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.368008833318, 
-      "lon": 4.993524509167, 
+      "lat": 51.368067677771, 
+      "lon": 4.993495721307, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -2081,8 +2128,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.367409796508, 
-      "lon": 4.99307663446, 
+      "lat": 51.367412852418, 
+      "lon": 4.993059588458, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 

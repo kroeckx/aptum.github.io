@@ -2,38 +2,50 @@
   "addresses": [
     {
       "hnrlbls": [
-        "2-8"
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.111698387099, 
+      "lon": 4.346413232375, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Steenmakersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.105582431346, 
-      "lon": 4.335793825766, 
+      "lat": 51.111712933363, 
+      "lon": 4.346328831768, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenmakersstraat"
     }, 
     {
       "hnrlbls": [
-        "2-8"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.105582431346, 
-      "lon": 4.335793825766, 
+      "lat": 51.111722176096, 
+      "lon": 4.34624386239, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenmakersstraat"
     }, 
     {
       "hnrlbls": [
-        "2-8"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.105582431346, 
-      "lon": 4.335793825766, 
+      "lat": 51.111737172234, 
+      "lon": 4.346162460244, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenmakersstraat"
     }, 
     {
@@ -41,23 +53,47 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.111762327921, 
-      "lon": 4.346093476746, 
+      "lat": 51.111750190576, 
+      "lon": 4.346079916589, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenmakersstraat"
     }, 
     {
       "hnrlbls": [
-        "2-8"
+        "6"
       ], 
-      "housenumber": "8", 
-      "lat": 51.105582431346, 
-      "lon": 4.335793825766, 
+      "housenumber": "6", 
+      "lat": 51.111760781176, 
+      "lon": 4.345993518471, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Steenmakersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.111775507263, 
+      "lon": 4.345910973917, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Steenmakersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.111792387148, 
+      "lon": 4.345810150057, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
       "street": "Steenmakersstraat"
     }
   ]

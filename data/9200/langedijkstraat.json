@@ -233,8 +233,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.026197732154, 
-      "lon": 4.12821624571, 
+      "lat": 51.026207657357, 
+      "lon": 4.12819039542, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -465,8 +465,8 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.025918983689, 
-      "lon": 4.129944658151, 
+      "lat": 51.025918714596, 
+      "lon": 4.129944944594, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
@@ -618,7 +618,7 @@
     }, 
     {
       "hnrlbls": [
-        "168"
+        "168-170"
       ], 
       "housenumber": "168", 
       "lat": 51.025410095956, 
@@ -654,9 +654,21 @@
     }, 
     {
       "hnrlbls": [
-        "170"
+        "168-170"
       ], 
       "housenumber": "170", 
+      "lat": 51.025410095956, 
+      "lon": 4.131050189205, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lange Dijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "174"
+      ], 
+      "housenumber": "174", 
       "lat": 51.025572469613, 
       "lon": 4.131602123747, 
       "municipality": "Dendermonde", 
@@ -885,8 +897,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.027875722151, 
-      "lon": 4.122374770314, 
+      "lat": 51.027875548321, 
+      "lon": 4.122377622096, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanPerceelGrb", 

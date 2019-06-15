@@ -50,7 +50,7 @@
     }, 
     {
       "hnrlbls": [
-        "5"
+        "5-5A"
       ], 
       "housenumber": "5", 
       "lat": 51.443678839469, 
@@ -58,6 +58,18 @@
       "municipality": "Baarle-Hertog", 
       "pcode": "2387", 
       "source": "afgeleidVanGebouw", 
+      "street": "Burgemeester van Gilsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5-5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.443678839469, 
+      "lon": 4.924150180989, 
+      "municipality": "Baarle-Hertog", 
+      "pcode": "2387", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Burgemeester van Gilsestraat"
     }, 
     {

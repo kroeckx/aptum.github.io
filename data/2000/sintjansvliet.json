@@ -120,6 +120,23 @@
       "street": "Sint-Jansvliet"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 51.218285609359, 
+      "lon": 4.396722494015, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Sint-Jansvliet"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2"

@@ -141,8 +141,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.197565017675, 
-      "lon": 3.250922129816, 
+      "lat": 51.197567829478, 
+      "lon": 3.25092478095, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -455,8 +455,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.19660719283, 
-      "lon": 3.25245464591, 
+      "lat": 51.196609376829, 
+      "lon": 3.25245745517, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -991,8 +991,8 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.195111516362, 
-      "lon": 3.257789431394, 
+      "lat": 51.195110081054, 
+      "lon": 3.257789751693, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1051,8 +1051,8 @@
         "180-182"
       ], 
       "housenumber": "180", 
-      "lat": 51.19530214856, 
-      "lon": 3.255682905489, 
+      "lat": 51.195301707266, 
+      "lon": 3.255683774434, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1075,8 +1075,8 @@
         "180-182"
       ], 
       "housenumber": "182", 
-      "lat": 51.19530214856, 
-      "lon": 3.255682905489, 
+      "lat": 51.195301707266, 
+      "lon": 3.255683774434, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -1333,8 +1333,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.200282281827, 
-      "lon": 3.246766086525, 
+      "lat": 51.200281958978, 
+      "lon": 3.246769957604, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -2622,8 +2622,8 @@
         "292"
       ], 
       "housenumber": "292", 
-      "lat": 51.194686895, 
-      "lon": 3.262587890664, 
+      "lat": 51.194679071876, 
+      "lon": 3.262587646839, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -2666,15 +2666,20 @@
       "street": "Astridlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.200575328402, 
-      "lon": 3.247617991855, 
+      "lat": 51.200496218766, 
+      "lon": 3.247541909957, 
       "municipality": "Brugge", 
       "pcode": "8310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Astridlaan"
     }, 
     {
@@ -3608,8 +3613,8 @@
         "374"
       ], 
       "housenumber": "374", 
-      "lat": 51.193043091629, 
-      "lon": 3.266998708218, 
+      "lat": 51.1929933228, 
+      "lon": 3.266992586602, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -3620,8 +3625,8 @@
         "374A"
       ], 
       "housenumber": "374A", 
-      "lat": 51.19303483675, 
-      "lon": 3.26710648646, 
+      "lat": 51.192990718055, 
+      "lon": 3.267098943828, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -4745,8 +4750,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.199316283065, 
-      "lon": 3.249717641112, 
+      "lat": 51.199307609619, 
+      "lon": 3.249703540776, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -4946,18 +4951,6 @@
     }, 
     {
       "hnrlbls": [
-        "546"
-      ], 
-      "housenumber": "546", 
-      "lat": 51.188017329635, 
-      "lon": 3.285783850517, 
-      "municipality": "Brugge", 
-      "pcode": "8310", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Astridlaan"
-    }, 
-    {
-      "hnrlbls": [
         "546A"
       ], 
       "housenumber": "546A", 
@@ -5011,6 +5004,18 @@
       "housenumber": "56", 
       "lat": 51.199566658741, 
       "lon": 3.248276652871, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Astridlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.199396191201, 
+      "lon": 3.250429423606, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -5331,8 +5336,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.199061461644, 
-      "lon": 3.24935044931, 
+      "lat": 51.199047869931, 
+      "lon": 3.249329599136, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -5444,8 +5449,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.200399006936, 
-      "lon": 3.247803660458, 
+      "lat": 51.2003912177, 
+      "lon": 3.247806995423, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 

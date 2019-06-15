@@ -305,8 +305,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.043038885969, 
-      "lon": 4.469153615916, 
+      "lat": 51.04312105777, 
+      "lon": 4.468824269514, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -553,11 +553,11 @@
         "191A"
       ], 
       "housenumber": "191A", 
-      "lat": 51.051712511983, 
-      "lon": 4.464551040079, 
+      "lat": 51.051617170763, 
+      "lon": 4.464402666346, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -565,11 +565,23 @@
         "191B"
       ], 
       "housenumber": "191B", 
-      "lat": 51.051930952502, 
-      "lon": 4.464759282149, 
+      "lat": 51.051600260353, 
+      "lon": 4.465073493063, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Antwerpsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "191D"
+      ], 
+      "housenumber": "191D", 
+      "lat": 51.05173307551, 
+      "lon": 4.464247168792, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -959,8 +971,8 @@
         "261"
       ], 
       "housenumber": "261", 
-      "lat": 51.057316593161, 
-      "lon": 4.460495856781, 
+      "lat": 51.057313819464, 
+      "lon": 4.460479448561, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -971,8 +983,8 @@
         "263"
       ], 
       "housenumber": "263", 
-      "lat": 51.05787415033, 
-      "lon": 4.459839556989, 
+      "lat": 51.057874862666, 
+      "lon": 4.459848259074, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -1062,8 +1074,8 @@
         "277"
       ], 
       "housenumber": "277", 
-      "lat": 51.061434657246, 
-      "lon": 4.458335216243, 
+      "lat": 51.06143537767, 
+      "lon": 4.458333505892, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -1110,8 +1122,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.041199116049, 
-      "lon": 4.471016060062, 
+      "lat": 51.04120207119, 
+      "lon": 4.471028899073, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -1122,8 +1134,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.040542608233, 
-      "lon": 4.471474726508, 
+      "lat": 51.040542964286, 
+      "lon": 4.471478719575, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -1146,8 +1158,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.041253230872, 
-      "lon": 4.471014753246, 
+      "lat": 51.041244897926, 
+      "lon": 4.470984079447, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 

@@ -691,6 +691,24 @@
       "street": "Steenweg op Mol"
     }, 
     {
+      "busnrs": [
+        "bus1", 
+        "bus2", 
+        "bus3", 
+        "bus4"
+      ], 
+      "hnrlbls": [
+        "150"
+      ], 
+      "housenumber": "150", 
+      "lat": 51.312637875068, 
+      "lon": 4.995584683944, 
+      "municipality": "Oud-Turnhout", 
+      "pcode": "2360", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Steenweg op Mol"
+    }, 
+    {
       "hnrlbls": [
         "152"
       ], 
@@ -1008,12 +1026,6 @@
       "street": "Steenweg op Mol"
     }, 
     {
-      "busnrs": [
-        "bus1", 
-        "bus2", 
-        "bus3", 
-        "bus4"
-      ], 
       "hnrlbls": [
         "175"
       ], 

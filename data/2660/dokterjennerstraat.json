@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.172484883478, 
-      "lon": 4.366487640247, 
+      "lat": 51.172484523938, 
+      "lon": 4.366487783244, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -29,11 +29,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.172149703542, 
-      "lon": 4.366754458388, 
+      "lat": 51.172208309377, 
+      "lon": 4.366796636879, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dokter Jennerstraat"
     }, 
     {
@@ -53,8 +53,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.172148984632, 
-      "lon": 4.366770329555, 
+      "lat": 51.172149434068, 
+      "lon": 4.366771044459, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -77,8 +77,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.172089749775, 
-      "lon": 4.366744880194, 
+      "lat": 51.172090468864, 
+      "lon": 4.366745309124, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -89,23 +89,23 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.172319940765, 
-      "lon": 4.366293044808, 
+      "lat": 51.172288661639, 
+      "lon": 4.366364251891, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dokter Jennerstraat"
     }, 
     {
       "hnrlbls": [
-        "17-21"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.171938111653, 
-      "lon": 4.366641508001, 
+      "lat": 51.171951594347, 
+      "lon": 4.366629925992, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dokter Jennerstraat"
     }, 
     {
@@ -115,6 +115,18 @@
       "housenumber": "18", 
       "lat": 51.172240392584, 
       "lon": 4.366328507748, 
+      "municipality": "Antwerpen", 
+      "pcode": "2660", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dokter Jennerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.171900898489, 
+      "lon": 4.366596898577, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -134,14 +146,14 @@
     }, 
     {
       "hnrlbls": [
-        "17-21"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.171938111653, 
-      "lon": 4.366641508001, 
+      "lat": 51.171849213879, 
+      "lon": 4.366563728282, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dokter Jennerstraat"
     }, 
     {
@@ -161,8 +173,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.171785664466, 
-      "lon": 4.36653842247, 
+      "lat": 51.171786293665, 
+      "lon": 4.366538422449, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -173,11 +185,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.172073202377, 
-      "lon": 4.366129195541, 
+      "lat": 51.172016665198, 
+      "lon": 4.366180814706, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dokter Jennerstraat"
     }, 
     {
@@ -185,8 +197,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.172016665198, 
-      "lon": 4.366180814706, 
+      "lat": 51.17195994684, 
+      "lon": 4.366145071307, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -197,8 +209,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.17195994684, 
-      "lon": 4.366145071307, 
+      "lat": 51.171889296025, 
+      "lon": 4.36609817594, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +233,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.171889296025, 
-      "lon": 4.36609817594, 
+      "lat": 51.171834285491, 
+      "lon": 4.366064005472, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -298,11 +310,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.172287229867, 
-      "lon": 4.366892147876, 
+      "lat": 51.17226466802, 
+      "lon": 4.366835240943, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dokter Jennerstraat"
     }
   ]

@@ -389,6 +389,18 @@
     }, 
     {
       "hnrlbls": [
+        "118A"
+      ], 
+      "housenumber": "118A", 
+      "lat": 51.208034650064, 
+      "lon": 4.142697733319, 
+      "municipality": "Sint-Gillis-Waas", 
+      "pcode": "9170", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Sint-Niklaasstraat"
+    }, 
+    {
+      "hnrlbls": [
         "119"
       ], 
       "housenumber": "119", 
@@ -1016,8 +1028,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.203515089743, 
-      "lon": 4.146995946955, 
+      "lat": 51.203515990724, 
+      "lon": 4.146997087326, 
       "municipality": "Sint-Gillis-Waas", 
       "pcode": "9170", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1791,12 +1803,20 @@
       "street": "Sint-Niklaasstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.213266352351, 
-      "lon": 4.133213878643, 
+      "lat": 51.213267421043, 
+      "lon": 4.133163641619, 
       "municipality": "Sint-Gillis-Waas", 
       "pcode": "9170", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1819,8 +1839,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.213221609468, 
-      "lon": 4.133314280921, 
+      "lat": 51.213230423263, 
+      "lon": 4.133271589783, 
       "municipality": "Sint-Gillis-Waas", 
       "pcode": "9170", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2032,14 +2052,14 @@
     }, 
     {
       "busnrs": [
-        "B001", 
-        "B002", 
-        "B003", 
-        "B101", 
-        "B102", 
-        "B201", 
-        "B202", 
-        "B203"
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "3"
       ], 
       "hnrlbls": [
         "54"
@@ -2546,6 +2566,35 @@
       "housenumber": "90", 
       "lat": 51.210876189051, 
       "lon": 4.13817726901, 
+      "municipality": "Sint-Gillis-Waas", 
+      "pcode": "9170", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Niklaasstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "90A"
+      ], 
+      "housenumber": "90A", 
+      "lat": 51.210661699971, 
+      "lon": 4.138395984472, 
+      "municipality": "Sint-Gillis-Waas", 
+      "pcode": "9170", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Niklaasstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "90B"
+      ], 
+      "housenumber": "90B", 
+      "lat": 51.210587653025, 
+      "lon": 4.138497808305, 
       "municipality": "Sint-Gillis-Waas", 
       "pcode": "9170", 
       "source": "manueleAanduidingVanGebouw", 

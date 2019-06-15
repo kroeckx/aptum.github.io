@@ -202,8 +202,8 @@
         "110-110B"
       ], 
       "housenumber": "110", 
-      "lat": 51.265792023406, 
-      "lon": 4.637379094901, 
+      "lat": 51.265785710825, 
+      "lon": 4.63738822779, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -217,8 +217,8 @@
         "110-110B"
       ], 
       "housenumber": "110B", 
-      "lat": 51.265792023406, 
-      "lon": 4.637379094901, 
+      "lat": 51.265785710825, 
+      "lon": 4.63738822779, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -253,8 +253,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.265843288244, 
-      "lon": 4.637562635969, 
+      "lat": 51.26585033914, 
+      "lon": 4.637545054324, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -376,8 +376,12 @@
       "street": "Handelslei"
     }, 
     {
+      "apptnrs": [
+        "b2", 
+        "b3"
+      ], 
       "hnrlbls": [
-        "120-120B"
+        "120"
       ], 
       "housenumber": "120", 
       "lat": 51.266048434526, 
@@ -388,46 +392,18 @@
       "street": "Handelslei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "b2"
       ], 
       "hnrlbls": [
-        "120-120B"
-      ], 
-      "housenumber": "120B", 
-      "lat": 51.266048434526, 
-      "lon": 4.637784605731, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Handelslei"
-    }, 
-    {
-      "hnrlbls": [
-        "121-123"
+        "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.267567553881, 
-      "lon": 4.639392518473, 
+      "lat": 51.267529035181, 
+      "lon": 4.639335413118, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Handelslei"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "121b"
-      ], 
-      "housenumber": "121b", 
-      "lat": 51.267627352991, 
-      "lon": 4.639498318926, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Handelslei"
     }, 
     {
@@ -469,11 +445,11 @@
         "7"
       ], 
       "hnrlbls": [
-        "121-123"
+        "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.267567553881, 
-      "lon": 4.639392518473, 
+      "lat": 51.267598897986, 
+      "lon": 4.639481819502, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "manueleAanduidingVanGebouw", 
@@ -719,11 +695,11 @@
       "street": "Handelslei"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "b2"
       ], 
       "hnrlbls": [
-        "137-137b"
+        "137"
       ], 
       "housenumber": "137", 
       "lat": 51.268050976283, 
@@ -731,21 +707,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Handelslei"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "137-137b"
-      ], 
-      "housenumber": "137b", 
-      "lat": 51.268050976283, 
-      "lon": 4.640083071941, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Handelslei"
     }, 
     {
@@ -791,8 +752,12 @@
       "street": "Handelslei"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b2"
+      ], 
       "hnrlbls": [
-        "140-140b"
+        "140"
       ], 
       "housenumber": "140", 
       "lat": 51.266576158967, 
@@ -800,22 +765,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Handelslei"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "140-140b"
-      ], 
-      "housenumber": "140b", 
-      "lat": 51.266576158967, 
-      "lon": 4.639073259921, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Handelslei"
     }, 
     {
@@ -1170,8 +1119,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.267415603422, 
-      "lon": 4.640001132368, 
+      "lat": 51.267409005196, 
+      "lon": 4.640017140834, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1492,8 +1441,8 @@
         "181-181B"
       ], 
       "housenumber": "181", 
-      "lat": 51.271749489208, 
-      "lon": 4.645688112491, 
+      "lat": 51.271759958131, 
+      "lon": 4.645669977052, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1510,8 +1459,8 @@
         "181-181B"
       ], 
       "housenumber": "181B", 
-      "lat": 51.271749489208, 
-      "lon": 4.645688112491, 
+      "lat": 51.271759958131, 
+      "lon": 4.645669977052, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1666,8 +1615,8 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 51.268141361682, 
-      "lon": 4.641035974788, 
+      "lat": 51.268140994555, 
+      "lon": 4.641039268052, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1725,30 +1674,18 @@
       "street": "Handelslei"
     }, 
     {
+      "apptnrs": [
+        "b2"
+      ], 
       "hnrlbls": [
-        "194-194b"
+        "194"
       ], 
       "housenumber": "194", 
-      "lat": 51.268164360472, 
-      "lon": 4.64131349771, 
+      "lat": 51.268164448038, 
+      "lon": 4.641314501177, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Handelslei"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "194-194b"
-      ], 
-      "housenumber": "194b", 
-      "lat": 51.268164360472, 
-      "lon": 4.64131349771, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Handelslei"
     }, 
     {
@@ -1864,7 +1801,7 @@
       "street": "Handelslei"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "b1", 
         "b2", 
         "b3"
@@ -1873,11 +1810,11 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 51.27304589399, 
-      "lon": 4.64770023752, 
+      "lat": 51.27316380165, 
+      "lon": 4.647860145563, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Handelslei"
     }, 
     {
@@ -1914,16 +1851,12 @@
       "street": "Handelslei"
     }, 
     {
-      "apptnrs": [
-        "b1", 
-        "b2"
-      ], 
       "hnrlbls": [
         "203"
       ], 
       "housenumber": "203", 
-      "lat": 51.273470110164, 
-      "lon": 4.650250433091, 
+      "lat": 51.27323729161, 
+      "lon": 4.647950576103, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2111,8 +2044,8 @@
         "222"
       ], 
       "housenumber": "222", 
-      "lat": 51.269099052313, 
-      "lon": 4.642633592325, 
+      "lat": 51.269085019496, 
+      "lon": 4.642638381187, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -2190,8 +2123,8 @@
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 51.269303169978, 
-      "lon": 4.64298469147, 
+      "lat": 51.269293152195, 
+      "lon": 4.643002256086, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -2335,8 +2268,8 @@
         "248"
       ], 
       "housenumber": "248", 
-      "lat": 51.269727180627, 
-      "lon": 4.643627243005, 
+      "lat": 51.269726906646, 
+      "lon": 4.643629104074, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -2546,8 +2479,8 @@
         "274-276"
       ], 
       "housenumber": "274", 
-      "lat": 51.270290394616, 
-      "lon": 4.64520184463, 
+      "lat": 51.270288680494, 
+      "lon": 4.645204556856, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -2558,8 +2491,8 @@
         "274-276"
       ], 
       "housenumber": "276", 
-      "lat": 51.270290394616, 
-      "lon": 4.64520184463, 
+      "lat": 51.270288680494, 
+      "lon": 4.645204556856, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -2627,7 +2560,7 @@
     }, 
     {
       "hnrlbls": [
-        "29-29b"
+        "29"
       ], 
       "housenumber": "29", 
       "lat": 51.264363070377, 
@@ -2706,8 +2639,8 @@
         "294"
       ], 
       "housenumber": "294", 
-      "lat": 51.271318135125, 
-      "lon": 4.645882706605, 
+      "lat": 51.271317417755, 
+      "lon": 4.645881985882, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -2819,21 +2752,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Handelslei"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "29-29b"
-      ], 
-      "housenumber": "29b", 
-      "lat": 51.264363070377, 
-      "lon": 4.6341983231, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Handelslei"
     }, 
     {
@@ -3623,26 +3541,14 @@
         "b6"
       ], 
       "hnrlbls": [
-        "66B-68"
+        "66B"
       ], 
       "housenumber": "66B", 
       "lat": 51.264503573487, 
       "lon": 4.635268189345, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Handelslei"
-    }, 
-    {
-      "hnrlbls": [
-        "66B-68"
-      ], 
-      "housenumber": "68", 
-      "lat": 51.264503573487, 
-      "lon": 4.635268189345, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Handelslei"
     }, 
     {
@@ -3670,31 +3576,19 @@
       "street": "Handelslei"
     }, 
     {
-      "hnrlbls": [
-        "74"
-      ], 
-      "housenumber": "74", 
-      "lat": 51.264774848567, 
-      "lon": 4.636059441586, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Handelslei"
-    }, 
-    {
       "busnrs": [
         "2", 
         "3"
       ], 
       "hnrlbls": [
-        "74b"
+        "74"
       ], 
-      "housenumber": "74b", 
+      "housenumber": "74", 
       "lat": 51.264826759002, 
       "lon": 4.635839679519, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Handelslei"
     }, 
     {
@@ -3706,8 +3600,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.266311700115, 
-      "lon": 4.637271922364, 
+      "lat": 51.266310892158, 
+      "lon": 4.637271487874, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -3837,11 +3731,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.26502070215, 
-      "lon": 4.636286934975, 
+      "lat": 51.265034319741, 
+      "lon": 4.636266955679, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Handelslei"
     }, 
     {
@@ -3849,8 +3743,8 @@
         "83-83B"
       ], 
       "housenumber": "83", 
-      "lat": 51.266539352554, 
-      "lon": 4.637636437584, 
+      "lat": 51.266525277174, 
+      "lon": 4.637659996325, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -3865,8 +3759,8 @@
         "83-83B"
       ], 
       "housenumber": "83B", 
-      "lat": 51.266539352554, 
-      "lon": 4.637636437584, 
+      "lat": 51.266525277174, 
+      "lon": 4.637659996325, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

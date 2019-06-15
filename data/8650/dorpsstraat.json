@@ -13,6 +13,10 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -158,7 +162,7 @@
     }, 
     {
       "hnrlbls": [
-        "20-20B"
+        "20"
       ], 
       "housenumber": "20", 
       "lat": 50.99704219548, 
@@ -170,26 +174,26 @@
     }, 
     {
       "hnrlbls": [
-        "20-20B"
+        "20A-20B"
       ], 
       "housenumber": "20A", 
-      "lat": 50.99704219548, 
-      "lon": 2.90508515958, 
+      "lat": 50.99703405547, 
+      "lon": 2.905052359198, 
       "municipality": "Houthulst", 
       "pcode": "8650", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
       "hnrlbls": [
-        "20-20B"
+        "20A-20B"
       ], 
       "housenumber": "20B", 
-      "lat": 50.99704219548, 
-      "lon": 2.90508515958, 
+      "lat": 50.99703405547, 
+      "lon": 2.905052359198, 
       "municipality": "Houthulst", 
       "pcode": "8650", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {

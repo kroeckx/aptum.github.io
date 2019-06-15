@@ -226,8 +226,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.178067679983, 
-      "lon": 4.842734086654, 
+      "lat": 51.178068309742, 
+      "lon": 4.842733950055, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -557,73 +557,70 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
         "101", 
         "102", 
         "103", 
         "104", 
         "105", 
         "106", 
-        "2", 
         "201", 
         "202", 
         "203", 
         "204", 
         "205", 
         "206", 
-        "207", 
-        "3", 
         "301", 
         "302", 
         "303", 
         "304", 
         "305", 
-        "306", 
-        "4", 
-        "87"
+        "306"
       ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.177084006722, 
-      "lon": 4.847417816226, 
+      "lat": 51.176970819295, 
+      "lon": 4.846890695852, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Augustijnenlaan"
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
         "101", 
         "102", 
         "103", 
         "104", 
         "105", 
-        "2", 
         "201", 
         "202", 
         "203", 
         "204", 
         "205", 
-        "3", 
         "301", 
         "302", 
         "303", 
-        "304", 
-        "4", 
-        "6"
+        "304"
       ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.177071277891, 
-      "lon": 4.847741297572, 
+      "lat": 51.17724322192, 
+      "lon": 4.846857597098, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Augustijnenlaan"
     }, 
     {
@@ -643,29 +640,26 @@
     }, 
     {
       "busnrs": [
-        "01", 
-        "03", 
+        "001", 
+        "002", 
+        "003", 
         "101", 
         "102", 
         "103", 
-        "2", 
         "201", 
         "203", 
-        "206", 
         "301", 
-        "302", 
-        "303", 
-        "304"
+        "302"
       ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.17727962983, 
-      "lon": 4.847388650999, 
+      "lat": 51.177254718435, 
+      "lon": 4.847258835415, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Augustijnenlaan"
     }, 
     {
@@ -682,14 +676,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
         "101", 
         "102", 
-        "2", 
         "201", 
         "202", 
         "203", 
-        "3", 
         "301", 
         "302"
       ], 
@@ -697,11 +691,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.177210268915, 
-      "lon": 4.846870987211, 
+      "lat": 51.177227572449, 
+      "lon": 4.847502517831, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Augustijnenlaan"
     }, 
     {
@@ -718,15 +712,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
         "101", 
         "102", 
         "103", 
-        "2", 
         "201", 
         "202", 
         "203", 
-        "3", 
         "301", 
         "302", 
         "303"
@@ -735,11 +729,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.177124426083, 
-      "lon": 4.847956489106, 
+      "lat": 51.176994034703, 
+      "lon": 4.847327945448, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Augustijnenlaan"
     }, 
     {
@@ -767,28 +761,24 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "103", 
-        "2", 
         "201", 
         "202", 
-        "203", 
         "301", 
-        "302", 
-        "303", 
-        "304"
+        "302"
       ], 
       "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.177131808399, 
-      "lon": 4.847997892462, 
+      "lat": 51.177031118796, 
+      "lon": 4.847559130254, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Augustijnenlaan"
     }, 
     {
@@ -816,10 +806,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "2", 
         "201", 
         "202", 
         "301", 
@@ -829,11 +819,11 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.177140783438, 
-      "lon": 4.848067626523, 
+      "lat": 51.177071759448, 
+      "lon": 4.847799790079, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Augustijnenlaan"
     }, 
     {
@@ -861,14 +851,16 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
         "101", 
         "103", 
         "104", 
         "105", 
         "106", 
         "107", 
-        "2", 
         "201", 
         "202", 
         "203", 
@@ -879,18 +871,17 @@
         "303", 
         "304", 
         "305", 
-        "306", 
-        "4"
+        "306"
       ], 
       "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.177069254454, 
-      "lon": 4.847774739093, 
+      "lat": 51.177185250487, 
+      "lon": 4.847963692602, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Augustijnenlaan"
     }, 
     {
@@ -918,21 +909,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
         "101", 
         "102", 
         "103", 
         "104", 
-        "2", 
         "201", 
         "202", 
         "203", 
         "204", 
-        "3", 
         "301", 
         "302", 
-        "303", 
-        "4"
+        "303"
       ], 
       "hnrlbls": [
         "87"

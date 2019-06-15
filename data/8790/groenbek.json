@@ -14,6 +14,30 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.87675931673, 
+      "lon": 3.415287502108, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Groenbek"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.876657277166, 
+      "lon": 3.414966304204, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Groenbek"
+    }, 
+    {
+      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
@@ -172,12 +196,16 @@
       "street": "Groenbek"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.876243712074, 
-      "lon": 3.411208056407, 
+      "lat": 50.876281761094, 
+      "lon": 3.411353922979, 
       "municipality": "Waregem", 
       "pcode": "8790", 
       "source": "manueleAanduidingVanLot", 

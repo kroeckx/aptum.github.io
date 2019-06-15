@@ -185,6 +185,17 @@
       "street": "Monseigneur Koningsstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22", 
+        "23", 
+        "31", 
+        "32"
+      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -423,11 +434,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.096506982355, 
-      "lon": 5.794628671018, 
+      "lat": 51.096510019061, 
+      "lon": 5.794637758719, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Monseigneur Koningsstraat"
     }, 
     {
@@ -444,7 +455,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-39"
+        "37-41"
       ], 
       "housenumber": "37", 
       "lat": 51.096601440421, 
@@ -492,7 +503,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-39"
+        "37-41"
       ], 
       "housenumber": "39", 
       "lat": 51.096601440421, 

@@ -2,14 +2,38 @@
   "addresses": [
     {
       "hnrlbls": [
-        "19-23"
+        "15"
       ], 
-      "housenumber": "19", 
-      "lat": 50.749339686262, 
-      "lon": 3.606549143348, 
+      "housenumber": "15", 
+      "lat": 50.749063949322, 
+      "lon": 3.606409910565, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Adolf Demetsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.74890875724, 
+      "lon": 3.606531027838, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Adolf Demetsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.748805358899, 
+      "lon": 3.60665371612, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Adolf Demetsstraat"
     }, 
     {
@@ -32,26 +56,26 @@
     }, 
     {
       "hnrlbls": [
-        "19-23"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.749339686262, 
-      "lon": 3.606549143348, 
+      "lat": 50.748651908672, 
+      "lon": 3.606752414339, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Adolf Demetsstraat"
     }, 
     {
       "hnrlbls": [
-        "19-23"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.749339686262, 
-      "lon": 3.606549143348, 
+      "lat": 50.748520133633, 
+      "lon": 3.606824829661, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Adolf Demetsstraat"
     }, 
     {

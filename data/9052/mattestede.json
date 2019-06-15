@@ -137,11 +137,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.995630797467, 
-      "lon": 3.707417654436, 
+      "lat": 50.995606101755, 
+      "lon": 3.707454184989, 
       "municipality": "Gent", 
       "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mattestede"
     }, 
     {
@@ -185,8 +185,32 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.995503673982, 
-      "lon": 3.70715933326, 
+      "lat": 50.995567207103, 
+      "lon": 3.707363422834, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mattestede"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.995531961479, 
+      "lon": 3.707282153518, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mattestede"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 50.995486451298, 
+      "lon": 3.707181940813, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 

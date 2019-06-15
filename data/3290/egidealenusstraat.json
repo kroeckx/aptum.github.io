@@ -1,20 +1,15 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "A001", 
-        "A002", 
-        "A003"
-      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.983080511266, 
-      "lon": 5.050540570556, 
+      "lat": 50.983063455088, 
+      "lon": 5.050520954098, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Egide Alenusstraat"
     }, 
     {
@@ -126,6 +121,22 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
+      "street": "Egide Alenusstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "1a"
+      ], 
+      "housenumber": "1a", 
+      "lat": 50.983030037022, 
+      "lon": 5.050563476027, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Egide Alenusstraat"
     }, 
     {

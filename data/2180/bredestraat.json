@@ -164,8 +164,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.30369805882, 
-      "lon": 4.413494786642, 
+      "lat": 51.303697249342, 
+      "lon": 4.413496219726, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -957,6 +957,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.298106887819, 
+      "lon": 4.413819940812, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bredestraat"
+    }, 
+    {
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
@@ -975,25 +987,9 @@
         "102"
       ], 
       "hnrlbls": [
-        "54-56"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.299249908345, 
-      "lon": 4.413108353661, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bredestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "54-56"
-      ], 
-      "housenumber": "56", 
       "lat": 51.299249908345, 
       "lon": 4.413108353661, 
       "municipality": "Antwerpen", 
@@ -1006,18 +1002,17 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.300624379445, 
-      "lon": 4.413783990562, 
+      "lat": 51.30052580123, 
+      "lon": 4.413728980074, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bredestraat"
     }, 
     {
       "busnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "58"
@@ -1037,6 +1032,42 @@
       "housenumber": "59", 
       "lat": 51.300971871332, 
       "lon": 4.413519224075, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bredestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.298173403556, 
+      "lon": 4.413810257013, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bredestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 51.298268056539, 
+      "lon": 4.413788987809, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bredestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5C"
+      ], 
+      "housenumber": "5C", 
+      "lat": 51.298333856762, 
+      "lon": 4.413770127492, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1318,8 +1349,8 @@
         "82A"
       ], 
       "housenumber": "82A", 
-      "lat": 51.30047909591, 
-      "lon": 4.412937777054, 
+      "lat": 51.300480436137, 
+      "lon": 4.412958854843, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanPerceelGrb", 

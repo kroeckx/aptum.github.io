@@ -53,8 +53,8 @@
         "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 51.011062034753, 
-      "lon": 3.76427665848, 
+      "lat": 51.011049362052, 
+      "lon": 3.764277106826, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -113,8 +113,20 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.010355177225, 
-      "lon": 3.764061769094, 
+      "lat": 51.010368734912, 
+      "lon": 3.764058601895, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ginstdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "18A"
+      ], 
+      "housenumber": "18A", 
+      "lat": 51.010374207391, 
+      "lon": 3.764179081428, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -161,11 +173,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.010328320968, 
-      "lon": 3.764521658754, 
+      "lat": 51.010407865028, 
+      "lon": 3.764501824595, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ginstdreef"
     }, 
     {
@@ -185,8 +197,20 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.010359823244, 
-      "lon": 3.764581955364, 
+      "lat": 51.010410729665, 
+      "lon": 3.764569614976, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ginstdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 51.010400053362, 
+      "lon": 3.764643849552, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -269,8 +293,8 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.010313709125, 
-      "lon": 3.7625693938, 
+      "lat": 51.01031405768, 
+      "lon": 3.762567251884, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -281,11 +305,11 @@
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 51.010261400721, 
-      "lon": 3.762850925411, 
+      "lat": 51.010330302085, 
+      "lon": 3.762841770516, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ginstdreef"
     }, 
     {
@@ -565,11 +589,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.010372659864, 
-      "lon": 3.765771758928, 
+      "lat": 51.010427111405, 
+      "lon": 3.765767068941, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ginstdreef"
     }, 
     {
@@ -661,11 +685,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.01023845631, 
-      "lon": 3.763056555446, 
+      "lat": 51.010347820536, 
+      "lon": 3.763066969903, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ginstdreef"
     }, 
     {
@@ -685,11 +709,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.010065891139, 
-      "lon": 3.767098183063, 
+      "lat": 51.010129959032, 
+      "lon": 3.76795631137, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ginstdreef"
     }, 
     {
@@ -697,11 +721,11 @@
         "61A"
       ], 
       "housenumber": "61A", 
-      "lat": 51.010089642097, 
-      "lon": 3.767366050722, 
+      "lat": 51.01005261543, 
+      "lon": 3.767227024729, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ginstdreef"
     }, 
     {

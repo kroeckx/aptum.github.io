@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
+        "10-12"
       ], 
       "housenumber": "10", 
-      "lat": 50.744759817541, 
-      "lon": 3.590745544428, 
+      "lat": 50.744799448461, 
+      "lon": 3.590702524005, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Engelsenlaan"
     }, 
     {
@@ -34,6 +34,18 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Engelsenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "10-12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.744799448461, 
+      "lon": 3.590702524005, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Engelsenlaan"
     }, 
     {
@@ -331,18 +343,6 @@
       "housenumber": "181", 
       "lat": 50.741337434344, 
       "lon": 3.576799549718, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Engelsenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "183"
-      ], 
-      "housenumber": "183", 
-      "lat": 50.741273464429, 
-      "lon": 3.576513147917, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -887,8 +887,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.745560268673, 
-      "lon": 3.588792939323, 
+      "lat": 50.745558705592, 
+      "lon": 3.588787722415, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1003,6 +1003,18 @@
       "street": "Engelsenlaan"
     }, 
     {
+      "hnrlbls": [
+        "41-43"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.745131611451, 
+      "lon": 3.585653266102, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Engelsenlaan"
+    }, 
+    {
       "busnrs": [
         "0002", 
         "0101", 
@@ -1021,6 +1033,18 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Engelsenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "41-43"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.745131611451, 
+      "lon": 3.585653266102, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Engelsenlaan"
     }, 
     {
@@ -1081,6 +1105,18 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Engelsenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.744276058371, 
+      "lon": 3.585297657739, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Engelsenlaan"
     }, 
     {
@@ -1147,6 +1183,11 @@
       "street": "Engelsenlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "7"
       ], 

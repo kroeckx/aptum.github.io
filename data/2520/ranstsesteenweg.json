@@ -408,8 +408,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.18376591467, 
-      "lon": 4.561477873059, 
+      "lat": 51.183763941652, 
+      "lon": 4.561475147513, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -928,11 +928,11 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 51.185986056849, 
-      "lon": 4.563080387227, 
+      "lat": 51.185800056454, 
+      "lon": 4.563314744007, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Ranstsesteenweg"
     }, 
     {
@@ -1405,8 +1405,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.154075501959, 
-      "lon": 4.577445210053, 
+      "lat": 51.153939673806, 
+      "lon": 4.577653276049, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1417,8 +1417,8 @@
         "27A"
       ], 
       "housenumber": "27A", 
-      "lat": 51.154224256328, 
-      "lon": 4.577196037205, 
+      "lat": 51.154062485397, 
+      "lon": 4.577486315093, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1441,11 +1441,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "29-29BIS"
+        "29-29B"
       ], 
       "housenumber": "29", 
-      "lat": 51.154427337158, 
-      "lon": 4.57712991276, 
+      "lat": 51.154224256328, 
+      "lon": 4.577196037205, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1465,11 +1465,11 @@
     }, 
     {
       "hnrlbls": [
-        "29-29BIS"
+        "29-29B"
       ], 
       "housenumber": "29B", 
-      "lat": 51.154427337158, 
-      "lon": 4.57712991276, 
+      "lat": 51.154224256328, 
+      "lon": 4.577196037205, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1477,7 +1477,7 @@
     }, 
     {
       "hnrlbls": [
-        "29-29BIS"
+        "29BIS"
       ], 
       "housenumber": "29BIS", 
       "lat": 51.154427337158, 
@@ -1660,11 +1660,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.155554427478, 
-      "lon": 4.576975445908, 
+      "lat": 51.155569244115, 
+      "lon": 4.57708528482, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ranstsesteenweg"
     }, 
     {

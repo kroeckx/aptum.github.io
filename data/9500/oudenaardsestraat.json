@@ -62,18 +62,6 @@
     }, 
     {
       "hnrlbls": [
-        "107"
-      ], 
-      "housenumber": "107", 
-      "lat": 50.772453333679, 
-      "lon": 3.870294325372, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oudenaardsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "108"
       ], 
       "housenumber": "108", 
@@ -155,8 +143,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.772548123194, 
-      "lon": 3.869964551839, 
+      "lat": 50.772663334519, 
+      "lon": 3.870018766331, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -191,8 +179,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.772240604306, 
-      "lon": 3.869949374785, 
+      "lat": 50.772068793609, 
+      "lon": 3.869840468931, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -227,8 +215,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.772229536476, 
-      "lon": 3.869883567916, 
+      "lat": 50.772230344927, 
+      "lon": 3.86988341759, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -782,8 +770,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.771631497221, 
-      "lon": 3.875250932921, 
+      "lat": 50.771631227536, 
+      "lon": 3.875250935744, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -830,8 +818,8 @@
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 50.772675461849, 
-      "lon": 3.867991704974, 
+      "lat": 50.77267483198, 
+      "lon": 3.867991569891, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1414,8 +1402,8 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 50.773682415188, 
-      "lon": 3.86369369174, 
+      "lat": 50.773682869548, 
+      "lon": 3.863694821084, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -2004,8 +1992,8 @@
         "276"
       ], 
       "housenumber": "276", 
-      "lat": 50.774474491802, 
-      "lon": 3.856291439353, 
+      "lat": 50.774474586654, 
+      "lon": 3.856292572553, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -2028,8 +2016,8 @@
         "279"
       ], 
       "housenumber": "279", 
-      "lat": 50.774952953374, 
-      "lon": 3.8560284817, 
+      "lat": 50.774946501412, 
+      "lon": 3.856033230621, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -3152,6 +3140,11 @@
       "street": "Oudenaardsestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -3212,36 +3205,18 @@
       "street": "Oudenaardsestraat"
     }, 
     {
-      "hnrlbls": [
-        "72"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
-      "housenumber": "72", 
-      "lat": 50.771952092206, 
-      "lon": 3.87167905747, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oudenaardsestraat"
-    }, 
-    {
       "hnrlbls": [
         "74"
       ], 
       "housenumber": "74", 
       "lat": 50.771914785387, 
       "lon": 3.871594529962, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oudenaardsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "76"
-      ], 
-      "housenumber": "76", 
-      "lat": 50.771973106474, 
-      "lon": 3.871567829099, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 

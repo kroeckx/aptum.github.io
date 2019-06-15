@@ -397,6 +397,22 @@
       "street": "Dennenlaan"
     }, 
     {
+      "apptnrs": [
+        "b2", 
+        "b6"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.256055779196, 
+      "lon": 4.624815523928, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dennenlaan"
+    }, 
+    {
       "hnrlbls": [
         "8"
       ], 
@@ -406,6 +422,24 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dennenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "b2", 
+        "b3", 
+        "b5", 
+        "b9"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.255801608446, 
+      "lon": 4.625634034012, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dennenlaan"
     }
   ]

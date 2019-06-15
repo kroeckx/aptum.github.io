@@ -219,8 +219,8 @@
         "123_1"
       ], 
       "housenumber": "123_1", 
-      "lat": 51.022541713227, 
-      "lon": 5.342710882075, 
+      "lat": 51.022550166354, 
+      "lon": 5.342743129246, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -231,8 +231,8 @@
         "123_2"
       ], 
       "housenumber": "123_2", 
-      "lat": 51.022549350379, 
-      "lon": 5.342809107725, 
+      "lat": 51.02255393597, 
+      "lon": 5.342830726538, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -495,6 +495,18 @@
     }, 
     {
       "hnrlbls": [
+        "160"
+      ], 
+      "housenumber": "160", 
+      "lat": 51.023949398372, 
+      "lon": 5.346485787328, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "M. Scheperslaan"
+    }, 
+    {
+      "hnrlbls": [
         "161"
       ], 
       "housenumber": "161", 
@@ -512,6 +524,18 @@
       "housenumber": "162", 
       "lat": 51.023976640483, 
       "lon": 5.346701739384, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "M. Scheperslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "164"
+      ], 
+      "housenumber": "164", 
+      "lat": 51.024023802204, 
+      "lon": 5.34696543251, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -776,11 +800,23 @@
     }, 
     {
       "hnrlbls": [
-        "27"
+        "27_1"
       ], 
-      "housenumber": "27", 
-      "lat": 51.026844407337, 
-      "lon": 5.331186471431, 
+      "housenumber": "27_1", 
+      "lat": 51.026881087498, 
+      "lon": 5.331175251584, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "M. Scheperslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "27_2"
+      ], 
+      "housenumber": "27_2", 
+      "lat": 51.026876985962, 
+      "lon": 5.331215081688, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

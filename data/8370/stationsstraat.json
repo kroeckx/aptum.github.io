@@ -73,25 +73,25 @@
       "street": "Stationsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.313766370309, 
-      "lon": 3.134095150844, 
+      "lat": 51.313764304837, 
+      "lon": 3.134095349059, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -582,8 +582,9 @@
     }, 
     {
       "apptnrs": [
-        "VER1", 
-        "VER2"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "7"

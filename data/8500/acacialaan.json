@@ -26,35 +26,11 @@
     }, 
     {
       "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.826776215291, 
-      "lon": 3.290699003989, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Acacialaan"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.826492505444, 
       "lon": 3.291230708822, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Acacialaan"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.826772412346, 
-      "lon": 3.290784118051, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -74,18 +50,6 @@
     }, 
     {
       "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 50.826768429568, 
-      "lon": 3.290869236217, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Acacialaan"
-    }, 
-    {
-      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -98,59 +62,11 @@
     }, 
     {
       "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.826764536614, 
-      "lon": 3.29095435231, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Acacialaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 50.826762417767, 
-      "lon": 3.29102707827, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Acacialaan"
-    }, 
-    {
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
       "lat": 50.826521565073, 
       "lon": 3.290694759834, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Acacialaan"
-    }, 
-    {
-      "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.826752289803, 
-      "lon": 3.291089199593, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Acacialaan"
-    }, 
-    {
-      "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 50.826733158522, 
-      "lon": 3.291541458236, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -229,15 +145,38 @@
       "street": "Acacialaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026", 
+        "0027"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.826780190119, 
-      "lon": 3.290613034284, 
+      "lat": 50.826836864374, 
+      "lon": 3.291027644358, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Acacialaan"
     }
   ]

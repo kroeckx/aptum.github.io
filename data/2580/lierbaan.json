@@ -403,6 +403,30 @@
     }, 
     {
       "hnrlbls": [
+        "126"
+      ], 
+      "housenumber": "126", 
+      "lat": 51.064639675931, 
+      "lon": 4.628324169569, 
+      "municipality": "Putte", 
+      "pcode": "2580", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lierbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "126A"
+      ], 
+      "housenumber": "126A", 
+      "lat": 51.064761483466, 
+      "lon": 4.628158082301, 
+      "municipality": "Putte", 
+      "pcode": "2580", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lierbaan"
+    }, 
+    {
+      "hnrlbls": [
         "127"
       ], 
       "housenumber": "127", 
@@ -951,8 +975,8 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.061894264507, 
-      "lon": 4.628203196849, 
+      "lat": 51.061895816232, 
+      "lon": 4.628192506932, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -1407,8 +1431,8 @@
         "192A"
       ], 
       "housenumber": "192A", 
-      "lat": 51.072727565539, 
-      "lon": 4.622771536047, 
+      "lat": 51.072731169702, 
+      "lon": 4.622767560624, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2309,8 +2333,8 @@
         "265A"
       ], 
       "housenumber": "265A", 
-      "lat": 51.073655034417, 
-      "lon": 4.621273848122, 
+      "lat": 51.073705705662, 
+      "lon": 4.621160546567, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2321,8 +2345,8 @@
         "265B"
       ], 
       "housenumber": "265B", 
-      "lat": 51.073807139589, 
-      "lon": 4.62110059758, 
+      "lat": 51.073844825424, 
+      "lon": 4.62100648755, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2333,8 +2357,8 @@
         "265C"
       ], 
       "housenumber": "265C", 
-      "lat": 51.073945911457, 
-      "lon": 4.620899165098, 
+      "lat": 51.073979826339, 
+      "lon": 4.620844843104, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2345,8 +2369,8 @@
         "265D"
       ], 
       "housenumber": "265D", 
-      "lat": 51.074082198522, 
-      "lon": 4.62068259346, 
+      "lat": 51.074110993026, 
+      "lon": 4.620668623205, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2357,8 +2381,8 @@
         "265E"
       ], 
       "housenumber": "265E", 
-      "lat": 51.074226498983, 
-      "lon": 4.620459642985, 
+      "lat": 51.074255373928, 
+      "lon": 4.620492045574, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2553,8 +2577,8 @@
         "289C"
       ], 
       "housenumber": "289C", 
-      "lat": 51.079719331894, 
-      "lon": 4.615767575815, 
+      "lat": 51.079709059165, 
+      "lon": 4.615779651037, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2946,11 +2970,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.056319063389, 
-      "lon": 4.628474009062, 
+      "lat": 51.056286849175, 
+      "lon": 4.628692481825, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lierbaan"
     }, 
     {
@@ -3077,19 +3101,14 @@
     {
       "busnrs": [
         "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "301"
+        "2"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.055266073082, 
-      "lon": 4.628767808798, 
+      "lat": 51.055245025034, 
+      "lon": 4.628652163681, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -3485,7 +3504,7 @@
         "22"
       ], 
       "hnrlbls": [
-        "77-79"
+        "77"
       ], 
       "housenumber": "77", 
       "lat": 51.057765461569, 
@@ -3524,11 +3543,11 @@
         "301"
       ], 
       "hnrlbls": [
-        "77-79"
+        "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.057765461569, 
-      "lon": 4.628929503374, 
+      "lat": 51.057904669669, 
+      "lon": 4.628862385136, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -3592,7 +3611,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
         "86"

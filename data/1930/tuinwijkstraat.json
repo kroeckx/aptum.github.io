@@ -242,19 +242,15 @@
       "street": "Tuinwijkstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "011"
-      ], 
       "hnrlbls": [
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.893416927845, 
-      "lon": 4.470152662471, 
+      "lat": 50.89336944793, 
+      "lon": 4.470274226465, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tuinwijkstraat"
     }, 
     {
@@ -544,7 +540,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-3B"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 50.889973449067, 
@@ -642,18 +638,6 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tuinwijkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 50.889973449067, 
-      "lon": 4.463082167573, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Tuinwijkstraat"
     }, 
     {

@@ -130,8 +130,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "19"
@@ -145,6 +145,10 @@
       "street": "Turcksinstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "19A"
       ], 
@@ -404,6 +408,18 @@
       "municipality": "Machelen", 
       "pcode": "1830", 
       "source": "afgeleidVanGebouw", 
+      "street": "Turcksinstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 50.914585363935, 
+      "lon": 4.438904301458, 
+      "municipality": "Machelen", 
+      "pcode": "1830", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Turcksinstraat"
     }, 
     {

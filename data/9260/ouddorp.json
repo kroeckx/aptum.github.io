@@ -189,11 +189,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.011723017894, 
-      "lon": 3.971468568301, 
+      "lat": 51.011718404351, 
+      "lon": 3.971433268452, 
       "municipality": "Wichelen", 
       "pcode": "9260", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Oud Dorp"
     }, 
     {
@@ -213,8 +213,8 @@
         "23A"
       ], 
       "housenumber": "23A", 
-      "lat": 51.011835793599, 
-      "lon": 3.971430421991, 
+      "lat": 51.011829491356, 
+      "lon": 3.971400836199, 
       "municipality": "Wichelen", 
       "pcode": "9260", 
       "source": "manueleAanduidingVanLot", 
@@ -441,11 +441,23 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.011411734176, 
-      "lon": 3.971232097816, 
+      "lat": 51.011419734809, 
+      "lon": 3.97123217253, 
       "municipality": "Wichelen", 
       "pcode": "9260", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oud Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 51.011473994833, 
+      "lon": 3.971221880699, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oud Dorp"
     }, 
     {

@@ -41,11 +41,23 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.002585301216, 
-      "lon": 3.343320996133, 
+      "lat": 51.002419212056, 
+      "lon": 3.343553307761, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
+      "street": "Galgenveldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 51.002980247677, 
+      "lon": 3.343736094182, 
+      "municipality": "Tielt", 
+      "pcode": "8700", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Galgenveldstraat"
     }, 
     {
@@ -70,18 +82,6 @@
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
-      "street": "Galgenveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.003040450284, 
-      "lon": 3.343753300322, 
-      "municipality": "Tielt", 
-      "pcode": "8700", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Galgenveldstraat"
     }, 
     {

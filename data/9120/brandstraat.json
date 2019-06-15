@@ -380,6 +380,25 @@
       "street": "Brandstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.220127627704, 
+      "lon": 4.211147322533, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brandstraat"
+    }, 
+    {
       "hnrlbls": [
         "30"
       ], 

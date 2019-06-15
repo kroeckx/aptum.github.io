@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -41,6 +41,18 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Keirlandse Zillen"
+    }, 
+    {
+      "hnrlbls": [
+        "18A"
+      ], 
+      "housenumber": "18A", 
+      "lat": 51.190040338438, 
+      "lon": 5.109365302465, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Keirlandse Zillen"
     }, 
     {

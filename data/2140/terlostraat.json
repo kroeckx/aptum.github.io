@@ -368,9 +368,6 @@
       "street": "Terlostraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -559,11 +556,23 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.218707200075, 
-      "lon": 4.443569787736, 
+      "lat": 51.218757127482, 
+      "lon": 4.443504316744, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Terlostraat"
+    }, 
+    {
+      "hnrlbls": [
+        "54A"
+      ], 
+      "housenumber": "54A", 
+      "lat": 51.218768422155, 
+      "lon": 4.443552425464, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Terlostraat"
     }, 
     {
@@ -685,9 +694,6 @@
       "street": "Terlostraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "63"
       ], 

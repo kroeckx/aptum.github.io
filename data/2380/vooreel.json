@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.387635937683, 
-      "lon": 5.014798827114, 
+      "lat": 51.387633199966, 
+      "lon": 5.014806402552, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -156,8 +156,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.389247522489, 
-      "lon": 5.015817092947, 
+      "lat": 51.389245393736, 
+      "lon": 5.015811891616, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -506,15 +506,19 @@
       "street": "Vooreel"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.391547070522, 
-      "lon": 5.015382394391, 
+      "lat": 51.391412248156, 
+      "lon": 5.015563830397, 
       "municipality": "Ravels", 
       "pcode": "2380", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vooreel"
     }, 
     {
@@ -527,6 +531,42 @@
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vooreel"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.391536583122, 
+      "lon": 5.015607800712, 
+      "municipality": "Ravels", 
+      "pcode": "2380", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Vooreel"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "53A"
+      ], 
+      "housenumber": "53A", 
+      "lat": 51.391681444892, 
+      "lon": 5.015579650547, 
+      "municipality": "Ravels", 
+      "pcode": "2380", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vooreel"
     }, 
     {
@@ -614,6 +654,18 @@
       "street": "Vooreel"
     }, 
     {
+      "hnrlbls": [
+        "58A"
+      ], 
+      "housenumber": "58A", 
+      "lat": 51.393258782463, 
+      "lon": 5.015559686928, 
+      "municipality": "Ravels", 
+      "pcode": "2380", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Vooreel"
+    }, 
+    {
       "busnrs": [
         "65"
       ], 
@@ -633,8 +685,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.387765184779, 
-      "lon": 5.015689116022, 
+      "lat": 51.387768371922, 
+      "lon": 5.015681546878, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 
@@ -849,8 +901,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.38840659499, 
-      "lon": 5.015075890923, 
+      "lat": 51.388406323019, 
+      "lon": 5.015076318098, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 

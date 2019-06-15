@@ -122,6 +122,18 @@
     }, 
     {
       "hnrlbls": [
+        "15E"
+      ], 
+      "housenumber": "15E", 
+      "lat": 51.211668604634, 
+      "lon": 3.421816915104, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Koning Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
         "15F"
       ], 
       "housenumber": "15F", 
@@ -190,6 +202,30 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Koning Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "15L"
+      ], 
+      "housenumber": "15L", 
+      "lat": 51.212599419926, 
+      "lon": 3.420524984865, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Koning Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "15M"
+      ], 
+      "housenumber": "15M", 
+      "lat": 51.212740320346, 
+      "lon": 3.420361828218, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koning Albertlaan"
     }, 
     {
@@ -346,6 +382,18 @@
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Koning Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "25G"
+      ], 
+      "housenumber": "25G", 
+      "lat": 51.216731220926, 
+      "lon": 3.415618058576, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koning Albertlaan"
     }, 
     {
@@ -641,6 +689,18 @@
     }, 
     {
       "hnrlbls": [
+        "2G"
+      ], 
+      "housenumber": "2G", 
+      "lat": 51.209600605557, 
+      "lon": 3.422889979377, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Koning Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -680,11 +740,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.235152995635, 
-      "lon": 3.401187248559, 
+      "lat": 51.235064769062, 
+      "lon": 3.401291887979, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albertlaan"
     }, 
     {
@@ -913,6 +973,7 @@
         "1", 
         "10", 
         "11", 
+        "12", 
         "2", 
         "3", 
         "4", 

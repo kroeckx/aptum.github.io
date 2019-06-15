@@ -228,6 +228,18 @@
       "street": "Britselei"
     }, 
     {
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.210555526336, 
+      "lon": 4.406414128273, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Britselei"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -671,6 +683,11 @@
       "street": "Britselei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -830,6 +847,16 @@
       "street": "Britselei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601", 
+        "701", 
+        "801"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1020,8 +1047,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.209713512447, 
-      "lon": 4.403762107088, 
+      "lat": 51.209673955294, 
+      "lon": 4.403788836201, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.997499038256, 
-      "lon": 5.508636529353, 
+      "lat": 50.997462599782, 
+      "lon": 5.508769276338, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Putmosstraat"
     }, 
     {
@@ -26,14 +26,26 @@
     }, 
     {
       "hnrlbls": [
-        "10-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.997499038256, 
-      "lon": 5.508636529353, 
+      "lat": 50.997371604763, 
+      "lon": 5.508659498481, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Putmosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.997110607121, 
+      "lon": 5.508976114869, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Putmosstraat"
     }, 
     {

@@ -13,12 +13,76 @@
       "street": "Galileilaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0K01"
+      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
       "lat": 51.10810413491, 
       "lon": 4.354116706474, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Galileilaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011"
+      ], 
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 51.108478501217, 
+      "lon": 4.351881240166, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Galileilaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0017"
+      ], 
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 51.108859749023, 
+      "lon": 4.352133274828, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanPerceelGrb", 

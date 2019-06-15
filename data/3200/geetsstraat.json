@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.980226030693, 
-      "lon": 4.833092964567, 
+      "lat": 50.980072732504, 
+      "lon": 4.833236976622, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Geetsstraat"
     }, 
     {
@@ -58,6 +58,18 @@
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Geetsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.981136650027, 
+      "lon": 4.834568469417, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Geetsstraat"
     }, 
     {
@@ -137,8 +149,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.977669247289, 
-      "lon": 4.828211292151, 
+      "lat": 50.977669706209, 
+      "lon": 4.828208875978, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 

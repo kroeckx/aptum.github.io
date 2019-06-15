@@ -46,6 +46,26 @@
     }, 
     {
       "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.207161606213, 
+      "lon": 3.225137318183, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kartuizerinnenstraat"
+    }, 
+    {
+      "busnrs": [
         "101", 
         "201"
       ], 

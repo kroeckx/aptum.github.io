@@ -17,8 +17,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.229939200349, 
-      "lon": 4.40157621695, 
+      "lat": 51.229948188499, 
+      "lon": 4.401576939215, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -26,50 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "12-15A"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.233423567339, 
-      "lon": 4.403315819273, 
+      "lat": 51.233539272264, 
+      "lon": 4.403232008215, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijnkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "12-15A"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.233423567339, 
-      "lon": 4.403315819273, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijnkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.233480168461, 
-      "lon": 4.40340104909, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijnkaai"
-    }, 
-    {
-      "hnrlbls": [
-        "12-15A"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.233423567339, 
-      "lon": 4.403315819273, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rijnkaai"
     }, 
     {
@@ -86,11 +50,11 @@
     }, 
     {
       "hnrlbls": [
-        "12-15A"
+        "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.233423567339, 
-      "lon": 4.403315819273, 
+      "lat": 51.233121205253, 
+      "lon": 4.403296405759, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -119,6 +83,7 @@
         "401", 
         "402", 
         "501", 
+        "502", 
         "601", 
         "602"
       ], 
@@ -167,8 +132,7 @@
         "302", 
         "401", 
         "402", 
-        "501", 
-        "502"
+        "501"
       ], 
       "hnrlbls": [
         "19"
@@ -312,6 +276,11 @@
       "street": "Rijnkaai"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "26"
       ], 

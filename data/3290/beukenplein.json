@@ -9,11 +9,26 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.976846627004, 
-      "lon": 5.062747495787, 
+      "lat": 50.976857086873, 
+      "lon": 5.062726861304, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Beukenplein"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.976665388443, 
+      "lon": 5.063038139925, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beukenplein"
     }, 
     {
@@ -36,11 +51,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.976975040574, 
-      "lon": 5.062953307352, 
+      "lat": 50.976986893972, 
+      "lon": 5.062955476591, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beukenplein"
     }, 
     {
@@ -51,11 +66,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.976918973953, 
-      "lon": 5.062978961484, 
+      "lat": 50.977020837914, 
+      "lon": 5.063052950328, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beukenplein"
     }, 
     {
@@ -66,11 +81,41 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.976964866349, 
-      "lon": 5.063062515236, 
+      "lat": 50.977055041931, 
+      "lon": 5.063091191981, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Beukenplein"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.977016879761, 
+      "lon": 5.063114263592, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Beukenplein"
+    }, 
+    {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.976791391807, 
+      "lon": 5.062815026142, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beukenplein"
     }, 
     {
@@ -86,6 +131,21 @@
       "street": "Beukenplein"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.97674857862, 
+      "lon": 5.062894986309, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Beukenplein"
+    }, 
+    {
       "hnrlbls": [
         "6"
       ], 
@@ -98,6 +158,21 @@
       "street": "Beukenplein"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.976708512227, 
+      "lon": 5.062996915632, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Beukenplein"
+    }, 
+    {
       "hnrlbls": [
         "8"
       ], 
@@ -107,6 +182,21 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
+      "street": "Beukenplein"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.976679586355, 
+      "lon": 5.063054298473, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beukenplein"
     }
   ]

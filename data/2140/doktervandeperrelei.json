@@ -468,6 +468,13 @@
       "street": "Dokter Van de Perrelei"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "1A"
       ], 
@@ -784,6 +791,11 @@
       "street": "Dokter Van de Perrelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -974,6 +986,11 @@
       "street": "Dokter Van de Perrelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -1135,8 +1152,10 @@
       "street": "Dokter Van de Perrelei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "56"
@@ -1294,6 +1313,11 @@
       "street": "Dokter Van de Perrelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -1421,6 +1445,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -1435,6 +1461,11 @@
       "street": "Dokter Van de Perrelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -1495,6 +1526,8 @@
         "1", 
         "2", 
         "3", 
+        "4", 
+        "5", 
         "6"
       ], 
       "hnrlbls": [
@@ -1509,6 +1542,10 @@
       "street": "Dokter Van de Perrelei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1664,6 +1701,11 @@
       "street": "Dokter Van de Perrelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "9"
       ], 
@@ -1775,9 +1817,7 @@
     {
       "busnrs": [
         "1", 
-        "2", 
-        "3", 
-        "4"
+        "2"
       ], 
       "hnrlbls": [
         "98"

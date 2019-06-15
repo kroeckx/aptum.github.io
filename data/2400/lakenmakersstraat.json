@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "201", 
         "301", 
@@ -142,12 +142,14 @@
       "street": "Lakenmakersstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
         "101", 
-        "1B", 
         "201", 
         "301"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "19"
@@ -236,12 +238,12 @@
     }, 
     {
       "apptnrs": [
-        "1"
-      ], 
-      "busnrs": [
         "101", 
         "201", 
         "301"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "3"

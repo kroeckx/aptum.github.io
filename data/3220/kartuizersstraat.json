@@ -329,8 +329,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.918333078685, 
-      "lon": 4.763141490962, 
+      "lat": 50.918335309171, 
+      "lon": 4.763199958899, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
@@ -353,8 +353,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.918189372753, 
-      "lon": 4.763264574279, 
+      "lat": 50.918204489859, 
+      "lon": 4.763286886589, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
@@ -377,8 +377,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.918122754049, 
-      "lon": 4.763320044644, 
+      "lat": 50.918126408442, 
+      "lon": 4.763356054913, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
@@ -458,6 +458,18 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 50.918203314971, 
+      "lon": 4.76382273029, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kartuizersstraat"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -466,6 +478,18 @@
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kartuizersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.917847321612, 
+      "lon": 4.762703802032, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kartuizersstraat"
     }, 
     {
@@ -521,8 +545,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.918312411423, 
-      "lon": 4.762470218573, 
+      "lat": 50.918297457712, 
+      "lon": 4.762452743056, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
@@ -692,11 +716,11 @@
         "75A"
       ], 
       "housenumber": "75A", 
-      "lat": 50.917740028744, 
-      "lon": 4.762343534571, 
+      "lat": 50.917733811689, 
+      "lon": 4.762401361913, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kartuizersstraat"
     }, 
     {

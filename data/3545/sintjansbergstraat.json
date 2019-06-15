@@ -2,65 +2,50 @@
   "addresses": [
     {
       "hnrlbls": [
-        "11-17"
+        "11-15"
       ], 
       "housenumber": "11", 
-      "lat": 50.970709241907, 
-      "lon": 5.091160393268, 
+      "lat": 50.969728649858, 
+      "lon": 5.092548778945, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanStraat", 
-      "street": "Sint-Jansbergstraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "11-17"
-      ], 
-      "housenumber": "11B", 
-      "lat": 50.970709241907, 
-      "lon": 5.091160393268, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansbergstraat"
     }, 
     {
       "hnrlbls": [
-        "11-17"
+        "11-15"
       ], 
       "housenumber": "13", 
-      "lat": 50.970709241907, 
-      "lon": 5.091160393268, 
+      "lat": 50.969728649858, 
+      "lon": 5.092548778945, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansbergstraat"
     }, 
     {
       "hnrlbls": [
-        "11-17"
+        "11-15"
       ], 
       "housenumber": "15", 
-      "lat": 50.970709241907, 
-      "lon": 5.091160393268, 
+      "lat": 50.969728649858, 
+      "lon": 5.092548778945, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansbergstraat"
     }, 
     {
       "hnrlbls": [
-        "11-17"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.970709241907, 
-      "lon": 5.091160393268, 
+      "lat": 50.969729465862, 
+      "lon": 5.092547652573, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansbergstraat"
     }, 
     {
@@ -68,11 +53,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.970004535507, 
-      "lon": 5.091907378293, 
+      "lat": 50.969972735597, 
+      "lon": 5.091932799276, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansbergstraat"
     }, 
     {
@@ -89,38 +74,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-8C"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.970175429556, 
-      "lon": 5.092315925343, 
+      "lat": 50.970104375186, 
+      "lon": 5.092175870773, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Jansbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8-8C"
-      ], 
-      "housenumber": "8B", 
-      "lat": 50.970175429556, 
-      "lon": 5.092315925343, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Sint-Jansbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8-8C"
-      ], 
-      "housenumber": "8C", 
-      "lat": 50.970175429556, 
-      "lon": 5.092315925343, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jansbergstraat"
     }, 
     {
@@ -128,8 +89,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.969728203051, 
-      "lon": 5.092548344922, 
+      "lat": 50.969787432853, 
+      "lon": 5.092900351798, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 

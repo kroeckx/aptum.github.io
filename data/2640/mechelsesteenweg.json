@@ -96,7 +96,9 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3", 
+        "GLVL"
       ], 
       "hnrlbls": [
         "109"
@@ -106,7 +108,7 @@
       "lon": 4.453352368191, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {

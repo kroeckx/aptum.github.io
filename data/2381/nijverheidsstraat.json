@@ -29,8 +29,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.403063178779, 
-      "lon": 4.954560442677, 
+      "lat": 51.402949162497, 
+      "lon": 4.954024301373, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -41,8 +41,8 @@
         "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 51.403548237028, 
-      "lon": 4.955237791992, 
+      "lat": 51.403572272714, 
+      "lon": 4.955012055396, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -113,11 +113,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.408017892679, 
-      "lon": 4.956321290426, 
+      "lat": 51.407968833284, 
+      "lon": 4.956282009901, 
       "municipality": "Ravels", 
       "pcode": "2381", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nijverheidsstraat"
     }, 
     {
@@ -137,8 +137,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.408608740811, 
-      "lon": 4.957050516541, 
+      "lat": 51.408608617429, 
+      "lon": 4.957057269622, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +149,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.409920191819, 
-      "lon": 4.956938091039, 
+      "lat": 51.409920537771, 
+      "lon": 4.956940826105, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -221,9 +221,21 @@
     }, 
     {
       "hnrlbls": [
-        "8"
+        "8-8A"
       ], 
       "housenumber": "8", 
+      "lat": 51.402182031217, 
+      "lon": 4.953515710141, 
+      "municipality": "Ravels", 
+      "pcode": "2381", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nijverheidsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8-8A"
+      ], 
+      "housenumber": "8A", 
       "lat": 51.402182031217, 
       "lon": 4.953515710141, 
       "municipality": "Ravels", 

@@ -529,7 +529,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3", 
+        "4", 
         "5"
       ], 
       "hnrlbls": [
@@ -2583,11 +2586,11 @@
     }, 
     {
       "hnrlbls": [
-        "252-260"
+        "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.20409784617, 
-      "lon": 4.421925266303, 
+      "lat": 51.203928323423, 
+      "lon": 4.421729049901, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2607,35 +2610,11 @@
     }, 
     {
       "hnrlbls": [
-        "252-260"
-      ], 
-      "housenumber": "254", 
-      "lat": 51.20409784617, 
-      "lon": 4.421925266303, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Leemstraat"
-    }, 
-    {
-      "hnrlbls": [
         "255"
       ], 
       "housenumber": "255", 
       "lat": 51.205053982881, 
       "lon": 4.419833907017, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Leemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "252-260"
-      ], 
-      "housenumber": "256", 
-      "lat": 51.20409784617, 
-      "lon": 4.421925266303, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2698,20 +2677,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.209751364248, 
-      "lon": 4.409769129217, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Leemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "252-260"
-      ], 
-      "housenumber": "260", 
-      "lat": 51.20409784617, 
-      "lon": 4.421925266303, 
+      "lat": 51.209751813871, 
+      "lon": 4.409768557225, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -2989,8 +2956,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.209602498193, 
-      "lon": 4.410072936554, 
+      "lat": 51.209602409377, 
+      "lon": 4.410069931413, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -3434,7 +3401,7 @@
     }, 
     {
       "hnrlbls": [
-        "303-313B"
+        "303"
       ], 
       "housenumber": "303", 
       "lat": 51.204312285749, 
@@ -3506,67 +3473,11 @@
     }, 
     {
       "hnrlbls": [
-        "313"
-      ], 
-      "housenumber": "313", 
-      "lat": 51.204565557662, 
-      "lon": 4.422810629918, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Leemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "303-313B"
-      ], 
-      "housenumber": "313A", 
-      "lat": 51.204312285749, 
-      "lon": 4.422372215742, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Leemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "303-313B"
-      ], 
-      "housenumber": "313B", 
-      "lat": 51.204312285749, 
-      "lon": 4.422372215742, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lange Leemstraat"
-    }, 
-    {
-      "hnrlbls": [
         "314"
       ], 
       "housenumber": "314", 
       "lat": 51.20382240685, 
       "lon": 4.424500682196, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Leemstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "315-321"
-      ], 
-      "housenumber": "315", 
-      "lat": 51.204309508033, 
-      "lon": 4.422743223945, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -3579,18 +3490,6 @@
       "housenumber": "316", 
       "lat": 51.203844393189, 
       "lon": 4.42457468142, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Leemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "315-321"
-      ], 
-      "housenumber": "317", 
-      "lat": 51.204309508033, 
-      "lon": 4.422743223945, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -3612,23 +3511,23 @@
       "street": "Lange Leemstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "10", 
-        "11", 
-        "12", 
-        "13", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "1101", 
+        "1102", 
+        "1201", 
+        "1202", 
+        "1301", 
+        "1302", 
+        "1401", 
+        "2101", 
+        "2102", 
+        "2201", 
+        "2202", 
+        "2301", 
+        "2401"
       ], 
       "hnrlbls": [
-        "315-321"
+        "319"
       ], 
       "housenumber": "319", 
       "lat": 51.204309508033, 
@@ -3660,18 +3559,6 @@
       "housenumber": "320", 
       "lat": 51.203862735354, 
       "lon": 4.42475040657, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Leemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "315-321"
-      ], 
-      "housenumber": "321", 
-      "lat": 51.204309508033, 
-      "lon": 4.422743223945, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -4486,6 +4373,10 @@
       "street": "Lange Leemstraat"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "385"
       ], 
@@ -5152,6 +5043,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4", 
         "5", 
         "6", 

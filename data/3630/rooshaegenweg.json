@@ -277,21 +277,9 @@
     }, 
     {
       "hnrlbls": [
-        "19-19B"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.974883844602, 
-      "lon": 5.698488217658, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rooshaegenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "19-19B"
-      ], 
-      "housenumber": "19B", 
       "lat": 50.974883844602, 
       "lon": 5.698488217658, 
       "municipality": "Maasmechelen", 
@@ -448,7 +436,7 @@
     }, 
     {
       "apptnrs": [
-        "001"
+        "1"
       ], 
       "hnrlbls": [
         "3"
@@ -559,6 +547,7 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "17"
       ], 
       "busnrs": [
@@ -949,8 +938,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.970197972674, 
-      "lon": 5.694171095422, 
+      "lat": 50.970198760702, 
+      "lon": 5.694172968786, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1071,11 +1060,8 @@
       "street": "Rooshaegenweg"
     }, 
     {
-      "busnrs": [
-        "a"
-      ], 
       "hnrlbls": [
-        "91-91_1"
+        "91"
       ], 
       "housenumber": "91", 
       "lat": 50.969461974288, 
@@ -1095,18 +1081,6 @@
       "housenumber": "91A", 
       "lat": 50.969199191514, 
       "lon": 5.692592959452, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rooshaegenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "91-91_1"
-      ], 
-      "housenumber": "91_1", 
-      "lat": 50.969461974288, 
-      "lon": 5.692969168575, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 

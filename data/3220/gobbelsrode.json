@@ -710,7 +710,8 @@
     }, 
     {
       "busnrs": [
-        "101"
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
         "164A"
@@ -1009,6 +1010,18 @@
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
+      "street": "Gobbelsrode"
+    }, 
+    {
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 50.920521363244, 
+      "lon": 4.807918627402, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Gobbelsrode"
     }, 
     {
@@ -1595,8 +1608,8 @@
         "86A"
       ], 
       "housenumber": "86A", 
-      "lat": 50.913174408742, 
-      "lon": 4.807252981931, 
+      "lat": 50.913205366655, 
+      "lon": 4.807267917876, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "manueleAanduidingVanPerceel", 

@@ -225,9 +225,6 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "23A"
       ], 
@@ -328,8 +325,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.233309683028, 
-      "lon": 2.921595433102, 
+      "lat": 51.233309251777, 
+      "lon": 2.921589575364, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -374,9 +371,6 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "4A"
       ], 
@@ -407,13 +401,8 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0201", 
-        "0401", 
-        "1A", 
-        "2", 
-        "4", 
-        "A"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "6"

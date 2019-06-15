@@ -188,8 +188,7 @@
         "1L", 
         "2L", 
         "3L", 
-        "3R", 
-        "A000"
+        "3R"
       ], 
       "hnrlbls": [
         "103A"
@@ -478,20 +477,17 @@
     }, 
     {
       "busnrs": [
-        "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.230787485243, 
-      "lon": 2.94646359281, 
+      "lat": 51.230829753554, 
+      "lon": 2.946434954497, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Voorhavenlaan"
     }, 
     {
@@ -769,8 +765,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.232275677976, 
-      "lon": 2.948176196368, 
+      "lat": 51.232297281921, 
+      "lon": 2.948156063875, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -821,11 +817,11 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.232359478142, 
-      "lon": 2.948289630892, 
+      "lat": 51.232321672031, 
+      "lon": 2.948338036509, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Voorhavenlaan"
     }, 
     {
@@ -1090,11 +1086,11 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.23204604716, 
-      "lon": 2.948510960723, 
+      "lat": 51.232010381451, 
+      "lon": 2.948520495319, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Voorhavenlaan"
     }, 
     {
@@ -1427,8 +1423,8 @@
         "217"
       ], 
       "housenumber": "217", 
-      "lat": 51.232698743143, 
-      "lon": 2.950828886891, 
+      "lat": 51.232597046183, 
+      "lon": 2.950737184093, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1480,15 +1476,32 @@
     }, 
     {
       "busnrs": [
-        "A", 
-        "B"
+        "0001", 
+        "0002", 
+        "0301"
       ], 
       "hnrlbls": [
-        "28"
+        "28A"
       ], 
-      "housenumber": "28", 
-      "lat": 51.227938481743, 
-      "lon": 2.942723828611, 
+      "housenumber": "28A", 
+      "lat": 51.227935506529, 
+      "lon": 2.94268583349, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Voorhavenlaan"
+    }, 
+    {
+      "busnrs": [
+        "0003", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "28B"
+      ], 
+      "housenumber": "28B", 
+      "lat": 51.227997706981, 
+      "lon": 2.942752085712, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1669,11 +1682,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.227800486703, 
-      "lon": 2.943425193238, 
+      "lat": 51.227814038442, 
+      "lon": 2.94339342257, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Voorhavenlaan"
     }, 
     {
@@ -1882,8 +1895,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.228118524192, 
-      "lon": 2.94343022117, 
+      "lat": 51.228111170218, 
+      "lon": 2.943446625406, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -2007,23 +2020,33 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.229236980682, 
-      "lon": 2.944095209773, 
+      "lat": 51.229240652928, 
+      "lon": 2.944101540907, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Voorhavenlaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
       "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.228432589352, 
-      "lon": 2.943717439688, 
+      "lat": 51.228491099925, 
+      "lon": 2.943708779103, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Voorhavenlaan"
     }, 
     {
@@ -2048,39 +2071,11 @@
     }, 
     {
       "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 51.228458220212, 
-      "lon": 2.943785384057, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Voorhavenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
       "lat": 51.229375359994, 
       "lon": 2.944156847726, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Voorhavenlaan"
-    }, 
-    {
-      "busnrs": [
-        "0101", 
-        "1"
-      ], 
-      "hnrlbls": [
-        "65"
-      ], 
-      "housenumber": "65", 
-      "lat": 51.228511635917, 
-      "lon": 2.943838877258, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

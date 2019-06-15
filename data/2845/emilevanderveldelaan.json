@@ -255,18 +255,6 @@
     }, 
     {
       "hnrlbls": [
-        "25"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.106951330769, 
-      "lon": 4.328419235111, 
-      "municipality": "Niel", 
-      "pcode": "2845", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Emile Vanderveldelaan"
-    }, 
-    {
-      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
@@ -279,18 +267,19 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.106856423473, 
-      "lon": 4.328461293976, 
+      "lat": 51.106951330769, 
+      "lon": 4.328419235111, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emile Vanderveldelaan"
     }, 
     {

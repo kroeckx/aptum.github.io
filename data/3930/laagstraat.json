@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.248540908755, 
+      "lon": 5.529295343569, 
+      "municipality": "Hamont-Achel", 
+      "pcode": "3930", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Laagstraat"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -65,8 +77,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.251770445804, 
-      "lon": 5.525303232957, 
+      "lat": 51.251770013254, 
+      "lon": 5.525301503273, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 

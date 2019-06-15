@@ -130,23 +130,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.769662281699, 
-      "lon": 4.475783874487, 
+      "lat": 50.769604478405, 
+      "lon": 4.475783316967, 
       "municipality": "Hoeilaart", 
       "pcode": "1560", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Overijsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "21A"
-      ], 
-      "housenumber": "21A", 
-      "lat": 50.769660830852, 
-      "lon": 4.475992685379, 
-      "municipality": "Hoeilaart", 
-      "pcode": "1560", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overijsesteenweg"
     }, 
     {
@@ -165,6 +153,18 @@
       "municipality": "Hoeilaart", 
       "pcode": "1560", 
       "source": "afgeleidVanGebouw", 
+      "street": "Overijsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.769626980756, 
+      "lon": 4.475948094813, 
+      "municipality": "Hoeilaart", 
+      "pcode": "1560", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Overijsesteenweg"
     }, 
     {

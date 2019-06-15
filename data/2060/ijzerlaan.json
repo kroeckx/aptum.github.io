@@ -101,18 +101,6 @@
       "street": "IJzerlaan"
     }, 
     {
-      "hnrlbls": [
-        "18-20"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.234864436841, 
-      "lon": 4.421243222927, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "IJzerlaan"
-    }, 
-    {
       "busnrs": [
         "4"
       ], 
@@ -125,18 +113,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "IJzerlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-20"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.234864436841, 
-      "lon": 4.421243222927, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "IJzerlaan"
     }, 
     {
@@ -245,10 +221,8 @@
       "apptnrs": [
         "101", 
         "102", 
+        "403", 
         "503"
-      ], 
-      "busnrs": [
-        "403"
       ], 
       "hnrlbls": [
         "30"
@@ -635,8 +609,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.235599742002, 
-      "lon": 4.427177214046, 
+      "lat": 51.235552637993, 
+      "lon": 4.427187463109, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 

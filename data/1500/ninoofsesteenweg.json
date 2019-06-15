@@ -259,8 +259,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 50.738927503874, 
-      "lon": 4.230782292499, 
+      "lat": 50.738906363501, 
+      "lon": 4.230770028914, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -785,8 +785,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.739745408219, 
-      "lon": 4.228740693157, 
+      "lat": 50.739738929022, 
+      "lon": 4.228735187137, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -1119,8 +1119,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 50.739414332142, 
-      "lon": 4.228679903906, 
+      "lat": 50.739417391019, 
+      "lon": 4.228681878241, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -1295,8 +1295,8 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.739533506244, 
-      "lon": 4.228202404654, 
+      "lat": 50.739537283801, 
+      "lon": 4.228203951818, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -1678,8 +1678,8 @@
         "231-233"
       ], 
       "housenumber": "231", 
-      "lat": 50.740129247037, 
-      "lon": 4.225732277437, 
+      "lat": 50.740129789696, 
+      "lon": 4.225734967574, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -1702,8 +1702,8 @@
         "231-233"
       ], 
       "housenumber": "233", 
-      "lat": 50.740129247037, 
-      "lon": 4.225732277437, 
+      "lat": 50.740129789696, 
+      "lon": 4.225734967574, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -1870,8 +1870,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.73713687396, 
-      "lon": 4.235419478153, 
+      "lat": 50.73713714301, 
+      "lon": 4.235418910742, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -2106,15 +2106,19 @@
       "street": "Ninoofsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "307"
       ], 
       "housenumber": "307", 
-      "lat": 50.741064299623, 
-      "lon": 4.222248491684, 
+      "lat": 50.741043466721, 
+      "lon": 4.222267257286, 
       "municipality": "Halle", 
       "pcode": "1500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -2331,6 +2335,18 @@
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ninoofsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "367"
+      ], 
+      "housenumber": "367", 
+      "lat": 50.741412552313, 
+      "lon": 4.220660922537, 
+      "municipality": "Halle", 
+      "pcode": "1500", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -2639,8 +2655,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.736540409176, 
-      "lon": 4.236141648194, 
+      "lat": 50.736573113519, 
+      "lon": 4.236125265534, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -3329,8 +3345,8 @@
         "475"
       ], 
       "housenumber": "475", 
-      "lat": 50.74315373213, 
-      "lon": 4.213651163387, 
+      "lat": 50.743158765822, 
+      "lon": 4.213650721845, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -3405,8 +3421,8 @@
         "483"
       ], 
       "housenumber": "483", 
-      "lat": 50.743266471414, 
-      "lon": 4.213316566239, 
+      "lat": 50.74326133977, 
+      "lon": 4.213310915818, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -4088,8 +4104,8 @@
         "595"
       ], 
       "housenumber": "595", 
-      "lat": 50.743376587201, 
-      "lon": 4.206199362768, 
+      "lat": 50.743379106678, 
+      "lon": 4.206201054299, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -4100,8 +4116,8 @@
         "597"
       ], 
       "housenumber": "597", 
-      "lat": 50.743380576236, 
-      "lon": 4.206093654074, 
+      "lat": 50.743383541083, 
+      "lon": 4.206092368741, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -4248,8 +4264,8 @@
         "609"
       ], 
       "housenumber": "609", 
-      "lat": 50.743447454347, 
-      "lon": 4.204860078037, 
+      "lat": 50.743450329481, 
+      "lon": 4.204858934617, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -4260,11 +4276,11 @@
         "60A-62"
       ], 
       "housenumber": "60A", 
-      "lat": 50.738052346824, 
-      "lon": 4.234115980605, 
+      "lat": 50.73808108056, 
+      "lon": 4.234165198775, 
       "municipality": "Halle", 
       "pcode": "1500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -4272,8 +4288,8 @@
         "610"
       ], 
       "housenumber": "610", 
-      "lat": 50.744040389577, 
-      "lon": 4.205419377119, 
+      "lat": 50.744046503777, 
+      "lon": 4.205420206116, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -4284,8 +4300,8 @@
         "612"
       ], 
       "housenumber": "612", 
-      "lat": 50.743790775322, 
-      "lon": 4.205377592117, 
+      "lat": 50.743789069636, 
+      "lon": 4.205379298209, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -4299,11 +4315,11 @@
         "60A-62"
       ], 
       "housenumber": "62", 
-      "lat": 50.738052346824, 
-      "lon": 4.234115980605, 
+      "lat": 50.73808108056, 
+      "lon": 4.234165198775, 
       "municipality": "Halle", 
       "pcode": "1500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -4323,8 +4339,8 @@
         "622"
       ], 
       "housenumber": "622", 
-      "lat": 50.743823290941, 
-      "lon": 4.204777024626, 
+      "lat": 50.743823021842, 
+      "lon": 4.20477745061, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -4335,8 +4351,8 @@
         "624"
       ], 
       "housenumber": "624", 
-      "lat": 50.743822114689, 
-      "lon": 4.204707178676, 
+      "lat": 50.743822564967, 
+      "lon": 4.20470774385, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -4347,8 +4363,8 @@
         "625"
       ], 
       "housenumber": "625", 
-      "lat": 50.743502994948, 
-      "lon": 4.204590830257, 
+      "lat": 50.743510284351, 
+      "lon": 4.204596330589, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 
@@ -4814,8 +4830,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.738360717726, 
-      "lon": 4.232728324796, 
+      "lat": 50.738356219901, 
+      "lon": 4.232725787708, 
       "municipality": "Halle", 
       "pcode": "1500", 
       "source": "afgeleidVanGebouw", 

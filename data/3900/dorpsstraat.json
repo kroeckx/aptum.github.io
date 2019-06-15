@@ -25,9 +25,6 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "apptnrs": [
-        "A"
-      ], 
       "busnrs": [
         "1", 
         "10", 
@@ -35,7 +32,6 @@
         "12", 
         "13", 
         "14", 
-        "15", 
         "2", 
         "3", 
         "4", 
@@ -49,11 +45,11 @@
         "99-103"
       ], 
       "housenumber": "101", 
-      "lat": 51.209867269264, 
-      "lon": 5.421206036542, 
+      "lat": 51.20975441847, 
+      "lon": 5.421310822864, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -81,11 +77,11 @@
         "99-103"
       ], 
       "housenumber": "103", 
-      "lat": 51.209867269264, 
-      "lon": 5.421206036542, 
+      "lat": 51.20975441847, 
+      "lon": 5.421310822864, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -122,6 +118,18 @@
       "municipality": "Pelt", 
       "pcode": "3900", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dorpsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "105"
+      ], 
+      "housenumber": "105", 
+      "lat": 51.209737706169, 
+      "lon": 5.42127967615, 
+      "municipality": "Pelt", 
+      "pcode": "3900", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -1732,19 +1740,15 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "99-103"
       ], 
       "housenumber": "99", 
-      "lat": 51.209867269264, 
-      "lon": 5.421206036542, 
+      "lat": 51.20975441847, 
+      "lon": 5.421310822864, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dorpsstraat"
     }
   ]

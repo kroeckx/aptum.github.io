@@ -9,14 +9,14 @@
         "303"
       ], 
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.13190417486, 
-      "lon": 2.750919326332, 
+      "lat": 51.131963322614, 
+      "lon": 2.750938141199, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Recollettenstraat"
     }, 
     {
@@ -146,7 +146,7 @@
     }, 
     {
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 51.13190417486, 
@@ -755,18 +755,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Recollettenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "74"
-      ], 
-      "housenumber": "74", 
-      "lat": 51.131744753842, 
-      "lon": 2.750944564759, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Recollettenstraat"
     }, 
     {

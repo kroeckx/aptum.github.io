@@ -632,30 +632,6 @@
     }, 
     {
       "hnrlbls": [
-        "65"
-      ], 
-      "housenumber": "65", 
-      "lat": 51.170119933842, 
-      "lon": 4.388555519324, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleinesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "65A"
-      ], 
-      "housenumber": "65A", 
-      "lat": 51.170149969998, 
-      "lon": 4.388472605743, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kleinesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
@@ -699,18 +675,6 @@
       "street": "Kleinesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "77"
-      ], 
-      "housenumber": "77", 
-      "lat": 51.17014941275, 
-      "lon": 4.388051966616, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleinesteenweg"
-    }, 
-    {
       "apptnrs": [
         "001", 
         "002", 
@@ -747,18 +711,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Kleinesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "83"
-      ], 
-      "housenumber": "83", 
-      "lat": 51.170082120414, 
-      "lon": 4.387862064365, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
       "street": "Kleinesteenweg"
     }, 
     {
@@ -873,7 +825,8 @@
       "apptnrs": [
         "201", 
         "202", 
-        "301"
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "93"

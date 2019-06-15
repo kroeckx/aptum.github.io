@@ -341,8 +341,8 @@
         "132B"
       ], 
       "housenumber": "132B", 
-      "lat": 51.219432505185, 
-      "lon": 4.290925325754, 
+      "lat": 51.219725959532, 
+      "lon": 4.291591393348, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -761,6 +761,42 @@
       "street": "Grote Baan"
     }, 
     {
+      "hnrlbls": [
+        "170A"
+      ], 
+      "housenumber": "170A", 
+      "lat": 51.220161411926, 
+      "lon": 4.289076446936, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "170B"
+      ], 
+      "housenumber": "170B", 
+      "lat": 51.220154698722, 
+      "lon": 4.288983995944, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "170C"
+      ], 
+      "housenumber": "170C", 
+      "lat": 51.220147939904, 
+      "lon": 4.288823558034, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Grote Baan"
+    }, 
+    {
       "apptnrs": [
         "001", 
         "002", 
@@ -1170,6 +1206,17 @@
       "street": "Grote Baan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303"
+      ], 
       "hnrlbls": [
         "202"
       ], 
@@ -1196,6 +1243,18 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "204"
+      ], 
+      "housenumber": "204", 
+      "lat": 51.219818674025, 
+      "lon": 4.281609528465, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1977,8 +2036,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.220891749445, 
-      "lon": 4.300277645012, 
+      "lat": 51.220879309029, 
+      "lon": 4.300214112135, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2267,7 +2326,7 @@
       "lon": 4.274974419058, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Grote Baan"
     }, 
     {
@@ -2307,12 +2366,30 @@
       "street": "Grote Baan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "304"
       ], 
       "housenumber": "304", 
       "lat": 51.218560596775, 
       "lon": 4.274674270754, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "304A"
+      ], 
+      "housenumber": "304A", 
+      "lat": 51.218572209747, 
+      "lon": 4.274583219509, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

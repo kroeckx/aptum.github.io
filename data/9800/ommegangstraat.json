@@ -2,11 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-7"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.978184463673, 
-      "lon": 3.531876791519, 
+      "lat": 50.978135430615, 
+      "lon": 3.532086283007, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -177,8 +177,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.977825533731, 
-      "lon": 3.530806938409, 
+      "lat": 50.977825515486, 
+      "lon": 3.530804375542, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -437,8 +437,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.977584376584, 
-      "lon": 3.529815165743, 
+      "lat": 50.977566628314, 
+      "lon": 3.52983499178, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -473,8 +473,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.977440015553, 
-      "lon": 3.530119916889, 
+      "lat": 50.977444708894, 
+      "lon": 3.530122538559, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -541,93 +541,161 @@
       "street": "Ommegangstraat"
     }, 
     {
-      "hnrlbls": [
-        "58-60"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
-      "housenumber": "58", 
-      "lat": 50.977189940996, 
-      "lon": 3.529731654499, 
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.97737668477, 
+      "lon": 3.529735434527, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ommegangstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "58-60"
-      ], 
-      "housenumber": "60", 
-      "lat": 50.977189940996, 
-      "lon": 3.529731654499, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ommegangstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "62-66"
-      ], 
-      "housenumber": "62", 
-      "lat": 50.976965301584, 
-      "lon": 3.529078082642, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ommegangstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "64"
-      ], 
-      "housenumber": "64", 
-      "lat": 50.977001566117, 
-      "lon": 3.528931903673, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ommegangstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "62-66"
-      ], 
-      "housenumber": "66", 
-      "lat": 50.976965301584, 
-      "lon": 3.529078082642, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ommegangstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "68"
-      ], 
-      "housenumber": "68", 
-      "lat": 50.976440251606, 
-      "lon": 3.528189534525, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ommegangstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
       ], 
       "hnrlbls": [
-        "1-7"
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.977360069779, 
+      "lon": 3.529699847331, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Ommegangstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.977321196348, 
+      "lon": 3.529606275059, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ommegangstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.977241853653, 
+      "lon": 3.529422292281, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ommegangstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 50.977171461653, 
+      "lon": 3.529258085618, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ommegangstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 50.977102256728, 
+      "lon": 3.529083890375, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ommegangstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 50.977015220566, 
+      "lon": 3.528880111452, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ommegangstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007"
+      ], 
+      "hnrlbls": [
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.978184463673, 
-      "lon": 3.531876791519, 
+      "lat": 50.978135240419, 
+      "lon": 3.531933063436, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

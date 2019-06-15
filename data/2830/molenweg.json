@@ -5,42 +5,83 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.048836176357, 
-      "lon": 4.366064402664, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Molenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "100A"
-      ], 
-      "housenumber": "100A", 
       "lat": 51.048908620939, 
       "lon": 4.365718578084, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenweg"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C", 
-        "D", 
-        "E"
-      ], 
       "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.050080533098, 
-      "lon": 4.367717061167, 
+      "lat": 51.050093657023, 
+      "lon": 4.367738737853, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "101A"
+      ], 
+      "housenumber": "101A", 
+      "lat": 51.050087634856, 
+      "lon": 4.368005847159, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "101B"
+      ], 
+      "housenumber": "101B", 
+      "lat": 51.050170602822, 
+      "lon": 4.368151309919, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "101C"
+      ], 
+      "housenumber": "101C", 
+      "lat": 51.050214827924, 
+      "lon": 4.368422270486, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "101D"
+      ], 
+      "housenumber": "101D", 
+      "lat": 51.050285032157, 
+      "lon": 4.368074300204, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "101E"
+      ], 
+      "housenumber": "101E", 
+      "lat": 51.050393259064, 
+      "lon": 4.368124642032, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenweg"
     }, 
     {
@@ -72,8 +113,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.049321326078, 
-      "lon": 4.367604976811, 
+      "lat": 51.04922388525, 
+      "lon": 4.367468787349, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -84,17 +125,14 @@
         "105A"
       ], 
       "housenumber": "105A", 
-      "lat": 51.04922388525, 
-      "lon": 4.367468787349, 
+      "lat": 51.049418676856, 
+      "lon": 4.36774116684, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenweg"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -111,11 +149,11 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.047148003611, 
-      "lon": 4.364176431667, 
+      "lat": 51.047093538563, 
+      "lon": 4.364428127428, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Molenweg"
     }, 
     {
@@ -123,11 +161,11 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.04873636255, 
-      "lon": 4.364515274957, 
+      "lat": 51.049310395392, 
+      "lon": 4.364463179542, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Molenweg"
     }, 
     {
@@ -147,8 +185,8 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.04866533604, 
-      "lon": 4.364083469192, 
+      "lat": 51.048629292002, 
+      "lon": 4.364132956519, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -843,16 +881,16 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.05132405974, 
-      "lon": 4.367013821611, 
+      "lat": 51.051315245167, 
+      "lon": 4.366521232593, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenweg"
     }, 
     {
       "hnrlbls": [
-        "92-92A"
+        "92-92B"
       ], 
       "housenumber": "92", 
       "lat": 51.05094966641, 
@@ -864,14 +902,26 @@
     }, 
     {
       "hnrlbls": [
-        "92-92A"
+        "92A"
       ], 
       "housenumber": "92A", 
+      "lat": 51.051157939616, 
+      "lon": 4.366597821299, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "92-92B"
+      ], 
+      "housenumber": "92B", 
       "lat": 51.05094966641, 
       "lon": 4.366651022466, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenweg"
     }, 
     {
@@ -888,38 +938,50 @@
     }, 
     {
       "busnrs": [
-        "11", 
-        "13", 
-        "14", 
-        "15", 
-        "17", 
-        "19", 
-        "1A", 
-        "1B", 
-        "1D", 
-        "1E", 
-        "21", 
-        "23", 
-        "25", 
-        "27", 
-        "29B", 
-        "3", 
-        "31", 
-        "33", 
-        "37", 
-        "43", 
-        "5", 
-        "7"
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0017", 
+        "0019", 
+        "001A", 
+        "001B", 
+        "001C", 
+        "001D", 
+        "001E", 
+        "001F", 
+        "0021", 
+        "0023", 
+        "0025", 
+        "0027", 
+        "0029", 
+        "0031", 
+        "0033", 
+        "0035", 
+        "0037", 
+        "0039", 
+        "0041", 
+        "0043"
       ], 
       "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.050885740245, 
-      "lon": 4.365722900132, 
+      "lat": 51.050668587815, 
+      "lon": 4.367263407559, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Molenweg"
     }, 
     {
@@ -936,11 +998,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.050731872278, 
-      "lon": 4.368373928891, 
+      "lat": 51.050769265642, 
+      "lon": 4.367559469329, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Molenweg"
     }, 
     {
@@ -964,7 +1026,7 @@
       "lon": 4.367753852665, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenweg"
     }, 
     {
@@ -1024,7 +1086,7 @@
       "lon": 4.367725616665, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenweg"
     }
   ]

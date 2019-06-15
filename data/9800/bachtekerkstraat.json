@@ -101,8 +101,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.000022984762, 
-      "lon": 3.550079517435, 
+      "lat": 51.000024011895, 
+      "lon": 3.550072091235, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "manueleAanduidingVanLot", 
@@ -168,8 +168,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.999851557337, 
-      "lon": 3.549821654916, 
+      "lat": 50.99984699992, 
+      "lon": 3.549825581096, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "manueleAanduidingVanLot", 
@@ -204,11 +204,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.999523597011, 
-      "lon": 3.549560545384, 
+      "lat": 50.999537830207, 
+      "lon": 3.549590641814, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bachtekerkstraat"
     }, 
     {
@@ -216,11 +216,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.999488103098, 
-      "lon": 3.549653197887, 
+      "lat": 50.999493877569, 
+      "lon": 3.549656231249, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bachtekerkstraat"
     }, 
     {
@@ -240,11 +240,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.999447844187, 
-      "lon": 3.549745791009, 
+      "lat": 50.999464085528, 
+      "lon": 3.549780268787, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bachtekerkstraat"
     }, 
     {
@@ -252,11 +252,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.999404720752, 
-      "lon": 3.549840143576, 
+      "lat": 50.999386158766, 
+      "lon": 3.549833914367, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bachtekerkstraat"
     }, 
     {
@@ -276,11 +276,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.999326027767, 
-      "lon": 3.550016321876, 
+      "lat": 50.999357503259, 
+      "lon": 3.550056802118, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bachtekerkstraat"
     }, 
     {
@@ -288,11 +288,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.999610112484, 
-      "lon": 3.5503672402, 
+      "lat": 50.999610398174, 
+      "lon": 3.550382479012, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bachtekerkstraat"
     }, 
     {
@@ -309,14 +309,26 @@
     }, 
     {
       "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.999412463068, 
+      "lon": 3.550656616602, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bachtekerkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.99919906428, 
-      "lon": 3.5504000577, 
+      "lat": 50.999202704246, 
+      "lon": 3.550406405063, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bachtekerkstraat"
     }, 
     {
@@ -324,11 +336,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.999098745116, 
-      "lon": 3.550543132611, 
+      "lat": 50.999123326131, 
+      "lon": 3.550600544045, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bachtekerkstraat"
     }, 
     {
@@ -348,8 +360,8 @@
         "7-53"
       ], 
       "housenumber": "7", 
-      "lat": 50.998300034366, 
-      "lon": 3.550028537243, 
+      "lat": 50.998298240615, 
+      "lon": 3.550029138407, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -372,8 +384,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.998956979283, 
-      "lon": 3.550582076913, 
+      "lat": 50.998959369576, 
+      "lon": 3.55057676406, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

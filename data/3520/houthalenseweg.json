@@ -48,8 +48,8 @@
         "101A"
       ], 
       "housenumber": "101A", 
-      "lat": 51.003508137108, 
-      "lon": 5.371086543671, 
+      "lat": 51.00351011706, 
+      "lon": 5.371128475652, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanPerceelGrb", 
@@ -156,6 +156,18 @@
     }, 
     {
       "hnrlbls": [
+        "110-114"
+      ], 
+      "housenumber": "110", 
+      "lat": 51.00712268618, 
+      "lon": 5.371320967469, 
+      "municipality": "Zonhoven", 
+      "pcode": "3520", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Houthalenseweg"
+    }, 
+    {
+      "hnrlbls": [
         "111"
       ], 
       "housenumber": "111", 
@@ -164,6 +176,18 @@
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Houthalenseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "110-114"
+      ], 
+      "housenumber": "112", 
+      "lat": 51.00712268618, 
+      "lon": 5.371320967469, 
+      "municipality": "Zonhoven", 
+      "pcode": "3520", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Houthalenseweg"
     }, 
     {
@@ -180,14 +204,14 @@
     }, 
     {
       "hnrlbls": [
-        "114-114A"
+        "110-114"
       ], 
       "housenumber": "114", 
-      "lat": 51.007064727747, 
-      "lon": 5.370864320415, 
+      "lat": 51.00712268618, 
+      "lon": 5.371320967469, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Houthalenseweg"
     }, 
     {
@@ -1463,8 +1487,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.002850763871, 
-      "lon": 5.370678797797, 
+      "lat": 51.002843285529, 
+      "lon": 5.370701861914, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanPerceelGrb", 

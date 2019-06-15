@@ -322,11 +322,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.363976894428, 
-      "lon": 4.457674396462, 
+      "lat": 51.364049288422, 
+      "lon": 4.457380784272, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Canadezenlaan"
     }, 
     {
@@ -1074,11 +1074,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.361524677461, 
-      "lon": 4.450440839565, 
+      "lat": 51.361490863367, 
+      "lon": 4.45046920566, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Canadezenlaan"
     }, 
     {
@@ -1199,30 +1199,6 @@
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
-      "street": "Canadezenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "94-96"
-      ], 
-      "housenumber": "94", 
-      "lat": 51.362634465976, 
-      "lon": 4.443323205151, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Canadezenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "94-96"
-      ], 
-      "housenumber": "96", 
-      "lat": 51.362634465976, 
-      "lon": 4.443323205151, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Canadezenlaan"
     }, 
     {

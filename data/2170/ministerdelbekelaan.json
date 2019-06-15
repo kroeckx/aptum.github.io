@@ -36,10 +36,10 @@
       "street": "Minister Delbekelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "11"
@@ -110,6 +110,11 @@
       "street": "Minister Delbekelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -670,8 +675,10 @@
       "street": "Minister Delbekelaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "54"

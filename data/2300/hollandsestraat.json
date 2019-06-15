@@ -97,6 +97,39 @@
       "street": "Hollandsestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 51.327148327018, 
+      "lon": 4.93970522481, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hollandsestraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.327265772948, 
+      "lon": 4.939748846551, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hollandsestraat"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 

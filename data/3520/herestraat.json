@@ -211,8 +211,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 50.988596991136, 
-      "lon": 5.384929838181, 
+      "lat": 50.988595995038, 
+      "lon": 5.384930671186, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanPerceelGrb", 
@@ -391,8 +391,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 50.98796090107, 
-      "lon": 5.38489395817, 
+      "lat": 50.987948270689, 
+      "lon": 5.384899096627, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanPerceelGrb", 
@@ -403,8 +403,8 @@
         "130A"
       ], 
       "housenumber": "130A", 
-      "lat": 50.988036732861, 
-      "lon": 5.385013397273, 
+      "lat": 50.988029618582, 
+      "lon": 5.385025207417, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanPerceelGrb", 
@@ -635,8 +635,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.988862870044, 
-      "lon": 5.386317250808, 
+      "lat": 50.988858857262, 
+      "lon": 5.386323858173, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanPerceelGrb", 
@@ -956,6 +956,18 @@
     }, 
     {
       "hnrlbls": [
+        "178"
+      ], 
+      "housenumber": "178", 
+      "lat": 50.990542227621, 
+      "lon": 5.390263223239, 
+      "municipality": "Zonhoven", 
+      "pcode": "3520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Herestraat"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -964,6 +976,30 @@
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Herestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "180"
+      ], 
+      "housenumber": "180", 
+      "lat": 50.990613653039, 
+      "lon": 5.390444259367, 
+      "municipality": "Zonhoven", 
+      "pcode": "3520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Herestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "182"
+      ], 
+      "housenumber": "182", 
+      "lat": 50.990692697646, 
+      "lon": 5.390617485503, 
+      "municipality": "Zonhoven", 
+      "pcode": "3520", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Herestraat"
     }, 
     {
@@ -1000,6 +1036,28 @@
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Herestraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.984228553986, 
+      "lon": 5.371365241642, 
+      "municipality": "Zonhoven", 
+      "pcode": "3520", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Herestraat"
     }, 
     {
@@ -2008,8 +2066,8 @@
         "98B"
       ], 
       "housenumber": "98B", 
-      "lat": 50.986190748759, 
-      "lon": 5.381083453916, 
+      "lat": 50.986185955528, 
+      "lon": 5.381086768605, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanPerceelGrb", 

@@ -5,11 +5,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.912784565038, 
-      "lon": 4.072239996909, 
+      "lat": 50.914079072398, 
+      "lon": 4.072502726452, 
       "municipality": "Aalst", 
       "pcode": "9320", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandstraat"
     }, 
     {
@@ -29,8 +29,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.912640032255, 
-      "lon": 4.072246737704, 
+      "lat": 50.913883120049, 
+      "lon": 4.072473672166, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -53,23 +53,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.912512409322, 
-      "lon": 4.072257353317, 
+      "lat": 50.913640236546, 
+      "lon": 4.072442069744, 
       "municipality": "Aalst", 
       "pcode": "9320", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Amandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "14A"
-      ], 
-      "housenumber": "14A", 
-      "lat": 50.912354947736, 
-      "lon": 4.072234741523, 
-      "municipality": "Aalst", 
-      "pcode": "9320", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Amandstraat"
     }, 
     {
@@ -89,8 +77,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.912132503359, 
-      "lon": 4.072537733464, 
+      "lat": 50.913620666975, 
+      "lon": 4.072238709208, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -113,32 +101,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.911983121063, 
-      "lon": 4.072510662095, 
-      "municipality": "Aalst", 
-      "pcode": "9320", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Amandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.914229085079, 
-      "lon": 4.072458837857, 
-      "municipality": "Aalst", 
-      "pcode": "9320", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Amandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.911762185066, 
-      "lon": 4.072663060271, 
+      "lat": 50.91343178756, 
+      "lon": 4.072019921807, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -182,18 +146,6 @@
     }, 
     {
       "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.911593166989, 
-      "lon": 4.072763515221, 
-      "municipality": "Aalst", 
-      "pcode": "9320", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Amandstraat"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -209,8 +161,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.911322034195, 
-      "lon": 4.07272299041, 
+      "lat": 50.912872436338, 
+      "lon": 4.072115022826, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -221,8 +173,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.911148166482, 
-      "lon": 4.07253938024, 
+      "lat": 50.912774182955, 
+      "lon": 4.072186739456, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -242,6 +194,18 @@
     }, 
     {
       "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.912631892846, 
+      "lon": 4.072227308431, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Amandstraat"
+    }, 
+    {
+      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
@@ -254,11 +218,11 @@
     }, 
     {
       "hnrlbls": [
-        "2A"
+        "3"
       ], 
-      "housenumber": "2A", 
-      "lat": 50.91390115602, 
-      "lon": 4.072567835706, 
+      "housenumber": "3", 
+      "lat": 50.914075070059, 
+      "lon": 4.073020353415, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -266,23 +230,11 @@
     }, 
     {
       "hnrlbls": [
-        "2B"
+        "30"
       ], 
-      "housenumber": "2B", 
-      "lat": 50.913678696752, 
-      "lon": 4.072364898904, 
-      "municipality": "Aalst", 
-      "pcode": "9320", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Sint-Amandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.914075070059, 
-      "lon": 4.073020353415, 
+      "housenumber": "30", 
+      "lat": 50.912505563507, 
+      "lon": 4.072216160332, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -302,11 +254,35 @@
     }, 
     {
       "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.912314196577, 
+      "lon": 4.072151815459, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Amandstraat"
+    }, 
+    {
+      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
       "lat": 50.911980586694, 
       "lon": 4.0732190783, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Amandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.912105921755, 
+      "lon": 4.072477042496, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -326,11 +302,35 @@
     }, 
     {
       "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.911944138541, 
+      "lon": 4.072451755731, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Amandstraat"
+    }, 
+    {
+      "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
       "lat": 50.911682184734, 
       "lon": 4.073130234683, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Amandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.911776891114, 
+      "lon": 4.07261277419, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -350,11 +350,11 @@
     }, 
     {
       "hnrlbls": [
-        "4"
+        "40"
       ], 
-      "housenumber": "4", 
-      "lat": 50.913551633315, 
-      "lon": 4.072312091177, 
+      "housenumber": "40", 
+      "lat": 50.911562558697, 
+      "lon": 4.072674412024, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -374,11 +374,23 @@
     }, 
     {
       "hnrlbls": [
-        "4A"
+        "42"
       ], 
-      "housenumber": "4A", 
-      "lat": 50.913444832144, 
-      "lon": 4.07209520362, 
+      "housenumber": "42", 
+      "lat": 50.911322004781, 
+      "lon": 4.072639809476, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Amandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.911136858049, 
+      "lon": 4.072475181828, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -398,11 +410,11 @@
     }, 
     {
       "hnrlbls": [
-        "6"
+        "7"
       ], 
-      "housenumber": "6", 
-      "lat": 50.91287289694, 
-      "lon": 4.072155118813, 
+      "housenumber": "7", 
+      "lat": 50.91345634603, 
+      "lon": 4.072740987138, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -410,11 +422,11 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "8"
       ], 
-      "housenumber": "7", 
-      "lat": 50.91345634603, 
-      "lon": 4.072740987138, 
+      "housenumber": "8", 
+      "lat": 50.914234463715, 
+      "lon": 4.072381447853, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 

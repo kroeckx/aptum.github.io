@@ -59,8 +59,10 @@
       "street": "Kampioenstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "15"
@@ -415,8 +417,11 @@
       "street": "Kampioenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "42"

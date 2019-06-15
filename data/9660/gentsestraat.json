@@ -218,7 +218,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37A"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 50.819040724112, 
@@ -230,14 +230,14 @@
     }, 
     {
       "hnrlbls": [
-        "37-37A"
+        "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 50.819040724112, 
-      "lon": 3.73389621859, 
+      "lat": 50.826389103466, 
+      "lon": 3.73307239444, 
       "municipality": "Brakel", 
       "pcode": "9660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Gentsestraat"
     }, 
     {
@@ -773,8 +773,8 @@
         "69B"
       ], 
       "housenumber": "69B", 
-      "lat": 50.831361425799, 
-      "lon": 3.731599921252, 
+      "lat": 50.831358344035, 
+      "lon": 3.731595278541, 
       "municipality": "Brakel", 
       "pcode": "9660", 
       "source": "afgeleidVanPerceelGrb", 

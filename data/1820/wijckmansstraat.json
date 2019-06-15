@@ -1,6 +1,25 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.910191158108, 
+      "lon": 4.51228233204, 
+      "municipality": "Steenokkerzeel", 
+      "pcode": "1820", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Wijckmansstraat"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 

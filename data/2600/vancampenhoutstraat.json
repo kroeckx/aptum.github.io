@@ -437,6 +437,11 @@
       "street": "Van Campenhoutstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -446,6 +451,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
+      "street": "Van Campenhoutstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41A"
+      ], 
+      "housenumber": "41A", 
+      "lat": 51.197823876579, 
+      "lon": 4.422374246889, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Van Campenhoutstraat"
     }, 
     {

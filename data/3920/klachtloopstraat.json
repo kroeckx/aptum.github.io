@@ -1,6 +1,52 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0108", 
+        "0109", 
+        "0110", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0208", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.231746458751, 
+      "lon": 5.302902351805, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Klachtloopstraat"
+    }, 
+    {
       "busnrs": [
         "HERN"
       ], 
@@ -13,222 +59,6 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "afgeleidVanStraat", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0001"
-      ], 
-      "housenumber": "1_0001", 
-      "lat": 51.231751600798, 
-      "lon": 5.302843179463, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0002"
-      ], 
-      "housenumber": "1_0002", 
-      "lat": 51.231752124215, 
-      "lon": 5.302845194444, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0003"
-      ], 
-      "housenumber": "1_0003", 
-      "lat": 51.231751664649, 
-      "lon": 5.302846473825, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0004"
-      ], 
-      "housenumber": "1_0004", 
-      "lat": 51.231752303967, 
-      "lon": 5.302845198049, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0005"
-      ], 
-      "housenumber": "1_0005", 
-      "lat": 51.231750773806, 
-      "lon": 5.302845453718, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0006"
-      ], 
-      "housenumber": "1_0006", 
-      "lat": 51.23175249843, 
-      "lon": 5.302843340641, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0007"
-      ], 
-      "housenumber": "1_0007", 
-      "lat": 51.231753206125, 
-      "lon": 5.302844786608, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0101"
-      ], 
-      "housenumber": "1_0101", 
-      "lat": 51.231775481002, 
-      "lon": 5.302960777558, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0102"
-      ], 
-      "housenumber": "1_0102", 
-      "lat": 51.231777278529, 
-      "lon": 5.30296081361, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10103-1010"
-      ], 
-      "housenumber": "1_0103", 
-      "lat": 51.231776095425, 
-      "lon": 5.302962651189, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10103-1010"
-      ], 
-      "housenumber": "1_0104", 
-      "lat": 51.231776095425, 
-      "lon": 5.302962651189, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10103-1010"
-      ], 
-      "housenumber": "1_0105", 
-      "lat": 51.231776095425, 
-      "lon": 5.302962651189, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10106-1020"
-      ], 
-      "housenumber": "1_0106", 
-      "lat": 51.231720027109, 
-      "lon": 5.302982430577, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10106-1020"
-      ], 
-      "housenumber": "1_0107", 
-      "lat": 51.231720027109, 
-      "lon": 5.302982430577, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10106-1020"
-      ], 
-      "housenumber": "1_0201", 
-      "lat": 51.231720027109, 
-      "lon": 5.302982430577, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0202"
-      ], 
-      "housenumber": "1_0202", 
-      "lat": 51.23172130009, 
-      "lon": 5.302980594803, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0203"
-      ], 
-      "housenumber": "1_0203", 
-      "lat": 51.231720012397, 
-      "lon": 5.302984291587, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Klachtloopstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0204"
-      ], 
-      "housenumber": "1_0204", 
-      "lat": 51.231721179658, 
-      "lon": 5.302984458176, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Klachtloopstraat"
     }, 
     {

@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1001"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -237,7 +240,7 @@
       "lon": 3.529438778469, 
       "municipality": "Kruisem", 
       "pcode": "9770", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nazarethsedorpweg"
     }, 
     {

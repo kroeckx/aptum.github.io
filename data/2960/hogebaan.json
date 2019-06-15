@@ -258,6 +258,18 @@
     }, 
     {
       "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.296749920549, 
+      "lon": 4.567147359918, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hogebaan"
+    }, 
+    {
+      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
@@ -285,8 +297,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.296734481635, 
-      "lon": 4.568626692634, 
+      "lat": 51.296725577368, 
+      "lon": 4.56863023843, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -949,11 +961,23 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.293895107288, 
-      "lon": 4.558734389078, 
+      "lat": 51.293881948043, 
+      "lon": 4.558812895173, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hogebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "70A"
+      ], 
+      "housenumber": "70A", 
+      "lat": 51.293916184769, 
+      "lon": 4.558650467762, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hogebaan"
     }, 
     {
@@ -1093,8 +1117,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.293447337837, 
-      "lon": 4.559446182844, 
+      "lat": 51.293438879762, 
+      "lon": 4.559451882324, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -1129,8 +1153,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.292918513988, 
-      "lon": 4.559310688965, 
+      "lat": 51.292917163227, 
+      "lon": 4.559312260318, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 

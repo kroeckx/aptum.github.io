@@ -300,7 +300,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-3B"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 51.229346431687, 
@@ -428,8 +428,11 @@
       "street": "De Pretstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "38"
@@ -452,18 +455,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
-      "street": "De Pretstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 51.229346431687, 
-      "lon": 4.417438210049, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "De Pretstraat"
     }, 
     {
@@ -612,15 +603,14 @@
       "street": "De Pretstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "5"

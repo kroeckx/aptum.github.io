@@ -213,8 +213,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.362967671492, 
-      "lon": 4.461372689399, 
+      "lat": 51.362975018032, 
+      "lon": 4.461402566786, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanPerceelGrb", 
@@ -590,8 +590,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.36106499341, 
-      "lon": 4.460960859664, 
+      "lat": 51.361059945251, 
+      "lon": 4.460979943648, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
@@ -734,15 +734,24 @@
       "street": "Withoeflei"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.364049502744, 
-      "lon": 4.461534802335, 
+      "lat": 51.364078788149, 
+      "lon": 4.461667810557, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Withoeflei"
     }, 
     {

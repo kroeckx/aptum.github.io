@@ -437,8 +437,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.265667240476, 
-      "lon": 4.658595430108, 
+      "lat": 51.26566417993, 
+      "lon": 4.658597273548, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -578,18 +578,6 @@
     }, 
     {
       "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.264092476881, 
-      "lon": 4.658527872091, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jacobslaan"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -701,8 +689,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.26262407187, 
-      "lon": 4.65983758708, 
+      "lat": 51.262623337275, 
+      "lon": 4.659843886011, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -718,18 +706,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jacobslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "60"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.262492911656, 
-      "lon": 4.659335206409, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jacobslaan"
     }, 
     {
@@ -953,11 +929,23 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.260065941219, 
-      "lon": 4.659751514262, 
+      "lat": 51.26007419763, 
+      "lon": 4.659756723109, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Jacobslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 51.259582342185, 
+      "lon": 4.660345563854, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacobslaan"
     }, 
     {
@@ -974,26 +962,14 @@
     }, 
     {
       "hnrlbls": [
-        "96-96A"
-      ], 
-      "housenumber": "96", 
-      "lat": 51.259643371997, 
-      "lon": 4.659690134828, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jacobslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "96-96A"
+        "96A"
       ], 
       "housenumber": "96A", 
-      "lat": 51.259643371997, 
-      "lon": 4.659690134828, 
+      "lat": 51.259354889344, 
+      "lon": 4.660001048219, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jacobslaan"
     }, 
     {

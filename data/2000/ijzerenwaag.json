@@ -86,11 +86,23 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.216909313258, 
-      "lon": 4.4005184934, 
+      "lat": 51.216883509358, 
+      "lon": 4.400544666487, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "IJzerenwaag"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 51.216881006634, 
+      "lon": 4.400493570734, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "IJzerenwaag"
     }, 
     {
@@ -197,18 +209,6 @@
       "housenumber": "4", 
       "lat": 51.216726442989, 
       "lon": 4.400358930427, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "IJzerenwaag"
-    }, 
-    {
-      "hnrlbls": [
-        "5-8"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.216989475292, 
-      "lon": 4.400242755402, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

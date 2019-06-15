@@ -2,11 +2,47 @@
   "addresses": [
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.12306270606, 
+      "lon": 4.4659383085, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.122997412443, 
+      "lon": 4.465764201105, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.123470744626, 
-      "lon": 4.465998011011, 
+      "lat": 51.123406483879, 
+      "lon": 4.465770769821, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.122945251293, 
+      "lon": 4.465578980643, 
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "manueleAanduidingVanPerceel", 
@@ -17,8 +53,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.123470639513, 
-      "lon": 4.466124562136, 
+      "lat": 51.123466999477, 
+      "lon": 4.465961723208, 
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "manueleAanduidingVanPerceel", 
@@ -26,14 +62,158 @@
     }, 
     {
       "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.122874041679, 
+      "lon": 4.46538415113, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.123468091501, 
-      "lon": 4.466270105111, 
+      "lat": 51.123535790552, 
+      "lon": 4.466145267059, 
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.122811156901, 
+      "lon": 4.465231046593, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 51.122589755568, 
+      "lon": 4.465568811846, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.122677860071, 
+      "lon": 4.465659408384, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.12340131669, 
+      "lon": 4.46625639551, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.122709340234, 
+      "lon": 4.465744316431, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 51.123340581544, 
+      "lon": 4.466329970261, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.122766368985, 
+      "lon": 4.465804282392, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 51.12328705303, 
+      "lon": 4.466384705911, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.122798203499, 
+      "lon": 4.465895333233, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.12321445747, 
+      "lon": 4.466452541993, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 51.122831575506, 
+      "lon": 4.465974960819, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "afgeleidVanGebouw", 
       "street": "Deken Jozef Van Herckstraat"
     }, 
     {
@@ -43,6 +223,18 @@
       "housenumber": "36", 
       "lat": 51.123011788801, 
       "lon": 4.466527816771, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Deken Jozef Van Herckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 51.122865922812, 
+      "lon": 4.466070730652, 
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "afgeleidVanGebouw", 

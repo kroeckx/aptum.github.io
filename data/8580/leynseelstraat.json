@@ -182,14 +182,26 @@
     }, 
     {
       "hnrlbls": [
-        "119"
+        "119-119A"
       ], 
       "housenumber": "119", 
-      "lat": 50.777247861976, 
-      "lon": 3.427120883373, 
+      "lat": 50.777231023007, 
+      "lon": 3.42711753327, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leynseelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "119-119A"
+      ], 
+      "housenumber": "119A", 
+      "lat": 50.777231023007, 
+      "lon": 3.42711753327, 
+      "municipality": "Avelgem", 
+      "pcode": "8580", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leynseelstraat"
     }, 
     {
@@ -713,11 +725,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.775750275879, 
-      "lon": 3.431858692534, 
+      "lat": 50.77570132661, 
+      "lon": 3.431797278139, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Leynseelstraat"
     }, 
     {

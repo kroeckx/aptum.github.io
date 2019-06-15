@@ -1405,6 +1405,11 @@
       "street": "Kroonstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "201"
       ], 
@@ -1453,6 +1458,12 @@
       "street": "Kroonstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "204"
       ], 
@@ -1503,9 +1514,11 @@
       "street": "Kroonstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "206"
@@ -1531,6 +1544,11 @@
       "street": "Kroonstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "21-23"
       ], 
@@ -2048,6 +2066,11 @@
       "street": "Kroonstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -2392,6 +2415,10 @@
       "street": "Kroonstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -2404,6 +2431,23 @@
       "street": "Kroonstraat"
     }, 
     {
+      "hnrlbls": [
+        "82A"
+      ], 
+      "housenumber": "82A", 
+      "lat": 51.213682684758, 
+      "lon": 4.429606783995, 
+      "municipality": "Antwerpen", 
+      "pcode": "2140", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kroonstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "83"
       ], 

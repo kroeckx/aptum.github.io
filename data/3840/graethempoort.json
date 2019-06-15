@@ -17,8 +17,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.803412687454, 
-      "lon": 5.336517552379, 
+      "lat": 50.80341402523, 
+      "lon": 5.336518856789, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
       "source": "afgeleidVanGebouw", 
@@ -222,8 +222,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.803727072917, 
-      "lon": 5.333206260962, 
+      "lat": 50.803726987702, 
+      "lon": 5.333205691711, 
       "municipality": "Borgloon", 
       "pcode": "3840", 
       "source": "afgeleidVanGebouw", 
@@ -318,6 +318,10 @@
       "street": "Graethempoort"
     }, 
     {
+      "apptnrs": [
+        "0102", 
+        "0202"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -428,6 +432,7 @@
     {
       "apptnrs": [
         "101", 
+        "201", 
         "202"
       ], 
       "hnrlbls": [
@@ -510,6 +515,9 @@
     {
       "apptnrs": [
         "001", 
+        "108", 
+        "205", 
+        "206", 
         "208"
       ], 
       "hnrlbls": [

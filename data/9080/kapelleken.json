@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.09684547695, 
-      "lon": 3.82719077283, 
+      "lat": 51.096918043166, 
+      "lon": 3.827294145975, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -205,11 +205,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.095536322392, 
-      "lon": 3.827212484015, 
+      "lat": 51.095794202762, 
+      "lon": 3.824745430768, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kapelleken"
     }, 
     {
@@ -274,8 +274,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.096819384478, 
-      "lon": 3.827263880612, 
+      "lat": 51.096770059713, 
+      "lon": 3.827249747221, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -318,10 +318,34 @@
       "street": "Kapelleken"
     }, 
     {
+      "apptnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "33"
+        "33-330001"
       ], 
       "housenumber": "33", 
+      "lat": 51.095377415908, 
+      "lon": 3.825319142158, 
+      "municipality": "Lochristi", 
+      "pcode": "9080", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kapelleken"
+    }, 
+    {
+      "hnrlbls": [
+        "33-330001"
+      ], 
+      "housenumber": "33_0001", 
       "lat": 51.095377415908, 
       "lon": 3.825319142158, 
       "municipality": "Lochristi", 
@@ -342,6 +366,21 @@
       "street": "Kapelleken"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -406,8 +445,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.096794285939, 
-      "lon": 3.82733811887, 
+      "lat": 51.096734389605, 
+      "lon": 3.827370931796, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -420,18 +459,6 @@
       "housenumber": "6", 
       "lat": 51.096693933218, 
       "lon": 3.826723143089, 
-      "municipality": "Lochristi", 
-      "pcode": "9080", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kapelleken"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.096767385714, 
-      "lon": 3.827411521342, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 

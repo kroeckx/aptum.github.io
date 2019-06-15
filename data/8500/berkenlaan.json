@@ -2,26 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.827377770884, 
-      "lon": 3.29181485964, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.827143497969, 
-      "lon": 3.291523263617, 
+      "lat": 50.82711893567, 
+      "lon": 3.291540859822, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Berkenlaan"
     }, 
     {
@@ -38,35 +26,11 @@
     }, 
     {
       "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 50.827046027681, 
-      "lon": 3.291570776718, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
       "lat": 50.827082930012, 
       "lon": 3.291878813078, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 50.826997648319, 
-      "lon": 3.291638174304, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -86,35 +50,11 @@
     }, 
     {
       "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.826958778147, 
-      "lon": 3.291566244392, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
       "lat": 50.826986186492, 
       "lon": 3.291936954903, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.826904868562, 
-      "lon": 3.291560097169, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -146,35 +86,11 @@
     }, 
     {
       "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.826850874302, 
-      "lon": 3.291554519692, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
       "lat": 50.826877831951, 
       "lon": 3.291925097712, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.826797234372, 
-      "lon": 3.291548366323, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -194,35 +110,11 @@
     }, 
     {
       "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.826751274127, 
-      "lon": 3.291614856512, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
       "lat": 50.826769995894, 
       "lon": 3.291930546378, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.826304676426, 
-      "lon": 3.291316913147, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -242,155 +134,11 @@
     }, 
     {
       "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.826228782385, 
-      "lon": 3.291295797509, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
       "lat": 50.826705771553, 
       "lon": 3.291917253517, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.827346420272, 
-      "lon": 3.29189606272, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.826137349886, 
-      "lon": 3.291295903829, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.82660542077, 
-      "lon": 3.291895844737, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 50.826069737036, 
-      "lon": 3.291266081919, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 50.826570120104, 
-      "lon": 3.291801405817, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.826025933784, 
-      "lon": 3.291263962115, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 50.826518993191, 
-      "lon": 3.291853535047, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.825954108201, 
-      "lon": 3.291264897049, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 50.826466568666, 
-      "lon": 3.291832874952, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 50.82641441119, 
-      "lon": 3.291811924898, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 50.827346420272, 
-      "lon": 3.29189606272, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -446,42 +194,6 @@
     }, 
     {
       "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.826226889996, 
-      "lon": 3.291667314755, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 50.826178200489, 
-      "lon": 3.291720523534, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.827293915045, 
-      "lon": 3.291915575822, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
@@ -506,18 +218,6 @@
     }, 
     {
       "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 50.827246235006, 
-      "lon": 3.291931855569, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -526,18 +226,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.827213115221, 
-      "lon": 3.291947660135, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Berkenlaan"
     }
   ]

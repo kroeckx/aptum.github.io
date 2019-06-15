@@ -643,6 +643,28 @@
       "street": "Schrovestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "48A"
+      ], 
+      "housenumber": "48A", 
+      "lat": 50.975223418289, 
+      "lon": 4.079355440761, 
+      "municipality": "Lebbeke", 
+      "pcode": "9280", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Schrovestraat"
+    }, 
+    {
       "hnrlbls": [
         "49"
       ], 

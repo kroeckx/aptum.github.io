@@ -735,11 +735,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.146846324118, 
-      "lon": 3.600466476003, 
+      "lat": 51.146913832025, 
+      "lon": 3.600383476891, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hendrik Consciencelaan"
     }, 
     {
@@ -749,6 +749,30 @@
       "housenumber": "53", 
       "lat": 51.145075914258, 
       "lon": 3.602223760502, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hendrik Consciencelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "53A"
+      ], 
+      "housenumber": "53A", 
+      "lat": 51.144930723514, 
+      "lon": 3.602567690438, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hendrik Consciencelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "53B"
+      ], 
+      "housenumber": "53B", 
+      "lat": 51.144808056098, 
+      "lon": 3.602836365845, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -771,11 +795,23 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.144998487314, 
-      "lon": 3.601858900334, 
+      "lat": 51.144492204421, 
+      "lon": 3.602091997634, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hendrik Consciencelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "55A"
+      ], 
+      "housenumber": "55A", 
+      "lat": 51.144268791114, 
+      "lon": 3.602571823024, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hendrik Consciencelaan"
     }, 
     {
@@ -831,11 +867,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.153334740443, 
-      "lon": 3.597236008242, 
+      "lat": 51.153351018298, 
+      "lon": 3.597237168869, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Hendrik Consciencelaan"
     }, 
     {
@@ -857,6 +893,23 @@
       "housenumber": "62", 
       "lat": 51.144981503273, 
       "lon": 3.6008771168, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hendrik Consciencelaan"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 51.14454755624, 
+      "lon": 3.601147335759, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -1040,6 +1093,18 @@
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Hendrik Consciencelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "79B"
+      ], 
+      "housenumber": "79B", 
+      "lat": 51.140959985609, 
+      "lon": 3.602724934195, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hendrik Consciencelaan"
     }, 
     {

@@ -302,26 +302,26 @@
     }, 
     {
       "hnrlbls": [
-        "30"
+        "30-34"
       ], 
       "housenumber": "30", 
-      "lat": 51.101145043114, 
-      "lon": 3.764696971212, 
+      "lat": 51.101238836431, 
+      "lon": 3.764581258208, 
       "municipality": "Gent", 
       "pcode": "9041", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pijphoekstraat"
     }, 
     {
       "hnrlbls": [
-        "34"
+        "30-34"
       ], 
       "housenumber": "34", 
-      "lat": 51.101182778996, 
-      "lon": 3.764535295739, 
+      "lat": 51.101238836431, 
+      "lon": 3.764581258208, 
       "municipality": "Gent", 
       "pcode": "9041", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pijphoekstraat"
     }, 
     {
@@ -437,11 +437,23 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.10105415742, 
-      "lon": 3.762206083306, 
+      "lat": 51.101077528781, 
+      "lon": 3.762276023602, 
       "municipality": "Gent", 
       "pcode": "9041", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pijphoekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "54A"
+      ], 
+      "housenumber": "54A", 
+      "lat": 51.101054862235, 
+      "lon": 3.762185800742, 
+      "municipality": "Gent", 
+      "pcode": "9041", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pijphoekstraat"
     }, 
     {

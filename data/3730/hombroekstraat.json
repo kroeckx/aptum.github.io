@@ -1,10 +1,6 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "E2", 
-        "E3"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -126,6 +122,18 @@
     }, 
     {
       "hnrlbls": [
+        "17B"
+      ], 
+      "housenumber": "17B", 
+      "lat": 50.862155047709, 
+      "lon": 5.470567058782, 
+      "municipality": "Hoeselt", 
+      "pcode": "3730", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hombroekstraat"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -235,7 +243,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "1E"

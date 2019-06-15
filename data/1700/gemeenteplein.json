@@ -109,11 +109,27 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.848529523988, 
-      "lon": 4.263547703909, 
+      "lat": 50.848451763179, 
+      "lon": 4.263546030821, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Gemeenteplein"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.84845675244, 
+      "lon": 4.263596571299, 
+      "municipality": "Dilbeek", 
+      "pcode": "1700", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gemeenteplein"
     }, 
     {

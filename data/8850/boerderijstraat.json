@@ -14,23 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "19-28"
+        "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.985545895154, 
-      "lon": 3.203378152139, 
-      "municipality": "Ardooie", 
-      "pcode": "8850", 
-      "source": "afgeleidVanGemeente", 
-      "street": "Boerderijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.960749306597, 
-      "lon": 3.166303277509, 
+      "lat": 50.960743129595, 
+      "lon": 3.166226705222, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
       "source": "afgeleidVanGebouw", 
@@ -38,50 +26,62 @@
     }, 
     {
       "hnrlbls": [
-        "19-28"
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.985545895154, 
+      "lon": 3.203378152139, 
+      "municipality": "Ardooie", 
+      "pcode": "8850", 
+      "source": "afgeleidVanGemeente", 
+      "street": "Boerderijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.985545895154, 
-      "lon": 3.203378152139, 
+      "lat": 50.960238347047, 
+      "lon": 3.165860122958, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boerderijstraat"
     }, 
     {
       "hnrlbls": [
-        "19-28"
+        "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.985545895154, 
-      "lon": 3.203378152139, 
+      "lat": 50.960299868153, 
+      "lon": 3.165845164133, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boerderijstraat"
     }, 
     {
       "hnrlbls": [
-        "19-28"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.985545895154, 
-      "lon": 3.203378152139, 
+      "lat": 50.960366510981, 
+      "lon": 3.165829931592, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boerderijstraat"
     }, 
     {
       "hnrlbls": [
-        "19-28"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.985545895154, 
-      "lon": 3.203378152139, 
+      "lat": 50.960436187905, 
+      "lon": 3.165812485866, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
-      "source": "afgeleidVanGemeente", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boerderijstraat"
     }, 
     {
@@ -98,14 +98,26 @@
     }, 
     {
       "hnrlbls": [
-        "33"
+        "31"
       ], 
-      "housenumber": "33", 
-      "lat": 50.960675381586, 
-      "lon": 3.167154332413, 
+      "housenumber": "31", 
+      "lat": 50.960875877281, 
+      "lon": 3.167155318689, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
       "source": "afgeleidVanGebouw", 
+      "street": "Boerderijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.960700238561, 
+      "lon": 3.167229002724, 
+      "municipality": "Ardooie", 
+      "pcode": "8850", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boerderijstraat"
     }, 
     {
@@ -125,8 +137,20 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.960615389994, 
-      "lon": 3.167178218949, 
+      "lat": 50.960617639911, 
+      "lon": 3.167178446039, 
+      "municipality": "Ardooie", 
+      "pcode": "8850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boerderijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.960496131635, 
+      "lon": 3.16653141558, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
       "source": "afgeleidVanGebouw", 
@@ -139,6 +163,18 @@
       "housenumber": "38", 
       "lat": 50.960528792038, 
       "lon": 3.16671863182, 
+      "municipality": "Ardooie", 
+      "pcode": "8850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boerderijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.960531983434, 
+      "lon": 3.166828591766, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
       "source": "afgeleidVanGebouw", 
@@ -163,6 +199,18 @@
       "housenumber": "7", 
       "lat": 50.960537744216, 
       "lon": 3.165369572535, 
+      "municipality": "Ardooie", 
+      "pcode": "8850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boerderijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.960696741046, 
+      "lon": 3.165365351906, 
       "municipality": "Ardooie", 
       "pcode": "8850", 
       "source": "afgeleidVanGebouw", 

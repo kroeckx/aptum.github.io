@@ -688,8 +688,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.182120948224, 
-      "lon": 4.834864058288, 
+      "lat": 51.182121617528, 
+      "lon": 4.834853910799, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1132,8 +1132,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.183442721529, 
-      "lon": 4.835595101276, 
+      "lat": 51.183466559404, 
+      "lon": 4.835567880109, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1163,11 +1163,23 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.183581022017, 
-      "lon": 4.835717625816, 
+      "lat": 51.183483259075, 
+      "lon": 4.835777143913, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Nederrij"
+    }, 
+    {
+      "hnrlbls": [
+        "93A"
+      ], 
+      "housenumber": "93A", 
+      "lat": 51.183529264038, 
+      "lon": 4.835872284916, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nederrij"
     }, 
     {

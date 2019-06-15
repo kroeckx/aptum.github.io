@@ -149,8 +149,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.794791738841, 
-      "lon": 4.006686999464, 
+      "lat": 50.794932509217, 
+      "lon": 4.00668407458, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -464,6 +464,27 @@
       "street": "Krepelstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.797388213858, 
+      "lon": 4.022955822663, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Krepelstraat"
+    }, 
+    {
       "hnrlbls": [
         "150"
       ], 
@@ -696,8 +717,8 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 50.789484852313, 
-      "lon": 3.993448481787, 
+      "lat": 50.789427298674, 
+      "lon": 3.993498719532, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -737,8 +758,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.797482014152, 
-      "lon": 4.020535519105, 
+      "lat": 50.797471605079, 
+      "lon": 4.020511623942, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -785,8 +806,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.797732220439, 
-      "lon": 4.018910230557, 
+      "lat": 50.797748750461, 
+      "lon": 4.018876348271, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -989,8 +1010,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.797385063489, 
-      "lon": 4.021614265457, 
+      "lat": 50.797344891729, 
+      "lon": 4.021679242974, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1673,8 +1694,8 @@
         "77C"
       ], 
       "housenumber": "77C", 
-      "lat": 50.794933085838, 
-      "lon": 4.012720871857, 
+      "lat": 50.794903428116, 
+      "lon": 4.012723648893, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1685,8 +1706,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.79544809252, 
-      "lon": 4.01079447905, 
+      "lat": 50.795420874923, 
+      "lon": 4.010771991238, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1913,8 +1934,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.797415017694, 
-      "lon": 4.023632799709, 
+      "lat": 50.797472327559, 
+      "lon": 4.02361762822, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1961,8 +1982,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 50.79504862773, 
-      "lon": 4.009365787237, 
+      "lat": 50.794996717718, 
+      "lon": 4.009294270523, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2030,11 +2051,35 @@
     }, 
     {
       "hnrlbls": [
+        "93G"
+      ], 
+      "housenumber": "93G", 
+      "lat": 50.794412999027, 
+      "lon": 4.007444907569, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Krepelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "93H"
       ], 
       "housenumber": "93H", 
       "lat": 50.79439007539, 
       "lon": 4.006978013332, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Krepelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "93I"
+      ], 
+      "housenumber": "93I", 
+      "lat": 50.794438861403, 
+      "lon": 4.007260604516, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 

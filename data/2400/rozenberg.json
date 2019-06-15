@@ -85,8 +85,12 @@
       "street": "Rozenberg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "3"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "104"
@@ -441,7 +445,7 @@
       "street": "Rozenberg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101"
       ], 
@@ -713,6 +717,9 @@
       "street": "Rozenberg"
     }, 
     {
+      "apptnrs": [
+        "102"
+      ], 
       "hnrlbls": [
         "150"
       ], 
@@ -1276,7 +1283,7 @@
       "street": "Rozenberg"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 

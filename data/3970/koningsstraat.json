@@ -44,6 +44,9 @@
       "street": "Koningsstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -143,6 +146,18 @@
       "street": "Koningsstraat"
     }, 
     {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 51.116459057562, 
+      "lon": 5.260168520967, 
+      "municipality": "Leopoldsburg", 
+      "pcode": "3970", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koningsstraat"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -217,8 +232,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.115979687979, 
-      "lon": 5.260104526435, 
+      "lat": 51.116036126459, 
+      "lon": 5.26009460646, 
       "municipality": "Leopoldsburg", 
       "pcode": "3970", 
       "source": "afgeleidVanGebouw", 
@@ -322,8 +337,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.116352135081, 
-      "lon": 5.259245986381, 
+      "lat": 51.116366090357, 
+      "lon": 5.259243110404, 
       "municipality": "Leopoldsburg", 
       "pcode": "3970", 
       "source": "afgeleidVanGebouw", 
@@ -564,8 +579,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.115931362661, 
-      "lon": 5.258433734032, 
+      "lat": 51.115919837421, 
+      "lon": 5.258436228057, 
       "municipality": "Leopoldsburg", 
       "pcode": "3970", 
       "source": "afgeleidVanGebouw", 
@@ -592,8 +607,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.116465774482, 
-      "lon": 5.260884764948, 
+      "lat": 51.116477649567, 
+      "lon": 5.26088356359, 
       "municipality": "Leopoldsburg", 
       "pcode": "3970", 
       "source": "afgeleidVanGebouw", 

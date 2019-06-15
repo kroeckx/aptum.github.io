@@ -1,0 +1,70 @@
+{
+  "addresses": [
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.977407922877, 
+      "lon": 4.63601459511, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Klapgat"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.977236674446, 
+      "lon": 4.635897853403, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Klapgat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.977399626528, 
+      "lon": 4.635789286433, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Klapgat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.9773923887, 
+      "lon": 4.63565169621, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Klapgat"
+    }
+  ]
+}

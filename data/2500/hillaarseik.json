@@ -1,0 +1,55 @@
+{
+  "addresses": [
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.13107024804, 
+      "lon": 4.580342126854, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hillaarseik"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.130937482483, 
+      "lon": 4.580592953261, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hillaarseik"
+    }
+  ]
+}

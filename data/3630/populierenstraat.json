@@ -14,11 +14,11 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "4", 
         "5"
       ], 
       "busnrs": [
-        "1", 
         "2", 
         "3"
       ], 
@@ -564,6 +564,18 @@
     }, 
     {
       "hnrlbls": [
+        "58"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.986190187732, 
+      "lon": 5.708470560302, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Populierenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
@@ -768,7 +780,7 @@
     }, 
     {
       "busnrs": [
-        "A"
+        "1"
       ], 
       "hnrlbls": [
         "76"
@@ -905,9 +917,6 @@
       "street": "Populierenstraat"
     }, 
     {
-      "busnrs": [
-        "9"
-      ], 
       "hnrlbls": [
         "95"
       ], 

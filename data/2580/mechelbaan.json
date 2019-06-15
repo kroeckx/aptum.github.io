@@ -2320,8 +2320,8 @@
         "268B"
       ], 
       "housenumber": "268B", 
-      "lat": 51.0601556352, 
-      "lon": 4.646066146659, 
+      "lat": 51.060150444886, 
+      "lon": 4.64605627352, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2332,8 +2332,8 @@
         "268C"
       ], 
       "housenumber": "268C", 
-      "lat": 51.060136783769, 
-      "lon": 4.645826681356, 
+      "lat": 51.06013459708, 
+      "lon": 4.645800992814, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2344,8 +2344,8 @@
         "268D"
       ], 
       "housenumber": "268D", 
-      "lat": 51.060100638796, 
-      "lon": 4.645563577764, 
+      "lat": 51.060099715528, 
+      "lon": 4.645535757118, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2356,8 +2356,8 @@
         "268E"
       ], 
       "housenumber": "268E", 
-      "lat": 51.060064945698, 
-      "lon": 4.645299193484, 
+      "lat": 51.060065643046, 
+      "lon": 4.645270241332, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2368,8 +2368,8 @@
         "268F"
       ], 
       "housenumber": "268F", 
-      "lat": 51.060033726285, 
-      "lon": 4.645005166619, 
+      "lat": 51.06003595636, 
+      "lon": 4.644974226569, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3135,11 +3135,11 @@
         "321"
       ], 
       "housenumber": "321", 
-      "lat": 51.059020930038, 
-      "lon": 4.642935619724, 
+      "lat": 51.059224020293, 
+      "lon": 4.642923119382, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelbaan"
     }, 
     {
@@ -3999,8 +3999,8 @@
         "387"
       ], 
       "housenumber": "387", 
-      "lat": 51.056818085304, 
-      "lon": 4.635318690933, 
+      "lat": 51.056856211696, 
+      "lon": 4.635312918142, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -4824,18 +4824,6 @@
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
-      "street": "Mechelbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 51.06563581878, 
-      "lon": 4.677798801633, 
-      "municipality": "Putte", 
-      "pcode": "2580", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Mechelbaan"
     }, 
     {
@@ -5957,8 +5945,8 @@
         "507"
       ], 
       "housenumber": "507", 
-      "lat": 51.054709088626, 
-      "lon": 4.62906407644, 
+      "lat": 51.054704540153, 
+      "lon": 4.629088440005, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -6191,11 +6179,6 @@
       "street": "Mechelbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "2"
-      ], 
       "hnrlbls": [
         "519"
       ], 
@@ -6208,14 +6191,6 @@
       "street": "Mechelbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "202", 
-        "301"
-      ], 
       "hnrlbls": [
         "519A"
       ], 
@@ -6822,12 +6797,25 @@
       "street": "Mechelbaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "3", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "552"
       ], 
       "housenumber": "552", 
-      "lat": 51.051415938659, 
-      "lon": 4.621378427407, 
+      "lat": 51.051345028882, 
+      "lon": 4.621581127425, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -6850,12 +6838,24 @@
       "street": "Mechelbaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "3", 
+        "301"
+      ], 
       "hnrlbls": [
-        "554-556"
+        "554"
       ], 
       "housenumber": "554", 
-      "lat": 51.051050781081, 
-      "lon": 4.621013355294, 
+      "lat": 51.051291819581, 
+      "lon": 4.621202339275, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -6874,12 +6874,23 @@
       "street": "Mechelbaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "3", 
+        "301"
+      ], 
       "hnrlbls": [
-        "554-556"
+        "556"
       ], 
       "housenumber": "556", 
-      "lat": 51.051050781081, 
-      "lon": 4.621013355294, 
+      "lat": 51.051089224281, 
+      "lon": 4.62098532545, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -7109,15 +7120,27 @@
       "street": "Mechelbaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "571"
       ], 
       "housenumber": "571", 
-      "lat": 51.05220160205, 
-      "lon": 4.624648054253, 
+      "lat": 51.052293081681, 
+      "lon": 4.624372019584, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mechelbaan"
     }, 
     {
@@ -7127,46 +7150,6 @@
       "housenumber": "572", 
       "lat": 51.050889989914, 
       "lon": 4.617758755809, 
-      "municipality": "Putte", 
-      "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Mechelbaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "573"
-      ], 
-      "housenumber": "573", 
-      "lat": 51.052135098283, 
-      "lon": 4.624476120808, 
-      "municipality": "Putte", 
-      "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Mechelbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "573A-573B"
-      ], 
-      "housenumber": "573A", 
-      "lat": 51.052078208341, 
-      "lon": 4.624306094516, 
-      "municipality": "Putte", 
-      "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Mechelbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "573A-573B"
-      ], 
-      "housenumber": "573B", 
-      "lat": 51.052078208341, 
-      "lon": 4.624306094516, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -8593,6 +8576,18 @@
       "housenumber": "665C", 
       "lat": 51.048069083715, 
       "lon": 4.609644311656, 
+      "municipality": "Putte", 
+      "pcode": "2580", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mechelbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "665D"
+      ], 
+      "housenumber": "665D", 
+      "lat": 51.047894503879, 
+      "lon": 4.609782307289, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "manueleAanduidingVanPerceel", 
@@ -10287,8 +10282,8 @@
         "789A"
       ], 
       "housenumber": "789A", 
-      "lat": 51.038066491054, 
-      "lon": 4.580184862554, 
+      "lat": 51.038051753545, 
+      "lon": 4.580182372012, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -10482,8 +10477,8 @@
         "811"
       ], 
       "housenumber": "811", 
-      "lat": 51.037858155144, 
-      "lon": 4.577304214787, 
+      "lat": 51.037860582161, 
+      "lon": 4.577304225635, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -10931,8 +10926,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.064123505251, 
-      "lon": 4.669377174588, 
+      "lat": 51.064124812355, 
+      "lon": 4.669393302947, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -10943,8 +10938,8 @@
         "96A"
       ], 
       "housenumber": "96A", 
-      "lat": 51.064049677321, 
-      "lon": 4.669106940191, 
+      "lat": 51.064052416479, 
+      "lon": 4.669125502852, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -10967,8 +10962,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.064000598226, 
-      "lon": 4.668860261, 
+      "lat": 51.064001897389, 
+      "lon": 4.668879527639, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -10979,8 +10974,8 @@
         "98A"
       ], 
       "housenumber": "98A", 
-      "lat": 51.063931337421, 
-      "lon": 4.668631569714, 
+      "lat": 51.063927359411, 
+      "lon": 4.668640531345, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 

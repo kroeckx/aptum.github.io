@@ -436,6 +436,10 @@
       "street": "Van Weselestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -644,8 +648,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.229468677136, 
-      "lon": 4.457780307227, 
+      "lat": 51.229469217957, 
+      "lon": 4.457778304039, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -680,8 +684,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.229501309296, 
-      "lon": 4.457774500498, 
+      "lat": 51.229502117053, 
+      "lon": 4.457776076805, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1061,10 +1065,10 @@
       "street": "Van Weselestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "84"

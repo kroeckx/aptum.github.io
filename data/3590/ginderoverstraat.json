@@ -469,6 +469,18 @@
     }, 
     {
       "hnrlbls": [
+        "150A"
+      ], 
+      "housenumber": "150A", 
+      "lat": 50.935458729563, 
+      "lon": 5.414155358467, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ginderoverstraat"
+    }, 
+    {
+      "hnrlbls": [
         "152"
       ], 
       "housenumber": "152", 
@@ -766,8 +778,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.930677720695, 
-      "lon": 5.400959720521, 
+      "lat": 50.930638691889, 
+      "lon": 5.400981480858, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -930,9 +942,6 @@
       "street": "Ginderoverstraat"
     }, 
     {
-      "apptnrs": [
-        "65/0001"
-      ], 
       "busnrs": [
         "1"
       ], 

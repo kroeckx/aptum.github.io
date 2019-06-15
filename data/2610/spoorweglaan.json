@@ -967,6 +967,11 @@
       "street": "Spoorweglaan"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "231B"
       ], 
@@ -1320,9 +1325,6 @@
       "street": "Spoorweglaan"
     }, 
     {
-      "busnrs": [
-        "106"
-      ], 
       "hnrlbls": [
         "1-3"
       ], 

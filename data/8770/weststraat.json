@@ -14,18 +14,6 @@
     }, 
     {
       "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 50.920802883397, 
-      "lon": 3.252658048082, 
-      "municipality": "Ingelmunster", 
-      "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Weststraat"
-    }, 
-    {
-      "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
@@ -308,15 +296,31 @@
       "street": "Weststraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.920952821525, 
-      "lon": 3.252352948182, 
+      "lat": 50.9209818455, 
+      "lon": 3.252266206495, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Weststraat"
     }, 
     {
@@ -416,15 +420,22 @@
       "street": "Weststraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.920959121615, 
-      "lon": 3.25206975256, 
+      "lat": 50.921204020217, 
+      "lon": 3.252363333109, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Weststraat"
     }, 
     {
@@ -604,8 +615,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.92110610228, 
-      "lon": 3.251453653108, 
+      "lat": 50.92115427892, 
+      "lon": 3.251461894309, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "afgeleidVanGebouw", 
@@ -1016,18 +1027,6 @@
       "street": "Weststraat"
     }, 
     {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.920814072499, 
-      "lon": 3.25288962297, 
-      "municipality": "Ingelmunster", 
-      "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Weststraat"
-    }, 
-    {
       "apptnrs": [
         "0001", 
         "0101", 
@@ -1252,18 +1251,6 @@
       "housenumber": "79", 
       "lat": 50.921824950384, 
       "lon": 3.245753761305, 
-      "municipality": "Ingelmunster", 
-      "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Weststraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.920776661128, 
-      "lon": 3.252736899761, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
       "source": "manueleAanduidingVanPerceel", 

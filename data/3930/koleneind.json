@@ -101,8 +101,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.254753112611, 
-      "lon": 5.546397194266, 
+      "lat": 51.254781189536, 
+      "lon": 5.546385154697, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -245,11 +245,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.25725671821, 
-      "lon": 5.544629623831, 
+      "lat": 51.257235907395, 
+      "lon": 5.544426238706, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koleneind"
     }, 
     {
@@ -404,8 +404,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.257558817375, 
-      "lon": 5.542506640878, 
+      "lat": 51.25756877541, 
+      "lon": 5.542490559896, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -625,8 +625,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.257966997076, 
-      "lon": 5.54002527426, 
+      "lat": 51.257972821689, 
+      "lon": 5.540027139963, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -726,6 +726,18 @@
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Koleneind"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 51.258912561211, 
+      "lon": 5.537465808157, 
+      "municipality": "Hamont-Achel", 
+      "pcode": "3930", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Koleneind"
     }, 
     {

@@ -26,6 +26,30 @@
     }, 
     {
       "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
+      "lat": 51.328469692703, 
+      "lon": 4.959686205811, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoveniersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 51.328592591365, 
+      "lon": 4.959878438789, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoveniersstraat"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -211,6 +235,37 @@
     {
       "busnrs": [
         "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 51.325947496778, 
+      "lon": 4.957122911881, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoveniersstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
@@ -223,6 +278,38 @@
       "housenumber": "31", 
       "lat": 51.327098069801, 
       "lon": 4.956873077245, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoveniersstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 51.326049449668, 
+      "lon": 4.95751542052, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -246,12 +333,23 @@
       "street": "Hoveniersstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.326691517844, 
-      "lon": 4.957201051947, 
+      "lat": 51.326511782575, 
+      "lon": 4.957068368526, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -282,8 +380,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.326735827328, 
-      "lon": 4.957255842092, 
+      "lat": 51.32664043118, 
+      "lon": 4.957153492679, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -314,8 +412,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.32678120747, 
-      "lon": 4.957330300345, 
+      "lat": 51.326691517844, 
+      "lon": 4.957201051947, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -358,8 +456,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.326858803528, 
-      "lon": 4.957397132939, 
+      "lat": 51.326735827328, 
+      "lon": 4.957255842092, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -387,8 +485,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.326922557786, 
-      "lon": 4.957427781036, 
+      "lat": 51.32678120747, 
+      "lon": 4.957330300345, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -411,8 +509,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.326960597092, 
-      "lon": 4.957532417567, 
+      "lat": 51.326858803528, 
+      "lon": 4.957397132939, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -435,47 +533,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.327048219381, 
-      "lon": 4.957571258897, 
+      "lat": 51.326922557786, 
+      "lon": 4.957427781036, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoveniersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "46_1"
-      ], 
-      "housenumber": "46_1", 
-      "lat": 51.327101480671, 
-      "lon": 4.957651412945, 
-      "municipality": "Turnhout", 
-      "pcode": "2300", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoveniersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "46_2"
-      ], 
-      "housenumber": "46_2", 
-      "lat": 51.327160042574, 
-      "lon": 4.957713988266, 
-      "municipality": "Turnhout", 
-      "pcode": "2300", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoveniersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "46_3"
-      ], 
-      "housenumber": "46_3", 
-      "lat": 51.327132254229, 
-      "lon": 4.958132264466, 
-      "municipality": "Turnhout", 
-      "pcode": "2300", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -495,8 +557,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.327274565239, 
-      "lon": 4.957729642913, 
+      "lat": 51.326960597092, 
+      "lon": 4.957532417567, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -541,11 +603,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.327329589897, 
-      "lon": 4.957762476515, 
+      "lat": 51.327048219381, 
+      "lon": 4.957571258897, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -589,11 +651,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.327380869547, 
-      "lon": 4.957825390354, 
+      "lat": 51.327101480671, 
+      "lon": 4.957651412945, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -625,11 +687,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.327420324825, 
-      "lon": 4.957988579942, 
+      "lat": 51.327160042574, 
+      "lon": 4.957713988266, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -653,11 +715,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.327454380581, 
-      "lon": 4.958080829527, 
+      "lat": 51.327132254229, 
+      "lon": 4.958132264466, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -685,11 +747,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.327537843205, 
-      "lon": 4.958142717474, 
+      "lat": 51.327274565239, 
+      "lon": 4.957729642913, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -709,11 +771,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.32758728796, 
-      "lon": 4.958213068947, 
+      "lat": 51.327329589897, 
+      "lon": 4.957762476515, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -721,11 +783,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.32792418295, 
-      "lon": 4.958679305493, 
+      "lat": 51.327380869547, 
+      "lon": 4.957825390354, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -733,11 +795,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.328010632638, 
-      "lon": 4.958736929066, 
+      "lat": 51.327420324825, 
+      "lon": 4.957988579942, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -752,6 +814,18 @@
       "housenumber": "65", 
       "lat": 51.328616687216, 
       "lon": 4.959120512913, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoveniersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 51.327454380581, 
+      "lon": 4.958080829527, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -774,11 +848,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.328108407067, 
-      "lon": 4.958992968325, 
+      "lat": 51.327537843205, 
+      "lon": 4.958142717474, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoveniersstraat"
     }, 
     {
@@ -786,8 +860,32 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.328138257304, 
-      "lon": 4.959117303259, 
+      "lat": 51.32758728796, 
+      "lon": 4.958213068947, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoveniersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 51.32792418295, 
+      "lon": 4.958679305493, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoveniersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 51.328010632638, 
+      "lon": 4.958736929066, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -810,8 +908,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.328469692703, 
-      "lon": 4.959686205811, 
+      "lat": 51.328108407067, 
+      "lon": 4.958992968325, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -822,8 +920,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.328592591365, 
-      "lon": 4.959878438789, 
+      "lat": 51.328138257304, 
+      "lon": 4.959117303259, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 

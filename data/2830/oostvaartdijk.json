@@ -93,11 +93,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.08068171625, 
-      "lon": 4.367381910833, 
+      "lat": 51.08066832215, 
+      "lon": 4.367268318933, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oostvaartdijk"
     }, 
     {
@@ -225,18 +225,11 @@
       "street": "Oostvaartdijk"
     }, 
     {
-      "hnrlbls": [
-        "28"
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
-      "housenumber": "28", 
-      "lat": 51.080154699054, 
-      "lon": 4.367272037886, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Oostvaartdijk"
-    }, 
-    {
       "hnrlbls": [
         "3"
       ], 
@@ -583,18 +576,6 @@
     }, 
     {
       "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.081138350373, 
-      "lon": 4.367458394126, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oostvaartdijk"
-    }, 
-    {
-      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
@@ -607,7 +588,7 @@
     }, 
     {
       "hnrlbls": [
-        "71-71A"
+        "71"
       ], 
       "housenumber": "71", 
       "lat": 51.078462187008, 
@@ -615,18 +596,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oostvaartdijk"
-    }, 
-    {
-      "hnrlbls": [
-        "71-71A"
-      ], 
-      "housenumber": "71A", 
-      "lat": 51.078462187008, 
-      "lon": 4.367262505723, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Oostvaartdijk"
     }, 
     {

@@ -1474,10 +1474,26 @@
       "street": "Brugsken"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
-        "45"
+        "45-47"
       ], 
       "housenumber": "45", 
+      "lat": 51.160668951922, 
+      "lon": 4.154266488089, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsken"
+    }, 
+    {
+      "hnrlbls": [
+        "45-47"
+      ], 
+      "housenumber": "47", 
       "lat": 51.160668951922, 
       "lon": 4.154266488089, 
       "municipality": "Sint-Niklaas", 

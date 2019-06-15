@@ -15,12 +15,13 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
+        "4", 
         "5", 
         "6", 
         "7", 
-        "8", 
-        "9"
+        "8"
       ], 
       "hnrlbls": [
         "10"
@@ -106,8 +107,11 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
+        "4", 
         "5", 
+        "6", 
         "7"
       ], 
       "hnrlbls": [
@@ -132,27 +136,6 @@
       "housenumber": "5", 
       "lat": 51.211629584298, 
       "lon": 4.410025677881, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maria-Henri\u00ebttalei"
-    }, 
-    {
-      "apptnrs": [
-        "1A"
-      ], 
-      "busnrs": [
-        "0", 
-        "1A", 
-        "4", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "6-8"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.211130413799, 
-      "lon": 4.40963999587, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -209,7 +192,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "6-8"
+        "8"
       ], 
       "housenumber": "8", 
       "lat": 51.211130413799, 

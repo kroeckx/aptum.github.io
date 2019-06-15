@@ -37,6 +37,11 @@
       "street": "Ferdinand Berckmansstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -119,8 +124,9 @@
       "street": "Ferdinand Berckmansstraat"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "4"

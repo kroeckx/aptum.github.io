@@ -425,8 +425,8 @@
         "38-40"
       ], 
       "housenumber": "38", 
-      "lat": 51.21692993419, 
-      "lon": 4.404696485114, 
+      "lat": 51.216919901493, 
+      "lon": 4.40487537798, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -485,8 +485,8 @@
         "38-40"
       ], 
       "housenumber": "40", 
-      "lat": 51.21692993419, 
-      "lon": 4.404696485114, 
+      "lat": 51.216919901493, 
+      "lon": 4.40487537798, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
@@ -506,7 +506,7 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "42-42A"
       ], 
       "housenumber": "42", 
       "lat": 51.216731479549, 
@@ -518,19 +518,19 @@
     }, 
     {
       "hnrlbls": [
-        "42A-42B"
+        "42-42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.21671600982, 
-      "lon": 4.405273376772, 
+      "lat": 51.216731479549, 
+      "lon": 4.405242618313, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Huidevettersstraat"
     }, 
     {
       "hnrlbls": [
-        "42A-42B"
+        "42B"
       ], 
       "housenumber": "42B", 
       "lat": 51.21671600982, 

@@ -37,21 +37,6 @@
       "street": "Sint-Antoniuslaan"
     }, 
     {
-      "busnrs": [
-        "201"
-      ], 
-      "hnrlbls": [
-        "162"
-      ], 
-      "housenumber": "162", 
-      "lat": 50.847766944796, 
-      "lon": 4.281908151664, 
-      "municipality": "Dilbeek", 
-      "pcode": "1700", 
-      "source": "afgeleidVanStraat", 
-      "street": "Sint-Antoniuslaan"
-    }, 
-    {
       "apptnrs": [
         "1.0"
       ], 
@@ -351,7 +336,7 @@
       "lon": 4.2816683998, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniuslaan"
     }, 
     {
@@ -800,11 +785,7 @@
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
-      "busnrs": [
-        "1", 
+        "101", 
         "201", 
         "202"
       ], 
@@ -943,7 +924,7 @@
       "lon": 4.282424901699, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Antoniuslaan"
     }, 
     {

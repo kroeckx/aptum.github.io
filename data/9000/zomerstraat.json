@@ -458,7 +458,7 @@
     }, 
     {
       "hnrlbls": [
-        "44"
+        "44-44A"
       ], 
       "housenumber": "44", 
       "lat": 51.032193953373, 
@@ -466,6 +466,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Zomerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44-44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 51.032193953373, 
+      "lon": 3.728565353447, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zomerstraat"
     }, 
     {

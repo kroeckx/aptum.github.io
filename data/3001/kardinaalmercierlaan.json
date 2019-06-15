@@ -43,11 +43,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.867821343225, 
-      "lon": 4.697537601989, 
+      "lat": 50.867820533783, 
+      "lon": 4.697537738372, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kardinaal Mercierlaan"
     }, 
     {
@@ -61,11 +61,11 @@
         "0302"
       ], 
       "hnrlbls": [
-        "15"
+        "15-38"
       ], 
       "housenumber": "15", 
-      "lat": 50.86769751251, 
-      "lon": 4.697265260465, 
+      "lat": 50.867710464568, 
+      "lon": 4.697422893793, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -124,8 +124,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.867587352613, 
-      "lon": 4.697086490155, 
+      "lat": 50.867587622294, 
+      "lon": 4.697086492043, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -191,8 +191,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.867505241087, 
-      "lon": 4.696971416737, 
+      "lat": 50.867529100749, 
+      "lon": 4.696958088275, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -229,8 +229,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.867455119593, 
-      "lon": 4.696892934284, 
+      "lat": 50.867489885512, 
+      "lon": 4.696837206908, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -440,6 +440,18 @@
       "housenumber": "45", 
       "lat": 50.867161770141, 
       "lon": 4.69632237095, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kardinaal Mercierlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.867312170865, 
+      "lon": 4.69302627852, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -750,8 +762,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.866089321678, 
-      "lon": 4.694613222151, 
+      "lat": 50.866092939172, 
+      "lon": 4.694605434359, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 

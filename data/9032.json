@@ -76,7 +76,7 @@
       "b": 51.079972587837, 
       "l": 3.706875048043, 
       "name": "Bosuilstraat", 
-      "numOfAddr": 29, 
+      "numOfAddr": 30, 
       "r": 3.70756497244, 
       "sanName": "bosuilstraat", 
       "t": 51.081258264205
@@ -103,7 +103,7 @@
       "b": 51.079392707836, 
       "l": 3.701693816879, 
       "name": "Braambezielaan", 
-      "numOfAddr": 30, 
+      "numOfAddr": 31, 
       "r": 3.702970024792, 
       "sanName": "braambezielaan", 
       "t": 51.080827924533
@@ -148,7 +148,7 @@
       "b": 51.07584709634, 
       "l": 3.705317992676, 
       "name": "Dikkelindestraat", 
-      "numOfAddr": 137, 
+      "numOfAddr": 146, 
       "r": 3.708451939279, 
       "sanName": "dikkelindestraat", 
       "t": 51.081177035579
@@ -184,7 +184,7 @@
       "b": 51.082137661628, 
       "l": 3.708765639014, 
       "name": "Eksterstraat", 
-      "numOfAddr": 28, 
+      "numOfAddr": 30, 
       "r": 3.709773759653, 
       "sanName": "eksterstraat", 
       "t": 51.083477164868
@@ -220,7 +220,7 @@
       "b": 51.090612288453, 
       "l": 3.711986077775, 
       "name": "Evergemsesteenweg", 
-      "numOfAddr": 236, 
+      "numOfAddr": 237, 
       "r": 3.717525775905, 
       "sanName": "evergemsesteenweg", 
       "t": 51.099273086199
@@ -238,7 +238,7 @@
       "b": 51.090686449171, 
       "l": 3.702404446524, 
       "name": "Fran\u00e7oise Jeanne Ridderboschstraat", 
-      "numOfAddr": 29, 
+      "numOfAddr": 28, 
       "r": 3.703805254426, 
       "sanName": "franoisejeanneridderboschstraat", 
       "t": 51.092054314613
@@ -383,18 +383,18 @@
     }, 
     {
       "b": 51.100778954839, 
-      "l": 3.710266573631, 
+      "l": 3.711209749485, 
       "name": "Heinakker", 
-      "numOfAddr": 17, 
+      "numOfAddr": 16, 
       "r": 3.712788608846, 
       "sanName": "heinakker", 
-      "t": 51.10284832692
+      "t": 51.102776559909
     }, 
     {
       "b": 51.089634692755, 
       "l": 3.696506500272, 
       "name": "Helmkruidstraat", 
-      "numOfAddr": 61, 
+      "numOfAddr": 62, 
       "r": 3.708106057241, 
       "sanName": "helmkruidstraat", 
       "t": 51.094788988167
@@ -796,7 +796,10 @@
       "b": 51.090858082627, 
       "l": 3.702924262202, 
       "name": "Marthe Bo\u00eblstraat", 
-      "numOfAddr": 32, 
+      "numOfAddr": 30, 
+      "otherPCs": [
+        "9030"
+      ], 
       "r": 3.704177652651, 
       "sanName": "marthebolstraat", 
       "t": 51.092197083221
@@ -880,7 +883,7 @@
       "b": 51.076953256512, 
       "l": 3.715402137128, 
       "name": "Morekstraat", 
-      "numOfAddr": 472, 
+      "numOfAddr": 471, 
       "r": 3.717926624137, 
       "sanName": "morekstraat", 
       "t": 51.090336748961
@@ -968,12 +971,12 @@
     }, 
     {
       "b": 51.101787411451, 
-      "l": 3.709537784759, 
+      "l": 3.720455997259, 
       "name": "Ringvaartweg-Wondelgem", 
-      "numOfAddr": 4, 
+      "numOfAddr": 3, 
       "r": 3.729330777645, 
       "sanName": "ringvaartwegwondelgem", 
-      "t": 51.103310751589
+      "t": 51.104032855225
     }, 
     {
       "b": 51.080861354592, 
@@ -983,6 +986,15 @@
       "r": 3.710435555497, 
       "sanName": "roodborstjesstraat", 
       "t": 51.082206447865
+    }, 
+    {
+      "b": 51.079267728035, 
+      "l": 3.705080811675, 
+      "name": "Roza Van De Voordestraat", 
+      "numOfAddr": 13, 
+      "r": 3.7056173419, 
+      "sanName": "rozavandevoordestraat", 
+      "t": 51.079878980873
     }, 
     {
       "b": 51.082275696389, 
@@ -1033,10 +1045,10 @@
       "b": 51.099477072212, 
       "l": 3.708314925071, 
       "name": "Schouwingstraat", 
-      "numOfAddr": 43, 
+      "numOfAddr": 42, 
       "r": 3.712046355373, 
       "sanName": "schouwingstraat", 
-      "t": 51.1015154071
+      "t": 51.101905633545
     }, 
     {
       "b": 51.089313651664, 
@@ -1195,7 +1207,7 @@
       "b": 51.089864593083, 
       "l": 3.716271614286, 
       "name": "Vierweegsestraat", 
-      "numOfAddr": 82, 
+      "numOfAddr": 83, 
       "r": 3.719331046922, 
       "sanName": "vierweegsestraat", 
       "t": 51.090612288453
@@ -1303,7 +1315,7 @@
       "b": 51.076715293605, 
       "l": 3.706826626636, 
       "name": "Westergemstraat", 
-      "numOfAddr": 231, 
+      "numOfAddr": 232, 
       "r": 3.712684571623, 
       "sanName": "westergemstraat", 
       "t": 51.086467382425

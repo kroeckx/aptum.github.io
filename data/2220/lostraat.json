@@ -1376,11 +1376,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.071515976613, 
-      "lon": 4.733753497078, 
+      "lat": 51.07147795986, 
+      "lon": 4.733751345083, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1934,11 +1934,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.06534757029, 
-      "lon": 4.733049481285, 
+      "lat": 51.065375678956, 
+      "lon": 4.733174241621, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1958,11 +1958,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.065274402847, 
-      "lon": 4.733048482514, 
+      "lat": 51.065354227285, 
+      "lon": 4.733192905156, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -2131,6 +2131,30 @@
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lostraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70A-70B"
+      ], 
+      "housenumber": "70A", 
+      "lat": 51.063759630505, 
+      "lon": 4.735777187912, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Lostraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70A-70B"
+      ], 
+      "housenumber": "70B", 
+      "lat": 51.063759630505, 
+      "lon": 4.735777187912, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lostraat"
     }, 
     {

@@ -5,11 +5,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.985475795602, 
-      "lon": 3.577248929791, 
+      "lat": 50.985316623609, 
+      "lon": 3.577615217456, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Karmstraat"
     }, 
     {
@@ -26,14 +26,86 @@
     }, 
     {
       "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.982750026679, 
+      "lon": 3.577848483351, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Karmstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13B"
+      ], 
+      "housenumber": "13B", 
+      "lat": 50.982652406431, 
+      "lon": 3.577929880685, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Karmstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13C"
+      ], 
+      "housenumber": "13C", 
+      "lat": 50.982587344087, 
+      "lon": 3.577986803463, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Karmstraat"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.98243551872, 
-      "lon": 3.57777417733, 
+      "lat": 50.982343789177, 
+      "lon": 3.577956302897, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Karmstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 50.982507180799, 
+      "lon": 3.578043980622, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Karmstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15B"
+      ], 
+      "housenumber": "15B", 
+      "lat": 50.982439548023, 
+      "lon": 3.578092971281, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Karmstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15C"
+      ], 
+      "housenumber": "15C", 
+      "lat": 50.98232436341, 
+      "lon": 3.578182638665, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Karmstraat"
     }, 
     {
@@ -233,8 +305,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.982052338729, 
-      "lon": 3.579093814309, 
+      "lat": 50.982053001364, 
+      "lon": 3.579098787555, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -293,11 +365,11 @@
         "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 50.984909527231, 
-      "lon": 3.575510989374, 
+      "lat": 50.984915308434, 
+      "lon": 3.575501776716, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Karmstraat"
     }, 
     {
@@ -305,11 +377,11 @@
         "7B"
       ], 
       "housenumber": "7B", 
-      "lat": 50.984832405829, 
-      "lon": 3.575645883481, 
+      "lat": 50.984855299483, 
+      "lon": 3.575708161205, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Karmstraat"
     }, 
     {
@@ -317,8 +389,8 @@
         "7C"
       ], 
       "housenumber": "7C", 
-      "lat": 50.985014632104, 
-      "lon": 3.575873666029, 
+      "lat": 50.98501445425, 
+      "lon": 3.575873953876, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

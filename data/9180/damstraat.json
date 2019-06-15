@@ -233,11 +233,11 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.172414426993, 
-      "lon": 3.946333964911, 
+      "lat": 51.172365325699, 
+      "lon": 3.946377876368, 
       "municipality": "Moerbeke", 
       "pcode": "9180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Damstraat"
     }, 
     {
@@ -2389,6 +2389,11 @@
       "street": "Damstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "77"
       ], 

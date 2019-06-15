@@ -350,11 +350,11 @@
     }, 
     {
       "hnrlbls": [
-        "128"
+        "128-130"
       ], 
       "housenumber": "128", 
-      "lat": 50.945984208862, 
-      "lon": 4.749714980355, 
+      "lat": 50.945993619727, 
+      "lon": 4.749723594673, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -374,11 +374,11 @@
     }, 
     {
       "hnrlbls": [
-        "130"
+        "128-130"
       ], 
       "housenumber": "130", 
-      "lat": 50.945984298753, 
-      "lon": 4.749714981087, 
+      "lat": 50.945993619727, 
+      "lon": 4.749723594673, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -626,8 +626,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 50.946901327323, 
-      "lon": 4.75131020973, 
+      "lat": 50.946836382737, 
+      "lon": 4.751185025735, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -640,6 +640,18 @@
       "housenumber": "147", 
       "lat": 50.946619347988, 
       "lon": 4.749674897472, 
+      "municipality": "Rotselaar", 
+      "pcode": "3111", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Aarschotsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "152"
+      ], 
+      "housenumber": "152", 
+      "lat": 50.947082002299, 
+      "lon": 4.75131367813, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -1233,11 +1245,11 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.948136988632, 
-      "lon": 4.752636460094, 
+      "lat": 50.948209267625, 
+      "lon": 4.752580131695, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Aarschotsesteenweg"
     }, 
     {
@@ -1275,8 +1287,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.948248801766, 
-      "lon": 4.752833185315, 
+      "lat": 50.948248261953, 
+      "lon": 4.752833323189, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -1767,8 +1779,8 @@
         "246"
       ], 
       "housenumber": "246", 
-      "lat": 50.954384345527, 
-      "lon": 4.763013386172, 
+      "lat": 50.954385964522, 
+      "lon": 4.763013115163, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -1851,8 +1863,8 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 50.951601071694, 
-      "lon": 4.756181984007, 
+      "lat": 50.951553377983, 
+      "lon": 4.756251607191, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -1872,9 +1884,21 @@
     }, 
     {
       "hnrlbls": [
-        "255"
+        "255-255A"
       ], 
       "housenumber": "255", 
+      "lat": 50.951792058171, 
+      "lon": 4.75635661762, 
+      "municipality": "Rotselaar", 
+      "pcode": "3111", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Aarschotsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "255-255A"
+      ], 
+      "housenumber": "255A", 
       "lat": 50.951792058171, 
       "lon": 4.75635661762, 
       "municipality": "Rotselaar", 
@@ -1909,8 +1933,8 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 50.952023497318, 
-      "lon": 4.756558200463, 
+      "lat": 50.952027484979, 
+      "lon": 4.756548413817, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -1930,8 +1954,8 @@
         "257A"
       ], 
       "housenumber": "257A", 
-      "lat": 50.952169541403, 
-      "lon": 4.756704144141, 
+      "lat": 50.952170393238, 
+      "lon": 4.756691200571, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -2218,8 +2242,8 @@
         "293"
       ], 
       "housenumber": "293", 
-      "lat": 50.954012670655, 
-      "lon": 4.76050670083, 
+      "lat": 50.954004140984, 
+      "lon": 4.76050364073, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -2470,8 +2494,8 @@
         "320"
       ], 
       "housenumber": "320", 
-      "lat": 50.958687300467, 
-      "lon": 4.772812349084, 
+      "lat": 50.958665929423, 
+      "lon": 4.77285771166, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -2518,8 +2542,8 @@
         "326"
       ], 
       "housenumber": "326", 
-      "lat": 50.959072221798, 
-      "lon": 4.773595671129, 
+      "lat": 50.959076192213, 
+      "lon": 4.773591293058, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -2686,8 +2710,8 @@
         "347"
       ], 
       "housenumber": "347", 
-      "lat": 50.958086629203, 
-      "lon": 4.769930763081, 
+      "lat": 50.958093605288, 
+      "lon": 4.7699148816, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -2926,8 +2950,8 @@
         "395"
       ], 
       "housenumber": "395", 
-      "lat": 50.961063460116, 
-      "lon": 4.776941412089, 
+      "lat": 50.961073583811, 
+      "lon": 4.776925415738, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -3090,8 +3114,8 @@
         "88-88B"
       ], 
       "housenumber": "88", 
-      "lat": 50.94392872727, 
-      "lon": 4.745586944006, 
+      "lat": 50.943948371284, 
+      "lon": 4.745628223779, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 
@@ -3102,8 +3126,8 @@
         "88-88B"
       ], 
       "housenumber": "88A", 
-      "lat": 50.94392872727, 
-      "lon": 4.745586944006, 
+      "lat": 50.943948371284, 
+      "lon": 4.745628223779, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -3118,8 +3142,8 @@
         "88-88B"
       ], 
       "housenumber": "88B", 
-      "lat": 50.94392872727, 
-      "lon": 4.745586944006, 
+      "lat": 50.943948371284, 
+      "lon": 4.745628223779, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -3130,20 +3154,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.944031826937, 
-      "lon": 4.745785414283, 
-      "municipality": "Rotselaar", 
-      "pcode": "3111", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Aarschotsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "91"
-      ], 
-      "housenumber": "91", 
-      "lat": 50.94407606944, 
-      "lon": 4.74480055506, 
+      "lat": 50.944032097526, 
+      "lon": 4.745785131882, 
       "municipality": "Rotselaar", 
       "pcode": "3111", 
       "source": "afgeleidVanGebouw", 

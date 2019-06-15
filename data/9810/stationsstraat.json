@@ -747,8 +747,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.957346194585, 
-      "lon": 3.638493870393, 
+      "lat": 50.957349512487, 
+      "lon": 3.638492537757, 
       "municipality": "Nazareth", 
       "pcode": "9810", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1280,6 +1280,14 @@
       "street": "Stationsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "7"
       ], 

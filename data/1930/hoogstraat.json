@@ -685,8 +685,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 50.882488839381, 
-      "lon": 4.466702129438, 
+      "lat": 50.882489199674, 
+      "lon": 4.466701277585, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -809,8 +809,8 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 50.882580615104, 
-      "lon": 4.466173418753, 
+      "lat": 50.882580525804, 
+      "lon": 4.466172708056, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
@@ -904,6 +904,23 @@
       "street": "Hoogstraat"
     }, 
     {
+      "apptnrs": [
+        "011", 
+        "012", 
+        "013", 
+        "014", 
+        "021", 
+        "022", 
+        "023", 
+        "024", 
+        "025", 
+        "026", 
+        "027", 
+        "028", 
+        "031", 
+        "032", 
+        "033"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -968,8 +985,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.883172415882, 
-      "lon": 4.478489081061, 
+      "lat": 50.883287277994, 
+      "lon": 4.478417730624, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1103,8 +1120,10 @@
       "street": "Hoogstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "011", 
+        "021", 
+        "031"
       ], 
       "hnrlbls": [
         "32"
@@ -1206,128 +1225,384 @@
       "street": "Hoogstraat"
     }, 
     {
-      "apptnrs": [
-        "4.42"
-      ], 
       "busnrs": [
-        "101", 
-        "102", 
-        "111", 
-        "112", 
-        "121", 
-        "122", 
-        "131", 
-        "132", 
-        "141", 
-        "201", 
-        "202", 
-        "211", 
-        "212", 
-        "221", 
-        "222", 
-        "231", 
-        "232", 
-        "241", 
-        "242", 
-        "301", 
-        "302", 
-        "311", 
-        "312", 
-        "321", 
-        "322", 
-        "331", 
-        "341", 
-        "342", 
-        "4", 
-        "401", 
-        "402", 
-        "411", 
-        "412", 
-        "42", 
-        "421", 
-        "422", 
-        "431", 
-        "432", 
-        "441", 
-        "442", 
-        "501", 
-        "511", 
-        "521", 
-        "531", 
-        "541"
+        "001", 
+        "011", 
+        "021", 
+        "031", 
+        "041"
       ], 
       "hnrlbls": [
-        "3A-3B"
+        "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 50.882251532702, 
-      "lon": 4.477728381175, 
+      "lat": 50.882041928093, 
+      "lon": 4.477408308156, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "042"
+      ], 
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.882076217254, 
+      "lon": 4.477558872344, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
       "apptnrs": [
-        "2.22"
-      ], 
-      "busnrs": [
-        "101", 
-        "102", 
-        "111", 
-        "112", 
-        "121", 
-        "122", 
-        "131", 
-        "132", 
-        "141", 
-        "142", 
-        "2", 
-        "201", 
-        "202", 
-        "211", 
-        "212", 
-        "221", 
-        "222", 
-        "231", 
-        "232", 
-        "241", 
-        "242", 
-        "3", 
-        "301", 
-        "302", 
-        "311", 
-        "312", 
-        "321", 
-        "322", 
-        "331", 
-        "332", 
-        "341", 
-        "342", 
-        "401", 
-        "402", 
-        "411", 
-        "412", 
-        "421", 
-        "431", 
-        "432", 
-        "441", 
-        "442", 
-        "501", 
-        "511", 
-        "521", 
-        "531", 
-        "541"
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "042"
       ], 
       "hnrlbls": [
-        "3A-3B"
+        "3C"
       ], 
-      "housenumber": "3B", 
-      "lat": 50.882251532702, 
-      "lon": 4.477728381175, 
+      "housenumber": "3C", 
+      "lat": 50.882107631468, 
+      "lon": 4.477707440633, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "042"
+      ], 
+      "hnrlbls": [
+        "3D"
+      ], 
+      "housenumber": "3D", 
+      "lat": 50.882167959863, 
+      "lon": 4.477985814663, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "042"
+      ], 
+      "hnrlbls": [
+        "3E"
+      ], 
+      "housenumber": "3E", 
+      "lat": 50.882205900486, 
+      "lon": 4.478172055545, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041"
+      ], 
+      "hnrlbls": [
+        "3F"
+      ], 
+      "housenumber": "3F", 
+      "lat": 50.882539395288, 
+      "lon": 4.477994215289, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "042"
+      ], 
+      "hnrlbls": [
+        "3G"
+      ], 
+      "housenumber": "3G", 
+      "lat": 50.882497586946, 
+      "lon": 4.477810095719, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "042"
+      ], 
+      "hnrlbls": [
+        "3H"
+      ], 
+      "housenumber": "3H", 
+      "lat": 50.882441211361, 
+      "lon": 4.477534002799, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "042"
+      ], 
+      "hnrlbls": [
+        "3I"
+      ], 
+      "housenumber": "3I", 
+      "lat": 50.882412315951, 
+      "lon": 4.477383307911, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "011", 
+        "021", 
+        "031", 
+        "041"
+      ], 
+      "hnrlbls": [
+        "3J"
+      ], 
+      "housenumber": "3J", 
+      "lat": 50.882380094397, 
+      "lon": 4.477232463377, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031"
+      ], 
+      "hnrlbls": [
+        "3K"
+      ], 
+      "housenumber": "3K", 
+      "lat": 50.882653215199, 
+      "lon": 4.477015397604, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
+      ], 
+      "hnrlbls": [
+        "3L"
+      ], 
+      "housenumber": "3L", 
+      "lat": 50.882796612796, 
+      "lon": 4.476901053406, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
+      ], 
+      "hnrlbls": [
+        "3M"
+      ], 
+      "housenumber": "3M", 
+      "lat": 50.882730321475, 
+      "lon": 4.476555022518, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031"
+      ], 
+      "hnrlbls": [
+        "3N"
+      ], 
+      "housenumber": "3N", 
+      "lat": 50.88257692048, 
+      "lon": 4.476599714523, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
+      ], 
+      "hnrlbls": [
+        "3O"
+      ], 
+      "housenumber": "3O", 
+      "lat": 50.882231292484, 
+      "lon": 4.476777110432, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
+      ], 
+      "hnrlbls": [
+        "3P"
+      ], 
+      "housenumber": "3P", 
+      "lat": 50.882186279278, 
+      "lon": 4.476557034257, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
+      ], 
+      "hnrlbls": [
+        "3Q"
+      ], 
+      "housenumber": "3Q", 
+      "lat": 50.882130701402, 
+      "lon": 4.476290040954, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1427,15 +1702,24 @@
       "street": "Hoogstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.88289078272, 
-      "lon": 4.477715947562, 
+      "lat": 50.882616591356, 
+      "lon": 4.476180320871, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1558,10 +1842,6 @@
       "street": "Hoogstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -1598,116 +1878,137 @@
       "apptnrs": [
         "001", 
         "002", 
-        "003", 
-        "004", 
-        "005", 
-        "006", 
-        "007", 
-        "008", 
         "011", 
         "012", 
-        "013", 
-        "014", 
-        "015", 
-        "016", 
-        "017", 
-        "018", 
         "021", 
         "022", 
-        "023", 
-        "024", 
-        "025", 
-        "026", 
-        "027", 
-        "028", 
         "031", 
-        "032", 
-        "033", 
-        "034", 
-        "035", 
-        "036", 
-        "037", 
-        "038", 
-        "041", 
-        "042", 
-        "043", 
-        "044", 
-        "045", 
-        "046"
+        "032"
       ], 
       "hnrlbls": [
         "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 50.882684195083, 
-      "lon": 4.476760822179, 
+      "lat": 50.882740982487, 
+      "lon": 4.476009515841, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "111", 
-        "112", 
-        "121", 
-        "122", 
-        "131", 
-        "132", 
-        "201", 
-        "202", 
-        "211", 
-        "212", 
-        "22", 
-        "221", 
-        "222", 
-        "231", 
-        "3", 
-        "301", 
-        "302", 
-        "311", 
-        "312", 
-        "321", 
-        "322", 
-        "331", 
-        "401", 
-        "411", 
-        "421", 
-        "501", 
-        "502", 
-        "511", 
-        "512", 
-        "521", 
-        "522", 
-        "531", 
-        "601", 
-        "602", 
-        "611", 
-        "612", 
-        "621", 
-        "622", 
-        "631", 
-        "701", 
-        "702", 
-        "711", 
-        "712", 
-        "721", 
-        "722", 
-        "731", 
-        "732"
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
       ], 
       "hnrlbls": [
         "5B"
       ], 
       "housenumber": "5B", 
-      "lat": 50.882571356197, 
-      "lon": 4.475907096832, 
+      "lat": 50.882673528511, 
+      "lon": 4.475654105216, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5C"
+      ], 
+      "housenumber": "5C", 
+      "lat": 50.882579009227, 
+      "lon": 4.475305312615, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031"
+      ], 
+      "hnrlbls": [
+        "5D"
+      ], 
+      "housenumber": "5D", 
+      "lat": 50.882509470063, 
+      "lon": 4.475655576755, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031"
+      ], 
+      "hnrlbls": [
+        "5E"
+      ], 
+      "housenumber": "5E", 
+      "lat": 50.882378574166, 
+      "lon": 4.475764268665, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "021"
+      ], 
+      "hnrlbls": [
+        "5F"
+      ], 
+      "housenumber": "5F", 
+      "lat": 50.882423493735, 
+      "lon": 4.475990028822, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031"
+      ], 
+      "hnrlbls": [
+        "5G"
+      ], 
+      "housenumber": "5G", 
+      "lat": 50.882469683563, 
+      "lon": 4.476202576885, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1740,15 +2041,8 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "003", 
-        "004", 
-        "011", 
         "022", 
         "031", 
-        "X002", 
-        "X012", 
-        "X013", 
         "X021"
       ], 
       "hnrlbls": [
@@ -1763,15 +2057,12 @@
       "street": "Hoogstraat"
     }, 
     {
-      "apptnrs": [
-        "X001"
-      ], 
       "hnrlbls": [
         "62A"
       ], 
       "housenumber": "62A", 
-      "lat": 50.88212983557, 
-      "lon": 4.472583487044, 
+      "lat": 50.882127174803, 
+      "lon": 4.472542982458, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "manueleAanduidingVanGebouw", 

@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.231749183565, 
-      "lon": 2.918966143716, 
+      "lat": 51.231746829498, 
+      "lon": 2.918964784968, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -17,8 +17,8 @@
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.231695789946, 
-      "lon": 2.919010761635, 
+      "lat": 51.231696046855, 
+      "lon": 2.919017054151, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -131,9 +131,6 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "17A"
       ], 
@@ -218,7 +215,7 @@
         "B"
       ], 
       "hnrlbls": [
-        "22"
+        "22-24"
       ], 
       "housenumber": "22", 
       "lat": 51.231312693311, 
@@ -236,11 +233,11 @@
         "4"
       ], 
       "hnrlbls": [
-        "24"
+        "22-24"
       ], 
       "housenumber": "24", 
-      "lat": 51.231305639025, 
-      "lon": 2.919452466602, 
+      "lat": 51.231312693311, 
+      "lon": 2.919382512843, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -333,6 +330,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0103", 
@@ -350,6 +348,7 @@
         "0403", 
         "0404", 
         "0405", 
+        "0501", 
         "0601"
       ], 
       "hnrlbls": [
@@ -360,7 +359,7 @@
       "lon": 2.919807349189, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -460,8 +459,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.230557773492, 
-      "lon": 2.920048467378, 
+      "lat": 51.230573166144, 
+      "lon": 2.920035388509, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -484,8 +483,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.231943907429, 
-      "lon": 2.918716660129, 
+      "lat": 51.231947285115, 
+      "lon": 2.918720850922, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -516,8 +515,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.230284668333, 
-      "lon": 2.919770573583, 
+      "lat": 51.23028515494, 
+      "lon": 2.919766262797, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -543,8 +542,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.230222287736, 
-      "lon": 2.919815468391, 
+      "lat": 51.230224876333, 
+      "lon": 2.919813956077, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -579,8 +578,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.230210624216, 
-      "lon": 2.920331309847, 
+      "lat": 51.230214824664, 
+      "lon": 2.920336620555, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -616,6 +615,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0102", 
         "0201", 
         "0207", 
@@ -635,11 +635,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.230074095349, 
-      "lon": 2.92002540457, 
+      "lat": 51.230089693244, 
+      "lon": 2.920080477065, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -661,6 +661,8 @@
       "busnrs": [
         "0301", 
         "0401", 
+        "0402", 
+        "0502", 
         "0601", 
         "0616", 
         "1", 
@@ -683,7 +685,7 @@
       "lon": 2.918916300935, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {

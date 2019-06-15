@@ -81,8 +81,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.136533948674, 
-      "lon": 4.391969909348, 
+      "lat": 51.136532509792, 
+      "lon": 4.391973337594, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -1244,6 +1244,10 @@
       "street": "Baron van Ertbornstraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "8"
       ], 

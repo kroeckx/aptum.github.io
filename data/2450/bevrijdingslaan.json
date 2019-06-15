@@ -1369,6 +1369,18 @@
       "street": "Bevrijdingslaan"
     }, 
     {
+      "hnrlbls": [
+        "239"
+      ], 
+      "housenumber": "239", 
+      "lat": 51.12100987719, 
+      "lon": 5.052797826699, 
+      "municipality": "Meerhout", 
+      "pcode": "2450", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bevrijdingslaan"
+    }, 
+    {
       "busnrs": [
         "1", 
         "11", 
@@ -1391,11 +1403,11 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 51.120878953257, 
-      "lon": 5.052743203015, 
+      "lat": 51.120880402166, 
+      "lon": 5.052741367422, 
       "municipality": "Meerhout", 
       "pcode": "2450", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bevrijdingslaan"
     }, 
     {
@@ -2303,30 +2315,6 @@
       "municipality": "Meerhout", 
       "pcode": "2450", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Bevrijdingslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "7_02-7_03"
-      ], 
-      "housenumber": "7_02", 
-      "lat": 51.129603279014, 
-      "lon": 5.074901258398, 
-      "municipality": "Meerhout", 
-      "pcode": "2450", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bevrijdingslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "7_02-7_03"
-      ], 
-      "housenumber": "7_03", 
-      "lat": 51.129603279014, 
-      "lon": 5.074901258398, 
-      "municipality": "Meerhout", 
-      "pcode": "2450", 
-      "source": "afgeleidVanGebouw", 
       "street": "Bevrijdingslaan"
     }, 
     {

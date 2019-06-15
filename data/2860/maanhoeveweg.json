@@ -26,6 +26,18 @@
     }, 
     {
       "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.046767004176, 
+      "lon": 4.507050610519, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Maanhoeveweg"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -77,11 +89,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.046387787024, 
-      "lon": 4.507787008362, 
+      "lat": 51.046514709966, 
+      "lon": 4.507560653647, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maanhoeveweg"
     }, 
     {
@@ -164,8 +176,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.045795717684, 
-      "lon": 4.507150253958, 
+      "lat": 51.045806559786, 
+      "lon": 4.507179518684, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
@@ -253,6 +265,30 @@
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
+      "street": "Maanhoeveweg"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 51.044424270925, 
+      "lon": 4.506691305789, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Maanhoeveweg"
+    }, 
+    {
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 51.044248648527, 
+      "lon": 4.506595961404, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Maanhoeveweg"
     }, 
     {

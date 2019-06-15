@@ -53,11 +53,23 @@
         "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 50.917819993571, 
-      "lon": 3.28163599852, 
+      "lat": 50.918352446178, 
+      "lon": 3.278835770666, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Warandestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1D"
+      ], 
+      "housenumber": "1D", 
+      "lat": 50.917826713323, 
+      "lon": 3.281672394474, 
+      "municipality": "Ingelmunster", 
+      "pcode": "8770", 
+      "source": "afgeleidVanGebouw", 
       "street": "Warandestraat"
     }, 
     {

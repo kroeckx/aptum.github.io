@@ -586,8 +586,8 @@
         "47-49"
       ], 
       "housenumber": "47", 
-      "lat": 51.278606375043, 
-      "lon": 4.430392086347, 
+      "lat": 51.278608443455, 
+      "lon": 4.430389939463, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanPerceelGrb", 
@@ -615,8 +615,8 @@
         "47-49"
       ], 
       "housenumber": "49", 
-      "lat": 51.278606375043, 
-      "lon": 4.430392086347, 
+      "lat": 51.278608443455, 
+      "lon": 4.430389939463, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanPerceelGrb", 
@@ -723,8 +723,8 @@
         "55-57"
       ], 
       "housenumber": "55", 
-      "lat": 51.27872493968, 
-      "lon": 4.430712687492, 
+      "lat": 51.278729346009, 
+      "lon": 4.430708680724, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanPerceelGrb", 
@@ -755,8 +755,8 @@
         "55-57"
       ], 
       "housenumber": "57", 
-      "lat": 51.27872493968, 
-      "lon": 4.430712687492, 
+      "lat": 51.278729346009, 
+      "lon": 4.430708680724, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanPerceelGrb", 
@@ -841,20 +841,23 @@
       "street": "Konijnenberg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.279084316994, 
-      "lon": 4.429972536246, 
+      "lat": 51.278980153125, 
+      "lon": 4.430126744091, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Konijnenberg"
     }, 
     {
@@ -867,18 +870,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
-      "street": "Konijnenberg"
-    }, 
-    {
-      "hnrlbls": [
-        "66"
-      ], 
-      "housenumber": "66", 
-      "lat": 51.278993282169, 
-      "lon": 4.430114723432, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Konijnenberg"
     }, 
     {

@@ -182,8 +182,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.238981950522, 
-      "lon": 4.578541288007, 
+      "lat": 51.238977811579, 
+      "lon": 4.578543703527, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -663,11 +663,11 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.24008348406, 
-      "lon": 4.580546372372, 
+      "lat": 51.23995072923, 
+      "lon": 4.580744660674, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -719,8 +719,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.240038313813, 
-      "lon": 4.581023282703, 
+      "lat": 51.240047868201, 
+      "lon": 4.581008434372, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -1041,8 +1041,8 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.240693121791, 
-      "lon": 4.582164954761, 
+      "lat": 51.240700240673, 
+      "lon": 4.58215496387, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -1166,8 +1166,8 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 51.237987629472, 
-      "lon": 4.576527327838, 
+      "lat": 51.238034858469, 
+      "lon": 4.576402537715, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1195,11 +1195,11 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.237740942854, 
-      "lon": 4.576655377461, 
+      "lat": 51.238060424021, 
+      "lon": 4.576533667231, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -1278,8 +1278,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.233089404434, 
-      "lon": 4.557064411527, 
+      "lat": 51.233094623833, 
+      "lon": 4.55706056708, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -1629,8 +1629,8 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.238620150303, 
-      "lon": 4.578703317819, 
+      "lat": 51.238615556842, 
+      "lon": 4.578708595007, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -1952,8 +1952,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.232037880182, 
-      "lon": 4.556428636512, 
+      "lat": 51.232043023361, 
+      "lon": 4.556416201725, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -2163,7 +2163,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -2182,14 +2182,14 @@
     }, 
     {
       "hnrlbls": [
-        "253-255"
+        "253A"
       ], 
       "housenumber": "253A", 
-      "lat": 51.242581334363, 
-      "lon": 4.587058610407, 
+      "lat": 51.242511680841, 
+      "lon": 4.58710382064, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -2205,7 +2205,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -2236,7 +2236,7 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -2257,11 +2257,11 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 51.242681170684, 
-      "lon": 4.587168770974, 
+      "lat": 51.242625699687, 
+      "lon": 4.587272759889, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -2277,11 +2277,13 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
-        "4", 
+        "4"
+      ], 
+      "busnrs": [
         "5"
       ], 
       "hnrlbls": [
@@ -2359,8 +2361,8 @@
         "266"
       ], 
       "housenumber": "266", 
-      "lat": 51.239769347374, 
-      "lon": 4.581341943176, 
+      "lat": 51.239781965047, 
+      "lon": 4.581323099654, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -2378,11 +2380,11 @@
         "268"
       ], 
       "housenumber": "268", 
-      "lat": 51.239819393534, 
-      "lon": 4.581402312614, 
+      "lat": 51.239547929356, 
+      "lon": 4.58166010193, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -2658,6 +2660,18 @@
     }, 
     {
       "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.233640522581, 
+      "lon": 4.559108713811, 
+      "municipality": "Schilde", 
+      "pcode": "2970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
+      "hnrlbls": [
         "291"
       ], 
       "housenumber": "291", 
@@ -2885,8 +2899,8 @@
         "307"
       ], 
       "housenumber": "307", 
-      "lat": 51.24394596757, 
-      "lon": 4.590514955511, 
+      "lat": 51.243894107016, 
+      "lon": 4.590609365849, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3217,11 +3231,11 @@
         "330"
       ], 
       "housenumber": "330", 
-      "lat": 51.241427900426, 
-      "lon": 4.585281420853, 
+      "lat": 51.241428720989, 
+      "lon": 4.585177177661, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -3237,26 +3251,40 @@
       "street": "Turnhoutsebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
+        "11", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7", 
+        "8", 
         "9"
       ], 
       "hnrlbls": [
         "332"
       ], 
       "housenumber": "332", 
-      "lat": 51.241375813875, 
-      "lon": 4.585452154463, 
+      "lat": 51.241465920039, 
+      "lon": 4.585282027642, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Turnhoutsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "332A"
+      ], 
+      "housenumber": "332A", 
+      "lat": 51.241507480455, 
+      "lon": 4.58536126592, 
+      "municipality": "Schilde", 
+      "pcode": "2970", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -3340,8 +3368,8 @@
         "339"
       ], 
       "housenumber": "339", 
-      "lat": 51.245520373423, 
-      "lon": 4.594255501547, 
+      "lat": 51.245521005887, 
+      "lon": 4.594253786108, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -3382,8 +3410,8 @@
         "341"
       ], 
       "housenumber": "341", 
-      "lat": 51.245544532763, 
-      "lon": 4.594359588652, 
+      "lat": 51.245546059945, 
+      "lon": 4.594360025696, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -3478,8 +3506,8 @@
         "347"
       ], 
       "housenumber": "347", 
-      "lat": 51.245845874626, 
-      "lon": 4.595082687549, 
+      "lat": 51.245845321589, 
+      "lon": 4.595089845359, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -3743,8 +3771,8 @@
         "366"
       ], 
       "housenumber": "366", 
-      "lat": 51.242178388947, 
-      "lon": 4.587300011697, 
+      "lat": 51.242178390009, 
+      "lon": 4.587299438907, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -3938,18 +3966,6 @@
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
-      "street": "Turnhoutsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "383"
-      ], 
-      "housenumber": "383", 
-      "lat": 51.248644388604, 
-      "lon": 4.601231380758, 
-      "municipality": "Schilde", 
-      "pcode": "2970", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -4184,8 +4200,8 @@
         "408"
       ], 
       "housenumber": "408", 
-      "lat": 51.243301470848, 
-      "lon": 4.590340895723, 
+      "lat": 51.243298583839, 
+      "lon": 4.590346610042, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -4223,8 +4239,8 @@
         "410"
       ], 
       "housenumber": "410", 
-      "lat": 51.243309637239, 
-      "lon": 4.590730158418, 
+      "lat": 51.243313233354, 
+      "lon": 4.590729745993, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -4271,8 +4287,8 @@
         "416"
       ], 
       "housenumber": "416", 
-      "lat": 51.243593284884, 
-      "lon": 4.59102951937, 
+      "lat": 51.243591659169, 
+      "lon": 4.591033664483, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -4373,8 +4389,8 @@
         "429-431"
       ], 
       "housenumber": "429", 
-      "lat": 51.251748923892, 
-      "lon": 4.61050461975, 
+      "lat": 51.251750097938, 
+      "lon": 4.61050190452, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -4409,8 +4425,8 @@
         "429-431"
       ], 
       "housenumber": "431", 
-      "lat": 51.251748923892, 
-      "lon": 4.61050461975, 
+      "lat": 51.251750097938, 
+      "lon": 4.61050190452, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -4647,8 +4663,8 @@
         "451"
       ], 
       "housenumber": "451", 
-      "lat": 51.253005507141, 
-      "lon": 4.612332355287, 
+      "lat": 51.253004699384, 
+      "lon": 4.612331778123, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -4758,8 +4774,8 @@
         "466"
       ], 
       "housenumber": "466", 
-      "lat": 51.245939306177, 
-      "lon": 4.597297891147, 
+      "lat": 51.245932463726, 
+      "lon": 4.597303729114, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -4835,8 +4851,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.232505965779, 
-      "lon": 4.557740237033, 
+      "lat": 51.232505877503, 
+      "lon": 4.557739234492, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -4886,8 +4902,8 @@
         "494A"
       ], 
       "housenumber": "494A", 
-      "lat": 51.24884310213, 
-      "lon": 4.6045014997, 
+      "lat": 51.24884289317, 
+      "lon": 4.604516107013, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -4949,8 +4965,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.232548960407, 
-      "lon": 4.557833471848, 
+      "lat": 51.232536183905, 
+      "lon": 4.557841580467, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -5116,8 +5132,8 @@
         "532-532B"
       ], 
       "housenumber": "532", 
-      "lat": 51.251374943546, 
-      "lon": 4.610756042772, 
+      "lat": 51.251372784902, 
+      "lon": 4.610756747665, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -5131,8 +5147,8 @@
         "532-532B"
       ], 
       "housenumber": "532B", 
-      "lat": 51.251374943546, 
-      "lon": 4.610756042772, 
+      "lat": 51.251372784902, 
+      "lon": 4.610756747665, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -5215,8 +5231,8 @@
         "548"
       ], 
       "housenumber": "548", 
-      "lat": 51.252294914916, 
-      "lon": 4.613233127604, 
+      "lat": 51.252292302098, 
+      "lon": 4.613236121687, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -5600,8 +5616,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.238370298903, 
-      "lon": 4.576405468976, 
+      "lat": 51.238359951778, 
+      "lon": 4.576411436578, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 

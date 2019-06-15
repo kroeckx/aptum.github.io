@@ -185,11 +185,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.24356142473, 
-      "lon": 4.635378101203, 
+      "lat": 51.243677929034, 
+      "lon": 4.635649710818, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heideweg"
     }, 
     {
@@ -293,8 +293,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.244131339668, 
-      "lon": 4.637059876904, 
+      "lat": 51.244113189276, 
+      "lon": 4.637057194449, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -425,8 +425,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.244532192744, 
-      "lon": 4.636913972126, 
+      "lat": 51.244535347417, 
+      "lon": 4.636910123755, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -442,6 +442,18 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Heideweg"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.244614426496, 
+      "lon": 4.637076413156, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heideweg"
     }, 
     {
@@ -614,18 +626,6 @@
     }, 
     {
       "hnrlbls": [
-        "71"
-      ], 
-      "housenumber": "71", 
-      "lat": 51.245390332047, 
-      "lon": 4.639620273385, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Heideweg"
-    }, 
-    {
-      "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
@@ -641,11 +641,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.245438398274, 
-      "lon": 4.639825342511, 
+      "lat": 51.24543525152, 
+      "lon": 4.639903945961, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heideweg"
     }, 
     {
@@ -662,18 +662,6 @@
     }, 
     {
       "hnrlbls": [
-        "75"
-      ], 
-      "housenumber": "75", 
-      "lat": 51.245476356492, 
-      "lon": 4.640048111018, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Heideweg"
-    }, 
-    {
-      "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
@@ -682,18 +670,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heideweg"
-    }, 
-    {
-      "hnrlbls": [
-        "77"
-      ], 
-      "housenumber": "77", 
-      "lat": 51.245506022044, 
-      "lon": 4.640280856105, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Heideweg"
     }, 
     {
@@ -734,18 +710,6 @@
     }, 
     {
       "hnrlbls": [
-        "81"
-      ], 
-      "housenumber": "81", 
-      "lat": 51.245548928481, 
-      "lon": 4.640774320125, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Heideweg"
-    }, 
-    {
-      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
@@ -754,18 +718,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heideweg"
-    }, 
-    {
-      "hnrlbls": [
-        "83"
-      ], 
-      "housenumber": "83", 
-      "lat": 51.245573582319, 
-      "lon": 4.640997012024, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Heideweg"
     }, 
     {

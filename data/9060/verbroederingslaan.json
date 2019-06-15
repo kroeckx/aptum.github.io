@@ -480,6 +480,13 @@
       "street": "Verbroederingslaan"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -488,7 +495,7 @@
       "lon": 3.814017369383, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Verbroederingslaan"
     }, 
     {

@@ -1,12 +1,17 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.271868867224, 
-      "lon": 3.037824576153, 
+      "lat": 51.271879554122, 
+      "lon": 3.037799621153, 
       "municipality": "De Haan", 
       "pcode": "8421", 
       "source": "manueleAanduidingVanGebouw", 

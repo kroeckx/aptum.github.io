@@ -31,7 +31,7 @@
       "b": 51.17069367986, 
       "l": 4.434761367944, 
       "name": "Antwerpsestraat", 
-      "numOfAddr": 235, 
+      "numOfAddr": 227, 
       "r": 4.449406817427, 
       "sanName": "antwerpsestraat", 
       "t": 51.177577757554
@@ -103,7 +103,7 @@
       "b": 51.166417796651, 
       "l": 4.464266581481, 
       "name": "Borsbeeksebinnenweg", 
-      "numOfAddr": 41, 
+      "numOfAddr": 42, 
       "r": 4.466164446183, 
       "sanName": "borsbeeksebinnenweg", 
       "t": 51.168766252065
@@ -133,7 +133,7 @@
       "numOfAddr": 37, 
       "r": 4.462554776752, 
       "sanName": "cantecroylaan", 
-      "t": 51.177966602145
+      "t": 51.177947261456
     }, 
     {
       "b": 51.164785782044, 
@@ -202,7 +202,7 @@
       "b": 51.174276927437, 
       "l": 4.442320171479, 
       "name": "Deurnestraat", 
-      "numOfAddr": 245, 
+      "numOfAddr": 241, 
       "r": 4.453157263873, 
       "sanName": "deurnestraat", 
       "t": 51.188027763622
@@ -373,7 +373,7 @@
       "b": 51.180085609426, 
       "l": 4.467886236622, 
       "name": "Gasthuishoeven", 
-      "numOfAddr": 31, 
+      "numOfAddr": 33, 
       "r": 4.481522987041, 
       "sanName": "gasthuishoeven", 
       "t": 51.185734383307
@@ -562,7 +562,7 @@
       "b": 51.167299808439, 
       "l": 4.461188012387, 
       "name": "Hof ter Linden", 
-      "numOfAddr": 3, 
+      "numOfAddr": 4, 
       "r": 4.461287361559, 
       "sanName": "hofterlinden", 
       "t": 51.167521814807
@@ -622,7 +622,7 @@
       "t": 51.163138938806
     }, 
     {
-      "b": 51.172901483209, 
+      "b": 51.172905706458, 
       "l": 4.434258597369, 
       "name": "Jozef Hermanslei", 
       "numOfAddr": 51, 
@@ -634,7 +634,7 @@
       "b": 51.171265784059, 
       "l": 4.441069043696, 
       "name": "Juliaan De Vriendtstraat", 
-      "numOfAddr": 29, 
+      "numOfAddr": 28, 
       "r": 4.442347481278, 
       "sanName": "juliaandevriendtstraat", 
       "t": 51.171783962812
@@ -661,8 +661,8 @@
       "b": 51.162592356747, 
       "l": 4.472731681922, 
       "name": "Kaphaanlei", 
-      "numOfAddr": 123, 
-      "r": 4.474870246406, 
+      "numOfAddr": 122, 
+      "r": 4.475044557266, 
       "sanName": "kaphaanlei", 
       "t": 51.168079306162
     }, 
@@ -742,7 +742,7 @@
       "b": 51.166426003352, 
       "l": 4.457103256524, 
       "name": "Liersesteenweg", 
-      "numOfAddr": 268, 
+      "numOfAddr": 267, 
       "r": 4.480851548933, 
       "sanName": "liersesteenweg", 
       "t": 51.171029928936
@@ -782,6 +782,15 @@
       "r": 4.47595578425, 
       "sanName": "lobbesplein", 
       "t": 51.171998843339
+    }, 
+    {
+      "b": 51.183727504743, 
+      "l": 4.444588974115, 
+      "name": "Lode Vissenaekenstraat", 
+      "numOfAddr": 2, 
+      "r": 4.4448909373, 
+      "sanName": "lodevissenaekenstraat", 
+      "t": 51.183844968479
     }, 
     {
       "b": 51.171507800926, 
@@ -1021,7 +1030,7 @@
       "b": 51.164723655609, 
       "l": 4.468603702687, 
       "name": "Pastoor Van der Auwerastraat", 
-      "numOfAddr": 52, 
+      "numOfAddr": 53, 
       "r": 4.471882603415, 
       "sanName": "pastoorvanderauwerastraat", 
       "t": 51.165250508192
@@ -1235,9 +1244,9 @@
     }, 
     {
       "b": 51.169893571815, 
-      "l": 4.449428714822, 
+      "l": 4.449467338865, 
       "name": "Statielei", 
-      "numOfAddr": 104, 
+      "numOfAddr": 103, 
       "r": 4.455648369889, 
       "sanName": "statielei", 
       "t": 51.17121360176
@@ -1451,7 +1460,7 @@
     }, 
     {
       "b": 51.162004509315, 
-      "l": 4.462649497274, 
+      "l": 4.462716744544, 
       "name": "Wouwstraat", 
       "numOfAddr": 86, 
       "r": 4.470235326347, 

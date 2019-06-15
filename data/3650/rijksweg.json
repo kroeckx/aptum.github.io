@@ -893,6 +893,18 @@
     }, 
     {
       "hnrlbls": [
+        "185A"
+      ], 
+      "housenumber": "185A", 
+      "lat": 51.015365524548, 
+      "lon": 5.726157137387, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
         "189"
       ], 
       "housenumber": "189", 
@@ -953,14 +965,15 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.016123345661, 
-      "lon": 5.726234416016, 
+      "lat": 51.016138217858, 
+      "lon": 5.72623114153, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1382,11 +1395,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.002061262904, 
-      "lon": 5.724544611349, 
+      "lat": 51.002067542603, 
+      "lon": 5.724460012842, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -1761,6 +1774,18 @@
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "afgeleidVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "330A"
+      ], 
+      "housenumber": "330A", 
+      "lat": 51.0247616498, 
+      "lon": 5.726552700834, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -2207,11 +2232,11 @@
         "375"
       ], 
       "housenumber": "375", 
-      "lat": 51.029603564167, 
-      "lon": 5.728034085853, 
+      "lat": 51.029640895017, 
+      "lon": 5.727938934151, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -3105,8 +3130,8 @@
         "454"
       ], 
       "housenumber": "454", 
-      "lat": 51.035075260858, 
-      "lon": 5.728058872843, 
+      "lat": 51.034343752787, 
+      "lon": 5.728116899119, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3126,18 +3151,6 @@
     }, 
     {
       "hnrlbls": [
-        "456"
-      ], 
-      "housenumber": "456", 
-      "lat": 51.035283011961, 
-      "lon": 5.728605321609, 
-      "municipality": "Dilsen-Stokkem", 
-      "pcode": "3650", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
         "457"
       ], 
       "housenumber": "457", 
@@ -3146,18 +3159,6 @@
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "afgeleidVanGebouw", 
-      "street": "Rijksweg"
-    }, 
-    {
-      "hnrlbls": [
-        "458"
-      ], 
-      "housenumber": "458", 
-      "lat": 51.035634028506, 
-      "lon": 5.728742999413, 
-      "municipality": "Dilsen-Stokkem", 
-      "pcode": "3650", 
-      "source": "afgeleidVanPerceelKadaster", 
       "street": "Rijksweg"
     }, 
     {
@@ -4246,8 +4247,8 @@
         "653"
       ], 
       "housenumber": "653", 
-      "lat": 51.04882095427, 
-      "lon": 5.738517218716, 
+      "lat": 51.048797176162, 
+      "lon": 5.738613653914, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4274,8 +4275,8 @@
         "655"
       ], 
       "housenumber": "655", 
-      "lat": 51.048896991505, 
-      "lon": 5.73857321734, 
+      "lat": 51.048873654982, 
+      "lon": 5.738685782901, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4304,8 +4305,8 @@
         "657"
       ], 
       "housenumber": "657", 
-      "lat": 51.048996206576, 
-      "lon": 5.738638452839, 
+      "lat": 51.048971568613, 
+      "lon": 5.738754688902, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6011,6 +6012,78 @@
     }, 
     {
       "hnrlbls": [
+        "888A"
+      ], 
+      "housenumber": "888A", 
+      "lat": 51.066697885235, 
+      "lon": 5.750580916587, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "888B"
+      ], 
+      "housenumber": "888B", 
+      "lat": 51.066738879209, 
+      "lon": 5.750581129319, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "888C"
+      ], 
+      "housenumber": "888C", 
+      "lat": 51.066776719416, 
+      "lon": 5.750604934717, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "888D"
+      ], 
+      "housenumber": "888D", 
+      "lat": 51.066710653773, 
+      "lon": 5.750557750794, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "888E"
+      ], 
+      "housenumber": "888E", 
+      "lat": 51.066753389986, 
+      "lon": 5.75056272363, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
+        "888F"
+      ], 
+      "housenumber": "888F", 
+      "lat": 51.066792376795, 
+      "lon": 5.750588417826, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "hnrlbls": [
         "889-889C"
       ], 
       "housenumber": "889", 
@@ -6096,6 +6169,24 @@
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "afgeleidVanGebouw", 
+      "street": "Rijksweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "892"
+      ], 
+      "housenumber": "892", 
+      "lat": 51.067069878378, 
+      "lon": 5.750759852975, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rijksweg"
     }, 
     {
@@ -6862,8 +6953,8 @@
         "966"
       ], 
       "housenumber": "966", 
-      "lat": 51.076291683478, 
-      "lon": 5.756972288448, 
+      "lat": 51.076262031663, 
+      "lon": 5.757016648585, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanGebouw", 
@@ -6874,8 +6965,8 @@
         "966A"
       ], 
       "housenumber": "966A", 
-      "lat": 51.076421996239, 
-      "lon": 5.757098465619, 
+      "lat": 51.076361779352, 
+      "lon": 5.757127361029, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanGebouw", 

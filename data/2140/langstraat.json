@@ -733,8 +733,10 @@
       "street": "Langstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "161"
@@ -2031,9 +2033,6 @@
       "street": "Langstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "94"
       ], 

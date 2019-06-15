@@ -372,7 +372,8 @@
         "0102", 
         "0201", 
         "0202", 
-        "0301"
+        "0301", 
+        "G001"
       ], 
       "hnrlbls": [
         "37"
@@ -654,18 +655,15 @@
       "street": "Duinenstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
-        "69-69G"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.094085813554, 
-      "lon": 2.592168183718, 
+      "lat": 51.094411120554, 
+      "lon": 2.595202886944, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Duinenstraat"
     }, 
     {
@@ -673,14 +671,14 @@
         "1"
       ], 
       "hnrlbls": [
-        "69-69G"
+        "69G"
       ], 
       "housenumber": "69G", 
-      "lat": 51.094085813554, 
-      "lon": 2.592168183718, 
+      "lat": 51.094411655437, 
+      "lon": 2.595202581086, 
       "municipality": "De Panne", 
       "pcode": "8660", 
-      "source": "afgeleidVanStraat", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Duinenstraat"
     }, 
     {

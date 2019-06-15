@@ -38,7 +38,7 @@
     }, 
     {
       "hnrlbls": [
-        "11"
+        "11-13"
       ], 
       "housenumber": "11", 
       "lat": 50.778061933933, 
@@ -170,14 +170,14 @@
     }, 
     {
       "hnrlbls": [
-        "13"
+        "11-13"
       ], 
       "housenumber": "13", 
-      "lat": 50.778328406032, 
-      "lon": 4.241277485856, 
+      "lat": 50.778061933933, 
+      "lon": 4.241593678539, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Topstraat"
     }, 
     {
@@ -1050,8 +1050,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.776922011021, 
-      "lon": 4.236507152541, 
+      "lat": 50.776975408359, 
+      "lon": 4.236505869062, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -1098,8 +1098,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.776951555334, 
-      "lon": 4.237523088423, 
+      "lat": 50.77696260472, 
+      "lon": 4.237515968623, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 
@@ -1286,8 +1286,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.776258619119, 
-      "lon": 4.236389484814, 
+      "lat": 50.776294425889, 
+      "lon": 4.236414196382, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 

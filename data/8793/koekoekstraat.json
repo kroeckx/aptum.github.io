@@ -426,6 +426,11 @@
       "street": "Koekoekstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -434,7 +439,7 @@
       "lon": 3.403368523504, 
       "municipality": "Waregem", 
       "pcode": "8793", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koekoekstraat"
     }, 
     {
@@ -446,7 +451,7 @@
       "lon": 3.403333156161, 
       "municipality": "Waregem", 
       "pcode": "8793", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koekoekstraat"
     }, 
     {

@@ -781,6 +781,23 @@
       "street": "Aatstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.74287504725, 
+      "lon": 3.604928446185, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Aatstraat"
+    }, 
+    {
       "hnrlbls": [
         "20"
       ], 
@@ -1405,6 +1422,24 @@
       "street": "Aatstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.742751695291, 
+      "lon": 3.605217078207, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Aatstraat"
+    }, 
+    {
       "hnrlbls": [
         "40"
       ], 
@@ -1786,6 +1821,30 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Aatstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 50.742707501612, 
+      "lon": 3.605485016264, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Aatstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 50.742641822548, 
+      "lon": 3.60569804345, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Aatstraat"
     }, 
     {

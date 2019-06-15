@@ -616,8 +616,13 @@
       "street": "Zemstsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "3-3B"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 50.991617639846, 
@@ -685,30 +690,6 @@
       "housenumber": "39", 
       "lat": 50.991138876764, 
       "lon": 4.489486791517, 
-      "municipality": "Zemst", 
-      "pcode": "1981", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zemstsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3A", 
-      "lat": 50.991617639846, 
-      "lon": 4.491814384449, 
-      "municipality": "Zemst", 
-      "pcode": "1981", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zemstsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 50.991617639846, 
-      "lon": 4.491814384449, 
       "municipality": "Zemst", 
       "pcode": "1981", 
       "source": "afgeleidVanGebouw", 

@@ -136,18 +136,30 @@
     }, 
     {
       "apptnrs": [
-        "101", 
-        "201", 
-        "301", 
-        "401", 
-        "501"
+        "11", 
+        "21", 
+        "31", 
+        "41", 
+        "51"
       ], 
       "hnrlbls": [
-        "21"
+        "20A"
       ], 
-      "housenumber": "21", 
-      "lat": 51.223334788881, 
-      "lon": 4.39870193596, 
+      "housenumber": "20A", 
+      "lat": 51.223299998222, 
+      "lon": 4.398723670402, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Jordaenskaai"
+    }, 
+    {
+      "hnrlbls": [
+        "20B"
+      ], 
+      "housenumber": "20B", 
+      "lat": 51.223278260221, 
+      "lon": 4.398670121703, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -155,11 +167,11 @@
     }, 
     {
       "hnrlbls": [
-        "21A"
+        "21"
       ], 
-      "housenumber": "21A", 
-      "lat": 51.223296593582, 
-      "lon": 4.398681441813, 
+      "housenumber": "21", 
+      "lat": 51.223140042363, 
+      "lon": 4.398579566677, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -177,11 +189,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.223040452246, 
-      "lon": 4.398575207305, 
+      "lat": 51.223032454252, 
+      "lon": 4.398568760799, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jordaenskaai"
     }, 
     {

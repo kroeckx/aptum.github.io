@@ -383,6 +383,18 @@
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
       "street": "Metsterenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.841318681042, 
+      "lon": 5.161799511252, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Metsterenweg"
     }
   ]
 }

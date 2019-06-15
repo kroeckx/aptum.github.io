@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.253093680554, 
+      "lon": 4.643248134241, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Violetlaan"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -137,8 +149,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.256363654782, 
-      "lon": 4.643741151686, 
+      "lat": 51.256371920586, 
+      "lon": 4.643742633022, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -538,6 +550,18 @@
       "housenumber": "52", 
       "lat": 51.26018585466, 
       "lon": 4.642461013251, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Violetlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.260032929443, 
+      "lon": 4.641466073049, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

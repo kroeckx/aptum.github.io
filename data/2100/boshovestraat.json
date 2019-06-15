@@ -767,8 +767,8 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 51.223085217599, 
-      "lon": 4.471438144189, 
+      "lat": 51.223057356531, 
+      "lon": 4.471434790206, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1056,6 +1056,10 @@
       "street": "Boshovestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "183"
       ], 
@@ -1068,15 +1072,19 @@
       "street": "Boshovestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 51.223006572911, 
-      "lon": 4.472456979232, 
+      "lat": 51.223062766902, 
+      "lon": 4.47243821063, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boshovestraat"
     }, 
     {
@@ -1594,15 +1602,12 @@
       "street": "Boshovestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.223159141207, 
-      "lon": 4.46579029537, 
+      "lat": 51.223159680273, 
+      "lon": 4.46579058278, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1917,8 +1922,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.22320369774, 
-      "lon": 4.467010227796, 
+      "lat": 51.223172779423, 
+      "lon": 4.467008158221, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

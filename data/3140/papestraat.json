@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.001827367176, 
-      "lon": 4.628585550964, 
+      "lat": 51.001823136336, 
+      "lon": 4.628588234261, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -120,8 +120,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.002473183498, 
-      "lon": 4.628406785325, 
+      "lat": 51.002370977857, 
+      "lon": 4.628406359837, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -139,8 +139,8 @@
         "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.002382186099, 
-      "lon": 4.628419101599, 
+      "lat": 51.002279385951, 
+      "lon": 4.628443604285, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -158,11 +158,11 @@
         "1C"
       ], 
       "housenumber": "1C", 
-      "lat": 51.002258976157, 
-      "lon": 4.628486230555, 
+      "lat": 51.002189800308, 
+      "lon": 4.628467895382, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Papestraat"
     }, 
     {
@@ -435,6 +435,18 @@
       "street": "Papestraat"
     }, 
     {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.997900743211, 
+      "lon": 4.629711884491, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Papestraat"
+    }, 
+    {
       "busnrs": [
         "1"
       ], 
@@ -442,8 +454,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.00144789134, 
-      "lon": 4.629537516956, 
+      "lat": 51.001484354858, 
+      "lon": 4.629552109256, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 

@@ -50,26 +50,68 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
         "104", 
-        "2", 
-        "3", 
+        "105", 
+        "106", 
+        "107", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207"
+      ], 
+      "hnrlbls": [
+        "1A-106"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.114604697428, 
+      "lon": 4.326525973921, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
         "301", 
         "302", 
         "303", 
-        "304", 
-        "4", 
-        "5"
+        "304"
       ], 
       "hnrlbls": [
         "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.114761318305, 
-      "lon": 4.327146048824, 
+      "lat": 51.114673309141, 
+      "lon": 4.327119135254, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }, 
     {
@@ -77,11 +119,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.114341250361, 
-      "lon": 4.327861162956, 
+      "lat": 51.11435544995, 
+      "lon": 4.327853439191, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }, 
     {
@@ -101,11 +143,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.114327652523, 
-      "lon": 4.328052535269, 
+      "lat": 51.114369262176, 
+      "lon": 4.328028222535, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }, 
     {
@@ -113,11 +155,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.114332445925, 
-      "lon": 4.328139214678, 
+      "lat": 51.114362193015, 
+      "lon": 4.328122480905, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }, 
     {
@@ -133,24 +175,49 @@
       "street": "Rector De Somerstraat"
     }, 
     {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.114297894171, 
+      "lon": 4.326732601736, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
       "busnrs": [
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "303", 
-        "4"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.114616435204, 
-      "lon": 4.327712977887, 
+      "lat": 51.114665319602, 
+      "lon": 4.327670950291, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }, 
     {
@@ -158,11 +225,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.11436854221, 
-      "lon": 4.328291415634, 
+      "lat": 51.114396224944, 
+      "lon": 4.32828368052, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }, 
     {
@@ -170,11 +237,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.11437639329, 
-      "lon": 4.328383090778, 
+      "lat": 51.114397872835, 
+      "lon": 4.328372504851, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }, 
     {
@@ -182,68 +249,377 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.11439817206, 
-      "lon": 4.328460473491, 
+      "lat": 51.114420102008, 
+      "lon": 4.328452743347, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 51.114465838608, 
+      "lon": 4.328673055561, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.11429110248, 
+      "lon": 4.327104332594, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 51.114498222287, 
+      "lon": 4.328745574201, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_1", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_10", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_11"
+      ], 
+      "housenumber": "44_11", 
+      "lat": 51.114712474524, 
+      "lon": 4.329168818524, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_12"
+      ], 
+      "housenumber": "44_12", 
+      "lat": 51.114738536889, 
+      "lon": 4.329153659221, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_13"
+      ], 
+      "housenumber": "44_13", 
+      "lat": 51.114764060021, 
+      "lon": 4.329138785967, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_14"
+      ], 
+      "housenumber": "44_14", 
+      "lat": 51.114789493311, 
+      "lon": 4.329124055579, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_15"
+      ], 
+      "housenumber": "44_15", 
+      "lat": 51.114814567096, 
+      "lon": 4.329109468282, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_16"
+      ], 
+      "housenumber": "44_16", 
+      "lat": 51.114840000382, 
+      "lon": 4.329094737862, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanPerceelGrb", 
       "street": "Rector De Somerstraat"
     }, 
     {
+      "hnrlbls": [
+        "44_17"
+      ], 
+      "housenumber": "44_17", 
+      "lat": 51.114865613394, 
+      "lon": 4.329079864468, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_18"
+      ], 
+      "housenumber": "44_18", 
+      "lat": 51.114891046675, 
+      "lon": 4.329065134016, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_19"
+      ], 
+      "housenumber": "44_19", 
+      "lat": 51.114916390068, 
+      "lon": 4.329050403622, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_2", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_20"
+      ], 
+      "housenumber": "44_20", 
+      "lat": 51.114941733458, 
+      "lon": 4.329035673213, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_3", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_4", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_5", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_6", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_7", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_8", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44_1-44_10"
+      ], 
+      "housenumber": "44_9", 
+      "lat": 51.114788711985, 
+      "lon": 4.328935978306, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
       "busnrs": [
-        "101", 
-        "105", 
-        "106", 
-        "2", 
-        "201", 
-        "204", 
-        "3", 
-        "302", 
-        "303", 
-        "304", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.1147010135, 
-      "lon": 4.328224870016, 
+      "lat": 51.114733004165, 
+      "lon": 4.328197423676, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.114327890671, 
+      "lon": 4.327174132701, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
         "101", 
         "102", 
         "103", 
         "104", 
         "105", 
-        "2", 
         "201", 
         "202", 
         "203", 
         "204", 
         "205", 
-        "206", 
-        "3", 
-        "4", 
-        "5"
+        "206"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.115234695921, 
-      "lon": 4.328553447533, 
+      "lat": 51.115161621608, 
+      "lon": 4.328565933685, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Rector De Somerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.114344189323, 
+      "lon": 4.327257945848, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
       "street": "Rector De Somerstraat"
     }
   ]

@@ -140,6 +140,11 @@
       "street": "Sint-Jobstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -458,9 +463,6 @@
       "street": "Sint-Jobstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -618,6 +620,10 @@
       "street": "Sint-Jobstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "5"
       ], 

@@ -86,8 +86,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.201012050975, 
-      "lon": 4.401687773745, 
+      "lat": 51.201012680085, 
+      "lon": 4.401688060343, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -217,6 +217,11 @@
       "street": "Van Trierstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "25"
       ], 

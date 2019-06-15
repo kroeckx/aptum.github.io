@@ -308,8 +308,8 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.240204532514, 
-      "lon": 2.967475134611, 
+      "lat": 51.240223860556, 
+      "lon": 2.967558622488, 
       "municipality": "Bredene", 
       "pcode": "8450", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2134,7 +2134,6 @@
     }, 
     {
       "apptnrs": [
-        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -2147,24 +2146,6 @@
       "housenumber": "293", 
       "lat": 51.244839517108, 
       "lon": 2.962999906724, 
-      "municipality": "Bredene", 
-      "pcode": "8450", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Duinenstraat"
-    }, 
-    {
-      "apptnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0101"
-      ], 
-      "hnrlbls": [
-        "293A"
-      ], 
-      "housenumber": "293A", 
-      "lat": 51.244877893416, 
-      "lon": 2.962991444739, 
       "municipality": "Bredene", 
       "pcode": "8450", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2218,8 +2199,20 @@
         "298"
       ], 
       "housenumber": "298", 
-      "lat": 51.245728791378, 
-      "lon": 2.962938715921, 
+      "lat": 51.245716881601, 
+      "lon": 2.962942655922, 
+      "municipality": "Bredene", 
+      "pcode": "8450", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Duinenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "298A"
+      ], 
+      "housenumber": "298A", 
+      "lat": 51.245738898715, 
+      "lon": 2.962934400566, 
       "municipality": "Bredene", 
       "pcode": "8450", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2538,11 +2531,11 @@
         "317"
       ], 
       "housenumber": "317", 
-      "lat": 51.246030630583, 
-      "lon": 2.962617360315, 
+      "lat": 51.246034403799, 
+      "lon": 2.962586880546, 
       "municipality": "Bredene", 
       "pcode": "8450", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Duinenstraat"
     }, 
     {
@@ -2698,8 +2691,8 @@
         "327"
       ], 
       "housenumber": "327", 
-      "lat": 51.246307907904, 
-      "lon": 2.962498705014, 
+      "lat": 51.246307709455, 
+      "lon": 2.962497135398, 
       "municipality": "Bredene", 
       "pcode": "8450", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2822,7 +2815,9 @@
     }, 
     {
       "apptnrs": [
-        "0201"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "332A"
@@ -3299,8 +3294,8 @@
         "359"
       ], 
       "housenumber": "359", 
-      "lat": 51.24735279838, 
-      "lon": 2.961915712856, 
+      "lat": 51.247352148888, 
+      "lon": 2.961914013579, 
       "municipality": "Bredene", 
       "pcode": "8450", 
       "source": "manueleAanduidingVanGebouw", 

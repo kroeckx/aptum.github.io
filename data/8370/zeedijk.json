@@ -14,7 +14,6 @@
     }, 
     {
       "apptnrs": [
-        "B9", 
         "C1", 
         "C2", 
         "C3", 
@@ -2515,53 +2514,79 @@
       "apptnrs": [
         "10A", 
         "10B", 
-        "10C", 
-        "10D", 
         "1A", 
         "1B", 
-        "1C", 
-        "1D", 
         "2A", 
         "2B", 
-        "2C", 
-        "2D", 
         "3A", 
         "3B", 
-        "3C", 
-        "3D", 
         "4A", 
         "4B", 
-        "4C", 
-        "4D", 
         "5A", 
         "5B", 
-        "5C", 
-        "5D", 
         "6A", 
         "6B", 
-        "6C", 
-        "6D", 
         "7A", 
         "7B", 
-        "7C", 
-        "7D", 
         "8A", 
         "8B", 
-        "8C", 
-        "8D", 
         "9A", 
         "9B", 
-        "9C", 
-        "9D", 
-        "TV 1", 
-        "TV 2"
+        "TV 1"
       ], 
       "hnrlbls": [
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 51.317573435233, 
-      "lon": 3.134381350143, 
+      "lat": 51.317562723419, 
+      "lon": 3.134319520346, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zeedijk"
+    }, 
+    {
+      "hnrlbls": [
+        "176"
+      ], 
+      "housenumber": "176", 
+      "lat": 51.317599774274, 
+      "lon": 3.134372761977, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zeedijk"
+    }, 
+    {
+      "apptnrs": [
+        "10C", 
+        "10D", 
+        "1C", 
+        "1D", 
+        "2C", 
+        "2D", 
+        "3C", 
+        "3D", 
+        "4C", 
+        "4D", 
+        "5C", 
+        "5D", 
+        "6C", 
+        "6D", 
+        "7C", 
+        "7D", 
+        "8C", 
+        "8D", 
+        "9C", 
+        "9D", 
+        "TV 2"
+      ], 
+      "hnrlbls": [
+        "177"
+      ], 
+      "housenumber": "177", 
+      "lat": 51.317593732466, 
+      "lon": 3.134457270816, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2654,9 +2679,6 @@
         "9C", 
         "TV1", 
         "TV2"
-      ], 
-      "busnrs": [
-        "TV1"
       ], 
       "hnrlbls": [
         "180"
@@ -3597,6 +3619,42 @@
       "housenumber": "224", 
       "lat": 51.318689379612, 
       "lon": 3.139140375356, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zeedijk"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801", 
+        "0901", 
+        "1001"
+      ], 
+      "hnrlbls": [
+        "225"
+      ], 
+      "housenumber": "225", 
+      "lat": 51.318704871866, 
+      "lon": 3.13919533912, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zeedijk"
+    }, 
+    {
+      "hnrlbls": [
+        "226"
+      ], 
+      "housenumber": "226", 
+      "lat": 51.318711662398, 
+      "lon": 3.139243360084, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 

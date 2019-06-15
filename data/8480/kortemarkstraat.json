@@ -221,11 +221,11 @@
         "20B"
       ], 
       "housenumber": "20B", 
-      "lat": 51.077842931078, 
-      "lon": 3.027087836573, 
+      "lat": 51.077846908852, 
+      "lon": 3.027081871069, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortemarkstraat"
     }, 
     {
@@ -233,11 +233,11 @@
         "20C"
       ], 
       "housenumber": "20C", 
-      "lat": 51.077421230557, 
-      "lon": 3.027083087061, 
+      "lat": 51.077426121088, 
+      "lon": 3.02708622933, 
       "municipality": "Ichtegem", 
       "pcode": "8480", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortemarkstraat"
     }, 
     {
@@ -862,18 +862,6 @@
       "municipality": "Ichtegem", 
       "pcode": "8480", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kortemarkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "73"
-      ], 
-      "housenumber": "73", 
-      "lat": 51.073749027318, 
-      "lon": 3.0279910895, 
-      "municipality": "Ichtegem", 
-      "pcode": "8480", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kortemarkstraat"
     }, 
     {

@@ -13,7 +13,7 @@
       "b": 50.901679150581, 
       "l": 4.442691859559, 
       "name": "Bedrijvenzone Machelen Cargo", 
-      "numOfAddr": 80, 
+      "numOfAddr": 78, 
       "otherPCs": [
         "1831"
       ], 
@@ -25,10 +25,10 @@
       "b": 50.915685093312, 
       "l": 4.439245255437, 
       "name": "Begoniagaarde", 
-      "numOfAddr": 37, 
-      "r": 4.44091542595, 
+      "numOfAddr": 33, 
+      "r": 4.44090263777, 
       "sanName": "begoniagaarde", 
-      "t": 50.916880549902
+      "t": 50.91688720994
     }, 
     {
       "b": 50.90230067263, 
@@ -86,7 +86,7 @@
     }, 
     {
       "b": 50.910259162366, 
-      "l": 4.433376253864, 
+      "l": 4.4326930184, 
       "name": "Cornelis Peetersstraat", 
       "numOfAddr": 43, 
       "r": 4.435959682385, 
@@ -244,7 +244,7 @@
       "b": 50.911333846964, 
       "l": 4.432430187117, 
       "name": "George Ferr\u00e9straat", 
-      "numOfAddr": 16, 
+      "numOfAddr": 15, 
       "r": 4.433941872984, 
       "sanName": "georgeferrstraat", 
       "t": 50.911920844774
@@ -295,10 +295,19 @@
       "t": 50.910214531279
     }, 
     {
+      "b": 50.910301885349, 
+      "l": 4.43114367534, 
+      "name": "Henri Rampelbergstraat", 
+      "numOfAddr": 45, 
+      "r": 4.43309438229, 
+      "sanName": "henrirampelbergstraat", 
+      "t": 50.911136987025
+    }, 
+    {
       "b": 50.917835607678, 
       "l": 4.449361967606, 
       "name": "Jan Veldmansstraat", 
-      "numOfAddr": 64, 
+      "numOfAddr": 65, 
       "r": 4.453841952812, 
       "sanName": "janveldmansstraat", 
       "t": 50.919817047454
@@ -403,7 +412,7 @@
       "t": 50.911912561901
     }, 
     {
-      "b": 50.910035824578, 
+      "b": 50.910035006279, 
       "l": 4.437074582378, 
       "name": "Koningin Fabiolalaan", 
       "numOfAddr": 69, 
@@ -440,12 +449,12 @@
     }, 
     {
       "b": 50.912866551361, 
-      "l": 4.452431719527, 
+      "l": 4.449861163819, 
       "name": "Leuvensesteenweg", 
       "numOfAddr": 77, 
       "r": 4.460043529589, 
       "sanName": "leuvensesteenweg", 
-      "t": 50.922430309791
+      "t": 50.922511958332
     }, 
     {
       "b": 50.915929666671, 
@@ -541,7 +550,7 @@
       "b": 50.909874038025, 
       "l": 4.422018701834, 
       "name": "Nieuwbrugstraat", 
-      "numOfAddr": 16, 
+      "numOfAddr": 15, 
       "r": 4.427583145653, 
       "sanName": "nieuwbrugstraat", 
       "t": 50.911616890091
@@ -637,15 +646,6 @@
       "t": 50.906311720242
     }, 
     {
-      "b": 50.910301885349, 
-      "l": 4.43114367534, 
-      "name": "Rampelbergstraat", 
-      "numOfAddr": 48, 
-      "r": 4.433258962663, 
-      "sanName": "rampelbergstraat", 
-      "t": 50.911136987025
-    }, 
-    {
       "b": 50.917451648357, 
       "l": 4.441063327982, 
       "name": "Ren\u00e9 Quivreuxstraat", 
@@ -656,7 +656,7 @@
     }, 
     {
       "b": 50.902322756202, 
-      "l": 4.42292596596, 
+      "l": 4.422969803176, 
       "name": "Rittwegerlaan", 
       "numOfAddr": 23, 
       "r": 4.426523258552, 
@@ -715,10 +715,10 @@
       "b": 50.91709572266, 
       "l": 4.43172279144, 
       "name": "Trawoollaan", 
-      "numOfAddr": 8, 
+      "numOfAddr": 9, 
       "r": 4.435592301366, 
       "sanName": "trawoollaan", 
-      "t": 50.918336712666
+      "t": 50.918417505647
     }, 
     {
       "b": 50.918283323552, 
@@ -733,7 +733,7 @@
       "b": 50.913630382937, 
       "l": 4.437013028115, 
       "name": "Turcksinstraat", 
-      "numOfAddr": 86, 
+      "numOfAddr": 87, 
       "r": 4.44199183835, 
       "sanName": "turcksinstraat", 
       "t": 50.916222588961
@@ -775,10 +775,10 @@
       "t": 50.916696773615
     }, 
     {
-      "b": 50.908160170065, 
-      "l": 4.430467237548, 
+      "b": 50.90815872589, 
+      "l": 4.430461829815, 
       "name": "Viaductstraat", 
-      "numOfAddr": 21, 
+      "numOfAddr": 22, 
       "r": 4.43144485335, 
       "sanName": "viaductstraat", 
       "t": 50.909190763483
@@ -859,13 +859,13 @@
       "b": 50.895680328463, 
       "l": 4.426828259179, 
       "name": "Woluwelaan", 
-      "numOfAddr": 15, 
+      "numOfAddr": 14, 
       "otherPCs": [
         "1831"
       ], 
       "r": 4.435146556454, 
       "sanName": "woluwelaan", 
-      "t": 50.91714017952
+      "t": 50.915819741866
     }, 
     {
       "b": 50.911220823199, 

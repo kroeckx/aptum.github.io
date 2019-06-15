@@ -535,12 +535,9 @@
     }, 
     {
       "apptnrs": [
-        "1A", 
         "1B", 
-        "2A", 
         "3A", 
-        "3B", 
-        "GLVA"
+        "3B"
       ], 
       "hnrlbls": [
         "134"
@@ -1155,12 +1152,16 @@
       "street": "Rijselstraat"
     }, 
     {
+      "apptnrs": [
+        "1A", 
+        "GLVA"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.850126126594, 
-      "lon": 2.885740776561, 
+      "lat": 50.850129450254, 
+      "lon": 2.885740529702, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1571,7 +1572,7 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.849124309575, 
+      "lat": 50.849124309576, 
       "lon": 2.887184993079, 
       "municipality": "Ieper", 
       "pcode": "8900", 
@@ -1645,11 +1646,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.850437226811, 
-      "lon": 2.886068150705, 
+      "lat": 50.850409693994, 
+      "lon": 2.885910084116, 
       "municipality": "Ieper", 
       "pcode": "8900", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rijselstraat"
     }, 
     {
@@ -1800,6 +1801,23 @@
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Rijselstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1A", 
+        "2A"
+      ], 
+      "hnrlbls": [
+        "5-5A", 
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.850372843552, 
+      "lon": 2.885946754434, 
+      "municipality": "Ieper", 
+      "pcode": "8900", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Rijselstraat"
     }, 
     {

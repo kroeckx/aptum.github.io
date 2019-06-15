@@ -170,7 +170,7 @@
       "l": 4.302401980306, 
       "name": "Blokvijverstraat", 
       "numOfAddr": 5, 
-      "r": 4.303598104541, 
+      "r": 4.303584757353, 
       "sanName": "blokvijverstraat", 
       "t": 50.940041975128
     }, 
@@ -185,12 +185,12 @@
     }, 
     {
       "b": 50.944818976045, 
-      "l": 4.330352983457, 
+      "l": 4.330273857409, 
       "name": "Boomkensstraat", 
       "numOfAddr": 2, 
       "r": 4.330547465869, 
       "sanName": "boomkensstraat", 
-      "t": 50.944960494576
+      "t": 50.944975840788
     }, 
     {
       "b": 50.958050630001, 
@@ -250,7 +250,7 @@
       "b": 50.926068949273, 
       "l": 4.323705637325, 
       "name": "Brusselsesteenweg", 
-      "numOfAddr": 141, 
+      "numOfAddr": 144, 
       "r": 4.333461031828, 
       "sanName": "brusselsesteenweg", 
       "t": 50.94025506624
@@ -526,7 +526,7 @@
       "numOfAddr": 8, 
       "r": 4.322637395293, 
       "sanName": "hoefijzerpad", 
-      "t": 50.941486549997
+      "t": 50.941484197017
     }, 
     {
       "b": 50.956182947647, 
@@ -664,7 +664,7 @@
       "b": 50.937547831788, 
       "l": 4.332285823549, 
       "name": "Kapellelaan", 
-      "numOfAddr": 208, 
+      "numOfAddr": 209, 
       "r": 4.349700642101, 
       "sanName": "kapellelaan", 
       "t": 50.96924277563
@@ -1177,7 +1177,7 @@
       "b": 50.95882057382, 
       "l": 4.332086352119, 
       "name": "Potaardestraat", 
-      "numOfAddr": 70, 
+      "numOfAddr": 71, 
       "r": 4.344758697188, 
       "sanName": "potaardestraat", 
       "t": 50.961505108723
@@ -1345,7 +1345,7 @@
       "b": 50.938815186364, 
       "l": 4.314590187267, 
       "name": "Sint-Elooiweg", 
-      "numOfAddr": 19, 
+      "numOfAddr": 21, 
       "otherPCs": [
         "1861"
       ], 
@@ -1432,7 +1432,7 @@
       "b": 50.941060112667, 
       "l": 4.329577820035, 
       "name": "Tronkstraat", 
-      "numOfAddr": 20, 
+      "numOfAddr": 21, 
       "r": 4.331401148359, 
       "sanName": "tronkstraat", 
       "t": 50.942710635157
@@ -1517,9 +1517,9 @@
       "l": 4.338710067812, 
       "name": "Vinkenlaan", 
       "numOfAddr": 28, 
-      "r": 4.341871736927, 
+      "r": 4.3420878851, 
       "sanName": "vinkenlaan", 
-      "t": 50.927833568174
+      "t": 50.927675764027
     }, 
     {
       "b": 50.956511625974, 
@@ -1580,6 +1580,9 @@
       "l": 4.313489172112, 
       "name": "Winkelveldbaan", 
       "numOfAddr": 5, 
+      "otherPCs": [
+        "1861"
+      ], 
       "r": 4.31592457205, 
       "sanName": "winkelveldbaan", 
       "t": 50.961842151874

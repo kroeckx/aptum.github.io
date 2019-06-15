@@ -125,6 +125,14 @@
       "street": "Sint-Jan Berchmansstraat"
     }, 
     {
+      "apptnrs": [
+        "A1", 
+        "A2", 
+        "A3", 
+        "B1", 
+        "B2", 
+        "B3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -170,40 +178,6 @@
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Jan Berchmansstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 50.984079459648, 
-      "lon": 5.051015119326, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Jan Berchmansstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "2B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 50.984078201221, 
-      "lon": 5.051015100989, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jan Berchmansstraat"
     }, 
     {

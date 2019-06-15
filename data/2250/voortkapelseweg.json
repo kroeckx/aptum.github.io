@@ -61,18 +61,27 @@
       "street": "Voortkapelseweg"
     }, 
     {
-      "apptnrs": [
-        "16 A"
-      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.141334360246, 
-      "lon": 4.856057977866, 
+      "lat": 51.141359610056, 
+      "lon": 4.856038379663, 
       "municipality": "Olen", 
       "pcode": "2250", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Voortkapelseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 51.141303678776, 
+      "lon": 4.856043368118, 
+      "municipality": "Olen", 
+      "pcode": "2250", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Voortkapelseweg"
     }, 
     {

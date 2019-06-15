@@ -233,11 +233,15 @@
       "street": "Karel De Preterlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "136-138"
@@ -395,9 +399,10 @@
       "street": "Karel De Preterlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "16"
@@ -1013,13 +1018,13 @@
       "street": "Karel De Preterlei"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "002", 
-        "101", 
-        "102", 
-        "201", 
-        "202"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
       ], 
       "hnrlbls": [
         "27"
@@ -1432,6 +1437,11 @@
       "street": "Karel De Preterlei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "57"
       ], 
@@ -1444,6 +1454,11 @@
       "street": "Karel De Preterlei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -1572,6 +1587,11 @@
       "street": "Karel De Preterlei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "68"
       ], 

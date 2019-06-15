@@ -579,27 +579,18 @@
       "street": "Wijngaardstraat"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.796599174528, 
-      "lon": 4.126325233419, 
-      "municipality": "Gooik", 
-      "pcode": "1755", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Wijngaardstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "60A"
-      ], 
-      "housenumber": "60A", 
       "lat": 50.796632593871, 
       "lon": 4.126270877707, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wijngaardstraat"
     }, 
     {
@@ -619,11 +610,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.796581379776, 
-      "lon": 4.12637114008, 
+      "lat": 50.79656575516, 
+      "lon": 4.126379589055, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wijngaardstraat"
     }, 
     {

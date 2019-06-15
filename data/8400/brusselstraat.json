@@ -2,6 +2,11 @@
   "addresses": [
     {
       "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
         "1B", 
         "4"
       ], 
@@ -9,8 +14,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.229920678532, 
-      "lon": 2.912822951782, 
+      "lat": 51.229867576066, 
+      "lon": 2.912891048776, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -19,6 +24,7 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0401", 
         "1", 
         "2", 
@@ -34,7 +40,7 @@
       "lon": 2.913257871544, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselstraat"
     }, 
     {
@@ -74,8 +80,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.229856010551, 
-      "lon": 2.912681782864, 
+      "lat": 51.229859150564, 
+      "lon": 2.912688557841, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -227,6 +233,7 @@
         "0101", 
         "0301", 
         "0302", 
+        "0402", 
         "1", 
         "10", 
         "11", 
@@ -244,11 +251,12 @@
       "lon": 2.913164885035, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselstraat"
     }, 
     {
       "busnrs": [
+        "0401", 
         "1", 
         "2", 
         "3", 
@@ -258,11 +266,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.229889210274, 
-      "lon": 2.913473004982, 
+      "lat": 51.229892656956, 
+      "lon": 2.913468172225, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselstraat"
     }, 
     {
@@ -325,21 +333,17 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "1A", 
-        "2", 
-        "4A", 
-        "5"
+        "0501"
       ], 
       "hnrlbls": [
         "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.229932371358, 
-      "lon": 2.912903774362, 
+      "lat": 51.229891037886, 
+      "lon": 2.912956612351, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselstraat"
     }
   ]

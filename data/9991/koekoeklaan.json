@@ -86,6 +86,18 @@
     }, 
     {
       "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.203199073581, 
+      "lon": 3.509276358798, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Koekoeklaan"
+    }, 
+    {
+      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -338,7 +350,7 @@
     }, 
     {
       "hnrlbls": [
-        "51"
+        "51-51A"
       ], 
       "housenumber": "51", 
       "lat": 51.203938144181, 
@@ -350,14 +362,14 @@
     }, 
     {
       "hnrlbls": [
-        "51A"
+        "51-51A"
       ], 
       "housenumber": "51A", 
-      "lat": 51.204291410896, 
-      "lon": 3.508335024268, 
+      "lat": 51.203938144181, 
+      "lon": 3.508187141139, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koekoeklaan"
     }, 
     {
@@ -365,11 +377,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.203960443413, 
-      "lon": 3.507385280525, 
+      "lat": 51.203959672685, 
+      "lon": 3.507452261073, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koekoeklaan"
     }, 
     {
@@ -418,6 +430,18 @@
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
+      "street": "Koekoeklaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.203584169285, 
+      "lon": 3.510403536959, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Koekoeklaan"
     }
   ]

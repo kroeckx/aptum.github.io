@@ -79,8 +79,8 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.261923826206, 
-      "lon": 4.554013216222, 
+      "lat": 51.261920114251, 
+      "lon": 4.554030249259, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -237,7 +237,8 @@
       "street": "Frans Pauwelslei"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
@@ -252,7 +253,7 @@
       "lon": 4.553638023216, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Pauwelslei"
     }, 
     {
@@ -326,8 +327,8 @@
         "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 51.262302745691, 
-      "lon": 4.554315432428, 
+      "lat": 51.262299924171, 
+      "lon": 4.554337769777, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 

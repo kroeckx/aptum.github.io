@@ -14,18 +14,6 @@
     }, 
     {
       "hnrlbls": [
-        "188"
-      ], 
-      "housenumber": "188", 
-      "lat": 50.752464933301, 
-      "lon": 3.624782462173, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ninoofsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "190"
       ], 
       "housenumber": "190", 
@@ -346,6 +334,23 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Ninoofsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "254"
+      ], 
+      "housenumber": "254", 
+      "lat": 50.752821588997, 
+      "lon": 3.628802033947, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -1205,11 +1210,11 @@
         "408A"
       ], 
       "housenumber": "408A", 
-      "lat": 50.754627803122, 
-      "lon": 3.649957389304, 
+      "lat": 50.754563693169, 
+      "lon": 3.650014347031, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -1721,11 +1726,11 @@
         "494A"
       ], 
       "housenumber": "494A", 
-      "lat": 50.755143486851, 
-      "lon": 3.6667279264, 
+      "lat": 50.755614161828, 
+      "lon": 3.667816027374, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -1937,11 +1942,11 @@
         "531"
       ], 
       "housenumber": "531", 
-      "lat": 50.753437655165, 
-      "lon": 3.642851324956, 
+      "lat": 50.753469570936, 
+      "lon": 3.642764384918, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -2122,6 +2127,23 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Ninoofsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "573"
+      ], 
+      "housenumber": "573", 
+      "lat": 50.754117360051, 
+      "lon": 3.650781342196, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ninoofsesteenweg"
     }, 
     {

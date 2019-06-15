@@ -518,6 +518,18 @@
     }, 
     {
       "hnrlbls": [
+        "142"
+      ], 
+      "housenumber": "142", 
+      "lat": 51.046498636667, 
+      "lon": 5.091859117229, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hasseltsebaan"
+    }, 
+    {
+      "hnrlbls": [
         "143"
       ], 
       "housenumber": "143", 
@@ -647,11 +659,11 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.047108546439, 
-      "lon": 5.091218399054, 
+      "lat": 51.04707165232, 
+      "lon": 5.09122453158, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hasseltsebaan"
     }, 
     {
@@ -1214,11 +1226,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.040094817557, 
-      "lon": 5.096851444854, 
+      "lat": 51.040065357963, 
+      "lon": 5.09686182279, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hasseltsebaan"
     }, 
     {
@@ -1466,11 +1478,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.03898332657, 
-      "lon": 5.096523736432, 
+      "lat": 51.038972449904, 
+      "lon": 5.096436448728, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hasseltsebaan"
     }, 
     {

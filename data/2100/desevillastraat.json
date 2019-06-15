@@ -606,6 +606,10 @@
       "street": "De Sevillastraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -666,6 +670,11 @@
       "street": "De Sevillastraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "37"
       ], 
@@ -675,18 +684,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "De Sevillastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37A"
-      ], 
-      "housenumber": "37A", 
-      "lat": 51.205226237394, 
-      "lon": 4.45549067848, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "De Sevillastraat"
     }, 
     {

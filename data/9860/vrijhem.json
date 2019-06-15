@@ -14,14 +14,14 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "10A"
       ], 
-      "housenumber": "10", 
-      "lat": 50.929553282084, 
-      "lon": 3.785869740838, 
+      "housenumber": "10A", 
+      "lat": 50.929672341278, 
+      "lon": 3.786657886704, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vrijhem"
     }, 
     {
@@ -237,7 +237,7 @@
       "lon": 3.788193294541, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Vrijhem"
     }, 
     {
@@ -296,8 +296,8 @@
         "25A"
       ], 
       "housenumber": "25A", 
-      "lat": 50.928378850755, 
-      "lon": 3.78855410585, 
+      "lat": 50.92832653628, 
+      "lon": 3.788500414453, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -308,8 +308,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.927623826227, 
-      "lon": 3.788629003922, 
+      "lat": 50.927673773237, 
+      "lon": 3.788694814517, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -416,8 +416,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.927571864913, 
-      "lon": 3.789285240716, 
+      "lat": 50.92764344709, 
+      "lon": 3.789345095411, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -476,8 +476,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.927491039003, 
-      "lon": 3.789447540208, 
+      "lat": 50.927396961398, 
+      "lon": 3.789365062022, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -656,8 +656,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.929607928286, 
-      "lon": 3.787266228554, 
+      "lat": 50.9295774918, 
+      "lon": 3.787128481993, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -668,8 +668,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.926238480019, 
-      "lon": 3.789859118279, 
+      "lat": 50.926330004854, 
+      "lon": 3.790007483341, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -728,8 +728,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.926462937422, 
-      "lon": 3.790368270834, 
+      "lat": 50.926414228477, 
+      "lon": 3.790243273557, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -749,26 +749,26 @@
     }, 
     {
       "hnrlbls": [
-        "57-57A"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.926462318734, 
-      "lon": 3.790534982564, 
+      "lat": 50.926348794587, 
+      "lon": 3.790318470082, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vrijhem"
     }, 
     {
       "hnrlbls": [
-        "57-57A"
+        "57A"
       ], 
       "housenumber": "57A", 
-      "lat": 50.926462318734, 
-      "lon": 3.790534982564, 
+      "lat": 50.926632329515, 
+      "lon": 3.790776404273, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vrijhem"
     }, 
     {
@@ -824,8 +824,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.929561374512, 
-      "lon": 3.787305069608, 
+      "lat": 50.929644203958, 
+      "lon": 3.787166774454, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 

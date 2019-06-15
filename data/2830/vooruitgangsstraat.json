@@ -50,7 +50,7 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "106"
@@ -76,6 +76,11 @@
       "street": "Vooruitgangsstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0301"
+      ], 
       "hnrlbls": [
         "109"
       ], 
@@ -97,30 +102,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Vooruitgangsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "113-115"
-      ], 
-      "housenumber": "113", 
-      "lat": 51.05704794009, 
-      "lon": 4.358745767322, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Vooruitgangsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "113-115"
-      ], 
-      "housenumber": "115", 
-      "lat": 51.05704794009, 
-      "lon": 4.358745767322, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Vooruitgangsstraat"
     }, 
     {

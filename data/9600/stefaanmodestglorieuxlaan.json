@@ -146,34 +146,42 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "201"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.752918034195, 
-      "lon": 3.602095051667, 
+      "lat": 50.752856884405, 
+      "lon": 3.602174983019, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stefaan Modest Glorieuxlaan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "301"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.752996809844, 
-      "lon": 3.601933487063, 
+      "lat": 50.752918368036, 
+      "lon": 3.601953753199, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stefaan Modest Glorieuxlaan"
     }, 
     {

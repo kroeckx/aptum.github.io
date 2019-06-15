@@ -467,12 +467,20 @@
       "street": "Kapellestraat"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B1", 
+        "B2", 
+        "C1", 
+        "C2", 
+        "D"
+      ], 
       "hnrlbls": [
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.128766722217, 
-      "lon": 4.390663708831, 
+      "lat": 51.128754401539, 
+      "lon": 4.390695844235, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 

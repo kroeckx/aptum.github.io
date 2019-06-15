@@ -264,11 +264,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.973864573631, 
-      "lon": 5.496151812904, 
+      "lat": 50.973806463849, 
+      "lon": 5.496052162083, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Hostartstraat"
     }, 
     {
@@ -410,6 +410,18 @@
       "housenumber": "55", 
       "lat": 50.974796547826, 
       "lon": 5.495143424561, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Hostartstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "55B"
+      ], 
+      "housenumber": "55B", 
+      "lat": 50.975201143591, 
+      "lon": 5.495130226733, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

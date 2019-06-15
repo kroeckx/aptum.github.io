@@ -165,6 +165,18 @@
     }, 
     {
       "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.999832645448, 
+      "lon": 5.704814306551, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Zetellaan"
+    }, 
+    {
+      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -343,9 +355,6 @@
         "3L", 
         "3R"
       ], 
-      "busnrs": [
-        "L2"
-      ], 
       "hnrlbls": [
         "63-63B"
       ], 
@@ -410,28 +419,28 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.000596026844, 
-      "lon": 5.705661349718, 
+      "lat": 51.00076772024, 
+      "lon": 5.705236522194, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Zetellaan"
     }, 
     {
       "hnrlbls": [
-        "72-74"
+        "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.000959011487, 
-      "lon": 5.70592704515, 
+      "lat": 51.000772338319, 
+      "lon": 5.705921714092, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Zetellaan"
     }, 
     {
       "hnrlbls": [
-        "72-74"
+        "74"
       ], 
       "housenumber": "74", 
       "lat": 51.000959011487, 

@@ -86,18 +86,6 @@
     }, 
     {
       "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.768840684451, 
-      "lon": 4.100980963096, 
-      "municipality": "Gooik", 
-      "pcode": "1755", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berghomstraat"
-    }, 
-    {
-      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -237,7 +225,7 @@
       "lon": 4.102758052954, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Berghomstraat"
     }, 
     {

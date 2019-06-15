@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.193096003752, 
-      "lon": 3.689370423964, 
+      "lat": 51.193357574571, 
+      "lon": 3.689463466648, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stroomstraat"
     }, 
     {
@@ -108,11 +108,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.193798363561, 
-      "lon": 3.689099273151, 
+      "lat": 51.193818937923, 
+      "lon": 3.688925447157, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stroomstraat"
     }, 
     {
@@ -148,7 +148,7 @@
         "5"
       ], 
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 51.193096003752, 
@@ -283,8 +283,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.195162533982, 
-      "lon": 3.689807451298, 
+      "lat": 51.195180701442, 
+      "lon": 3.689809190014, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -454,8 +454,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.196014964357, 
-      "lon": 3.689450420866, 
+      "lat": 51.19601397847, 
+      "lon": 3.689435270589, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -526,8 +526,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.196411422492, 
-      "lon": 3.689177410983, 
+      "lat": 51.196408721132, 
+      "lon": 3.689176591912, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -586,8 +586,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.196575407959, 
-      "lon": 3.689104207882, 
+      "lat": 51.19657126275, 
+      "lon": 3.689102408377, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 

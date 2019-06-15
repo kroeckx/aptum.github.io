@@ -249,6 +249,13 @@
       "street": "Markgravelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "117"
       ], 
@@ -568,11 +575,11 @@
       "street": "Markgravelei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "138"
@@ -1269,14 +1276,14 @@
         "501"
       ], 
       "hnrlbls": [
-        "30-32"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.199709114972, 
-      "lon": 4.399954712721, 
+      "lat": 51.199768067016, 
+      "lon": 4.400000105575, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markgravelei"
     }, 
     {
@@ -1293,14 +1300,14 @@
     }, 
     {
       "hnrlbls": [
-        "30-32"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.199709114972, 
-      "lon": 4.399954712721, 
+      "lat": 51.199752958823, 
+      "lon": 4.400028136544, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markgravelei"
     }, 
     {
@@ -1474,6 +1481,12 @@
       "street": "Markgravelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "55"
       ], 

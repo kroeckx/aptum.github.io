@@ -388,12 +388,14 @@
       "street": "St.-Paulusstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "201"
+      ], 
       "busnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0201", 
         "202", 
         "203"
       ], 
@@ -413,16 +415,16 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.188086217994, 
-      "lon": 5.110441237477, 
+      "lat": 51.188086575719, 
+      "lon": 5.110441529247, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
       "street": "St.-Paulusstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
+      "apptnrs": [
+        "1", 
         "101", 
         "102", 
         "2", 

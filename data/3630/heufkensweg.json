@@ -38,7 +38,10 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "5"
@@ -46,6 +49,22 @@
       "housenumber": "5", 
       "lat": 50.990896536317, 
       "lon": 5.700719831003, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Heufkensweg"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.990749407158, 
+      "lon": 5.700564931527, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanPerceel", 
@@ -68,11 +87,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.99036443309, 
-      "lon": 5.701905422055, 
+      "lat": 50.990542840023, 
+      "lon": 5.701910358148, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heufkensweg"
     }
   ]

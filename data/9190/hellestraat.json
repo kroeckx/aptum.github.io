@@ -1619,11 +1619,11 @@
         "208"
       ], 
       "housenumber": "208", 
-      "lat": 51.237142020437, 
-      "lon": 4.043118091137, 
+      "lat": 51.237195941507, 
+      "lon": 4.043573041035, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hellestraat"
     }, 
     {
@@ -1707,7 +1707,7 @@
       "lon": 4.03439131666, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hellestraat"
     }, 
     {
@@ -2079,7 +2079,7 @@
       "lon": 4.03632534145, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hellestraat"
     }, 
     {
@@ -2363,11 +2363,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.225128287888, 
-      "lon": 4.036459588141, 
+      "lat": 51.225139859402, 
+      "lon": 4.036387073334, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hellestraat"
     }, 
     {
@@ -2428,6 +2428,18 @@
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 51.225184921289, 
+      "lon": 4.036461762001, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hellestraat"
     }, 
     {

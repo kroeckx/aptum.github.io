@@ -1,16 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -23,22 +13,12 @@
       "street": "Magnolialaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.791551057197, 
-      "lon": 4.289491587319, 
+      "lat": 50.791552135954, 
+      "lon": 4.289491585518, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1600", 
       "source": "afgeleidVanGebouw", 

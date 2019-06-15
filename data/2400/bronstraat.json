@@ -223,8 +223,11 @@
       "street": "Bronstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "2"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "32"
@@ -518,6 +521,22 @@
       "housenumber": "68", 
       "lat": 51.187984646145, 
       "lon": 5.085308860857, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bronstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 51.188297106915, 
+      "lon": 5.085811155191, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

@@ -9,7 +9,7 @@
       "lon": 3.363964411499, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Reynaertstraat"
     }, 
     {
@@ -21,7 +21,7 @@
       "lon": 3.362796710128, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Reynaertstraat"
     }, 
     {
@@ -237,7 +237,7 @@
       "lon": 3.360111380633, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Reynaertstraat"
     }, 
     {
@@ -254,14 +254,26 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "29"
       ], 
-      "housenumber": "3", 
-      "lat": 50.908407508049, 
-      "lon": 3.363921591237, 
+      "housenumber": "29", 
+      "lat": 50.912178131918, 
+      "lon": 3.360108060754, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanLot", 
+      "street": "Reynaertstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 50.908432641603, 
+      "lon": 3.363874983053, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Reynaertstraat"
     }, 
     {
@@ -417,7 +429,7 @@
       "lon": 3.362775037344, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Reynaertstraat"
     }, 
     {
@@ -429,7 +441,7 @@
       "lon": 3.36281273772, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Reynaertstraat"
     }
   ]

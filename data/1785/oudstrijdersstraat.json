@@ -1,15 +1,28 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0031", 
+        "0032"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.952163436069, 
-      "lon": 4.230619543505, 
+      "lat": 50.952206681951, 
+      "lon": 4.230933928528, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudstrijdersstraat"
     }, 
     {
@@ -93,6 +106,27 @@
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oudstrijdersstraat"
+    }, 
+    {
+      "apptnrs": [
+        "A001", 
+        "A002", 
+        "A011", 
+        "A012", 
+        "A021", 
+        "A022", 
+        "A031"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.952260018121, 
+      "lon": 4.230728556991, 
+      "municipality": "Merchtem", 
+      "pcode": "1785", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudstrijdersstraat"
     }, 
     {
@@ -304,8 +338,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.95268464336, 
-      "lon": 4.228568118547, 
+      "lat": 50.952684730381, 
+      "lon": 4.228565698942, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 
@@ -613,8 +647,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.953197298853, 
-      "lon": 4.227435323674, 
+      "lat": 50.953198742916, 
+      "lon": 4.227440158089, 
       "municipality": "Merchtem", 
       "pcode": "1785", 
       "source": "afgeleidVanGebouw", 

@@ -768,11 +768,11 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 51.135456035895, 
-      "lon": 4.742546078073, 
+      "lat": 51.135527778223, 
+      "lon": 4.742542367002, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Langstraat"
     }, 
     {
@@ -997,6 +997,22 @@
       "street": "Langstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 51.133054936682, 
+      "lon": 4.757382418133, 
+      "municipality": "Herenthout", 
+      "pcode": "2270", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Langstraat"
+    }, 
+    {
       "hnrlbls": [
         "37"
       ], 
@@ -1006,6 +1022,18 @@
       "municipality": "Herenthout", 
       "pcode": "2270", 
       "source": "afgeleidVanGebouw", 
+      "street": "Langstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38A"
+      ], 
+      "housenumber": "38A", 
+      "lat": 51.133165545386, 
+      "lon": 4.756823019656, 
+      "municipality": "Herenthout", 
+      "pcode": "2270", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langstraat"
     }, 
     {
@@ -1037,11 +1065,23 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.133177587363, 
-      "lon": 4.756523672769, 
+      "lat": 51.133199081997, 
+      "lon": 4.756629429511, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Langstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 51.133223075057, 
+      "lon": 4.756495049189, 
+      "municipality": "Herenthout", 
+      "pcode": "2270", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langstraat"
     }, 
     {
@@ -1217,11 +1257,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.132994196749, 
-      "lon": 4.75540822621, 
+      "lat": 51.132983351067, 
+      "lon": 4.755398850036, 
       "municipality": "Herenthout", 
       "pcode": "2270", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langstraat"
     }, 
     {
@@ -1234,18 +1274,6 @@
       "municipality": "Herenthout", 
       "pcode": "2270", 
       "source": "afgeleidVanGebouw", 
-      "street": "Langstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "55"
-      ], 
-      "housenumber": "55", 
-      "lat": 51.133077377198, 
-      "lon": 4.755370485026, 
-      "municipality": "Herenthout", 
-      "pcode": "2270", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Langstraat"
     }, 
     {

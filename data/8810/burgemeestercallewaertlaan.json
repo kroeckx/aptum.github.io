@@ -422,14 +422,14 @@
         "103"
       ], 
       "hnrlbls": [
-        "3-7"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.027499268149, 
-      "lon": 3.139105995211, 
+      "lat": 51.027739835001, 
+      "lon": 3.139165116632, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Burgemeester Callewaertlaan"
     }, 
     {
@@ -668,14 +668,16 @@
         "004", 
         "101", 
         "102", 
-        "103"
+        "103", 
+        "104", 
+        "105"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.027480847739, 
-      "lon": 3.139063852948, 
+      "lat": 51.027674141742, 
+      "lon": 3.139021142855, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "manueleAanduidingVanLot", 
@@ -787,6 +789,18 @@
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Burgemeester Callewaertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "59A"
+      ], 
+      "housenumber": "59A", 
+      "lat": 51.026660725309, 
+      "lon": 3.133167056315, 
+      "municipality": "Lichtervelde", 
+      "pcode": "8810", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Burgemeester Callewaertlaan"
     }, 
     {
@@ -912,17 +926,14 @@
     {
       "apptnrs": [
         "001", 
-        "002", 
-        "101", 
-        "102", 
-        "103"
+        "002"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.027463969237, 
-      "lon": 3.139014399631, 
+      "lat": 51.027617339663, 
+      "lon": 3.1388849195, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "manueleAanduidingVanLot", 
@@ -1017,11 +1028,11 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.025885487812, 
-      "lon": 3.13081165667, 
+      "lat": 51.025907509368, 
+      "lon": 3.130802663925, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Burgemeester Callewaertlaan"
     }, 
     {

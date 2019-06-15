@@ -92,6 +92,15 @@
       "street": "Rijschoolstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -117,6 +126,18 @@
     }, 
     {
       "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.818139375992, 
+      "lon": 5.181538629945, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Rijschoolstraat"
+    }, 
+    {
+      "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
@@ -132,11 +153,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.818173774026, 
-      "lon": 5.181569452912, 
+      "lat": 50.818067365508, 
+      "lon": 5.181473806418, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Rijschoolstraat"
     }, 
     {
@@ -146,21 +167,6 @@
       "housenumber": "21", 
       "lat": 50.81798567048, 
       "lon": 5.180990733545, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijschoolstraat"
-    }, 
-    {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.81812948339, 
-      "lon": 5.18155208275, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -180,35 +186,11 @@
     }, 
     {
       "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.818110539365, 
-      "lon": 5.181418922155, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijschoolstraat"
-    }, 
-    {
-      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
       "lat": 50.817914154072, 
       "lon": 5.180906477266, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Rijschoolstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.818063203962, 
-      "lon": 5.181386882222, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 

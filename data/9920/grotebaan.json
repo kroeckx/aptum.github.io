@@ -65,8 +65,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.101809120619, 
-      "lon": 3.631636016777, 
+      "lat": 51.101808582209, 
+      "lon": 3.631636168034, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -89,8 +89,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.10190890041, 
-      "lon": 3.631578334155, 
+      "lat": 51.101908542659, 
+      "lon": 3.631578625343, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -653,11 +653,11 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.10437123979, 
-      "lon": 3.626830696424, 
+      "lat": 51.104386751608, 
+      "lon": 3.626853010196, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Baan"
     }, 
     {
@@ -837,8 +837,8 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.10582843003, 
-      "lon": 3.621619972267, 
+      "lat": 51.105828432741, 
+      "lon": 3.621620400587, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -867,8 +867,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.105438296718, 
-      "lon": 3.624109544194, 
+      "lat": 51.105437306201, 
+      "lon": 3.624109274386, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -972,40 +972,18 @@
     }, 
     {
       "busnrs": [
-        "A001", 
-        "A002", 
-        "A101", 
-        "A102", 
-        "A202", 
-        "C001", 
-        "C002", 
-        "C101", 
-        "C102", 
-        "C103", 
-        "C104", 
-        "D001", 
-        "D002", 
-        "D003", 
-        "D004", 
-        "D101", 
-        "D102", 
-        "D103", 
-        "D104", 
-        "E001", 
-        "E002", 
-        "E003", 
-        "E004", 
-        "E101", 
-        "E102", 
-        "E103", 
-        "E104"
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
       ], 
       "hnrlbls": [
-        "190"
+        "190A"
       ], 
-      "housenumber": "190", 
-      "lat": 51.106106017867, 
-      "lon": 3.623910293421, 
+      "housenumber": "190A", 
+      "lat": 51.106138773354, 
+      "lon": 3.623374600362, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1016,11 +994,76 @@
         "190B"
       ], 
       "housenumber": "190B", 
+      "lat": 51.106275480514, 
+      "lon": 3.623813069271, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "103", 
+        "104"
+      ], 
+      "hnrlbls": [
+        "190C"
+      ], 
+      "housenumber": "190C", 
+      "lat": 51.105653664458, 
+      "lon": 3.624207066986, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "103", 
+        "104"
+      ], 
+      "hnrlbls": [
+        "190D"
+      ], 
+      "housenumber": "190D", 
       "lat": 51.106034721381, 
       "lon": 3.624250407765, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "004", 
+        "101", 
+        "102", 
+        "103", 
+        "104"
+      ], 
+      "hnrlbls": [
+        "190E"
+      ], 
+      "housenumber": "190E", 
+      "lat": 51.106465588302, 
+      "lon": 3.624024512295, 
+      "municipality": "Lievegem", 
+      "pcode": "9920", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1067,11 +1110,11 @@
         "197"
       ], 
       "housenumber": "197", 
-      "lat": 51.106942615301, 
-      "lon": 3.618652686621, 
+      "lat": 51.106895007512, 
+      "lon": 3.618587480464, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Grote Baan"
     }, 
     {
@@ -1507,8 +1550,8 @@
         "230-232"
       ], 
       "housenumber": "230", 
-      "lat": 51.108906830855, 
-      "lon": 3.615571617473, 
+      "lat": 51.108900282147, 
+      "lon": 3.615573722062, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -1531,8 +1574,8 @@
         "230-232"
       ], 
       "housenumber": "232", 
-      "lat": 51.108906830855, 
-      "lon": 3.615571617473, 
+      "lat": 51.108900282147, 
+      "lon": 3.615573722062, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -2048,8 +2091,8 @@
         "294"
       ], 
       "housenumber": "294", 
-      "lat": 51.117823902225, 
-      "lon": 3.611264269327, 
+      "lat": 51.117837533958, 
+      "lon": 3.611287328971, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -2451,8 +2494,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.097443706088, 
-      "lon": 3.639396499313, 
+      "lat": 51.097443343907, 
+      "lon": 3.639396076673, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 
@@ -2775,8 +2818,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.09957435614, 
-      "lon": 3.636279067547, 
+      "lat": 51.099577288697, 
+      "lon": 3.636302578412, 
       "municipality": "Lievegem", 
       "pcode": "9920", 
       "source": "afgeleidVanGebouw", 

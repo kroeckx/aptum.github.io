@@ -926,6 +926,9 @@
       "street": "Stadionstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -934,7 +937,7 @@
       "lon": 4.045071256587, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stadionstraat"
     }, 
     {

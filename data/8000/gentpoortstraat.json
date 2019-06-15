@@ -244,7 +244,7 @@
     }, 
     {
       "hnrlbls": [
-        "24-26"
+        "24-26A"
       ], 
       "housenumber": "24", 
       "lat": 51.203718277217, 
@@ -267,14 +267,8 @@
       "street": "Gentpoortstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "202", 
-        "4", 
-        "5"
-      ], 
       "hnrlbls": [
-        "24-26"
+        "24-26A"
       ], 
       "housenumber": "26", 
       "lat": 51.203718277217, 
@@ -286,25 +280,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
         "101", 
         "102", 
-        "2", 
         "201", 
-        "202", 
-        "3", 
-        "4", 
-        "5"
+        "202"
       ], 
       "hnrlbls": [
-        "26A"
+        "24-26A"
       ], 
       "housenumber": "26A", 
-      "lat": 51.203735964626, 
-      "lon": 3.232222996525, 
+      "lat": 51.203718277217, 
+      "lon": 3.232150447866, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gentpoortstraat"
     }, 
     {

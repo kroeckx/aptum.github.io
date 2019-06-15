@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.942725804338, 
-      "lon": 4.182942384261, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sultveldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -26,35 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "11"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.94347014117, 
-      "lon": 4.179508060498, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sultveldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
       "lat": 50.943837191219, 
       "lon": 4.177456928782, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sultveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.943464426584, 
-      "lon": 4.179252109683, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +41,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.943498711372, 
-      "lon": 4.178938798417, 
+      "lat": 50.943219846655, 
+      "lon": 4.180611498173, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -91,18 +55,6 @@
       "housenumber": "16", 
       "lat": 50.943680102765, 
       "lon": 4.176764912143, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sultveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.943496422338, 
-      "lon": 4.178355147164, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -125,8 +77,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.943465597798, 
-      "lon": 4.177971097688, 
+      "lat": 50.94347014117, 
+      "lon": 4.179508060498, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -137,20 +89,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.943419038287, 
-      "lon": 4.177253023717, 
-      "municipality": "Opwijk", 
-      "pcode": "1745", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sultveldstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21A"
-      ], 
-      "housenumber": "21A", 
-      "lat": 50.943409510685, 
-      "lon": 4.177641647036, 
+      "lat": 50.943464426584, 
+      "lon": 4.179252109683, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -161,8 +101,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.943469995134, 
-      "lon": 4.176913462586, 
+      "lat": 50.943498711372, 
+      "lon": 4.178938798417, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +113,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.943362955172, 
-      "lon": 4.176651095749, 
+      "lat": 50.943496422338, 
+      "lon": 4.178355147164, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -182,11 +122,47 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "27"
       ], 
-      "housenumber": "3", 
-      "lat": 50.942830864292, 
-      "lon": 4.182584550334, 
+      "housenumber": "27", 
+      "lat": 50.943465597798, 
+      "lon": 4.177971097688, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sultveldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 50.943409510685, 
+      "lon": 4.177641647036, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sultveldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 50.943419038287, 
+      "lon": 4.177253023717, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sultveldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.943469995134, 
+      "lon": 4.176913462586, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -206,11 +182,35 @@
     }, 
     {
       "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.943362955172, 
+      "lon": 4.176651095749, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sultveldstraat"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.942916643548, 
-      "lon": 4.182256671036, 
+      "lat": 50.942725804338, 
+      "lon": 4.182942384261, 
+      "municipality": "Opwijk", 
+      "pcode": "1745", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sultveldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.942830864292, 
+      "lon": 4.182584550334, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 
@@ -233,8 +233,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.943219846655, 
-      "lon": 4.180611498173, 
+      "lat": 50.942916643548, 
+      "lon": 4.182256671036, 
       "municipality": "Opwijk", 
       "pcode": "1745", 
       "source": "afgeleidVanGebouw", 

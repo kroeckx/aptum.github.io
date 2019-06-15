@@ -37,15 +37,17 @@
     }, 
     {
       "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
         "21", 
         "22", 
+        "31", 
         "32", 
         "41", 
         "42", 
-        "51", 
-        "6", 
-        "8", 
-        "9"
+        "51"
       ], 
       "hnrlbls": [
         "10"
@@ -317,26 +319,14 @@
     }, 
     {
       "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 51.205921572593, 
-      "lon": 4.408737339242, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gounodstraat"
-    }, 
-    {
-      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.205937132878, 
-      "lon": 4.408707447649, 
+      "lat": 51.20582402888, 
+      "lon": 4.409052903115, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gounodstraat"
     }, 
     {
@@ -361,7 +351,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
+        "02", 
         "11", 
         "12", 
         "21", 
@@ -370,7 +361,8 @@
         "32", 
         "41", 
         "42", 
-        "51"
+        "51", 
+        "52"
       ], 
       "hnrlbls": [
         "6"
@@ -404,14 +396,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
+        "02", 
         "11", 
         "12", 
+        "21", 
         "22", 
         "31", 
         "32", 
         "41", 
-        "51"
+        "42", 
+        "51", 
+        "52"
       ], 
       "hnrlbls": [
         "8"
@@ -425,6 +421,12 @@
       "street": "Gounodstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "9"
       ], 

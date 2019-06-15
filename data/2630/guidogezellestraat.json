@@ -1019,17 +1019,19 @@
     }, 
     {
       "busnrs": [
-        "B"
+        "A", 
+        "B", 
+        "C"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.134243036013, 
-      "lon": 4.385655859718, 
+      "lat": 51.134419509346, 
+      "lon": 4.386082386667, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Guido Gezellestraat"
     }, 
     {
@@ -1185,8 +1187,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.136062642187, 
-      "lon": 4.383531168499, 
+      "lat": 51.136062911904, 
+      "lon": 4.38353073997, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 
@@ -1209,8 +1211,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.136099505508, 
-      "lon": 4.383456601018, 
+      "lat": 51.136099775205, 
+      "lon": 4.383456315361, 
       "municipality": "Aartselaar", 
       "pcode": "2630", 
       "source": "afgeleidVanGebouw", 

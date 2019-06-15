@@ -1,23 +1,23 @@
 {
   "addresses": [
     {
-      "apptnrs": [
-        "0001", 
+      "busnrs": [
         "0101", 
         "0102", 
         "0201", 
         "0202", 
-        "0301"
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.072804386021, 
-      "lon": 2.667289209866, 
+      "lat": 51.072927962523, 
+      "lon": 2.667316684824, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sasstraat"
     }, 
     {
@@ -141,12 +141,20 @@
       "street": "Sasstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.072715292923, 
-      "lon": 2.667364664367, 
+      "lat": 51.072804386021, 
+      "lon": 2.667289209866, 
       "municipality": "Veurne", 
       "pcode": "8630", 
       "source": "manueleAanduidingVanGebouw", 
@@ -193,6 +201,18 @@
         "3"
       ], 
       "housenumber": "3", 
+      "lat": 51.072715292923, 
+      "lon": 2.667364664367, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sasstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
       "lat": 51.072643717691, 
       "lon": 2.667370549493, 
       "municipality": "Veurne", 

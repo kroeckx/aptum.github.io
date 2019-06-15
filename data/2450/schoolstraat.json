@@ -591,6 +591,9 @@
       "street": "Schoolstraat"
     }, 
     {
+      "apptnrs": [
+        "01"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -603,8 +606,10 @@
       "street": "Schoolstraat"
     }, 
     {
-      "busnrs": [
-        "36A"
+      "apptnrs": [
+        "36/0-1", 
+        "36/1-1", 
+        "36/2-1"
       ], 
       "hnrlbls": [
         "36"
@@ -619,11 +624,11 @@
     }, 
     {
       "apptnrs": [
-        "1-1"
+        "02", 
+        "11"
       ], 
       "busnrs": [
-        "1", 
-        "2"
+        "01"
       ], 
       "hnrlbls": [
         "37"

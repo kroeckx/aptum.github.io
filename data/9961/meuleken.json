@@ -125,11 +125,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.256810587228, 
-      "lon": 3.712391365462, 
+      "lat": 51.256800199544, 
+      "lon": 3.712382200484, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meuleken"
     }, 
     {
@@ -137,8 +137,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.256569772207, 
-      "lon": 3.712130032181, 
+      "lat": 51.256570402949, 
+      "lon": 3.712130309797, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -158,6 +158,18 @@
     }, 
     {
       "hnrlbls": [
+        "21B"
+      ], 
+      "housenumber": "21B", 
+      "lat": 51.256623207015, 
+      "lon": 3.711489390428, 
+      "municipality": "Assenede", 
+      "pcode": "9961", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Meuleken"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -170,14 +182,38 @@
     }, 
     {
       "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.256654889072, 
+      "lon": 3.711205455665, 
+      "municipality": "Assenede", 
+      "pcode": "9961", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Meuleken"
+    }, 
+    {
+      "hnrlbls": [
         "23A-23C"
       ], 
       "housenumber": "23A", 
-      "lat": 51.256626312444, 
-      "lon": 3.711433479883, 
+      "lat": 51.256559804248, 
+      "lon": 3.71080340994, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "street": "Meuleken"
+    }, 
+    {
+      "hnrlbls": [
+        "23B"
+      ], 
+      "housenumber": "23B", 
+      "lat": 51.256660396563, 
+      "lon": 3.710967012893, 
+      "municipality": "Assenede", 
+      "pcode": "9961", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Meuleken"
     }, 
     {
@@ -185,11 +221,11 @@
         "23A-23C"
       ], 
       "housenumber": "23C", 
-      "lat": 51.256626312444, 
-      "lon": 3.711433479883, 
+      "lat": 51.256559804248, 
+      "lon": 3.71080340994, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Meuleken"
     }, 
     {
@@ -281,11 +317,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.256627702749, 
-      "lon": 3.709823207498, 
+      "lat": 51.256748323944, 
+      "lon": 3.709854450517, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meuleken"
     }, 
     {
@@ -353,11 +389,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.257037182948, 
-      "lon": 3.709815846533, 
+      "lat": 51.257160595478, 
+      "lon": 3.709799491428, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meuleken"
     }, 
     {
@@ -365,11 +401,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.256560379126, 
-      "lon": 3.709516461969, 
+      "lat": 51.256559125602, 
+      "lon": 3.709517339175, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meuleken"
     }, 
     {
@@ -377,11 +413,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.256979553472, 
-      "lon": 3.709442063879, 
+      "lat": 51.256973553101, 
+      "lon": 3.709446016432, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meuleken"
     }, 
     {
@@ -401,8 +437,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.256901049215, 
-      "lon": 3.709209964201, 
+      "lat": 51.256904815362, 
+      "lon": 3.709208335203, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -545,11 +581,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.256795906651, 
-      "lon": 3.704805692217, 
+      "lat": 51.257276471623, 
+      "lon": 3.707157179841, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meuleken"
     }, 
     {
@@ -737,8 +773,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.256812891542, 
-      "lon": 3.711996253057, 
+      "lat": 51.256810746357, 
+      "lon": 3.711998431995, 
       "municipality": "Assenede", 
       "pcode": "9961", 
       "source": "afgeleidVanGebouw", 
@@ -773,11 +809,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.257009319724, 
-      "lon": 3.704216763806, 
+      "lat": 51.256939511503, 
+      "lon": 3.704174640445, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meuleken"
     }, 
     {
@@ -893,11 +929,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.256707660343, 
-      "lon": 3.703671990328, 
+      "lat": 51.256710378427, 
+      "lon": 3.703675819278, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meuleken"
     }, 
     {
@@ -1169,11 +1205,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.25653448774, 
-      "lon": 3.712883726189, 
+      "lat": 51.256543949631, 
+      "lon": 3.712888033817, 
       "municipality": "Assenede", 
       "pcode": "9961", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meuleken"
     }
   ]

@@ -261,11 +261,23 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.138023000656, 
-      "lon": 5.153528982593, 
+      "lat": 51.138026508443, 
+      "lon": 5.153542187169, 
       "municipality": "Balen", 
       "pcode": "2491", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.139154758378, 
+      "lon": 5.152741970133, 
+      "municipality": "Balen", 
+      "pcode": "2491", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Veldstraat"
     }, 
     {
@@ -445,6 +457,18 @@
     }, 
     {
       "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 51.137043323896, 
+      "lon": 5.154142055301, 
+      "municipality": "Balen", 
+      "pcode": "2491", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veldstraat"
+    }, 
+    {
+      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -484,8 +508,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.13659685696, 
-      "lon": 5.153773763809, 
+      "lat": 51.136627100418, 
+      "lon": 5.153889292981, 
       "municipality": "Balen", 
       "pcode": "2491", 
       "source": "manueleAanduidingVanPerceel", 
@@ -496,8 +520,8 @@
         "52_1"
       ], 
       "housenumber": "52_1", 
-      "lat": 51.136515663332, 
-      "lon": 5.153830979822, 
+      "lat": 51.136562724164, 
+      "lon": 5.153918358175, 
       "municipality": "Balen", 
       "pcode": "2491", 
       "source": "manueleAanduidingVanPerceel", 
@@ -657,6 +681,30 @@
       "municipality": "Balen", 
       "pcode": "2491", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Veldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "65_3"
+      ], 
+      "housenumber": "65_3", 
+      "lat": 51.135379458967, 
+      "lon": 5.155229653621, 
+      "municipality": "Balen", 
+      "pcode": "2491", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Veldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "65_4"
+      ], 
+      "housenumber": "65_4", 
+      "lat": 51.13538291511, 
+      "lon": 5.155250572164, 
+      "municipality": "Balen", 
+      "pcode": "2491", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Veldstraat"
     }, 
     {

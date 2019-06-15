@@ -2486,15 +2486,30 @@
       "street": "Engsbergseweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.030231508307, 
-      "lon": 5.05684812815, 
+      "lat": 51.030212889138, 
+      "lon": 5.056942226301, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Engsbergseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78A"
+      ], 
+      "housenumber": "78A", 
+      "lat": 51.030168403685, 
+      "lon": 5.056801867051, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engsbergseweg"
     }, 
     {

@@ -670,11 +670,47 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.200971059012, 
-      "lon": 3.487280540602, 
+      "lat": 51.2010366601, 
+      "lon": 3.487253833332, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
+      "street": "Adegem-Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "57A"
+      ], 
+      "housenumber": "57A", 
+      "lat": 51.200989180299, 
+      "lon": 3.487275619818, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Adegem-Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "57B"
+      ], 
+      "housenumber": "57B", 
+      "lat": 51.200910685035, 
+      "lon": 3.487296990312, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Adegem-Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "57C"
+      ], 
+      "housenumber": "57C", 
+      "lat": 51.200864891587, 
+      "lon": 3.487315883226, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Adegem-Dorp"
     }, 
     {
@@ -866,11 +902,11 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.200209534846, 
-      "lon": 3.488165700649, 
+      "lat": 51.200218621073, 
+      "lon": 3.488166673893, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Adegem-Dorp"
     }, 
     {
@@ -1041,12 +1077,17 @@
       "street": "Adegem-Dorp"
     }, 
     {
+      "apptnrs": [
+        "0-01", 
+        "1-01", 
+        "2-01"
+      ], 
       "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.199774508493, 
-      "lon": 3.48834087845, 
+      "lat": 51.199774600501, 
+      "lon": 3.488341162871, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 

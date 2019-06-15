@@ -1316,9 +1316,21 @@
     }, 
     {
       "hnrlbls": [
-        "211"
+        "211-211A"
       ], 
       "housenumber": "211", 
+      "lat": 50.869788434101, 
+      "lon": 3.622026545492, 
+      "municipality": "Oudenaarde", 
+      "pcode": "9700", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nestor De Ti\u00e8restraat"
+    }, 
+    {
+      "hnrlbls": [
+        "211-211A"
+      ], 
+      "housenumber": "211A", 
       "lat": 50.869788434101, 
       "lon": 3.622026545492, 
       "municipality": "Oudenaarde", 
@@ -1908,8 +1920,8 @@
         "67B"
       ], 
       "housenumber": "67B", 
-      "lat": 50.865042379817, 
-      "lon": 3.615830126215, 
+      "lat": 50.865305606775, 
+      "lon": 3.615550037729, 
       "municipality": "Oudenaarde", 
       "pcode": "9700", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

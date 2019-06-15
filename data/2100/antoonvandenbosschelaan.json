@@ -97,6 +97,11 @@
       "street": "Antoon Van den Bosschelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "107"
       ], 
@@ -228,6 +233,10 @@
       "street": "Antoon Van den Bosschelaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "115"
       ], 
@@ -1266,6 +1275,11 @@
       "street": "Antoon Van den Bosschelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -1278,6 +1292,11 @@
       "street": "Antoon Van den Bosschelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "66"
       ], 
@@ -1524,9 +1543,10 @@
       "street": "Antoon Van den Bosschelaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "80"

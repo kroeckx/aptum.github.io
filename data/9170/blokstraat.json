@@ -204,18 +204,6 @@
     }, 
     {
       "hnrlbls": [
-        "112"
-      ], 
-      "housenumber": "112", 
-      "lat": 51.223863673508, 
-      "lon": 4.133189129748, 
-      "municipality": "Sint-Gillis-Waas", 
-      "pcode": "9170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Blokstraat"
-    }, 
-    {
-      "hnrlbls": [
         "113"
       ], 
       "housenumber": "113", 
@@ -835,11 +823,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.222466091743, 
-      "lon": 4.12655455049, 
+      "lat": 51.22255647682, 
+      "lon": 4.126579704152, 
       "municipality": "Sint-Gillis-Waas", 
       "pcode": "9170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Blokstraat"
     }, 
     {
@@ -852,6 +840,25 @@
       "municipality": "Sint-Gillis-Waas", 
       "pcode": "9170", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Blokstraat"
+    }, 
+    {
+      "busnrs": [
+        "B001", 
+        "B101", 
+        "B102", 
+        "B201", 
+        "B202"
+      ], 
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 51.22250876514, 
+      "lon": 4.126587967008, 
+      "municipality": "Sint-Gillis-Waas", 
+      "pcode": "9170", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Blokstraat"
     }, 
     {

@@ -174,6 +174,13 @@
       "street": "Herentalsebaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -203,6 +210,11 @@
       "street": "Herentalsebaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -289,7 +301,8 @@
     {
       "busnrs": [
         "01", 
-        "11"
+        "11", 
+        "21"
       ], 
       "hnrlbls": [
         "11A"
@@ -2165,11 +2178,11 @@
         "266-268"
       ], 
       "housenumber": "266", 
-      "lat": 51.208119646897, 
-      "lon": 4.463248059628, 
+      "lat": 51.20816616463, 
+      "lon": 4.463300670004, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Herentalsebaan"
     }, 
     {
@@ -2189,11 +2202,11 @@
         "266-268"
       ], 
       "housenumber": "268", 
-      "lat": 51.208119646897, 
-      "lon": 4.463248059628, 
+      "lat": 51.20816616463, 
+      "lon": 4.463300670004, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Herentalsebaan"
     }, 
     {
@@ -3044,6 +3057,14 @@
       "street": "Herentalsebaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "331"
       ], 
@@ -3053,6 +3074,30 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
+      "street": "Herentalsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "331A"
+      ], 
+      "housenumber": "331A", 
+      "lat": 51.207068204306, 
+      "lon": 4.466401487986, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Herentalsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "331B"
+      ], 
+      "housenumber": "331B", 
+      "lat": 51.207030369538, 
+      "lon": 4.466501571466, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Herentalsebaan"
     }, 
     {
@@ -4065,7 +4110,7 @@
       "lon": 4.468654963844, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Herentalsebaan"
     }, 
     {
@@ -4075,18 +4120,6 @@
       "housenumber": "416", 
       "lat": 51.206047018369, 
       "lon": 4.468654963844, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Herentalsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2-421"
-      ], 
-      "housenumber": "417", 
-      "lat": 51.206068526586, 
-      "lon": 4.471848005992, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4105,12 +4138,21 @@
       "street": "Herentalsebaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
-        "2-421"
+        "419"
       ], 
       "housenumber": "419", 
-      "lat": 51.206068526586, 
-      "lon": 4.471848005992, 
+      "lat": 51.205973132187, 
+      "lon": 4.471981007843, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4135,18 +4177,6 @@
       "housenumber": "420", 
       "lat": 51.206033798383, 
       "lon": 4.46887414509, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herentalsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2-421"
-      ], 
-      "housenumber": "421", 
-      "lat": 51.206068526586, 
-      "lon": 4.471848005992, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4263,9 +4293,6 @@
       "street": "Herentalsebaan"
     }, 
     {
-      "apptnrs": [
-        "4.1"
-      ], 
       "busnrs": [
         "11", 
         "21", 
@@ -4807,6 +4834,11 @@
       "street": "Herentalsebaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "473"
       ], 
@@ -5002,10 +5034,6 @@
         "41", 
         "42"
       ], 
-      "busnrs": [
-        "301", 
-        "401"
-      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -5042,8 +5070,15 @@
       "street": "Herentalsebaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "492-496"
+        "492"
       ], 
       "housenumber": "492", 
       "lat": 51.205313626272, 
@@ -5067,35 +5102,11 @@
     }, 
     {
       "hnrlbls": [
-        "494"
-      ], 
-      "housenumber": "494", 
-      "lat": 51.205436255054, 
-      "lon": 4.472690946547, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Herentalsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "495"
       ], 
       "housenumber": "495", 
       "lat": 51.205567598458, 
       "lon": 4.475174926101, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Herentalsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "492-496"
-      ], 
-      "housenumber": "496", 
-      "lat": 51.205313626272, 
-      "lon": 4.472619128911, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -5466,9 +5477,6 @@
       "street": "Herentalsebaan"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "531"
       ], 
@@ -5485,8 +5493,8 @@
         "532"
       ], 
       "housenumber": "532", 
-      "lat": 51.205168351418, 
-      "lon": 4.474056088726, 
+      "lat": 51.205168981122, 
+      "lon": 4.474055517818, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -5509,8 +5517,8 @@
         "534"
       ], 
       "housenumber": "534", 
-      "lat": 51.205171612446, 
-      "lon": 4.474128210814, 
+      "lat": 51.205170894399, 
+      "lon": 4.474127064504, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -5562,6 +5570,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
+      "street": "Herentalsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "542"
+      ], 
+      "housenumber": "542", 
+      "lat": 51.205232626658, 
+      "lon": 4.474447571897, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Herentalsebaan"
     }, 
     {
@@ -5785,11 +5805,11 @@
         "584"
       ], 
       "housenumber": "584", 
-      "lat": 51.204116008794, 
-      "lon": 4.478831473035, 
+      "lat": 51.204112864987, 
+      "lon": 4.478829176266, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Herentalsebaan"
     }, 
     {
@@ -6717,6 +6737,11 @@
       "street": "Herentalsebaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "649"
       ], 
@@ -6842,15 +6867,19 @@
       "street": "Herentalsebaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "657"
       ], 
       "housenumber": "657", 
-      "lat": 51.204371805381, 
-      "lon": 4.48131312657, 
+      "lat": 51.204255049888, 
+      "lon": 4.481214545831, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Herentalsebaan"
     }, 
     {

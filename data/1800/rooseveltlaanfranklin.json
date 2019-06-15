@@ -257,8 +257,8 @@
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "117"
@@ -637,8 +637,7 @@
     }, 
     {
       "busnrs": [
-        "00/1", 
-        "02/1"
+        "00/1"
       ], 
       "hnrlbls": [
         "159"
@@ -1266,11 +1265,8 @@
       "street": "Rooseveltlaan (Franklin)"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "0001"
       ], 
       "hnrlbls": [
         "39"
@@ -1397,11 +1393,11 @@
     }, 
     {
       "apptnrs": [
-        "0", 
-        "2"
+        "0"
       ], 
       "busnrs": [
-        "01/1"
+        "01/1", 
+        "02/1"
       ], 
       "hnrlbls": [
         "47"

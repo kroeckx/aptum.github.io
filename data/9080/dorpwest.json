@@ -85,22 +85,14 @@
       "street": "Dorp-West"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "105-105A"
+        "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.093749415555, 
-      "lon": 3.824189065892, 
-      "municipality": "Lochristi", 
-      "pcode": "9080", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorp-West"
-    }, 
-    {
-      "hnrlbls": [
-        "105-105A"
-      ], 
-      "housenumber": "105A", 
       "lat": 51.093749415555, 
       "lon": 3.824189065892, 
       "municipality": "Lochristi", 
@@ -1045,8 +1037,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.095569704813, 
-      "lon": 3.831232590071, 
+      "lat": 51.09562936533, 
+      "lon": 3.831246465873, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1298,8 +1290,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.095700391769, 
-      "lon": 3.830184137129, 
+      "lat": 51.095808511246, 
+      "lon": 3.830180038225, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1556,8 +1548,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.09572208872, 
-      "lon": 3.829580897416, 
+      "lat": 51.095924994232, 
+      "lon": 3.82948748349, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 

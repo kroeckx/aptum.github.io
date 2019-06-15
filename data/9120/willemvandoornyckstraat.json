@@ -722,9 +722,7 @@
     {
       "apptnrs": [
         "001", 
-        "002", 
-        "003", 
-        "004"
+        "002"
       ], 
       "hnrlbls": [
         "4"
@@ -986,7 +984,7 @@
       "lon": 4.235263058739, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Willem Van Doornyckstraat"
     }, 
     {
@@ -1143,11 +1141,11 @@
         "202"
       ], 
       "hnrlbls": [
-        "68-70"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.18004323399, 
-      "lon": 4.234465941759, 
+      "lat": 51.180045378308, 
+      "lon": 4.234534007302, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1172,26 +1170,6 @@
       "housenumber": "7", 
       "lat": 51.181211058893, 
       "lon": 4.238778107648, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Willem Van Doornyckstraat"
-    }, 
-    {
-      "apptnrs": [
-        "001", 
-        "002", 
-        "101", 
-        "102", 
-        "201", 
-        "202"
-      ], 
-      "hnrlbls": [
-        "68-70"
-      ], 
-      "housenumber": "70", 
-      "lat": 51.18004323399, 
-      "lon": 4.234465941759, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1292,6 +1270,15 @@
       "street": "Willem Van Doornyckstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203"
+      ], 
       "hnrlbls": [
         "76"
       ], 
@@ -1366,6 +1353,18 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Willem Van Doornyckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 51.179770523622, 
+      "lon": 4.233517299639, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Willem Van Doornyckstraat"
     }, 
     {

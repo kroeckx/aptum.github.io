@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "b1", 
         "b2", 
         "b3"
@@ -85,8 +85,8 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.261849602932, 
-      "lon": 4.720513786834, 
+      "lat": 51.261907777943, 
+      "lon": 4.720506920687, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -442,18 +442,6 @@
     }, 
     {
       "hnrlbls": [
-        "187"
-      ], 
-      "housenumber": "187", 
-      "lat": 51.255421633574, 
-      "lon": 4.722002418289, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Herentalsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "189"
       ], 
       "housenumber": "189", 
@@ -685,8 +673,8 @@
         "216"
       ], 
       "housenumber": "216", 
-      "lat": 51.254099857484, 
-      "lon": 4.721774228572, 
+      "lat": 51.254099356729, 
+      "lon": 4.721761333495, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1086,11 +1074,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.267214975185, 
-      "lon": 4.716914296284, 
+      "lat": 51.267221360825, 
+      "lon": 4.716973947219, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Herentalsebaan"
     }, 
     {
@@ -1172,6 +1160,18 @@
       "housenumber": "64", 
       "lat": 51.26631451246, 
       "lon": 4.716674589195, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Herentalsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.266407140964, 
+      "lon": 4.717328756075, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1362,8 +1362,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.264871094523, 
-      "lon": 4.718130436697, 
+      "lat": 51.264874732192, 
+      "lon": 4.718146510218, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

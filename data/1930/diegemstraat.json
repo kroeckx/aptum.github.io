@@ -124,7 +124,7 @@
     }, 
     {
       "hnrlbls": [
-        "118-120"
+        "118"
       ], 
       "housenumber": "118", 
       "lat": 50.889962430226, 
@@ -135,19 +135,15 @@
       "street": "Diegemstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "011"
-      ], 
       "hnrlbls": [
-        "118-120"
+        "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.889962430226, 
-      "lon": 4.462701110127, 
+      "lat": 50.889920299711, 
+      "lon": 4.462552505508, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diegemstraat"
     }, 
     {
@@ -358,8 +354,11 @@
       "street": "Diegemstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "143"
@@ -386,10 +385,10 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "GVLO"
+        "001", 
+        "002", 
+        "011", 
+        "012"
       ], 
       "hnrlbls": [
         "145"
@@ -788,11 +787,11 @@
     }, 
     {
       "apptnrs": [
-        "2.0"
-      ], 
-      "busnrs": [
-        "2", 
-        "3"
+        "001", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
         "19"

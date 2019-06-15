@@ -954,8 +954,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.006869927632, 
-      "lon": 4.313504037836, 
+      "lat": 51.00687064656, 
+      "lon": 4.313503609562, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 
@@ -1183,11 +1183,64 @@
         "198"
       ], 
       "housenumber": "198", 
-      "lat": 51.00737530216, 
-      "lon": 4.314303904157, 
+      "lat": 51.007381957914, 
+      "lon": 4.314312302864, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Mechelsestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "198A"
+      ], 
+      "housenumber": "198A", 
+      "lat": 51.00720798359, 
+      "lon": 4.314431188227, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Mechelsestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "198B"
+      ], 
+      "housenumber": "198B", 
+      "lat": 51.00730986347, 
+      "lon": 4.314505018816, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Mechelsestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "198C"
+      ], 
+      "housenumber": "198C", 
+      "lat": 51.007440015008, 
+      "lon": 4.314482358084, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mechelsestraat"
     }, 
     {

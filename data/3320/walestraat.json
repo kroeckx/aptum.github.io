@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.773081792755, 
+      "lon": 4.88710440996, 
+      "municipality": "Hoegaarden", 
+      "pcode": "3320", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Walestraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -106,38 +122,6 @@
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
       "source": "afgeleidVanGebouw", 
-      "street": "Walestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.773187526658, 
-      "lon": 4.887304344288, 
-      "municipality": "Hoegaarden", 
-      "pcode": "3320", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Walestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.773070098277, 
-      "lon": 4.88710612411, 
-      "municipality": "Hoegaarden", 
-      "pcode": "3320", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Walestraat"
     }, 
     {

@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-7"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.166623938733, 
-      "lon": 4.61566025871, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Visvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
         "4-16"
       ], 
       "housenumber": "16", 
@@ -29,23 +17,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.16563225185, 
-      "lon": 4.614959907434, 
+      "lat": 51.165780892405, 
+      "lon": 4.614802860651, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Visvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-30"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.165811495857, 
-      "lon": 4.615384316807, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visvijverstraat"
     }, 
     {
@@ -103,30 +79,6 @@
       "housenumber": "2A", 
       "lat": 51.166584947538, 
       "lon": 4.615050011487, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Visvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2B-8"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.166476799763, 
-      "lon": 4.615228862538, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Visvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-35"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.166365041951, 
-      "lon": 4.616228606611, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -194,18 +146,6 @@
     }, 
     {
       "hnrlbls": [
-        "4-16"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.165994491976, 
-      "lon": 4.614874614442, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Visvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -214,18 +154,6 @@
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Visvijverstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.166193120399, 
-      "lon": 4.614927275257, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
       "street": "Visvijverstraat"
     }, 
     {

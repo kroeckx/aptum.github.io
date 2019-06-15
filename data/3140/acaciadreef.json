@@ -129,7 +129,7 @@
       "lon": 4.669834100464, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Acaciadreef"
     }, 
     {
@@ -137,8 +137,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.998722804615, 
-      "lon": 4.670162889909, 
+      "lat": 50.998728160359, 
+      "lon": 4.670177597332, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -314,6 +314,30 @@
     }, 
     {
       "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.998993742786, 
+      "lon": 4.673503949417, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Acaciadreef"
+    }, 
+    {
+      "hnrlbls": [
+        "46A"
+      ], 
+      "housenumber": "46A", 
+      "lat": 50.9990675043, 
+      "lon": 4.673899888968, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Acaciadreef"
+    }, 
+    {
+      "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
@@ -338,19 +362,7 @@
     }, 
     {
       "hnrlbls": [
-        "50-52"
-      ], 
-      "housenumber": "50", 
-      "lat": 50.999397094486, 
-      "lon": 4.674262030014, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Acaciadreef"
-    }, 
-    {
-      "hnrlbls": [
-        "50-52"
+        "52"
       ], 
       "housenumber": "52", 
       "lat": 50.999397094486, 

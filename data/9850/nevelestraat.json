@@ -77,8 +77,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.071176184256, 
-      "lon": 3.536824090125, 
+      "lat": 51.0711796934, 
+      "lon": 3.536837297348, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -127,6 +127,18 @@
       "housenumber": "19", 
       "lat": 51.068902514386, 
       "lon": 3.53714727561, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nevelestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.072514860111, 
+      "lon": 3.536220704143, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -409,15 +421,45 @@
       "street": "Nevelestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.071859978937, 
-      "lon": 3.536399006689, 
+      "lat": 51.071783027015, 
+      "lon": 3.536526080731, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Nevelestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.071612213558, 
+      "lon": 3.536575061699, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nevelestraat"
     }
   ]

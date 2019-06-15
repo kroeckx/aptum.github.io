@@ -77,8 +77,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.114845595228, 
-      "lon": 4.141968500964, 
+      "lat": 51.11471054702, 
+      "lon": 4.141996287843, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -98,14 +98,14 @@
     }, 
     {
       "hnrlbls": [
-        "11"
+        "11-13"
       ], 
       "housenumber": "11", 
       "lat": 51.114256333488, 
       "lon": 4.134289198267, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {
@@ -146,14 +146,14 @@
     }, 
     {
       "hnrlbls": [
-        "13"
+        "11-13"
       ], 
       "housenumber": "13", 
-      "lat": 51.114261698382, 
-      "lon": 4.134410985735, 
+      "lat": 51.114256333488, 
+      "lon": 4.134289198267, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {
@@ -177,7 +177,7 @@
       "lon": 4.134441939034, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {
@@ -189,7 +189,7 @@
       "lon": 4.134441939034, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {
@@ -201,7 +201,7 @@
       "lon": 4.134441939034, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {
@@ -213,7 +213,7 @@
       "lon": 4.134441939034, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {
@@ -225,7 +225,7 @@
       "lon": 4.134441939034, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {
@@ -237,7 +237,7 @@
       "lon": 4.134441939034, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {
@@ -249,7 +249,7 @@
       "lon": 4.134441939034, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {
@@ -594,14 +594,98 @@
     }, 
     {
       "hnrlbls": [
-        "29"
+        "29A-29H"
       ], 
-      "housenumber": "29", 
-      "lat": 51.114409634121, 
-      "lon": 4.136772851181, 
+      "housenumber": "29A", 
+      "lat": 51.114421494115, 
+      "lon": 4.136861904301, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29A-29H"
+      ], 
+      "housenumber": "29B", 
+      "lat": 51.114421494115, 
+      "lon": 4.136861904301, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29A-29H"
+      ], 
+      "housenumber": "29C", 
+      "lat": 51.114421494115, 
+      "lon": 4.136861904301, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29A-29H"
+      ], 
+      "housenumber": "29D", 
+      "lat": 51.114421494115, 
+      "lon": 4.136861904301, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29A-29H"
+      ], 
+      "housenumber": "29E", 
+      "lat": 51.114421494115, 
+      "lon": 4.136861904301, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29A-29H"
+      ], 
+      "housenumber": "29F", 
+      "lat": 51.114421494115, 
+      "lon": 4.136861904301, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29A-29H"
+      ], 
+      "housenumber": "29G", 
+      "lat": 51.114421494115, 
+      "lon": 4.136861904301, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29A-29H"
+      ], 
+      "housenumber": "29H", 
+      "lat": 51.114421494115, 
+      "lon": 4.136861904301, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Dorpstraat"
     }, 
     {

@@ -1,0 +1,40 @@
+{
+  "addresses": [
+    {
+      "apptnrs": [
+        "0-01", 
+        "0-02", 
+        "1-01", 
+        "1-02"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.211257042652, 
+      "lon": 3.447852358903, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Van Mullempad"
+    }, 
+    {
+      "apptnrs": [
+        "0-01", 
+        "0-02", 
+        "1-01", 
+        "1-02"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.21127874182, 
+      "lon": 3.448076333916, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Van Mullempad"
+    }
+  ]
+}

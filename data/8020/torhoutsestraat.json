@@ -65,8 +65,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.089430222594, 
-      "lon": 3.201727143853, 
+      "lat": 51.089431663452, 
+      "lon": 3.201727393408, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "103A"
       ], 
       "housenumber": "103A", 
-      "lat": 51.089359155117, 
-      "lon": 3.201704221191, 
+      "lat": 51.089356783498, 
+      "lon": 3.201709847513, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -200,11 +200,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.089489414049, 
-      "lon": 3.199842390226, 
+      "lat": 51.089439577012, 
+      "lon": 3.199902590331, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -224,11 +224,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.089299354979, 
-      "lon": 3.200204150592, 
+      "lat": 51.089265993357, 
+      "lon": 3.200393838848, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -356,23 +356,11 @@
         "122D"
       ], 
       "housenumber": "122D", 
-      "lat": 51.088434548591, 
-      "lon": 3.199571692356, 
+      "lat": 51.088460808503, 
+      "lon": 3.199536349071, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Torhoutsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "122E"
-      ], 
-      "housenumber": "122E", 
-      "lat": 51.088316484266, 
-      "lon": 3.199387647207, 
-      "municipality": "Oostkamp", 
-      "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -704,11 +692,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.087234828653, 
-      "lon": 3.197767016937, 
+      "lat": 51.087316564461, 
+      "lon": 3.197759689847, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -812,11 +800,11 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.086839774856, 
-      "lon": 3.197238345206, 
+      "lat": 51.087084638159, 
+      "lon": 3.197109314154, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -1217,18 +1205,6 @@
     }, 
     {
       "hnrlbls": [
-        "186"
-      ], 
-      "housenumber": "186", 
-      "lat": 51.085307051373, 
-      "lon": 3.192646663099, 
-      "municipality": "Oostkamp", 
-      "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Torhoutsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "187"
       ], 
       "housenumber": "187", 
@@ -1424,11 +1400,11 @@
         "199c"
       ], 
       "housenumber": "199c", 
-      "lat": 51.083826225517, 
-      "lon": 3.190962117483, 
+      "lat": 51.083939477454, 
+      "lon": 3.190869916825, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -1460,11 +1436,11 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.0839657244, 
-      "lon": 3.189744816011, 
+      "lat": 51.083850507672, 
+      "lon": 3.189721313858, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -1520,8 +1496,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.083573174151, 
-      "lon": 3.190126805507, 
+      "lat": 51.083531218412, 
+      "lon": 3.19017453515, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -1544,11 +1520,11 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 51.083451922194, 
-      "lon": 3.189904203401, 
+      "lat": 51.08342608456, 
+      "lon": 3.189936540412, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -1688,11 +1664,11 @@
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 51.082065144064, 
-      "lon": 3.186394256277, 
+      "lat": 51.082071980857, 
+      "lon": 3.186305022495, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -1712,11 +1688,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.094644155957, 
-      "lon": 3.205928813894, 
+      "lat": 51.094601398667, 
+      "lon": 3.206032666545, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -1856,8 +1832,8 @@
         "228"
       ], 
       "housenumber": "228", 
-      "lat": 51.081162234283, 
-      "lon": 3.181753729246, 
+      "lat": 51.081132634922, 
+      "lon": 3.181778314872, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -2012,11 +1988,11 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 51.079422368699, 
-      "lon": 3.180233243788, 
+      "lat": 51.079380043018, 
+      "lon": 3.180279560385, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -2024,11 +2000,11 @@
         "239"
       ], 
       "housenumber": "239", 
-      "lat": 51.078446739923, 
-      "lon": 3.180078344158, 
+      "lat": 51.078459777106, 
+      "lon": 3.180033914009, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -2072,11 +2048,11 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 51.078698346599, 
-      "lon": 3.179853026849, 
+      "lat": 51.078782911528, 
+      "lon": 3.179823191454, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -2108,11 +2084,11 @@
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 51.078644077825, 
-      "lon": 3.179330067902, 
+      "lat": 51.078739925529, 
+      "lon": 3.17931364555, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -2444,11 +2420,11 @@
         "266A"
       ], 
       "housenumber": "266A", 
-      "lat": 51.078194267697, 
-      "lon": 3.176539445416, 
+      "lat": 51.078121250479, 
+      "lon": 3.176528746785, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -2456,11 +2432,11 @@
         "266B"
       ], 
       "housenumber": "266B", 
-      "lat": 51.078121739491, 
-      "lon": 3.17646151591, 
+      "lat": 51.078085549096, 
+      "lon": 3.176412059879, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -2492,11 +2468,11 @@
         "269"
       ], 
       "housenumber": "269", 
-      "lat": 51.077643824435, 
-      "lon": 3.176229796004, 
+      "lat": 51.077756759198, 
+      "lon": 3.17610732447, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -2516,11 +2492,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.094282019758, 
-      "lon": 3.206373527124, 
+      "lat": 51.094325474903, 
+      "lon": 3.206148880822, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -2660,11 +2636,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.094338493499, 
-      "lon": 3.205691145077, 
+      "lat": 51.094317439386, 
+      "lon": 3.20574406247, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -2859,8 +2835,8 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 51.076585943858, 
-      "lon": 3.172490503116, 
+      "lat": 51.076585933727, 
+      "lon": 3.172489504407, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -3064,7 +3040,7 @@
       "lon": 3.172203466221, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -3228,11 +3204,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.094237145989, 
-      "lon": 3.205560324528, 
+      "lat": 51.094188888724, 
+      "lon": 3.205616916241, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -3708,11 +3684,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.094143315401, 
-      "lon": 3.205480712037, 
+      "lat": 51.094116856654, 
+      "lon": 3.205559889174, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -4080,7 +4056,7 @@
       "lon": 3.205456682626, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -4410,11 +4386,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.092670168775, 
-      "lon": 3.204964298845, 
+      "lat": 51.092725543874, 
+      "lon": 3.204891114048, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -4518,11 +4494,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.091292068262, 
-      "lon": 3.203203310698, 
+      "lat": 51.091220430022, 
+      "lon": 3.203368262609, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -4557,11 +4533,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.091302024595, 
-      "lon": 3.202891716883, 
+      "lat": 51.091164183424, 
+      "lon": 3.203289436378, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -4593,11 +4569,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.091613726599, 
-      "lon": 3.20426824066, 
+      "lat": 51.091685008193, 
+      "lon": 3.204067037927, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Torhoutsestraat"
     }, 
     {
@@ -4667,18 +4643,6 @@
       "housenumber": "77C", 
       "lat": 51.091314414698, 
       "lon": 3.203936650736, 
-      "municipality": "Oostkamp", 
-      "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Torhoutsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "77D"
-      ], 
-      "housenumber": "77D", 
-      "lat": 51.091207243814, 
-      "lon": 3.203835394597, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 

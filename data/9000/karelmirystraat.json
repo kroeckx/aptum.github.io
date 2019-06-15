@@ -474,14 +474,26 @@
     }, 
     {
       "hnrlbls": [
-        "41"
+        "41-41A"
       ], 
       "housenumber": "41", 
-      "lat": 51.063261828521, 
-      "lon": 3.730139609592, 
+      "lat": 51.063250235405, 
+      "lon": 3.730106956828, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Karel Mirystraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41-41A"
+      ], 
+      "housenumber": "41A", 
+      "lat": 51.063250235405, 
+      "lon": 3.730106956828, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karel Mirystraat"
     }, 
     {

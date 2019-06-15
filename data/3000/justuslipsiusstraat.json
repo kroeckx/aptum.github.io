@@ -71,11 +71,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.879772748615, 
-      "lon": 4.710907005003, 
+      "lat": 50.879772301639, 
+      "lon": 4.710906149172, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Justus Lipsiusstraat"
     }, 
     {
@@ -119,8 +119,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.87974990787, 
-      "lon": 4.710971065131, 
+      "lat": 50.879748911986, 
+      "lon": 4.710973473472, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -169,8 +169,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.879718944303, 
-      "lon": 4.711046149275, 
+      "lat": 50.87971867047, 
+      "lon": 4.711047568222, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -193,8 +193,8 @@
         "18-104"
       ], 
       "housenumber": "18", 
-      "lat": 50.879394841466, 
-      "lon": 4.711118097858, 
+      "lat": 50.879400469858, 
+      "lon": 4.711130074833, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -300,8 +300,8 @@
         "18-104"
       ], 
       "housenumber": "20", 
-      "lat": 50.879394841466, 
-      "lon": 4.711118097858, 
+      "lat": 50.879400469858, 
+      "lon": 4.711130074833, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -504,11 +504,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.878810244095, 
-      "lon": 4.7115820215, 
+      "lat": 50.879101561699, 
+      "lon": 4.711408951418, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Justus Lipsiusstraat"
     }, 
     {
@@ -528,8 +528,8 @@
         "32-36"
       ], 
       "housenumber": "32", 
-      "lat": 50.879139513546, 
-      "lon": 4.711956144466, 
+      "lat": 50.879156272803, 
+      "lon": 4.7119736025, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -610,8 +610,8 @@
         "32-36"
       ], 
       "housenumber": "36", 
-      "lat": 50.879139513546, 
-      "lon": 4.711956144466, 
+      "lat": 50.879156272803, 
+      "lon": 4.7119736025, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -765,11 +765,11 @@
         "0301"
       ], 
       "hnrlbls": [
-        "42-44"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.879100932175, 
-      "lon": 4.712390950202, 
+      "lat": 50.879123220447, 
+      "lon": 4.712362268722, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -801,11 +801,11 @@
         "0302"
       ], 
       "hnrlbls": [
-        "42-44"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.879100932175, 
-      "lon": 4.712390950202, 
+      "lat": 50.879082252969, 
+      "lon": 4.712415111144, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -856,11 +856,11 @@
         "46C-68"
       ], 
       "housenumber": "46C", 
-      "lat": 50.8773970995, 
-      "lon": 4.714179564778, 
+      "lat": 50.878070921597, 
+      "lon": 4.714465014544, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Justus Lipsiusstraat"
     }, 
     {
@@ -878,11 +878,11 @@
         "46C-68"
       ], 
       "housenumber": "46D", 
-      "lat": 50.8773970995, 
-      "lon": 4.714179564778, 
+      "lat": 50.878070921597, 
+      "lon": 4.714465014544, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Justus Lipsiusstraat"
     }, 
     {
@@ -987,8 +987,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.877990902741, 
-      "lon": 4.714956054065, 
+      "lat": 50.878007298204, 
+      "lon": 4.714974788864, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1255,8 +1255,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.878956632779, 
-      "lon": 4.713376013597, 
+      "lat": 50.878984906949, 
+      "lon": 4.71345167254, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1267,8 +1267,8 @@
         "69-71"
       ], 
       "housenumber": "69", 
-      "lat": 50.878541982954, 
-      "lon": 4.714492075317, 
+      "lat": 50.87875956889, 
+      "lon": 4.714143565763, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1301,8 +1301,8 @@
         "69-71"
       ], 
       "housenumber": "71", 
-      "lat": 50.878541982954, 
-      "lon": 4.714492075317, 
+      "lat": 50.87875956889, 
+      "lon": 4.714143565763, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1342,8 +1342,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.87829662825, 
-      "lon": 4.714898065364, 
+      "lat": 50.878296719403, 
+      "lon": 4.714897639765, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1411,8 +1411,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.879813545615, 
-      "lon": 4.710758387251, 
+      "lat": 50.879814261442, 
+      "lon": 4.710759529233, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

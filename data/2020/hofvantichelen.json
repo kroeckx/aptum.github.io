@@ -131,6 +131,11 @@
       "street": "Hof Van Tichelen"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -483,6 +488,11 @@
       "street": "Hof Van Tichelen"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -524,30 +534,18 @@
       "street": "Hof Van Tichelen"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "40-41"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.181929917183, 
-      "lon": 4.386184397551, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hof Van Tichelen"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "40-41"
-      ], 
-      "housenumber": "41", 
       "lat": 51.181929917183, 
       "lon": 4.386184397551, 
       "municipality": "Antwerpen", 
@@ -864,6 +862,14 @@
       "street": "Hof Van Tichelen"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "61-62"
       ], 
@@ -888,6 +894,11 @@
       "street": "Hof Van Tichelen"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "64"
       ], 

@@ -477,6 +477,21 @@
       "street": "St. Jorisstraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "52A"
+      ], 
+      "housenumber": "52A", 
+      "lat": 50.872328539722, 
+      "lon": 5.271235338504, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "St. Jorisstraat"
+    }, 
+    {
       "hnrlbls": [
         "53"
       ], 
@@ -505,8 +520,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.873621423651, 
-      "lon": 5.269479440693, 
+      "lat": 50.873627125179, 
+      "lon": 5.269486228096, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -781,8 +796,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.874083584726, 
-      "lon": 5.269844803846, 
+      "lat": 50.874094029177, 
+      "lon": 5.269877826342, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -805,8 +820,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.874375286232, 
-      "lon": 5.269895160864, 
+      "lat": 50.874389790186, 
+      "lon": 5.269902969934, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -925,8 +940,8 @@
         "82A"
       ], 
       "housenumber": "82A", 
-      "lat": 50.875217380795, 
-      "lon": 5.269158960255, 
+      "lat": 50.875220432837, 
+      "lon": 5.269136142308, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 

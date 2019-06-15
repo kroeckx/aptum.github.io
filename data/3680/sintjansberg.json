@@ -301,15 +301,27 @@
       "street": "Sint-Jansberg"
     }, 
     {
+      "busnrs": [
+        "K1", 
+        "K10", 
+        "K2", 
+        "K3", 
+        "K4", 
+        "K5", 
+        "K6", 
+        "K7", 
+        "K8", 
+        "K9"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.108591104576, 
-      "lon": 5.783475204426, 
+      "lat": 51.108587741804, 
+      "lon": 5.783463248957, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Jansberg"
     }, 
     {
@@ -317,11 +329,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.108784427781, 
-      "lon": 5.783577602421, 
+      "lat": 51.108796166225, 
+      "lon": 5.783543396609, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Jansberg"
     }, 
     {
@@ -487,6 +499,18 @@
       "housenumber": "68", 
       "lat": 51.110327056559, 
       "lon": 5.784426546487, 
+      "municipality": "Maaseik", 
+      "pcode": "3680", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Jansberg"
+    }, 
+    {
+      "hnrlbls": [
+        "68A"
+      ], 
+      "housenumber": "68A", 
+      "lat": 51.110379133145, 
+      "lon": 5.784424697052, 
       "municipality": "Maaseik", 
       "pcode": "3680", 
       "source": "afgeleidVanGebouw", 

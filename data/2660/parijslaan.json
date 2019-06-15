@@ -424,8 +424,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.164054667023, 
-      "lon": 4.354768041831, 
+      "lat": 51.164055116324, 
+      "lon": 4.354766898035, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanPerceelGrb", 
@@ -858,7 +858,7 @@
     }, 
     {
       "busnrs": [
-        "197", 
+        "1", 
         "2", 
         "3", 
         "4", 
@@ -866,25 +866,9 @@
         "6"
       ], 
       "hnrlbls": [
-        "195-197"
+        "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.15889466175, 
-      "lon": 4.348249750236, 
-      "municipality": "Antwerpen", 
-      "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Parijslaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "195-197"
-      ], 
-      "housenumber": "197", 
       "lat": 51.15889466175, 
       "lon": 4.348249750236, 
       "municipality": "Antwerpen", 
@@ -1810,14 +1794,19 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.161357876954, 
-      "lon": 4.352297485425, 
+      "lat": 51.161357517372, 
+      "lon": 4.352297199646, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
       "street": "Parijslaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "9"
       ], 

@@ -83,6 +83,9 @@
       "street": "Bilzersteenweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -406,8 +409,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.85347803603, 
-      "lon": 5.495071156631, 
+      "lat": 50.853456915382, 
+      "lon": 5.495173337925, 
       "municipality": "Hoeselt", 
       "pcode": "3730", 
       "source": "afgeleidVanGebouw", 

@@ -55,8 +55,13 @@
       "street": "Dordrechtlaan"
     }, 
     {
-      "busnrs": [
-        "13"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "11-13"
@@ -1094,6 +1099,11 @@
       "street": "Dordrechtlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "5"
       ], 

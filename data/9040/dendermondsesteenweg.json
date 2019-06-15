@@ -1797,7 +1797,7 @@
       "lon": 3.751366453885, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -1862,34 +1862,6 @@
     }, 
     {
       "hnrlbls": [
-        "305B"
-      ], 
-      "housenumber": "305B", 
-      "lat": 51.052740193754, 
-      "lon": 3.749408572169, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Dendermondsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "0101", 
-        "0201"
-      ], 
-      "hnrlbls": [
-        "305C"
-      ], 
-      "housenumber": "305C", 
-      "lat": 51.052748754615, 
-      "lon": 3.749463939524, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dendermondsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "302-318"
       ], 
       "housenumber": "306", 
@@ -1934,6 +1906,22 @@
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Dendermondsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "307C"
+      ], 
+      "housenumber": "307C", 
+      "lat": 51.052746896185, 
+      "lon": 3.749486641219, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -2970,11 +2958,11 @@
         "387"
       ], 
       "housenumber": "387", 
-      "lat": 51.052626884474, 
-      "lon": 3.752041750927, 
+      "lat": 51.052555465004, 
+      "lon": 3.752119136877, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {
@@ -3118,11 +3106,11 @@
         "397"
       ], 
       "housenumber": "397", 
-      "lat": 51.05230932799, 
-      "lon": 3.752632963448, 
+      "lat": 51.052300324489, 
+      "lon": 3.752681858587, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dendermondsesteenweg"
     }, 
     {

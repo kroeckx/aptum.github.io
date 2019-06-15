@@ -17,11 +17,11 @@
         "12-12D"
       ], 
       "housenumber": "12", 
-      "lat": 50.863209836102, 
-      "lon": 4.690696644915, 
+      "lat": 50.863298468398, 
+      "lon": 4.69027310756, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jules Vandenbemptlaan"
     }, 
     {
@@ -29,11 +29,11 @@
         "12-12D"
       ], 
       "housenumber": "12C", 
-      "lat": 50.863209836102, 
-      "lon": 4.690696644915, 
+      "lat": 50.863298468398, 
+      "lon": 4.69027310756, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jules Vandenbemptlaan"
     }, 
     {
@@ -41,11 +41,11 @@
         "12-12D"
       ], 
       "housenumber": "12D", 
-      "lat": 50.863209836102, 
-      "lon": 4.690696644915, 
+      "lat": 50.863298468398, 
+      "lon": 4.69027310756, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jules Vandenbemptlaan"
     }, 
     {
@@ -88,8 +88,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.863417243889, 
-      "lon": 4.692157583441, 
+      "lat": 50.863422742716, 
+      "lon": 4.692152081602, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -345,7 +345,10 @@
     }, 
     {
       "busnrs": [
-        "3"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "3-5"
@@ -363,8 +366,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.862480135528, 
-      "lon": 4.690179856353, 
+      "lat": 50.862483754292, 
+      "lon": 4.690171500659, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -511,8 +514,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.861479715206, 
-      "lon": 4.68757268491, 
+      "lat": 50.861488003626, 
+      "lon": 4.687566065415, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 

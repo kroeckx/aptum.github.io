@@ -680,19 +680,31 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "7-7A"
       ], 
       "housenumber": "7", 
-      "lat": 51.04888697436, 
-      "lon": 3.733111199497, 
+      "lat": 51.048896112101, 
+      "lon": 3.733138742253, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zuidstationstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7-7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.048896112101, 
+      "lon": 3.733138742253, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zuidstationstraat"
     }, 
     {
       "busnrs": [
-        "0001", 
+        "0101", 
         "0201", 
         "0301"
       ], 
@@ -700,11 +712,23 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.04917749632, 
-      "lon": 3.733008997791, 
+      "lat": 51.049182341012, 
+      "lon": 3.733023906404, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zuidstationstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 51.049168398528, 
+      "lon": 3.732988870219, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zuidstationstraat"
     }, 
     {

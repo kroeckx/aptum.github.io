@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.026225887779, 
-      "lon": 4.689440550232, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2223", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Jespersweg"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -29,11 +17,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.028675604835, 
-      "lon": 4.686193904798, 
+      "lat": 51.028651621243, 
+      "lon": 4.686254038976, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jespersweg"
     }, 
     {
@@ -65,11 +53,11 @@
         "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 51.028686769368, 
-      "lon": 4.687150610342, 
+      "lat": 51.028636198779, 
+      "lon": 4.687136581265, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jespersweg"
     }, 
     {
@@ -278,18 +266,6 @@
     }, 
     {
       "hnrlbls": [
-        "7A"
-      ], 
-      "housenumber": "7A", 
-      "lat": 51.028147329087, 
-      "lon": 4.688377239142, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2223", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Jespersweg"
-    }, 
-    {
-      "hnrlbls": [
         "7B"
       ], 
       "housenumber": "7B", 
@@ -329,11 +305,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.028421958519, 
-      "lon": 4.687412942947, 
+      "lat": 51.028447737398, 
+      "lon": 4.687353962262, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jespersweg"
     }, 
     {
@@ -341,11 +317,11 @@
         "9E"
       ], 
       "housenumber": "9E", 
-      "lat": 51.028193988419, 
-      "lon": 4.685687306136, 
+      "lat": 51.028228032629, 
+      "lon": 4.68569637487, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jespersweg"
     }, 
     {
@@ -353,11 +329,11 @@
         "9F"
       ], 
       "housenumber": "9F", 
-      "lat": 51.028583344864, 
-      "lon": 4.685772909216, 
+      "lat": 51.028539398994, 
+      "lon": 4.685768904832, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jespersweg"
     }
   ]

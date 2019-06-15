@@ -552,42 +552,6 @@
       "street": "Kemmelbergstraat"
     }, 
     {
-      "hnrlbls": [
-        "52_2"
-      ], 
-      "housenumber": "52_2", 
-      "lat": 51.193158652543, 
-      "lon": 4.418789475603, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kemmelbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "52_4"
-      ], 
-      "housenumber": "52_4", 
-      "lat": 51.193248687745, 
-      "lon": 4.418857950445, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kemmelbergstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "52_5"
-      ], 
-      "housenumber": "52_5", 
-      "lat": 51.193210895934, 
-      "lon": 4.418951319567, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kemmelbergstraat"
-    }, 
-    {
       "busnrs": [
         "3"
       ], 
@@ -743,11 +707,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.192849558682, 
-      "lon": 4.41915991677, 
+      "lat": 51.192666475445, 
+      "lon": 4.418713984238, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Kemmelbergstraat"
     }, 
     {

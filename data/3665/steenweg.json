@@ -70,11 +70,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.000473274997, 
-      "lon": 5.572228232209, 
+      "lat": 51.00056127706, 
+      "lon": 5.573046182857, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Steenweg"
     }, 
     {
@@ -371,8 +371,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.000058980559, 
-      "lon": 5.569627355398, 
+      "lat": 51.000053136652, 
+      "lon": 5.569636181549, 
       "municipality": "As", 
       "pcode": "3665", 
       "source": "afgeleidVanPerceelGrb", 
@@ -395,8 +395,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.000100747477, 
-      "lon": 5.569481390496, 
+      "lat": 51.000100925781, 
+      "lon": 5.569481537545, 
       "municipality": "As", 
       "pcode": "3665", 
       "source": "afgeleidVanGebouw", 
@@ -799,6 +799,46 @@
     }, 
     {
       "hnrlbls": [
+        "175A"
+      ], 
+      "housenumber": "175A", 
+      "lat": 50.999748753769, 
+      "lon": 5.565850772794, 
+      "municipality": "As", 
+      "pcode": "3665", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Steenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "175B"
+      ], 
+      "housenumber": "175B", 
+      "lat": 50.999753474056, 
+      "lon": 5.565766832813, 
+      "municipality": "As", 
+      "pcode": "3665", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "175C"
+      ], 
+      "housenumber": "175C", 
+      "lat": 50.999748026376, 
+      "lon": 5.565613104756, 
+      "municipality": "As", 
+      "pcode": "3665", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Steenweg"
+    }, 
+    {
+      "hnrlbls": [
         "176"
       ], 
       "housenumber": "176", 
@@ -814,18 +854,6 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 50.999720692797, 
-      "lon": 5.565745905693, 
-      "municipality": "As", 
-      "pcode": "3665", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "177B"
-      ], 
-      "housenumber": "177B", 
       "lat": 50.999668490466, 
       "lon": 5.565601525811, 
       "municipality": "As", 
@@ -1138,15 +1166,19 @@
       "street": "Steenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.001676598278, 
-      "lon": 5.580006614531, 
+      "lat": 51.001710534611, 
+      "lon": 5.579950072192, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Steenweg"
     }, 
     {
@@ -1175,6 +1207,18 @@
     }, 
     {
       "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 51.001661080178, 
+      "lon": 5.579907188122, 
+      "municipality": "As", 
+      "pcode": "3665", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Steenweg"
+    }, 
+    {
+      "hnrlbls": [
         "256"
       ], 
       "housenumber": "256", 
@@ -1190,8 +1234,8 @@
         "258"
       ], 
       "housenumber": "258", 
-      "lat": 50.996176972577, 
-      "lon": 5.555789212287, 
+      "lat": 50.996184799993, 
+      "lon": 5.555779723126, 
       "municipality": "As", 
       "pcode": "3665", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1214,8 +1258,8 @@
         "262"
       ], 
       "housenumber": "262", 
-      "lat": 50.996205456767, 
-      "lon": 5.555291878136, 
+      "lat": 50.996211457807, 
+      "lon": 5.555285191899, 
       "municipality": "As", 
       "pcode": "3665", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1226,8 +1270,8 @@
         "266"
       ], 
       "housenumber": "266", 
-      "lat": 50.996352962052, 
-      "lon": 5.554759662439, 
+      "lat": 50.996361846202, 
+      "lon": 5.554734528681, 
       "municipality": "As", 
       "pcode": "3665", 
       "source": "afgeleidVanPerceelGrb", 

@@ -233,8 +233,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.968030756557, 
-      "lon": 3.825139938113, 
+      "lat": 50.968068867866, 
+      "lon": 3.82545070607, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -254,11 +254,11 @@
     }, 
     {
       "hnrlbls": [
-        "34"
+        "33A"
       ], 
-      "housenumber": "34", 
-      "lat": 50.968325809977, 
-      "lon": 3.825319603407, 
+      "housenumber": "33A", 
+      "lat": 50.96896481865, 
+      "lon": 3.824997289183, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -266,11 +266,59 @@
     }, 
     {
       "hnrlbls": [
-        "35"
+        "33_0102"
       ], 
-      "housenumber": "35", 
-      "lat": 50.96896481865, 
-      "lon": 3.824997289183, 
+      "housenumber": "33_0102", 
+      "lat": 50.96888551783, 
+      "lon": 3.824935850909, 
+      "municipality": "Oosterzele", 
+      "pcode": "9860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Wetterse steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "33_0201"
+      ], 
+      "housenumber": "33_0201", 
+      "lat": 50.968915262964, 
+      "lon": 3.824894789276, 
+      "municipality": "Oosterzele", 
+      "pcode": "9860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Wetterse steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "33_0202"
+      ], 
+      "housenumber": "33_0202", 
+      "lat": 50.96893754279, 
+      "lon": 3.824930692465, 
+      "municipality": "Oosterzele", 
+      "pcode": "9860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Wetterse steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "33_0203"
+      ], 
+      "housenumber": "33_0203", 
+      "lat": 50.968954873426, 
+      "lon": 3.82496551408, 
+      "municipality": "Oosterzele", 
+      "pcode": "9860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Wetterse steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.968325809977, 
+      "lon": 3.825319603407, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -353,11 +401,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.966964705892, 
-      "lon": 3.823061990452, 
+      "lat": 50.933024918479, 
+      "lon": 3.820259532214, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wetterse steenweg"
     }
   ]

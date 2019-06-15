@@ -882,11 +882,11 @@
         "236"
       ], 
       "housenumber": "236", 
-      "lat": 50.760349538581, 
-      "lon": 4.533198552443, 
+      "lat": 50.760356805698, 
+      "lon": 4.533145144444, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Terhulpensesteenweg"
     }, 
     {
@@ -906,11 +906,11 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 50.76033418744, 
-      "lon": 4.533119694901, 
+      "lat": 50.760335024088, 
+      "lon": 4.53303635865, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Terhulpensesteenweg"
     }, 
     {
@@ -918,11 +918,11 @@
         "238A"
       ], 
       "housenumber": "238A", 
-      "lat": 50.760320115775, 
-      "lon": 4.5330259599, 
+      "lat": 50.760320704223, 
+      "lon": 4.532927315611, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Terhulpensesteenweg"
     }, 
     {
@@ -1819,8 +1819,8 @@
         "416"
       ], 
       "housenumber": "416", 
-      "lat": 50.750431938001, 
-      "lon": 4.521863073951, 
+      "lat": 50.750447694775, 
+      "lon": 4.52184427883, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "afgeleidVanGebouw", 
@@ -1891,11 +1891,11 @@
         "427"
       ], 
       "housenumber": "427", 
-      "lat": 50.749123374459, 
-      "lon": 4.520913099028, 
+      "lat": 50.749161596894, 
+      "lon": 4.520832029158, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Terhulpensesteenweg"
     }, 
     {
@@ -1961,26 +1961,26 @@
       "street": "Terhulpensesteenweg"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "2", 
         "3", 
         "4", 
         "5"
       ], 
       "hnrlbls": [
-        "435-437"
+        "435"
       ], 
       "housenumber": "435", 
-      "lat": 50.748851335299, 
-      "lon": 4.520437383993, 
+      "lat": 50.748905539755, 
+      "lon": 4.520371244254, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Terhulpensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "435-437"
+        "437"
       ], 
       "housenumber": "437", 
       "lat": 50.748851335299, 

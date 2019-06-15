@@ -17,8 +17,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.056651206208, 
-      "lon": 3.118105526813, 
+      "lat": 51.056642081167, 
+      "lon": 3.118109764793, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "21A"
       ], 
       "housenumber": "21A", 
-      "lat": 51.057208951033, 
-      "lon": 3.119707305724, 
+      "lat": 51.057189244038, 
+      "lon": 3.119739500294, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +185,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.057307475892, 
-      "lon": 3.120309096013, 
+      "lat": 51.057308009109, 
+      "lon": 3.120308511183, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -197,11 +197,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.058033648941, 
-      "lon": 3.117895555238, 
+      "lat": 51.057235900309, 
+      "lon": 3.118865651005, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kwaplasstraat"
     }, 
     {
@@ -257,8 +257,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.057362288009, 
-      "lon": 3.119245870002, 
+      "lat": 51.057403212463, 
+      "lon": 3.11920526289, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -425,11 +425,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.058879778692, 
-      "lon": 3.123803497657, 
+      "lat": 51.058773054357, 
+      "lon": 3.123930161986, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kwaplasstraat"
     }, 
     {
@@ -938,18 +938,6 @@
     }, 
     {
       "hnrlbls": [
-        "76"
-      ], 
-      "housenumber": "76", 
-      "lat": 51.061957187931, 
-      "lon": 3.127809193591, 
-      "municipality": "Torhout", 
-      "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kwaplasstraat"
-    }, 
-    {
-      "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
@@ -986,11 +974,11 @@
     }, 
     {
       "hnrlbls": [
-        "82"
+        "86"
       ], 
-      "housenumber": "82", 
-      "lat": 51.061911630796, 
-      "lon": 3.128682805924, 
+      "housenumber": "86", 
+      "lat": 51.061860096058, 
+      "lon": 3.127416582054, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -998,14 +986,14 @@
     }, 
     {
       "hnrlbls": [
-        "84"
+        "88"
       ], 
-      "housenumber": "84", 
-      "lat": 51.062811277823, 
-      "lon": 3.130684445523, 
+      "housenumber": "88", 
+      "lat": 51.061957187931, 
+      "lon": 3.127809193591, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kwaplasstraat"
     }, 
     {
@@ -1015,6 +1003,18 @@
       "housenumber": "9", 
       "lat": 51.056563703757, 
       "lon": 3.117924986559, 
+      "municipality": "Torhout", 
+      "pcode": "8820", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kwaplasstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 51.061911630796, 
+      "lon": 3.128682805924, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 

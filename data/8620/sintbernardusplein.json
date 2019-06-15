@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "/zn-99"
+        "1-16"
       ], 
       "housenumber": "1", 
       "lat": 51.145415727123, 
@@ -113,7 +113,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "10-150"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.144767084539, 
@@ -125,7 +125,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-99"
+        "1-16"
       ], 
       "housenumber": "15A", 
       "lat": 51.145415727123, 
@@ -137,7 +137,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-99"
+        "1-16"
       ], 
       "housenumber": "16", 
       "lat": 51.145415727123, 
@@ -161,19 +161,7 @@
     }, 
     {
       "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.144355505994, 
-      "lon": 2.711598083541, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Bernardusplein"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-99"
+        "1-16"
       ], 
       "housenumber": "3", 
       "lat": 51.145415727123, 
@@ -284,30 +272,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sint-Bernardusplein"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-99"
-      ], 
-      "housenumber": "99", 
-      "lat": 51.145415727123, 
-      "lon": 2.711093213721, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
-      "street": "Sint-Bernardusplein"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-99"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.145415727123, 
-      "lon": 2.711093213721, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Sint-Bernardusplein"
     }
   ]

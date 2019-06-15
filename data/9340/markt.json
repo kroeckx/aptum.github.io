@@ -123,33 +123,21 @@
     {
       "busnrs": [
         "1", 
+        "1A", 
         "2", 
-        "3"
+        "2A", 
+        "3", 
+        "3A"
       ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.965648553648, 
-      "lon": 3.978345290534, 
+      "lat": 50.965539876005, 
+      "lon": 3.978264909018, 
       "municipality": "Lede", 
       "pcode": "9340", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "19_1-19_3"
-      ], 
-      "housenumber": "19_1", 
-      "lat": 50.965501623138, 
-      "lon": 3.97827746957, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Markt"
     }, 
     {
@@ -158,7 +146,7 @@
         "B"
       ], 
       "hnrlbls": [
-        "19_1-19_3"
+        "19_2-19_3"
       ], 
       "housenumber": "19_2", 
       "lat": 50.965501623138, 
@@ -173,7 +161,7 @@
         "A"
       ], 
       "hnrlbls": [
-        "19_1-19_3"
+        "19_2-19_3"
       ], 
       "housenumber": "19_3", 
       "lat": 50.965501623138, 

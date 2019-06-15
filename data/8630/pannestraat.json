@@ -404,11 +404,11 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.076284085835, 
-      "lon": 2.653304342755, 
+      "lat": 51.076584959471, 
+      "lon": 2.653374095621, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Pannestraat"
     }, 
     {
@@ -457,6 +457,18 @@
       "municipality": "Veurne", 
       "pcode": "8630", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Pannestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.074480485512, 
+      "lon": 2.660118114211, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "afgeleidVanGebouw", 
       "street": "Pannestraat"
     }, 
     {
@@ -867,11 +879,11 @@
         "180A"
       ], 
       "housenumber": "180A", 
-      "lat": 51.077871152226, 
-      "lon": 2.649084046921, 
+      "lat": 51.077942392554, 
+      "lon": 2.649517622128, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Pannestraat"
     }, 
     {
@@ -1376,6 +1388,18 @@
       "municipality": "Veurne", 
       "pcode": "8630", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Pannestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "221A"
+      ], 
+      "housenumber": "221A", 
+      "lat": 51.08107793, 
+      "lon": 2.642810360622, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pannestraat"
     }, 
     {

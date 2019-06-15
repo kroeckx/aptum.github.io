@@ -205,22 +205,15 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "apptnrs": [
-        "1A", 
-        "2A", 
-        "2B", 
-        "3A", 
-        "3B"
-      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.850470406372, 
-      "lon": 2.884496644679, 
+      "lat": 50.850400444502, 
+      "lon": 2.8844745655, 
       "municipality": "Ieper", 
       "pcode": "8900", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boomgaardstraat"
     }, 
     {
@@ -376,11 +369,6 @@
       "street": "Boomgaardstraat"
     }, 
     {
-      "apptnrs": [
-        "2A", 
-        "3A", 
-        "GLVA"
-      ], 
       "hnrlbls": [
         "30"
       ], 

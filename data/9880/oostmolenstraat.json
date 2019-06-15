@@ -277,6 +277,38 @@
       "street": "Oostmolenstraat"
     }, 
     {
+      "busnrs": [
+        "1A", 
+        "1B", 
+        "1C", 
+        "1D", 
+        "1E", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "2E", 
+        "3A", 
+        "3B", 
+        "3C", 
+        "3D", 
+        "3E", 
+        "4A", 
+        "4B", 
+        "4C"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.092951567056, 
+      "lon": 3.446238545982, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Oostmolenstraat"
+    }, 
+    {
       "hnrlbls": [
         "131"
       ], 
@@ -437,8 +469,8 @@
         "144A"
       ], 
       "housenumber": "144A", 
-      "lat": 51.102172560143, 
-      "lon": 3.457767398309, 
+      "lat": 51.102172316947, 
+      "lon": 3.457770829765, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -2043,8 +2075,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.097390544488, 
-      "lon": 3.450070794063, 
+      "lat": 51.097391237977, 
+      "lon": 3.450067496837, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 

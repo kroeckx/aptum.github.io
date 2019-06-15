@@ -261,7 +261,7 @@
     }, 
     {
       "hnrlbls": [
-        "34"
+        "34-34A"
       ], 
       "housenumber": "34", 
       "lat": 51.185450402453, 
@@ -269,6 +269,18 @@
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint-Pietersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "34-34A"
+      ], 
+      "housenumber": "34A", 
+      "lat": 51.185450402453, 
+      "lon": 3.003681345194, 
+      "municipality": "Oudenburg", 
+      "pcode": "8460", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Pietersstraat"
     }, 
     {
@@ -627,8 +639,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.185845192157, 
-      "lon": 3.005031917429, 
+      "lat": 51.185860591278, 
+      "lon": 3.004917314122, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -651,8 +663,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.185860862538, 
-      "lon": 3.004917449246, 
+      "lat": 51.185845192157, 
+      "lon": 3.005031917429, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 

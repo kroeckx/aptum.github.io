@@ -65,8 +65,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.964991542053, 
-      "lon": 3.996967307697, 
+      "lat": 50.964993449079, 
+      "lon": 3.996973413798, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 50.965017975907, 
-      "lon": 3.996855066334, 
+      "lat": 50.96501322023, 
+      "lon": 3.996857808699, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -127,6 +127,70 @@
       "housenumber": "33", 
       "lat": 50.966441432928, 
       "lon": 3.99427281532, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Spoorstraat"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 50.96681974575, 
+      "lon": 3.99366463148, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Spoorstraat"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.966871737156, 
+      "lon": 3.993562144844, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Spoorstraat"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 50.966947165115, 
+      "lon": 3.993423453821, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Spoorstraat"
+    }, 
+    {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 50.967001568842, 
+      "lon": 3.993316391854, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -262,6 +326,38 @@
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
+      "street": "Spoorstraat"
+    }, 
+    {
+      "apptnrs": [
+        "11"
+      ], 
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.968515029849, 
+      "lon": 3.990484916156, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Spoorstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.968577318205, 
+      "lon": 3.990342619678, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Spoorstraat"
     }, 
     {

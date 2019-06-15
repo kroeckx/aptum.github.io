@@ -557,8 +557,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 50.757216637312, 
-      "lon": 3.911613445115, 
+      "lat": 50.757208917163, 
+      "lon": 3.911593253083, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1248,8 +1248,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.756081545152, 
-      "lon": 3.912206076085, 
+      "lat": 50.756076266406, 
+      "lon": 3.912120243148, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1308,8 +1308,8 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 50.754227443598, 
-      "lon": 3.915861476829, 
+      "lat": 50.754228253207, 
+      "lon": 3.915861610773, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1392,8 +1392,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.76788887948, 
-      "lon": 3.899234985689, 
+      "lat": 50.767871161395, 
+      "lon": 3.899255433562, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1528,6 +1528,7 @@
         "4"
       ], 
       "hnrlbls": [
+        "212J", 
         "212A-212K"
       ], 
       "housenumber": "212J", 
@@ -1869,8 +1870,8 @@
         "236"
       ], 
       "housenumber": "236", 
-      "lat": 50.751505210832, 
-      "lon": 3.918990045771, 
+      "lat": 50.75156060688, 
+      "lon": 3.919041666611, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -1881,8 +1882,8 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 50.751509052738, 
-      "lon": 3.919077585304, 
+      "lat": 50.751487104589, 
+      "lon": 3.919074251787, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -2085,11 +2086,11 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 50.753771562065, 
-      "lon": 3.915418598344, 
+      "lat": 50.75377000315, 
+      "lon": 3.915410677238, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Edingseweg"
     }, 
     {
@@ -2989,8 +2990,8 @@
         "331"
       ], 
       "housenumber": "331", 
-      "lat": 50.751308837457, 
-      "lon": 3.91823207748, 
+      "lat": 50.751263725655, 
+      "lon": 3.918189854096, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -3260,8 +3261,8 @@
         "403"
       ], 
       "housenumber": "403", 
-      "lat": 50.745795299918, 
-      "lon": 3.920781758738, 
+      "lat": 50.745797020395, 
+      "lon": 3.920785001314, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3284,8 +3285,8 @@
         "405"
       ], 
       "housenumber": "405", 
-      "lat": 50.745773615977, 
-      "lon": 3.921153480314, 
+      "lat": 50.745785061349, 
+      "lon": 3.921184402231, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -5226,6 +5227,54 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Edingseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "603A"
+      ], 
+      "housenumber": "603A", 
+      "lat": 50.740368056147, 
+      "lon": 3.943530662838, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Edingseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "603B"
+      ], 
+      "housenumber": "603B", 
+      "lat": 50.740318102826, 
+      "lon": 3.943638219291, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Edingseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "603C"
+      ], 
+      "housenumber": "603C", 
+      "lat": 50.740278131467, 
+      "lon": 3.943721884228, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Edingseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "603D"
+      ], 
+      "housenumber": "603D", 
+      "lat": 50.740225660877, 
+      "lon": 3.943829462937, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Edingseweg"
     }, 
     {

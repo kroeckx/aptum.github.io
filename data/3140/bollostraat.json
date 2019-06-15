@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.998750718508, 
-      "lon": 4.665699803105, 
+      "lat": 50.99874928747, 
+      "lon": 4.665696944908, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -34,6 +34,30 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bollostraat"
+    }, 
+    {
+      "hnrlbls": [
+        "101"
+      ], 
+      "housenumber": "101", 
+      "lat": 51.001057286768, 
+      "lon": 4.687192511126, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bollostraat"
+    }, 
+    {
+      "hnrlbls": [
+        "103"
+      ], 
+      "housenumber": "103", 
+      "lat": 51.001087032371, 
+      "lon": 4.687593175974, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bollostraat"
     }, 
     {
@@ -185,11 +209,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.001325462827, 
-      "lon": 4.690873024926, 
+      "lat": 51.001245566163, 
+      "lon": 4.690834009399, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bollostraat"
     }, 
     {
@@ -257,8 +281,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.001721439999, 
-      "lon": 4.689722645589, 
+      "lat": 51.00173491728, 
+      "lon": 4.689725017552, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -449,8 +473,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.002278106402, 
-      "lon": 4.696084734906, 
+      "lat": 51.002282401665, 
+      "lon": 4.696091745827, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -593,8 +617,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.997763489093, 
-      "lon": 4.66396857736, 
+      "lat": 50.997761352503, 
+      "lon": 4.663960301636, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -605,11 +629,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.999371501949, 
-      "lon": 4.669236114839, 
+      "lat": 50.999312924321, 
+      "lon": 4.669329047643, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bollostraat"
     }, 
     {
@@ -809,8 +833,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.000577115589, 
-      "lon": 4.671794626605, 
+      "lat": 51.000571146432, 
+      "lon": 4.671808691533, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -821,8 +845,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.998333238356, 
-      "lon": 4.66464085466, 
+      "lat": 50.998335478791, 
+      "lon": 4.664643575468, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1073,8 +1097,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.003135002537, 
-      "lon": 4.67700148617, 
+      "lat": 51.003134018608, 
+      "lon": 4.676999627589, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1325,8 +1349,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.002407553408, 
-      "lon": 4.682583940624, 
+      "lat": 51.002381639168, 
+      "lon": 4.68259345437, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 

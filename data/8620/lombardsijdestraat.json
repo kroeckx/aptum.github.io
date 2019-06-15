@@ -26,14 +26,14 @@
         "303"
       ], 
       "hnrlbls": [
-        "2-10A"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.150994353167, 
-      "lon": 2.7226537733, 
+      "lat": 51.151053037397, 
+      "lon": 2.722787368464, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lombardsijdestraat"
     }, 
     {
@@ -46,24 +46,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanStraat", 
-      "street": "Lombardsijdestraat"
-    }, 
-    {
-      "busnrs": [
-        "103", 
-        "3", 
-        "4", 
-        "403"
-      ], 
-      "hnrlbls": [
-        "2-10A"
-      ], 
-      "housenumber": "10A", 
-      "lat": 51.150994353167, 
-      "lon": 2.7226537733, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
       "street": "Lombardsijdestraat"
     }, 
     {
@@ -166,14 +148,14 @@
         "901"
       ], 
       "hnrlbls": [
-        "2-8A"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.151244561974, 
-      "lon": 2.723859925367, 
+      "lat": 51.151310879906, 
+      "lon": 2.723812273432, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lombardsijdestraat"
     }, 
     {
@@ -227,14 +209,14 @@
         "801"
       ], 
       "hnrlbls": [
-        "2-8A"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.151244561974, 
-      "lon": 2.723859925367, 
+      "lat": 51.151277980877, 
+      "lon": 2.723522376653, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lombardsijdestraat"
     }, 
     {
@@ -409,18 +391,6 @@
       "housenumber": "5K", 
       "lat": 51.150994409637, 
       "lon": 2.72151657477, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lombardsijdestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2-8A"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.151244561974, 
-      "lon": 2.723859925367, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -631,29 +601,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-8A"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.151244561974, 
-      "lon": 2.723859925367, 
+      "lat": 51.151248339059, 
+      "lon": 2.723259812759, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lombardsijdestraat"
-    }, 
-    {
-      "apptnrs": [
-        "12"
-      ], 
-      "hnrlbls": [
-        "2-8A"
-      ], 
-      "housenumber": "8A", 
-      "lat": 51.151244561974, 
-      "lon": 2.723859925367, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lombardsijdestraat"
     }, 
     {

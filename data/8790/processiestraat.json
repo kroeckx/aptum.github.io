@@ -53,18 +53,6 @@
     }, 
     {
       "hnrlbls": [
-        "102"
-      ], 
-      "housenumber": "102", 
-      "lat": 50.884485205479, 
-      "lon": 3.42448093859, 
-      "municipality": "Waregem", 
-      "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Processiestraat"
-    }, 
-    {
-      "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
@@ -522,7 +510,7 @@
       "lon": 3.426212696776, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Processiestraat"
     }, 
     {
@@ -839,6 +827,12 @@
       "street": "Processiestraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "21"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -847,7 +841,7 @@
       "lon": 3.425405334405, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Processiestraat"
     }, 
     {
@@ -1072,7 +1066,7 @@
       "lon": 3.424662077606, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Processiestraat"
     }
   ]

@@ -55,6 +55,18 @@
       "t": 51.039358004402
     }, 
     {
+      "b": 51.161557297196, 
+      "l": 3.825861997441, 
+      "name": "Albert De Smetstraat", 
+      "numOfAddr": 1, 
+      "otherPCs": [
+        "9042"
+      ], 
+      "r": 3.825861997441, 
+      "sanName": "albertdesmetstraat", 
+      "t": 51.161557297196
+    }, 
+    {
       "b": 51.039627926546, 
       "l": 3.745454451792, 
       "name": "Alexis Dalli\u00e8restraat", 
@@ -157,26 +169,26 @@
       "b": 51.037637490707, 
       "l": 3.742299070833, 
       "name": "August Van Lokerenstraat", 
-      "numOfAddr": 101, 
+      "numOfAddr": 100, 
       "r": 3.743730965055, 
       "sanName": "augustvanlokerenstraat", 
       "t": 51.039984602722
     }, 
     {
       "b": 51.044230953219, 
-      "l": 3.747577861326, 
+      "l": 3.747571234585, 
       "name": "Bassijnstraat", 
-      "numOfAddr": 31, 
+      "numOfAddr": 32, 
       "r": 3.749066011644, 
       "sanName": "bassijnstraat", 
       "t": 51.045670084309
     }, 
     {
-      "b": 51.037058725595, 
+      "b": 51.036972375925, 
       "l": 3.735659426243, 
       "name": "Bellevue", 
-      "numOfAddr": 10, 
-      "r": 3.736581243543, 
+      "numOfAddr": 5, 
+      "r": 3.736672088377, 
       "sanName": "bellevue", 
       "t": 51.037580642652
     }, 
@@ -289,10 +301,19 @@
       "t": 51.035838954283
     }, 
     {
+      "b": 51.045647320603, 
+      "l": 3.756513984053, 
+      "name": "Breestraat", 
+      "numOfAddr": 8, 
+      "r": 3.757197637705, 
+      "sanName": "breestraat", 
+      "t": 51.046345861944
+    }, 
+    {
       "b": 51.031051770045, 
       "l": 3.762775413162, 
       "name": "Bruiloftstraat", 
-      "numOfAddr": 103, 
+      "numOfAddr": 101, 
       "r": 3.772330281388, 
       "sanName": "bruiloftstraat", 
       "t": 51.033740550192
@@ -301,7 +322,7 @@
       "b": 51.025684592166, 
       "l": 3.740709933192, 
       "name": "Brusselsesteenweg", 
-      "numOfAddr": 688, 
+      "numOfAddr": 690, 
       "r": 3.772434627302, 
       "sanName": "brusselsesteenweg", 
       "t": 51.041908045692
@@ -400,7 +421,7 @@
       "b": 51.037954790781, 
       "l": 3.741181671532, 
       "name": "Driesstraat", 
-      "numOfAddr": 114, 
+      "numOfAddr": 113, 
       "r": 3.746367900924, 
       "sanName": "driesstraat", 
       "t": 51.0388507833
@@ -619,7 +640,7 @@
       "b": 51.038767765941, 
       "l": 3.746902741784, 
       "name": "Frederik Burvenichstraat", 
-      "numOfAddr": 238, 
+      "numOfAddr": 237, 
       "r": 3.761727014847, 
       "sanName": "frederikburvenichstraat", 
       "t": 51.040989311475
@@ -634,7 +655,7 @@
       "t": 51.036106831621
     }, 
     {
-      "b": 51.035291062765, 
+      "b": 51.035337832635, 
       "l": 3.734584041048, 
       "name": "Gaston Crommenlaan", 
       "numOfAddr": 10, 
@@ -643,10 +664,10 @@
       "t": 51.037050816143
     }, 
     {
-      "b": 51.046050016167, 
+      "b": 51.045953093786, 
       "l": 3.75820587785, 
       "name": "Gentbruggeaard", 
-      "numOfAddr": 34, 
+      "numOfAddr": 35, 
       "r": 3.759310294973, 
       "sanName": "gentbruggeaard", 
       "t": 51.047130770976
@@ -655,10 +676,10 @@
       "b": 51.044596384162, 
       "l": 3.759627588318, 
       "name": "Gentbruggekouter", 
-      "numOfAddr": 101, 
+      "numOfAddr": 104, 
       "r": 3.772195390192, 
       "sanName": "gentbruggekouter", 
-      "t": 51.048570602713
+      "t": 51.049137394364
     }, 
     {
       "b": 51.044344869112, 
@@ -742,10 +763,10 @@
       "t": 51.036623629597
     }, 
     {
-      "b": 51.037820237901, 
+      "b": 51.037817688268, 
       "l": 3.739772128815, 
       "name": "Harmoniestraat", 
-      "numOfAddr": 30, 
+      "numOfAddr": 31, 
       "r": 3.74086346436, 
       "sanName": "harmoniestraat", 
       "t": 51.038017789382
@@ -823,13 +844,13 @@
       "t": 51.023418585652
     }, 
     {
-      "b": 51.040227865351, 
+      "b": 51.0391978106, 
       "l": 3.76629333091, 
       "name": "Het Kamp", 
-      "numOfAddr": 16, 
-      "r": 3.76715962492, 
+      "numOfAddr": 36, 
+      "r": 3.768091219614, 
       "sanName": "hetkamp", 
-      "t": 51.040498550791
+      "t": 51.040409648514
     }, 
     {
       "b": 51.035182062297, 
@@ -907,7 +928,7 @@
       "b": 51.022382106087, 
       "l": 3.738324683288, 
       "name": "Hundelgemsesteenweg", 
-      "numOfAddr": 335, 
+      "numOfAddr": 326, 
       "r": 3.752873902611, 
       "sanName": "hundelgemsesteenweg", 
       "t": 51.037597621678
@@ -970,7 +991,7 @@
       "b": 51.043371497251, 
       "l": 3.753395362848, 
       "name": "Jan Dhondtstraat", 
-      "numOfAddr": 43, 
+      "numOfAddr": 44, 
       "r": 3.755203214442, 
       "sanName": "jandhondtstraat", 
       "t": 51.043583295781
@@ -1105,7 +1126,7 @@
       "b": 51.026928078803, 
       "l": 3.755409633354, 
       "name": "Jules de Saint-Genoisstraat", 
-      "numOfAddr": 163, 
+      "numOfAddr": 164, 
       "r": 3.760827102361, 
       "sanName": "julesdesaintgenoisstraat", 
       "t": 51.031487375516
@@ -1159,7 +1180,7 @@
       "b": 51.043229393594, 
       "l": 3.744889937075, 
       "name": "Kerkstraat", 
-      "numOfAddr": 259, 
+      "numOfAddr": 263, 
       "r": 3.758136164389, 
       "sanName": "kerkstraat", 
       "t": 51.045595785936
@@ -1249,10 +1270,10 @@
       "b": 51.037583686178, 
       "l": 3.740587946475, 
       "name": "Landjuweelstraat", 
-      "numOfAddr": 67, 
+      "numOfAddr": 57, 
       "r": 3.741309128219, 
       "sanName": "landjuweelstraat", 
-      "t": 51.038740927449
+      "t": 51.038688899799
     }, 
     {
       "b": 51.035195649621, 
@@ -1267,7 +1288,7 @@
       "b": 51.033450231995, 
       "l": 3.742201735808, 
       "name": "Langestraat", 
-      "numOfAddr": 245, 
+      "numOfAddr": 247, 
       "r": 3.745128898098, 
       "sanName": "langestraat", 
       "t": 51.039334937113
@@ -1321,7 +1342,7 @@
       "b": 51.040675466756, 
       "l": 3.750922085128, 
       "name": "Leo Tertzweillaan", 
-      "numOfAddr": 93, 
+      "numOfAddr": 98, 
       "r": 3.754624001015, 
       "sanName": "leotertzweillaan", 
       "t": 51.043883009624
@@ -1507,6 +1528,15 @@
       "t": 51.046328149079
     }, 
     {
+      "b": 51.045755515079, 
+      "l": 3.756914283576, 
+      "name": "Neelkens Stuk", 
+      "numOfAddr": 11, 
+      "r": 3.757489579254, 
+      "sanName": "neelkensstuk", 
+      "t": 51.04602794565
+    }, 
+    {
       "b": 51.037659032274, 
       "l": 3.757662238876, 
       "name": "Neerhofstraat", 
@@ -1552,11 +1582,11 @@
       "t": 51.032441337467
     }, 
     {
-      "b": 51.0387605873, 
+      "b": 51.038740706673, 
       "l": 3.739782325624, 
       "name": "Onderwijsstraat", 
-      "numOfAddr": 20, 
-      "r": 3.740801794791, 
+      "numOfAddr": 21, 
+      "r": 3.740835412642, 
       "sanName": "onderwijsstraat", 
       "t": 51.038952005245
     }, 
@@ -1568,6 +1598,24 @@
       "r": 3.774986596052, 
       "sanName": "ooievaarsnest", 
       "t": 51.036068714059
+    }, 
+    {
+      "b": 51.046064712186, 
+      "l": 3.757808399951, 
+      "name": "Opstalmeerspad", 
+      "numOfAddr": 10, 
+      "r": 3.757946035894, 
+      "sanName": "opstalmeerspad", 
+      "t": 51.046547801349
+    }, 
+    {
+      "b": 51.04589107287, 
+      "l": 3.758021882174, 
+      "name": "Opstalpad", 
+      "numOfAddr": 1, 
+      "r": 3.758021882174, 
+      "sanName": "opstalpad", 
+      "t": 51.04589107287
     }, 
     {
       "b": 51.027536181975, 
@@ -1591,7 +1639,7 @@
       "b": 51.035961510125, 
       "l": 3.743898968748, 
       "name": "Oude Brusselseweg", 
-      "numOfAddr": 258, 
+      "numOfAddr": 262, 
       "r": 3.757356077009, 
       "sanName": "oudebrusselseweg", 
       "t": 51.042254178422
@@ -1880,9 +1928,9 @@
       "l": 3.741743336382, 
       "name": "Scheldekaai", 
       "numOfAddr": 15, 
-      "r": 3.744368103661, 
+      "r": 3.744103873433, 
       "sanName": "scheldekaai", 
-      "t": 51.045078759838
+      "t": 51.04496049974
     }, 
     {
       "b": 51.031991848326, 
@@ -2056,7 +2104,7 @@
       "t": 51.027681408118
     }, 
     {
-      "b": 51.043177627593, 
+      "b": 51.04319416674, 
       "l": 3.752758981681, 
       "name": "Tweekapellenstraat", 
       "numOfAddr": 150, 
@@ -2257,7 +2305,7 @@
       "b": 51.035904451069, 
       "l": 3.741600157943, 
       "name": "Willem Blanckestraat", 
-      "numOfAddr": 51, 
+      "numOfAddr": 50, 
       "r": 3.743452461651, 
       "sanName": "willemblanckestraat", 
       "t": 51.036257435972

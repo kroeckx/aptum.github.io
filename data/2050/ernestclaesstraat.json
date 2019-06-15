@@ -167,11 +167,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.224403883577, 
-      "lon": 4.381084815396, 
+      "lat": 51.224130988472, 
+      "lon": 4.38115774194, 
       "municipality": "Antwerpen", 
       "pcode": "2050", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ernest Claesstraat"
     }, 
     {
@@ -430,6 +430,18 @@
       "street": "Ernest Claesstraat"
     }, 
     {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.224174531362, 
+      "lon": 4.381607938446, 
+      "municipality": "Antwerpen", 
+      "pcode": "2050", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ernest Claesstraat"
+    }, 
+    {
       "busnrs": [
         "K1", 
         "K10", 
@@ -596,11 +608,23 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.224408737693, 
-      "lon": 4.381081238162, 
+      "lat": 51.224677119726, 
+      "lon": 4.381178937602, 
       "municipality": "Antwerpen", 
       "pcode": "2050", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ernest Claesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.224219831851, 
+      "lon": 4.381615967618, 
+      "municipality": "Antwerpen", 
+      "pcode": "2050", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ernest Claesstraat"
     }, 
     {

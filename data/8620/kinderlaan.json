@@ -27,76 +27,104 @@
       "street": "Kinderlaan"
     }, 
     {
-      "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 51.140307277432, 
-      "lon": 2.7081754908, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
-      "street": "Kinderlaan"
-    }, 
-    {
       "busnrs": [
         "1", 
+        "10", 
+        "11", 
         "110", 
         "112", 
         "113", 
         "117", 
         "118", 
+        "12", 
         "126", 
         "127", 
+        "13", 
         "130", 
         "138", 
+        "14", 
+        "15", 
         "16", 
+        "17", 
         "170", 
         "178", 
         "18", 
         "19", 
         "197", 
+        "2", 
         "20", 
         "201", 
+        "21", 
         "218", 
+        "22", 
         "221", 
         "224", 
+        "23", 
         "230", 
         "232", 
         "234", 
+        "24", 
         "240", 
+        "25", 
         "253", 
         "26", 
+        "27", 
+        "28", 
         "280", 
         "282", 
+        "29", 
+        "3", 
+        "30", 
         "308", 
+        "31", 
         "310", 
         "316", 
+        "32", 
         "325", 
+        "33", 
+        "34", 
         "343", 
         "346", 
+        "35", 
         "354", 
+        "36", 
         "366", 
         "367", 
+        "37", 
         "379", 
+        "38", 
         "381", 
         "385", 
+        "39", 
         "391", 
+        "4", 
+        "40", 
         "408", 
+        "41", 
         "412", 
         "416", 
+        "42", 
         "424", 
+        "43", 
         "434", 
         "439", 
+        "44", 
         "440", 
         "443", 
+        "45", 
         "451", 
         "456", 
+        "46", 
         "462", 
         "464", 
+        "47", 
         "472", 
+        "48", 
         "480", 
+        "49", 
         "493", 
+        "5", 
+        "50", 
         "500", 
         "504", 
         "507", 
@@ -107,23 +135,60 @@
         "517", 
         "52", 
         "523", 
+        "53", 
         "533", 
         "534", 
         "536", 
         "538", 
+        "54", 
         "540", 
         "544", 
         "545", 
         "549", 
+        "55", 
         "554", 
         "555", 
+        "56", 
+        "57", 
+        "58", 
         "59", 
         "6", 
+        "60", 
+        "61", 
+        "62", 
         "63", 
         "64", 
+        "65", 
+        "66", 
+        "67", 
+        "68", 
+        "69", 
+        "7", 
+        "70", 
+        "71", 
+        "72", 
+        "73", 
         "74", 
+        "75", 
+        "76", 
+        "77", 
+        "78", 
+        "79", 
+        "8", 
+        "80", 
         "81", 
-        "85"
+        "82", 
+        "83", 
+        "84", 
+        "85", 
+        "86", 
+        "87", 
+        "88", 
+        "89", 
+        "9", 
+        "90", 
+        "91", 
+        "92"
       ], 
       "hnrlbls": [
         "19"
@@ -134,213 +199,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_10"
-      ], 
-      "housenumber": "19_10", 
-      "lat": 51.134300435271, 
-      "lon": 2.714687694386, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_11"
-      ], 
-      "housenumber": "19_11", 
-      "lat": 51.134357578928, 
-      "lon": 2.714614362992, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_12"
-      ], 
-      "housenumber": "19_12", 
-      "lat": 51.134413919763, 
-      "lon": 2.714541488548, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_13"
-      ], 
-      "housenumber": "19_13", 
-      "lat": 51.134470534148, 
-      "lon": 2.714468890048, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_14"
-      ], 
-      "housenumber": "19_14", 
-      "lat": 51.134526697163, 
-      "lon": 2.714396164448, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_15"
-      ], 
-      "housenumber": "19_15", 
-      "lat": 51.134583844638, 
-      "lon": 2.714323118008, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_16"
-      ], 
-      "housenumber": "19_16", 
-      "lat": 51.134640361013, 
-      "lon": 2.714249950829, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_17"
-      ], 
-      "housenumber": "19_17", 
-      "lat": 51.134696358174, 
-      "lon": 2.714178230898, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_2"
-      ], 
-      "housenumber": "19_2", 
-      "lat": 51.134558562959, 
-      "lon": 2.713988332268, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "19_220"
-      ], 
-      "housenumber": "19_220", 
-      "lat": 51.137757184938, 
-      "lon": 2.713675259194, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_3"
-      ], 
-      "housenumber": "19_3", 
-      "lat": 51.134488343981, 
-      "lon": 2.714078132963, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanStandplaats", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_4-19_4"
-      ], 
-      "housenumber": "19_4", 
-      "lat": 51.134416701116, 
-      "lon": 2.714168984127, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_5"
-      ], 
-      "housenumber": "19_5", 
-      "lat": 51.13434579311, 
-      "lon": 2.714260952216, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_6"
-      ], 
-      "housenumber": "19_6", 
-      "lat": 51.134282352222, 
-      "lon": 2.714366088521, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_7"
-      ], 
-      "housenumber": "19_7", 
-      "lat": 51.134209906353, 
-      "lon": 2.714457395971, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_8"
-      ], 
-      "housenumber": "19_8", 
-      "lat": 51.134141125251, 
-      "lon": 2.714560005595, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Kinderlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19_9"
-      ], 
-      "housenumber": "19_9", 
-      "lat": 51.134224805679, 
-      "lon": 2.714769968282, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Kinderlaan"
     }, 
     {
@@ -360,8 +218,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.140825544134, 
-      "lon": 2.709239141547, 
+      "lat": 51.139724552591, 
+      "lon": 2.708902654022, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

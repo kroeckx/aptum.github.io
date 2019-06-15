@@ -29,8 +29,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.837539427329, 
-      "lon": 4.029203387103, 
+      "lat": 50.837589074939, 
+      "lon": 4.029180882383, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -77,8 +77,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.837544166997, 
-      "lon": 4.029412612569, 
+      "lat": 50.837590558123, 
+      "lon": 4.029320851473, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -105,8 +105,8 @@
         "106-106A"
       ], 
       "housenumber": "106", 
-      "lat": 50.837811394435, 
-      "lon": 4.029214062134, 
+      "lat": 50.83791084974, 
+      "lon": 4.029162236777, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -117,8 +117,8 @@
         "106-106A"
       ], 
       "housenumber": "106A", 
-      "lat": 50.837811394435, 
-      "lon": 4.029214062134, 
+      "lat": 50.83791084974, 
+      "lon": 4.029162236777, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -129,8 +129,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.83769872124, 
-      "lon": 4.029544948945, 
+      "lat": 50.837691650414, 
+      "lon": 4.029431141819, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -149,12 +149,39 @@
       "street": "Pamelstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "109"
+      ], 
+      "housenumber": "109", 
+      "lat": 50.837703922262, 
+      "lon": 4.029478186697, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pamelstraat"
+    }, 
+    {
       "hnrlbls": [
         "110"
       ], 
       "housenumber": "110", 
       "lat": 50.83784902711, 
       "lon": 4.029326797526, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pamelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "111"
+      ], 
+      "housenumber": "111", 
+      "lat": 50.837664058471, 
+      "lon": 4.029557833625, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -217,11 +244,11 @@
         "5"
       ], 
       "hnrlbls": [
-        "116-118"
+        "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.838084548529, 
-      "lon": 4.02941780632, 
+      "lat": 50.837890796628, 
+      "lon": 4.029502395227, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -244,7 +271,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "116-118"
+        "118"
       ], 
       "housenumber": "118", 
       "lat": 50.838084548529, 
@@ -343,8 +370,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.837811303781, 
-      "lon": 4.029961240296, 
+      "lat": 50.83783483565, 
+      "lon": 4.029953972674, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -604,11 +631,11 @@
     }, 
     {
       "hnrlbls": [
-        "146-148"
+        "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.838165410485, 
-      "lon": 4.030275000912, 
+      "lat": 50.838159684566, 
+      "lon": 4.030253320788, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -628,11 +655,11 @@
     }, 
     {
       "hnrlbls": [
-        "146-148"
+        "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.838165410485, 
-      "lon": 4.030275000912, 
+      "lat": 50.838172405146, 
+      "lon": 4.030300221154, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -655,8 +682,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.838198427269, 
-      "lon": 4.030377265429, 
+      "lat": 50.838153820838, 
+      "lon": 4.03037105523, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1573,8 +1600,8 @@
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 50.838796640423, 
-      "lon": 4.033339735592, 
+      "lat": 50.838832259203, 
+      "lon": 4.033315204962, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1743,11 +1770,11 @@
     }, 
     {
       "hnrlbls": [
-        "249-253"
+        "249"
       ], 
       "housenumber": "249", 
-      "lat": 50.838982717356, 
-      "lon": 4.033872649545, 
+      "lat": 50.838989157855, 
+      "lon": 4.033829870343, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1755,11 +1782,11 @@
     }, 
     {
       "hnrlbls": [
-        "249-253"
+        "251"
       ], 
       "housenumber": "251", 
-      "lat": 50.838982717356, 
-      "lon": 4.033872649545, 
+      "lat": 50.839002468964, 
+      "lon": 4.033895224597, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1779,11 +1806,11 @@
     }, 
     {
       "hnrlbls": [
-        "249-253"
+        "253"
       ], 
       "housenumber": "253", 
-      "lat": 50.838982717356, 
-      "lon": 4.033872649545, 
+      "lat": 50.839012689648, 
+      "lon": 4.033948675237, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1806,8 +1833,8 @@
         "255"
       ], 
       "housenumber": "255", 
-      "lat": 50.839018799943, 
-      "lon": 4.033979297678, 
+      "lat": 50.83902490214, 
+      "lon": 4.034007080753, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1839,11 +1866,11 @@
     }, 
     {
       "hnrlbls": [
-        "258-260"
+        "258"
       ], 
       "housenumber": "258", 
-      "lat": 50.839255100405, 
-      "lon": 4.033777153667, 
+      "lat": 50.839233638758, 
+      "lon": 4.033753880842, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1875,11 +1902,11 @@
     }, 
     {
       "hnrlbls": [
-        "258-260"
+        "260"
       ], 
       "housenumber": "260", 
-      "lat": 50.839255100405, 
-      "lon": 4.033777153667, 
+      "lat": 50.839244777875, 
+      "lon": 4.033814139854, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1894,7 +1921,7 @@
       "lon": 4.034161045171, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Pamelstraat"
     }, 
     {
@@ -3076,11 +3103,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "54-62"
+        "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.837374372809, 
-      "lon": 4.027866682722, 
+      "lat": 50.837351376927, 
+      "lon": 4.027810772299, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3088,7 +3115,7 @@
     }, 
     {
       "hnrlbls": [
-        "54-62"
+        "54A-62"
       ], 
       "housenumber": "54A", 
       "lat": 50.837374372809, 
@@ -3118,11 +3145,11 @@
         "4"
       ], 
       "hnrlbls": [
-        "54-62"
+        "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.837374372809, 
-      "lon": 4.027866682722, 
+      "lat": 50.837383078748, 
+      "lon": 4.027923832313, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3142,7 +3169,7 @@
     }, 
     {
       "hnrlbls": [
-        "54-62"
+        "54A-62"
       ], 
       "housenumber": "58", 
       "lat": 50.837374372809, 
@@ -3154,7 +3181,7 @@
     }, 
     {
       "hnrlbls": [
-        "54-62"
+        "54A-62"
       ], 
       "housenumber": "58A", 
       "lat": 50.837374372809, 
@@ -3190,7 +3217,7 @@
     }, 
     {
       "hnrlbls": [
-        "54-62"
+        "54A-62"
       ], 
       "housenumber": "60", 
       "lat": 50.837374372809, 
@@ -3202,7 +3229,7 @@
     }, 
     {
       "hnrlbls": [
-        "54-62"
+        "54A-62"
       ], 
       "housenumber": "60A", 
       "lat": 50.837374372809, 
@@ -3226,7 +3253,7 @@
     }, 
     {
       "hnrlbls": [
-        "54-62"
+        "54A-62"
       ], 
       "housenumber": "62", 
       "lat": 50.837374372809, 

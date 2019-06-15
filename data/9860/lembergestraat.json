@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.96862941594, 
-      "lon": 3.791351387729, 
+      "lat": 50.970112776148, 
+      "lon": 3.790840393001, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Lembergestraat"
     }, 
     {
@@ -89,11 +89,11 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 50.970015603309, 
-      "lon": 3.791317393728, 
+      "lat": 50.970031086939, 
+      "lon": 3.791358490889, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lembergestraat"
     }, 
     {
@@ -101,11 +101,11 @@
         "15B"
       ], 
       "housenumber": "15B", 
-      "lat": 50.96996890076, 
-      "lon": 3.791399404464, 
+      "lat": 50.970139925189, 
+      "lon": 3.791280271442, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lembergestraat"
     }, 
     {
@@ -125,8 +125,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.970174913831, 
-      "lon": 3.791229299061, 
+      "lat": 50.970142046637, 
+      "lon": 3.791181297141, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -139,54 +139,6 @@
       "housenumber": "19", 
       "lat": 50.970573278844, 
       "lon": 3.790889821438, 
-      "municipality": "Oosterzele", 
-      "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lembergestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 50.96862941594, 
-      "lon": 3.791351387729, 
-      "municipality": "Oosterzele", 
-      "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lembergestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1B"
-      ], 
-      "housenumber": "1B", 
-      "lat": 50.968925620333, 
-      "lon": 3.79109518362, 
-      "municipality": "Oosterzele", 
-      "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lembergestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1C"
-      ], 
-      "housenumber": "1C", 
-      "lat": 50.969261373189, 
-      "lon": 3.790600021528, 
-      "municipality": "Oosterzele", 
-      "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lembergestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1D"
-      ], 
-      "housenumber": "1D", 
-      "lat": 50.968594269259, 
-      "lon": 3.79193865604, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -257,8 +209,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.970389675579, 
-      "lon": 3.791431672701, 
+      "lat": 50.97031311356, 
+      "lon": 3.791492410637, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -269,8 +221,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.971191512481, 
-      "lon": 3.790438001021, 
+      "lat": 50.971206986308, 
+      "lon": 3.790458739456, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -305,18 +257,14 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.968953328421, 
-      "lon": 3.792842550873, 
+      "lat": 50.968865862364, 
+      "lon": 3.792732577267, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Lembergestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -402,54 +350,6 @@
     }, 
     {
       "hnrlbls": [
-        "3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 50.968613649514, 
-      "lon": 3.792041206762, 
-      "municipality": "Oosterzele", 
-      "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lembergestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3B"
-      ], 
-      "housenumber": "3B", 
-      "lat": 50.968636880161, 
-      "lon": 3.792103989896, 
-      "municipality": "Oosterzele", 
-      "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lembergestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3C"
-      ], 
-      "housenumber": "3C", 
-      "lat": 50.968662212388, 
-      "lon": 3.79217372326, 
-      "municipality": "Oosterzele", 
-      "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lembergestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3D-3_2"
-      ], 
-      "housenumber": "3D", 
-      "lat": 50.968704230628, 
-      "lon": 3.792309879581, 
-      "municipality": "Oosterzele", 
-      "pcode": "9860", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Lembergestraat"
-    }, 
-    {
-      "hnrlbls": [
         "3E"
       ], 
       "housenumber": "3E", 
@@ -474,7 +374,7 @@
     }, 
     {
       "hnrlbls": [
-        "3D-3_2"
+        "3_1-3_2"
       ], 
       "housenumber": "3_1", 
       "lat": 50.968704230628, 
@@ -486,7 +386,7 @@
     }, 
     {
       "hnrlbls": [
-        "3D-3_2"
+        "3_1-3_2"
       ], 
       "housenumber": "3_2", 
       "lat": 50.968704230628, 
@@ -513,8 +413,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.971320070957, 
-      "lon": 3.788120258601, 
+      "lat": 50.971434440711, 
+      "lon": 3.788143332367, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -585,8 +485,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.969115984594, 
-      "lon": 3.791931960212, 
+      "lat": 50.969152182561, 
+      "lon": 3.7920543794, 
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 

@@ -371,27 +371,55 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "0.01", 
+        "0.02"
+      ], 
       "hnrlbls": [
-        "134"
+        "134-134A"
       ], 
       "housenumber": "134", 
-      "lat": 50.921667013891, 
-      "lon": 5.342396455948, 
+      "lat": 50.921609564972, 
+      "lon": 5.342277494942, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "0.01", 
+        "0.02"
+      ], 
+      "hnrlbls": [
+        "134-134A"
+      ], 
+      "housenumber": "134A", 
+      "lat": 50.921609564972, 
+      "lon": 5.342277494942, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Luikersteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0.01", 
+        "0.02", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02"
+      ], 
       "hnrlbls": [
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.921608577692, 
-      "lon": 5.34255909423, 
+      "lat": 50.921652377115, 
+      "lon": 5.342578636167, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -569,6 +597,59 @@
       "street": "Luikersteenweg"
     }, 
     {
+      "busnrs": [
+        "0.01", 
+        "0.02", 
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "3.01"
+      ], 
+      "hnrlbls": [
+        "148A", 
+        "148A-148B"
+      ], 
+      "housenumber": "148A", 
+      "lat": 50.920195063998, 
+      "lon": 5.343707248585, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Luikersteenweg"
+    }, 
+    {
+      "busnrs": [
+        "0.01", 
+        "0.02", 
+        "1.01", 
+        "1.02", 
+        "2.01"
+      ], 
+      "hnrlbls": [
+        "148B", 
+        "148A-148B"
+      ], 
+      "housenumber": "148B", 
+      "lat": 50.920195063998, 
+      "lon": 5.343707248585, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Luikersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "148C"
+      ], 
+      "housenumber": "148C", 
+      "lat": 50.91996719641, 
+      "lon": 5.343844169856, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Luikersteenweg"
+    }, 
+    {
       "apptnrs": [
         "1", 
         "2"
@@ -613,8 +694,8 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 50.919884407908, 
-      "lon": 5.343918682229, 
+      "lat": 50.919882539216, 
+      "lon": 5.34391636774, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -863,8 +944,8 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 50.918696198453, 
-      "lon": 5.344523030342, 
+      "lat": 50.91868616683, 
+      "lon": 5.344540172884, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1238,8 +1319,8 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 50.91874593992, 
-      "lon": 5.345330615291, 
+      "lat": 50.918727608105, 
+      "lon": 5.345297237706, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1250,8 +1331,8 @@
         "202"
       ], 
       "housenumber": "202", 
-      "lat": 50.918672510658, 
-      "lon": 5.345306614992, 
+      "lat": 50.918687864419, 
+      "lon": 5.345341352764, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1262,8 +1343,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 50.918658295447, 
-      "lon": 5.345405164225, 
+      "lat": 50.918638920522, 
+      "lon": 5.345367498252, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1705,8 +1786,8 @@
         "248"
       ], 
       "housenumber": "248", 
-      "lat": 50.912638322223, 
-      "lon": 5.351824527499, 
+      "lat": 50.912667545107, 
+      "lon": 5.351834667725, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1717,8 +1798,8 @@
         "248A"
       ], 
       "housenumber": "248A", 
-      "lat": 50.91228658953, 
-      "lon": 5.352193996935, 
+      "lat": 50.912306377703, 
+      "lon": 5.352246458583, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1838,8 +1919,8 @@
         "256A"
       ], 
       "housenumber": "256A", 
-      "lat": 50.91119101474, 
-      "lon": 5.353388551662, 
+      "lat": 50.911195792215, 
+      "lon": 5.353397752807, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1862,8 +1943,8 @@
         "258"
       ], 
       "housenumber": "258", 
-      "lat": 50.911027082482, 
-      "lon": 5.353564994098, 
+      "lat": 50.911028473716, 
+      "lon": 5.353559904091, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2974,8 +3055,8 @@
         "329"
       ], 
       "housenumber": "329", 
-      "lat": 50.906435105304, 
-      "lon": 5.35672978693, 
+      "lat": 50.906435537858, 
+      "lon": 5.356721122657, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -3156,8 +3237,8 @@
         "337"
       ], 
       "housenumber": "337", 
-      "lat": 50.906187299531, 
-      "lon": 5.356766228586, 
+      "lat": 50.906187736989, 
+      "lon": 5.356767659657, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -3336,8 +3417,8 @@
         "358"
       ], 
       "housenumber": "358", 
-      "lat": 50.901012676532, 
-      "lon": 5.356731329552, 
+      "lat": 50.901015149047, 
+      "lon": 5.356736641915, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -3439,8 +3520,8 @@
         "364"
       ], 
       "housenumber": "364", 
-      "lat": 50.900664782883, 
-      "lon": 5.35653605617, 
+      "lat": 50.900665132853, 
+      "lon": 5.356537200891, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -3646,8 +3727,8 @@
         "384"
       ], 
       "housenumber": "384", 
-      "lat": 50.894683635324, 
-      "lon": 5.355465697542, 
+      "lat": 50.894684433493, 
+      "lon": 5.355520442459, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4347,8 +4428,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.924850270908, 
-      "lon": 5.337816642478, 
+      "lat": 50.924856424353, 
+      "lon": 5.337833554191, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -4420,11 +4501,11 @@
         "546B"
       ], 
       "housenumber": "546B", 
-      "lat": 50.881813194914, 
-      "lon": 5.356061591232, 
+      "lat": 50.88176032359, 
+      "lon": 5.355977201528, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -4564,8 +4645,8 @@
         "607"
       ], 
       "housenumber": "607", 
-      "lat": 50.892101486672, 
-      "lon": 5.354287761737, 
+      "lat": 50.892098156791, 
+      "lon": 5.354309581847, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

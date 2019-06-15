@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.887244446072, 
+      "lon": 3.354024951658, 
+      "municipality": "Waregem", 
+      "pcode": "8792", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kleine Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
@@ -178,6 +190,42 @@
       "municipality": "Waregem", 
       "pcode": "8792", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kleine Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.887439642674, 
+      "lon": 3.353902200771, 
+      "municipality": "Waregem", 
+      "pcode": "8792", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kleine Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.88736696119, 
+      "lon": 3.353939160545, 
+      "municipality": "Waregem", 
+      "pcode": "8792", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Kleine Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.887318513496, 
+      "lon": 3.353961099728, 
+      "municipality": "Waregem", 
+      "pcode": "8792", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kleine Nieuwstraat"
     }
   ]

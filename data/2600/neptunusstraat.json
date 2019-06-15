@@ -35,6 +35,11 @@
       "street": "Neptunusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -88,6 +93,11 @@
       "street": "Neptunusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -269,8 +279,10 @@
       "street": "Neptunusstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "34"
@@ -755,8 +767,11 @@
       "street": "Neptunusstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "91"
@@ -767,18 +782,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Neptunusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "91B"
-      ], 
-      "housenumber": "91B", 
-      "lat": 51.202603725405, 
-      "lon": 4.443129369439, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Neptunusstraat"
     }, 
     {

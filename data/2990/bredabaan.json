@@ -1394,8 +1394,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.409913064336, 
-      "lon": 4.612243137281, 
+      "lat": 51.409905938374, 
+      "lon": 4.612211913405, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
@@ -2451,8 +2451,8 @@
         "263"
       ], 
       "housenumber": "263", 
-      "lat": 51.398112856668, 
-      "lon": 4.602171372066, 
+      "lat": 51.398112317124, 
+      "lon": 4.602171513026, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
@@ -4084,6 +4084,11 @@
       "street": "Bredabaan"
     }, 
     {
+      "busnrs": [
+        "bus1", 
+        "bus2", 
+        "bus3"
+      ], 
       "hnrlbls": [
         "41"
       ], 

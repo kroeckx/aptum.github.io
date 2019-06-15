@@ -373,6 +373,32 @@
       "street": "Lutlommel"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.231910121386, 
+      "lon": 5.332988541582, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lutlommel"
+    }, 
+    {
       "hnrlbls": [
         "140"
       ], 
@@ -454,6 +480,54 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Lutlommel"
+    }, 
+    {
+      "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 51.231738279772, 
+      "lon": 5.333326321147, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lutlommel"
+    }, 
+    {
+      "hnrlbls": [
+        "14B"
+      ], 
+      "housenumber": "14B", 
+      "lat": 51.231718575394, 
+      "lon": 5.333251460509, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lutlommel"
+    }, 
+    {
+      "hnrlbls": [
+        "14C"
+      ], 
+      "housenumber": "14C", 
+      "lat": 51.231686727291, 
+      "lon": 5.333166612404, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lutlommel"
+    }, 
+    {
+      "hnrlbls": [
+        "14D"
+      ], 
+      "housenumber": "14D", 
+      "lat": 51.231650755277, 
+      "lon": 5.333091415139, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lutlommel"
     }, 
     {
@@ -575,6 +649,18 @@
       "housenumber": "166", 
       "lat": 51.232076058648, 
       "lon": 5.349386017293, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lutlommel"
+    }, 
+    {
+      "hnrlbls": [
+        "166A"
+      ], 
+      "housenumber": "166A", 
+      "lat": 51.232138917999, 
+      "lon": 5.349491289154, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanPerceel", 

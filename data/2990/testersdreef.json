@@ -38,14 +38,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-1071"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.394051202094, 
-      "lon": 4.600382935021, 
+      "lat": 51.358773207694, 
+      "lon": 4.534244542944, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Testersdreef"
     }, 
     {
@@ -62,14 +62,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-1071"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.394051202094, 
-      "lon": 4.600382935021, 
+      "lat": 51.358761919485, 
+      "lon": 4.53434671561, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Testersdreef"
     }, 
     {
@@ -106,6 +106,18 @@
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
       "source": "afgeleidVanGebouw", 
+      "street": "Testersdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.358739052177, 
+      "lon": 4.534630016401, 
+      "municipality": "Wuustwezel", 
+      "pcode": "2990", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Testersdreef"
     }, 
     {

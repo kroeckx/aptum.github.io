@@ -29,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.834785083633, 
-      "lon": 5.355716487622, 
+      "lat": 50.834789274498, 
+      "lon": 5.355763283762, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanGebouw", 
@@ -332,19 +332,24 @@
       "street": "Kortessemstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.834092127035, 
-      "lon": 5.355169836185, 
+      "lat": 50.834131070759, 
+      "lon": 5.35515730879, 
       "municipality": "Wellen", 
       "pcode": "3830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kortessemstraat"
     }, 
     {
@@ -364,8 +369,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.836063358579, 
-      "lon": 5.359898629819, 
+      "lat": 50.836061357042, 
+      "lon": 5.359901427073, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanGebouw", 
@@ -376,8 +381,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.836118006826, 
-      "lon": 5.359953306873, 
+      "lat": 50.836126861592, 
+      "lon": 5.35993745061, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanGebouw", 
@@ -504,22 +509,6 @@
       "street": "Kortessemstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 50.83409194248, 
-      "lon": 5.355170400182, 
-      "municipality": "Wellen", 
-      "pcode": "3830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kortessemstraat"
-    }, 
-    {
       "hnrlbls": [
         "4"
       ], 
@@ -560,8 +549,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.83745113445, 
-      "lon": 5.362898656591, 
+      "lat": 50.837443351151, 
+      "lon": 5.362904738934, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanGebouw", 
@@ -572,8 +561,8 @@
         "41A"
       ], 
       "housenumber": "41A", 
-      "lat": 50.837518090679, 
-      "lon": 5.363102534519, 
+      "lat": 50.837511117097, 
+      "lon": 5.36311914037, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanGebouw", 
@@ -804,8 +793,8 @@
         "51A"
       ], 
       "housenumber": "51A", 
-      "lat": 50.838425165857, 
-      "lon": 5.365320168294, 
+      "lat": 50.838424239216, 
+      "lon": 5.365323414204, 
       "municipality": "Wellen", 
       "pcode": "3830", 
       "source": "afgeleidVanGebouw", 

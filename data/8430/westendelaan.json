@@ -1990,12 +1990,21 @@
       "street": "Westendelaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
-        "24"
+        "2A-30"
       ], 
       "housenumber": "24", 
-      "lat": 51.184652239729, 
-      "lon": 2.819489079581, 
+      "lat": 51.184548463642, 
+      "lon": 2.819267645431, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2016,15 +2025,22 @@
     {
       "apptnrs": [
         "0001", 
+        "0002", 
         "0101", 
-        "0201"
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
       ], 
       "hnrlbls": [
-        "26"
+        "2A-30"
       ], 
       "housenumber": "26", 
-      "lat": 51.184606058029, 
-      "lon": 2.819367873192, 
+      "lat": 51.184548463642, 
+      "lon": 2.819267645431, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2043,12 +2059,22 @@
       "street": "Westendelaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
-        "28"
+        "2A-30"
       ], 
       "housenumber": "28", 
-      "lat": 51.184556215427, 
-      "lon": 2.819317170373, 
+      "lat": 51.184548463642, 
+      "lon": 2.819267645431, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2079,12 +2105,33 @@
       "street": "Westendelaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403"
+      ], 
       "hnrlbls": [
-        "30"
+        "2A-30"
       ], 
       "housenumber": "30", 
-      "lat": 51.184502128375, 
-      "lon": 2.819258168468, 
+      "lat": 51.184548463642, 
+      "lon": 2.819267645431, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2330,8 +2377,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.184488740601, 
-      "lon": 2.819752572279, 
+      "lat": 51.184478594489, 
+      "lon": 2.819705558685, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2546,8 +2593,8 @@
         "97_16"
       ], 
       "housenumber": "97_16", 
-      "lat": 51.176082355796, 
-      "lon": 2.804919984653, 
+      "lat": 51.176071131183, 
+      "lon": 2.80496856074, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 

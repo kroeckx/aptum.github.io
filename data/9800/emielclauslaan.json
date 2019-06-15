@@ -26,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "98-100"
+        "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.987762430132, 
-      "lon": 3.581557412036, 
+      "lat": 50.987789953599, 
+      "lon": 3.581452122499, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -53,8 +53,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.987906552907, 
-      "lon": 3.582259732752, 
+      "lat": 50.98790726629, 
+      "lon": 3.582258866215, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -65,8 +65,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.987930780131, 
-      "lon": 3.582778053763, 
+      "lat": 50.987932684855, 
+      "lon": 3.582780585571, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -245,11 +245,11 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 50.988691636293, 
-      "lon": 3.585904636745, 
+      "lat": 50.988708581984, 
+      "lon": 3.585857351511, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -257,11 +257,11 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.988771382974, 
-      "lon": 3.58637931251, 
+      "lat": 50.988766378272, 
+      "lon": 3.5861673152, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -269,11 +269,11 @@
         "118A"
       ], 
       "housenumber": "118A", 
-      "lat": 50.988802060687, 
-      "lon": 3.586626347256, 
+      "lat": 50.988822187726, 
+      "lon": 3.58651662397, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -293,8 +293,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.985321317397, 
-      "lon": 3.569022565146, 
+      "lat": 50.985328578833, 
+      "lon": 3.56901959291, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -413,8 +413,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.985842564894, 
-      "lon": 3.569079477539, 
+      "lat": 50.985843288819, 
+      "lon": 3.569080177313, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -497,8 +497,8 @@
         "136A"
       ], 
       "housenumber": "136A", 
-      "lat": 50.98978380394, 
-      "lon": 3.590967054753, 
+      "lat": 50.989789407512, 
+      "lon": 3.590957988443, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -569,8 +569,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.990213990654, 
-      "lon": 3.590101601604, 
+      "lat": 50.99021426408, 
+      "lon": 3.590102166809, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -629,8 +629,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.985844799799, 
-      "lon": 3.569143814708, 
+      "lat": 50.985844273055, 
+      "lon": 3.569145675188, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -939,8 +939,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.98600609294, 
-      "lon": 3.570086900538, 
+      "lat": 50.985975411709, 
+      "lon": 3.570109498597, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1023,8 +1023,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.986067203506, 
-      "lon": 3.570388937887, 
+      "lat": 50.986047287397, 
+      "lon": 3.570394973821, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1082,6 +1082,27 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Emiel Clauslaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.985912818126, 
+      "lon": 3.571910083144, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1197,8 +1218,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.986071319039, 
-      "lon": 3.573414376516, 
+      "lat": 50.986062731746, 
+      "lon": 3.573407400936, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1269,11 +1290,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.987227437868, 
-      "lon": 3.572889583246, 
+      "lat": 50.987088503518, 
+      "lon": 3.572936235387, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1293,11 +1314,11 @@
         "57A"
       ], 
       "housenumber": "57A", 
-      "lat": 50.986842024906, 
-      "lon": 3.573577489263, 
+      "lat": 50.986856455138, 
+      "lon": 3.573424706224, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1305,11 +1326,11 @@
         "57B"
       ], 
       "housenumber": "57B", 
-      "lat": 50.986915438508, 
-      "lon": 3.574025457308, 
+      "lat": 50.986823360804, 
+      "lon": 3.574115179123, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1317,8 +1338,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.986473831593, 
-      "lon": 3.574993026211, 
+      "lat": 50.986474541082, 
+      "lon": 3.574991589955, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1432,8 +1453,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.986827728153, 
-      "lon": 3.576390503308, 
+      "lat": 50.986823318935, 
+      "lon": 3.576389865662, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1486,11 +1507,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.986925509974, 
-      "lon": 3.576894464837, 
+      "lat": 50.986919957139, 
+      "lon": 3.576897549532, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1574,8 +1595,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.987164865791, 
-      "lon": 3.577972157089, 
+      "lat": 50.987168875283, 
+      "lon": 3.577966819693, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1646,8 +1667,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.985777873424, 
-      "lon": 3.568846294653, 
+      "lat": 50.985812582845, 
+      "lon": 3.56882120597, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1655,7 +1676,7 @@
     }, 
     {
       "hnrlbls": [
-        "90-92"
+        "90"
       ], 
       "housenumber": "90", 
       "lat": 50.987252315261, 
@@ -1672,18 +1693,6 @@
       "housenumber": "91", 
       "lat": 50.987821790938, 
       "lon": 3.578689605955, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Emiel Clauslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "90-92"
-      ], 
-      "housenumber": "92", 
-      "lat": 50.987252315261, 
-      "lon": 3.579858698257, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1718,11 +1727,11 @@
         "95-95K"
       ], 
       "housenumber": "95", 
-      "lat": 50.988158852855, 
-      "lon": 3.579902274517, 
+      "lat": 50.988138703824, 
+      "lon": 3.579913865354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1730,11 +1739,11 @@
         "95-95K"
       ], 
       "housenumber": "95A", 
-      "lat": 50.988158852855, 
-      "lon": 3.579902274517, 
+      "lat": 50.988138703824, 
+      "lon": 3.579913865354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1742,11 +1751,11 @@
         "95-95K"
       ], 
       "housenumber": "95C", 
-      "lat": 50.988158852855, 
-      "lon": 3.579902274517, 
+      "lat": 50.988138703824, 
+      "lon": 3.579913865354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1754,11 +1763,11 @@
         "95-95K"
       ], 
       "housenumber": "95D", 
-      "lat": 50.988158852855, 
-      "lon": 3.579902274517, 
+      "lat": 50.988138703824, 
+      "lon": 3.579913865354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1766,11 +1775,11 @@
         "95-95K"
       ], 
       "housenumber": "95E", 
-      "lat": 50.988158852855, 
-      "lon": 3.579902274517, 
+      "lat": 50.988138703824, 
+      "lon": 3.579913865354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1778,11 +1787,11 @@
         "95-95K"
       ], 
       "housenumber": "95F", 
-      "lat": 50.988158852855, 
-      "lon": 3.579902274517, 
+      "lat": 50.988138703824, 
+      "lon": 3.579913865354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1790,11 +1799,11 @@
         "95-95K"
       ], 
       "housenumber": "95G", 
-      "lat": 50.988158852855, 
-      "lon": 3.579902274517, 
+      "lat": 50.988138703824, 
+      "lon": 3.579913865354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1802,11 +1811,11 @@
         "95-95K"
       ], 
       "housenumber": "95J", 
-      "lat": 50.988158852855, 
-      "lon": 3.579902274517, 
+      "lat": 50.988138703824, 
+      "lon": 3.579913865354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1814,11 +1823,11 @@
         "95-95K"
       ], 
       "housenumber": "95K", 
-      "lat": 50.988158852855, 
-      "lon": 3.579902274517, 
+      "lat": 50.988138703824, 
+      "lon": 3.579913865354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Emiel Clauslaan"
     }, 
     {
@@ -1838,23 +1847,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.988161615455, 
-      "lon": 3.580462405158, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Emiel Clauslaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "98-100"
-      ], 
-      "housenumber": "98", 
-      "lat": 50.987762430132, 
-      "lon": 3.581557412036, 
+      "lat": 50.988142213629, 
+      "lon": 3.58045133684, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanPerceelGrb", 

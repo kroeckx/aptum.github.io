@@ -2,26 +2,38 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
+        "15"
       ], 
-      "housenumber": "10", 
-      "lat": 51.198759328151, 
-      "lon": 4.416755746756, 
+      "housenumber": "15", 
+      "lat": 51.198333858265, 
+      "lon": 4.417300088788, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Coveliersstraat"
     }, 
     {
       "hnrlbls": [
-        "2"
+        "6"
       ], 
-      "housenumber": "2", 
-      "lat": 51.199074392822, 
-      "lon": 4.416490831532, 
+      "housenumber": "6", 
+      "lat": 51.198935024017, 
+      "lon": 4.416825173829, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Coveliersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.198562980869, 
+      "lon": 4.417067994217, 
+      "municipality": "Antwerpen", 
+      "pcode": "2600", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Coveliersstraat"
     }
   ]

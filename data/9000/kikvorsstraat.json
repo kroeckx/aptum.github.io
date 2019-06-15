@@ -1,6 +1,30 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.024058402773, 
+      "lon": 3.720406917547, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kikvorsstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -749,11 +773,11 @@
         "11-13"
       ], 
       "housenumber": "11", 
-      "lat": 51.023959079977, 
-      "lon": 3.719983960819, 
+      "lat": 51.02396643893, 
+      "lon": 3.719981720929, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kikvorsstraat"
     }, 
     {
@@ -2201,11 +2225,11 @@
         "11-13"
       ], 
       "housenumber": "13", 
-      "lat": 51.023959079977, 
-      "lon": 3.719983960819, 
+      "lat": 51.02396643893, 
+      "lon": 3.719981720929, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kikvorsstraat"
     }, 
     {
@@ -5990,6 +6014,18 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.024037180703, 
+      "lon": 3.720307578057, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kikvorsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -7802,6 +7838,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.024014470949, 
+      "lon": 3.720199279443, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kikvorsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "34-86"
       ], 
       "housenumber": "50", 
@@ -9247,6 +9295,18 @@
       "housenumber": "699", 
       "lat": 51.022127650243, 
       "lon": 3.71547184079, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kikvorsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.023991042, 
+      "lon": 3.720090990884, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

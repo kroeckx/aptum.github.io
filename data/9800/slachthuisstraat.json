@@ -89,8 +89,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.988670614345, 
-      "lon": 3.526683176909, 
+      "lat": 50.988666129486, 
+      "lon": 3.526672005253, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -240,17 +240,22 @@
       "street": "Slachthuisstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.988990286549, 
-      "lon": 3.526381317873, 
+      "lat": 50.989012733105, 
+      "lon": 3.526339751375, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -282,38 +287,14 @@
     }, 
     {
       "hnrlbls": [
-        "30A"
+        "30"
       ], 
-      "housenumber": "30A", 
-      "lat": 50.989034103058, 
-      "lon": 3.526298489043, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Slachthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30B"
-      ], 
-      "housenumber": "30B", 
+      "housenumber": "30", 
       "lat": 50.989112332307, 
       "lon": 3.526514722989, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Slachthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30C"
-      ], 
-      "housenumber": "30C", 
-      "lat": 50.989120181106, 
-      "lon": 3.526506035998, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Slachthuisstraat"
     }, 
     {

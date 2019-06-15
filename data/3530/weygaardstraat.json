@@ -191,8 +191,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.044330643045, 
-      "lon": 5.343583150527, 
+      "lat": 51.044343957243, 
+      "lon": 5.343571163979, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +257,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.044456797505, 
-      "lon": 5.346559961574, 
+      "lat": 51.044470299917, 
+      "lon": 5.346557819558, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -530,11 +530,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.042382144502, 
-      "lon": 5.340677581196, 
+      "lat": 51.042391946329, 
+      "lon": 5.340644559266, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Weygaardstraat"
     }, 
     {
@@ -811,6 +811,18 @@
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
+      "street": "Weygaardstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 51.041681083321, 
+      "lon": 5.339593393879, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Weygaardstraat"
     }, 
     {

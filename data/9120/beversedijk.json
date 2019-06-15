@@ -41,21 +41,33 @@
     }, 
     {
       "hnrlbls": [
-        "12"
+        "12A"
       ], 
-      "housenumber": "12", 
-      "lat": 51.252107828449, 
-      "lon": 4.274386609726, 
+      "housenumber": "12A", 
+      "lat": 51.252102441384, 
+      "lon": 4.274394068451, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Beverse Dijk"
     }, 
     {
       "hnrlbls": [
-        "12A"
+        "12B"
       ], 
-      "housenumber": "12A", 
+      "housenumber": "12B", 
+      "lat": 51.252094377283, 
+      "lon": 4.274312587511, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Beverse Dijk"
+    }, 
+    {
+      "hnrlbls": [
+        "12C"
+      ], 
+      "housenumber": "12C", 
       "lat": 51.252085746452, 
       "lon": 4.274196589621, 
       "municipality": "Beveren", 
@@ -723,8 +735,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.252206737359, 
-      "lon": 4.274661840411, 
+      "lat": 51.252202646499, 
+      "lon": 4.274831288597, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 

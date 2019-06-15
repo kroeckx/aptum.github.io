@@ -7,6 +7,7 @@
         "0202", 
         "0302", 
         "0401", 
+        "0601", 
         "10", 
         "2", 
         "3", 
@@ -24,7 +25,7 @@
       "lon": 2.906385089136, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gelijkheidstraat"
     }, 
     {
@@ -161,15 +162,13 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
         "0102", 
-        "0302", 
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "118"
@@ -179,7 +178,7 @@
       "lon": 2.900393343853, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gelijkheidstraat"
     }, 
     {
@@ -793,9 +792,6 @@
       "street": "Gelijkheidstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "172A"
       ], 
@@ -808,9 +804,6 @@
       "street": "Gelijkheidstraat"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "172B"
       ], 
@@ -823,9 +816,6 @@
       "street": "Gelijkheidstraat"
     }, 
     {
-      "busnrs": [
-        "C000"
-      ], 
       "hnrlbls": [
         "172C"
       ], 
@@ -838,9 +828,6 @@
       "street": "Gelijkheidstraat"
     }, 
     {
-      "busnrs": [
-        "D000"
-      ], 
       "hnrlbls": [
         "172D"
       ], 
@@ -945,8 +932,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.215096736902, 
-      "lon": 2.905598840643, 
+      "lat": 51.215146421895, 
+      "lon": 2.905647239182, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1068,8 +1055,8 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 51.216592628446, 
-      "lon": 2.894300521637, 
+      "lat": 51.216591760779, 
+      "lon": 2.894295825184, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1140,8 +1127,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.215115811142, 
-      "lon": 2.906414156436, 
+      "lat": 51.215114307813, 
+      "lon": 2.906408907277, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1444,7 +1431,6 @@
     }, 
     {
       "busnrs": [
-        "02", 
         "2"
       ], 
       "hnrlbls": [
@@ -1961,8 +1947,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.215112272283, 
-      "lon": 2.90612798178, 
+      "lat": 51.215112005839, 
+      "lon": 2.906120976137, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1981,9 +1967,6 @@
       "street": "Gelijkheidstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "80A"
       ], 

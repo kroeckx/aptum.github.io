@@ -41,136 +41,26 @@
       "street": "Marktstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
-      ], 
-      "hnrlbls": [
-        "13-13B"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.882179203647, 
-      "lon": 4.476528881966, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Marktstraat"
-    }, 
-    {
-      "busnrs": [
-        "01", 
-        "02", 
-        "11", 
-        "12", 
-        "21", 
-        "22", 
-        "31", 
-        "32"
-      ], 
-      "hnrlbls": [
-        "13-13B"
-      ], 
-      "housenumber": "13A", 
-      "lat": 50.882179203647, 
-      "lon": 4.476528881966, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Marktstraat"
-    }, 
-    {
       "apptnrs": [
         "001", 
         "002", 
-        "003", 
-        "004", 
-        "005", 
-        "006", 
         "011", 
         "012", 
-        "013", 
-        "014", 
-        "015", 
-        "016", 
         "021", 
         "022", 
-        "023", 
-        "024", 
-        "025", 
-        "026", 
         "031", 
         "032", 
-        "033", 
-        "034", 
-        "035", 
-        "036"
+        "041"
       ], 
       "hnrlbls": [
-        "13-13B"
-      ], 
-      "housenumber": "13B", 
-      "lat": 50.882179203647, 
-      "lon": 4.476528881966, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Marktstraat"
-    }, 
-    {
-      "apptnrs": [
-        "0.2", 
-        "1.1", 
-        "3.2"
-      ], 
-      "busnrs": [
-        "1", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "31", 
-        "32", 
-        "41"
-      ], 
-      "hnrlbls": [
-        "15-17D"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.881882766196, 
-      "lon": 4.476297285191, 
+      "lat": 50.882043723668, 
+      "lon": 4.475855866118, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Marktstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "23", 
-        "31", 
-        "32", 
-        "41"
-      ], 
-      "hnrlbls": [
-        "15-17D"
-      ], 
-      "housenumber": "15A", 
-      "lat": 50.881882766196, 
-      "lon": 4.476297285191, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -187,114 +77,25 @@
     }, 
     {
       "apptnrs": [
-        "2.8", 
-        "3.1"
-      ], 
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "31", 
-        "32", 
-        "41", 
-        "42"
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041"
       ], 
       "hnrlbls": [
-        "15-17D"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.881882766196, 
-      "lon": 4.476297285191, 
+      "lat": 50.881914673772, 
+      "lon": 4.475911983652, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Marktstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22"
-      ], 
-      "hnrlbls": [
-        "15-17D"
-      ], 
-      "housenumber": "17A", 
-      "lat": 50.881882766196, 
-      "lon": 4.476297285191, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Marktstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "15-17D"
-      ], 
-      "housenumber": "17B", 
-      "lat": 50.881882766196, 
-      "lon": 4.476297285191, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Marktstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "15-17D"
-      ], 
-      "housenumber": "17C", 
-      "lat": 50.881882766196, 
-      "lon": 4.476297285191, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Marktstraat"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "15-17D"
-      ], 
-      "housenumber": "17D", 
-      "lat": 50.881882766196, 
-      "lon": 4.476297285191, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -307,6 +108,30 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Marktstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041", 
+        "042"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.881768837804, 
+      "lon": 4.47603953837, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -362,6 +187,27 @@
       "street": "Marktstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041"
+      ], 
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.881810124488, 
+      "lon": 4.476402413638, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Marktstraat"
+    }, 
+    {
       "hnrlbls": [
         "22"
       ], 
@@ -371,6 +217,28 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Marktstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041"
+      ], 
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.881856303195, 
+      "lon": 4.476626185189, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -386,6 +254,28 @@
       "street": "Marktstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041"
+      ], 
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.881894156084, 
+      "lon": 4.476812423528, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Marktstraat"
+    }, 
+    {
       "hnrlbls": [
         "26"
       ], 
@@ -395,6 +285,28 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Marktstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.881926115883, 
+      "lon": 4.476955308006, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {
@@ -476,23 +388,23 @@
       "street": "Marktstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
-        "28-36"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.881421728955, 
-      "lon": 4.477138014148, 
+      "lat": 50.881507341315, 
+      "lon": 4.477102546169, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marktstraat"
     }, 
     {

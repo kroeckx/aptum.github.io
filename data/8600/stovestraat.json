@@ -170,18 +170,24 @@
       "street": "Stovestraat"
     }, 
     {
-      "busnrs": [
-        "11"
+      "apptnrs": [
+        "4/0001", 
+        "4/0011", 
+        "4/0012", 
+        "4/0013", 
+        "4/0021", 
+        "4/0022", 
+        "4/0031"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.034177869026, 
-      "lon": 2.86280036773, 
+      "lat": 51.034153447079, 
+      "lon": 2.862809993687, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stovestraat"
     }, 
     {

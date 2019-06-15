@@ -1,24 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
-        "1-3"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.001998710742, 
-      "lon": 4.988243275893, 
-      "municipality": "Scherpenheuvel-Zichem", 
-      "pcode": "3271", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Ernest Claesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.002682698844, 
-      "lon": 4.987529432372, 
+      "lat": 51.002008310391, 
+      "lon": 4.988008044184, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
@@ -509,8 +507,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.014384905567, 
-      "lon": 4.990153276068, 
+      "lat": 51.014408970801, 
+      "lon": 4.99017525673, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
@@ -647,8 +645,8 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 51.003073689422, 
-      "lon": 4.987436154043, 
+      "lat": 51.003072712371, 
+      "lon": 4.987485151571, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
@@ -760,18 +758,6 @@
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ernest Claesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1-3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.001998710742, 
-      "lon": 4.988243275893, 
-      "municipality": "Scherpenheuvel-Zichem", 
-      "pcode": "3271", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Ernest Claesstraat"
     }, 
     {
@@ -1295,18 +1281,6 @@
     }, 
     {
       "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.002129270461, 
-      "lon": 4.988049251298, 
-      "municipality": "Scherpenheuvel-Zichem", 
-      "pcode": "3271", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ernest Claesstraat"
-    }, 
-    {
-      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
@@ -1416,18 +1390,6 @@
       "housenumber": "79", 
       "lat": 51.006218588884, 
       "lon": 4.989711422251, 
-      "municipality": "Scherpenheuvel-Zichem", 
-      "pcode": "3271", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ernest Claesstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.002651385003, 
-      "lon": 4.987381560893, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 

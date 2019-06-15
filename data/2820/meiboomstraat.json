@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.016006208129, 
+      "lon": 4.631041444838, 
+      "municipality": "Bonheiden", 
+      "pcode": "2820", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Meiboomstraat"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -110,11 +122,35 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.017485273895, 
+      "lon": 4.628494794735, 
+      "municipality": "Bonheiden", 
+      "pcode": "2820", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Meiboomstraat"
+    }, 
+    {
+      "hnrlbls": [
         "3A"
       ], 
       "housenumber": "3A", 
       "lat": 51.016433144498, 
       "lon": 4.630860860747, 
+      "municipality": "Bonheiden", 
+      "pcode": "2820", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Meiboomstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.016716692906, 
+      "lon": 4.630604794288, 
       "municipality": "Bonheiden", 
       "pcode": "2820", 
       "source": "manueleAanduidingVanGebouw", 
@@ -142,18 +178,6 @@
       "municipality": "Bonheiden", 
       "pcode": "2820", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Meiboomstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7A"
-      ], 
-      "housenumber": "7A", 
-      "lat": 51.017515580938, 
-      "lon": 4.628447934275, 
-      "municipality": "Bonheiden", 
-      "pcode": "2820", 
-      "source": "afgeleidVanGebouw", 
       "street": "Meiboomstraat"
     }, 
     {

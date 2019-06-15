@@ -145,9 +145,6 @@
       "street": "Paul Lambertlaan"
     }, 
     {
-      "apptnrs": [
-        "B"
-      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -352,6 +349,9 @@
       "street": "Paul Lambertlaan"
     }, 
     {
+      "apptnrs": [
+        "24"
+      ], 
       "busnrs": [
         "1", 
         "10", 
@@ -719,8 +719,7 @@
         "6", 
         "7", 
         "8", 
-        "9", 
-        "K9"
+        "9"
       ], 
       "hnrlbls": [
         "56"

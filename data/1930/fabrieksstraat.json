@@ -38,18 +38,6 @@
     }, 
     {
       "hnrlbls": [
-        "112"
-      ], 
-      "housenumber": "112", 
-      "lat": 50.887464617647, 
-      "lon": 4.462384130867, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Fabrieksstraat"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -436,7 +424,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37A"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 50.88570190167, 
@@ -444,18 +432,6 @@
       "municipality": "Zaventem", 
       "pcode": "1930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Fabrieksstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37-37A"
-      ], 
-      "housenumber": "37A", 
-      "lat": 50.88570190167, 
-      "lon": 4.463804262756, 
-      "municipality": "Zaventem", 
-      "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Fabrieksstraat"
     }, 
     {
@@ -604,6 +580,18 @@
     }, 
     {
       "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.887960481438, 
+      "lon": 4.461925942778, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Fabrieksstraat"
+    }, 
+    {
+      "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
@@ -619,11 +607,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.888105742806, 
-      "lon": 4.461822912832, 
+      "lat": 50.887968513694, 
+      "lon": 4.462223128046, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Fabrieksstraat"
     }, 
     {

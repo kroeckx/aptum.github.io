@@ -36,8 +36,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.216754841086, 
-      "lon": 2.88883972272, 
+      "lat": 51.216685856929, 
+      "lon": 2.888902033525, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -96,8 +96,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.216573799313, 
-      "lon": 2.888474999355, 
+      "lat": 51.216574672902, 
+      "lon": 2.888472967562, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -168,6 +168,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0102", 
         "0202", 
         "1", 
@@ -285,8 +286,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.215890512848, 
-      "lon": 2.887036593517, 
+      "lat": 51.215887425129, 
+      "lon": 2.887034114966, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -380,9 +381,6 @@
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "37A"
       ], 
@@ -524,11 +522,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.216312320689, 
-      "lon": 2.885507981893, 
+      "lat": 51.216309568098, 
+      "lon": 2.885553733391, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold Van Tyghemlaan"
     }, 
     {
@@ -749,8 +747,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.216803359256, 
-      "lon": 2.887422729348, 
+      "lat": 51.216799852429, 
+      "lon": 2.887429854995, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

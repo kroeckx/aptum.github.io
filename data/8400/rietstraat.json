@@ -148,8 +148,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.218535648171, 
-      "lon": 2.911730735561, 
+      "lat": 51.218483469128, 
+      "lon": 2.911735085287, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -567,6 +567,30 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 51.219176057061, 
+      "lon": 2.913267542975, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Rietstraat"
+    }, 
+    {
+      "busnrs": [
         "2"
       ], 
       "hnrlbls": [
@@ -578,6 +602,31 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Rietstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
+      "hnrlbls": [
+        "62"
+      ], 
+      "housenumber": "62", 
+      "lat": 51.219230279211, 
+      "lon": 2.91337808475, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Rietstraat"
     }, 
     {
@@ -596,6 +645,31 @@
       "street": "Rietstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 51.219290693326, 
+      "lon": 2.913480416902, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Rietstraat"
+    }, 
+    {
       "hnrlbls": [
         "65"
       ], 
@@ -605,6 +679,18 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Rietstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 51.219361492842, 
+      "lon": 2.913608479645, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Rietstraat"
     }, 
     {
@@ -624,11 +710,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.219548879362, 
-      "lon": 2.913866900228, 
+      "lat": 51.219495029311, 
+      "lon": 2.913443120274, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rietstraat"
     }, 
     {

@@ -169,8 +169,10 @@
       "street": "Kerkhoflei"
     }, 
     {
+      "apptnrs": [
+        "b1"
+      ], 
       "busnrs": [
-        "b1", 
         "b2"
       ], 
       "hnrlbls": [
@@ -583,8 +585,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.26739417597, 
-      "lon": 4.631512299097, 
+      "lat": 51.267391217531, 
+      "lon": 4.631508843727, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -751,8 +753,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.268198009989, 
-      "lon": 4.629479704354, 
+      "lat": 51.268196214256, 
+      "lon": 4.629478834602, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1075,8 +1077,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.27052615437, 
-      "lon": 4.626860461064, 
+      "lat": 51.270519231299, 
+      "lon": 4.6268614256, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

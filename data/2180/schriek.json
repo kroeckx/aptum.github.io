@@ -545,8 +545,8 @@
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 51.289842527414, 
-      "lon": 4.433297677686, 
+      "lat": 51.289842976742, 
+      "lon": 4.43329782166, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -881,8 +881,9 @@
       "street": "Schriek"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "233"
@@ -1659,10 +1660,6 @@
       "street": "Schriek"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101"
-      ], 
       "hnrlbls": [
         "320"
       ], 

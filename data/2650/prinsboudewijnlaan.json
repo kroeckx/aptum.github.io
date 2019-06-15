@@ -251,8 +251,8 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.153832696453, 
-      "lon": 4.433348344635, 
+      "lat": 51.153836285496, 
+      "lon": 4.433359926763, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -311,8 +311,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.149647563623, 
-      "lon": 4.434045775806, 
+      "lat": 51.149647832244, 
+      "lon": 4.434047634074, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -443,8 +443,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.150883376607, 
-      "lon": 4.434267044441, 
+      "lat": 51.150881578963, 
+      "lon": 4.434266898974, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -515,8 +515,8 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 51.156424323692, 
-      "lon": 4.431813699621, 
+      "lat": 51.156429717472, 
+      "lon": 4.431812563503, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -567,8 +567,8 @@
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 51.152540850838, 
-      "lon": 4.433187178981, 
+      "lat": 51.152536275709, 
+      "lon": 4.43317073642, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -735,8 +735,8 @@
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 51.158134375155, 
-      "lon": 4.430865623563, 
+      "lat": 51.158135447628, 
+      "lon": 4.430877203181, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -1059,8 +1059,8 @@
         "237"
       ], 
       "housenumber": "237", 
-      "lat": 51.160042312189, 
-      "lon": 4.429983638477, 
+      "lat": 51.160040510947, 
+      "lon": 4.429990354562, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -1218,8 +1218,8 @@
         "252"
       ], 
       "housenumber": "252", 
-      "lat": 51.159048224614, 
-      "lon": 4.429367950037, 
+      "lat": 51.159045176283, 
+      "lon": 4.429352936996, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -1314,8 +1314,8 @@
         "262"
       ], 
       "housenumber": "262", 
-      "lat": 51.159618876454, 
-      "lon": 4.429087383624, 
+      "lat": 51.159612867096, 
+      "lon": 4.429062217455, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -1579,11 +1579,329 @@
         "266"
       ], 
       "housenumber": "266", 
-      "lat": 51.159935623107, 
-      "lon": 4.428935703144, 
+      "lat": 51.159933813448, 
+      "lon": 4.428958858028, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "267A"
+      ], 
+      "housenumber": "267A", 
+      "lat": 51.163690720605, 
+      "lon": 4.428365195831, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0603"
+      ], 
+      "hnrlbls": [
+        "267B"
+      ], 
+      "housenumber": "267B", 
+      "lat": 51.163693990701, 
+      "lon": 4.428474133639, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "267C"
+      ], 
+      "housenumber": "267C", 
+      "lat": 51.163689265182, 
+      "lon": 4.428574626607, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0502", 
+        "0601", 
+        "0602"
+      ], 
+      "hnrlbls": [
+        "267D"
+      ], 
+      "housenumber": "267D", 
+      "lat": 51.16368965984, 
+      "lon": 4.42868141633, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0504", 
+        "0601", 
+        "0602", 
+        "0603", 
+        "0604"
+      ], 
+      "hnrlbls": [
+        "267E"
+      ], 
+      "housenumber": "267E", 
+      "lat": 51.163692932732, 
+      "lon": 4.428784349948, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "267F"
+      ], 
+      "housenumber": "267F", 
+      "lat": 51.163551953688, 
+      "lon": 4.428858218316, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "267G"
+      ], 
+      "housenumber": "267G", 
+      "lat": 51.163343049789, 
+      "lon": 4.428875958771, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "267H"
+      ], 
+      "housenumber": "267H", 
+      "lat": 51.162983276564, 
+      "lon": 4.428623316997, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503"
+      ], 
+      "hnrlbls": [
+        "267I"
+      ], 
+      "housenumber": "267I", 
+      "lat": 51.163041177402, 
+      "lon": 4.428595372837, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "267J"
+      ], 
+      "housenumber": "267J", 
+      "lat": 51.163108786195, 
+      "lon": 4.428566869368, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "267K"
+      ], 
+      "housenumber": "267K", 
+      "lat": 51.163159132508, 
+      "lon": 4.428546920803, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503"
+      ], 
+      "hnrlbls": [
+        "267L"
+      ], 
+      "housenumber": "267L", 
+      "lat": 51.163211995619, 
+      "lon": 4.428526975455, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "267M"
+      ], 
+      "housenumber": "267M", 
+      "lat": 51.163249754836, 
+      "lon": 4.428513014662, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "267N"
+      ], 
+      "housenumber": "267N", 
+      "lat": 51.163283737821, 
+      "lon": 4.428501050345, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304"
+      ], 
+      "hnrlbls": [
+        "267O"
+      ], 
+      "housenumber": "267O", 
+      "lat": 51.163313044402, 
+      "lon": 4.428493654558, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Prins Boudewijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "267P"
+      ], 
+      "housenumber": "267P", 
+      "lat": 51.163377230042, 
+      "lon": 4.428479727908, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Prins Boudewijnlaan"
     }, 
     {
@@ -1679,8 +1997,8 @@
         "280"
       ], 
       "housenumber": "280", 
-      "lat": 51.161168067421, 
-      "lon": 4.42837551767, 
+      "lat": 51.161155935528, 
+      "lon": 4.428370212859, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -1703,8 +2021,8 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 51.161509189233, 
-      "lon": 4.42819012236, 
+      "lat": 51.161499750706, 
+      "lon": 4.428191110859, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -2054,8 +2372,8 @@
         "328"
       ], 
       "housenumber": "328", 
-      "lat": 51.164737839281, 
-      "lon": 4.426682186026, 
+      "lat": 51.164738023168, 
+      "lon": 4.426673894539, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 

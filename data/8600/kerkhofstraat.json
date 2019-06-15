@@ -953,11 +953,23 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.999631993661, 
-      "lon": 2.872333870698, 
+      "lat": 50.999738773351, 
+      "lon": 2.872409113731, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Kerkhofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 50.9995865429, 
+      "lon": 2.872351422725, 
+      "municipality": "Diksmuide", 
+      "pcode": "8600", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkhofstraat"
     }, 
     {

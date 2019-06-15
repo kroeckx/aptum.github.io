@@ -5,11 +5,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.192915213133, 
-      "lon": 3.688599709711, 
+      "lat": 51.192782679732, 
+      "lon": 3.68876514889, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -29,11 +29,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.188066136589, 
-      "lon": 3.683238448377, 
+      "lat": 51.188128276888, 
+      "lon": 3.683165588061, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -101,7 +101,7 @@
     }, 
     {
       "hnrlbls": [
-        "12"
+        "12-14"
       ], 
       "housenumber": "12", 
       "lat": 51.192639703837, 
@@ -117,11 +117,11 @@
         "2"
       ], 
       "hnrlbls": [
-        "13"
+        "13-15"
       ], 
       "housenumber": "13", 
-      "lat": 51.192233603092, 
-      "lon": 3.688946377815, 
+      "lat": 51.192252766667, 
+      "lon": 3.688902468348, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "manueleAanduidingVanGebouw", 
@@ -129,26 +129,26 @@
     }, 
     {
       "hnrlbls": [
-        "14"
+        "12-14"
       ], 
       "housenumber": "14", 
-      "lat": 51.192659974273, 
-      "lon": 3.688795116726, 
+      "lat": 51.192639703837, 
+      "lon": 3.688755929467, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
       "hnrlbls": [
-        "15"
+        "13-15"
       ], 
       "housenumber": "15", 
-      "lat": 51.192241728837, 
-      "lon": 3.688936961232, 
+      "lat": 51.192252766667, 
+      "lon": 3.688902468348, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -172,8 +172,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.19214690725, 
-      "lon": 3.688860664979, 
+      "lat": 51.192150811865, 
+      "lon": 3.688851882051, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -224,11 +224,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.192443194652, 
-      "lon": 3.688722455536, 
+      "lat": 51.192448904414, 
+      "lon": 3.688652420208, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -366,11 +366,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.191617111747, 
-      "lon": 3.688221223883, 
+      "lat": 51.19158022735, 
+      "lon": 3.688434761076, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -390,11 +390,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.191529373989, 
-      "lon": 3.688126373584, 
+      "lat": 51.19152486742, 
+      "lon": 3.688139885836, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -438,18 +438,15 @@
       "street": "Oosteeklo-Dorp"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.191384057377, 
-      "lon": 3.687991594103, 
+      "lat": 51.19138486219, 
+      "lon": 3.687990867131, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -457,8 +454,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.191457784407, 
-      "lon": 3.687448365673, 
+      "lat": 51.19149565127, 
+      "lon": 3.68732765245, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "manueleAanduidingVanGebouw", 
@@ -719,11 +716,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.190700604742, 
-      "lon": 3.686644762906, 
+      "lat": 51.190695065931, 
+      "lon": 3.686650708691, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -743,11 +740,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.190435183614, 
-      "lon": 3.686274289487, 
+      "lat": 51.190596769539, 
+      "lon": 3.686548865132, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -923,11 +920,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.189717564972, 
-      "lon": 3.685349416048, 
+      "lat": 51.18973836761, 
+      "lon": 3.685324937352, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -1103,8 +1100,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.189591912533, 
-      "lon": 3.685211501762, 
+      "lat": 51.189592455126, 
+      "lon": 3.685212065992, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -1151,11 +1148,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.189466753351, 
-      "lon": 3.684987898576, 
+      "lat": 51.189498315596, 
+      "lon": 3.684741117267, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -1187,8 +1184,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.189402035473, 
-      "lon": 3.684879418711, 
+      "lat": 51.189403714269, 
+      "lon": 3.684874387652, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -1223,16 +1220,16 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.187817238253, 
-      "lon": 3.68389077601, 
+      "lat": 51.187929265541, 
+      "lon": 3.683724496941, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
       "hnrlbls": [
-        "84"
+        "84-84A"
       ], 
       "housenumber": "84", 
       "lat": 51.189158450085, 
@@ -1244,14 +1241,14 @@
     }, 
     {
       "hnrlbls": [
-        "84A"
+        "84-84A"
       ], 
       "housenumber": "84A", 
-      "lat": 51.189391841611, 
-      "lon": 3.683351304858, 
+      "lat": 51.189158450085, 
+      "lon": 3.684695171786, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }, 
     {
@@ -1295,8 +1292,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.189050537669, 
-      "lon": 3.684454154431, 
+      "lat": 51.189050782486, 
+      "lon": 3.684449859609, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -1331,8 +1328,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.192434943554, 
-      "lon": 3.68906976159, 
+      "lat": 51.192435131536, 
+      "lon": 3.689071189369, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -1415,11 +1412,11 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.188207651265, 
-      "lon": 3.683305602083, 
+      "lat": 51.188241906412, 
+      "lon": 3.68332240706, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oosteeklo-Dorp"
     }
   ]

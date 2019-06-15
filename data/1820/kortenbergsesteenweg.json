@@ -38,6 +38,18 @@
     }, 
     {
       "hnrlbls": [
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 50.902444532326, 
+      "lon": 4.523236872269, 
+      "municipality": "Steenokkerzeel", 
+      "pcode": "1820", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Kortenbergsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
@@ -133,6 +145,10 @@
       "street": "Kortenbergsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -145,6 +161,9 @@
       "street": "Kortenbergsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "13A"
       ], 
@@ -806,11 +825,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.903982161185, 
-      "lon": 4.519104471293, 
+      "lat": 50.903912026059, 
+      "lon": 4.518908624329, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kortenbergsesteenweg"
     }, 
     {

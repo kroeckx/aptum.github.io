@@ -1184,23 +1184,11 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.081279936795, 
-      "lon": 4.835058728207, 
+      "lat": 51.081226495459, 
+      "lon": 4.835047776896, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Gravin de Merodestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "78"
-      ], 
-      "housenumber": "78", 
-      "lat": 51.081174301229, 
-      "lon": 4.835039692221, 
-      "municipality": "Westerlo", 
-      "pcode": "2260", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gravin de Merodestraat"
     }, 
     {
@@ -1292,11 +1280,11 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.080015673391, 
-      "lon": 4.834956914485, 
+      "lat": 51.080031464005, 
+      "lon": 4.834896422702, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gravin de Merodestraat"
     }, 
     {
@@ -1304,11 +1292,11 @@
         "86_1"
       ], 
       "housenumber": "86_1", 
-      "lat": 51.079966634778, 
-      "lon": 4.83494643565, 
+      "lat": 51.079969033953, 
+      "lon": 4.834885382152, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gravin de Merodestraat"
     }, 
     {

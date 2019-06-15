@@ -1,14 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202", 
-        "0301", 
-        "0302"
-      ], 
       "hnrlbls": [
         "1-11"
       ], 
@@ -37,11 +29,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.777601330412, 
-      "lon": 3.445625868248, 
+      "lat": 50.777691897432, 
+      "lon": 3.444694761459, 
       "municipality": "Avelgem", 
       "pcode": "8580", 
-      "source": "afgeleidVanStraat", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Sint-Jansstraat"
     }, 
     {

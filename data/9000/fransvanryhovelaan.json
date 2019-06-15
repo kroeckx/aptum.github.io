@@ -259,7 +259,7 @@
     }, 
     {
       "hnrlbls": [
-        "118-118B"
+        "118"
       ], 
       "housenumber": "118", 
       "lat": 51.070246814346, 
@@ -271,11 +271,11 @@
     }, 
     {
       "hnrlbls": [
-        "118-118B"
+        "118A-118B"
       ], 
       "housenumber": "118A", 
-      "lat": 51.070246814346, 
-      "lon": 3.708678575491, 
+      "lat": 51.070433406038, 
+      "lon": 3.708850868698, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -283,11 +283,11 @@
     }, 
     {
       "hnrlbls": [
-        "118-118B"
+        "118A-118B"
       ], 
       "housenumber": "118B", 
-      "lat": 51.070246814346, 
-      "lon": 3.708678575491, 
+      "lat": 51.070433406038, 
+      "lon": 3.708850868698, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -727,14 +727,14 @@
     }, 
     {
       "hnrlbls": [
-        "148-150"
+        "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.070936905745, 
-      "lon": 3.709367550187, 
+      "lat": 51.070592718484, 
+      "lon": 3.70972338575, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -763,14 +763,14 @@
     }, 
     {
       "hnrlbls": [
-        "148-150"
+        "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.070936905745, 
-      "lon": 3.709367550187, 
+      "lat": 51.070763987782, 
+      "lon": 3.709920868786, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -1506,16 +1506,16 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 51.071462184917, 
-      "lon": 3.70940652513, 
+      "lat": 51.071434270823, 
+      "lon": 3.709381948973, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
       "hnrlbls": [
-        "194-194B"
+        "194-194C"
       ], 
       "housenumber": "194", 
       "lat": 51.071894361742, 
@@ -1527,7 +1527,7 @@
     }, 
     {
       "hnrlbls": [
-        "194-194B"
+        "194-194C"
       ], 
       "housenumber": "194A", 
       "lat": 51.071894361742, 
@@ -1539,7 +1539,7 @@
     }, 
     {
       "hnrlbls": [
-        "194-194B"
+        "194-194C"
       ], 
       "housenumber": "194B", 
       "lat": 51.071894361742, 
@@ -1551,14 +1551,14 @@
     }, 
     {
       "hnrlbls": [
-        "194C"
+        "194-194C"
       ], 
       "housenumber": "194C", 
-      "lat": 51.071868421812, 
-      "lon": 3.710310262873, 
+      "lat": 51.071894361742, 
+      "lon": 3.710254965378, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -1566,11 +1566,11 @@
         "195-195B"
       ], 
       "housenumber": "195", 
-      "lat": 51.071431919453, 
-      "lon": 3.709379413822, 
+      "lat": 51.071450433649, 
+      "lon": 3.709394848054, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -1578,11 +1578,11 @@
         "195-195B"
       ], 
       "housenumber": "195A", 
-      "lat": 51.071431919453, 
-      "lon": 3.709379413822, 
+      "lat": 51.071450433649, 
+      "lon": 3.709394848054, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -1590,11 +1590,11 @@
         "195-195B"
       ], 
       "housenumber": "195B", 
-      "lat": 51.071431919453, 
-      "lon": 3.709379413822, 
+      "lat": 51.071450433649, 
+      "lon": 3.709394848054, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -2770,11 +2770,11 @@
         "269-271"
       ], 
       "housenumber": "269", 
-      "lat": 51.073982155803, 
-      "lon": 3.711875658904, 
+      "lat": 51.073991820267, 
+      "lon": 3.711900065812, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -2818,11 +2818,11 @@
         "269-271"
       ], 
       "housenumber": "271", 
-      "lat": 51.073982155803, 
-      "lon": 3.711875658904, 
+      "lat": 51.073991820267, 
+      "lon": 3.711900065812, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -3224,7 +3224,7 @@
       "lon": 3.708983013202, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -3236,7 +3236,7 @@
       "lon": 3.708935371137, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -3248,7 +3248,7 @@
       "lon": 3.708902666275, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -3256,11 +3256,11 @@
         "2D"
       ], 
       "housenumber": "2D", 
-      "lat": 51.066567904587, 
-      "lon": 3.708908759647, 
+      "lat": 51.066566679932, 
+      "lon": 3.708882668977, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -3882,19 +3882,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37F"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.067519790936, 
-      "lon": 3.708092263229, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Frans van Ryhovelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "37-37F"
+        "37A-37F"
       ], 
       "housenumber": "37A", 
       "lat": 51.067519790936, 
@@ -3906,7 +3894,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37F"
+        "37A-37F"
       ], 
       "housenumber": "37B", 
       "lat": 51.067519790936, 
@@ -3918,7 +3906,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37F"
+        "37A-37F"
       ], 
       "housenumber": "37C", 
       "lat": 51.067519790936, 
@@ -3930,7 +3918,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37F"
+        "37A-37F"
       ], 
       "housenumber": "37D", 
       "lat": 51.067519790936, 
@@ -3942,7 +3930,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37F"
+        "37A-37F"
       ], 
       "housenumber": "37E", 
       "lat": 51.067519790936, 
@@ -3954,7 +3942,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37F"
+        "37A-37F"
       ], 
       "housenumber": "37F", 
       "lat": 51.067519790936, 
@@ -4050,7 +4038,7 @@
     }, 
     {
       "hnrlbls": [
-        "45"
+        "45-45B"
       ], 
       "housenumber": "45", 
       "lat": 51.067709227299, 
@@ -4062,11 +4050,11 @@
     }, 
     {
       "hnrlbls": [
-        "45A"
+        "45-45B"
       ], 
       "housenumber": "45A", 
-      "lat": 51.067708870954, 
-      "lon": 3.707906122559, 
+      "lat": 51.067709227299, 
+      "lon": 3.707905546851, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4074,11 +4062,11 @@
     }, 
     {
       "hnrlbls": [
-        "45B"
+        "45-45B"
       ], 
       "housenumber": "45B", 
-      "lat": 51.067709232893, 
-      "lon": 3.707906545461, 
+      "lat": 51.067709227299, 
+      "lon": 3.707905546851, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4150,35 +4138,11 @@
     }, 
     {
       "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 51.067844803068, 
-      "lon": 3.707812467487, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Frans van Ryhovelaan"
-    }, 
-    {
-      "hnrlbls": [
         "52"
       ], 
       "housenumber": "52", 
       "lat": 51.06888907063, 
       "lon": 3.707858222797, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Frans van Ryhovelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 51.067898676313, 
-      "lon": 3.707785313155, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -4197,6 +4161,15 @@
       "street": "Frans van Ryhovelaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "55"
       ], 
@@ -4215,6 +4188,23 @@
       "housenumber": "56", 
       "lat": 51.068965624116, 
       "lon": 3.707819904632, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Frans van Ryhovelaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.068103898054, 
+      "lon": 3.707720640177, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -4299,6 +4289,18 @@
       "housenumber": "64", 
       "lat": 51.069098614831, 
       "lon": 3.707794914502, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Frans van Ryhovelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.068297088697, 
+      "lon": 3.707658561885, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -4510,14 +4512,14 @@
     }, 
     {
       "hnrlbls": [
-        "77-79"
+        "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.068872812554, 
-      "lon": 3.70749149649, 
+      "lat": 51.068807910685, 
+      "lon": 3.707523658333, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {
@@ -4534,14 +4536,14 @@
     }, 
     {
       "hnrlbls": [
-        "77-79"
+        "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.068872812554, 
-      "lon": 3.70749149649, 
+      "lat": 51.068910428934, 
+      "lon": 3.70748283295, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans van Ryhovelaan"
     }, 
     {

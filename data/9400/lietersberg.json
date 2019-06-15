@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.790769443925, 
-      "lon": 4.027382953842, 
+      "lat": 50.790818961954, 
+      "lon": 4.027439467728, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -26,14 +26,26 @@
     }, 
     {
       "hnrlbls": [
-        "11-15A"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.791366418591, 
-      "lon": 4.026291096121, 
+      "lat": 50.791354400568, 
+      "lon": 4.025992777537, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lietersberg"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.791518202574, 
+      "lon": 4.026026618592, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lietersberg"
     }, 
     {
@@ -62,26 +74,26 @@
     }, 
     {
       "hnrlbls": [
-        "11-15A"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.791366418591, 
-      "lon": 4.026291096121, 
+      "lat": 50.791271724733, 
+      "lon": 4.026742653801, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lietersberg"
     }, 
     {
       "hnrlbls": [
-        "11-15A"
+        "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 50.791366418591, 
-      "lon": 4.026291096121, 
+      "lat": 50.791260162207, 
+      "lon": 4.026846980934, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lietersberg"
     }, 
     {
@@ -101,11 +113,11 @@
         "16A"
       ], 
       "housenumber": "16A", 
-      "lat": 50.79131389125, 
-      "lon": 4.026220138207, 
+      "lat": 50.791180817709, 
+      "lon": 4.027291333957, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lietersberg"
     }, 
     {
@@ -137,8 +149,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.790784909108, 
-      "lon": 4.0272603041, 
+      "lat": 50.790827436384, 
+      "lon": 4.02732410163, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -197,32 +209,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.792049504803, 
-      "lon": 4.026892742336, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lietersberg"
-    }, 
-    {
-      "hnrlbls": [
-        "25-27"
-      ], 
-      "housenumber": "25", 
-      "lat": 50.792236200232, 
-      "lon": 4.02703974367, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lietersberg"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.792200905071, 
-      "lon": 4.026928095219, 
+      "lat": 50.792058620597, 
+      "lon": 4.026905157293, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -230,14 +218,38 @@
     }, 
     {
       "hnrlbls": [
-        "25-27"
+        "25"
       ], 
-      "housenumber": "27", 
-      "lat": 50.792236200232, 
-      "lon": 4.02703974367, 
+      "housenumber": "25", 
+      "lat": 50.792123929334, 
+      "lon": 4.026920001533, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lietersberg"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.792200930265, 
+      "lon": 4.026936746692, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lietersberg"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.792278462305, 
+      "lon": 4.026950651443, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lietersberg"
     }, 
     {
@@ -257,8 +269,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.792526400788, 
-      "lon": 4.027260032469, 
+      "lat": 50.792482724664, 
+      "lon": 4.027203048915, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 

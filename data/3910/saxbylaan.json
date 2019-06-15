@@ -1,15 +1,54 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.225741851173, 
+      "lon": 5.437608551991, 
+      "municipality": "Pelt", 
+      "pcode": "3910", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Saxbylaan"
+    }, 
+    {
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.225640545398, 
-      "lon": 5.43759821077, 
+      "lat": 51.225587575738, 
+      "lon": 5.437600717775, 
       "municipality": "Pelt", 
       "pcode": "3910", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Saxbylaan"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.225661014743, 
+      "lon": 5.437601114128, 
+      "municipality": "Pelt", 
+      "pcode": "3910", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Saxbylaan"
     }
   ]

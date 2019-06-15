@@ -41,11 +41,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.097990396559, 
-      "lon": 3.209731366567, 
+      "lat": 51.098020750568, 
+      "lon": 3.209673219329, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hillestraat"
     }, 
     {
@@ -77,11 +77,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.097896629615, 
-      "lon": 3.209163880348, 
+      "lat": 51.097834396058, 
+      "lon": 3.209234668201, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hillestraat"
     }, 
     {
@@ -429,7 +429,7 @@
       "lon": 3.208895239835, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hillestraat"
     }, 
     {

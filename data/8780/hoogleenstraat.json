@@ -293,11 +293,23 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.928482334179, 
-      "lon": 3.351170517954, 
+      "lat": 50.928745891338, 
+      "lon": 3.350626655593, 
       "municipality": "Oostrozebeke", 
       "pcode": "8780", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoogleenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.928901341972, 
+      "lon": 3.350513748167, 
+      "municipality": "Oostrozebeke", 
+      "pcode": "8780", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogleenstraat"
     }
   ]

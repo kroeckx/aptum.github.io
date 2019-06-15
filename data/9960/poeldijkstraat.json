@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.225740957511, 
-      "lon": 3.78808164676, 
+      "lat": 51.226059520108, 
+      "lon": 3.788137664955, 
       "municipality": "Assenede", 
       "pcode": "9960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Poeldijkstraat"
     }, 
     {
@@ -77,8 +77,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.22332431393, 
-      "lon": 3.788365646562, 
+      "lat": 51.223329741293, 
+      "lon": 3.788335948145, 
       "municipality": "Assenede", 
       "pcode": "9960", 
       "source": "afgeleidVanGebouw", 
@@ -98,7 +98,7 @@
     }, 
     {
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 51.225740957511, 

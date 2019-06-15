@@ -14,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "10-10B"
       ], 
       "housenumber": "10", 
-      "lat": 51.276378741628, 
-      "lon": 3.628418587438, 
+      "lat": 51.276377568745, 
+      "lon": 3.628417889514, 
       "municipality": "Sint-Laureins", 
       "pcode": "9988", 
       "source": "afgeleidVanGebouw", 
@@ -26,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "10B"
+        "10-10B"
       ], 
       "housenumber": "10B", 
-      "lat": 51.276378740733, 
-      "lon": 3.628418444142, 
+      "lat": 51.276377568745, 
+      "lon": 3.628417889514, 
       "municipality": "Sint-Laureins", 
       "pcode": "9988", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Veldstraat"
     }, 
     {
@@ -437,8 +437,8 @@
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 51.276404569804, 
-      "lon": 3.631104245532, 
+      "lat": 51.276402347846, 
+      "lon": 3.631108293387, 
       "municipality": "Sint-Laureins", 
       "pcode": "9988", 
       "source": "afgeleidVanGebouw", 
@@ -497,11 +497,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.276387549141, 
-      "lon": 3.627814393974, 
+      "lat": 51.27636993509, 
+      "lon": 3.62790123344, 
       "municipality": "Sint-Laureins", 
       "pcode": "9988", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Veldstraat"
     }, 
     {
@@ -533,8 +533,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.27668082839, 
-      "lon": 3.630186837451, 
+      "lat": 51.276654321695, 
+      "lon": 3.630188403924, 
       "municipality": "Sint-Laureins", 
       "pcode": "9988", 
       "source": "afgeleidVanGebouw", 
@@ -566,18 +566,6 @@
     }, 
     {
       "hnrlbls": [
-        "4A"
-      ], 
-      "housenumber": "4A", 
-      "lat": 51.276388351936, 
-      "lon": 3.62794278739, 
-      "municipality": "Sint-Laureins", 
-      "pcode": "9988", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Veldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -593,8 +581,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.276719098834, 
-      "lon": 3.630673919888, 
+      "lat": 51.276713987424, 
+      "lon": 3.63067586387, 
       "municipality": "Sint-Laureins", 
       "pcode": "9988", 
       "source": "afgeleidVanGebouw", 
@@ -605,8 +593,8 @@
         "51A"
       ], 
       "housenumber": "51A", 
-      "lat": 51.27664189053, 
-      "lon": 3.630818883523, 
+      "lat": 51.276637871033, 
+      "lon": 3.630822959868, 
       "municipality": "Sint-Laureins", 
       "pcode": "9988", 
       "source": "afgeleidVanGebouw", 
@@ -641,8 +629,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.276739605799, 
-      "lon": 3.631253433456, 
+      "lat": 51.276750207769, 
+      "lon": 3.631252692471, 
       "municipality": "Sint-Laureins", 
       "pcode": "9988", 
       "source": "afgeleidVanGebouw", 
@@ -653,8 +641,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.276803041965, 
-      "lon": 3.631422970691, 
+      "lat": 51.276807978982, 
+      "lon": 3.631421889416, 
       "municipality": "Sint-Laureins", 
       "pcode": "9988", 
       "source": "afgeleidVanGebouw", 

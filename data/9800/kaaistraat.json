@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.983395406292, 
-      "lon": 3.528400715941, 
+      "lat": 50.983389076958, 
+      "lon": 3.528357819533, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.98435328076, 
-      "lon": 3.527899898083, 
+      "lat": 50.984342236262, 
+      "lon": 3.527926870934, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
@@ -29,11 +29,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.98398895438, 
-      "lon": 3.528205792647, 
+      "lat": 50.98394388625, 
+      "lon": 3.528226823658, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
@@ -41,11 +41,23 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.983677292366, 
-      "lon": 3.528043752252, 
+      "lat": 50.98367488031, 
+      "lon": 3.528058464481, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kaaistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.984406328613, 
+      "lon": 3.528190622582, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kaaistraat"
     }, 
     {
@@ -53,8 +65,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.983480238352, 
-      "lon": 3.528358607322, 
+      "lat": 50.983516370375, 
+      "lon": 3.528357675128, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -65,8 +77,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.983918207175, 
-      "lon": 3.527815837692, 
+      "lat": 50.983918479884, 
+      "lon": 3.527816260057, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -77,11 +89,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.983760968019, 
-      "lon": 3.528255166966, 
+      "lat": 50.983713252277, 
+      "lon": 3.528308289217, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kaaistraat"
     }
   ]

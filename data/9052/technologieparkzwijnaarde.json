@@ -2,23 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "101"
       ], 
-      "housenumber": "1", 
-      "lat": 51.007531977456, 
-      "lon": 3.711651502799, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "12-12B"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.01080583819, 
-      "lon": 3.714673142839, 
+      "housenumber": "101", 
+      "lat": 51.009837562661, 
+      "lon": 3.712518469693, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -26,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "12-12B"
+        "103"
       ], 
-      "housenumber": "12A", 
-      "lat": 51.01080583819, 
-      "lon": 3.714673142839, 
+      "housenumber": "103", 
+      "lat": 51.010437131947, 
+      "lon": 3.712546272464, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -38,11 +26,11 @@
     }, 
     {
       "hnrlbls": [
-        "12-12B"
+        "104"
       ], 
-      "housenumber": "12B", 
-      "lat": 51.01080583819, 
-      "lon": 3.714673142839, 
+      "housenumber": "104", 
+      "lat": 51.010816274089, 
+      "lon": 3.714690809311, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -50,38 +38,98 @@
     }, 
     {
       "hnrlbls": [
-        "15"
+        "108"
       ], 
-      "housenumber": "15", 
-      "lat": 51.01285116494, 
-      "lon": 3.707980904193, 
+      "housenumber": "108", 
+      "lat": 51.012046161761, 
+      "lon": 3.713615020091, 
       "municipality": "Gent", 
       "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Technologiepark-Zwijnaarde"
     }, 
     {
       "hnrlbls": [
-        "19"
+        "121"
       ], 
-      "housenumber": "19", 
-      "lat": 51.01316799678, 
-      "lon": 3.709176177073, 
+      "housenumber": "121", 
+      "lat": 51.012579580308, 
+      "lon": 3.710837760257, 
       "municipality": "Gent", 
       "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Technologiepark-Zwijnaarde"
     }, 
     {
       "hnrlbls": [
-        "2"
+        "122"
       ], 
-      "housenumber": "2", 
-      "lat": 51.007425992523, 
-      "lon": 3.713443040543, 
+      "housenumber": "122", 
+      "lat": 51.013301836981, 
+      "lon": 3.709334611312, 
       "municipality": "Gent", 
       "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "123"
+      ], 
+      "housenumber": "123", 
+      "lat": 51.011841394718, 
+      "lon": 3.710504266633, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "125"
+      ], 
+      "housenumber": "125", 
+      "lat": 51.01246831617, 
+      "lon": 3.709314555851, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "126"
+      ], 
+      "housenumber": "126", 
+      "lat": 51.0129689825, 
+      "lon": 3.707990929069, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "130"
+      ], 
+      "housenumber": "130", 
+      "lat": 51.012248810258, 
+      "lon": 3.705793169842, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "131"
+      ], 
+      "housenumber": "131", 
+      "lat": 51.011800024701, 
+      "lon": 3.708220011406, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Technologiepark-Zwijnaarde"
     }, 
     {
@@ -98,30 +146,6 @@
     }, 
     {
       "hnrlbls": [
-        "25"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.01214453347, 
-      "lon": 3.71345832017, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.008138825924, 
-      "lon": 3.712001214582, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -134,23 +158,11 @@
     }, 
     {
       "hnrlbls": [
-        "38"
+        "40"
       ], 
-      "housenumber": "38", 
-      "lat": 51.010000662391, 
-      "lon": 3.712588716522, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.008816551228, 
-      "lon": 3.714831696663, 
+      "housenumber": "40", 
+      "lat": 51.01114578314, 
+      "lon": 3.705293636904, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -158,14 +170,26 @@
     }, 
     {
       "hnrlbls": [
-        "5"
+        "46"
       ], 
-      "housenumber": "5", 
-      "lat": 51.008826885395, 
-      "lon": 3.711809332713, 
+      "housenumber": "46", 
+      "lat": 51.010220671098, 
+      "lon": 3.705531298211, 
       "municipality": "Gent", 
       "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 51.009601879046, 
+      "lon": 3.706449297023, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Technologiepark-Zwijnaarde"
     }, 
     {
@@ -182,11 +206,11 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "60"
       ], 
-      "housenumber": "7", 
-      "lat": 51.008631103544, 
-      "lon": 3.710860243921, 
+      "housenumber": "60", 
+      "lat": 51.009865079179, 
+      "lon": 3.707904286336, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -194,23 +218,11 @@
     }, 
     {
       "hnrlbls": [
-        "901"
+        "64"
       ], 
-      "housenumber": "901", 
-      "lat": 51.011138324118, 
-      "lon": 3.705294027441, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "902"
-      ], 
-      "housenumber": "902", 
-      "lat": 51.009725521194, 
-      "lon": 3.705624937492, 
+      "housenumber": "64", 
+      "lat": 51.008495342182, 
+      "lon": 3.708959630484, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -218,35 +230,11 @@
     }, 
     {
       "hnrlbls": [
-        "903"
+        "66"
       ], 
-      "housenumber": "903", 
-      "lat": 51.010276487336, 
-      "lon": 3.705641654732, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "904"
-      ], 
-      "housenumber": "904", 
-      "lat": 51.010030169122, 
-      "lon": 3.707928178557, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "905"
-      ], 
-      "housenumber": "905", 
-      "lat": 51.009262967762, 
-      "lon": 3.709316173119, 
+      "housenumber": "66", 
+      "lat": 51.008481921219, 
+      "lon": 3.70962937676, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -254,11 +242,11 @@
     }, 
     {
       "hnrlbls": [
-        "907"
+        "68"
       ], 
-      "housenumber": "907", 
-      "lat": 51.007909587606, 
-      "lon": 3.710871933949, 
+      "housenumber": "68", 
+      "lat": 51.009288483736, 
+      "lon": 3.7089122775, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -266,95 +254,11 @@
     }, 
     {
       "hnrlbls": [
-        "913"
+        "70"
       ], 
-      "housenumber": "913", 
-      "lat": 51.011695536765, 
-      "lon": 3.708214500895, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "914-914A"
-      ], 
-      "housenumber": "914", 
-      "lat": 51.012171657596, 
-      "lon": 3.709682674509, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "914-914A"
-      ], 
-      "housenumber": "914A", 
-      "lat": 51.012171657596, 
-      "lon": 3.709682674509, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "915"
-      ], 
-      "housenumber": "915", 
-      "lat": 51.012163371772, 
-      "lon": 3.705802215406, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "918"
-      ], 
-      "housenumber": "918", 
-      "lat": 51.012579591426, 
-      "lon": 3.710823652424, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "922"
-      ], 
-      "housenumber": "922", 
-      "lat": 51.008479866978, 
-      "lon": 3.709085666318, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "922A"
-      ], 
-      "housenumber": "922A", 
-      "lat": 51.008489119471, 
-      "lon": 3.709710921985, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "923"
-      ], 
-      "housenumber": "923", 
-      "lat": 51.012958493608, 
-      "lon": 3.712758085429, 
+      "housenumber": "70", 
+      "lat": 51.008631513995, 
+      "lon": 3.710853256164, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -362,23 +266,11 @@
     }, 
     {
       "hnrlbls": [
-        "926"
+        "70A"
       ], 
-      "housenumber": "926", 
-      "lat": 51.01181018509, 
-      "lon": 3.710581796972, 
-      "municipality": "Gent", 
-      "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Technologiepark-Zwijnaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "927"
-      ], 
-      "housenumber": "927", 
-      "lat": 51.010374582832, 
-      "lon": 3.710454465267, 
+      "housenumber": "70A", 
+      "lat": 51.007929455866, 
+      "lon": 3.710872225159, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
@@ -386,11 +278,83 @@
     }, 
     {
       "hnrlbls": [
-        "935"
+        "71"
       ], 
-      "housenumber": "935", 
-      "lat": 51.009727973305, 
-      "lon": 3.706348483248, 
+      "housenumber": "71", 
+      "lat": 51.010364977916, 
+      "lon": 3.710521287797, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 51.008830881856, 
+      "lon": 3.711800584812, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 51.008230807532, 
+      "lon": 3.711682319384, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 51.007534299334, 
+      "lon": 3.711664863987, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 51.007783654151, 
+      "lon": 3.713389596755, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 51.008642763493, 
+      "lon": 3.712870896274, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Technologiepark-Zwijnaarde"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 51.008488078709, 
+      "lon": 3.71483186008, 
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 

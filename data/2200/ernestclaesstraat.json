@@ -358,8 +358,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.171942174872, 
-      "lon": 4.841894953985, 
+      "lat": 51.171934826777, 
+      "lon": 4.841889302956, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -470,8 +470,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.171788144875, 
-      "lon": 4.842176929854, 
+      "lat": 51.171781732362, 
+      "lon": 4.842162137256, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -578,8 +578,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.171645519667, 
-      "lon": 4.84246145052, 
+      "lat": 51.171638799636, 
+      "lon": 4.842456091789, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -710,6 +710,10 @@
       "street": "Ernest Claesstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "60"
       ], 

@@ -587,18 +587,6 @@
     }, 
     {
       "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 50.937422899249, 
-      "lon": 3.11810894883, 
-      "municipality": "Roeselare", 
-      "pcode": "8800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Wilgenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
@@ -1009,18 +997,6 @@
     }, 
     {
       "hnrlbls": [
-        "75"
-      ], 
-      "housenumber": "75", 
-      "lat": 50.937517168506, 
-      "lon": 3.117437539291, 
-      "municipality": "Roeselare", 
-      "pcode": "8800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Wilgenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
@@ -1168,21 +1144,6 @@
       "street": "Wilgenstraat"
     }, 
     {
-      "apptnrs": [
-        "B011"
-      ], 
-      "hnrlbls": [
-        "90-90B"
-      ], 
-      "housenumber": "90", 
-      "lat": 50.937632344728, 
-      "lon": 3.117218616739, 
-      "municipality": "Roeselare", 
-      "pcode": "8800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Wilgenstraat"
-    }, 
-    {
       "hnrlbls": [
         "90A"
       ], 
@@ -1196,10 +1157,11 @@
     }, 
     {
       "apptnrs": [
-        "1"
+        "1", 
+        "11"
       ], 
       "hnrlbls": [
-        "90-90B"
+        "90B"
       ], 
       "housenumber": "90B", 
       "lat": 50.937632344728, 

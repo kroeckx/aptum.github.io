@@ -64,11 +64,6 @@
       "street": "Leopold de Waelplaats"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -322,18 +317,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leopold de Waelplaats"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.209528033325, 
-      "lon": 4.393525026776, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Leopold de Waelplaats"
     }
   ]

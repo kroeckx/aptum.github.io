@@ -673,6 +673,29 @@
       "street": "Zandstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.202963060191, 
+      "lon": 3.204236994856, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zandstraat"
+    }, 
+    {
       "hnrlbls": [
         "150"
       ], 
@@ -2350,11 +2373,11 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 51.200782460051, 
-      "lon": 3.18971293456, 
+      "lat": 51.20078457278, 
+      "lon": 3.189717460039, 
       "municipality": "Brugge", 
       "pcode": "8200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Zandstraat"
     }, 
     {
@@ -2370,15 +2393,24 @@
       "street": "Zandstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
-        "293"
+        "293A-293B"
       ], 
-      "housenumber": "293", 
-      "lat": 51.200748085765, 
-      "lon": 3.189583305757, 
+      "housenumber": "293A", 
+      "lat": 51.200748537985, 
+      "lon": 3.18958358051, 
+      "municipality": "Brugge", 
+      "pcode": "8200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "293A-293B"
+      ], 
+      "housenumber": "293B", 
+      "lat": 51.200748537985, 
+      "lon": 3.18958358051, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 
@@ -4890,8 +4922,8 @@
         "535"
       ], 
       "housenumber": "535", 
-      "lat": 51.19886708975, 
-      "lon": 3.172826100119, 
+      "lat": 51.198866099701, 
+      "lon": 3.172825982404, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4902,8 +4934,8 @@
         "537"
       ], 
       "housenumber": "537", 
-      "lat": 51.198939758155, 
-      "lon": 3.172651535761, 
+      "lat": 51.198939663941, 
+      "lon": 3.172651108923, 
       "municipality": "Brugge", 
       "pcode": "8200", 
       "source": "afgeleidVanGebouw", 

@@ -1226,6 +1226,18 @@
     }, 
     {
       "hnrlbls": [
+        "201A"
+      ], 
+      "housenumber": "201A", 
+      "lat": 51.219081907015, 
+      "lon": 4.112926252189, 
+      "municipality": "Sint-Gillis-Waas", 
+      "pcode": "9170", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationstraat"
+    }, 
+    {
+      "hnrlbls": [
         "203"
       ], 
       "housenumber": "203", 
@@ -1677,6 +1689,9 @@
       "street": "Stationstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "56"
       ], 

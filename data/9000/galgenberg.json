@@ -134,7 +134,7 @@
     }, 
     {
       "hnrlbls": [
-        "19"
+        "19-19A"
       ], 
       "housenumber": "19", 
       "lat": 51.05121355102, 
@@ -145,6 +145,24 @@
       "street": "Galgenberg"
     }, 
     {
+      "hnrlbls": [
+        "19-19A"
+      ], 
+      "housenumber": "19A", 
+      "lat": 51.05121355102, 
+      "lon": 3.713900488212, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Galgenberg"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "2"
       ], 

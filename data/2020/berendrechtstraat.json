@@ -727,21 +727,10 @@
       "street": "Berendrechtstraat"
     }, 
     {
-      "hnrlbls": [
-        "62-178"
-      ], 
-      "housenumber": "62", 
-      "lat": 51.186854839186, 
-      "lon": 4.385414672468, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berendrechtstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "63"
@@ -756,14 +745,14 @@
     }, 
     {
       "hnrlbls": [
-        "64"
+        "63A"
       ], 
-      "housenumber": "64", 
-      "lat": 51.186794974843, 
-      "lon": 4.385420800414, 
+      "housenumber": "63A", 
+      "lat": 51.186714742645, 
+      "lon": 4.38578935357, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Berendrechtstraat"
     }, 
     {
@@ -791,14 +780,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "62-178"
+        "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.186854839186, 
-      "lon": 4.385414672468, 
+      "lat": 51.186762953455, 
+      "lon": 4.385571969191, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Berendrechtstraat"
     }, 
     {
@@ -815,14 +804,14 @@
     }, 
     {
       "hnrlbls": [
-        "62-178"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.186854839186, 
-      "lon": 4.385414672468, 
+      "lat": 51.186773654964, 
+      "lon": 4.385536931318, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Berendrechtstraat"
     }, 
     {
@@ -962,9 +951,6 @@
       "street": "Berendrechtstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "79"
       ], 

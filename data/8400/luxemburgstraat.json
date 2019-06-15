@@ -30,6 +30,7 @@
         "0104", 
         "0401", 
         "0404", 
+        "0703", 
         "10", 
         "15", 
         "25"
@@ -42,7 +43,7 @@
       "lon": 2.888832156076, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Luxemburgstraat"
     }, 
     {
@@ -52,6 +53,7 @@
         "0402", 
         "0502", 
         "0601", 
+        "0701", 
         "1", 
         "27", 
         "34"
@@ -88,8 +90,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.22033199399, 
-      "lon": 2.888498891296, 
+      "lat": 51.220329371756, 
+      "lon": 2.888497686077, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -122,6 +124,7 @@
         "0201", 
         "0202", 
         "0203", 
+        "0304", 
         "1", 
         "10", 
         "14", 

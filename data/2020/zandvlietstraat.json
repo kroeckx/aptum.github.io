@@ -416,6 +416,10 @@
       "street": "Zandvlietstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "40"
       ], 
@@ -859,8 +863,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.18588527064, 
-      "lon": 4.385873137342, 
+      "lat": 51.185884371444, 
+      "lon": 4.385875425405, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 

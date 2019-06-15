@@ -2,19 +2,18 @@
   "addresses": [
     {
       "busnrs": [
-        "0201", 
-        "1", 
-        "2"
+        "0001", 
+        "0201"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.223985323778, 
-      "lon": 2.917284848982, 
+      "lat": 51.223957988523, 
+      "lon": 2.917284411121, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {
@@ -87,11 +86,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.22330228289, 
-      "lon": 2.916276300611, 
+      "lat": 51.223319209622, 
+      "lon": 2.91621979496, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {
@@ -115,11 +114,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.223269650142, 
-      "lon": 2.916188552998, 
+      "lat": 51.223298341386, 
+      "lon": 2.91616031447, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {
@@ -157,11 +156,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.223545811166, 
-      "lon": 2.91615074619, 
+      "lat": 51.223519438884, 
+      "lon": 2.916177480972, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {
@@ -215,27 +214,26 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.223493851849, 
-      "lon": 2.915946059085, 
+      "lat": 51.223440959728, 
+      "lon": 2.915987507277, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {
       "busnrs": [
-        "0201", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
-        "26-28"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.223150077178, 
-      "lon": 2.915888046734, 
+      "lat": 51.223181095658, 
+      "lon": 2.915873622817, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {
@@ -250,26 +248,23 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.223475972985, 
-      "lon": 2.915793282935, 
+      "lat": 51.223404341655, 
+      "lon": 2.91587540203, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {
-      "busnrs": [
-        "0201"
-      ], 
       "hnrlbls": [
-        "26-28"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.223150077178, 
-      "lon": 2.915888046734, 
+      "lat": 51.223134298662, 
+      "lon": 2.915855037129, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {

@@ -2,11 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "100"
+        "100-102"
       ], 
       "housenumber": "100", 
-      "lat": 51.088525399637, 
-      "lon": 3.806788757464, 
+      "lat": 51.088687329264, 
+      "lon": 3.806324504271, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -26,11 +26,11 @@
     }, 
     {
       "hnrlbls": [
-        "102"
+        "100-102"
       ], 
       "housenumber": "102", 
-      "lat": 51.08838554837, 
-      "lon": 3.806490700381, 
+      "lat": 51.088687329264, 
+      "lon": 3.806324504271, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -43,6 +43,30 @@
       "housenumber": "104", 
       "lat": 51.088507425404, 
       "lon": 3.805130431356, 
+      "municipality": "Lochristi", 
+      "pcode": "9080", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Antwerpse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "106-108"
+      ], 
+      "housenumber": "106", 
+      "lat": 51.087984117595, 
+      "lon": 3.804855838186, 
+      "municipality": "Lochristi", 
+      "pcode": "9080", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Antwerpse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "106-108"
+      ], 
+      "housenumber": "108", 
+      "lat": 51.087984117595, 
+      "lon": 3.804855838186, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -317,8 +341,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.087083915438, 
-      "lon": 3.801153913275, 
+      "lat": 51.087026359712, 
+      "lon": 3.801111221944, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -401,8 +425,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.086536256498, 
-      "lon": 3.801762141245, 
+      "lat": 51.086630564754, 
+      "lon": 3.801689921653, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -461,8 +485,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.085631165832, 
-      "lon": 3.800906487699, 
+      "lat": 51.085692329096, 
+      "lon": 3.800839522387, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -597,8 +621,8 @@
         "148A"
       ], 
       "housenumber": "148A", 
-      "lat": 51.086261101133, 
-      "lon": 3.800621961619, 
+      "lat": 51.086161425058, 
+      "lon": 3.800456611509, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -765,8 +789,8 @@
         "19A"
       ], 
       "housenumber": "19A", 
-      "lat": 51.092174786571, 
-      "lon": 3.820360039521, 
+      "lat": 51.092279741169, 
+      "lon": 3.820216495403, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1051,18 +1075,6 @@
     }, 
     {
       "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 51.091758336014, 
-      "lon": 3.816755986774, 
-      "municipality": "Lochristi", 
-      "pcode": "9080", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Antwerpse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
@@ -1129,9 +1141,21 @@
     }, 
     {
       "hnrlbls": [
-        "45"
+        "45-45A"
       ], 
       "housenumber": "45", 
+      "lat": 51.090514791906, 
+      "lon": 3.814741918173, 
+      "municipality": "Lochristi", 
+      "pcode": "9080", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Antwerpse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "45-45A"
+      ], 
+      "housenumber": "45A", 
       "lat": 51.090514791906, 
       "lon": 3.814741918173, 
       "municipality": "Lochristi", 
@@ -1414,11 +1438,11 @@
     }, 
     {
       "hnrlbls": [
-        "67A"
+        "67A-69C"
       ], 
       "housenumber": "67A", 
-      "lat": 51.089272504552, 
-      "lon": 3.812181841461, 
+      "lat": 51.089059788653, 
+      "lon": 3.81259415729, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1442,11 +1466,11 @@
         "0102"
       ], 
       "hnrlbls": [
-        "69"
+        "67A-69C"
       ], 
       "housenumber": "69", 
-      "lat": 51.089098395075, 
-      "lon": 3.812221878274, 
+      "lat": 51.089059788653, 
+      "lon": 3.81259415729, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1454,11 +1478,11 @@
     }, 
     {
       "hnrlbls": [
-        "69A"
+        "67A-69C"
       ], 
       "housenumber": "69A", 
-      "lat": 51.088922012183, 
-      "lon": 3.812351720759, 
+      "lat": 51.089059788653, 
+      "lon": 3.81259415729, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1466,11 +1490,11 @@
     }, 
     {
       "hnrlbls": [
-        "69B"
+        "67A-69C"
       ], 
       "housenumber": "69B", 
-      "lat": 51.088796489276, 
-      "lon": 3.81234422031, 
+      "lat": 51.089059788653, 
+      "lon": 3.81259415729, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1478,11 +1502,11 @@
     }, 
     {
       "hnrlbls": [
-        "69C"
+        "67A-69C"
       ], 
       "housenumber": "69C", 
-      "lat": 51.088713594204, 
-      "lon": 3.813085129096, 
+      "lat": 51.089059788653, 
+      "lon": 3.81259415729, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1732,11 +1756,11 @@
     }, 
     {
       "hnrlbls": [
-        "84A"
+        "84A-84B"
       ], 
       "housenumber": "84A", 
-      "lat": 51.090001518973, 
-      "lon": 3.811857870983, 
+      "lat": 51.090038786166, 
+      "lon": 3.811583231369, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1744,11 +1768,11 @@
     }, 
     {
       "hnrlbls": [
-        "84B"
+        "84A-84B"
       ], 
       "housenumber": "84B", 
-      "lat": 51.089901258319, 
-      "lon": 3.811584297085, 
+      "lat": 51.090038786166, 
+      "lon": 3.811583231369, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1926,8 +1950,8 @@
         "94A"
       ], 
       "housenumber": "94A", 
-      "lat": 51.089693378151, 
-      "lon": 3.80734225356, 
+      "lat": 51.089561162301, 
+      "lon": 3.807004986437, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 

@@ -137,8 +137,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.012023212371, 
-      "lon": 4.331743035003, 
+      "lat": 51.012021774385, 
+      "lon": 4.331743891085, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -266,7 +266,7 @@
     }, 
     {
       "hnrlbls": [
-        "34"
+        "34-34B"
       ], 
       "housenumber": "34", 
       "lat": 51.011945379669, 
@@ -274,6 +274,30 @@
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
+      "street": "de Beughemlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "34-34B"
+      ], 
+      "housenumber": "34A", 
+      "lat": 51.011945379669, 
+      "lon": 4.330919193413, 
+      "municipality": "Kapelle-op-den-Bos", 
+      "pcode": "1880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "de Beughemlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "34-34B"
+      ], 
+      "housenumber": "34B", 
+      "lat": 51.011945379669, 
+      "lon": 4.330919193413, 
+      "municipality": "Kapelle-op-den-Bos", 
+      "pcode": "1880", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "de Beughemlaan"
     }, 
     {
@@ -399,8 +423,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.011157258369, 
-      "lon": 4.330761082381, 
+      "lat": 51.011157976184, 
+      "lon": 4.330756949544, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -423,8 +447,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.013451789502, 
-      "lon": 4.333350454481, 
+      "lat": 51.013504813375, 
+      "lon": 4.333311227955, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 
@@ -507,8 +531,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.010420644046, 
-      "lon": 4.33060307797, 
+      "lat": 51.010420825958, 
+      "lon": 4.330609774838, 
       "municipality": "Kapelle-op-den-Bos", 
       "pcode": "1880", 
       "source": "afgeleidVanGebouw", 

@@ -169,6 +169,48 @@
       "street": "Kopstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "24-26"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.172186338473, 
+      "lon": 2.880009495745, 
+      "municipality": "Middelkerke", 
+      "pcode": "8432", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kopstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
+      "hnrlbls": [
+        "24-26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.172186338473, 
+      "lon": 2.880009495745, 
+      "municipality": "Middelkerke", 
+      "pcode": "8432", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kopstraat"
+    }, 
+    {
       "hnrlbls": [
         "3"
       ], 
@@ -221,8 +263,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.173078437445, 
-      "lon": 2.879808576009, 
+      "lat": 51.173062372216, 
+      "lon": 2.879853565922, 
       "municipality": "Middelkerke", 
       "pcode": "8432", 
       "source": "manueleAanduidingVanGebouw", 

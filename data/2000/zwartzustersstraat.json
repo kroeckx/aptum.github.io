@@ -153,15 +153,21 @@
       "street": "Zwartzustersstraat"
     }, 
     {
+      "apptnrs": [
+        "1001", 
+        "2001", 
+        "3001", 
+        "4101"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.223397783024, 
-      "lon": 4.401412342329, 
+      "lat": 51.223416366568, 
+      "lon": 4.40149165548, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Zwartzustersstraat"
     }, 
     {
@@ -174,18 +180,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zwartzustersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.223402801806, 
-      "lon": 4.401464449059, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Zwartzustersstraat"
     }, 
     {

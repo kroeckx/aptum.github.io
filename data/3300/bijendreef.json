@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-7"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.813136011078, 
-      "lon": 4.948003807203, 
+      "lat": 50.813359324797, 
+      "lon": 4.947566537614, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bijendreef"
     }, 
     {
@@ -38,14 +38,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-7"
+        "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.813136011078, 
-      "lon": 4.948003807203, 
+      "lat": 50.813127414673, 
+      "lon": 4.947178857879, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bijendreef"
     }, 
     {
@@ -53,23 +53,23 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.81273863268, 
-      "lon": 4.947572938975, 
+      "lat": 50.812875128824, 
+      "lon": 4.947385048011, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bijendreef"
     }, 
     {
       "hnrlbls": [
-        "1-7"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.813136011078, 
-      "lon": 4.948003807203, 
+      "lat": 50.813078744514, 
+      "lon": 4.947094965659, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bijendreef"
     }
   ]

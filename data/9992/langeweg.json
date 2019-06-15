@@ -161,11 +161,11 @@
         "18C"
       ], 
       "housenumber": "18C", 
-      "lat": 51.245617932928, 
-      "lon": 3.403756912023, 
+      "lat": 51.245796083488, 
+      "lon": 3.403876682344, 
       "municipality": "Maldegem", 
       "pcode": "9992", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Langeweg"
     }, 
     {
@@ -314,11 +314,23 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.250404758334, 
+      "lon": 3.40615028873, 
+      "municipality": "Maldegem", 
+      "pcode": "9992", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Langeweg"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.250634872889, 
-      "lon": 3.408197252751, 
+      "lat": 51.250636988821, 
+      "lon": 3.40820322508, 
       "municipality": "Maldegem", 
       "pcode": "9992", 
       "source": "afgeleidVanGebouw", 

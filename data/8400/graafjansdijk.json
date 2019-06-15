@@ -2,11 +2,35 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
+        "2"
       ], 
-      "housenumber": "10", 
-      "lat": 51.208207997502, 
-      "lon": 2.869943123471, 
+      "housenumber": "2", 
+      "lat": 51.207757114153, 
+      "lon": 2.87067922683, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Graaf Jansdijk"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.207806226446, 
+      "lon": 2.870631564714, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Graaf Jansdijk"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.207850306219, 
+      "lon": 2.870584064093, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanLot", 

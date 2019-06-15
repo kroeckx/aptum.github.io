@@ -195,6 +195,23 @@
       "street": "Elisabethlaan"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 50.987413514093, 
+      "lon": 4.831228905773, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Elisabethlaan"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 

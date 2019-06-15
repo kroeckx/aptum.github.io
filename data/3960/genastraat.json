@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.15564730668, 
-      "lon": 5.602122897723, 
-      "municipality": "Bree", 
-      "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Genastraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -29,8 +17,8 @@
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.157892375448, 
-      "lon": 5.600992388929, 
+      "lat": 51.157898119055, 
+      "lon": 5.601010553484, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -133,15 +121,39 @@
       "street": "Genastraat"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.15564730668, 
-      "lon": 5.602122897723, 
+      "lat": 51.155715093834, 
+      "lon": 5.60239772908, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Genastraat"
+    }, 
+    {
+      "apptnrs": [
+        "0/1", 
+        "1/1"
+      ], 
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.155743742169, 
+      "lon": 5.602383333452, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Genastraat"
     }, 
     {

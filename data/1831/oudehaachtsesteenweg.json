@@ -225,35 +225,29 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 50.892622763828, 
-      "lon": 4.430590403348, 
+      "lat": 50.892643664378, 
+      "lon": 4.430505578185, 
       "municipality": "Machelen", 
       "pcode": "1831", 
       "source": "afgeleidVanGebouw", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
-        "36-38"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.89378333713, 
-      "lon": 4.432178752316, 
+      "lat": 50.894211668261, 
+      "lon": 4.433183251203, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Oude Haachtsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "36-38"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.89378333713, 
-      "lon": 4.432178752316, 
-      "municipality": "Machelen", 
-      "pcode": "1831", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
@@ -889,29 +883,26 @@
     }, 
     {
       "hnrlbls": [
-        "89-91"
+        "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.894807321661, 
-      "lon": 4.433959729017, 
+      "lat": 50.894807411714, 
+      "lon": 4.433959444866, 
       "municipality": "Machelen", 
       "pcode": "1831", 
       "source": "afgeleidVanGebouw", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {
-      "busnrs": [
-        "BS02"
-      ], 
       "hnrlbls": [
-        "89-91"
+        "91"
       ], 
       "housenumber": "91", 
-      "lat": 50.894807321661, 
-      "lon": 4.433959729017, 
+      "lat": 50.894804290726, 
+      "lon": 4.434074430823, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oude Haachtsesteenweg"
     }, 
     {

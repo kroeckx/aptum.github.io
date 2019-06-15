@@ -61,83 +61,111 @@
       "street": "Elzenstraat"
     }, 
     {
-      "apptnrs": [
-        "01-1", 
-        "01-2", 
-        "01-3", 
-        "02-1", 
-        "02-2", 
-        "02-3", 
-        "03-1", 
-        "03-2", 
-        "03-3", 
-        "04-1", 
-        "04-2", 
-        "04-3", 
-        "05-1", 
-        "05-2", 
-        "05-3", 
-        "06-1", 
-        "06-2", 
-        "06-3"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
-        "16"
+        "16A"
       ], 
-      "housenumber": "16", 
-      "lat": 51.023051624686, 
-      "lon": 5.39990640204, 
+      "housenumber": "16A", 
+      "lat": 51.02290272753, 
+      "lon": 5.399303877203, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elzenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16B"
+      ], 
+      "housenumber": "16B", 
+      "lat": 51.022922000824, 
+      "lon": 5.399402512674, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elzenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16C"
+      ], 
+      "housenumber": "16C", 
+      "lat": 51.022941276551, 
+      "lon": 5.399490600214, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elzenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16D"
+      ], 
+      "housenumber": "16D", 
+      "lat": 51.022965652988, 
+      "lon": 5.399581365936, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elzenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16E"
+      ], 
+      "housenumber": "16E", 
+      "lat": 51.022985022245, 
+      "lon": 5.399658765076, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elzenstraat"
     }, 
     {
       "apptnrs": [
-        "01-1", 
-        "01-2", 
-        "01-3", 
-        "02-1", 
-        "02-2", 
-        "02-3", 
-        "03-1", 
-        "03-2", 
-        "03-3", 
-        "04-1", 
-        "04-2", 
-        "04-3", 
-        "05-1", 
-        "05-2", 
-        "05-3", 
-        "06-1", 
-        "06-2", 
-        "06-3"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "18A", 
+        "18A/1-1"
       ], 
       "hnrlbls": [
-        "18"
+        "18A"
       ], 
-      "housenumber": "18", 
-      "lat": 51.023067351383, 
-      "lon": 5.400645257984, 
+      "housenumber": "18A", 
+      "lat": 51.023073885716, 
+      "lon": 5.399838472476, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elzenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "18B", 
+        "18B/1-1"
+      ], 
+      "hnrlbls": [
+        "18B"
+      ], 
+      "housenumber": "18B", 
+      "lat": 51.02310918079, 
+      "lon": 5.400006594459, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Elzenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "18C", 
+        "18C/1-1"
+      ], 
+      "hnrlbls": [
+        "18C"
+      ], 
+      "housenumber": "18C", 
+      "lat": 51.023151377844, 
+      "lon": 5.40016674393, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elzenstraat"
     }, 
     {
@@ -150,6 +178,24 @@
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
+      "street": "Elzenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "20/1-1", 
+        "20/1-2", 
+        "20/2-1", 
+        "20/2-2"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.023294066012, 
+      "lon": 5.400687460983, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Elzenstraat"
     }, 
     {
@@ -289,8 +335,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.023641245158, 
-      "lon": 5.402460235126, 
+      "lat": 51.023633148026, 
+      "lon": 5.402471174661, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -301,8 +347,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.023671913612, 
-      "lon": 5.40259176778, 
+      "lat": 51.023661845627, 
+      "lon": 5.40259168789, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 

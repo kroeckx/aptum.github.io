@@ -89,8 +89,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.114712994156, 
-      "lon": 4.862970523472, 
+      "lat": 51.114649820303, 
+      "lon": 4.863051827748, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +101,8 @@
         "104_1"
       ], 
       "housenumber": "104_1", 
-      "lat": 51.114769390031, 
-      "lon": 4.862919280318, 
+      "lat": 51.114714758913, 
+      "lon": 4.862978396752, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
@@ -125,8 +125,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.114824713846, 
-      "lon": 4.862866454767, 
+      "lat": 51.114781498779, 
+      "lon": 4.862904127758, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "106_1"
       ], 
       "housenumber": "106_1", 
-      "lat": 51.114880896961, 
-      "lon": 4.862823063732, 
+      "lat": 51.114847200144, 
+      "lon": 4.862841700885, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 
@@ -1097,11 +1097,23 @@
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.117980971604, 
-      "lon": 4.857356002409, 
+      "lat": 51.117965949184, 
+      "lon": 4.857401976181, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Ter Voort"
+    }, 
+    {
+      "hnrlbls": [
+        "165_1"
+      ], 
+      "housenumber": "165_1", 
+      "lat": 51.118026916034, 
+      "lon": 4.857266649169, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ter Voort"
     }, 
     {
@@ -1121,11 +1133,23 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 51.118161967431, 
-      "lon": 4.856932290252, 
+      "lat": 51.118119026086, 
+      "lon": 4.857034529395, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Ter Voort"
+    }, 
+    {
+      "hnrlbls": [
+        "167_1"
+      ], 
+      "housenumber": "167_1", 
+      "lat": 51.11820776834, 
+      "lon": 4.85687749752, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ter Voort"
     }, 
     {
@@ -1183,6 +1207,18 @@
       "housenumber": "172A", 
       "lat": 51.118843898198, 
       "lon": 4.856012929457, 
+      "municipality": "Westerlo", 
+      "pcode": "2260", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ter Voort"
+    }, 
+    {
+      "hnrlbls": [
+        "173"
+      ], 
+      "housenumber": "173", 
+      "lat": 51.118489399667, 
+      "lon": 4.856137339448, 
       "municipality": "Westerlo", 
       "pcode": "2260", 
       "source": "afgeleidVanGebouw", 

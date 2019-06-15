@@ -30,14 +30,14 @@
     }, 
     {
       "hnrlbls": [
-        "9-11"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.003553511787, 
-      "lon": 4.62852277538, 
+      "lat": 51.003489073694, 
+      "lon": 4.628557037199, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gemeenteplein"
     }, 
     {
@@ -95,9 +95,9 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3", 
-        "4"
+        "3"
       ], 
       "hnrlbls": [
         "16"
@@ -174,7 +174,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "22-24"
@@ -275,7 +276,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "9-11"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.003553511787, 

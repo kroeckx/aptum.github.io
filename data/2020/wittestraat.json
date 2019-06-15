@@ -771,8 +771,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.188867912877, 
-      "lon": 4.385957379114, 
+      "lat": 51.188867013941, 
+      "lon": 4.385957950907, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -795,8 +795,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.188849762734, 
-      "lon": 4.385913603599, 
+      "lat": 51.188849762929, 
+      "lon": 4.385912316289, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1035,8 +1035,8 @@
         "62-64"
       ], 
       "housenumber": "62", 
-      "lat": 51.189055612514, 
-      "lon": 4.385217959554, 
+      "lat": 51.189055522775, 
+      "lon": 4.385216958275, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1059,8 +1059,8 @@
         "62-64"
       ], 
       "housenumber": "64", 
-      "lat": 51.189055612514, 
-      "lon": 4.385217959554, 
+      "lat": 51.189055522775, 
+      "lon": 4.385216958275, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1139,12 +1139,9 @@
       "street": "Wittestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "71"
@@ -1343,8 +1340,8 @@
         "84-86"
       ], 
       "housenumber": "84", 
-      "lat": 51.188401137093, 
-      "lon": 4.384750000608, 
+      "lat": 51.188364538556, 
+      "lon": 4.384858263497, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1358,8 +1355,8 @@
         "84-86"
       ], 
       "housenumber": "84_8", 
-      "lat": 51.188401137093, 
-      "lon": 4.384750000608, 
+      "lat": 51.188364538556, 
+      "lon": 4.384858263497, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

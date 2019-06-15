@@ -33,11 +33,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.13243834008, 
-      "lon": 3.67787600932, 
+      "lat": 51.132418745938, 
+      "lon": 3.677891728532, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -81,11 +81,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.132852153304, 
-      "lon": 3.676839522824, 
+      "lat": 51.132863317687, 
+      "lon": 3.67685793064, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -185,7 +185,7 @@
       "street": "Schoolstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0002", 
         "0101", 
         "0102", 

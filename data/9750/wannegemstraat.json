@@ -53,8 +53,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.898952204524, 
-      "lon": 3.587876206691, 
+      "lat": 50.898972442258, 
+      "lon": 3.587837203094, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
       "source": "afgeleidVanGebouw", 
@@ -65,8 +65,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.898978513229, 
-      "lon": 3.587736169109, 
+      "lat": 50.898950744338, 
+      "lon": 3.587724120593, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
       "source": "afgeleidVanGebouw", 
@@ -93,7 +93,7 @@
       "lon": 3.587270326172, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Wannegemstraat"
     }, 
     {
@@ -453,7 +453,7 @@
       "lon": 3.58791583519, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Wannegemstraat"
     }
   ]

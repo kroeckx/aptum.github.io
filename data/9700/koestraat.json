@@ -236,12 +236,31 @@
       "street": "Koestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.849346830205, 
-      "lon": 3.596005097293, 
+      "lat": 50.849453788796, 
+      "lon": 3.595960737642, 
+      "municipality": "Oudenaarde", 
+      "pcode": "9700", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 50.849416442539, 
+      "lon": 3.59584575558, 
       "municipality": "Oudenaarde", 
       "pcode": "9700", 
       "source": "manueleAanduidingVanGebouw", 
@@ -638,6 +657,18 @@
       "municipality": "Oudenaarde", 
       "pcode": "9700", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Koestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 50.849666601994, 
+      "lon": 3.595868201599, 
+      "municipality": "Oudenaarde", 
+      "pcode": "9700", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koestraat"
     }
   ]

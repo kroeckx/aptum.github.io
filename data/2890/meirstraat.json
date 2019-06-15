@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.066703949975, 
-      "lon": 4.245523563038, 
+      "lat": 51.066701881493, 
+      "lon": 4.245522569827, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -29,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.066902147563, 
-      "lon": 4.244826426144, 
+      "lat": 51.066903137087, 
+      "lon": 4.244827136847, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +149,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.06702177946, 
-      "lon": 4.243874554078, 
+      "lat": 51.066997246573, 
+      "lon": 4.243881038994, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +221,8 @@
         "25B"
       ], 
       "housenumber": "25B", 
-      "lat": 51.067078901837, 
-      "lon": 4.242895453142, 
+      "lat": 51.067095532634, 
+      "lon": 4.242896692611, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -341,8 +341,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.067266158376, 
-      "lon": 4.246257803349, 
+      "lat": 51.067265615946, 
+      "lon": 4.24625480884, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -377,11 +377,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.067298615486, 
-      "lon": 4.246525925379, 
+      "lat": 51.067342755372, 
+      "lon": 4.246181992442, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Meirstraat"
     }, 
     {
@@ -493,6 +493,12 @@
       "street": "Meirstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -509,11 +515,11 @@
         "36A"
       ], 
       "housenumber": "36A", 
-      "lat": 51.067663104622, 
-      "lon": 4.247039282808, 
+      "lat": 51.067632096349, 
+      "lon": 4.247042644294, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Meirstraat"
     }, 
     {
@@ -521,11 +527,11 @@
         "36B"
       ], 
       "housenumber": "36B", 
-      "lat": 51.067753726908, 
-      "lon": 4.247053029499, 
+      "lat": 51.067740788192, 
+      "lon": 4.247058198884, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Meirstraat"
     }, 
     {
@@ -682,8 +688,8 @@
         "47-47B"
       ], 
       "housenumber": "47", 
-      "lat": 51.067891065958, 
-      "lon": 4.246169721483, 
+      "lat": 51.067891064778, 
+      "lon": 4.246168580167, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -694,8 +700,8 @@
         "47-47B"
       ], 
       "housenumber": "47B", 
-      "lat": 51.067891065958, 
-      "lon": 4.246169721483, 
+      "lat": 51.067891064778, 
+      "lon": 4.246168580167, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -790,8 +796,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.066465644093, 
-      "lon": 4.245860295359, 
+      "lat": 51.066466449246, 
+      "lon": 4.245856584082, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -802,8 +808,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.06842731335, 
-      "lon": 4.246313986809, 
+      "lat": 51.068428108347, 
+      "lon": 4.246300431424, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 

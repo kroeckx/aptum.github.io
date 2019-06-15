@@ -1276,9 +1276,6 @@
       "street": "Van Duyststraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "193"
       ], 
@@ -1360,18 +1357,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Van Duyststraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 51.231470823315, 
-      "lon": 4.444069493465, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Duyststraat"
     }, 
     {
@@ -1781,11 +1766,11 @@
         "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 51.23149892896, 
-      "lon": 4.445360605014, 
+      "lat": 51.231614273452, 
+      "lon": 4.445324002679, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Duyststraat"
     }, 
     {
@@ -2267,9 +2252,6 @@
       "street": "Van Duyststraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -2401,18 +2383,6 @@
     }, 
     {
       "hnrlbls": [
-        "82C"
-      ], 
-      "housenumber": "82C", 
-      "lat": 51.231540053603, 
-      "lon": 4.446786888368, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Van Duyststraat"
-    }, 
-    {
-      "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
@@ -2428,8 +2398,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.231536954854, 
-      "lon": 4.446851021296, 
+      "lat": 51.231482735586, 
+      "lon": 4.446880278556, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

@@ -142,6 +142,11 @@
       "street": "Ergo-de Waellaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -288,6 +293,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -480,6 +486,12 @@
       "street": "Ergo-de Waellaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "29"
       ], 
@@ -680,6 +692,11 @@
       "street": "Ergo-de Waellaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -692,8 +709,10 @@
       "street": "Ergo-de Waellaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "40"
@@ -748,6 +767,10 @@
       "street": "Ergo-de Waellaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -837,6 +860,11 @@
       "street": "Ergo-de Waellaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "50"
       ], 

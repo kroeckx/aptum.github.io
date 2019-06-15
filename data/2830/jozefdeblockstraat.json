@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.036327491484, 
-      "lon": 4.353432228495, 
+      "lat": 51.036295583473, 
+      "lon": 4.35345561968, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "100-100J"
+        "100"
       ], 
       "housenumber": "100", 
       "lat": 51.043858897821, 
@@ -22,18 +22,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jozef De Blockstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "100-100J"
-      ], 
-      "housenumber": "100J", 
-      "lat": 51.043858897821, 
-      "lon": 4.358620059738, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jozef De Blockstraat"
     }, 
     {
@@ -50,7 +38,7 @@
     }, 
     {
       "hnrlbls": [
-        "102-102C"
+        "102"
       ], 
       "housenumber": "102", 
       "lat": 51.044247948361, 
@@ -74,23 +62,23 @@
     }, 
     {
       "hnrlbls": [
-        "102-102C"
-      ], 
-      "housenumber": "102C", 
-      "lat": 51.044247948361, 
-      "lon": 4.358721364609, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef De Blockstraat"
-    }, 
-    {
-      "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
       "lat": 51.044479592049, 
       "lon": 4.35869679234, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Jozef De Blockstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 51.036350957858, 
+      "lon": 4.353473423474, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -142,18 +130,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Jozef De Blockstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.036367556132, 
-      "lon": 4.353953874487, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Jozef De Blockstraat"
     }, 
     {
@@ -333,8 +309,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.037428121812, 
-      "lon": 4.354333508825, 
+      "lat": 51.037462105058, 
+      "lon": 4.354375415008, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -373,7 +349,7 @@
       "lon": 4.354385633579, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jozef De Blockstraat"
     }, 
     {
@@ -714,18 +690,6 @@
     }, 
     {
       "hnrlbls": [
-        "55"
-      ], 
-      "housenumber": "55", 
-      "lat": 51.040078359212, 
-      "lon": 4.356127812615, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef De Blockstraat"
-    }, 
-    {
-      "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
@@ -762,7 +726,7 @@
     }, 
     {
       "hnrlbls": [
-        "60-62B"
+        "60-60B"
       ], 
       "housenumber": "60", 
       "lat": 51.039970922824, 
@@ -774,7 +738,7 @@
     }, 
     {
       "hnrlbls": [
-        "60-62B"
+        "60-60B"
       ], 
       "housenumber": "60A", 
       "lat": 51.039970922824, 
@@ -786,7 +750,7 @@
     }, 
     {
       "hnrlbls": [
-        "60-62B"
+        "60-60B"
       ], 
       "housenumber": "60B", 
       "lat": 51.039970922824, 
@@ -797,9 +761,6 @@
       "street": "Jozef De Blockstraat"
     }, 
     {
-      "busnrs": [
-        "6"
-      ], 
       "hnrlbls": [
         "62-62A"
       ], 
@@ -821,18 +782,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Jozef De Blockstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "60-62B"
-      ], 
-      "housenumber": "62B", 
-      "lat": 51.039970922824, 
-      "lon": 4.355105829613, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Jozef De Blockstraat"
     }, 
     {
@@ -1044,33 +993,9 @@
     }, 
     {
       "hnrlbls": [
-        "81-85"
+        "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.044015374697, 
-      "lon": 4.359522207085, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jozef De Blockstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "81-85"
-      ], 
-      "housenumber": "83", 
-      "lat": 51.044015374697, 
-      "lon": 4.359522207085, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jozef De Blockstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "81-85"
-      ], 
-      "housenumber": "85", 
       "lat": 51.044015374697, 
       "lon": 4.359522207085, 
       "municipality": "Willebroek", 

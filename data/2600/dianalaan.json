@@ -1,8 +1,13 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "1-155"
@@ -289,11 +294,14 @@
       "street": "Dianalaan"
     }, 
     {
-      "apptnrs": [
-        "0101"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
-        "159-161"
+        "159"
       ], 
       "housenumber": "159", 
       "lat": 51.196341682424, 
@@ -305,35 +313,11 @@
     }, 
     {
       "hnrlbls": [
-        "159A"
-      ], 
-      "housenumber": "159A", 
-      "lat": 51.196341412586, 
-      "lon": 4.44418921986, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dianalaan"
-    }, 
-    {
-      "hnrlbls": [
         "160"
       ], 
       "housenumber": "160", 
       "lat": 51.196367527398, 
       "lon": 4.444670937436, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dianalaan"
-    }, 
-    {
-      "hnrlbls": [
-        "159-161"
-      ], 
-      "housenumber": "161", 
-      "lat": 51.196341682424, 
-      "lon": 4.444188934186, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 

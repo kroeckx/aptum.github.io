@@ -102,8 +102,8 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "106"
@@ -2283,6 +2283,18 @@
     }, 
     {
       "hnrlbls": [
+        "264A"
+      ], 
+      "housenumber": "264A", 
+      "lat": 51.141630782053, 
+      "lon": 4.551224336287, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "street": "Antwerpsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "265"
       ], 
       "housenumber": "265", 
@@ -3848,26 +3860,6 @@
       "housenumber": "399", 
       "lat": 51.14382027911, 
       "lon": 4.545254254987, 
-      "municipality": "Lier", 
-      "pcode": "2500", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Antwerpsesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.136338965953, 
-      "lon": 4.562894979616, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

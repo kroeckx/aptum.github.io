@@ -17,8 +17,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.325268247977, 
-      "lon": 4.581692744304, 
+      "lat": 51.325266179452, 
+      "lon": 4.581693452077, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -41,11 +41,23 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.324487429559, 
-      "lon": 4.577376415676, 
+      "lat": 51.324082765951, 
+      "lon": 4.577897042844, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mieksebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "104A"
+      ], 
+      "housenumber": "104A", 
+      "lat": 51.323997772546, 
+      "lon": 4.577573321944, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Mieksebaan"
     }, 
     {
@@ -245,8 +257,8 @@
         "127A"
       ], 
       "housenumber": "127A", 
-      "lat": 51.320722788939, 
-      "lon": 4.567899152383, 
+      "lat": 51.320722974262, 
+      "lon": 4.56789585405, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +269,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.323128828265, 
-      "lon": 4.572623183175, 
+      "lat": 51.323112166086, 
+      "lon": 4.572643049155, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -317,11 +329,11 @@
         "131A"
       ], 
       "housenumber": "131A", 
-      "lat": 51.320234494922, 
-      "lon": 4.56676073216, 
+      "lat": 51.320337820371, 
+      "lon": 4.566675683667, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mieksebaan"
     }, 
     {
@@ -389,8 +401,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.322879454996, 
-      "lon": 4.571971267314, 
+      "lat": 51.322879590784, 
+      "lon": 4.571944586754, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -473,8 +485,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.319634106674, 
-      "lon": 4.564542496253, 
+      "lat": 51.319646583573, 
+      "lon": 4.5645524461, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -509,8 +521,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.322317919226, 
-      "lon": 4.571374081777, 
+      "lat": 51.322324925913, 
+      "lon": 4.571376407522, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -629,8 +641,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.31888771844, 
-      "lon": 4.562264756514, 
+      "lat": 51.318888350656, 
+      "lon": 4.562262894502, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -653,8 +665,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.318770296226, 
-      "lon": 4.562013686586, 
+      "lat": 51.318774797972, 
+      "lon": 4.562008972017, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -929,8 +941,8 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 51.319060917705, 
-      "lon": 4.560280765977, 
+      "lat": 51.319061005258, 
+      "lon": 4.560282200692, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 

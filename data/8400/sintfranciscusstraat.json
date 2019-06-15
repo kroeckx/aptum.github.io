@@ -17,18 +17,15 @@
       "street": "Sint-Franciscusstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.232295599979, 
-      "lon": 2.920412179842, 
+      "lat": 51.232303144503, 
+      "lon": 2.920448317064, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Franciscusstraat"
     }, 
     {
@@ -48,8 +45,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.232375825179, 
-      "lon": 2.920848295267, 
+      "lat": 51.232335166297, 
+      "lon": 2.92075819919, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -111,8 +108,7 @@
         "2", 
         "3", 
         "4", 
-        "5", 
-        "A000"
+        "5"
       ], 
       "hnrlbls": [
         "16A"
@@ -223,8 +219,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.231874958301, 
-      "lon": 2.92072824205, 
+      "lat": 51.23187858501, 
+      "lon": 2.920723404044, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -657,8 +653,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.231127854753, 
-      "lon": 2.921820650352, 
+      "lat": 51.231143601206, 
+      "lon": 2.921858537086, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -706,8 +702,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.230794096992, 
-      "lon": 2.921949137909, 
+      "lat": 51.230783448986, 
+      "lon": 2.921945888497, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -886,9 +882,6 @@
       "street": "Sint-Franciscusstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "5A"
       ], 

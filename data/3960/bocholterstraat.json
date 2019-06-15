@@ -80,11 +80,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.145197169539, 
-      "lon": 5.598803691751, 
+      "lat": 51.14519007794, 
+      "lon": 5.598794072115, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bocholterstraat"
     }, 
     {
@@ -92,8 +92,8 @@
         "16-22"
       ], 
       "housenumber": "22", 
-      "lat": 51.146361862332, 
-      "lon": 5.598341441767, 
+      "lat": 51.146254829888, 
+      "lon": 5.598389645794, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -136,15 +136,65 @@
       "street": "Bocholterstraat"
     }, 
     {
-      "hnrlbls": [
-        "26"
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
       ], 
-      "housenumber": "26", 
-      "lat": 51.146664803474, 
-      "lon": 5.598196493028, 
+      "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 51.146672092426, 
+      "lon": 5.598126794753, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bocholterstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "26B"
+      ], 
+      "housenumber": "26B", 
+      "lat": 51.146655465725, 
+      "lon": 5.598126356804, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bocholterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "26C"
+      ], 
+      "housenumber": "26C", 
+      "lat": 51.1466929823, 
+      "lon": 5.598399617062, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bocholterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "26D"
+      ], 
+      "housenumber": "26D", 
+      "lat": 51.146668108039, 
+      "lon": 5.598396960778, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bocholterstraat"
     }, 
     {
@@ -548,8 +598,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.152598180337, 
-      "lon": 5.59595350916, 
+      "lat": 51.15259894907, 
+      "lon": 5.595957388835, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 

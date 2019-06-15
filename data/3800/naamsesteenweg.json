@@ -1063,8 +1063,8 @@
         "183"
       ], 
       "housenumber": "183", 
-      "lat": 50.808020386395, 
-      "lon": 5.181300521071, 
+      "lat": 50.808020023879, 
+      "lon": 5.18130094046, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1111,8 +1111,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 50.807825600506, 
-      "lon": 5.181309072283, 
+      "lat": 50.807826130004, 
+      "lon": 5.181310500282, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1135,8 +1135,8 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 50.80778433222, 
-      "lon": 5.181283671024, 
+      "lat": 50.807785040515, 
+      "lon": 5.181285243996, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1174,8 +1174,8 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 50.807739609001, 
-      "lon": 5.181276796929, 
+      "lat": 50.807740069284, 
+      "lon": 5.181275244158, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1258,8 +1258,8 @@
         "198"
       ], 
       "housenumber": "198", 
-      "lat": 50.806497123269, 
-      "lon": 5.18152971736, 
+      "lat": 50.806497395895, 
+      "lon": 5.181529296433, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1406,8 +1406,8 @@
         "207"
       ], 
       "housenumber": "207", 
-      "lat": 50.807225451668, 
-      "lon": 5.181045153679, 
+      "lat": 50.807225970343, 
+      "lon": 5.181048142179, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1430,8 +1430,8 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 50.807177977908, 
-      "lon": 5.181020071394, 
+      "lat": 50.807178710813, 
+      "lon": 5.181018097703, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1938,6 +1938,18 @@
       "street": "Naamsesteenweg"
     }, 
     {
+      "hnrlbls": [
+        "254"
+      ], 
+      "housenumber": "254", 
+      "lat": 50.800507992048, 
+      "lon": 5.180049258845, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
       "busnrs": [
         "1", 
         "101", 
@@ -2056,8 +2068,8 @@
         "262A"
       ], 
       "housenumber": "262A", 
-      "lat": 50.799694347532, 
-      "lon": 5.179703975171, 
+      "lat": 50.799694055259, 
+      "lon": 5.179707232909, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -2212,8 +2224,8 @@
         "280"
       ], 
       "housenumber": "280", 
-      "lat": 50.795847694228, 
-      "lon": 5.178461706283, 
+      "lat": 50.795847056161, 
+      "lon": 5.17846297193, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2982,6 +2994,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "363"
+      ], 
+      "housenumber": "363", 
+      "lat": 50.792420798925, 
+      "lon": 5.176487030993, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -3785,6 +3809,18 @@
     }, 
     {
       "hnrlbls": [
+        "477A"
+      ], 
+      "housenumber": "477A", 
+      "lat": 50.776282487425, 
+      "lon": 5.163359969976, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Naamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "478"
       ], 
       "housenumber": "478", 
@@ -3812,11 +3848,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.811708130847, 
-      "lon": 5.183837382941, 
+      "lat": 50.811708318529, 
+      "lon": 5.183836251025, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Naamsesteenweg"
     }, 
     {
@@ -3896,8 +3932,8 @@
         "486"
       ], 
       "housenumber": "486", 
-      "lat": 50.77628848967, 
-      "lon": 5.156850111218, 
+      "lat": 50.776288584337, 
+      "lon": 5.156849403859, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -3920,8 +3956,8 @@
         "488"
       ], 
       "housenumber": "488", 
-      "lat": 50.776273581383, 
-      "lon": 5.156607544156, 
+      "lat": 50.776273407328, 
+      "lon": 5.156606690507, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -3956,8 +3992,8 @@
         "493"
       ], 
       "housenumber": "493", 
-      "lat": 50.776434145842, 
-      "lon": 5.161200241775, 
+      "lat": 50.776455770953, 
+      "lon": 5.161219605904, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanPerceelGrb", 

@@ -149,11 +149,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.180785997789, 
-      "lon": 3.73527918103, 
+      "lat": 51.180796997603, 
+      "lon": 3.735201517748, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuivenbergstraat"
     }, 
     {
@@ -293,11 +293,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.179271138504, 
-      "lon": 3.730720528736, 
+      "lat": 51.179260197588, 
+      "lon": 3.730725254482, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuivenbergstraat"
     }, 
     {
@@ -500,11 +500,11 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.178173845662, 
-      "lon": 3.728786756338, 
+      "lat": 51.178167402903, 
+      "lon": 3.728775547031, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuivenbergstraat"
     }, 
     {
@@ -524,11 +524,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.178160278874, 
-      "lon": 3.728522236149, 
+      "lat": 51.178171297975, 
+      "lon": 3.728515363819, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuivenbergstraat"
     }, 
     {
@@ -536,11 +536,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.17810553269, 
-      "lon": 3.728405291694, 
+      "lat": 51.178105441972, 
+      "lon": 3.728421738727, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuivenbergstraat"
     }, 
     {
@@ -685,6 +685,18 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stuivenbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 51.177050792928, 
+      "lon": 3.726717002837, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stuivenbergstraat"
     }
   ]

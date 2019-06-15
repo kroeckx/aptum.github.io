@@ -384,8 +384,10 @@
       "street": "Appelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "38"
@@ -868,9 +870,6 @@
       "street": "Appelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "7"
       ], 

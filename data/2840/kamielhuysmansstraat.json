@@ -121,12 +121,19 @@
       "street": "Kamiel Huysmansstraat"
     }, 
     {
+      "busnrs": [
+        "00.01", 
+        "00.02", 
+        "01.01", 
+        "01.02", 
+        "02.01"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.079745219737, 
-      "lon": 4.399431530511, 
+      "lat": 51.079760143022, 
+      "lon": 4.399424833579, 
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 

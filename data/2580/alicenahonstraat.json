@@ -198,12 +198,16 @@
       "street": "Alice Nahonstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "201"
+      ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.056010084154, 
-      "lon": 4.629339190613, 
+      "lat": 51.056028323027, 
+      "lon": 4.62934314344, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -255,18 +259,15 @@
       "street": "Alice Nahonstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.056071342205, 
-      "lon": 4.630411963928, 
+      "lat": 51.056124595716, 
+      "lon": 4.630394576405, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alice Nahonstraat"
     }, 
     {
@@ -282,15 +283,25 @@
       "street": "Alice Nahonstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.056060431616, 
-      "lon": 4.630306071685, 
+      "lat": 51.056110975116, 
+      "lon": 4.630294659304, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alice Nahonstraat"
     }, 
     {
@@ -310,11 +321,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.056053417324, 
-      "lon": 4.630226587769, 
+      "lat": 51.056095455661, 
+      "lon": 4.630199723661, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Alice Nahonstraat"
     }
   ]

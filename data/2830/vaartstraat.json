@@ -65,11 +65,11 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.070384364605, 
-      "lon": 4.359186109219, 
+      "lat": 51.070433970355, 
+      "lon": 4.359016462304, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vaartstraat"
     }, 
     {
@@ -77,11 +77,11 @@
         "109-111"
       ], 
       "housenumber": "109", 
-      "lat": 51.070339057154, 
-      "lon": 4.359140177389, 
+      "lat": 51.070386504549, 
+      "lon": 4.358958118521, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vaartstraat"
     }, 
     {
@@ -101,23 +101,11 @@
         "109-111"
       ], 
       "housenumber": "111", 
-      "lat": 51.070339057154, 
-      "lon": 4.359140177389, 
+      "lat": 51.070386504549, 
+      "lon": 4.358958118521, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Vaartstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "113"
-      ], 
-      "housenumber": "113", 
-      "lat": 51.070400794326, 
-      "lon": 4.358925158435, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vaartstraat"
     }, 
     {
@@ -618,18 +606,6 @@
     }, 
     {
       "hnrlbls": [
-        "216"
-      ], 
-      "housenumber": "216", 
-      "lat": 51.072664361795, 
-      "lon": 4.353445691606, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Vaartstraat"
-    }, 
-    {
-      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -981,11 +957,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.069478580781, 
-      "lon": 4.36256669227, 
+      "lat": 51.06935767968, 
+      "lon": 4.36255486493, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {
@@ -1036,11 +1012,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.069456740936, 
-      "lon": 4.362634748156, 
+      "lat": 51.069379429591, 
+      "lon": 4.362486809161, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {
@@ -1060,11 +1036,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.06939309103, 
-      "lon": 4.362451568231, 
+      "lat": 51.069400819914, 
+      "lon": 4.362418896042, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {
@@ -1454,8 +1430,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.069557790708, 
-      "lon": 4.361192630651, 
+      "lat": 51.069582775747, 
+      "lon": 4.36112314678, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

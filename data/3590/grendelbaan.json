@@ -417,18 +417,6 @@
     }, 
     {
       "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 50.905330292887, 
-      "lon": 5.432471530164, 
-      "municipality": "Diepenbeek", 
-      "pcode": "3590", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Grendelbaan"
-    }, 
-    {
-      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -1026,14 +1014,38 @@
     }, 
     {
       "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 50.900986702984, 
+      "lon": 5.441450610977, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grendelbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "96A"
+      ], 
+      "housenumber": "96A", 
+      "lat": 50.900953575075, 
+      "lon": 5.441583211175, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Grendelbaan"
+    }, 
+    {
+      "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 50.900929465959, 
-      "lon": 5.441496361397, 
+      "lat": 50.900902952528, 
+      "lon": 5.441800287872, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grendelbaan"
     }
   ]

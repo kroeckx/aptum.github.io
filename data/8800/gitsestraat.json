@@ -721,6 +721,11 @@
       "street": "Gitsestraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "163"
       ], 
@@ -2026,18 +2031,6 @@
       "housenumber": "282", 
       "lat": 50.959908427384, 
       "lon": 3.117844218345, 
-      "municipality": "Roeselare", 
-      "pcode": "8800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gitsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "286"
-      ], 
-      "housenumber": "286", 
-      "lat": 50.960421961541, 
-      "lon": 3.117472068465, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3788,18 +3781,6 @@
     }, 
     {
       "hnrlbls": [
-        "61"
-      ], 
-      "housenumber": "61", 
-      "lat": 50.953507757816, 
-      "lon": 3.118573672736, 
-      "municipality": "Roeselare", 
-      "pcode": "8800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gitsestraat"
-    }, 
-    {
-      "hnrlbls": [
         "612"
       ], 
       "housenumber": "612", 
@@ -3839,8 +3820,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.95354052795, 
-      "lon": 3.118544047534, 
+      "lat": 50.953490501177, 
+      "lon": 3.118591070606, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3863,8 +3844,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.953579671964, 
-      "lon": 3.11851354077, 
+      "lat": 50.953539131984, 
+      "lon": 3.118531132064, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3887,8 +3868,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.953616327199, 
-      "lon": 3.118477264446, 
+      "lat": 50.95358010447, 
+      "lon": 3.118495025422, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3911,8 +3892,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.953664069378, 
-      "lon": 3.118443681715, 
+      "lat": 50.953621082995, 
+      "lon": 3.118459487905, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3925,18 +3906,6 @@
       "housenumber": "7", 
       "lat": 50.952206195179, 
       "lon": 3.119351328565, 
-      "municipality": "Roeselare", 
-      "pcode": "8800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gitsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "70"
-      ], 
-      "housenumber": "70", 
-      "lat": 50.953476889027, 
-      "lon": 3.119315215802, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4173,14 +4142,14 @@
     {
       "apptnrs": [
         "11", 
-        "12"
+        "21"
       ], 
       "hnrlbls": [
         "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 50.951953299183, 
-      "lon": 3.119656675151, 
+      "lat": 50.951965217154, 
+      "lon": 3.119703754505, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
       "source": "manueleAanduidingVanGebouw", 

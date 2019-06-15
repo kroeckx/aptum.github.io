@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.129451839448, 
@@ -98,14 +98,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.129451839448, 
-      "lon": 3.671304190856, 
+      "lat": 51.129232277032, 
+      "lon": 3.671524324125, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Keizersdreef"
     }, 
     {

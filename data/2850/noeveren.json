@@ -1088,9 +1088,6 @@
       "street": "Noeveren"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "199"
       ], 
@@ -1100,6 +1097,18 @@
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 
+      "street": "Noeveren"
+    }, 
+    {
+      "hnrlbls": [
+        "200"
+      ], 
+      "housenumber": "200", 
+      "lat": 51.094802243789, 
+      "lon": 4.345825229788, 
+      "municipality": "Boom", 
+      "pcode": "2850", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Noeveren"
     }, 
     {
@@ -2317,8 +2326,8 @@
         "323"
       ], 
       "housenumber": "323", 
-      "lat": 51.097901533843, 
-      "lon": 4.345563653946, 
+      "lat": 51.097922293199, 
+      "lon": 4.345538661604, 
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "afgeleidVanGebouw", 

@@ -545,11 +545,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.761236959333, 
-      "lon": 3.889847811652, 
+      "lat": 50.7608653767, 
+      "lon": 3.889202710564, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Schillebeekstraat"
     }, 
     {
@@ -586,6 +586,18 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Schillebeekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51A"
+      ], 
+      "housenumber": "51A", 
+      "lat": 50.761065770902, 
+      "lon": 3.889842746548, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schillebeekstraat"
     }, 
     {

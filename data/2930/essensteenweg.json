@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "103"
+      ], 
+      "housenumber": "103", 
+      "lat": 51.344936151667, 
+      "lon": 4.513644477735, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Essensteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "105"
       ], 
       "housenumber": "105", 
@@ -334,6 +346,30 @@
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Essensteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 51.343978139825, 
+      "lon": 4.514217965724, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Essensteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 51.344497605686, 
+      "lon": 4.513883489852, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Essensteenweg"
     }
   ]

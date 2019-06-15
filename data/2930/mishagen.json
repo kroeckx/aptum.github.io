@@ -245,11 +245,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.326012561628, 
-      "lon": 4.497885670427, 
+      "lat": 51.325950047337, 
+      "lon": 4.497929106656, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mishagen"
     }, 
     {
@@ -257,11 +257,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.326210671217, 
-      "lon": 4.497626709549, 
+      "lat": 51.326246382319, 
+      "lon": 4.497764814773, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mishagen"
     }, 
     {
@@ -338,6 +338,18 @@
     }, 
     {
       "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 51.323438219681, 
+      "lon": 4.494891745929, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mishagen"
+    }, 
+    {
+      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
@@ -397,9 +409,6 @@
       "street": "Mishagen"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "60"
       ], 

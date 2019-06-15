@@ -152,21 +152,27 @@
       "street": "Brugstraat"
     }, 
     {
-      "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.887664077706, 
-      "lon": 4.463625357663, 
+      "lat": 50.887731745245, 
+      "lon": 4.463763633571, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 50.887633291032, 
+      "lon": 4.463457028236, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugstraat"
     }, 
     {

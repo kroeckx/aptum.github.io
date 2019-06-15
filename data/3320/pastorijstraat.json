@@ -1,6 +1,23 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.773375932469, 
+      "lon": 4.889191471628, 
+      "municipality": "Hoegaarden", 
+      "pcode": "3320", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastorijstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 

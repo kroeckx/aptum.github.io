@@ -158,19 +158,7 @@
     }, 
     {
       "hnrlbls": [
-        "110-110B"
-      ], 
-      "housenumber": "110", 
-      "lat": 51.051619959311, 
-      "lon": 4.357531482129, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Tisseltsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "110A"
+        "110A-110B"
       ], 
       "housenumber": "110A", 
       "lat": 51.051964961141, 
@@ -182,14 +170,14 @@
     }, 
     {
       "hnrlbls": [
-        "110-110B"
+        "110A-110B"
       ], 
       "housenumber": "110B", 
-      "lat": 51.051619959311, 
-      "lon": 4.357531482129, 
+      "lat": 51.051964961141, 
+      "lon": 4.357601143788, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tisseltsesteenweg"
     }, 
     {
@@ -199,6 +187,18 @@
       "housenumber": "110C", 
       "lat": 51.051890625408, 
       "lon": 4.357632963745, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tisseltsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "110D"
+      ], 
+      "housenumber": "110D", 
+      "lat": 51.051619959311, 
+      "lon": 4.357531482129, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -1321,8 +1321,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.054380405178, 
-      "lon": 4.356908452189, 
+      "lat": 51.054359842652, 
+      "lon": 4.357144784084, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

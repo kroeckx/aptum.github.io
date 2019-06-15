@@ -125,6 +125,18 @@
       "street": "Julius De Geyterstraat"
     }, 
     {
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.964372189397, 
+      "lon": 3.978951356079, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Julius De Geyterstraat"
+    }, 
+    {
       "busnrs": [
         "1A", 
         "1B", 
@@ -204,7 +216,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "/01", 
+        "/11"
       ], 
       "hnrlbls": [
         "22"

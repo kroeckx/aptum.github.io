@@ -93,7 +93,7 @@
       "lon": 4.985880697182, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lakstraat"
     }, 
     {
@@ -485,11 +485,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.06533994634, 
-      "lon": 4.98046699676, 
+      "lat": 51.065173841593, 
+      "lon": 4.980619609929, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lakstraat"
     }, 
     {
@@ -1153,11 +1153,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.053291950987, 
-      "lon": 4.984329647264, 
+      "lat": 51.053220445174, 
+      "lon": 4.984268803185, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lakstraat"
     }, 
     {
@@ -1165,11 +1165,11 @@
         "75-75A"
       ], 
       "housenumber": "75", 
-      "lat": 51.055032316134, 
-      "lon": 4.983426325146, 
+      "lat": 51.055101121055, 
+      "lon": 4.983814899802, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lakstraat"
     }, 
     {
@@ -1177,11 +1177,11 @@
         "75-75A"
       ], 
       "housenumber": "75A", 
-      "lat": 51.055032316134, 
-      "lon": 4.983426325146, 
+      "lat": 51.055101121055, 
+      "lon": 4.983814899802, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lakstraat"
     }, 
     {

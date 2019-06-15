@@ -750,8 +750,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.05619895397, 
-      "lon": 3.572518182145, 
+      "lat": 51.056180681164, 
+      "lon": 3.572567845257, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -846,8 +846,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.049770508382, 
-      "lon": 3.569502989416, 
+      "lat": 51.049786355106, 
+      "lon": 3.569519975768, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -858,11 +858,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.049453054595, 
-      "lon": 3.569219322016, 
+      "lat": 51.049525227973, 
+      "lon": 3.569257309746, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vosselarestraat"
     }, 
     {
@@ -882,8 +882,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.049143452076, 
-      "lon": 3.569139037116, 
+      "lat": 51.049142810313, 
+      "lon": 3.569137194066, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -899,6 +899,34 @@
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Vosselarestraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009", 
+        "0010", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014"
+      ], 
+      "hnrlbls": [
+        "71C"
+      ], 
+      "housenumber": "71C", 
+      "lat": 51.047234604649, 
+      "lon": 3.569228522318, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vosselarestraat"
     }, 
     {

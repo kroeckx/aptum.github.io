@@ -268,6 +268,33 @@
       "street": "Lichterveldestraat"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.03695566784, 
+      "lon": 3.207733003626, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lichterveldestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 51.036968739554, 
+      "lon": 3.207709295205, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lichterveldestraat"
+    }, 
+    {
       "hnrlbls": [
         "30"
       ], 
@@ -280,15 +307,33 @@
       "street": "Lichterveldestraat"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.036984044311, 
-      "lon": 3.207738859294, 
+      "lat": 51.036988585825, 
+      "lon": 3.207661464071, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lichterveldestraat"
+    }, 
+    {
+      "apptnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.037020706153, 
+      "lon": 3.207609336159, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lichterveldestraat"
     }, 
     {
@@ -308,11 +353,23 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.037032581462, 
-      "lon": 3.207628433746, 
+      "lat": 51.037070712483, 
+      "lon": 3.207593267334, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lichterveldestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33A"
+      ], 
+      "housenumber": "33A", 
+      "lat": 51.037195529511, 
+      "lon": 3.207806622485, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lichterveldestraat"
     }, 
     {
@@ -469,22 +526,25 @@
         "0003", 
         "0004", 
         "0005", 
+        "0101", 
         "0102", 
-        "0105"
-      ], 
-      "busnrs": [
-        "202", 
-        "203"
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
       ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.037673515553, 
-      "lon": 3.206254802825, 
+      "lat": 51.037650006935, 
+      "lon": 3.206277630327, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lichterveldestraat"
     }, 
     {
@@ -492,22 +552,21 @@
         "001", 
         "002", 
         "003", 
-        "004"
-      ], 
-      "busnrs": [
+        "004", 
         "101", 
         "102", 
+        "103", 
         "104"
       ], 
       "hnrlbls": [
         "45A"
       ], 
       "housenumber": "45A", 
-      "lat": 51.037721260002, 
-      "lon": 3.205854650468, 
+      "lat": 51.03771681588, 
+      "lon": 3.205814265192, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lichterveldestraat"
     }, 
     {
@@ -529,7 +588,7 @@
       "lon": 3.205838341279, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lichterveldestraat"
     }, 
     {
@@ -693,11 +752,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.037335830874, 
-      "lon": 3.205915979574, 
+      "lat": 51.037349369743, 
+      "lon": 3.205884986804, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lichterveldestraat"
     }, 
     {
@@ -799,6 +858,7 @@
     {
       "apptnrs": [
         "0001", 
+        "0002", 
         "0101", 
         "0102", 
         "0201", 
@@ -809,11 +869,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.036322149503, 
-      "lon": 3.21004490916, 
+      "lat": 51.036304522169, 
+      "lon": 3.210035079041, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lichterveldestraat"
     }, 
     {

@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.985858849021, 
-      "lon": 5.715013812259, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Eisdenweg"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -141,7 +129,7 @@
       "lon": 5.7160934952, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Eisdenweg"
     }, 
     {
@@ -413,11 +401,11 @@
         "14A"
       ], 
       "housenumber": "14A", 
-      "lat": 50.985902221445, 
-      "lon": 5.716132773955, 
+      "lat": 50.98589381689, 
+      "lon": 5.716222838199, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Eisdenweg"
     }, 
     {
@@ -553,9 +541,6 @@
       "street": "Eisdenweg"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "161"
       ], 
@@ -796,9 +781,6 @@
       "street": "Eisdenweg"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -1433,8 +1415,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.989129917538, 
-      "lon": 5.722302767164, 
+      "lat": 50.989125013686, 
+      "lon": 5.722299206674, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 

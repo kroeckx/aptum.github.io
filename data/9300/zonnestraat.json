@@ -222,27 +222,34 @@
       "street": "Zonnestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.934836765168, 
-      "lon": 4.039675757008, 
-      "municipality": "Aalst", 
-      "pcode": "9300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Zonnestraat"
-    }, 
-    {
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 50.934438044247, 
       "lon": 4.0404012298, 
+      "municipality": "Aalst", 
+      "pcode": "9300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zonnestraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21", 
+        "22", 
+        "31", 
+        "32"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.934839342213, 
+      "lon": 4.039858118192, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -261,12 +268,18 @@
       "street": "Zonnestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.934766076874, 
-      "lon": 4.039793048255, 
+      "lat": 50.934994891397, 
+      "lon": 4.03970907766, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -298,8 +311,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.934753776211, 
-      "lon": 4.039862700055, 
+      "lat": 50.934946178192, 
+      "lon": 4.039776708409, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -354,12 +367,17 @@
       "street": "Zonnestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.934680435581, 
-      "lon": 4.039963791604, 
+      "lat": 50.934716088125, 
+      "lon": 4.039951165573, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 

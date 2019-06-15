@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.995844240926, 
-      "lon": 3.60436695385, 
+      "lat": 50.995733023731, 
+      "lon": 3.604544552965, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9831", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Xavier De Cocklaan"
     }, 
     {
@@ -37,6 +37,10 @@
       "street": "Xavier De Cocklaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -694,8 +698,8 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.002644303264, 
-      "lon": 3.617357671981, 
+      "lat": 51.002696771064, 
+      "lon": 3.617296422499, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9831", 
       "source": "afgeleidVanGebouw", 
@@ -766,8 +770,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.003739874361, 
-      "lon": 3.619589821212, 
+      "lat": 51.003756360887, 
+      "lon": 3.619581294166, 
       "municipality": "Sint-Martens-Latem", 
       "pcode": "9831", 
       "source": "afgeleidVanGebouw", 

@@ -530,6 +530,10 @@
       "street": "Tulpstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -979,18 +983,10 @@
     }, 
     {
       "apptnrs": [
-        "0.0"
-      ], 
-      "busnrs": [
-        "01", 
-        "02", 
-        "03", 
-        "04", 
-        "05", 
-        "06", 
-        "07", 
-        "08", 
-        "GLV"
+        "001", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "59"
@@ -1001,36 +997,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
-      "street": "Tulpstraat"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "59_1-59_3"
-      ], 
-      "housenumber": "59_1", 
-      "lat": 51.227056805916, 
-      "lon": 4.426910425886, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Tulpstraat"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "59_1-59_3"
-      ], 
-      "housenumber": "59_3", 
-      "lat": 51.227056805916, 
-      "lon": 4.426910425886, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Tulpstraat"
     }, 
     {
@@ -1053,7 +1019,6 @@
     }, 
     {
       "apptnrs": [
-        "001", 
         "101", 
         "201", 
         "301"
@@ -1064,6 +1029,18 @@
       "housenumber": "61", 
       "lat": 51.227085711371, 
       "lon": 4.426984901327, 
+      "municipality": "Antwerpen", 
+      "pcode": "2060", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tulpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "61A"
+      ], 
+      "housenumber": "61A", 
+      "lat": 51.227027812695, 
+      "lon": 4.427012170114, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1166,10 +1143,6 @@
       "street": "Tulpstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "70"
       ], 

@@ -1,21 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "0101"
-      ], 
-      "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.742361603397, 
-      "lon": 3.60099419677, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Oudstrijderslaan"
-    }, 
-    {
       "hnrlbls": [
         "12"
       ], 
@@ -95,48 +80,44 @@
     }, 
     {
       "busnrs": [
-        "202", 
-        "302"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "1A-1B"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.741163064206, 
-      "lon": 3.59744273509, 
+      "lat": 50.742374051283, 
+      "lon": 3.600931935411, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Oudstrijderslaan"
     }, 
     {
       "busnrs": [
-        "101", 
-        "201", 
-        "301", 
-        "302"
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
-        "1A-1B"
+        "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 50.741163064206, 
-      "lon": 3.59744273509, 
+      "lat": 50.74234039403, 
+      "lon": 3.600789663567, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "geinterpoleerdObvWegverbinding", 
-      "street": "Oudstrijderslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2"
-      ], 
-      "housenumber": "2", 
-      "lat": 50.742334634511, 
-      "lon": 3.60085734177, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Oudstrijderslaan"
     }, 
     {
@@ -257,8 +238,7 @@
         "0811", 
         "0812", 
         "0813", 
-        "0814", 
-        "62"
+        "0814"
       ], 
       "hnrlbls": [
         "3"

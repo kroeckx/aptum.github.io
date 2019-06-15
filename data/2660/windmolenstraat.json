@@ -374,19 +374,15 @@
       "street": "Windmolenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
-        "126-128"
+        "126"
       ], 
       "housenumber": "126", 
-      "lat": 51.177453114609, 
-      "lon": 4.366002990449, 
+      "lat": 51.177479451955, 
+      "lon": 4.366057329151, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Windmolenstraat"
     }, 
     {
@@ -403,14 +399,14 @@
     }, 
     {
       "hnrlbls": [
-        "126-128"
+        "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.177453114609, 
-      "lon": 4.366002990449, 
+      "lat": 51.177422823935, 
+      "lon": 4.366043317633, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Windmolenstraat"
     }, 
     {
@@ -589,7 +585,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "141-143"
+        "141"
       ], 
       "housenumber": "141", 
       "lat": 51.17749923049, 
@@ -606,18 +602,6 @@
       "housenumber": "142", 
       "lat": 51.176970698948, 
       "lon": 4.365954678353, 
-      "municipality": "Antwerpen", 
-      "pcode": "2660", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Windmolenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "141-143"
-      ], 
-      "housenumber": "143", 
-      "lat": 51.17749923049, 
-      "lon": 4.366292705805, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -1000,8 +984,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.176680377515, 
-      "lon": 4.366493647848, 
+      "lat": 51.176682175021, 
+      "lon": 4.366478490086, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanPerceelGrb", 

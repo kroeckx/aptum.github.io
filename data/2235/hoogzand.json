@@ -439,15 +439,23 @@
       "street": "Hoogzand"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
+      ], 
       "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.060943008436, 
-      "lon": 4.837047369064, 
+      "lat": 51.06090076191, 
+      "lon": 4.837114559913, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hoogzand"
     }, 
     {
@@ -631,8 +639,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.060615310452, 
-      "lon": 4.835633892998, 
+      "lat": 51.060607212665, 
+      "lon": 4.835635809111, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 

@@ -17,8 +17,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.013883508864, 
-      "lon": 3.767172039279, 
+      "lat": 51.013883049969, 
+      "lon": 3.767170192604, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.013047363502, 
-      "lon": 3.768026522187, 
+      "lat": 51.013044736421, 
+      "lon": 3.768022565778, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +149,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.012557930033, 
-      "lon": 3.768810133887, 
+      "lat": 51.01254920039, 
+      "lon": 3.768719900096, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -311,11 +311,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.018684182929, 
-      "lon": 3.762541554668, 
+      "lat": 51.018799639791, 
+      "lon": 3.762478208254, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gontrode Heirweg"
     }, 
     {
@@ -335,8 +335,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.010561130937, 
-      "lon": 3.771891477922, 
+      "lat": 51.010555326876, 
+      "lon": 3.771881434674, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanPerceelGrb", 
@@ -396,6 +396,58 @@
     }, 
     {
       "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 51.018759637064, 
+      "lon": 3.762530602707, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gontrode Heirweg"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206"
+      ], 
+      "hnrlbls": [
+        "14B"
+      ], 
+      "housenumber": "14B", 
+      "lat": 51.018709618229, 
+      "lon": 3.762593102936, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gontrode Heirweg"
+    }, 
+    {
+      "hnrlbls": [
+        "14C"
+      ], 
+      "housenumber": "14C", 
+      "lat": 51.01865078013, 
+      "lon": 3.762653721766, 
+      "municipality": "Merelbeke", 
+      "pcode": "9820", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gontrode Heirweg"
+    }, 
+    {
+      "hnrlbls": [
         "150"
       ], 
       "housenumber": "150", 
@@ -423,8 +475,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.009869392372, 
-      "lon": 3.774023420661, 
+      "lat": 51.009865034608, 
+      "lon": 3.774014926375, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 
@@ -919,8 +971,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.016606633206, 
-      "lon": 3.764392441123, 
+      "lat": 51.016604002351, 
+      "lon": 3.764387772099, 
       "municipality": "Merelbeke", 
       "pcode": "9820", 
       "source": "afgeleidVanGebouw", 

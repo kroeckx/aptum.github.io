@@ -123,10 +123,45 @@
       "street": "Franciscanessenlaan"
     }, 
     {
+      "apptnrs": [
+        "1V1", 
+        "1V2", 
+        "1V3", 
+        "1V4", 
+        "1V5", 
+        "2V", 
+        "GV1", 
+        "GV2", 
+        "GV3"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
+      "lat": 51.301132238794, 
+      "lon": 4.561632495966, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Franciscanessenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.301009954449, 
+      "lon": 4.56177049213, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Franciscanessenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
       "lat": 51.300388952991, 
       "lon": 4.562436047866, 
       "municipality": "Brecht", 

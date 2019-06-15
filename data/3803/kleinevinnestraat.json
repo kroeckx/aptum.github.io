@@ -17,20 +17,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.834205972313, 
-      "lon": 5.145152611902, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3803", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kleine Vinnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-9"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.834783749131, 
-      "lon": 5.144503158886, 
+      "lat": 50.834279322444, 
+      "lon": 5.145140337624, 
       "municipality": "Sint-Truiden", 
       "pcode": "3803", 
       "source": "afgeleidVanGebouw", 
@@ -73,8 +61,11 @@
       "street": "Kleine Vinnestraat"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
-        "3-9"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 50.834783749131, 

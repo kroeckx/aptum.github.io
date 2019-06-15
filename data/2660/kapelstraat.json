@@ -769,8 +769,8 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.174457190672, 
-      "lon": 4.344708994989, 
+      "lat": 51.174457909643, 
+      "lon": 4.344708422668, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -793,8 +793,8 @@
         "158-160"
       ], 
       "housenumber": "158", 
-      "lat": 51.174428685205, 
-      "lon": 4.344649525286, 
+      "lat": 51.174429584003, 
+      "lon": 4.344649238854, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -834,8 +834,8 @@
         "158-160"
       ], 
       "housenumber": "160", 
-      "lat": 51.174428685205, 
-      "lon": 4.344649525286, 
+      "lat": 51.174429584003, 
+      "lon": 4.344649238854, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
       "source": "afgeleidVanGebouw", 
@@ -3037,6 +3037,11 @@
       "street": "Kapelstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "46"
       ], 

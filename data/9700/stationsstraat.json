@@ -267,8 +267,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.848079718682, 
-      "lon": 3.601684104719, 
+      "lat": 50.848072887265, 
+      "lon": 3.601601711152, 
       "municipality": "Oudenaarde", 
       "pcode": "9700", 
       "source": "manueleAanduidingVanGebouw", 
@@ -288,15 +288,33 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2"
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.848167448121, 
-      "lon": 3.60170965538, 
+      "lat": 50.848137046671, 
+      "lon": 3.601597256847, 
+      "municipality": "Oudenaarde", 
+      "pcode": "9700", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 50.848170753558, 
+      "lon": 3.60158264869, 
       "municipality": "Oudenaarde", 
       "pcode": "9700", 
       "source": "manueleAanduidingVanGebouw", 

@@ -1073,11 +1073,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.227974838683, 
-      "lon": 5.310713874312, 
+      "lat": 51.22727212842, 
+      "lon": 5.307917419018, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Van Hamstraat"
     }, 
     {
@@ -1219,6 +1219,45 @@
       "housenumber": "8", 
       "lat": 51.228466107151, 
       "lon": 5.312762084959, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Frans Van Hamstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 51.227461604551, 
+      "lon": 5.30757979186, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Frans Van Hamstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 51.227422785162, 
+      "lon": 5.307374427788, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanPerceel", 

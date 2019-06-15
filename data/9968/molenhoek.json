@@ -41,8 +41,8 @@
         "11A"
       ], 
       "housenumber": "11A", 
-      "lat": 51.185663155372, 
-      "lon": 3.680363180038, 
+      "lat": 51.185661131366, 
+      "lon": 3.680355200139, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -74,7 +74,7 @@
     }, 
     {
       "hnrlbls": [
-        "13-13B"
+        "13"
       ], 
       "housenumber": "13", 
       "lat": 51.185382374337, 
@@ -98,14 +98,14 @@
     }, 
     {
       "hnrlbls": [
-        "13-13B"
+        "13B"
       ], 
       "housenumber": "13B", 
-      "lat": 51.185382374337, 
-      "lon": 3.680214275949, 
+      "lat": 51.185384697512, 
+      "lon": 3.679779716524, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenhoek"
     }, 
     {
@@ -586,11 +586,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.186964765548, 
-      "lon": 3.68096891613, 
+      "lat": 51.186963187556, 
+      "lon": 3.6809912528, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenhoek"
     }, 
     {

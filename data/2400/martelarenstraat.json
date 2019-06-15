@@ -184,7 +184,7 @@
       "street": "Martelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -584,6 +584,37 @@
       "street": "Martelarenstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "101"
+      ], 
+      "hnrlbls": [
+        "171A"
+      ], 
+      "housenumber": "171A", 
+      "lat": 51.185655619268, 
+      "lon": 5.100095701065, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Martelarenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "171B"
+      ], 
+      "housenumber": "171B", 
+      "lat": 51.18569091104, 
+      "lon": 5.099956226647, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Martelarenstraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -781,7 +812,7 @@
       "street": "Martelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -800,7 +831,7 @@
       "street": "Martelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -881,14 +912,14 @@
     }, 
     {
       "hnrlbls": [
-        "198-200"
+        "198"
       ], 
       "housenumber": "198", 
-      "lat": 51.186702568497, 
-      "lon": 5.09691043464, 
+      "lat": 51.186649029763, 
+      "lon": 5.096992129342, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Martelarenstraat"
     }, 
     {
@@ -917,14 +948,14 @@
     }, 
     {
       "hnrlbls": [
-        "198-200"
+        "200"
       ], 
       "housenumber": "200", 
-      "lat": 51.186702568497, 
-      "lon": 5.09691043464, 
+      "lat": 51.186673677309, 
+      "lon": 5.096887240845, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Martelarenstraat"
     }, 
     {
@@ -940,7 +971,7 @@
       "street": "Martelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101"
       ], 
@@ -956,7 +987,7 @@
       "street": "Martelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -1010,7 +1041,7 @@
       "street": "Martelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1211,14 +1242,14 @@
     }, 
     {
       "hnrlbls": [
-        "40-42"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.183971761049, 
-      "lon": 5.10900015005, 
+      "lat": 51.183825421809, 
+      "lon": 5.108928315732, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Martelarenstraat"
     }, 
     {
@@ -1235,14 +1266,14 @@
     }, 
     {
       "hnrlbls": [
-        "40-42"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.183971761049, 
-      "lon": 5.10900015005, 
+      "lat": 51.18381442145, 
+      "lon": 5.10900537521, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Martelarenstraat"
     }, 
     {
@@ -1260,18 +1291,18 @@
     {
       "apptnrs": [
         "1", 
-        "100", 
-        "2"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.183933217848, 
-      "lon": 5.108767692066, 
+      "lat": 51.183876290672, 
+      "lon": 5.108743332133, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Martelarenstraat"
     }, 
     {
@@ -1298,11 +1329,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.183960002527, 
-      "lon": 5.10866771255, 
+      "lat": 51.18393789926, 
+      "lon": 5.108623166551, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Martelarenstraat"
     }, 
     {
@@ -1435,7 +1466,7 @@
       "street": "Martelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1699,7 +1730,7 @@
       "street": "Martelarenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 

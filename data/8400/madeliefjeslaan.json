@@ -160,9 +160,6 @@
       "street": "Madeliefjeslaan"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "20A"
       ], 
@@ -344,8 +341,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.211211695864, 
-      "lon": 2.87529094137, 
+      "lat": 51.211213521615, 
+      "lon": 2.875286016436, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -378,6 +375,7 @@
     {
       "busnrs": [
         "0101", 
+        "0301", 
         "3"
       ], 
       "hnrlbls": [
@@ -388,7 +386,7 @@
       "lon": 2.876688349441, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Madeliefjeslaan"
     }, 
     {
@@ -510,8 +508,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.211978579893, 
-      "lon": 2.874794048157, 
+      "lat": 51.21197873483, 
+      "lon": 2.874799196033, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -519,6 +517,7 @@
     }, 
     {
       "busnrs": [
+        "0301", 
         "0401", 
         "1", 
         "2", 
@@ -533,7 +532,7 @@
       "lon": 2.876614833012, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Madeliefjeslaan"
     }, 
     {
@@ -601,8 +600,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.212286060195, 
-      "lon": 2.874225973817, 
+      "lat": 51.212289839446, 
+      "lon": 2.874219125385, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -794,8 +793,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.212754934675, 
-      "lon": 2.873624092184, 
+      "lat": 51.212751406387, 
+      "lon": 2.873622344483, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

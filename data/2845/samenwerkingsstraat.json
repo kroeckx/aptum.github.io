@@ -2,18 +2,21 @@
   "addresses": [
     {
       "busnrs": [
-        "101", 
-        "201"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
       ], 
       "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.106611711863, 
-      "lon": 4.337736247092, 
+      "lat": 51.106451100551, 
+      "lon": 4.336102349961, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Samenwerkingsstraat"
     }
   ]

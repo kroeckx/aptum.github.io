@@ -85,6 +85,10 @@
       "street": "Doolhoflaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "GLVL"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -93,7 +97,7 @@
       "lon": 4.444741280766, 
       "municipality": "Mortsel", 
       "pcode": "2640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doolhoflaan"
     }, 
     {

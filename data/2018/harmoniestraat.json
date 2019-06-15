@@ -1226,6 +1226,11 @@
       "street": "Harmoniestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1443,11 +1448,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.20319754793, 
-      "lon": 4.410237717207, 
+      "lat": 51.20321781175, 
+      "lon": 4.410377809443, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Harmoniestraat"
     }, 
     {

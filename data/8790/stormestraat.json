@@ -971,7 +971,7 @@
       "lon": 3.430036580645, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stormestraat"
     }, 
     {
@@ -1252,7 +1252,25 @@
       "lon": 3.428992777856, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Stormestraat"
+    }, 
+    {
+      "apptnrs": [
+        "11", 
+        "21", 
+        "31", 
+        "41"
+      ], 
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 50.885638739992, 
+      "lon": 3.428932348202, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stormestraat"
     }, 
     {
@@ -1800,7 +1818,7 @@
       "lon": 3.428675769786, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stormestraat"
     }, 
     {

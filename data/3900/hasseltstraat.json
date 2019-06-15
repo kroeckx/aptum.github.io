@@ -242,14 +242,38 @@
     }, 
     {
       "hnrlbls": [
-        "38"
+        "38A"
       ], 
-      "housenumber": "38", 
-      "lat": 51.204715472033, 
-      "lon": 5.414080656453, 
+      "housenumber": "38A", 
+      "lat": 51.20477016332, 
+      "lon": 5.41401562887, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hasseltstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38B"
+      ], 
+      "housenumber": "38B", 
+      "lat": 51.204702376604, 
+      "lon": 5.414148477069, 
+      "municipality": "Pelt", 
+      "pcode": "3900", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hasseltstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 51.204622942732, 
+      "lon": 5.414256594032, 
+      "municipality": "Pelt", 
+      "pcode": "3900", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hasseltstraat"
     }, 
     {

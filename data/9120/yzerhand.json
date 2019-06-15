@@ -543,6 +543,24 @@
       "street": "Yzerhand"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.215139537226, 
+      "lon": 4.252518721368, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Yzerhand"
+    }, 
+    {
       "hnrlbls": [
         "50"
       ], 
@@ -847,6 +865,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101"
       ], 
       "hnrlbls": [

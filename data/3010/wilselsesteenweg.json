@@ -465,7 +465,7 @@
       "lon": 4.725072641929, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wilselsesteenweg"
     }, 
     {
@@ -629,8 +629,8 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 50.901292982274, 
-      "lon": 4.724814571589, 
+      "lat": 50.901296087486, 
+      "lon": 4.724828100392, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -713,8 +713,8 @@
         "170"
       ], 
       "housenumber": "170", 
-      "lat": 50.901642164925, 
-      "lon": 4.725365966755, 
+      "lat": 50.901641164859, 
+      "lon": 4.725369655334, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanPerceelGrb", 
@@ -737,8 +737,8 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 50.90169343056, 
-      "lon": 4.725061989544, 
+      "lat": 50.901693972077, 
+      "lon": 4.725061282855, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -758,26 +758,26 @@
     }, 
     {
       "hnrlbls": [
-        "174-176"
+        "174"
       ], 
       "housenumber": "174", 
-      "lat": 50.901741499786, 
-      "lon": 4.724981323016, 
+      "lat": 50.901668658212, 
+      "lon": 4.725078860535, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wilselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "174-176"
+        "174C"
       ], 
       "housenumber": "174C", 
-      "lat": 50.901741499786, 
-      "lon": 4.724981323016, 
+      "lat": 50.901719285508, 
+      "lon": 4.725043847314, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wilselsesteenweg"
     }, 
     {
@@ -794,14 +794,14 @@
     }, 
     {
       "hnrlbls": [
-        "174-176"
+        "176"
       ], 
       "housenumber": "176", 
-      "lat": 50.901741499786, 
-      "lon": 4.724981323016, 
+      "lat": 50.901766284627, 
+      "lon": 4.724930759763, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wilselsesteenweg"
     }, 
     {
@@ -1050,8 +1050,8 @@
         "196"
       ], 
       "housenumber": "196", 
-      "lat": 50.902270454197, 
-      "lon": 4.724503269176, 
+      "lat": 50.902270725169, 
+      "lon": 4.724502844744, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1074,8 +1074,8 @@
         "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.902082579504, 
-      "lon": 4.724353425281, 
+      "lat": 50.902083022497, 
+      "lon": 4.72435556108, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1110,8 +1110,8 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 50.902419327696, 
-      "lon": 4.724619125314, 
+      "lat": 50.902417557038, 
+      "lon": 4.724610155568, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1170,8 +1170,8 @@
         "209"
       ], 
       "housenumber": "209", 
-      "lat": 50.902510134935, 
-      "lon": 4.724111010811, 
+      "lat": 50.902503403332, 
+      "lon": 4.724107547833, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1543,8 +1543,8 @@
         "247-249"
       ], 
       "housenumber": "247", 
-      "lat": 50.904013568368, 
-      "lon": 4.722584293339, 
+      "lat": 50.904015301456, 
+      "lon": 4.72254620532, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1567,8 +1567,8 @@
         "247-249"
       ], 
       "housenumber": "249", 
-      "lat": 50.904013568368, 
-      "lon": 4.722584293339, 
+      "lat": 50.904015301456, 
+      "lon": 4.72254620532, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1888,8 +1888,8 @@
         "279"
       ], 
       "housenumber": "279", 
-      "lat": 50.90530462107, 
-      "lon": 4.720708128215, 
+      "lat": 50.905313109633, 
+      "lon": 4.720725252641, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -2277,8 +2277,8 @@
         "309"
       ], 
       "housenumber": "309", 
-      "lat": 50.906025928974, 
-      "lon": 4.719150196917, 
+      "lat": 50.906027837326, 
+      "lon": 4.71917338561, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2694,8 +2694,8 @@
         "367"
       ], 
       "housenumber": "367", 
-      "lat": 50.908283473688, 
-      "lon": 4.717152372783, 
+      "lat": 50.908283637413, 
+      "lon": 4.717157776885, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -2869,8 +2869,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.898773610457, 
-      "lon": 4.729744610738, 
+      "lat": 50.898724923062, 
+      "lon": 4.729703864445, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanPerceelGrb", 

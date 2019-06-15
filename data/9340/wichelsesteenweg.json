@@ -145,12 +145,16 @@
       "street": "Wichelse steenweg"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 50.974998543494, 
-      "lon": 3.97535523867, 
+      "lat": 50.974954760669, 
+      "lon": 3.97535375446, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -1225,6 +1229,18 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.967382861963, 
+      "lon": 3.976829110666, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Wichelse steenweg"
+    }, 
+    {
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -1345,6 +1361,23 @@
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
+      "street": "Wichelse steenweg"
+    }, 
+    {
+      "apptnrs": [
+        "/11", 
+        "/21", 
+        "/31"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.967454634499, 
+      "lon": 3.976840470089, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Wichelse steenweg"
     }, 
     {

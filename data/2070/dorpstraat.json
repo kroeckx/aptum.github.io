@@ -334,18 +334,32 @@
     }, 
     {
       "apptnrs": [
-        "V1", 
-        "V2"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.202022958588, 
-      "lon": 4.340987697068, 
+      "lat": 51.202094155115, 
+      "lon": 4.341022566075, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorpstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "130A"
+      ], 
+      "housenumber": "130A", 
+      "lat": 51.202094773989, 
+      "lon": 4.340977497058, 
+      "municipality": "Zwijndrecht", 
+      "pcode": "2070", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpstraat"
     }, 
     {
@@ -669,23 +683,21 @@
       "street": "Dorpstraat"
     }, 
     {
-      "busnrs": [
-        "01", 
+      "apptnrs": [
         "02", 
         "03", 
         "04", 
         "05"
       ], 
       "hnrlbls": [
-        "2-162", 
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.201827127321, 
-      "lon": 4.339573378329, 
+      "lat": 51.201946798015, 
+      "lon": 4.339716379904, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpstraat"
     }, 
     {
@@ -730,34 +742,33 @@
       "street": "Dorpstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "01", 
         "02", 
         "03", 
         "04"
       ], 
       "hnrlbls": [
-        "160", 
-        "2-162"
+        "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.201827127321, 
-      "lon": 4.339573378329, 
+      "lat": 51.201910258148, 
+      "lon": 4.339522106879, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpstraat"
     }, 
     {
       "hnrlbls": [
-        "2-162"
+        "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.201827127321, 
-      "lon": 4.339573378329, 
+      "lat": 51.201848553702, 
+      "lon": 4.339341870943, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpstraat"
     }, 
     {
@@ -1401,34 +1412,18 @@
     }, 
     {
       "apptnrs": [
-        "0.0", 
-        "V2"
-      ], 
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "47-49"
-      ], 
-      "housenumber": "47", 
-      "lat": 51.201849537021, 
-      "lon": 4.345536846741, 
-      "municipality": "Zwijndrecht", 
-      "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorpstraat"
-    }, 
-    {
-      "apptnrs": [
-        "0.0", 
-        "V1", 
-        "V2"
-      ], 
-      "busnrs": [
-        "4"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
       ], 
       "hnrlbls": [
-        "47-49"
+        "49"
       ], 
       "housenumber": "49", 
       "lat": 51.201849537021, 

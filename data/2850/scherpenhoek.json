@@ -38,9 +38,33 @@
     }, 
     {
       "hnrlbls": [
-        "110"
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 51.092027090134, 
+      "lon": 4.352286171506, 
+      "municipality": "Boom", 
+      "pcode": "2850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Scherpenhoek"
+    }, 
+    {
+      "hnrlbls": [
+        "110-112"
       ], 
       "housenumber": "110", 
+      "lat": 51.091858145679, 
+      "lon": 4.352628656456, 
+      "municipality": "Boom", 
+      "pcode": "2850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Scherpenhoek"
+    }, 
+    {
+      "hnrlbls": [
+        "110-112"
+      ], 
+      "housenumber": "112", 
       "lat": 51.091858145679, 
       "lon": 4.352628656456, 
       "municipality": "Boom", 
@@ -254,6 +278,18 @@
     }, 
     {
       "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 51.092361199512, 
+      "lon": 4.351592488413, 
+      "municipality": "Boom", 
+      "pcode": "2850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Scherpenhoek"
+    }, 
+    {
+      "hnrlbls": [
         "90"
       ], 
       "housenumber": "90", 
@@ -274,6 +310,18 @@
       "municipality": "Boom", 
       "pcode": "2850", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Scherpenhoek"
+    }, 
+    {
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 51.0921937856, 
+      "lon": 4.351937975304, 
+      "municipality": "Boom", 
+      "pcode": "2850", 
+      "source": "afgeleidVanGebouw", 
       "street": "Scherpenhoek"
     }
   ]

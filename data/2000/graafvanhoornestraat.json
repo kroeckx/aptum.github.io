@@ -37,6 +37,12 @@
       "street": "Graaf van Hoornestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -201,6 +207,11 @@
       "street": "Graaf van Hoornestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -225,8 +236,11 @@
       "street": "Graaf van Hoornestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "25"
@@ -270,8 +284,10 @@
       "street": "Graaf van Hoornestraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "28"
@@ -354,6 +370,11 @@
       "street": "Graaf van Hoornestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "31"
       ], 

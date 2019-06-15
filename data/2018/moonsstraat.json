@@ -60,8 +60,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.201665432493, 
-      "lon": 4.396884542227, 
+      "lat": 51.201654298004, 
+      "lon": 4.396838608672, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -84,11 +84,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.20188612685, 
-      "lon": 4.39713792041, 
+      "lat": 51.201641795897, 
+      "lon": 4.396872080208, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Moonsstraat"
     }, 
     {
@@ -104,6 +104,12 @@
       "street": "Moonsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -314,15 +320,28 @@
       "street": "Moonsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.201421539823, 
-      "lon": 4.397395734568, 
+      "lat": 51.201362564443, 
+      "lon": 4.397440479284, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Moonsstraat"
     }, 
     {
@@ -350,15 +369,29 @@
       "street": "Moonsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.201413624071, 
-      "lon": 4.397779165277, 
+      "lat": 51.201193601238, 
+      "lon": 4.397721223871, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Moonsstraat"
     }, 
     {
@@ -665,6 +698,11 @@
       "street": "Moonsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "7"
       ], 

@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.216836826667, 
-      "lon": 2.906002335677, 
+      "lat": 51.216833788509, 
+      "lon": 2.905996561873, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.216152246593, 
-      "lon": 2.912451051418, 
+      "lat": 51.216154442158, 
+      "lon": 2.912454132083, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -125,8 +125,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.216668186891, 
-      "lon": 2.912735553949, 
+      "lat": 51.216671302281, 
+      "lon": 2.912733023205, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -176,27 +176,23 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.216568800464, 
-      "lon": 2.91342576166, 
+      "lat": 51.216567568808, 
+      "lon": 2.913420646793, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
       "street": "Blauwkasteelstraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "2"
-      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.216742370949, 
-      "lon": 2.90657917703, 
+      "lat": 51.216785560349, 
+      "lon": 2.90658941826, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blauwkasteelstraat"
     }, 
     {
@@ -222,19 +218,19 @@
     }, 
     {
       "busnrs": [
-        "0301", 
-        "1", 
-        "3"
+        "0101", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.216552309185, 
-      "lon": 2.913744062348, 
+      "lat": 51.216521779209, 
+      "lon": 2.913739718164, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blauwkasteelstraat"
     }, 
     {
@@ -254,8 +250,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.216736948871, 
-      "lon": 2.906649632536, 
+      "lat": 51.216734987727, 
+      "lon": 2.906650982334, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -269,8 +265,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.216989459845, 
-      "lon": 2.90671329232, 
+      "lat": 51.216993619895, 
+      "lon": 2.906708008588, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -365,8 +361,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.21664888307, 
-      "lon": 2.907525592401, 
+      "lat": 51.216652597656, 
+      "lon": 2.907527909552, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -550,8 +546,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.216601298234, 
-      "lon": 2.908091083339, 
+      "lat": 51.21653067692, 
+      "lon": 2.908087139303, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -571,11 +567,9 @@
     }, 
     {
       "busnrs": [
-        "003", 
+        "0101", 
         "0201", 
-        "0301", 
-        "1", 
-        "3"
+        "0301"
       ], 
       "hnrlbls": [
         "4"
@@ -585,7 +579,7 @@
       "lon": 2.906256904965, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blauwkasteelstraat"
     }, 
     {
@@ -794,18 +788,19 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "1"
+        "0201"
       ], 
       "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.216737263912, 
-      "lon": 2.909324624049, 
+      "lat": 51.216672615849, 
+      "lon": 2.909309325755, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blauwkasteelstraat"
     }, 
     {
@@ -895,8 +890,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.216709916608, 
-      "lon": 2.909556376668, 
+      "lat": 51.216708219734, 
+      "lon": 2.909557288632, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -905,19 +900,17 @@
     {
       "busnrs": [
         "0101", 
-        "0201", 
-        "1", 
-        "2"
+        "0201"
       ], 
       "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.216439782664, 
-      "lon": 2.90941953262, 
+      "lat": 51.216476550679, 
+      "lon": 2.909426684911, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blauwkasteelstraat"
     }, 
     {
@@ -1241,15 +1234,18 @@
       "street": "Blauwkasteelstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.216548322808, 
-      "lon": 2.911660396411, 
+      "lat": 51.216547129901, 
+      "lon": 2.911665730111, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Blauwkasteelstraat"
     }, 
     {

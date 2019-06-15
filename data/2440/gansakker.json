@@ -349,6 +349,11 @@
       "street": "Gansakker"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -793,29 +798,30 @@
       "street": "Gansakker"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
-        "73"
+        "73-75"
       ], 
       "housenumber": "73", 
-      "lat": 51.165026547116, 
-      "lon": 5.000397351379, 
+      "lat": 51.165030728915, 
+      "lon": 5.000455738427, 
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
       "street": "Gansakker"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
-        "75"
+        "73-75"
       ], 
       "housenumber": "75", 
-      "lat": 51.165044454003, 
-      "lon": 5.000494525368, 
+      "lat": 51.165030728915, 
+      "lon": 5.000455738427, 
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 

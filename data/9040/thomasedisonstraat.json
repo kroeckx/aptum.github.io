@@ -67,6 +67,36 @@
       "street": "Thomas Edisonstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.07012911748, 
+      "lon": 3.7548408674, 
+      "municipality": "Gent", 
+      "pcode": "9040", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Thomas Edisonstraat"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 

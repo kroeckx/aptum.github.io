@@ -404,23 +404,23 @@
         "2"
       ], 
       "hnrlbls": [
-        "41-41A"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.176279126888, 
-      "lon": 4.406376522955, 
+      "lat": 51.17612968138, 
+      "lon": 4.406271727546, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sorbenlaan"
     }, 
     {
       "hnrlbls": [
-        "41-41A"
+        "41A"
       ], 
       "housenumber": "41A", 
-      "lat": 51.176279126888, 
-      "lon": 4.406376522955, 
+      "lat": 51.176223328543, 
+      "lon": 4.406313273, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -439,12 +439,6 @@
       "street": "Sorbenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "6", 
-        "7"
-      ], 
       "hnrlbls": [
         "43"
       ], 

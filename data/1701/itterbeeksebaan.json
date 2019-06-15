@@ -83,8 +83,8 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 50.837906362639, 
-      "lon": 4.251204861211, 
+      "lat": 50.837892067459, 
+      "lon": 4.251203051171, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
       "source": "manueleAanduidingVanGebouw", 
@@ -198,33 +198,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "101"
       ], 
       "hnrlbls": [
-        "198-198B"
+        "198"
       ], 
       "housenumber": "198", 
-      "lat": 50.837972010031, 
-      "lon": 4.250061578394, 
+      "lat": 50.838018119709, 
+      "lon": 4.250054932173, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Itterbeeksebaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "198-198B"
-      ], 
-      "housenumber": "198B", 
-      "lat": 50.837972010031, 
-      "lon": 4.250061578394, 
-      "municipality": "Dilbeek", 
-      "pcode": "1701", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Itterbeeksebaan"
     }, 
     {
@@ -240,21 +224,15 @@
       "street": "Itterbeeksebaan"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "002", 
-        "101", 
-        "102"
-      ], 
       "hnrlbls": [
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.836486766055, 
-      "lon": 4.258693797249, 
+      "lat": 50.836486065561, 
+      "lon": 4.258713815614, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Itterbeeksebaan"
     }, 
     {
@@ -1159,11 +1137,11 @@
         "389"
       ], 
       "housenumber": "389", 
-      "lat": 50.839994111467, 
-      "lon": 4.245068839673, 
+      "lat": 50.839943892974, 
+      "lon": 4.245100347112, 
       "municipality": "Dilbeek", 
       "pcode": "1701", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Itterbeeksebaan"
     }, 
     {

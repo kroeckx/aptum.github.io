@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.131957534174, 
-      "lon": 3.673589259314, 
+      "lat": 51.131976343181, 
+      "lon": 3.673577693248, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pruimelaarstraat"
     }, 
     {
@@ -133,6 +133,23 @@
       "street": "Pruimelaarstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.130074457257, 
+      "lon": 3.673704110194, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pruimelaarstraat"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
@@ -221,11 +238,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.130532072868, 
-      "lon": 3.673273293888, 
+      "lat": 51.130554481185, 
+      "lon": 3.673353963547, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pruimelaarstraat"
     }, 
     {
@@ -269,11 +286,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.130667056364, 
-      "lon": 3.673191426247, 
+      "lat": 51.130671604469, 
+      "lon": 3.673215788111, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pruimelaarstraat"
     }, 
     {

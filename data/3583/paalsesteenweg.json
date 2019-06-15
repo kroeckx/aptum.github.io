@@ -240,9 +240,6 @@
       "street": "Paalsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "210"
       ], 
@@ -251,7 +248,7 @@
       "lon": 5.188266805956, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paalsesteenweg"
     }, 
     {
@@ -424,8 +421,8 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 51.041463873917, 
-      "lon": 5.181591685508, 
+      "lat": 51.041539059759, 
+      "lon": 5.181547790283, 
       "municipality": "Beringen", 
       "pcode": "3583", 
       "source": "manueleAanduidingVanPerceel", 
@@ -644,11 +641,11 @@
         "281"
       ], 
       "housenumber": "281", 
-      "lat": 51.041356696575, 
-      "lon": 5.178870444826, 
+      "lat": 51.041143933999, 
+      "lon": 5.179115724432, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Paalsesteenweg"
     }, 
     {
@@ -680,11 +677,11 @@
         "284"
       ], 
       "housenumber": "284", 
-      "lat": 51.039888880772, 
-      "lon": 5.179667752291, 
+      "lat": 51.039903081526, 
+      "lon": 5.179668141094, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Paalsesteenweg"
     }, 
     {
@@ -692,11 +689,11 @@
         "286"
       ], 
       "housenumber": "286", 
-      "lat": 51.040752147579, 
-      "lon": 5.179275766887, 
+      "lat": 51.040670532649, 
+      "lon": 5.179326540506, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Paalsesteenweg"
     }, 
     {
@@ -704,11 +701,11 @@
         "288"
       ], 
       "housenumber": "288", 
-      "lat": 51.040372376975, 
-      "lon": 5.179048599837, 
+      "lat": 51.040297066743, 
+      "lon": 5.179241216201, 
       "municipality": "Beringen", 
       "pcode": "3583", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Paalsesteenweg"
     }, 
     {
@@ -1077,6 +1074,23 @@
       "street": "Paalsesteenweg"
     }, 
     {
+      "busnrs": [
+        "2", 
+        "6", 
+        "8"
+      ], 
+      "hnrlbls": [
+        "327"
+      ], 
+      "housenumber": "327", 
+      "lat": 51.040412558021, 
+      "lon": 5.174506256302, 
+      "municipality": "Beringen", 
+      "pcode": "3583", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Paalsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "328"
       ], 
@@ -1101,6 +1115,21 @@
       "housenumber": "330", 
       "lat": 51.04006961997, 
       "lon": 5.175265619464, 
+      "municipality": "Beringen", 
+      "pcode": "3583", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Paalsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "4"
+      ], 
+      "hnrlbls": [
+        "331"
+      ], 
+      "housenumber": "331", 
+      "lat": 51.040297308364, 
+      "lon": 5.174309922019, 
       "municipality": "Beringen", 
       "pcode": "3583", 
       "source": "manueleAanduidingVanGebouw", 

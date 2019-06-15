@@ -269,8 +269,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.986909945962, 
-      "lon": 5.685892180121, 
+      "lat": 50.986903507789, 
+      "lon": 5.685905103596, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelKadaster", 
@@ -477,7 +477,7 @@
       "lon": 5.683757479056, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lindenlaan"
     }, 
     {
@@ -554,14 +554,14 @@
     }, 
     {
       "hnrlbls": [
-        "44-44"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.988036819337, 
-      "lon": 5.681157128093, 
+      "lat": 50.988058002098, 
+      "lon": 5.681313270396, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lindenlaan"
     }, 
     {
@@ -922,18 +922,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lindenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "99"
-      ], 
-      "housenumber": "99", 
-      "lat": 50.989351601944, 
-      "lon": 5.678415242822, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Lindenlaan"
     }
   ]

@@ -761,6 +761,27 @@
     }, 
     {
       "apptnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032", 
+        "041"
+      ], 
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 50.822326949667, 
+      "lon": 3.261320575878, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Sint-Sebastiaanslaan"
+    }, 
+    {
+      "apptnrs": [
         "0002"
       ], 
       "hnrlbls": [

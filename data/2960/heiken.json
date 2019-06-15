@@ -77,8 +77,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.347675079934, 
-      "lon": 4.671182806055, 
+      "lat": 51.347702130049, 
+      "lon": 4.67114911066, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -369,11 +369,11 @@
         "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 51.348812087507, 
-      "lon": 4.672014928746, 
+      "lat": 51.348868356518, 
+      "lon": 4.672013287191, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Heiken"
     }, 
     {
@@ -609,6 +609,9 @@
       "street": "Heiken"
     }, 
     {
+      "apptnrs": [
+        "1V"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -697,11 +700,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.350038026692, 
-      "lon": 4.664209662956, 
+      "lat": 51.350040938187, 
+      "lon": 4.664231498283, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Heiken"
     }, 
     {
@@ -709,8 +712,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.350287055232, 
-      "lon": 4.664724376837, 
+      "lat": 51.350290110737, 
+      "lon": 4.664724539865, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -721,11 +724,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.350035971209, 
-      "lon": 4.664096977675, 
+      "lat": 51.349953315501, 
+      "lon": 4.663975454614, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Heiken"
     }, 
     {
@@ -733,11 +736,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.350126809788, 
-      "lon": 4.663856853331, 
+      "lat": 51.349995892413, 
+      "lon": 4.663769758137, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Heiken"
     }, 
     {
@@ -940,8 +943,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.350955899645, 
-      "lon": 4.66130822252, 
+      "lat": 51.350957967202, 
+      "lon": 4.661308092026, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -984,8 +987,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.350925014334, 
-      "lon": 4.661222050754, 
+      "lat": 51.350925993059, 
+      "lon": 4.661226075882, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -1008,8 +1011,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.35093700902, 
-      "lon": 4.661023762107, 
+      "lat": 51.350936994125, 
+      "lon": 4.66102979045, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 

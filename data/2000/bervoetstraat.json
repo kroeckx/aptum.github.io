@@ -192,8 +192,11 @@
       "street": "Bervoetstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "32"
@@ -249,27 +252,34 @@
       "street": "Bervoetstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
-        "37-39"
+        "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.212142934216, 
-      "lon": 4.402444673306, 
+      "lat": 51.212096562061, 
+      "lon": 4.402416876591, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bervoetstraat"
     }, 
     {
       "hnrlbls": [
-        "37-39"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.212142934216, 
-      "lon": 4.402444673306, 
+      "lat": 51.212096539326, 
+      "lon": 4.402495012338, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bervoetstraat"
     }, 
     {

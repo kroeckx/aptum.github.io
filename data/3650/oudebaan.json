@@ -14,18 +14,6 @@
     }, 
     {
       "hnrlbls": [
-        "100"
-      ], 
-      "housenumber": "100", 
-      "lat": 51.012834872529, 
-      "lon": 5.717911477952, 
-      "municipality": "Dilsen-Stokkem", 
-      "pcode": "3650", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oude Baan"
-    }, 
-    {
-      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
@@ -566,6 +554,18 @@
     }, 
     {
       "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 51.019003398653, 
+      "lon": 5.723526168023, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Oude Baan"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -973,6 +973,18 @@
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oude Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "58C"
+      ], 
+      "housenumber": "58C", 
+      "lat": 51.015251271034, 
+      "lon": 5.719414814141, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Baan"
     }, 
     {
@@ -1514,6 +1526,18 @@
     }, 
     {
       "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 51.01260918734, 
+      "lon": 5.719088743097, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Oude Baan"
+    }, 
+    {
+      "hnrlbls": [
         "95"
       ], 
       "housenumber": "95", 
@@ -1529,11 +1553,11 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.01256744071, 
-      "lon": 5.718926919118, 
+      "lat": 51.012552893244, 
+      "lon": 5.719003745189, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Baan"
     }, 
     {

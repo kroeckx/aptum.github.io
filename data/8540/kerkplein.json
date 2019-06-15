@@ -29,11 +29,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.853361723289, 
-      "lon": 3.354677750015, 
+      "lat": 50.853348616832, 
+      "lon": 3.354763248623, 
       "municipality": "Deerlijk", 
       "pcode": "8540", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkplein"
     }, 
     {
@@ -314,15 +314,27 @@
       "street": "Kerkplein"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.853284845862, 
-      "lon": 3.354749426704, 
+      "lat": 50.853261509245, 
+      "lon": 3.354805888259, 
       "municipality": "Deerlijk", 
       "pcode": "8540", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkplein"
     }
   ]

@@ -1,15 +1,21 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "10/1", 
+        "10/1-1", 
+        "10/1-2", 
+        "10/2"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.022510339242, 
-      "lon": 5.399393873632, 
+      "lat": 51.022582833695, 
+      "lon": 5.399451346102, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelarenstraat"
     }, 
     {
@@ -34,18 +40,6 @@
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Hazelarenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.022488830131, 
-      "lon": 5.399304169819, 
-      "municipality": "Houthalen-Helchteren", 
-      "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Hazelarenstraat"
     }, 
     {
@@ -170,14 +164,82 @@
     }, 
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.023180950937, 
+      "lon": 5.400607993735, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.023120357771, 
+      "lon": 5.400649135147, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1C"
+      ], 
+      "housenumber": "1C", 
+      "lat": 51.02306307033, 
+      "lon": 5.400682367006, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1D"
+      ], 
+      "housenumber": "1D", 
+      "lat": 51.023007556759, 
+      "lon": 5.400718346196, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1E"
+      ], 
+      "housenumber": "1E", 
+      "lat": 51.022948627675, 
+      "lon": 5.400754249976, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "2/1", 
+        "2/1-1", 
+        "2/1-2", 
+        "2/1-3", 
+        "2/2", 
+        "2/3"
+      ], 
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.022596643399, 
-      "lon": 5.399752838163, 
+      "lat": 51.022960580428, 
+      "lon": 5.40031391766, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelarenstraat"
     }, 
     {
@@ -281,8 +343,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.02242771038, 
-      "lon": 5.400502867291, 
+      "lat": 51.022430822598, 
+      "lon": 5.400496521612, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -398,14 +460,56 @@
     }, 
     {
       "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.022808833087, 
+      "lon": 5.400846669538, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 51.022824801976, 
+      "lon": 5.400942666847, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3C"
+      ], 
+      "housenumber": "3C", 
+      "lat": 51.02284414783, 
+      "lon": 5.401022631562, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "4/1-1", 
+        "4/1-2", 
+        "4/2-1", 
+        "4/2-2"
+      ], 
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.022575228189, 
-      "lon": 5.399662708461, 
+      "lat": 51.0227963579, 
+      "lon": 5.400321558255, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelarenstraat"
     }, 
     {
@@ -530,14 +634,76 @@
     }, 
     {
       "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.023042299975, 
+      "lon": 5.401143886964, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 51.023059911505, 
+      "lon": 5.401237070265, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5C"
+      ], 
+      "housenumber": "5C", 
+      "lat": 51.023082555078, 
+      "lon": 5.401330507215, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5D"
+      ], 
+      "housenumber": "5D", 
+      "lat": 51.02310686273, 
+      "lon": 5.401418706927, 
+      "municipality": "Houthalen-Helchteren", 
+      "pcode": "3530", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hazelarenstraat"
+    }, 
+    {
+      "apptnrs": [
+        "6/1-1", 
+        "6/1-2", 
+        "6/1-3", 
+        "6/1-4", 
+        "6/2-1", 
+        "6/2-2", 
+        "6/2-3", 
+        "6/2-4", 
+        "6/3-1", 
+        "6/3-2", 
+        "6/3-3", 
+        "6/3-4"
+      ], 
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.022553450887, 
-      "lon": 5.399572855947, 
+      "lat": 51.02266079353, 
+      "lon": 5.400054584604, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelarenstraat"
     }, 
     {
@@ -685,15 +851,21 @@
       "street": "Hazelarenstraat"
     }, 
     {
+      "apptnrs": [
+        "8/1", 
+        "8/1-1", 
+        "8/1-2", 
+        "8/2"
+      ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.022531850782, 
-      "lon": 5.399483292502, 
+      "lat": 51.022625001412, 
+      "lon": 5.399655965246, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hazelarenstraat"
     }, 
     {

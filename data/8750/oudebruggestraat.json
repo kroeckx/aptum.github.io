@@ -246,11 +246,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.05844128506, 
-      "lon": 3.276322636593, 
+      "lat": 51.058435823617, 
+      "lon": 3.276198942719, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Oude Bruggestraat"
     }, 
     {
@@ -266,6 +266,16 @@
       "street": "Oude Bruggestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -274,7 +284,7 @@
       "lon": 3.276172794874, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Oude Bruggestraat"
     }, 
     {
@@ -1270,9 +1280,33 @@
     }, 
     {
       "hnrlbls": [
-        "97"
+        "97-97B"
       ], 
       "housenumber": "97", 
+      "lat": 51.056534448757, 
+      "lon": 3.269515574425, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Oude Bruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "97-97B"
+      ], 
+      "housenumber": "97A", 
+      "lat": 51.056534448757, 
+      "lon": 3.269515574425, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Oude Bruggestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "97-97B"
+      ], 
+      "housenumber": "97B", 
       "lat": 51.056534448757, 
       "lon": 3.269515574425, 
       "municipality": "Wingene", 

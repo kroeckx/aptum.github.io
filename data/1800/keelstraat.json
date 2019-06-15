@@ -169,8 +169,8 @@
       "street": "Keelstraat"
     }, 
     {
-      "apptnrs": [
-        "1"
+      "busnrs": [
+        "01/1"
       ], 
       "hnrlbls": [
         "13"
@@ -1025,18 +1025,6 @@
       "housenumber": "75", 
       "lat": 50.909303456996, 
       "lon": 4.369384333823, 
-      "municipality": "Vilvoorde", 
-      "pcode": "1800", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Keelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "75A"
-      ], 
-      "housenumber": "75A", 
-      "lat": 50.908944232715, 
-      "lon": 4.370075752908, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "manueleAanduidingVanPerceel", 

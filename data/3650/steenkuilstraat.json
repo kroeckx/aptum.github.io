@@ -146,8 +146,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.020110805235, 
-      "lon": 5.742333154209, 
+      "lat": 51.020118403056, 
+      "lon": 5.742344638127, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -267,8 +267,8 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.020183590281, 
-      "lon": 5.742267154398, 
+      "lat": 51.020169077244, 
+      "lon": 5.742285829344, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -279,8 +279,8 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.020199909392, 
-      "lon": 5.742294003905, 
+      "lat": 51.020187644929, 
+      "lon": 5.742320299657, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -291,8 +291,8 @@
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 51.020253828075, 
-      "lon": 5.742365432792, 
+      "lat": 51.020241541968, 
+      "lon": 5.742393580991, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -303,8 +303,8 @@
         "2D"
       ], 
       "housenumber": "2D", 
-      "lat": 51.02027255046, 
-      "lon": 5.742386651148, 
+      "lat": 51.020257839421, 
+      "lon": 5.742422283012, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -490,8 +490,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.020195989225, 
-      "lon": 5.742529656244, 
+      "lat": 51.020206724252, 
+      "lon": 5.742518852924, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -994,11 +994,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.020192649565, 
-      "lon": 5.742946498731, 
+      "lat": 51.020186529744, 
+      "lon": 5.742908544952, 
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenkuilstraat"
     }, 
     {
@@ -1047,6 +1047,18 @@
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "afgeleidVanGebouw", 
+      "street": "Steenkuilstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.020171667089, 
+      "lon": 5.742957143618, 
+      "municipality": "Dilsen-Stokkem", 
+      "pcode": "3650", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenkuilstraat"
     }, 
     {

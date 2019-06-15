@@ -646,12 +646,18 @@
       "street": "Jan Baptist De Keyzerstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.847621958732, 
-      "lon": 4.489108965661, 
+      "lat": 50.847819754085, 
+      "lon": 4.48899672944, 
       "municipality": "Wezembeek-Oppem", 
       "pcode": "1970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -682,6 +688,42 @@
       "street": "Jan Baptist De Keyzerstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "161"
+      ], 
+      "housenumber": "161", 
+      "lat": 50.847610038442, 
+      "lon": 4.488899916433, 
+      "municipality": "Wezembeek-Oppem", 
+      "pcode": "1970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jan Baptist De Keyzerstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "161A"
+      ], 
+      "housenumber": "161A", 
+      "lat": 50.847529429033, 
+      "lon": 4.488961335502, 
+      "municipality": "Wezembeek-Oppem", 
+      "pcode": "1970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jan Baptist De Keyzerstraat"
+    }, 
+    {
       "hnrlbls": [
         "162"
       ], 
@@ -691,6 +733,60 @@
       "municipality": "Wezembeek-Oppem", 
       "pcode": "1970", 
       "source": "afgeleidVanGebouw", 
+      "street": "Jan Baptist De Keyzerstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "163"
+      ], 
+      "housenumber": "163", 
+      "lat": 50.847434520014, 
+      "lon": 4.488679655821, 
+      "municipality": "Wezembeek-Oppem", 
+      "pcode": "1970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jan Baptist De Keyzerstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "163A"
+      ], 
+      "housenumber": "163A", 
+      "lat": 50.847400474792, 
+      "lon": 4.488567817887, 
+      "municipality": "Wezembeek-Oppem", 
+      "pcode": "1970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jan Baptist De Keyzerstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12"
+      ], 
+      "hnrlbls": [
+        "163B"
+      ], 
+      "housenumber": "163B", 
+      "lat": 50.847356708997, 
+      "lon": 4.488467456857, 
+      "municipality": "Wezembeek-Oppem", 
+      "pcode": "1970", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jan Baptist De Keyzerstraat"
     }, 
     {

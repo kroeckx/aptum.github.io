@@ -25,15 +25,11 @@
       "street": "Nieuwbrugstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "1.0"
-      ], 
       "busnrs": [
         "1"
       ], 
       "hnrlbls": [
-        "66-66_1"
+        "66"
       ], 
       "housenumber": "66", 
       "lat": 50.910853184251, 
@@ -65,21 +61,6 @@
       "municipality": "Machelen", 
       "pcode": "1830", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Nieuwbrugstraat"
-    }, 
-    {
-      "busnrs": [
-        "V."
-      ], 
-      "hnrlbls": [
-        "66-66_1"
-      ], 
-      "housenumber": "66_1", 
-      "lat": 50.910853184251, 
-      "lon": 4.423106051551, 
-      "municipality": "Machelen", 
-      "pcode": "1830", 
-      "source": "afgeleidVanGebouw", 
       "street": "Nieuwbrugstraat"
     }, 
     {

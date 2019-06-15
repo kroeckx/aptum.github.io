@@ -43,11 +43,30 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.124373978027, 
-      "lon": 4.340938412505, 
+      "lat": 51.124263851754, 
+      "lon": 4.341268286566, 
       "municipality": "Schelle", 
       "pcode": "2627", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.124738880447, 
+      "lon": 4.341159171457, 
+      "municipality": "Schelle", 
+      "pcode": "2627", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zandstraat"
     }
   ]

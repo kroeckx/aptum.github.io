@@ -208,24 +208,6 @@
       "street": "Van Peenestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "24-26"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.188852522842, 
-      "lon": 4.373315412561, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Peenestraat"
-    }, 
-    {
       "hnrlbls": [
         "25"
       ], 
@@ -238,46 +220,12 @@
       "street": "Van Peenestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "24-26"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.188852522842, 
-      "lon": 4.373315412561, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Peenestraat"
-    }, 
-    {
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
       "lat": 51.189439179902, 
       "lon": 4.375414250136, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Peenestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "28-30"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.188840307865, 
-      "lon": 4.373100144332, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -302,23 +250,6 @@
       "housenumber": "3", 
       "lat": 51.189982150048, 
       "lon": 4.375802826812, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Peenestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "28-30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.188840307865, 
-      "lon": 4.373100144332, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -708,6 +639,33 @@
       "street": "Van Peenestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "403", 
+        "501", 
+        "502", 
+        "503"
+      ], 
+      "hnrlbls": [
+        "76"
+      ], 
+      "housenumber": "76", 
+      "lat": 51.188865101716, 
+      "lon": 4.373427123947, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van Peenestraat"
+    }, 
+    {
       "busnrs": [
         "01", 
         "02", 
@@ -758,6 +716,28 @@
       "street": "Van Peenestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 51.188851629835, 
+      "lon": 4.373182390386, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van Peenestraat"
+    }, 
+    {
       "busnrs": [
         "01", 
         "02", 
@@ -771,6 +751,34 @@
       "housenumber": "81", 
       "lat": 51.188639140864, 
       "lon": 4.373202534826, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Van Peenestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "403", 
+        "501", 
+        "502", 
+        "503"
+      ], 
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 51.188839505117, 
+      "lon": 4.372952246622, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 

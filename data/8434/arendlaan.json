@@ -114,15 +114,26 @@
       "street": "Arendlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.170010559378, 
-      "lon": 2.774619499691, 
+      "lat": 51.169985343625, 
+      "lon": 2.774636377651, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Arendlaan"
     }, 
     {
@@ -138,22 +149,6 @@
       "housenumber": "14", 
       "lat": 51.169914735566, 
       "lon": 2.77418101506, 
-      "municipality": "Middelkerke", 
-      "pcode": "8434", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Arendlaan"
-    }, 
-    {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
-      "hnrlbls": [
-        "15"
-      ], 
-      "housenumber": "15", 
-      "lat": 51.169976903681, 
-      "lon": 2.774650537725, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
       "source": "manueleAanduidingVanGebouw", 

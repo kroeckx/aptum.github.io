@@ -140,11 +140,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.786069585132, 
-      "lon": 3.800829040796, 
+      "lat": 50.786216744421, 
+      "lon": 3.800697932028, 
       "municipality": "Brakel", 
       "pcode": "9661", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hollebeekstraat"
     }, 
     {
@@ -569,14 +569,14 @@
     }, 
     {
       "hnrlbls": [
-        "55"
+        "55A"
       ], 
-      "housenumber": "55", 
-      "lat": 50.789093566282, 
-      "lon": 3.807748904224, 
+      "housenumber": "55A", 
+      "lat": 50.789050040952, 
+      "lon": 3.807576823223, 
       "municipality": "Brakel", 
       "pcode": "9661", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hollebeekstraat"
     }, 
     {

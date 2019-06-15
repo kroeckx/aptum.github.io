@@ -230,7 +230,7 @@
     }, 
     {
       "apptnrs": [
-        "117/0011"
+        "11"
       ], 
       "hnrlbls": [
         "117"
@@ -2003,6 +2003,18 @@
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kempenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.918466378777, 
+      "lon": 5.419148575022, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kempenstraat"
     }, 
     {

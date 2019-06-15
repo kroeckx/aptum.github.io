@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.140272839423, 
-      "lon": 5.595353383833, 
+      "lat": 51.140273645321, 
+      "lon": 5.59535369082, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -53,8 +53,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.140450341427, 
-      "lon": 5.596161750233, 
+      "lat": 51.140430652463, 
+      "lon": 5.596135938206, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -133,6 +133,10 @@
       "street": "Ter Rivierenwal"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -289,23 +293,21 @@
       "street": "Ter Rivierenwal"
     }, 
     {
-      "busnrs": [
-        "3A", 
-        "4A", 
-        "5A", 
-        "6A", 
-        "7A", 
-        "8A"
+      "apptnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1", 
+        "3/1"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.140525580013, 
-      "lon": 5.59599824341, 
+      "lat": 51.140527554384, 
+      "lon": 5.5959812895, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Ter Rivierenwal"
     }, 
     {

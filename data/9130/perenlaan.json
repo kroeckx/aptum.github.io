@@ -2,11 +2,71 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.293509185328, 
+      "lon": 4.180608780693, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 51.293212525133, 
       "lon": 4.181202033725, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.293533344715, 
+      "lon": 4.181450616533, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.293196067877, 
+      "lon": 4.181310333203, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.29360677333, 
+      "lon": 4.181618909787, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.293215248801, 
+      "lon": 4.181504359723, 
       "municipality": "Beveren", 
       "pcode": "9130", 
       "source": "manueleAanduidingVanGebouw", 
@@ -38,11 +98,47 @@
     }, 
     {
       "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.293628665106, 
+      "lon": 4.181879588238, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 51.293193218133, 
       "lon": 4.181783704551, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.293611575063, 
+      "lon": 4.182100426061, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.29321383652, 
+      "lon": 4.180609969901, 
       "municipality": "Beveren", 
       "pcode": "9130", 
       "source": "manueleAanduidingVanGebouw", 
@@ -86,6 +182,18 @@
     }, 
     {
       "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.293610379864, 
+      "lon": 4.182369798259, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
@@ -98,14 +206,86 @@
     }, 
     {
       "hnrlbls": [
-        "4"
+        "3"
       ], 
-      "housenumber": "4", 
-      "lat": 51.293218002455, 
-      "lon": 4.180743417188, 
+      "housenumber": "3", 
+      "lat": 51.29352793125, 
+      "lon": 4.180754355469, 
       "municipality": "Beveren", 
       "pcode": "9130", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.293201928955, 
+      "lon": 4.180753086683, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.293509753863, 
+      "lon": 4.180968316494, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.293197108219, 
+      "lon": 4.180887573568, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.293529926575, 
+      "lon": 4.181107004571, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.293213314711, 
+      "lon": 4.181075877644, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Perenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.293511759401, 
+      "lon": 4.181327846536, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Perenlaan"
     }
   ]

@@ -355,6 +355,10 @@
       "street": "Arendstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -721,8 +725,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.206776308687, 
-      "lon": 4.429315641147, 
+      "lat": 51.206796358824, 
+      "lon": 4.429304220314, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

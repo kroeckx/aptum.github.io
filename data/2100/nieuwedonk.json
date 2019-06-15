@@ -1,11 +1,11 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "1"
@@ -19,10 +19,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "10"
@@ -36,10 +36,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "12"
@@ -53,10 +53,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "14"
@@ -70,14 +70,18 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "15-17"
+        "15"
       ], 
       "housenumber": "15", 
       "lat": 51.210350459561, 
@@ -88,10 +92,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "16"
@@ -99,24 +103,6 @@
       "housenumber": "16", 
       "lat": 51.210439917845, 
       "lon": 4.472512849627, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "15-17"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.210350459561, 
-      "lon": 4.471619987974, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -140,14 +126,18 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "19-21"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 51.21035820181, 
@@ -158,10 +148,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "2"
@@ -175,52 +165,20 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "19-21"
-      ], 
-      "housenumber": "21", 
-      "lat": 51.21035820181, 
-      "lon": 4.471400631971, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "23-25"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.210365942777, 
-      "lon": 4.471182277598, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "23-25"
-      ], 
-      "housenumber": "25", 
       "lat": 51.210365942777, 
       "lon": 4.471182277598, 
       "municipality": "Antwerpen", 
@@ -258,10 +216,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "28"
@@ -275,11 +233,11 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "3"
@@ -293,10 +251,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "30"
@@ -310,10 +268,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "32"
@@ -327,14 +285,18 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "33-35"
+        "33"
       ], 
       "housenumber": "33", 
       "lat": 51.210144985792, 
@@ -345,10 +307,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "34"
@@ -356,24 +318,6 @@
       "housenumber": "34", 
       "lat": 51.209906984559, 
       "lon": 4.47026099187, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "33-35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.210144985792, 
-      "lon": 4.470793845138, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -397,14 +341,18 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "37-39"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 51.20999533999, 
@@ -415,10 +363,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "38"
@@ -432,44 +380,27 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "37-39"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.20999533999, 
-      "lon": 4.470780493453, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.209970309203, 
-      "lon": 4.472471014557, 
+      "lat": 51.210009764808, 
+      "lon": 4.472475109673, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "40"
@@ -483,10 +414,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "42"
@@ -535,11 +466,11 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "5"
@@ -553,8 +484,18 @@
       "street": "Nieuwe Donk"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
-        "50-52"
+        "50"
       ], 
       "housenumber": "50", 
       "lat": 51.209656889846, 
@@ -562,30 +503,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "hnrlbls": [
-        "50-52"
-      ], 
-      "housenumber": "52", 
-      "lat": 51.209656889846, 
-      "lon": 4.471131197775, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "hnrlbls": [
-        "52B"
-      ], 
-      "housenumber": "52B", 
-      "lat": 51.209659277407, 
-      "lon": 4.471176279059, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwe Donk"
     }, 
     {
@@ -611,12 +528,18 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "58-60"
+        "58"
       ], 
       "housenumber": "58", 
       "lat": 51.209640309408, 
@@ -627,10 +550,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "6"
@@ -638,23 +561,6 @@
       "housenumber": "6", 
       "lat": 51.210081307285, 
       "lon": 4.472481280032, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "58-60"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.209640309408, 
-      "lon": 4.471590363835, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -686,7 +592,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "62-64"
+        "62"
       ], 
       "housenumber": "62", 
       "lat": 51.209623773534, 
@@ -697,22 +603,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "hnrlbls": [
-        "62-64"
-      ], 
-      "housenumber": "64", 
-      "lat": 51.209623773534, 
-      "lon": 4.471894554179, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "66"
@@ -726,23 +620,28 @@
       "street": "Nieuwe Donk"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.209562250131, 
-      "lon": 4.472554815137, 
+      "lat": 51.209604671411, 
+      "lon": 4.472559489326, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwe Donk"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "7"
@@ -756,6 +655,11 @@
       "street": "Nieuwe Donk"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "70"
       ], 
@@ -768,34 +672,10 @@
       "street": "Nieuwe Donk"
     }, 
     {
-      "hnrlbls": [
-        "70B-70C"
-      ], 
-      "housenumber": "70B", 
-      "lat": 51.209599536388, 
-      "lon": 4.472674242624, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "hnrlbls": [
-        "70B-70C"
-      ], 
-      "housenumber": "70C", 
-      "lat": 51.209599536388, 
-      "lon": 4.472674242624, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Nieuwe Donk"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "8"

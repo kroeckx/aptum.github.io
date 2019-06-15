@@ -641,6 +641,24 @@
       "street": "Meersstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "162"
+      ], 
+      "housenumber": "162", 
+      "lat": 50.878387782933, 
+      "lon": 4.089140979265, 
+      "municipality": "Liedekerke", 
+      "pcode": "1770", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Meersstraat"
+    }, 
+    {
       "hnrlbls": [
         "164"
       ], 
@@ -693,8 +711,8 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.878689240954, 
-      "lon": 4.089309272316, 
+      "lat": 50.878688610348, 
+      "lon": 4.089308707694, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
       "source": "afgeleidVanGebouw", 
@@ -717,8 +735,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.878741435643, 
-      "lon": 4.089332691823, 
+      "lat": 50.878734376223, 
+      "lon": 4.089350495108, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
       "source": "afgeleidVanGebouw", 

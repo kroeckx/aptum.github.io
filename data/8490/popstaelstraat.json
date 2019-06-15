@@ -542,14 +542,26 @@
     }, 
     {
       "hnrlbls": [
-        "52"
+        "52A"
       ], 
-      "housenumber": "52", 
-      "lat": 51.192431802975, 
-      "lon": 3.149027828099, 
+      "housenumber": "52A", 
+      "lat": 51.19240601125, 
+      "lon": 3.149046098986, 
       "municipality": "Jabbeke", 
       "pcode": "8490", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Popstaelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "52B"
+      ], 
+      "housenumber": "52B", 
+      "lat": 51.192423366781, 
+      "lon": 3.148942066627, 
+      "municipality": "Jabbeke", 
+      "pcode": "8490", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Popstaelstraat"
     }, 
     {

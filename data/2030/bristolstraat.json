@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-41"
+        "1-43"
       ], 
       "housenumber": "1", 
-      "lat": 51.254954312809, 
-      "lon": 4.423142422048, 
+      "lat": 51.254943885558, 
+      "lon": 4.423144271807, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bristolstraat"
     }, 
     {
@@ -275,14 +275,14 @@
         "201"
       ], 
       "hnrlbls": [
-        "3-43"
+        "1-43"
       ], 
       "housenumber": "3", 
-      "lat": 51.254907026158, 
-      "lon": 4.423353068219, 
+      "lat": 51.254943885558, 
+      "lon": 4.423144271807, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bristolstraat"
     }, 
     {

@@ -122,14 +122,38 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "1_1"
       ], 
-      "housenumber": "2", 
-      "lat": 50.914827591531, 
-      "lon": 3.208441411469, 
+      "housenumber": "1_1", 
+      "lat": 50.914946850915, 
+      "lon": 3.208792159008, 
       "municipality": "Izegem", 
       "pcode": "8870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Jorisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1_2"
+      ], 
+      "housenumber": "1_2", 
+      "lat": 50.914904835255, 
+      "lon": 3.208770868694, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Jorisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1_3"
+      ], 
+      "housenumber": "1_3", 
+      "lat": 50.914866358688, 
+      "lon": 3.208752904208, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jorisstraat"
     }, 
     {
@@ -373,6 +397,11 @@
       "street": "Sint-Jorisstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -617,11 +646,47 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.910841204692, 
-      "lon": 3.207164773963, 
+      "lat": 50.910703091148, 
+      "lon": 3.20690809801, 
       "municipality": "Izegem", 
       "pcode": "8870", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Sint-Jorisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "64_1"
+      ], 
+      "housenumber": "64_1", 
+      "lat": 50.910696882739, 
+      "lon": 3.205744309013, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Jorisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "64_2"
+      ], 
+      "housenumber": "64_2", 
+      "lat": 50.910681597281, 
+      "lon": 3.207171138808, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Jorisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "64_3"
+      ], 
+      "housenumber": "64_3", 
+      "lat": 50.910433209615, 
+      "lon": 3.206681986911, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Jorisstraat"
     }, 
     {

@@ -581,8 +581,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.977543468886, 
-      "lon": 4.633003951133, 
+      "lat": 50.977543288783, 
+      "lon": 4.633004092506, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
@@ -718,11 +718,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.977802904955, 
-      "lon": 4.630756488192, 
+      "lat": 50.977749526848, 
+      "lon": 4.630587455482, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rijmenamsesteenweg"
     }, 
     {
@@ -826,8 +826,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.977609965944, 
-      "lon": 4.6329344131, 
+      "lat": 50.977610054552, 
+      "lon": 4.632934983164, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
@@ -1459,6 +1459,18 @@
     }, 
     {
       "hnrlbls": [
+        "250"
+      ], 
+      "housenumber": "250", 
+      "lat": 50.986640218255, 
+      "lon": 4.606564890344, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Rijmenamsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "252"
       ], 
       "housenumber": "252", 
@@ -1623,11 +1635,11 @@
         "274A"
       ], 
       "housenumber": "274A", 
-      "lat": 50.986880874986, 
-      "lon": 4.602442094601, 
+      "lat": 50.98684476977, 
+      "lon": 4.602426390403, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Rijmenamsesteenweg"
     }, 
     {
@@ -1805,11 +1817,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.977449821165, 
-      "lon": 4.632035594951, 
+      "lat": 50.977322982802, 
+      "lon": 4.632115900537, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Rijmenamsesteenweg"
     }, 
     {
@@ -2090,8 +2102,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.977509179721, 
-      "lon": 4.631942236287, 
+      "lat": 50.977427617658, 
+      "lon": 4.63199560065, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2313,8 +2325,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.977542338554, 
-      "lon": 4.631827086583, 
+      "lat": 50.9775175117, 
+      "lon": 4.631834493581, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "manueleAanduidingVanPerceel", 
@@ -2445,8 +2457,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.979737408648, 
-      "lon": 4.622235458617, 
+      "lat": 50.979737407725, 
+      "lon": 4.622235885804, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 

@@ -176,6 +176,18 @@
     }, 
     {
       "hnrlbls": [
+        "11-11A"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.997820068911, 
+      "lon": 5.525721883362, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Onderwijslaan"
+    }, 
+    {
+      "hnrlbls": [
         "111-113"
       ], 
       "housenumber": "111", 
@@ -220,10 +232,45 @@
     {
       "busnrs": [
         "BU01", 
+        "BU11", 
+        "BU21", 
+        "BU31"
+      ], 
+      "hnrlbls": [
+        "117"
+      ], 
+      "housenumber": "117", 
+      "lat": 50.998118337435, 
+      "lon": 5.507526528432, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Onderwijslaan"
+    }, 
+    {
+      "busnrs": [
+        "BU02", 
+        "BU12", 
+        "BU22"
+      ], 
+      "hnrlbls": [
+        "119"
+      ], 
+      "housenumber": "119", 
+      "lat": 50.998121241731, 
+      "lon": 5.507430859914, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Onderwijslaan"
+    }, 
+    {
+      "busnrs": [
+        "BU01", 
         "BU02"
       ], 
       "hnrlbls": [
-        "11A"
+        "11-11A"
       ], 
       "housenumber": "11A", 
       "lat": 50.997820068911, 
@@ -247,28 +294,20 @@
     }, 
     {
       "busnrs": [
-        "22", 
-        "BU01", 
-        "BU02", 
         "BU03", 
-        "BU11", 
-        "BU12", 
         "BU13", 
-        "BU21", 
-        "BU22", 
         "BU23", 
-        "BU31", 
         "BU32"
       ], 
       "hnrlbls": [
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.998121241731, 
-      "lon": 5.507430859914, 
+      "lat": 50.998119010119, 
+      "lon": 5.507327088234, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onderwijslaan"
     }, 
     {

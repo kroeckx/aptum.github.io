@@ -409,12 +409,17 @@
       "street": "Bruidstraat"
     }, 
     {
+      "apptnrs": [
+        "65/001", 
+        "65A", 
+        "65B"
+      ], 
       "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.987055403673, 
-      "lon": 5.056573027515, 
+      "lat": 50.987055111505, 
+      "lon": 5.056576868689, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

@@ -1114,8 +1114,9 @@
       "street": "Desguinlei"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "201"
       ], 
       "hnrlbls": [
         "72"
@@ -1136,16 +1137,17 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.192964021918, 
-      "lon": 4.408890403091, 
+      "lat": 51.192963572593, 
+      "lon": 4.408890116603, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
       "street": "Desguinlei"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "201"
       ], 
       "hnrlbls": [
         "76"

@@ -176,11 +176,11 @@
     }, 
     {
       "hnrlbls": [
-        "110A"
+        "110"
       ], 
-      "housenumber": "110A", 
-      "lat": 51.276694051282, 
-      "lon": 4.628917489061, 
+      "housenumber": "110", 
+      "lat": 51.276638667407, 
+      "lon": 4.629087998381, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -188,11 +188,11 @@
     }, 
     {
       "hnrlbls": [
-        "110-110B"
+        "110A"
       ], 
-      "housenumber": "110B", 
-      "lat": 51.276638667407, 
-      "lon": 4.629087998381, 
+      "housenumber": "110A", 
+      "lat": 51.276694051282, 
+      "lon": 4.628917489061, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -251,8 +251,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.277159119511, 
-      "lon": 4.628092785175, 
+      "lat": 51.277161180485, 
+      "lon": 4.628095662814, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1104,6 +1104,7 @@
     }, 
     {
       "apptnrs": [
+        "b1", 
         "b2", 
         "b3"
       ], 
@@ -1115,7 +1116,7 @@
       "lon": 4.639435373327, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bethani\u00ebnlei"
     }, 
     {
@@ -1183,8 +1184,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.270173979223, 
-      "lon": 4.639154660349, 
+      "lat": 51.270167709833, 
+      "lon": 4.639144880469, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1332,7 +1333,7 @@
       "street": "Bethani\u00ebnlei"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "b1", 
         "b2"
       ], 
@@ -1748,8 +1749,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.271924131435, 
-      "lon": 4.637204059362, 
+      "lat": 51.27192119304, 
+      "lon": 4.637191862687, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -1760,8 +1761,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.275540351462, 
-      "lon": 4.632307705203, 
+      "lat": 51.27554293051, 
+      "lon": 4.632320043777, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

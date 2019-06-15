@@ -621,18 +621,6 @@
     }, 
     {
       "hnrlbls": [
-        "211"
-      ], 
-      "housenumber": "211", 
-      "lat": 51.212325713891, 
-      "lon": 5.389672013626, 
-      "municipality": "Pelt", 
-      "pcode": "3900", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Astridlaan"
-    }, 
-    {
-      "hnrlbls": [
         "212"
       ], 
       "housenumber": "212", 
@@ -644,18 +632,15 @@
       "street": "Astridlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "213"
       ], 
       "housenumber": "213", 
-      "lat": 51.212391102291, 
-      "lon": 5.389386919434, 
+      "lat": 51.212320603345, 
+      "lon": 5.389670470469, 
       "municipality": "Pelt", 
       "pcode": "3900", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Astridlaan"
     }, 
     {
@@ -672,9 +657,29 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2", 
+        "bus 1"
+      ], 
+      "busnrs": [
+        "bus 2"
+      ], 
+      "hnrlbls": [
+        "215"
+      ], 
+      "housenumber": "215", 
+      "lat": 51.212390685918, 
+      "lon": 5.389393493844, 
+      "municipality": "Pelt", 
+      "pcode": "3900", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Astridlaan"
+    }, 
+    {
+      "apptnrs": [
         "3"
+      ], 
+      "busnrs": [
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "217"
@@ -689,9 +694,9 @@
     }, 
     {
       "hnrlbls": [
-        "219"
+        "219A"
       ], 
-      "housenumber": "219", 
+      "housenumber": "219A", 
       "lat": 51.21249199117, 
       "lon": 5.388707016665, 
       "municipality": "Pelt", 

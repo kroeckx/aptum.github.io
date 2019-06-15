@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "apptnrs": [
+      "busnrs": [
         "001", 
         "101"
       ], 
@@ -9,11 +9,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.026018581286, 
-      "lon": 3.140140617286, 
+      "lat": 51.026021196664, 
+      "lon": 3.140141404037, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Peperstraat"
     }, 
     {
@@ -285,8 +285,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.023493610884, 
-      "lon": 3.138731022542, 
+      "lat": 51.02348573585, 
+      "lon": 3.138734507918, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 
@@ -313,7 +313,7 @@
       "lon": 3.138228823542, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Peperstraat"
     }, 
     {

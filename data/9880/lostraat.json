@@ -427,12 +427,22 @@
       "street": "Lostraat"
     }, 
     {
+      "busnrs": [
+        "0A", 
+        "0B", 
+        "1A", 
+        "1B", 
+        "1C", 
+        "2A", 
+        "2B", 
+        "2C"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.082866149089, 
-      "lon": 3.450342483227, 
+      "lat": 51.082878376835, 
+      "lon": 3.450400473563, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -451,12 +461,19 @@
       "street": "Lostraat"
     }, 
     {
+      "busnrs": [
+        "0A", 
+        "0B", 
+        "1A", 
+        "2A", 
+        "2B"
+      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.082761894409, 
-      "lon": 3.450368648906, 
+      "lat": 51.082802755044, 
+      "lon": 3.450501862176, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 

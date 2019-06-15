@@ -14,9 +14,21 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "10A-10B"
       ], 
-      "housenumber": "10", 
+      "housenumber": "10A", 
+      "lat": 51.215484952135, 
+      "lon": 3.221320198024, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vlamingdam"
+    }, 
+    {
+      "hnrlbls": [
+        "10A-10B"
+      ], 
+      "housenumber": "10B", 
       "lat": 51.215484952135, 
       "lon": 3.221320198024, 
       "municipality": "Brugge", 

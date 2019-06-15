@@ -359,19 +359,21 @@
       "street": "Zirkstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.223021105768, 
-      "lon": 4.401639091842, 
+      "lat": 51.222898688652, 
+      "lon": 4.401622828975, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zirkstraat"
     }, 
     {

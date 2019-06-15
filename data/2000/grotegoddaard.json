@@ -226,6 +226,11 @@
       "street": "Grote Goddaard"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -247,18 +252,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Grote Goddaard"
-    }, 
-    {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.221696794915, 
-      "lon": 4.404836781742, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Goddaard"
     }, 
     {

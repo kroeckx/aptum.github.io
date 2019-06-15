@@ -160,8 +160,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.109801488857, 
-      "lon": 4.33119070697, 
+      "lat": 51.109806789725, 
+      "lon": 4.331182706403, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanGebouw", 
@@ -215,8 +215,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.109898968399, 
-      "lon": 4.33132328468, 
+      "lat": 51.109898699493, 
+      "lon": 4.33132571237, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanGebouw", 
@@ -435,11 +435,11 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.110355696257, 
-      "lon": 4.331641928153, 
+      "lat": 51.110324093549, 
+      "lon": 4.331764327402, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -854,25 +854,6 @@
       "street": "Antwerpsestraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202"
-      ], 
-      "hnrlbls": [
-        "167"
-      ], 
-      "housenumber": "167", 
-      "lat": 51.111301547165, 
-      "lon": 4.331816403316, 
-      "municipality": "Niel", 
-      "pcode": "2845", 
-      "source": "manueleAanduidingVanLigplaats", 
-      "street": "Antwerpsestraat"
-    }, 
-    {
       "hnrlbls": [
         "168"
       ], 
@@ -886,36 +867,40 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "202"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 51.111308705125, 
-      "lon": 4.331709014268, 
+      "lat": 51.111313938037, 
+      "lon": 4.331772126569, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
       "busnrs": [
-        "201"
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301"
       ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.107005687581, 
-      "lon": 4.329702103799, 
+      "lat": 51.107019853563, 
+      "lon": 4.329590720574, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {
@@ -1698,8 +1683,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001"
       ], 
       "hnrlbls": [
         "240-240B"
@@ -2791,6 +2775,12 @@
       "street": "Antwerpsestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "316"
       ], 
@@ -3577,23 +3567,19 @@
       "street": "Antwerpsestraat"
     }, 
     {
-      "apptnrs": [
-        "1.0", 
-        "2.0"
-      ], 
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002"
       ], 
       "hnrlbls": [
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.109499197172, 
-      "lon": 4.331480669726, 
+      "lat": 51.10954941277, 
+      "lon": 4.331378962645, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Antwerpsestraat"
     }, 
     {

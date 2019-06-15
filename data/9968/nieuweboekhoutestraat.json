@@ -17,11 +17,11 @@
         "10-14"
       ], 
       "housenumber": "10", 
-      "lat": 51.230756833465, 
-      "lon": 3.679331875552, 
+      "lat": 51.23071326815, 
+      "lon": 3.679383344224, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwe Boekhoutestraat"
     }, 
     {
@@ -29,11 +29,11 @@
         "10-14"
       ], 
       "housenumber": "12", 
-      "lat": 51.230756833465, 
-      "lon": 3.679331875552, 
+      "lat": 51.23071326815, 
+      "lon": 3.679383344224, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwe Boekhoutestraat"
     }, 
     {
@@ -44,11 +44,11 @@
         "10-14"
       ], 
       "housenumber": "14", 
-      "lat": 51.230756833465, 
-      "lon": 3.679331875552, 
+      "lat": 51.23071326815, 
+      "lon": 3.679383344224, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwe Boekhoutestraat"
     }, 
     {
@@ -56,8 +56,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.232692949926, 
-      "lon": 3.685228142756, 
+      "lat": 51.232695422965, 
+      "lon": 3.685236124335, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -128,14 +128,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-2A"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.230475843498, 
-      "lon": 3.678729852042, 
+      "lat": 51.230371892017, 
+      "lon": 3.678537682787, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwe Boekhoutestraat"
     }, 
     {
@@ -167,11 +167,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.231164277377, 
-      "lon": 3.679066860425, 
+      "lat": 51.231207829832, 
+      "lon": 3.67899778116, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwe Boekhoutestraat"
     }, 
     {
@@ -272,7 +272,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2A"
       ], 
       "housenumber": "2A", 
       "lat": 51.230475843498, 
@@ -311,8 +311,8 @@
         "30A"
       ], 
       "housenumber": "30A", 
-      "lat": 51.231277889771, 
-      "lon": 3.680997271424, 
+      "lat": 51.231253453259, 
+      "lon": 3.681014955243, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -455,11 +455,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.232634619203, 
-      "lon": 3.684435665083, 
+      "lat": 51.232713669105, 
+      "lon": 3.684411311414, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwe Boekhoutestraat"
     }, 
     {
@@ -606,8 +606,8 @@
         "62A"
       ], 
       "housenumber": "62A", 
-      "lat": 51.234104861557, 
-      "lon": 3.685268454377, 
+      "lat": 51.234133735224, 
+      "lon": 3.685271897283, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 

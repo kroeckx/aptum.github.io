@@ -413,11 +413,11 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.770006963132, 
-      "lon": 5.463409891702, 
+      "lat": 50.770015088312, 
+      "lon": 5.463377471904, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Luikersteenweg"
     }, 
     {
@@ -425,8 +425,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.770282523871, 
-      "lon": 5.463919473743, 
+      "lat": 50.770286369118, 
+      "lon": 5.463921689917, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -1063,22 +1063,6 @@
         "2"
       ], 
       "hnrlbls": [
-        "277B"
-      ], 
-      "housenumber": "277B", 
-      "lat": 50.764608156397, 
-      "lon": 5.471002927108, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Luikersteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
         "27-27B"
       ], 
       "housenumber": "27B", 
@@ -1178,8 +1162,8 @@
         "292"
       ], 
       "housenumber": "292", 
-      "lat": 50.758799162924, 
-      "lon": 5.480485775603, 
+      "lat": 50.758796136391, 
+      "lon": 5.48048258574, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -2244,8 +2228,8 @@
         "510"
       ], 
       "housenumber": "510", 
-      "lat": 50.744622654433, 
-      "lon": 5.496065960609, 
+      "lat": 50.744626910294, 
+      "lon": 5.496072155703, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -2640,8 +2624,8 @@
         "567"
       ], 
       "housenumber": "567", 
-      "lat": 50.748613717728, 
-      "lon": 5.491377413353, 
+      "lat": 50.748626597428, 
+      "lon": 5.491375027937, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -3258,8 +3242,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.771977998861, 
-      "lon": 5.460801138408, 
+      "lat": 50.77197497055, 
+      "lon": 5.460788449405, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 

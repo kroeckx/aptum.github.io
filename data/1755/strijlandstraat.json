@@ -765,18 +765,12 @@
       "street": "Strijlandstraat"
     }, 
     {
-      "busnrs": [
-        "1A", 
-        "1B", 
-        "1C", 
-        "2C"
-      ], 
       "hnrlbls": [
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.791411503924, 
-      "lon": 4.08547692972, 
+      "lat": 50.791357886664, 
+      "lon": 4.085721903939, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 
@@ -927,56 +921,56 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.79160646018, 
-      "lon": 4.084571320931, 
+      "lat": 50.791605112773, 
+      "lon": 4.084571754532, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strijlandstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "54A"
       ], 
       "housenumber": "54A", 
-      "lat": 50.791600263754, 
-      "lon": 4.084462576065, 
+      "lat": 50.791597655059, 
+      "lon": 4.084461882644, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strijlandstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "54B"
       ], 
       "housenumber": "54B", 
-      "lat": 50.79161069795, 
-      "lon": 4.084353730975, 
+      "lat": 50.791613300463, 
+      "lon": 4.08435187152, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strijlandstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
         "54C"
       ], 
       "housenumber": "54C", 
-      "lat": 50.791631811089, 
-      "lon": 4.08423716271, 
+      "lat": 50.791629121775, 
+      "lon": 4.08424029915, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Strijlandstraat"
     }, 
     {
@@ -1159,18 +1153,6 @@
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 
-      "street": "Strijlandstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "68"
-      ], 
-      "housenumber": "68", 
-      "lat": 50.791415820528, 
-      "lon": 4.082548731226, 
-      "municipality": "Gooik", 
-      "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Strijlandstraat"
     }, 
     {

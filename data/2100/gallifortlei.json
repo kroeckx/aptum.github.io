@@ -48,6 +48,18 @@
       "street": "Gallifortlei"
     }, 
     {
+      "hnrlbls": [
+        "104A"
+      ], 
+      "housenumber": "104A", 
+      "lat": 51.22289869403, 
+      "lon": 4.463878986222, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Gallifortlei"
+    }, 
+    {
       "busnrs": [
         "2", 
         "3"
@@ -1853,10 +1865,6 @@
       "street": "Gallifortlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "249"
       ], 
@@ -1945,9 +1953,9 @@
       "street": "Gallifortlei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "259"
@@ -2742,8 +2750,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.221666992509, 
-      "lon": 4.462566910472, 
+      "lat": 51.221666901023, 
+      "lon": 4.46256891418, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

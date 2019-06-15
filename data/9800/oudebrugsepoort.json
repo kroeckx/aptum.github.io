@@ -85,11 +85,11 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.990560332658, 
-      "lon": 3.516921836795, 
+      "lat": 50.990687303152, 
+      "lon": 3.517038609578, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Brugsepoort"
     }, 
     {
@@ -98,26 +98,26 @@
         "0201"
       ], 
       "hnrlbls": [
-        "105-105A"
+        "105"
       ], 
       "housenumber": "105", 
-      "lat": 50.990800166115, 
-      "lon": 3.51821339356, 
+      "lat": 50.990750661207, 
+      "lon": 3.518068006356, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Brugsepoort"
     }, 
     {
       "hnrlbls": [
-        "105-105A"
+        "105A"
       ], 
       "housenumber": "105A", 
-      "lat": 50.990800166115, 
-      "lon": 3.51821339356, 
+      "lat": 50.990851768037, 
+      "lon": 3.518362873788, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Brugsepoort"
     }, 
     {
@@ -578,11 +578,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.988784918326, 
-      "lon": 3.521889107079, 
+      "lat": 50.988728900679, 
+      "lon": 3.521812492619, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Brugsepoort"
     }, 
     {
@@ -638,8 +638,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.988783964157, 
-      "lon": 3.521007036055, 
+      "lat": 50.988793102417, 
+      "lon": 3.521027666117, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -694,11 +694,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.989057051486, 
-      "lon": 3.521641200949, 
+      "lat": 50.9888986916, 
+      "lon": 3.521384262615, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Brugsepoort"
     }, 
     {
@@ -743,11 +743,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.98910971673, 
-      "lon": 3.521489269562, 
+      "lat": 50.98898723161, 
+      "lon": 3.52133309598, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Brugsepoort"
     }, 
     {
@@ -803,8 +803,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.989097196885, 
-      "lon": 3.521198645377, 
+      "lat": 50.989096962777, 
+      "lon": 3.521191100602, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -827,8 +827,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.989122694643, 
-      "lon": 3.521119133643, 
+      "lat": 50.989115432035, 
+      "lon": 3.521109294512, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -851,8 +851,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.989115285719, 
-      "lon": 3.52102654293, 
+      "lat": 50.989137276917, 
+      "lon": 3.521059332602, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -875,8 +875,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.989141092705, 
-      "lon": 3.5209775064, 
+      "lat": 50.989160212709, 
+      "lon": 3.521011060137, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -899,8 +899,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.989383343847, 
-      "lon": 3.521299160963, 
+      "lat": 50.989256416149, 
+      "lon": 3.521062876598, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -911,8 +911,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.989301739194, 
-      "lon": 3.519754934103, 
+      "lat": 50.989364035775, 
+      "lon": 3.519829439321, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1092,10 +1092,6 @@
       "street": "Oude Brugsepoort"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "201"
-      ], 
       "hnrlbls": [
         "6-6A"
       ], 
@@ -1104,7 +1100,7 @@
       "lon": 3.521747773893, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Brugsepoort"
     }, 
     {

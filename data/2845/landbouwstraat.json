@@ -349,6 +349,11 @@
       "street": "Landbouwstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003"
+      ], 
       "hnrlbls": [
         "145"
       ], 
@@ -401,11 +406,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.107182935187, 
-      "lon": 4.331074975071, 
+      "lat": 51.107156959975, 
+      "lon": 4.331082420419, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Landbouwstraat"
     }, 
     {

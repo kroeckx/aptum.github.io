@@ -1,0 +1,66 @@
+{
+  "addresses": [
+    {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "403", 
+        "501", 
+        "502", 
+        "503", 
+        "601", 
+        "602", 
+        "603", 
+        "701", 
+        "702", 
+        "703", 
+        "801", 
+        "802", 
+        "803"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.268695697028, 
+      "lon": 4.41748751849, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Karel Candaelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6-8"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.268457357814, 
+      "lon": 4.416549934585, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Karel Candaelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6-8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.268457357814, 
+      "lon": 4.416549934585, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Karel Candaelstraat"
+    }
+  ]
+}

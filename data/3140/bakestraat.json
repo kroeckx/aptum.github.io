@@ -77,8 +77,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.01377641854, 
-      "lon": 4.637223432842, 
+      "lat": 51.013775802018, 
+      "lon": 4.63721787177, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -122,7 +122,7 @@
     }, 
     {
       "hnrlbls": [
-        "111-111B"
+        "111"
       ], 
       "housenumber": "111", 
       "lat": 51.013932528711, 
@@ -134,14 +134,14 @@
     }, 
     {
       "hnrlbls": [
-        "111-111B"
+        "111B"
       ], 
       "housenumber": "111B", 
-      "lat": 51.013932528711, 
-      "lon": 4.637668933825, 
+      "lat": 51.014128136834, 
+      "lon": 4.638450542366, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bakestraat"
     }, 
     {
@@ -161,8 +161,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.014188959259, 
-      "lon": 4.638856311765, 
+      "lat": 51.014191293775, 
+      "lon": 4.638857465278, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +221,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.014121873138, 
-      "lon": 4.640426579127, 
+      "lat": 51.014125096976, 
+      "lon": 4.640431870442, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -430,6 +430,18 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bakestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "131"
+      ], 
+      "housenumber": "131", 
+      "lat": 51.01406027776, 
+      "lon": 4.643487014178, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bakestraat"
     }, 
     {
@@ -701,8 +713,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.014625099111, 
-      "lon": 4.646034163794, 
+      "lat": 51.014630771261, 
+      "lon": 4.646030349865, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1073,8 +1085,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.006877824928, 
-      "lon": 4.630729177276, 
+      "lat": 51.006875946137, 
+      "lon": 4.630725177309, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1310,6 +1322,30 @@
     }, 
     {
       "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.009241623787, 
+      "lon": 4.630076163144, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bakestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 51.009383351724, 
+      "lon": 4.630009131913, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bakestraat"
+    }, 
+    {
+      "hnrlbls": [
         "38"
       ], 
       "housenumber": "38", 
@@ -1469,8 +1505,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.012041863455, 
-      "lon": 4.631388250638, 
+      "lat": 51.012044639208, 
+      "lon": 4.631393111089, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1646,6 +1682,42 @@
     }, 
     {
       "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 51.012885395933, 
+      "lon": 4.63119007572, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bakestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "80A"
+      ], 
+      "housenumber": "80A", 
+      "lat": 51.013006020184, 
+      "lon": 4.631395381026, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bakestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "80B"
+      ], 
+      "housenumber": "80B", 
+      "lat": 51.013165229424, 
+      "lon": 4.631430190845, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bakestraat"
+    }, 
+    {
+      "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
@@ -1661,8 +1733,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.013365552183, 
-      "lon": 4.631450127162, 
+      "lat": 51.013366618427, 
+      "lon": 4.631455690637, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1697,8 +1769,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.012993915701, 
-      "lon": 4.634298716976, 
+      "lat": 51.012998129895, 
+      "lon": 4.634303443376, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1745,8 +1817,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.012998801273, 
-      "lon": 4.635711758737, 
+      "lat": 51.013008163119, 
+      "lon": 4.635705969798, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 

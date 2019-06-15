@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1/A011", 
+        "1/A021"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.033720730631, 
+      "lon": 2.864190060934, 
+      "municipality": "Diksmuide", 
+      "pcode": "8600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Torenstraat"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 

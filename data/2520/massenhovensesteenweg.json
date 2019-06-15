@@ -2,23 +2,23 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "10"
       ], 
-      "housenumber": "1", 
-      "lat": 51.184554773799, 
-      "lon": 4.616245391825, 
+      "housenumber": "10", 
+      "lat": 51.181061890818, 
+      "lon": 4.609045785708, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Massenhovensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "10"
+        "100"
       ], 
-      "housenumber": "10", 
-      "lat": 51.181627826556, 
-      "lon": 4.610049656811, 
+      "housenumber": "100", 
+      "lat": 51.187429100762, 
+      "lon": 4.623099132339, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -26,11 +26,290 @@
     }, 
     {
       "hnrlbls": [
-        "12"
+        "101"
       ], 
-      "housenumber": "12", 
-      "lat": 51.181591460612, 
-      "lon": 4.610250544509, 
+      "housenumber": "101", 
+      "lat": 51.187477857979, 
+      "lon": 4.620738098238, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "102"
+      ], 
+      "housenumber": "102", 
+      "lat": 51.187402349982, 
+      "lon": 4.623415799543, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "103"
+      ], 
+      "housenumber": "103", 
+      "lat": 51.187560124658, 
+      "lon": 4.620686051214, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "A"
+      ], 
+      "hnrlbls": [
+        "104"
+      ], 
+      "housenumber": "104", 
+      "lat": 51.187249151311, 
+      "lon": 4.623639232869, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "105"
+      ], 
+      "housenumber": "105", 
+      "lat": 51.187789601757, 
+      "lon": 4.621190337357, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 51.187237906968, 
+      "lon": 4.62397543572, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "108"
+      ], 
+      "housenumber": "108", 
+      "lat": 51.187147328818, 
+      "lon": 4.624212082875, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "110"
+      ], 
+      "housenumber": "110", 
+      "lat": 51.187029546535, 
+      "lon": 4.624434133634, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "111"
+      ], 
+      "housenumber": "111", 
+      "lat": 51.18798063301, 
+      "lon": 4.623808585189, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "112"
+      ], 
+      "housenumber": "112", 
+      "lat": 51.186908799503, 
+      "lon": 4.624655308794, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "114"
+      ], 
+      "housenumber": "114", 
+      "lat": 51.186858728382, 
+      "lon": 4.624988434593, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "115"
+      ], 
+      "housenumber": "115", 
+      "lat": 51.187684781879, 
+      "lon": 4.624282401217, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "116"
+      ], 
+      "housenumber": "116", 
+      "lat": 51.186811357349, 
+      "lon": 4.625071702751, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "118"
+      ], 
+      "housenumber": "118", 
+      "lat": 51.186782032742, 
+      "lon": 4.625205702435, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "119"
+      ], 
+      "housenumber": "119", 
+      "lat": 51.18738883893, 
+      "lon": 4.624756210742, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "120"
+      ], 
+      "housenumber": "120", 
+      "lat": 51.186699194119, 
+      "lon": 4.625313089606, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "121"
+      ], 
+      "housenumber": "121", 
+      "lat": 51.187437159338, 
+      "lon": 4.624897791195, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "122"
+      ], 
+      "housenumber": "122", 
+      "lat": 51.186701392681, 
+      "lon": 4.625624189265, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "123"
+      ], 
+      "housenumber": "123", 
+      "lat": 51.187234618825, 
+      "lon": 4.62499350794, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "125"
+      ], 
+      "housenumber": "125", 
+      "lat": 51.18720299936, 
+      "lon": 4.625066851403, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "126"
+      ], 
+      "housenumber": "126", 
+      "lat": 51.186516133996, 
+      "lon": 4.626038234497, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "127"
+      ], 
+      "housenumber": "127", 
+      "lat": 51.187154231516, 
+      "lon": 4.625131089391, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "128"
+      ], 
+      "housenumber": "128", 
+      "lat": 51.186498302349, 
+      "lon": 4.626341927673, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "129"
+      ], 
+      "housenumber": "129", 
+      "lat": 51.187081174789, 
+      "lon": 4.625369546868, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -50,11 +329,11 @@
     }, 
     {
       "hnrlbls": [
-        "13A"
+        "130"
       ], 
-      "housenumber": "13A", 
-      "lat": 51.181018270205, 
-      "lon": 4.608087242229, 
+      "housenumber": "130", 
+      "lat": 51.186452870797, 
+      "lon": 4.62652432296, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -62,11 +341,71 @@
     }, 
     {
       "hnrlbls": [
+        "132"
+      ], 
+      "housenumber": "132", 
+      "lat": 51.186427726874, 
+      "lon": 4.626718701663, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "133"
+      ], 
+      "housenumber": "133", 
+      "lat": 51.186903644601, 
+      "lon": 4.62664868084, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "134"
+      ], 
+      "housenumber": "134", 
+      "lat": 51.186399308325, 
+      "lon": 4.626848556439, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 51.191831076939, 
+      "lon": 4.625372711776, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "136"
+      ], 
+      "housenumber": "136", 
+      "lat": 51.186320342634, 
+      "lon": 4.627197677947, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.181667086386, 
-      "lon": 4.610366491669, 
+      "lat": 51.181297409606, 
+      "lon": 4.609521086952, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -77,68 +416,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.181196075589, 
-      "lon": 4.60821429311, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "15B"
-      ], 
-      "housenumber": "15B", 
-      "lat": 51.181173692032, 
-      "lon": 4.608392084481, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "15C"
-      ], 
-      "housenumber": "15C", 
-      "lat": 51.181325147744, 
-      "lon": 4.608525436728, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "15D"
-      ], 
-      "housenumber": "15D", 
-      "lat": 51.181455646776, 
-      "lon": 4.608753499131, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "15E"
-      ], 
-      "housenumber": "15E", 
-      "lat": 51.181572585304, 
-      "lon": 4.60897534325, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "15F"
-      ], 
-      "housenumber": "15F", 
-      "lat": 51.181684218168, 
-      "lon": 4.609198162161, 
+      "lat": 51.181018270205, 
+      "lon": 4.608087242229, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +428,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.181666331144, 
-      "lon": 4.610471745481, 
+      "lat": 51.181411458685, 
+      "lon": 4.609748637783, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -161,11 +440,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.181803763234, 
-      "lon": 4.609639547903, 
+      "lat": 51.181196075589, 
+      "lon": 4.60821429311, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Massenhovensesteenweg"
     }, 
     {
@@ -173,8 +452,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.181852359769, 
-      "lon": 4.610882589334, 
+      "lat": 51.181463411605, 
+      "lon": 4.60988090747, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +464,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.182365669936, 
-      "lon": 4.61028273649, 
+      "lat": 51.181173692032, 
+      "lon": 4.608392084481, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -194,11 +473,11 @@
     }, 
     {
       "hnrlbls": [
-        "19B"
+        "1A"
       ], 
-      "housenumber": "19B", 
-      "lat": 51.182595787612, 
-      "lon": 4.611502141842, 
+      "housenumber": "1A", 
+      "lat": 51.180314873851, 
+      "lon": 4.607132042222, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -209,8 +488,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.181039577223, 
-      "lon": 4.609056539344, 
+      "lat": 51.180498145074, 
+      "lon": 4.608419495684, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -221,20 +500,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.182916465698, 
-      "lon": 4.613560114119, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "20A"
-      ], 
-      "housenumber": "20A", 
-      "lat": 51.182956522354, 
-      "lon": 4.613835060886, 
+      "lat": 51.181627826556, 
+      "lon": 4.610049656811, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -245,8 +512,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.182798826496, 
-      "lon": 4.612161792941, 
+      "lat": 51.181325147744, 
+      "lon": 4.608525436728, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +524,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.183070027615, 
-      "lon": 4.6140607683, 
+      "lat": 51.181591460612, 
+      "lon": 4.610250544509, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -269,8 +536,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.182988872645, 
-      "lon": 4.61240920582, 
+      "lat": 51.181455646776, 
+      "lon": 4.608753499131, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -281,8 +548,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.183092639513, 
-      "lon": 4.614338484697, 
+      "lat": 51.181667086386, 
+      "lon": 4.610366491669, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -293,11 +560,23 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.183221941578, 
-      "lon": 4.612585194196, 
+      "lat": 51.181572585304, 
+      "lon": 4.60897534325, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.181666331144, 
+      "lon": 4.610471745481, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
       "street": "Massenhovensesteenweg"
     }, 
     {
@@ -305,68 +584,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.184035912471, 
-      "lon": 4.614849183393, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "27A"
-      ], 
-      "housenumber": "27A", 
-      "lat": 51.185001400583, 
-      "lon": 4.6164663071, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.185580936628, 
-      "lon": 4.617256603201, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "29A"
-      ], 
-      "housenumber": "29A", 
-      "lat": 51.185527731884, 
-      "lon": 4.617167786537, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "2A"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.180498145074, 
-      "lon": 4.608419495684, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "2C"
-      ], 
-      "housenumber": "2C", 
-      "lat": 51.180808648354, 
-      "lon": 4.608754023523, 
+      "lat": 51.181684218168, 
+      "lon": 4.609198162161, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -377,8 +596,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.183382154138, 
-      "lon": 4.614901789306, 
+      "lat": 51.181852359769, 
+      "lon": 4.610882589334, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -389,303 +608,20 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.185947157678, 
-      "lon": 4.617626994909, 
+      "lat": 51.181803763234, 
+      "lon": 4.609639547903, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
       "street": "Massenhovensesteenweg"
     }, 
     {
-      "hnrlbls": [
-        "31A"
-      ], 
-      "housenumber": "31A", 
-      "lat": 51.186107205553, 
-      "lon": 4.617900317095, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.183456187045, 
-      "lon": 4.615089535454, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "32A"
-      ], 
-      "housenumber": "32A", 
-      "lat": 51.183555699008, 
-      "lon": 4.615300300225, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "32B"
-      ], 
-      "housenumber": "32B", 
-      "lat": 51.183659296738, 
-      "lon": 4.615491350889, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "32C"
-      ], 
-      "housenumber": "32C", 
-      "lat": 51.183768540439, 
-      "lon": 4.615647392537, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.186184643126, 
-      "lon": 4.618175915886, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 51.184015858944, 
-      "lon": 4.615841210245, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.18631327378, 
-      "lon": 4.618513292126, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "35B"
-      ], 
-      "housenumber": "35B", 
-      "lat": 51.186640381555, 
-      "lon": 4.619014932501, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.185467132897, 
-      "lon": 4.618281341111, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.186890140669, 
-      "lon": 4.619284169589, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "37A"
-      ], 
-      "housenumber": "37A", 
-      "lat": 51.187110600618, 
-      "lon": 4.619804698336, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "37B"
-      ], 
-      "housenumber": "37B", 
-      "lat": 51.187248705128, 
-      "lon": 4.619954481089, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "37BIS"
-      ], 
-      "housenumber": "37BIS", 
-      "lat": 51.186971814548, 
-      "lon": 4.619594983418, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "37C"
-      ], 
-      "housenumber": "37C", 
-      "lat": 51.187403371415, 
-      "lon": 4.620177729024, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "37D"
-      ], 
-      "housenumber": "37D", 
-      "lat": 51.187423228045, 
-      "lon": 4.620307851427, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 51.186245513403, 
-      "lon": 4.619353642984, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "38A"
-      ], 
-      "housenumber": "38A", 
-      "lat": 51.186806424503, 
-      "lon": 4.620269904089, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "38B"
-      ], 
-      "housenumber": "38B", 
-      "lat": 51.186666459717, 
-      "lon": 4.619938894522, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "38C"
-      ], 
-      "housenumber": "38C", 
-      "lat": 51.186454857636, 
-      "lon": 4.619733365372, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 51.187477857979, 
-      "lon": 4.620738098238, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 51.180943445398, 
-      "lon": 4.608989971836, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "40"
-      ], 
-      "housenumber": "40", 
-      "lat": 51.187004529901, 
-      "lon": 4.620355219311, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 51.187560124658, 
-      "lon": 4.620686051214, 
+      "lat": 51.182365669936, 
+      "lon": 4.61028273649, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -696,68 +632,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.187059336087, 
-      "lon": 4.620450630468, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "42A"
-      ], 
-      "housenumber": "42A", 
-      "lat": 51.187220712894, 
-      "lon": 4.621065961567, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "42B"
-      ], 
-      "housenumber": "42B", 
-      "lat": 51.187352654837, 
-      "lon": 4.621406231903, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "42C"
-      ], 
-      "housenumber": "42C", 
-      "lat": 51.187422562673, 
-      "lon": 4.621835847307, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "42D"
-      ], 
-      "housenumber": "42D", 
-      "lat": 51.187465301224, 
-      "lon": 4.622150462041, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 51.187789601757, 
-      "lon": 4.621190337357, 
+      "lat": 51.182916465698, 
+      "lon": 4.613560114119, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -768,44 +644,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.187478040304, 
-      "lon": 4.622454329494, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "44A"
-      ], 
-      "housenumber": "44A", 
-      "lat": 51.187420627689, 
-      "lon": 4.622776837317, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "44B"
-      ], 
-      "housenumber": "44B", 
-      "lat": 51.187429100762, 
-      "lon": 4.623099132339, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "44C"
-      ], 
-      "housenumber": "44C", 
-      "lat": 51.187402349982, 
-      "lon": 4.623415799543, 
+      "lat": 51.182956522354, 
+      "lon": 4.613835060886, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -816,98 +656,23 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.18798063301, 
-      "lon": 4.623808585189, 
+      "lat": 51.182595787612, 
+      "lon": 4.611502141842, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
       "street": "Massenhovensesteenweg"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.187249151311, 
-      "lon": 4.623639232869, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "46A"
-      ], 
-      "housenumber": "46A", 
-      "lat": 51.187237906968, 
-      "lon": 4.62397543572, 
+      "lat": 51.183070027615, 
+      "lon": 4.6140607683, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "46B"
-      ], 
-      "housenumber": "46B", 
-      "lat": 51.187147328818, 
-      "lon": 4.624212082875, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "46C"
-      ], 
-      "housenumber": "46C", 
-      "lat": 51.187029546535, 
-      "lon": 4.624434133634, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "46D"
-      ], 
-      "housenumber": "46D", 
-      "lat": 51.186908799503, 
-      "lon": 4.624655308794, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "46E"
-      ], 
-      "housenumber": "46E", 
-      "lat": 51.186858728382, 
-      "lon": 4.624988434593, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 51.187684781879, 
-      "lon": 4.624282401217, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Massenhovensesteenweg"
     }, 
     {
@@ -915,32 +680,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.186811357349, 
-      "lon": 4.625071702751, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.18738883893, 
-      "lon": 4.624756210742, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "50"
-      ], 
-      "housenumber": "50", 
-      "lat": 51.186782032742, 
-      "lon": 4.625205702435, 
+      "lat": 51.183092639513, 
+      "lon": 4.614338484697, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -951,20 +692,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.187437159338, 
-      "lon": 4.624897791195, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "52"
-      ], 
-      "housenumber": "52", 
-      "lat": 51.186699194119, 
-      "lon": 4.625313089606, 
+      "lat": 51.182798826496, 
+      "lon": 4.612161792941, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -975,20 +704,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.187234618825, 
-      "lon": 4.62499350794, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "53A"
-      ], 
-      "housenumber": "53A", 
-      "lat": 51.18720299936, 
-      "lon": 4.625066851403, 
+      "lat": 51.182988872645, 
+      "lon": 4.61240920582, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -999,20 +716,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.186701392681, 
-      "lon": 4.625624189265, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "54A"
-      ], 
-      "housenumber": "54A", 
-      "lat": 51.186516133996, 
-      "lon": 4.626038234497, 
+      "lat": 51.183382154138, 
+      "lon": 4.614901789306, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1023,11 +728,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.187154231516, 
-      "lon": 4.625131089391, 
+      "lat": 51.183221941578, 
+      "lon": 4.612585194196, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Massenhovensesteenweg"
     }, 
     {
@@ -1035,32 +740,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.186498302349, 
-      "lon": 4.626341927673, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "56A"
-      ], 
-      "housenumber": "56A", 
-      "lat": 51.186452870797, 
-      "lon": 4.62652432296, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 51.187081174789, 
-      "lon": 4.625369546868, 
+      "lat": 51.183456187045, 
+      "lon": 4.615089535454, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1071,32 +752,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.186427726874, 
-      "lon": 4.626718701663, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "58A"
-      ], 
-      "housenumber": "58A", 
-      "lat": 51.186399308325, 
-      "lon": 4.626848556439, 
-      "municipality": "Ranst", 
-      "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Massenhovensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "59"
-      ], 
-      "housenumber": "59", 
-      "lat": 51.186903644601, 
-      "lon": 4.62664868084, 
+      "lat": 51.183555699008, 
+      "lon": 4.615300300225, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1107,8 +764,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.181297409606, 
-      "lon": 4.609521086952, 
+      "lat": 51.180808648354, 
+      "lon": 4.608754023523, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1119,20 +776,56 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.186320342634, 
-      "lon": 4.627197677947, 
+      "lat": 51.183659296738, 
+      "lon": 4.615491350889, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Massenhovensesteenweg"
     }, 
     {
       "hnrlbls": [
-        "61"
+        "62"
       ], 
-      "housenumber": "61", 
-      "lat": 51.191831076939, 
-      "lon": 4.625372711776, 
+      "housenumber": "62", 
+      "lat": 51.183768540439, 
+      "lon": 4.615647392537, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.184035912471, 
+      "lon": 4.614849183393, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "64"
+      ], 
+      "housenumber": "64", 
+      "lat": 51.184015858944, 
+      "lon": 4.615841210245, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 51.185001400583, 
+      "lon": 4.6164663071, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1152,11 +845,11 @@
     }, 
     {
       "hnrlbls": [
-        "8"
+        "70"
       ], 
-      "housenumber": "8", 
-      "lat": 51.181411458685, 
-      "lon": 4.609748637783, 
+      "housenumber": "70", 
+      "lat": 51.185467132897, 
+      "lon": 4.618281341111, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1164,11 +857,222 @@
     }, 
     {
       "hnrlbls": [
-        "8A"
+        "70A"
       ], 
-      "housenumber": "8A", 
-      "lat": 51.181463411605, 
-      "lon": 4.60988090747, 
+      "housenumber": "70A", 
+      "lat": 51.184922606734, 
+      "lon": 4.617941172455, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 51.185527731884, 
+      "lon": 4.617167786537, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "74"
+      ], 
+      "housenumber": "74", 
+      "lat": 51.186245513403, 
+      "lon": 4.619353642984, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 51.185580936628, 
+      "lon": 4.617256603201, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 51.185947157678, 
+      "lon": 4.617626994909, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "77A"
+      ], 
+      "housenumber": "77A", 
+      "lat": 51.186033461884, 
+      "lon": 4.617407481492, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 51.186454857636, 
+      "lon": 4.619733365372, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 51.186107205553, 
+      "lon": 4.617900317095, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.180968413182, 
+      "lon": 4.608955921087, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 51.186666459717, 
+      "lon": 4.619938894522, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 51.186184643126, 
+      "lon": 4.618175915886, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "82"
+      ], 
+      "housenumber": "82", 
+      "lat": 51.186806424503, 
+      "lon": 4.620269904089, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 51.18631327378, 
+      "lon": 4.618513292126, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 51.187004529901, 
+      "lon": 4.620355219311, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "86"
+      ], 
+      "housenumber": "86", 
+      "lat": 51.187059336087, 
+      "lon": 4.620450630468, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 51.186640381555, 
+      "lon": 4.619014932501, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 51.187220712894, 
+      "lon": 4.621065961567, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 51.186890140669, 
+      "lon": 4.619284169589, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1181,6 +1085,126 @@
       "housenumber": "9", 
       "lat": 51.180546073761, 
       "lon": 4.607568977372, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 51.187352654837, 
+      "lon": 4.621406231903, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "91"
+      ], 
+      "housenumber": "91", 
+      "lat": 51.186971814548, 
+      "lon": 4.619594983418, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 51.187422562673, 
+      "lon": 4.621835847307, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 51.187110600618, 
+      "lon": 4.619804698336, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 51.187465301224, 
+      "lon": 4.622150462041, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 51.187248705128, 
+      "lon": 4.619954481089, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 51.187478040304, 
+      "lon": 4.622454329494, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 51.187403371415, 
+      "lon": 4.620177729024, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 51.187420627689, 
+      "lon": 4.622776837317, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Massenhovensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "99"
+      ], 
+      "housenumber": "99", 
+      "lat": 51.187423228045, 
+      "lon": 4.620307851427, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 

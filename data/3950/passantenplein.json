@@ -14,6 +14,49 @@
     }, 
     {
       "busnrs": [
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.177137983502, 
+      "lon": 5.586206771473, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Passantenplein"
+    }, 
+    {
+      "busnrs": [
+        "103"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.177197271934, 
+      "lon": 5.586010525139, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Passantenplein"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 51.177015210047, 
+      "lon": 5.585567711332, 
+      "municipality": "Bocholt", 
+      "pcode": "3950", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Passantenplein"
+    }, 
+    {
+      "busnrs": [
         "0001", 
         "0102", 
         "0103", 

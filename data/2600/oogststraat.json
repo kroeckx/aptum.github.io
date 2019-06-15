@@ -207,6 +207,11 @@
       "street": "Oogststraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -288,8 +293,8 @@
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.17983172318, 
-      "lon": 4.440704524242, 
+      "lat": 51.179827323024, 
+      "lon": 4.440697653062, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -341,8 +346,8 @@
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 51.179723770393, 
-      "lon": 4.440851366972, 
+      "lat": 51.179724219995, 
+      "lon": 4.44085108166, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -353,8 +358,8 @@
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 51.179687963537, 
-      "lon": 4.440904080511, 
+      "lat": 51.179688323607, 
+      "lon": 4.440903223034, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
@@ -921,6 +926,11 @@
       "street": "Oogststraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -977,13 +987,13 @@
       "street": "Oogststraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "66"

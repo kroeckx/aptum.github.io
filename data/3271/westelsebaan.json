@@ -290,11 +290,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.027925935684, 
-      "lon": 4.982378014452, 
+      "lat": 51.027806378172, 
+      "lon": 4.982119432915, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Westelsebaan"
     }, 
     {
@@ -429,8 +429,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.028201685369, 
-      "lon": 4.982058759695, 
+      "lat": 51.028189572861, 
+      "lon": 4.982071572781, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanPerceelGrb", 
@@ -979,6 +979,18 @@
       "housenumber": "178", 
       "lat": 51.029008281007, 
       "lon": 4.97986863397, 
+      "municipality": "Scherpenheuvel-Zichem", 
+      "pcode": "3271", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Westelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 51.019598208347, 
+      "lon": 4.990048934713, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
@@ -1606,11 +1618,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.020348184289, 
-      "lon": 4.988704482263, 
+      "lat": 51.020365807642, 
+      "lon": 4.988737781589, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Westelsebaan"
     }, 
     {
@@ -1666,8 +1678,8 @@
         "49-53"
       ], 
       "housenumber": "49", 
-      "lat": 51.023587295094, 
-      "lon": 4.987274317049, 
+      "lat": 51.023588369242, 
+      "lon": 4.987275186461, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1702,8 +1714,8 @@
         "49-53"
       ], 
       "housenumber": "51", 
-      "lat": 51.023587295094, 
-      "lon": 4.987274317049, 
+      "lat": 51.023588369242, 
+      "lon": 4.987275186461, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1726,8 +1738,8 @@
         "49-53"
       ], 
       "housenumber": "53", 
-      "lat": 51.023587295094, 
-      "lon": 4.987274317049, 
+      "lat": 51.023588369242, 
+      "lon": 4.987275186461, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2077,18 +2089,6 @@
     }, 
     {
       "hnrlbls": [
-        "76"
-      ], 
-      "housenumber": "76", 
-      "lat": 51.022243596404, 
-      "lon": 4.987576530626, 
-      "municipality": "Scherpenheuvel-Zichem", 
-      "pcode": "3271", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Westelsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "77"
       ], 
       "housenumber": "77", 
@@ -2165,8 +2165,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.022471986759, 
-      "lon": 4.987496598897, 
+      "lat": 51.022464456483, 
+      "lon": 4.987492650946, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
@@ -2386,11 +2386,27 @@
         "3"
       ], 
       "hnrlbls": [
-        "93-95"
+        "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.026658027801, 
-      "lon": 4.983593102062, 
+      "lat": 51.026580978982, 
+      "lon": 4.983681036483, 
+      "municipality": "Scherpenheuvel-Zichem", 
+      "pcode": "3271", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Westelsebaan"
+    }, 
+    {
+      "busnrs": [
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "93A"
+      ], 
+      "housenumber": "93A", 
+      "lat": 51.026653415243, 
+      "lon": 4.983598458096, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3271", 
       "source": "afgeleidVanGebouw", 
@@ -2414,7 +2430,7 @@
         "3"
       ], 
       "hnrlbls": [
-        "93-95"
+        "95"
       ], 
       "housenumber": "95", 
       "lat": 51.026658027801, 

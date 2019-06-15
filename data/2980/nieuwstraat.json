@@ -182,8 +182,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.269149133784, 
-      "lon": 4.636830536022, 
+      "lat": 51.269130417601, 
+      "lon": 4.636839598069, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -214,8 +214,13 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3"
+      ], 
       "hnrlbls": [
-        "33-33b"
+        "33"
       ], 
       "housenumber": "33", 
       "lat": 51.270701555219, 
@@ -223,23 +228,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "33-33b"
-      ], 
-      "housenumber": "33b", 
-      "lat": 51.270701555219, 
-      "lon": 4.635853394676, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Nieuwstraat"
     }, 
     {

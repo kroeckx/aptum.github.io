@@ -151,16 +151,12 @@
       "street": "Lange Scholiersstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.22484117923, 
-      "lon": 4.430745058861, 
+      "lat": 51.224922559539, 
+      "lon": 4.43067803318, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -453,23 +449,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lange Scholiersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 51.224552822947, 
-      "lon": 4.427275288598, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Lange Scholiersstraat"
     }, 
     {
@@ -921,9 +900,6 @@
       "street": "Lange Scholiersstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1147,50 +1123,50 @@
         "1"
       ], 
       "hnrlbls": [
-        "92-94"
+        "92-98"
       ], 
       "housenumber": "92", 
-      "lat": 51.22463685055, 
-      "lon": 4.430106789908, 
+      "lat": 51.224754455958, 
+      "lon": 4.430035374079, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Scholiersstraat"
     }, 
     {
       "hnrlbls": [
-        "92-94"
+        "92-98"
       ], 
       "housenumber": "94", 
-      "lat": 51.22463685055, 
-      "lon": 4.430106789908, 
+      "lat": 51.224754455958, 
+      "lon": 4.430035374079, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Scholiersstraat"
     }, 
     {
       "hnrlbls": [
-        "96"
+        "92-98"
       ], 
       "housenumber": "96", 
-      "lat": 51.22477818953, 
-      "lon": 4.430027246377, 
+      "lat": 51.224754455958, 
+      "lon": 4.430035374079, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Scholiersstraat"
     }, 
     {
       "hnrlbls": [
-        "98"
+        "92-98"
       ], 
       "housenumber": "98", 
-      "lat": 51.224747258885, 
-      "lon": 4.430047531808, 
+      "lat": 51.224754455958, 
+      "lon": 4.430035374079, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Scholiersstraat"
     }
   ]

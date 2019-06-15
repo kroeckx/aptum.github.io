@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.0787170455, 
-      "lon": 3.578853043215, 
+      "lat": 51.078718367721, 
+      "lon": 3.578889410873, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vierschaar"
     }, 
     {
@@ -17,11 +17,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.078767071479, 
-      "lon": 3.578994048755, 
+      "lat": 51.078784659806, 
+      "lon": 3.579016299566, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vierschaar"
     }, 
     {
@@ -29,11 +29,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.078843549786, 
-      "lon": 3.57913860417, 
+      "lat": 51.078843900725, 
+      "lon": 3.579137313896, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vierschaar"
     }, 
     {
@@ -41,11 +41,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.078897203477, 
-      "lon": 3.579257572441, 
+      "lat": 51.078902784849, 
+      "lon": 3.579258762666, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vierschaar"
     }, 
     {
@@ -53,11 +53,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.078958340429, 
-      "lon": 3.57936642534, 
+      "lat": 51.078962113491, 
+      "lon": 3.579379490712, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vierschaar"
     }, 
     {
@@ -65,11 +65,23 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.079018299099, 
-      "lon": 3.579487285748, 
+      "lat": 51.079026317523, 
+      "lon": 3.579516833544, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Vierschaar"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.078750476267, 
+      "lon": 3.578381835176, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vierschaar"
     }
   ]

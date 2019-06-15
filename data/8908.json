@@ -244,7 +244,10 @@
       "b": 50.855007174987, 
       "l": 2.780870682986, 
       "name": "Kleine Branderstraat", 
-      "numOfAddr": 24, 
+      "numOfAddr": 25, 
+      "otherPCs": [
+        "8906"
+      ], 
       "r": 2.78934728509, 
       "sanName": "kleinebranderstraat", 
       "t": 50.859606874028
@@ -330,6 +333,15 @@
       "r": 2.861116270074, 
       "sanName": "omloopstraat", 
       "t": 50.849470441285
+    }, 
+    {
+      "b": 50.855425258957, 
+      "l": 2.788737017403, 
+      "name": "Oostbrandhoek", 
+      "numOfAddr": 13, 
+      "r": 2.789433438708, 
+      "sanName": "oostbrandhoek", 
+      "t": 50.856359777383
     }, 
     {
       "b": 50.84029526831, 

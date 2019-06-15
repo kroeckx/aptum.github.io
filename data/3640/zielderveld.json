@@ -620,6 +620,21 @@
       "street": "Zielderveld"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 51.140053026544, 
+      "lon": 5.743378118518, 
+      "municipality": "Kinrooi", 
+      "pcode": "3640", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Zielderveld"
+    }, 
+    {
       "hnrlbls": [
         "42"
       ], 
@@ -924,8 +939,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.137711433187, 
-      "lon": 5.742174524659, 
+      "lat": 51.137711098602, 
+      "lon": 5.742164654554, 
       "municipality": "Kinrooi", 
       "pcode": "3640", 
       "source": "afgeleidVanGebouw", 

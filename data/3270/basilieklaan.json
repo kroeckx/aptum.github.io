@@ -2450,6 +2450,9 @@
       "street": "Basilieklaan"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -2864,11 +2867,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.979758126831, 
-      "lon": 4.96761183162, 
+      "lat": 50.979744722539, 
+      "lon": 4.967613796179, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3270", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Basilieklaan"
     }
   ]

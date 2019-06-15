@@ -29,11 +29,11 @@
         "100A"
       ], 
       "housenumber": "100A", 
-      "lat": 51.09815407122, 
-      "lon": 3.842208906528, 
+      "lat": 51.098181389351, 
+      "lon": 3.842227158152, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp-Oost"
     }, 
     {
@@ -1297,8 +1297,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.097808727687, 
-      "lon": 3.837456327325, 
+      "lat": 51.097958390725, 
+      "lon": 3.837535288201, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1327,12 +1327,56 @@
       "street": "Dorp-Oost"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.098436755038, 
+      "lon": 3.83720864646, 
+      "municipality": "Lochristi", 
+      "pcode": "9080", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorp-Oost"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 51.09673322704, 
       "lon": 3.833781564917, 
+      "municipality": "Lochristi", 
+      "pcode": "9080", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorp-Oost"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.098448271705, 
+      "lon": 3.837710465333, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1492,8 +1536,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.097887010784, 
-      "lon": 3.840217841508, 
+      "lat": 51.097950666892, 
+      "lon": 3.84014060346, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1605,8 +1649,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.098486601882, 
-      "lon": 3.839460431236, 
+      "lat": 51.098589051447, 
+      "lon": 3.839294382822, 
       "municipality": "Lochristi", 
       "pcode": "9080", 
       "source": "manueleAanduidingVanGebouw", 

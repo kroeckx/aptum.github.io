@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.999329417955, 
-      "lon": 5.56560639368, 
+      "lat": 50.999329648454, 
+      "lon": 5.565601412967, 
       "municipality": "As", 
       "pcode": "3665", 
       "source": "afgeleidVanPerceelGrb", 
@@ -233,8 +233,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.998670127862, 
-      "lon": 5.56793933933, 
+      "lat": 50.998669498707, 
+      "lon": 5.567939323217, 
       "municipality": "As", 
       "pcode": "3665", 
       "source": "afgeleidVanGebouw", 
@@ -549,6 +549,18 @@
     }, 
     {
       "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.999322891327, 
+      "lon": 5.56619450363, 
+      "municipality": "As", 
+      "pcode": "3665", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Beukenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -564,11 +576,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.997898672105, 
-      "lon": 5.570801041119, 
+      "lat": 50.997919353208, 
+      "lon": 5.570862264378, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Beukenstraat"
     }, 
     {
@@ -576,11 +588,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.997869829462, 
-      "lon": 5.570931373201, 
+      "lat": 50.997894399823, 
+      "lon": 5.570963917359, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanLigplaats", 
       "street": "Beukenstraat"
     }, 
     {
@@ -588,11 +600,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.997839101492, 
-      "lon": 5.57104384796, 
+      "lat": 50.997875189056, 
+      "lon": 5.571084238809, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Beukenstraat"
     }, 
     {
@@ -600,11 +612,11 @@
         "55A"
       ], 
       "housenumber": "55A", 
-      "lat": 50.997811376676, 
-      "lon": 5.571135171669, 
+      "lat": 50.997849587391, 
+      "lon": 5.571187727044, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Beukenstraat"
     }, 
     {

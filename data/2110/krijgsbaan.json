@@ -173,8 +173,8 @@
         "124-126"
       ], 
       "housenumber": "124", 
-      "lat": 51.217883826411, 
-      "lon": 4.495711128807, 
+      "lat": 51.217898533514, 
+      "lon": 4.495742513179, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanPerceelGrb", 
@@ -185,8 +185,8 @@
         "124-126"
       ], 
       "housenumber": "126", 
-      "lat": 51.217883826411, 
-      "lon": 4.495711128807, 
+      "lat": 51.217898533514, 
+      "lon": 4.495742513179, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanPerceelGrb", 
@@ -383,15 +383,20 @@
       "street": "Krijgsbaan"
     }, 
     {
+      "busnrs": [
+        "bus 1", 
+        "bus 2", 
+        "bus 3"
+      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.219942346048, 
-      "lon": 4.497862427141, 
+      "lat": 51.219970986983, 
+      "lon": 4.497727821387, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Krijgsbaan"
     }, 
     {
@@ -842,8 +847,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.219444962738, 
-      "lon": 4.496678943898, 
+      "lat": 51.219444064679, 
+      "lon": 4.496678225778, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -950,27 +955,28 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.219111369573, 
-      "lon": 4.496130131596, 
+      "lat": 51.219050428302, 
+      "lon": 4.496378719522, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Krijgsbaan"
     }, 
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.218953055724, 
-      "lon": 4.496404643812, 
+      "lat": 51.218955754103, 
+      "lon": 4.496402933715, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Krijgsbaan"
     }, 
     {
@@ -986,9 +992,6 @@
       "street": "Krijgsbaan"
     }, 
     {
-      "busnrs": [
-        "bus 2"
-      ], 
       "hnrlbls": [
         "90"
       ], 

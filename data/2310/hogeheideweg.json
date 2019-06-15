@@ -257,8 +257,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.335301273652, 
-      "lon": 4.782791502078, 
+      "lat": 51.335296974581, 
+      "lon": 4.782889895869, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanGebouw", 
@@ -461,11 +461,11 @@
         "37B"
       ], 
       "housenumber": "37B", 
-      "lat": 51.336511938132, 
-      "lon": 4.784671983117, 
+      "lat": 51.336546880574, 
+      "lon": 4.784678035754, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Hoge-Heideweg"
     }, 
     {
@@ -638,6 +638,30 @@
     }, 
     {
       "hnrlbls": [
+        "53B"
+      ], 
+      "housenumber": "53B", 
+      "lat": 51.338522521396, 
+      "lon": 4.787186124969, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Hoge-Heideweg"
+    }, 
+    {
+      "hnrlbls": [
+        "53C"
+      ], 
+      "housenumber": "53C", 
+      "lat": 51.338606386605, 
+      "lon": 4.787311436439, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Hoge-Heideweg"
+    }, 
+    {
+      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -775,6 +799,18 @@
       "housenumber": "66", 
       "lat": 51.333354782152, 
       "lon": 4.780790663989, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoge-Heideweg"
+    }, 
+    {
+      "hnrlbls": [
+        "68"
+      ], 
+      "housenumber": "68", 
+      "lat": 51.333425577799, 
+      "lon": 4.780980113544, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanGebouw", 

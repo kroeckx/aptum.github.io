@@ -316,6 +316,27 @@
       "street": "Hoogstraat"
     }, 
     {
+      "apptnrs": [
+        "4/0001", 
+        "4/0002", 
+        "4/0003", 
+        "4/0101", 
+        "4/0102", 
+        "4/0201", 
+        "4/0202"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.224144857875, 
+      "lon": 5.313168549491, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
       "hnrlbls": [
         "40"
       ], 

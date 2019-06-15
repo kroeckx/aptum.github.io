@@ -33,8 +33,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.749475280571, 
-      "lon": 3.58897318538, 
+      "lat": 50.749472091889, 
+      "lon": 3.588966861256, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "afgeleidVanGebouw", 
@@ -801,9 +801,6 @@
       "street": "Zonnestraat"
     }, 
     {
-      "busnrs": [
-        "0101"
-      ], 
       "hnrlbls": [
         "173"
       ], 
@@ -829,14 +826,26 @@
     }, 
     {
       "hnrlbls": [
-        "175"
+        "175-177"
       ], 
       "housenumber": "175", 
-      "lat": 50.749460986703, 
-      "lon": 3.585725330808, 
+      "lat": 50.749386558719, 
+      "lon": 3.586144038377, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zonnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "175-177"
+      ], 
+      "housenumber": "177", 
+      "lat": 50.749386558719, 
+      "lon": 3.586144038377, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zonnestraat"
     }, 
     {
@@ -1307,8 +1316,8 @@
         "218"
       ], 
       "housenumber": "218", 
-      "lat": 50.749416430859, 
-      "lon": 3.583957413262, 
+      "lat": 50.749415590861, 
+      "lon": 3.583925968065, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1340,18 +1349,6 @@
     }, 
     {
       "hnrlbls": [
-        "220"
-      ], 
-      "housenumber": "220", 
-      "lat": 50.749410265727, 
-      "lon": 3.583896014614, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Zonnestraat"
-    }, 
-    {
-      "hnrlbls": [
         "222"
       ], 
       "housenumber": "222", 
@@ -1360,6 +1357,18 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Zonnestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "223"
+      ], 
+      "housenumber": "223", 
+      "lat": 50.749261298035, 
+      "lon": 3.580842853892, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zonnestraat"
     }, 
     {
@@ -1971,11 +1980,11 @@
         "367"
       ], 
       "housenumber": "367", 
-      "lat": 50.748265427547, 
-      "lon": 3.572226279053, 
+      "lat": 50.748203723585, 
+      "lon": 3.572049907343, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zonnestraat"
     }, 
     {
@@ -1983,11 +1992,11 @@
         "369"
       ], 
       "housenumber": "369", 
-      "lat": 50.748275991898, 
-      "lon": 3.572061156153, 
+      "lat": 50.748200839408, 
+      "lon": 3.571995966627, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zonnestraat"
     }, 
     {

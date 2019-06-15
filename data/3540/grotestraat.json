@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.948526592395, 
-      "lon": 5.198666011199, 
+      "lat": 50.948530330435, 
+      "lon": 5.198671342885, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -41,8 +41,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.949903072624, 
-      "lon": 5.210933587884, 
+      "lat": 50.949905407635, 
+      "lon": 5.210933914476, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +101,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.949908896844, 
-      "lon": 5.21195110221, 
+      "lat": 50.949905066457, 
+      "lon": 5.211946194582, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -644,18 +644,15 @@
       "street": "Grotestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.948706047017, 
-      "lon": 5.201140420764, 
+      "lat": 50.948708136727, 
+      "lon": 5.201149992725, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grotestraat"
     }, 
     {
@@ -732,6 +729,18 @@
     }, 
     {
       "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 50.948771995078, 
+      "lon": 5.201424649281, 
+      "municipality": "Herk-de-Stad", 
+      "pcode": "3540", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grotestraat"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -795,8 +804,8 @@
         "169"
       ], 
       "housenumber": "169", 
-      "lat": 50.950611467769, 
-      "lon": 5.22215479478, 
+      "lat": 50.950635724696, 
+      "lon": 5.222156944323, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -1015,8 +1024,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.9498154812, 
-      "lon": 5.201774071355, 
+      "lat": 50.949816677988, 
+      "lon": 5.201770107824, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 

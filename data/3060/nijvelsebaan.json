@@ -65,8 +65,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 50.84282801866, 
-      "lon": 4.640801879586, 
+      "lat": 50.842826032063, 
+      "lon": 4.640805701591, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +173,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 50.842444867698, 
-      "lon": 4.640382799227, 
+      "lat": 50.842452273344, 
+      "lon": 4.640368076051, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -221,8 +221,8 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.841742826361, 
-      "lon": 4.640053458068, 
+      "lat": 50.841746351021, 
+      "lon": 4.640045385637, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanPerceelGrb", 
@@ -233,8 +233,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.841615288259, 
-      "lon": 4.640043065641, 
+      "lat": 50.841615583626, 
+      "lon": 4.640031992992, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanPerceelGrb", 
@@ -365,8 +365,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.841458365553, 
-      "lon": 4.639678692945, 
+      "lat": 50.841455639323, 
+      "lon": 4.639652553159, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -401,8 +401,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.840899283926, 
-      "lon": 4.639958564634, 
+      "lat": 50.840905327606, 
+      "lon": 4.639949655048, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -413,8 +413,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.8471859057, 
-      "lon": 4.647367632405, 
+      "lat": 50.847192313229, 
+      "lon": 4.647357162785, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -425,11 +425,11 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.840746778486, 
-      "lon": 4.640015467014, 
+      "lat": 50.840769046603, 
+      "lon": 4.639910391323, 
       "municipality": "Bertem", 
       "pcode": "3060", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nijvelsebaan"
     }, 
     {
@@ -437,11 +437,23 @@
         "150A"
       ], 
       "housenumber": "150A", 
-      "lat": 50.840667336572, 
-      "lon": 4.639926698364, 
+      "lat": 50.840719143496, 
+      "lon": 4.639876312427, 
       "municipality": "Bertem", 
       "pcode": "3060", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Nijvelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "150B"
+      ], 
+      "housenumber": "150B", 
+      "lat": 50.840675298198, 
+      "lon": 4.639827219156, 
+      "municipality": "Bertem", 
+      "pcode": "3060", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nijvelsebaan"
     }, 
     {
@@ -772,11 +784,11 @@
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 50.837576522294, 
-      "lon": 4.637947698139, 
+      "lat": 50.837647303153, 
+      "lon": 4.637972522743, 
       "municipality": "Bertem", 
       "pcode": "3060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nijvelsebaan"
     }, 
     {
@@ -796,8 +808,8 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 50.837550277122, 
-      "lon": 4.637711314982, 
+      "lat": 50.837543051589, 
+      "lon": 4.637726038073, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -1106,8 +1118,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.846822395365, 
-      "lon": 4.646675520223, 
+      "lat": 50.846824210795, 
+      "lon": 4.646668147258, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -1202,8 +1214,8 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 50.835294754043, 
-      "lon": 4.636039721309, 
+      "lat": 50.835273127376, 
+      "lon": 4.636062311616, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1274,8 +1286,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.846753159864, 
-      "lon": 4.646568613991, 
+      "lat": 50.84675597795, 
+      "lon": 4.646555425198, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -1478,11 +1490,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.845482557317, 
-      "lon": 4.644866569784, 
+      "lat": 50.845478492291, 
+      "lon": 4.644874923296, 
       "municipality": "Bertem", 
       "pcode": "3060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nijvelsebaan"
     }, 
     {
@@ -1514,8 +1526,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.845245020525, 
-      "lon": 4.644460925762, 
+      "lat": 50.845246207893, 
+      "lon": 4.644452981307, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -1586,8 +1598,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.844975905349, 
-      "lon": 4.642725088421, 
+      "lat": 50.844973225471, 
+      "lon": 4.642717831319, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -1778,8 +1790,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.84381470813, 
-      "lon": 4.641692458168, 
+      "lat": 50.843812992182, 
+      "lon": 4.641695855834, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 

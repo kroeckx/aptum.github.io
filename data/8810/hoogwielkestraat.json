@@ -421,15 +421,25 @@
       "street": "Hoogwielkestraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.028172217975, 
-      "lon": 3.143163498181, 
+      "lat": 51.028282110142, 
+      "lon": 3.143287504607, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogwielkestraat"
     }, 
     {

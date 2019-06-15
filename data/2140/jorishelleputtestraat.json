@@ -1,9 +1,10 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "1"
@@ -609,10 +610,6 @@
       "street": "Joris Helleputtestraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "7"
       ], 

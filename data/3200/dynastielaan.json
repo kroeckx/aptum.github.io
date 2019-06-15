@@ -178,6 +178,22 @@
       "street": "Dynastielaan"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.988116557721, 
+      "lon": 4.83232611425, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dynastielaan"
+    }, 
+    {
       "hnrlbls": [
         "34"
       ], 
@@ -210,8 +226,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.988275984881, 
-      "lon": 4.832132001586, 
+      "lat": 50.988273242125, 
+      "lon": 4.832120865271, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 

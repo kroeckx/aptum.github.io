@@ -234,6 +234,24 @@
       "street": "Glazenleeuwstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "117"
+      ], 
+      "housenumber": "117", 
+      "lat": 51.219102301242, 
+      "lon": 4.245249477314, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Glazenleeuwstraat"
+    }, 
+    {
       "hnrlbls": [
         "118"
       ], 
@@ -588,11 +606,11 @@
     }, 
     {
       "hnrlbls": [
-        "147-149"
+        "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.219109017313, 
-      "lon": 4.243251113448, 
+      "lat": 51.219135935319, 
+      "lon": 4.243291546508, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -600,11 +618,11 @@
     }, 
     {
       "hnrlbls": [
-        "147-149"
+        "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.219109017313, 
-      "lon": 4.243251113448, 
+      "lat": 51.219146737382, 
+      "lon": 4.243221528198, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -804,6 +822,18 @@
     }, 
     {
       "hnrlbls": [
+        "162X"
+      ], 
+      "housenumber": "162X", 
+      "lat": 51.219929631419, 
+      "lon": 4.240446860425, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Glazenleeuwstraat"
+    }, 
+    {
+      "hnrlbls": [
         "163"
       ], 
       "housenumber": "163", 
@@ -812,6 +842,27 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Glazenleeuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "164"
+      ], 
+      "housenumber": "164", 
+      "lat": 51.219660642939, 
+      "lon": 4.240562099939, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Glazenleeuwstraat"
     }, 
     {
@@ -827,6 +878,26 @@
       "street": "Glazenleeuwstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "166"
+      ], 
+      "housenumber": "166", 
+      "lat": 51.219685809314, 
+      "lon": 4.240394426735, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Glazenleeuwstraat"
+    }, 
+    {
       "hnrlbls": [
         "167"
       ], 
@@ -836,6 +907,18 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Glazenleeuwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "168"
+      ], 
+      "housenumber": "168", 
+      "lat": 51.219756796991, 
+      "lon": 4.240292037916, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Glazenleeuwstraat"
     }, 
     {
@@ -1032,8 +1115,8 @@
         "26B"
       ], 
       "housenumber": "26B", 
-      "lat": 51.217841020741, 
-      "lon": 4.248912326403, 
+      "lat": 51.217705873324, 
+      "lon": 4.248593936391, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1813,8 +1896,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.219071558498, 
-      "lon": 4.246639611407, 
+      "lat": 51.219002989405, 
+      "lon": 4.246564218808, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1842,23 +1925,11 @@
     }, 
     {
       "hnrlbls": [
-        "84"
-      ], 
-      "housenumber": "84", 
-      "lat": 51.219022544359, 
-      "lon": 4.246525523506, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Glazenleeuwstraat"
-    }, 
-    {
-      "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.21906511971, 
-      "lon": 4.246496643941, 
+      "lat": 51.219033809238, 
+      "lon": 4.24646666884, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1966,11 +2037,9 @@
       "street": "Glazenleeuwstraat"
     }, 
     {
-      "apptnrs": [
-        "101"
-      ], 
       "busnrs": [
-        "001"
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "94"

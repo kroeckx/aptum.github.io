@@ -149,8 +149,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.053455783191, 
-      "lon": 4.606711298768, 
+      "lat": 51.05346277748, 
+      "lon": 4.606719749099, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanPerceelGrb", 
@@ -305,11 +305,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.053425975465, 
-      "lon": 4.60859431846, 
+      "lat": 51.053512079715, 
+      "lon": 4.608599324909, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Klein Boom"
     }, 
     {
@@ -329,23 +329,35 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.053598398257, 
-      "lon": 4.608895423646, 
+      "lat": 51.053585158932, 
+      "lon": 4.608907906231, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Klein Boom"
     }, 
     {
       "hnrlbls": [
-        "8A"
+        "8A-8B"
       ], 
       "housenumber": "8A", 
-      "lat": 51.053661604696, 
-      "lon": 4.609152325955, 
+      "lat": 51.053634561261, 
+      "lon": 4.609189696207, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Klein Boom"
+    }, 
+    {
+      "hnrlbls": [
+        "8A-8B"
+      ], 
+      "housenumber": "8B", 
+      "lat": 51.053634561261, 
+      "lon": 4.609189696207, 
+      "municipality": "Putte", 
+      "pcode": "2580", 
+      "source": "afgeleidVanGebouw", 
       "street": "Klein Boom"
     }, 
     {

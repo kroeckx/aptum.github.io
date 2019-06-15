@@ -62,6 +62,18 @@
     }, 
     {
       "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.119823102417, 
+      "lon": 3.430219771003, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Knokkebaan"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -118,6 +130,18 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
+      "street": "Knokkebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.080120672961, 
+      "lon": 3.444750489153, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Knokkebaan"
     }, 
     {
@@ -195,24 +219,22 @@
     {
       "busnrs": [
         "0A", 
-        "1A"
+        "0B", 
+        "0C", 
+        "0D", 
+        "0E", 
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "2D", 
+        "2E"
       ], 
       "hnrlbls": [
-        "25-27"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.104347164382, 
-      "lon": 3.435158432395, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Knokkebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "25-27"
-      ], 
-      "housenumber": "27", 
       "lat": 51.104347164382, 
       "lon": 3.435158432395, 
       "municipality": "Aalter", 
@@ -237,11 +259,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.080120672961, 
-      "lon": 3.444750489153, 
+      "lat": 51.102551816259, 
+      "lon": 3.435730978224, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Knokkebaan"
     }, 
     {

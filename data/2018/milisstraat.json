@@ -1,6 +1,11 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -169,8 +174,11 @@
       "street": "Milisstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "21"
@@ -232,6 +240,12 @@
       "street": "Milisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -407,6 +421,11 @@
       "street": "Milisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "4"
       ], 

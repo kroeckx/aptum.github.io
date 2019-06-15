@@ -998,6 +998,11 @@
       "street": "Stapelstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -1014,11 +1019,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.815478180594, 
-      "lon": 5.18142619444, 
+      "lat": 50.815543120208, 
+      "lon": 5.181434696558, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Stapelstraat"
     }, 
     {

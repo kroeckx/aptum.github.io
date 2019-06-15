@@ -378,11 +378,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.828810266559, 
-      "lon": 3.273332102474, 
+      "lat": 50.828982459998, 
+      "lon": 3.273671767421, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Plein"
     }, 
     {
@@ -407,11 +407,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.828691507905, 
-      "lon": 3.273294268299, 
+      "lat": 50.828663645738, 
+      "lon": 3.273506996745, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Plein"
     }, 
     {

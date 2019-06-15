@@ -414,8 +414,8 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 51.182295229479, 
-      "lon": 4.381303601095, 
+      "lat": 51.182294780053, 
+      "lon": 4.381303600968, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -438,8 +438,8 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 51.182262775525, 
-      "lon": 4.381351644688, 
+      "lat": 51.18226322487, 
+      "lon": 4.381352359888, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -578,18 +578,10 @@
       "street": "Julius De Geyterstraat"
     }, 
     {
-      "hnrlbls": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
-      "housenumber": "2", 
-      "lat": 51.182792154051, 
-      "lon": 4.380949062648, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanStraat", 
-      "street": "Julius De Geyterstraat"
-    }, 
-    {
       "hnrlbls": [
         "200"
       ], 
@@ -667,6 +659,11 @@
       "street": "Julius De Geyterstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "206"
       ], 
@@ -753,6 +750,10 @@
       "street": "Julius De Geyterstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "211"
       ], 

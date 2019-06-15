@@ -124,7 +124,7 @@
     }, 
     {
       "hnrlbls": [
-        "31A-31C"
+        "31A-33A"
       ], 
       "housenumber": "31A", 
       "lat": 51.031678800045, 
@@ -136,7 +136,7 @@
     }, 
     {
       "hnrlbls": [
-        "31A-31C"
+        "31A-33A"
       ], 
       "housenumber": "31B", 
       "lat": 51.031678800045, 
@@ -148,7 +148,7 @@
     }, 
     {
       "hnrlbls": [
-        "31A-31C"
+        "31A-33A"
       ], 
       "housenumber": "31C", 
       "lat": 51.031678800045, 
@@ -161,14 +161,27 @@
     {
       "apptnrs": [
         "0001", 
-        "0002"
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
-        "33"
+        "31A-33A"
       ], 
-      "housenumber": "33", 
-      "lat": 51.031842402378, 
-      "lon": 3.549797885164, 
+      "housenumber": "33A", 
+      "lat": 51.031678800045, 
+      "lon": 3.549630809401, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vaart Links"
+    }, 
+    {
+      "hnrlbls": [
+        "33B"
+      ], 
+      "housenumber": "33B", 
+      "lat": 51.031959681236, 
+      "lon": 3.549353174685, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -179,8 +192,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.031959681236, 
-      "lon": 3.549353174685, 
+      "lat": 51.031842402378, 
+      "lon": 3.549797885164, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 

@@ -362,6 +362,10 @@
       "street": "Hospitaalstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0202"
+      ], 
       "hnrlbls": [
         "45"
       ], 
@@ -370,7 +374,7 @@
       "lon": 3.186923059578, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {
@@ -634,6 +638,18 @@
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hospitaalstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.792804640775, 
+      "lon": 3.188214149286, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hospitaalstraat"
     }, 
     {

@@ -749,8 +749,8 @@
         "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 50.96704425197, 
-      "lon": 5.140401739675, 
+      "lat": 50.967068553513, 
+      "lon": 5.14042463376, 
       "municipality": "Lummen", 
       "pcode": "3560", 
       "source": "afgeleidVanPerceelGrb", 
@@ -982,6 +982,18 @@
       "municipality": "Lummen", 
       "pcode": "3560", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hulshoekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 50.969342200837, 
+      "lon": 5.152163836423, 
+      "municipality": "Lummen", 
+      "pcode": "3560", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hulshoekstraat"
     }, 
     {

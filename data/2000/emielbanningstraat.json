@@ -50,11 +50,6 @@
       "street": "Emiel Banningstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "12"
       ], 
@@ -377,6 +372,12 @@
       "street": "Emiel Banningstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -528,42 +529,6 @@
     }, 
     {
       "hnrlbls": [
-        "44A-44D"
-      ], 
-      "housenumber": "44A", 
-      "lat": 51.205526406041, 
-      "lon": 4.388807741278, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Emiel Banningstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "44A-44D"
-      ], 
-      "housenumber": "44C", 
-      "lat": 51.205526406041, 
-      "lon": 4.388807741278, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Emiel Banningstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "44A-44D"
-      ], 
-      "housenumber": "44D", 
-      "lat": 51.205526406041, 
-      "lon": 4.388807741278, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Emiel Banningstraat"
-    }, 
-    {
-      "hnrlbls": [
         "41-47"
       ], 
       "housenumber": "45", 
@@ -665,8 +630,10 @@
       "street": "Emiel Banningstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "51"

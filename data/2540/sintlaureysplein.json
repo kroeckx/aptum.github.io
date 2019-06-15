@@ -50,11 +50,23 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.153835935514, 
-      "lon": 4.47197888965, 
+      "lat": 51.153876204601, 
+      "lon": 4.471978836339, 
       "municipality": "Hove", 
       "pcode": "2540", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint Laureysplein"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 51.153838463017, 
+      "lon": 4.471966746448, 
+      "municipality": "Hove", 
+      "pcode": "2540", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint Laureysplein"
     }, 
     {
@@ -96,11 +108,23 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.153730173248, 
-      "lon": 4.471633485467, 
+      "lat": 51.15381340926, 
+      "lon": 4.471631954959, 
       "municipality": "Hove", 
       "pcode": "2540", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint Laureysplein"
+    }, 
+    {
+      "hnrlbls": [
+        "17A"
+      ], 
+      "housenumber": "17A", 
+      "lat": 51.153780718809, 
+      "lon": 4.471599866759, 
+      "municipality": "Hove", 
+      "pcode": "2540", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint Laureysplein"
     }, 
     {
@@ -219,8 +243,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.154346780446, 
-      "lon": 4.471750053855, 
+      "lat": 51.154358435377, 
+      "lon": 4.471784525617, 
       "municipality": "Hove", 
       "pcode": "2540", 
       "source": "afgeleidVanGebouw", 

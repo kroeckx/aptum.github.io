@@ -5604,7 +5604,7 @@
     }, 
     {
       "hnrlbls": [
-        "56"
+        "56-56B"
       ], 
       "housenumber": "56", 
       "lat": 51.035743985373, 
@@ -5612,6 +5612,30 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Ottergemsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "56-56B"
+      ], 
+      "housenumber": "56A", 
+      "lat": 51.035743985373, 
+      "lon": 3.727203059094, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ottergemsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "56-56B"
+      ], 
+      "housenumber": "56B", 
+      "lat": 51.035743985373, 
+      "lon": 3.727203059094, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ottergemsesteenweg"
     }, 
     {

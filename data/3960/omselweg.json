@@ -41,11 +41,11 @@
         "2-12"
       ], 
       "housenumber": "12", 
-      "lat": 51.116392035414, 
-      "lon": 5.649655649499, 
+      "lat": 51.116383640907, 
+      "lon": 5.649700126301, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Omselweg"
     }, 
     {
@@ -137,11 +137,11 @@
         "2-12"
       ], 
       "housenumber": "2", 
-      "lat": 51.116392035414, 
-      "lon": 5.649655649499, 
+      "lat": 51.116383640907, 
+      "lon": 5.649700126301, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Omselweg"
     }, 
     {
@@ -473,8 +473,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.114370927424, 
-      "lon": 5.652338088647, 
+      "lat": 51.114368917844, 
+      "lon": 5.652332748788, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -497,11 +497,11 @@
         "2-12"
       ], 
       "housenumber": "6", 
-      "lat": 51.116392035414, 
-      "lon": 5.649655649499, 
+      "lat": 51.116383640907, 
+      "lon": 5.649700126301, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Omselweg"
     }, 
     {
@@ -533,11 +533,35 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.113882651103, 
-      "lon": 5.653050228202, 
+      "lat": 51.113883627273, 
+      "lon": 5.653051397655, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Omselweg"
+    }, 
+    {
+      "hnrlbls": [
+        "67A"
+      ], 
+      "housenumber": "67A", 
+      "lat": 51.113336771168, 
+      "lon": 5.657326104519, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Omselweg"
+    }, 
+    {
+      "hnrlbls": [
+        "67B"
+      ], 
+      "housenumber": "67B", 
+      "lat": 51.113354024362, 
+      "lon": 5.657458407926, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Omselweg"
     }, 
     {
@@ -677,8 +701,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.1127554599, 
-      "lon": 5.655796428419, 
+      "lat": 51.112750364065, 
+      "lon": 5.655810284663, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 

@@ -33,11 +33,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.871226280965, 
-      "lon": 4.018506419978, 
+      "lat": 50.871222550112, 
+      "lon": 4.018551625691, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -936,6 +936,18 @@
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dorp"
+    }, 
+    {
+      "hnrlbls": [
+        "83A"
+      ], 
+      "housenumber": "83A", 
+      "lat": 50.872086392307, 
+      "lon": 4.018382811464, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorp"
     }, 
     {

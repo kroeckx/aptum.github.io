@@ -41,8 +41,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.149083209375, 
-      "lon": 5.70351094619, 
+      "lat": 51.149090946124, 
+      "lon": 5.703494586897, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -58,6 +58,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Berkenbroekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 51.149020021024, 
+      "lon": 5.703573460104, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Berkenbroekstraat"
     }, 
     {

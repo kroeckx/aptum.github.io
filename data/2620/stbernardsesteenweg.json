@@ -286,10 +286,6 @@
       "street": "St. Bernardse steenweg"
     }, 
     {
-      "apptnrs": [
-        "B1", 
-        "B2"
-      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -437,6 +433,10 @@
       "street": "St. Bernardse steenweg"
     }, 
     {
+      "apptnrs": [
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -609,11 +609,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.133471477317, 
-      "lon": 4.335081525875, 
+      "lat": 51.13346814036, 
+      "lon": 4.335041668914, 
       "municipality": "Hemiksem", 
       "pcode": "2620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "St. Bernardse steenweg"
     }, 
     {
@@ -642,10 +642,13 @@
     }, 
     {
       "apptnrs": [
-        "B1", 
-        "B2", 
         "B3", 
-        "B4"
+        "B4", 
+        "B5"
+      ], 
+      "busnrs": [
+        "B1", 
+        "B2"
       ], 
       "hnrlbls": [
         "43"
@@ -672,8 +675,10 @@
     }, 
     {
       "apptnrs": [
-        "B1", 
         "B2"
+      ], 
+      "busnrs": [
+        "B1"
       ], 
       "hnrlbls": [
         "45"
@@ -699,6 +704,12 @@
       "street": "St. Bernardse steenweg"
     }, 
     {
+      "apptnrs": [
+        "B2"
+      ], 
+      "busnrs": [
+        "B1"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -747,6 +758,12 @@
       "street": "St. Bernardse steenweg"
     }, 
     {
+      "apptnrs": [
+        "B2"
+      ], 
+      "busnrs": [
+        "B1"
+      ], 
       "hnrlbls": [
         "51"
       ], 
@@ -918,10 +935,6 @@
       "street": "St. Bernardse steenweg"
     }, 
     {
-      "apptnrs": [
-        "B1", 
-        "B2"
-      ], 
       "hnrlbls": [
         "65"
       ], 
@@ -972,7 +985,6 @@
     {
       "apptnrs": [
         "B1", 
-        "B2", 
         "B3"
       ], 
       "hnrlbls": [
@@ -1051,10 +1063,6 @@
       "street": "St. Bernardse steenweg"
     }, 
     {
-      "apptnrs": [
-        "B1", 
-        "B2"
-      ], 
       "hnrlbls": [
         "73"
       ], 
@@ -1117,6 +1125,9 @@
     {
       "apptnrs": [
         "B2"
+      ], 
+      "busnrs": [
+        "B1"
       ], 
       "hnrlbls": [
         "78"
@@ -1182,6 +1193,10 @@
       "street": "St. Bernardse steenweg"
     }, 
     {
+      "apptnrs": [
+        "B1", 
+        "B2"
+      ], 
       "hnrlbls": [
         "82"
       ], 

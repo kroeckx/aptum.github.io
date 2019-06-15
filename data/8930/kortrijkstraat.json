@@ -1631,11 +1631,23 @@
     }, 
     {
       "hnrlbls": [
-        "275"
+        "275-275A"
       ], 
       "housenumber": "275", 
-      "lat": 50.798131111601, 
-      "lon": 3.133762393843, 
+      "lat": 50.798174413671, 
+      "lon": 3.133742105954, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "275-275A"
+      ], 
+      "housenumber": "275A", 
+      "lat": 50.798174413671, 
+      "lon": 3.133742105954, 
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2811,6 +2823,18 @@
     }, 
     {
       "hnrlbls": [
+        "439A"
+      ], 
+      "housenumber": "439A", 
+      "lat": 50.798383154357, 
+      "lon": 3.140997102461, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kortrijkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "441"
       ], 
       "housenumber": "441", 
@@ -3304,6 +3328,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301", 

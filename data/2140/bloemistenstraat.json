@@ -85,9 +85,10 @@
       "street": "Bloemistenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "17"
@@ -249,6 +250,10 @@
       "street": "Bloemistenstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "29"
       ], 

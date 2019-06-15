@@ -38,6 +38,18 @@
     }, 
     {
       "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 50.896743475465, 
+      "lon": 3.592624691728, 
+      "municipality": "Kruisem", 
+      "pcode": "9750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Prinsenhof"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -93,7 +105,7 @@
       "lon": 3.591187398878, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Prinsenhof"
     }, 
     {
@@ -117,7 +129,7 @@
       "lon": 3.593066628354, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Prinsenhof"
     }, 
     {

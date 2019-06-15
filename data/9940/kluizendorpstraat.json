@@ -41,11 +41,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.156881311577, 
-      "lon": 3.734192879271, 
+      "lat": 51.156865431803, 
+      "lon": 3.734265566299, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kluizendorpstraat"
     }, 
     {
@@ -155,11 +155,11 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.157638406291, 
-      "lon": 3.735056132505, 
+      "lat": 51.157700443301, 
+      "lon": 3.734857456592, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kluizendorpstraat"
     }, 
     {
@@ -366,7 +366,7 @@
       "lon": 3.731756426806, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kluizendorpstraat"
     }, 
     {
@@ -454,15 +454,35 @@
       "street": "Kluizendorpstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 51.155528274552, 
+      "lon": 3.732533301797, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kluizendorpstraat"
+    }, 
+    {
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.152723028847, 
-      "lon": 3.7308534729, 
+      "lat": 51.152722171265, 
+      "lon": 3.730877782549, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kluizendorpstraat"
     }, 
     {
@@ -578,11 +598,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.15633887527, 
-      "lon": 3.733063869032, 
+      "lat": 51.156317285871, 
+      "lon": 3.733111046976, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kluizendorpstraat"
     }, 
     {
@@ -751,11 +771,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.152831904396, 
-      "lon": 3.730873712485, 
+      "lat": 51.152858012038, 
+      "lon": 3.730914377007, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kluizendorpstraat"
     }, 
     {
@@ -820,7 +840,7 @@
       "lon": 3.731413627319, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kluizendorpstraat"
     }, 
     {
@@ -984,11 +1004,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.154857601305, 
-      "lon": 3.732081033771, 
+      "lat": 51.15486846173, 
+      "lon": 3.732078027139, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kluizendorpstraat"
     }, 
     {
@@ -1008,11 +1028,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.154923998253, 
-      "lon": 3.732425748234, 
+      "lat": 51.155009036506, 
+      "lon": 3.732409582344, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kluizendorpstraat"
     }, 
     {
@@ -1025,6 +1045,23 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kluizendorpstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 51.155093271509, 
+      "lon": 3.732628271714, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kluizendorpstraat"
     }, 
     {

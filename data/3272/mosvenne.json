@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1C"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.030248113816, 
@@ -113,11 +113,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.02789541055, 
-      "lon": 4.935828504209, 
+      "lat": 51.02785086986, 
+      "lon": 4.935874862029, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3272", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mosvenne"
     }, 
     {
@@ -194,14 +194,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-1C"
+        "1C"
       ], 
       "housenumber": "1C", 
-      "lat": 51.030248113816, 
-      "lon": 4.940038432271, 
+      "lat": 51.030268339676, 
+      "lon": 4.940315947369, 
       "municipality": "Scherpenheuvel-Zichem", 
       "pcode": "3272", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mosvenne"
     }, 
     {

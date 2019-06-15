@@ -269,8 +269,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.0510167662, 
-      "lon": 3.703699145033, 
+      "lat": 51.051018481032, 
+      "lon": 3.703748181607, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1975,8 +1975,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.050980468344, 
-      "lon": 3.703766263305, 
+      "lat": 51.051003304982, 
+      "lon": 3.703766937485, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2049,7 +2049,7 @@
     }, 
     {
       "hnrlbls": [
-        "95-97"
+        "95"
       ], 
       "housenumber": "95", 
       "lat": 51.051781425945, 
@@ -2073,11 +2073,11 @@
     }, 
     {
       "hnrlbls": [
-        "95-97"
+        "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.051781425945, 
-      "lon": 3.703337869383, 
+      "lat": 51.051582485378, 
+      "lon": 3.703241003234, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2097,86 +2097,62 @@
     }, 
     {
       "hnrlbls": [
-        "99-99F"
+        "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.051909437673, 
-      "lon": 3.703274866428, 
+      "lat": 51.051849664093, 
+      "lon": 3.703307662735, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Krijgsgasthuisstraat"
     }, 
     {
       "hnrlbls": [
-        "99-99F"
+        "99A-99D"
       ], 
       "housenumber": "99A", 
-      "lat": 51.051909437673, 
-      "lon": 3.703274866428, 
+      "lat": 51.051968960097, 
+      "lon": 3.703245353907, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Krijgsgasthuisstraat"
     }, 
     {
       "hnrlbls": [
-        "99-99F"
+        "99A-99D"
       ], 
       "housenumber": "99B", 
-      "lat": 51.051909437673, 
-      "lon": 3.703274866428, 
+      "lat": 51.051968960097, 
+      "lon": 3.703245353907, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Krijgsgasthuisstraat"
     }, 
     {
       "hnrlbls": [
-        "99-99F"
+        "99A-99D"
       ], 
       "housenumber": "99C", 
-      "lat": 51.051909437673, 
-      "lon": 3.703274866428, 
+      "lat": 51.051968960097, 
+      "lon": 3.703245353907, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Krijgsgasthuisstraat"
     }, 
     {
       "hnrlbls": [
-        "99-99F"
+        "99A-99D"
       ], 
       "housenumber": "99D", 
-      "lat": 51.051909437673, 
-      "lon": 3.703274866428, 
+      "lat": 51.051968960097, 
+      "lon": 3.703245353907, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Krijgsgasthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "99-99F"
-      ], 
-      "housenumber": "99E", 
-      "lat": 51.051909437673, 
-      "lon": 3.703274866428, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Krijgsgasthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "99-99F"
-      ], 
-      "housenumber": "99F", 
-      "lat": 51.051909437673, 
-      "lon": 3.703274866428, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Krijgsgasthuisstraat"
     }
   ]

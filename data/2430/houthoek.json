@@ -145,8 +145,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.080789431711, 
-      "lon": 5.023111579547, 
+      "lat": 51.080804013703, 
+      "lon": 5.023108073332, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
       "source": "afgeleidVanGebouw", 
@@ -193,8 +193,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.080749173855, 
-      "lon": 5.023949719039, 
+      "lat": 51.080758052941, 
+      "lon": 5.023985663634, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
       "source": "afgeleidVanGebouw", 
@@ -217,8 +217,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.080750173516, 
-      "lon": 5.024190055764, 
+      "lat": 51.080767807528, 
+      "lon": 5.024171180079, 
       "municipality": "Laakdal", 
       "pcode": "2430", 
       "source": "afgeleidVanGebouw", 
@@ -430,6 +430,30 @@
     }, 
     {
       "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 51.081048765796, 
+      "lon": 5.024082217111, 
+      "municipality": "Laakdal", 
+      "pcode": "2430", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Houthoek"
+    }, 
+    {
+      "hnrlbls": [
+        "35_1"
+      ], 
+      "housenumber": "35_1", 
+      "lat": 51.081142817443, 
+      "lon": 5.024190854761, 
+      "municipality": "Laakdal", 
+      "pcode": "2430", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Houthoek"
+    }, 
+    {
+      "hnrlbls": [
         "36"
       ], 
       "housenumber": "36", 
@@ -486,18 +510,6 @@
       "municipality": "Laakdal", 
       "pcode": "2430", 
       "source": "afgeleidVanGebouw", 
-      "street": "Houthoek"
-    }, 
-    {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 51.081227214629, 
-      "lon": 5.024741761201, 
-      "municipality": "Laakdal", 
-      "pcode": "2430", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Houthoek"
     }, 
     {

@@ -447,8 +447,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.21392791652, 
-      "lon": 4.331486489022, 
+      "lat": 51.213930523203, 
+      "lon": 4.331486630089, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanPerceelGrb", 
@@ -851,20 +851,8 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 51.213634917161, 
-      "lon": 4.330982826661, 
-      "municipality": "Zwijndrecht", 
-      "pcode": "2070", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "179"
-      ], 
-      "housenumber": "179", 
-      "lat": 51.213576770354, 
-      "lon": 4.331009062081, 
+      "lat": 51.213609035743, 
+      "lon": 4.330999448048, 
       "municipality": "Zwijndrecht", 
       "pcode": "2070", 
       "source": "afgeleidVanGebouw", 
@@ -1435,13 +1423,22 @@
       "street": "Statiestraat"
     }, 
     {
-      "apptnrs": [
-        "V1"
-      ], 
       "hnrlbls": [
-        "50"
+        "50-50A"
       ], 
       "housenumber": "50", 
+      "lat": 51.216990452517, 
+      "lon": 4.328169838381, 
+      "municipality": "Zwijndrecht", 
+      "pcode": "2070", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Statiestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "50-50A"
+      ], 
+      "housenumber": "50A", 
       "lat": 51.216990452517, 
       "lon": 4.328169838381, 
       "municipality": "Zwijndrecht", 
@@ -1702,6 +1699,10 @@
       "street": "Statiestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "69"
       ], 

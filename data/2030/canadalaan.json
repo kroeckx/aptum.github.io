@@ -981,14 +981,14 @@
         "202"
       ], 
       "hnrlbls": [
-        "228"
+        "21-240"
       ], 
       "housenumber": "228", 
-      "lat": 51.255250046992, 
-      "lon": 4.421927107735, 
+      "lat": 51.255195248515, 
+      "lon": 4.422255203069, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Canadalaan"
     }, 
     {
@@ -1104,14 +1104,14 @@
     }, 
     {
       "hnrlbls": [
-        "240"
+        "21-240"
       ], 
       "housenumber": "240", 
-      "lat": 51.255151686984, 
-      "lon": 4.422186254894, 
+      "lat": 51.255195248515, 
+      "lon": 4.422255203069, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Canadalaan"
     }, 
     {
@@ -1255,7 +1255,7 @@
         "101", 
         "102", 
         "201", 
-        "203", 
+        "202", 
         "301", 
         "302"
       ], 
@@ -1300,7 +1300,7 @@
         "101", 
         "102", 
         "201", 
-        "203", 
+        "202", 
         "301", 
         "302"
       ], 

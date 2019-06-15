@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "01", 
+        "02"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.909589536721, 
+      "lon": 5.419757919332, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kogelstraat"
+    }, 
+    {
       "hnrlbls": [
         "12"
       ], 
@@ -117,6 +133,10 @@
       "street": "Kogelstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "21"
       ], 

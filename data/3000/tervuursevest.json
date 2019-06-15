@@ -13,8 +13,8 @@
         "10-147"
       ], 
       "housenumber": "10", 
-      "lat": 50.869136830531, 
-      "lon": 4.698000716437, 
+      "lat": 50.869118310017, 
+      "lon": 4.697969474697, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -140,7 +140,7 @@
     }, 
     {
       "hnrlbls": [
-        "10-147"
+        "12"
       ], 
       "housenumber": "12", 
       "lat": 50.869136830531, 
@@ -541,8 +541,8 @@
         "161"
       ], 
       "housenumber": "161", 
-      "lat": 50.873464322648, 
-      "lon": 4.687928680278, 
+      "lat": 50.873444248438, 
+      "lon": 4.687905811526, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -802,8 +802,8 @@
         "181"
       ], 
       "housenumber": "181", 
-      "lat": 50.873789500506, 
-      "lon": 4.687159418664, 
+      "lat": 50.873796228232, 
+      "lon": 4.687164721191, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1132,11 +1132,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.869000827623, 
-      "lon": 4.698444842101, 
+      "lat": 50.868999400123, 
+      "lon": 4.698440996385, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Tervuursevest"
     }, 
     {
@@ -1725,6 +1725,15 @@
       "street": "Tervuursevest"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
       "hnrlbls": [
         "242"
       ], 
@@ -1961,8 +1970,8 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 50.875552840817, 
-      "lon": 4.684620032063, 
+      "lat": 50.875559567122, 
+      "lon": 4.684625902744, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2288,8 +2297,8 @@
         "281"
       ], 
       "housenumber": "281", 
-      "lat": 50.87622825996, 
-      "lon": 4.684206288357, 
+      "lat": 50.876228107348, 
+      "lon": 4.684196199374, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2299,6 +2308,7 @@
       "busnrs": [
         "0001", 
         "0002", 
+        "0003", 
         "0101", 
         "0201"
       ], 
@@ -3102,8 +3112,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.869135973513, 
-      "lon": 4.698177578295, 
+      "lat": 50.869122572589, 
+      "lon": 4.698147935139, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

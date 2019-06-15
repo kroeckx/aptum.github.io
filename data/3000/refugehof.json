@@ -2,11 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-17"
       ], 
       "housenumber": "1", 
-      "lat": 50.877272175413, 
-      "lon": 4.693688816763, 
+      "lat": 50.877318245429, 
+      "lon": 4.693705476137, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -25,14 +25,14 @@
         "0401"
       ], 
       "hnrlbls": [
-        "10-26"
+        "10-12"
       ], 
       "housenumber": "10", 
-      "lat": 50.876416130967, 
-      "lon": 4.692607871594, 
+      "lat": 50.876490465913, 
+      "lon": 4.692968285798, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Refugehof"
     }, 
     {
@@ -228,14 +228,14 @@
         "0401"
       ], 
       "hnrlbls": [
-        "10-26"
+        "10-12"
       ], 
       "housenumber": "12", 
-      "lat": 50.876416130967, 
-      "lon": 4.692607871594, 
+      "lat": 50.876490465913, 
+      "lon": 4.692968285798, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Refugehof"
     }, 
     {
@@ -261,11 +261,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.8763076876, 
-      "lon": 4.692911040508, 
+      "lat": 50.876177311793, 
+      "lon": 4.693213203722, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Refugehof"
     }, 
     {
@@ -279,11 +279,11 @@
         "0301"
       ], 
       "hnrlbls": [
-        "10-26"
+        "18-20"
       ], 
       "housenumber": "18", 
-      "lat": 50.876416130967, 
-      "lon": 4.692607871594, 
+      "lat": 50.87641702833, 
+      "lon": 4.692608446132, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -300,11 +300,11 @@
         "0301"
       ], 
       "hnrlbls": [
-        "10-26"
+        "18-20"
       ], 
       "housenumber": "20", 
-      "lat": 50.876416130967, 
-      "lon": 4.692607871594, 
+      "lat": 50.87641702833, 
+      "lon": 4.692608446132, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanPerceelGrb", 
@@ -321,14 +321,14 @@
         "0301"
       ], 
       "hnrlbls": [
-        "10-26"
+        "22-26"
       ], 
       "housenumber": "22", 
-      "lat": 50.876416130967, 
-      "lon": 4.692607871594, 
+      "lat": 50.876491673292, 
+      "lon": 4.69223911522, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Refugehof"
     }, 
     {
@@ -344,14 +344,14 @@
         "0301"
       ], 
       "hnrlbls": [
-        "10-26"
+        "22-26"
       ], 
       "housenumber": "24", 
-      "lat": 50.876416130967, 
-      "lon": 4.692607871594, 
+      "lat": 50.876491673292, 
+      "lon": 4.69223911522, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Refugehof"
     }, 
     {
@@ -367,14 +367,14 @@
         "0401"
       ], 
       "hnrlbls": [
-        "10-26"
+        "22-26"
       ], 
       "housenumber": "26", 
-      "lat": 50.876416130967, 
-      "lon": 4.692607871594, 
+      "lat": 50.876491673292, 
+      "lon": 4.69223911522, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Refugehof"
     }, 
     {
@@ -389,8 +389,8 @@
         "3-5"
       ], 
       "housenumber": "3", 
-      "lat": 50.876900470218, 
-      "lon": 4.693425370386, 
+      "lat": 50.876901908514, 
+      "lon": 4.693425380347, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -437,8 +437,8 @@
         "3-5"
       ], 
       "housenumber": "5", 
-      "lat": 50.876900470218, 
-      "lon": 4.693425370386, 
+      "lat": 50.876901908514, 
+      "lon": 4.693425380347, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -522,8 +522,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.87640668021, 
-      "lon": 4.693456192823, 
+      "lat": 50.876424033823, 
+      "lon": 4.693584473289, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

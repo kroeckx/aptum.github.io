@@ -1,6 +1,12 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "10"
       ], 
@@ -142,18 +148,6 @@
     }, 
     {
       "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.747297680393, 
-      "lon": 3.600115333245, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -165,15 +159,24 @@
       "street": "Peperstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.747342734658, 
-      "lon": 3.600048849286, 
+      "lat": 50.747212136389, 
+      "lon": 3.600094480728, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Peperstraat"
     }, 
     {
@@ -183,18 +186,6 @@
       "housenumber": "24", 
       "lat": 50.746893927236, 
       "lon": 3.600046530783, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "25"
-      ], 
-      "housenumber": "25", 
-      "lat": 50.747312943011, 
-      "lon": 3.600002573544, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -223,18 +214,6 @@
       "street": "Peperstraat"
     }, 
     {
-      "hnrlbls": [
-        "27-29"
-      ], 
-      "housenumber": "27", 
-      "lat": 50.747271296047, 
-      "lon": 3.599930701542, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
       "busnrs": [
         "101"
       ], 
@@ -250,15 +229,24 @@
       "street": "Peperstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
       "hnrlbls": [
-        "27-29"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.747271296047, 
-      "lon": 3.599930701542, 
+      "lat": 50.747177141544, 
+      "lon": 3.599940313785, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Peperstraat"
     }, 
     {
@@ -287,18 +275,6 @@
     }, 
     {
       "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.747289369343, 
-      "lon": 3.599821580238, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Peperstraat"
-    }, 
-    {
-      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -311,8 +287,9 @@
     }, 
     {
       "busnrs": [
-        "0201", 
-        "101"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "33"

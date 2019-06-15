@@ -230,14 +230,26 @@
     }, 
     {
       "hnrlbls": [
+        "137"
+      ], 
+      "housenumber": "137", 
+      "lat": 50.773160027435, 
+      "lon": 4.277012347672, 
+      "municipality": "Beersel", 
+      "pcode": "1651", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Frans Walravensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 50.773193902437, 
-      "lon": 4.276991583483, 
+      "lat": 50.773202857662, 
+      "lon": 4.277062877376, 
       "municipality": "Beersel", 
       "pcode": "1651", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Walravensstraat"
     }, 
     {
@@ -509,8 +521,8 @@
         "220"
       ], 
       "housenumber": "220", 
-      "lat": 50.776946822401, 
-      "lon": 4.28039973597, 
+      "lat": 50.776938663659, 
+      "lon": 4.280428958469, 
       "municipality": "Beersel", 
       "pcode": "1651", 
       "source": "afgeleidVanPerceelGrb", 

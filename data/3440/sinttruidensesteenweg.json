@@ -88,18 +88,6 @@
       "street": "Sint-Truidensesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "1A", 
-        "2A", 
-        "3A", 
-        "4A", 
-        "5A", 
-        "6A", 
-        "7A", 
-        "8A", 
-        "9A"
-      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -112,6 +100,9 @@
       "street": "Sint-Truidensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "8"
+      ], 
       "busnrs": [
         "1", 
         "2", 
@@ -264,8 +255,8 @@
         "28-30"
       ], 
       "housenumber": "28", 
-      "lat": 50.830660839045, 
-      "lon": 5.107953764173, 
+      "lat": 50.830651567671, 
+      "lon": 5.107912878088, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -276,8 +267,8 @@
         "28-30"
       ], 
       "housenumber": "28A", 
-      "lat": 50.830660839045, 
-      "lon": 5.107953764173, 
+      "lat": 50.830651567671, 
+      "lon": 5.107912878088, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -288,8 +279,8 @@
         "28-30"
       ], 
       "housenumber": "28B", 
-      "lat": 50.830660839045, 
-      "lon": 5.107953764173, 
+      "lat": 50.830651567671, 
+      "lon": 5.107912878088, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -348,11 +339,11 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 50.831553128667, 
-      "lon": 5.105379971531, 
+      "lat": 50.831650786921, 
+      "lon": 5.105561501647, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Truidensesteenweg"
     }, 
     {
@@ -392,8 +383,8 @@
         "28-30"
       ], 
       "housenumber": "30", 
-      "lat": 50.830660839045, 
-      "lon": 5.107953764173, 
+      "lat": 50.830651567671, 
+      "lon": 5.107912878088, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -612,11 +603,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.830031053632, 
-      "lon": 5.113833506837, 
+      "lat": 50.82980157686, 
+      "lon": 5.113162988872, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint-Truidensesteenweg"
     }, 
     {
@@ -660,8 +651,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.829483861989, 
-      "lon": 5.112315064508, 
+      "lat": 50.829485939394, 
+      "lon": 5.112313535954, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 
@@ -1011,8 +1002,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 50.828029363733, 
-      "lon": 5.11974155856, 
+      "lat": 50.828026839506, 
+      "lon": 5.119742653766, 
       "municipality": "Zoutleeuw", 
       "pcode": "3440", 
       "source": "afgeleidVanGebouw", 

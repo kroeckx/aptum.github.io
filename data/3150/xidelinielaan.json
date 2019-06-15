@@ -137,11 +137,11 @@
         "20A"
       ], 
       "housenumber": "20A", 
-      "lat": 50.963368413877, 
-      "lon": 4.626098151381, 
+      "lat": 50.963363824413, 
+      "lon": 4.626100403684, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "XIde Linielaan"
     }, 
     {
@@ -149,8 +149,8 @@
         "20B"
       ], 
       "housenumber": "20B", 
-      "lat": 50.963363824413, 
-      "lon": 4.626100403684, 
+      "lat": 50.963388750398, 
+      "lon": 4.626006733813, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
@@ -262,18 +262,6 @@
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
-      "street": "XIde Linielaan"
-    }, 
-    {
-      "hnrlbls": [
-        "9A"
-      ], 
-      "housenumber": "9A", 
-      "lat": 50.96201608641, 
-      "lon": 4.631682670583, 
-      "municipality": "Haacht", 
-      "pcode": "3150", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "XIde Linielaan"
     }
   ]

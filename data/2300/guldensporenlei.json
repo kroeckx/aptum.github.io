@@ -1016,6 +1016,11 @@
       "street": "Guldensporenlei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "96"
       ], 
@@ -1025,6 +1030,18 @@
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
+      "street": "Guldensporenlei"
+    }, 
+    {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 51.326354198348, 
+      "lon": 4.933902493073, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Guldensporenlei"
     }
   ]

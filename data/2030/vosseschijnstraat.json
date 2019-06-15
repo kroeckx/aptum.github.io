@@ -17,11 +17,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.244566115457, 
-      "lon": 4.41217592423, 
+      "lat": 51.244571160988, 
+      "lon": 4.41262330306, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vosseschijnstraat"
     }, 
     {
@@ -118,6 +118,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2030", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Vosseschijnstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.248466414856, 
+      "lon": 4.415634882029, 
+      "municipality": "Antwerpen", 
+      "pcode": "2030", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vosseschijnstraat"
     }, 
     {

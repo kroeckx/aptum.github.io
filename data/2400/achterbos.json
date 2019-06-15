@@ -829,7 +829,7 @@
       "street": "Achterbos"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -860,7 +860,7 @@
       "street": "Achterbos"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -904,8 +904,14 @@
     }, 
     {
       "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
         "104", 
-        "2"
+        "2", 
+        "201", 
+        "202", 
+        "3"
       ], 
       "hnrlbls": [
         "209"
@@ -1897,7 +1903,7 @@
       "street": "Achterbos"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -1927,7 +1933,7 @@
       "street": "Achterbos"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -1985,6 +1991,36 @@
       "street": "Achterbos"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.201659635642, 
+      "lon": 5.097163455217, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Achterbos"
+    }, 
+    {
+      "apptnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 51.201682733795, 
+      "lon": 5.097265975888, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Achterbos"
+    }, 
+    {
       "hnrlbls": [
         "61"
       ], 
@@ -2010,6 +2046,7 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "102", 
         "201", 
         "202"
@@ -2110,18 +2147,6 @@
       "housenumber": "70_1", 
       "lat": 51.201603146137, 
       "lon": 5.097999879245, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Achterbos"
-    }, 
-    {
-      "hnrlbls": [
-        "71"
-      ], 
-      "housenumber": "71", 
-      "lat": 51.201886627954, 
-      "lon": 5.098120783543, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 

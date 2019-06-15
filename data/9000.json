@@ -110,12 +110,12 @@
     }, 
     {
       "b": 51.074557651828, 
-      "l": 3.731216908148, 
+      "l": 3.731240499834, 
       "name": "Achtermuide", 
       "numOfAddr": 24, 
       "r": 3.731911983728, 
       "sanName": "achtermuide", 
-      "t": 51.075243903946
+      "t": 51.075261380575
     }, 
     {
       "b": 51.053010084353, 
@@ -125,15 +125,6 @@
       "r": 3.737660160503, 
       "sanName": "adalwinstraat", 
       "t": 51.053424019912
-    }, 
-    {
-      "b": 51.119374626726, 
-      "l": 3.764056114922, 
-      "name": "Adrien de Gerlachestraat", 
-      "numOfAddr": 1, 
-      "r": 3.764056114922, 
-      "sanName": "adriendegerlachestraat", 
-      "t": 51.119374626726
     }, 
     {
       "b": 51.062794888677, 
@@ -157,7 +148,7 @@
       "b": 51.050881745039, 
       "l": 3.719833911745, 
       "name": "Ajuinlei", 
-      "numOfAddr": 54, 
+      "numOfAddr": 57, 
       "r": 3.720372666331, 
       "sanName": "ajuinlei", 
       "t": 51.052081272348
@@ -307,6 +298,15 @@
       "t": 51.050384867344
     }, 
     {
+      "b": 51.06708551393, 
+      "l": 3.706784418473, 
+      "name": "Antoinette Vandeputtepad", 
+      "numOfAddr": 13, 
+      "r": 3.707561673058, 
+      "sanName": "antoinettevandeputtepad", 
+      "t": 51.067941984186
+    }, 
+    {
       "b": 51.069453244024, 
       "l": 3.696582488634, 
       "name": "Antoine van Hoorebekehof", 
@@ -346,7 +346,7 @@
       "b": 51.057498389229, 
       "l": 3.741420094397, 
       "name": "Antwerpsesteenweg", 
-      "numOfAddr": 127, 
+      "numOfAddr": 126, 
       "otherPCs": [
         "9040", 
         "9041"
@@ -497,7 +497,7 @@
       "b": 51.059603779504, 
       "l": 3.713641638418, 
       "name": "Bachtenwalle", 
-      "numOfAddr": 12, 
+      "numOfAddr": 11, 
       "r": 3.715601483944, 
       "sanName": "bachtenwalle", 
       "t": 51.060025294014
@@ -539,7 +539,7 @@
       "t": 51.057447424677
     }, 
     {
-      "b": 51.061776966813, 
+      "b": 51.061784735414, 
       "l": 3.694602602706, 
       "name": "Balsamierenstraat", 
       "numOfAddr": 28, 
@@ -644,7 +644,7 @@
       "b": 51.057347365076, 
       "l": 3.726085311644, 
       "name": "Baudelostraat", 
-      "numOfAddr": 106, 
+      "numOfAddr": 105, 
       "r": 3.730203826382, 
       "sanName": "baudelostraat", 
       "t": 51.059423514953
@@ -671,7 +671,7 @@
       "b": 51.055635551394, 
       "l": 3.71115801635, 
       "name": "Begijnengracht", 
-      "numOfAddr": 122, 
+      "numOfAddr": 123, 
       "r": 3.714145839333, 
       "sanName": "begijnengracht", 
       "t": 51.056331551661
@@ -716,7 +716,7 @@
       "b": 51.060736082155, 
       "l": 3.692120995656, 
       "name": "Bellefleurstraat", 
-      "numOfAddr": 64, 
+      "numOfAddr": 65, 
       "r": 3.693315139022, 
       "sanName": "bellefleurstraat", 
       "t": 51.061328072812
@@ -813,12 +813,12 @@
     }, 
     {
       "b": 51.06291407416, 
-      "l": 3.724851476854, 
+      "l": 3.724750809008, 
       "name": "Berouw", 
       "numOfAddr": 95, 
       "r": 3.726910388495, 
       "sanName": "berouw", 
-      "t": 51.065387343953
+      "t": 51.065469953529
     }, 
     {
       "b": 51.054890739812, 
@@ -872,7 +872,7 @@
       "b": 51.059494891134, 
       "l": 3.695559517257, 
       "name": "Bevrijdingslaan", 
-      "numOfAddr": 304, 
+      "numOfAddr": 303, 
       "r": 3.703187413244, 
       "sanName": "bevrijdingslaan", 
       "t": 51.063699984096
@@ -1007,7 +1007,7 @@
       "b": 51.064923014405, 
       "l": 3.718256981064, 
       "name": "Blaisantvest", 
-      "numOfAddr": 125, 
+      "numOfAddr": 124, 
       "r": 3.726716996392, 
       "sanName": "blaisantvest", 
       "t": 51.067757206616
@@ -1025,7 +1025,7 @@
       "b": 51.036413711949, 
       "l": 3.714450571905, 
       "name": "Blankenbergestraat", 
-      "numOfAddr": 62, 
+      "numOfAddr": 61, 
       "r": 3.715062253846, 
       "sanName": "blankenbergestraat", 
       "t": 51.037446210785
@@ -1124,7 +1124,7 @@
       "b": 51.058674555129, 
       "l": 3.695080803162, 
       "name": "Boerderijstraat", 
-      "numOfAddr": 136, 
+      "numOfAddr": 135, 
       "r": 3.696386412985, 
       "sanName": "boerderijstraat", 
       "t": 51.061390565987
@@ -1169,7 +1169,7 @@
       "b": 51.061546970586, 
       "l": 3.692624127048, 
       "name": "Boomstraat", 
-      "numOfAddr": 112, 
+      "numOfAddr": 108, 
       "r": 3.693680633307, 
       "sanName": "boomstraat", 
       "t": 51.064247939556
@@ -1208,7 +1208,7 @@
       "b": 51.049331105501, 
       "l": 3.726460163595, 
       "name": "Brabantdam", 
-      "numOfAddr": 285, 
+      "numOfAddr": 266, 
       "r": 3.733489596273, 
       "sanName": "brabantdam", 
       "t": 51.050662191678
@@ -1271,11 +1271,11 @@
       "t": 51.054702022859
     }, 
     {
-      "b": 51.049769937153, 
+      "b": 51.049759805519, 
       "l": 3.712210922533, 
       "name": "Brioolstraat", 
       "numOfAddr": 7, 
-      "r": 3.712797420847, 
+      "r": 3.712688962064, 
       "sanName": "brioolstraat", 
       "t": 51.050060268438
     }, 
@@ -1296,6 +1296,15 @@
       "r": 3.739839856395, 
       "sanName": "bronsstraat", 
       "t": 51.101237636493
+    }, 
+    {
+      "b": 51.075121875773, 
+      "l": 3.749847842918, 
+      "name": "Bronstijdweg", 
+      "numOfAddr": 12, 
+      "r": 3.750164338947, 
+      "sanName": "bronstijdweg", 
+      "t": 51.075737136967
     }, 
     {
       "b": 51.05512820592, 
@@ -1352,7 +1361,7 @@
       "b": 51.041957490566, 
       "l": 3.736205895544, 
       "name": "Brusselsepoortstraat", 
-      "numOfAddr": 152, 
+      "numOfAddr": 149, 
       "r": 3.739479618562, 
       "sanName": "brusselsepoortstraat", 
       "t": 51.04471317044
@@ -1415,10 +1424,10 @@
       "b": 51.05614626619, 
       "l": 3.714397509024, 
       "name": "Burgstraat", 
-      "numOfAddr": 212, 
+      "numOfAddr": 213, 
       "r": 3.720008916756, 
       "sanName": "burgstraat", 
-      "t": 51.056834213983
+      "t": 51.057032321029
     }, 
     {
       "b": 51.046350711656, 
@@ -1601,10 +1610,10 @@
       "t": 51.060618658737
     }, 
     {
-      "b": 51.050858438267, 
-      "l": 3.721481474448, 
+      "b": 51.050853527691, 
+      "l": 3.721634999412, 
       "name": "Conduitsteeg", 
-      "numOfAddr": 10, 
+      "numOfAddr": 6, 
       "r": 3.722105816752, 
       "sanName": "conduitsteeg", 
       "t": 51.05088795353
@@ -1623,7 +1632,7 @@
       "l": 3.708973646539, 
       "name": "Contributiestraat", 
       "numOfAddr": 44, 
-      "r": 3.709799446762, 
+      "r": 3.709701275225, 
       "sanName": "contributiestraat", 
       "t": 51.056629669697
     }, 
@@ -1667,7 +1676,7 @@
       "b": 51.046366134064, 
       "l": 3.708168514618, 
       "name": "Coupure", 
-      "numOfAddr": 831, 
+      "numOfAddr": 828, 
       "r": 3.72034131034, 
       "sanName": "coupure", 
       "t": 51.0562167473
@@ -1712,7 +1721,7 @@
       "b": 51.056596822303, 
       "l": 3.733832001755, 
       "name": "Dampoortstraat", 
-      "numOfAddr": 146, 
+      "numOfAddr": 144, 
       "r": 3.738029063544, 
       "sanName": "dampoortstraat", 
       "t": 51.057217517772
@@ -1757,7 +1766,7 @@
       "b": 51.052869799719, 
       "l": 3.741242697125, 
       "name": "Dendermondsesteenweg", 
-      "numOfAddr": 298, 
+      "numOfAddr": 296, 
       "otherPCs": [
         "9040"
       ], 
@@ -1817,7 +1826,7 @@
       "numOfAddr": 70, 
       "r": 3.708529640235, 
       "sanName": "distelstraat", 
-      "t": 51.039299714089
+      "t": 51.039444341585
     }, 
     {
       "b": 51.06019539478, 
@@ -1832,7 +1841,7 @@
       "b": 51.065010584361, 
       "l": 3.730153413002, 
       "name": "Dok-Noord", 
-      "numOfAddr": 53, 
+      "numOfAddr": 49, 
       "r": 3.734152076397, 
       "sanName": "doknoord", 
       "t": 51.06976234338
@@ -1841,7 +1850,7 @@
       "b": 51.057116695385, 
       "l": 3.737304847714, 
       "name": "Dok-Zuid", 
-      "numOfAddr": 40, 
+      "numOfAddr": 39, 
       "r": 3.737908239036, 
       "sanName": "dokzuid", 
       "t": 51.05832575671
@@ -1874,10 +1883,10 @@
       "t": 51.053574396315
     }, 
     {
-      "b": 51.063956560525, 
+      "b": 51.06396082446, 
       "l": 3.729528727439, 
       "name": "Doornzelestraat", 
-      "numOfAddr": 78, 
+      "numOfAddr": 77, 
       "r": 3.73372933846, 
       "sanName": "doornzelestraat", 
       "t": 51.064543308806
@@ -1913,7 +1922,7 @@
       "b": 51.085456919446, 
       "l": 3.71965033383, 
       "name": "Driemasterstraat", 
-      "numOfAddr": 67, 
+      "numOfAddr": 65, 
       "r": 3.723297152282, 
       "sanName": "driemasterstraat", 
       "t": 51.08771047196
@@ -1952,7 +1961,7 @@
       "b": 51.055462787927, 
       "l": 3.684236970616, 
       "name": "Drongensesteenweg", 
-      "numOfAddr": 250, 
+      "numOfAddr": 248, 
       "r": 3.702096947337, 
       "sanName": "drongensesteenweg", 
       "t": 51.057818704669
@@ -2012,10 +2021,10 @@
       "t": 51.054581757066
     }, 
     {
-      "b": 51.077642572257, 
+      "b": 51.077357366469, 
       "l": 3.730616737083, 
       "name": "Dukkeldamstraat", 
-      "numOfAddr": 32, 
+      "numOfAddr": 33, 
       "r": 3.731818468822, 
       "sanName": "dukkeldamstraat", 
       "t": 51.078041984711
@@ -2031,9 +2040,9 @@
     }, 
     {
       "b": 51.015613944783, 
-      "l": 3.712431636731, 
+      "l": 3.71163935465, 
       "name": "Ebergiste De Deynestraat", 
-      "numOfAddr": 13, 
+      "numOfAddr": 15, 
       "r": 3.716397856737, 
       "sanName": "ebergistededeynestraat", 
       "t": 51.018692171025
@@ -2120,25 +2129,25 @@
       "b": 51.046913855081, 
       "l": 3.740957739021, 
       "name": "Eendrachtstraat", 
-      "numOfAddr": 195, 
+      "numOfAddr": 191, 
       "r": 3.745403953576, 
       "sanName": "eendrachtstraat", 
       "t": 51.050002057491
     }, 
     {
-      "b": 51.073582581691, 
-      "l": 3.713556416402, 
+      "b": 51.07351320755, 
+      "l": 3.71340436007, 
       "name": "Egelantierstraat", 
-      "numOfAddr": 13, 
-      "r": 3.713556416402, 
+      "numOfAddr": 4, 
+      "r": 3.713673819974, 
       "sanName": "egelantierstraat", 
-      "t": 51.073582581691
+      "t": 51.073609693664
     }, 
     {
-      "b": 51.111243050326, 
-      "l": 3.740414017136, 
+      "b": 51.111065142013, 
+      "l": 3.74032354038, 
       "name": "Eilanderskaai", 
-      "numOfAddr": 5, 
+      "numOfAddr": 11, 
       "r": 3.742509262738, 
       "sanName": "eilanderskaai", 
       "t": 51.111810682195
@@ -2178,6 +2187,15 @@
       "r": 3.722022086708, 
       "sanName": "elfjulistraat", 
       "t": 51.028918130314
+    }, 
+    {
+      "b": 51.054276265189, 
+      "l": 3.705767118305, 
+      "name": "Elsa Guyssenspad", 
+      "numOfAddr": 11, 
+      "r": 3.707050302477, 
+      "sanName": "elsaguyssenspad", 
+      "t": 51.054750859797
     }, 
     {
       "b": 51.063702069267, 
@@ -2237,7 +2255,7 @@
       "b": 51.054622019703, 
       "l": 3.744089691761, 
       "name": "Engelbert van Arenbergstraat", 
-      "numOfAddr": 70, 
+      "numOfAddr": 69, 
       "otherPCs": [
         "9040"
       ], 
@@ -2303,7 +2321,7 @@
       "b": 51.043674263673, 
       "l": 3.736053064246, 
       "name": "Ferdinand Lousbergskaai", 
-      "numOfAddr": 289, 
+      "numOfAddr": 285, 
       "r": 3.740828194341, 
       "sanName": "ferdinandlousbergskaai", 
       "t": 51.052367170871
@@ -2336,10 +2354,10 @@
       "t": 51.067086361963
     }, 
     {
-      "b": 51.035952928103, 
+      "b": 51.036013233116, 
       "l": 3.732714088959, 
       "name": "Filips de Goedekaai", 
-      "numOfAddr": 76, 
+      "numOfAddr": 73, 
       "r": 3.735364752906, 
       "sanName": "filipsdegoedekaai", 
       "t": 51.038221615901
@@ -2366,10 +2384,10 @@
       "b": 51.040259982617, 
       "l": 3.717833028917, 
       "name": "Filips van Marnixstraat", 
-      "numOfAddr": 34, 
+      "numOfAddr": 40, 
       "r": 3.719086073373, 
       "sanName": "filipsvanmarnixstraat", 
-      "t": 51.0405515331
+      "t": 51.040751813519
     }, 
     {
       "b": 51.028615560248, 
@@ -2447,7 +2465,7 @@
       "b": 51.047421973919, 
       "l": 3.739564261527, 
       "name": "Forelstraat", 
-      "numOfAddr": 185, 
+      "numOfAddr": 184, 
       "otherPCs": [
         "9040"
       ], 
@@ -2486,7 +2504,7 @@
       "b": 51.042383480876, 
       "l": 3.729668384273, 
       "name": "Franklin Rooseveltlaan", 
-      "numOfAddr": 541, 
+      "numOfAddr": 542, 
       "r": 3.732592403505, 
       "sanName": "franklinrooseveltlaan", 
       "t": 51.047435114363
@@ -2510,11 +2528,11 @@
       "t": 51.051221510736
     }, 
     {
-      "b": 51.052471831714, 
+      "b": 51.052467998894, 
       "l": 3.732346843368, 
       "name": "Frans Ackermanstraat", 
       "numOfAddr": 23, 
-      "r": 3.733349232947, 
+      "r": 3.733371961966, 
       "sanName": "fransackermanstraat", 
       "t": 51.05315040728
     }, 
@@ -2558,7 +2576,7 @@
       "b": 51.065932519036, 
       "l": 3.707438448465, 
       "name": "Frans van Ryhovelaan", 
-      "numOfAddr": 405, 
+      "numOfAddr": 404, 
       "r": 3.713324546863, 
       "sanName": "fransvanryhovelaan", 
       "t": 51.074867202234
@@ -2612,7 +2630,7 @@
       "b": 51.069508438794, 
       "l": 3.715369660918, 
       "name": "Gaardeniersweg", 
-      "numOfAddr": 22, 
+      "numOfAddr": 7, 
       "r": 3.716973942358, 
       "sanName": "gaardeniersweg", 
       "t": 51.072234814802
@@ -2630,7 +2648,7 @@
       "b": 51.050212761608, 
       "l": 3.713564034727, 
       "name": "Galgenberg", 
-      "numOfAddr": 69, 
+      "numOfAddr": 70, 
       "r": 3.714160446376, 
       "sanName": "galgenberg", 
       "t": 51.05157690718
@@ -2693,7 +2711,7 @@
       "b": 51.03141348671, 
       "l": 3.71052990637, 
       "name": "Ganzendries", 
-      "numOfAddr": 225, 
+      "numOfAddr": 226, 
       "r": 3.713474228614, 
       "sanName": "ganzendries", 
       "t": 51.034527116794
@@ -2720,7 +2738,7 @@
       "b": 51.064224182441, 
       "l": 3.703459815875, 
       "name": "Gasmeterlaan", 
-      "numOfAddr": 288, 
+      "numOfAddr": 289, 
       "r": 3.726515977536, 
       "sanName": "gasmeterlaan", 
       "t": 51.067748099805
@@ -2801,7 +2819,7 @@
       "b": 51.05695304807, 
       "l": 3.720115289751, 
       "name": "Geldmunt", 
-      "numOfAddr": 62, 
+      "numOfAddr": 63, 
       "r": 3.721623340591, 
       "sanName": "geldmunt", 
       "t": 51.058421080622
@@ -2855,19 +2873,19 @@
       "b": 51.014561486778, 
       "l": 3.718196869502, 
       "name": "Gestichtstraat", 
-      "numOfAddr": 58, 
+      "numOfAddr": 57, 
       "r": 3.720182889548, 
       "sanName": "gestichtstraat", 
-      "t": 51.016787460802
+      "t": 51.016854190942
     }, 
     {
       "b": 51.07018485219, 
       "l": 3.712881263118, 
       "name": "Getouwstraat", 
       "numOfAddr": 5, 
-      "r": 3.71418382619, 
+      "r": 3.714212215188, 
       "sanName": "getouwstraat", 
-      "t": 51.071989307837
+      "t": 51.071969239575
     }, 
     {
       "b": 51.065636751861, 
@@ -3062,7 +3080,7 @@
       "b": 51.065619930684, 
       "l": 3.696690935399, 
       "name": "Goudvinkstraat", 
-      "numOfAddr": 92, 
+      "numOfAddr": 93, 
       "r": 3.698053122941, 
       "sanName": "goudvinkstraat", 
       "t": 51.066788746512
@@ -3216,9 +3234,9 @@
     }, 
     {
       "b": 51.05562896009, 
-      "l": 3.721838506725, 
+      "l": 3.721904160908, 
       "name": "Groentenmarkt", 
-      "numOfAddr": 22, 
+      "numOfAddr": 21, 
       "r": 3.72259333811, 
       "sanName": "groentenmarkt", 
       "t": 51.056425812915
@@ -3248,7 +3266,7 @@
       "numOfAddr": 12, 
       "r": 3.72477963539, 
       "sanName": "grootkanonplein", 
-      "t": 51.057325565037
+      "t": 51.057379022203
     }, 
     {
       "b": 51.049236590557, 
@@ -3354,9 +3372,9 @@
       "l": 3.734521794966, 
       "name": "Hagelandkaai", 
       "numOfAddr": 65, 
-      "r": 3.738131241921, 
+      "r": 3.738160434461, 
       "sanName": "hagelandkaai", 
-      "t": 51.056882812011
+      "t": 51.056851164066
     }, 
     {
       "b": 51.052766311347, 
@@ -3371,7 +3389,7 @@
       "b": 51.05711396366, 
       "l": 3.732207114832, 
       "name": "Ham", 
-      "numOfAddr": 200, 
+      "numOfAddr": 198, 
       "r": 3.734800990425, 
       "sanName": "ham", 
       "t": 51.062894913326
@@ -3470,10 +3488,10 @@
       "b": 51.043341757252, 
       "l": 3.719982424075, 
       "name": "Hebbrechtstraat", 
-      "numOfAddr": 2, 
-      "r": 3.720024031174, 
+      "numOfAddr": 3, 
+      "r": 3.720079278152, 
       "sanName": "hebbrechtstraat", 
-      "t": 51.043360136194
+      "t": 51.043419638968
     }, 
     {
       "b": 51.058750174913, 
@@ -3531,7 +3549,7 @@
     }, 
     {
       "b": 51.057878181576, 
-      "l": 3.703475981082, 
+      "l": 3.703490367003, 
       "name": "Hekelaarsstraat", 
       "numOfAddr": 26, 
       "r": 3.703835398498, 
@@ -3675,7 +3693,7 @@
     }, 
     {
       "b": 51.049764017768, 
-      "l": 3.729948725084, 
+      "l": 3.729944656744, 
       "name": "Hippoliet Lippensplein", 
       "numOfAddr": 27, 
       "r": 3.730588591588, 
@@ -3701,8 +3719,8 @@
       "t": 51.056816657048
     }, 
     {
-      "b": 51.037426532593, 
-      "l": 3.723319178424, 
+      "b": 51.037631033365, 
+      "l": 3.723827218268, 
       "name": "Hofbouwlaan", 
       "numOfAddr": 29, 
       "r": 3.726099893232, 
@@ -3842,8 +3860,8 @@
       "b": 51.068662318324, 
       "l": 3.703727808376, 
       "name": "Hortensiastraat", 
-      "numOfAddr": 139, 
-      "r": 3.707433404812, 
+      "numOfAddr": 140, 
+      "r": 3.707452349741, 
       "sanName": "hortensiastraat", 
       "t": 51.070102442101
     }, 
@@ -3995,7 +4013,7 @@
       "b": 51.060737366899, 
       "l": 3.708155595235, 
       "name": "Ijskelderstraat", 
-      "numOfAddr": 202, 
+      "numOfAddr": 201, 
       "r": 3.709742512229, 
       "sanName": "ijskelderstraat", 
       "t": 51.065002255619
@@ -4181,10 +4199,10 @@
       "t": 51.04786027223
     }, 
     {
-      "b": 51.03871911254, 
+      "b": 51.038684170744, 
       "l": 3.727127071323, 
       "name": "Jan Frans Willemsstraat", 
-      "numOfAddr": 17, 
+      "numOfAddr": 18, 
       "r": 3.727524825716, 
       "sanName": "janfranswillemsstraat", 
       "t": 51.039336513727
@@ -4265,16 +4283,16 @@
       "b": 51.058551215089, 
       "l": 3.711118783185, 
       "name": "Jan Verspeyenstraat", 
-      "numOfAddr": 54, 
+      "numOfAddr": 53, 
       "r": 3.712985254798, 
       "sanName": "janverspeyenstraat", 
       "t": 51.058877534483
     }, 
     {
-      "b": 51.07316518693, 
-      "l": 3.714554814025, 
+      "b": 51.073770674571, 
+      "l": 3.715910612315, 
       "name": "Jan Yoensstraat", 
-      "numOfAddr": 121, 
+      "numOfAddr": 65, 
       "r": 3.716132905812, 
       "sanName": "janyoensstraat", 
       "t": 51.074186852935
@@ -4326,12 +4344,12 @@
     }, 
     {
       "b": 51.054566275332, 
-      "l": 3.68742891607, 
+      "l": 3.688037910804, 
       "name": "Jenny Walrystraat", 
-      "numOfAddr": 9, 
-      "r": 3.689319632219, 
+      "numOfAddr": 1, 
+      "r": 3.688037910804, 
       "sanName": "jennywalrystraat", 
-      "t": 51.055015311565
+      "t": 51.054566275332
     }, 
     {
       "b": 51.048106269359, 
@@ -4391,6 +4409,15 @@
       "t": 51.109252474128
     }, 
     {
+      "b": 51.049723479668, 
+      "l": 3.736093729872, 
+      "name": "Jongenstragel", 
+      "numOfAddr": 2, 
+      "r": 3.736180323445, 
+      "sanName": "jongenstragel", 
+      "t": 51.049809941426
+    }, 
+    {
       "b": 51.052449234079, 
       "l": 3.717900792574, 
       "name": "Jonkvrouw Mattestraat", 
@@ -4439,7 +4466,7 @@
       "b": 51.065240269725, 
       "l": 3.700173486312, 
       "name": "Jozef Guislainstraat", 
-      "numOfAddr": 81, 
+      "numOfAddr": 80, 
       "r": 3.704191289497, 
       "sanName": "jozefguislainstraat", 
       "t": 51.067695217878
@@ -4481,10 +4508,10 @@
       "t": 51.066151366883
     }, 
     {
-      "b": 51.044211469174, 
+      "b": 51.044119897124, 
       "l": 3.706713713404, 
       "name": "Jubileumlaan", 
-      "numOfAddr": 399, 
+      "numOfAddr": 389, 
       "r": 3.708542682884, 
       "sanName": "jubileumlaan", 
       "t": 51.047657260158
@@ -4613,7 +4640,7 @@
       "b": 51.055419442047, 
       "l": 3.725973355813, 
       "name": "Kammerstraat", 
-      "numOfAddr": 53, 
+      "numOfAddr": 54, 
       "r": 3.727825955401, 
       "sanName": "kammerstraat", 
       "t": 51.056459229269
@@ -4641,9 +4668,9 @@
       "l": 3.72164876488, 
       "name": "Kanunnikstraat", 
       "numOfAddr": 56, 
-      "r": 3.723987310362, 
+      "r": 3.723270145026, 
       "sanName": "kanunnikstraat", 
-      "t": 51.044824618435
+      "t": 51.043651287947
     }, 
     {
       "b": 51.053842983492, 
@@ -4703,7 +4730,7 @@
       "b": 51.037029941737, 
       "l": 3.73125281092, 
       "name": "Karel de Stoutestraat", 
-      "numOfAddr": 134, 
+      "numOfAddr": 133, 
       "r": 3.733077596488, 
       "sanName": "kareldestoutestraat", 
       "t": 51.037799907144
@@ -4730,7 +4757,7 @@
       "b": 51.0628698064, 
       "l": 3.728688231041, 
       "name": "Karel Mirystraat", 
-      "numOfAddr": 61, 
+      "numOfAddr": 62, 
       "r": 3.730536111846, 
       "sanName": "karelmirystraat", 
       "t": 51.06333661781
@@ -4748,7 +4775,7 @@
       "b": 51.042598851606, 
       "l": 3.721668455842, 
       "name": "Karel Van Hulthemstraat", 
-      "numOfAddr": 112, 
+      "numOfAddr": 108, 
       "r": 3.723442322595, 
       "sanName": "karelvanhulthemstraat", 
       "t": 51.044934625339
@@ -4784,7 +4811,7 @@
       "b": 51.062098452475, 
       "l": 3.724899874547, 
       "name": "Kartuizerlaan", 
-      "numOfAddr": 118, 
+      "numOfAddr": 116, 
       "r": 3.727686041409, 
       "sanName": "kartuizerlaan", 
       "t": 51.06330906191
@@ -4964,8 +4991,8 @@
       "b": 51.020110535165, 
       "l": 3.711258052286, 
       "name": "Kikvorsstraat", 
-      "numOfAddr": 952, 
-      "r": 3.720354227294, 
+      "numOfAddr": 956, 
+      "r": 3.720406917547, 
       "sanName": "kikvorsstraat", 
       "t": 51.024291926385
     }, 
@@ -5069,10 +5096,10 @@
       "t": 51.112730521389
     }, 
     {
-      "b": 51.037143840374, 
+      "b": 51.037163071575, 
       "l": 3.712116291226, 
       "name": "Knokkestraat", 
-      "numOfAddr": 85, 
+      "numOfAddr": 86, 
       "r": 3.713222548146, 
       "sanName": "knokkestraat", 
       "t": 51.03775964486
@@ -5159,7 +5186,7 @@
       "t": 51.029982254594
     }, 
     {
-      "b": 51.060436386938, 
+      "b": 51.060427693835, 
       "l": 3.714299961328, 
       "name": "Kolveniersgang", 
       "numOfAddr": 89, 
@@ -5198,7 +5225,7 @@
       "b": 51.037555351682, 
       "l": 3.709884638081, 
       "name": "Koning Albertlaan", 
-      "numOfAddr": 232, 
+      "numOfAddr": 233, 
       "r": 3.711411922703, 
       "sanName": "koningalbertlaan", 
       "t": 51.042580775937
@@ -5216,7 +5243,7 @@
       "b": 51.035926610894, 
       "l": 3.712703912253, 
       "name": "Koningin Astridlaan", 
-      "numOfAddr": 245, 
+      "numOfAddr": 246, 
       "r": 3.716047240947, 
       "sanName": "koninginastridlaan", 
       "t": 51.036694579962
@@ -5333,7 +5360,7 @@
       "b": 51.0575983897, 
       "l": 3.734735432769, 
       "name": "Koopvaardijlaan", 
-      "numOfAddr": 85, 
+      "numOfAddr": 84, 
       "r": 3.740241307353, 
       "sanName": "koopvaardijlaan", 
       "t": 51.070578250856
@@ -5375,11 +5402,11 @@
       "t": 51.0556484014
     }, 
     {
-      "b": 51.054188877855, 
+      "b": 51.054038311323, 
       "l": 3.72149002721, 
       "name": "Korenmarkt", 
-      "numOfAddr": 44, 
-      "r": 3.72238849501, 
+      "numOfAddr": 37, 
+      "r": 3.722465742991, 
       "sanName": "korenmarkt", 
       "t": 51.05533411719
     }, 
@@ -5450,8 +5477,8 @@
       "b": 51.0422504016, 
       "l": 3.719133763311, 
       "name": "Kortrijksepoortstraat", 
-      "numOfAddr": 308, 
-      "r": 3.722259489553, 
+      "numOfAddr": 302, 
+      "r": 3.722389674354, 
       "sanName": "kortrijksepoortstraat", 
       "t": 51.046030541671
     }, 
@@ -5471,17 +5498,17 @@
       "b": 51.049441881622, 
       "l": 3.722344324584, 
       "name": "Kouter", 
-      "numOfAddr": 163, 
+      "numOfAddr": 160, 
       "r": 3.725256153353, 
       "sanName": "kouter", 
       "t": 51.050659566891
     }, 
     {
-      "b": 51.050651400576, 
+      "b": 51.050702045141, 
       "l": 3.724970716399, 
       "name": "Kouterdreef", 
       "numOfAddr": 17, 
-      "r": 3.725569755523, 
+      "r": 3.72549310925, 
       "sanName": "kouterdreef", 
       "t": 51.051198384014
     }, 
@@ -5490,15 +5517,15 @@
       "l": 3.725308007759, 
       "name": "Koutersteeg", 
       "numOfAddr": 5, 
-      "r": 3.725859574011, 
+      "r": 3.725664839281, 
       "sanName": "koutersteeg", 
-      "t": 51.050795461056
+      "t": 51.050737587003
     }, 
     {
       "b": 51.052659505531, 
       "l": 3.733348851946, 
       "name": "Kozijntjesstraat", 
-      "numOfAddr": 12, 
+      "numOfAddr": 15, 
       "r": 3.733798504935, 
       "sanName": "kozijntjesstraat", 
       "t": 51.052956585816
@@ -5579,7 +5606,7 @@
       "b": 51.050943925235, 
       "l": 3.702258705518, 
       "name": "Krijgsgasthuisstraat", 
-      "numOfAddr": 180, 
+      "numOfAddr": 178, 
       "r": 3.704355683522, 
       "sanName": "krijgsgasthuisstraat", 
       "t": 51.053468469454
@@ -5588,7 +5615,7 @@
       "b": 51.027087706843, 
       "l": 3.712169914097, 
       "name": "Krijgslaan", 
-      "numOfAddr": 277, 
+      "numOfAddr": 278, 
       "r": 3.720893803815, 
       "sanName": "krijgslaan", 
       "t": 51.034924478632
@@ -5705,7 +5732,7 @@
       "b": 51.036580217871, 
       "l": 3.691012097377, 
       "name": "Kwartelstraat", 
-      "numOfAddr": 10, 
+      "numOfAddr": 9, 
       "r": 3.691967819498, 
       "sanName": "kwartelstraat", 
       "t": 51.037141066958
@@ -5849,7 +5876,7 @@
       "b": 51.04474246371, 
       "l": 3.733449028594, 
       "name": "Lange Violettestraat", 
-      "numOfAddr": 365, 
+      "numOfAddr": 362, 
       "r": 3.737352224735, 
       "sanName": "langeviolettestraat", 
       "t": 51.048696296086
@@ -5867,13 +5894,13 @@
       "b": 51.042019220292, 
       "l": 3.719469256345, 
       "name": "Laurent Delvauxstraat", 
-      "numOfAddr": 30, 
+      "numOfAddr": 31, 
       "r": 3.72127831116, 
       "sanName": "laurentdelvauxstraat", 
       "t": 51.042401478462
     }, 
     {
-      "b": 51.069988897627, 
+      "b": 51.069966730289, 
       "l": 3.706610845375, 
       "name": "Lavendelstraat", 
       "numOfAddr": 95, 
@@ -5915,7 +5942,7 @@
       "b": 51.038585773233, 
       "l": 3.731315613715, 
       "name": "Leeuwstraat", 
-      "numOfAddr": 151, 
+      "numOfAddr": 132, 
       "r": 3.733603267344, 
       "sanName": "leeuwstraat", 
       "t": 51.041735018486
@@ -6038,8 +6065,8 @@
       "t": 51.069184611793
     }, 
     {
-      "b": 51.066518722755, 
-      "l": 3.696473095943, 
+      "b": 51.066560707321, 
+      "l": 3.696473919915, 
       "name": "Lijsterstraat", 
       "numOfAddr": 27, 
       "r": 3.697572439063, 
@@ -6158,19 +6185,19 @@
       "b": 51.071994908897, 
       "l": 3.728071302019, 
       "name": "Loodsenstraat", 
-      "numOfAddr": 100, 
-      "r": 3.73094028254, 
+      "numOfAddr": 80, 
+      "r": 3.730894008983, 
       "sanName": "loodsenstraat", 
-      "t": 51.072641831694
+      "t": 51.072608775402
     }, 
     {
       "b": 51.065848932857, 
-      "l": 3.706525198435, 
+      "l": 3.704858854317, 
       "name": "Lorkenstraat", 
       "numOfAddr": 36, 
       "r": 3.707842355528, 
       "sanName": "lorkenstraat", 
-      "t": 51.066499803166
+      "t": 51.067959370811
     }, 
     {
       "b": 51.036735667179, 
@@ -6221,10 +6248,10 @@
       "b": 51.033212633728, 
       "l": 3.721084047101, 
       "name": "Lucas de Heerestraat", 
-      "numOfAddr": 133, 
-      "r": 3.725332218513, 
+      "numOfAddr": 134, 
+      "r": 3.725475330951, 
       "sanName": "lucasdeheerestraat", 
-      "t": 51.034457034724
+      "t": 51.034490087456
     }, 
     {
       "b": 51.05504406235, 
@@ -6257,19 +6284,19 @@
       "b": 51.055566145667, 
       "l": 3.716468648023, 
       "name": "Luxemburgstraat", 
-      "numOfAddr": 40, 
+      "numOfAddr": 39, 
       "r": 3.71772019612, 
       "sanName": "luxemburgstraat", 
       "t": 51.055970182058
     }, 
     {
       "b": 51.050391477713, 
-      "l": 3.714698820372, 
+      "l": 3.714597290292, 
       "name": "Maagdestraat", 
       "numOfAddr": 47, 
       "r": 3.716625264251, 
       "sanName": "maagdestraat", 
-      "t": 51.051593273952
+      "t": 51.051544170942
     }, 
     {
       "b": 51.025220314351, 
@@ -6332,7 +6359,7 @@
       "numOfAddr": 19, 
       "r": 3.689533864207, 
       "sanName": "mahatmagandhistraat", 
-      "t": 51.059357575342
+      "t": 51.059333288375
     }, 
     {
       "b": 51.071448334004, 
@@ -6381,12 +6408,12 @@
     }, 
     {
       "b": 51.068330189668, 
-      "l": 3.694041206063, 
+      "l": 3.693978163627, 
       "name": "Manilastraat", 
       "numOfAddr": 12, 
       "r": 3.694731604685, 
       "sanName": "manilastraat", 
-      "t": 51.068756648768
+      "t": 51.06880483019
     }, 
     {
       "b": 51.040734003329, 
@@ -6446,16 +6473,16 @@
       "b": 51.045787077921, 
       "l": 3.707157739263, 
       "name": "Martelaarslaan", 
-      "numOfAddr": 529, 
+      "numOfAddr": 538, 
       "r": 3.713742434737, 
       "sanName": "martelaarslaan", 
       "t": 51.049547023476
     }, 
     {
-      "b": 51.057389898556, 
+      "b": 51.057390634298, 
       "l": 3.690353488216, 
       "name": "Martin Luther Kingstraat", 
-      "numOfAddr": 14, 
+      "numOfAddr": 15, 
       "r": 3.691081808227, 
       "sanName": "martinlutherkingstraat", 
       "t": 51.058144307522
@@ -6464,17 +6491,17 @@
       "b": 51.068003542114, 
       "l": 3.70802395103, 
       "name": "Ma\u00efsstraat", 
-      "numOfAddr": 307, 
+      "numOfAddr": 247, 
       "r": 3.717543053147, 
       "sanName": "masstraat", 
       "t": 51.074799375098
     }, 
     {
-      "b": 51.057763423975, 
+      "b": 51.057797433369, 
       "l": 3.710576016964, 
       "name": "Mathias Gesweinstraat", 
       "numOfAddr": 29, 
-      "r": 3.711526834706, 
+      "r": 3.71153220575, 
       "sanName": "mathiasgesweinstraat", 
       "t": 51.058056655619
     }, 
@@ -6563,7 +6590,7 @@
       "b": 51.058245778519, 
       "l": 3.694166682937, 
       "name": "Meibloemstraat", 
-      "numOfAddr": 147, 
+      "numOfAddr": 146, 
       "r": 3.69947192026, 
       "sanName": "meibloemstraat", 
       "t": 51.060631054925
@@ -6686,7 +6713,7 @@
       "b": 51.059438545427, 
       "l": 3.717740613113, 
       "name": "Molenaarsstraat", 
-      "numOfAddr": 141, 
+      "numOfAddr": 139, 
       "r": 3.719314421474, 
       "sanName": "molenaarsstraat", 
       "t": 51.06458086717
@@ -6776,8 +6803,8 @@
       "b": 51.063220241363, 
       "l": 3.713249854557, 
       "name": "Muishondstraat", 
-      "numOfAddr": 14, 
-      "r": 3.713784400348, 
+      "numOfAddr": 15, 
+      "r": 3.713937033692, 
       "sanName": "muishondstraat", 
       "t": 51.063506636195
     }, 
@@ -6794,10 +6821,10 @@
       "b": 51.053673930158, 
       "l": 3.688860589263, 
       "name": "Nadine Crapp\u00e9straat", 
-      "numOfAddr": 58, 
+      "numOfAddr": 63, 
       "r": 3.692106847384, 
       "sanName": "nadinecrappstraat", 
-      "t": 51.055166855034
+      "t": 51.055157898234
     }, 
     {
       "b": 51.048445291606, 
@@ -6821,8 +6848,8 @@
       "b": 51.046116561204, 
       "l": 3.720776510538, 
       "name": "Nederkouter", 
-      "numOfAddr": 168, 
-      "r": 3.722382836307, 
+      "numOfAddr": 170, 
+      "r": 3.722465904612, 
       "sanName": "nederkouter", 
       "t": 51.049012633452
     }, 
@@ -6866,7 +6893,7 @@
       "b": 51.057534175514, 
       "l": 3.68831280113, 
       "name": "Nekkersputstraat", 
-      "numOfAddr": 209, 
+      "numOfAddr": 208, 
       "r": 3.692787087163, 
       "sanName": "nekkersputstraat", 
       "t": 51.063692032943
@@ -6938,16 +6965,16 @@
       "b": 51.064957147611, 
       "l": 3.702341637757, 
       "name": "Nieuwevaart", 
-      "numOfAddr": 168, 
+      "numOfAddr": 167, 
       "r": 3.726317874273, 
       "sanName": "nieuwevaart", 
-      "t": 51.069582388718
+      "t": 51.069583541568
     }, 
     {
       "b": 51.052256000793, 
       "l": 3.700203257661, 
       "name": "Nieuwewandeling", 
-      "numOfAddr": 137, 
+      "numOfAddr": 136, 
       "r": 3.708014723585, 
       "sanName": "nieuwewandeling", 
       "t": 51.055879024067
@@ -6963,7 +6990,7 @@
     }, 
     {
       "b": 51.054728874, 
-      "l": 3.74317476441, 
+      "l": 3.743243906513, 
       "name": "Nieuwhof", 
       "numOfAddr": 66, 
       "r": 3.745550142629, 
@@ -7097,10 +7124,10 @@
       "t": 51.063440809572
     }, 
     {
-      "b": 51.044019361032, 
-      "l": 3.708670427906, 
+      "b": 51.044006330086, 
+      "l": 3.708685181577, 
       "name": "Offerlaan", 
-      "numOfAddr": 105, 
+      "numOfAddr": 104, 
       "r": 3.710463520842, 
       "sanName": "offerlaan", 
       "t": 51.04630295588
@@ -7223,10 +7250,10 @@
       "t": 51.058528703902
     }, 
     {
-      "b": 51.050983767228, 
+      "b": 51.050973390149, 
       "l": 3.737467989543, 
       "name": "Ooilamstraat", 
-      "numOfAddr": 46, 
+      "numOfAddr": 47, 
       "r": 3.73919752641, 
       "sanName": "ooilamstraat", 
       "t": 51.05134736627
@@ -7307,7 +7334,7 @@
       "b": 51.025043863347, 
       "l": 3.726833742274, 
       "name": "Ottergemsesteenweg", 
-      "numOfAddr": 570, 
+      "numOfAddr": 572, 
       "r": 3.735729287798, 
       "sanName": "ottergemsesteenweg", 
       "t": 51.037371829439
@@ -7316,7 +7343,7 @@
       "b": 51.0142550745, 
       "l": 3.731609756272, 
       "name": "Ottergemsesteenweg-Zuid", 
-      "numOfAddr": 22, 
+      "numOfAddr": 25, 
       "r": 3.742325272388, 
       "sanName": "ottergemsesteenwegzuid", 
       "t": 51.019471542279
@@ -7422,7 +7449,7 @@
     }, 
     {
       "b": 51.066414921726, 
-      "l": 3.730793688118, 
+      "l": 3.730560645921, 
       "name": "Overreke", 
       "numOfAddr": 12, 
       "r": 3.731812877721, 
@@ -7442,7 +7469,7 @@
       "b": 51.05167766382, 
       "l": 3.69805759346, 
       "name": "Overzet", 
-      "numOfAddr": 36, 
+      "numOfAddr": 33, 
       "r": 3.699643463163, 
       "sanName": "overzet", 
       "t": 51.052700173765
@@ -7484,10 +7511,10 @@
       "t": 51.054079456461
     }, 
     {
-      "b": 51.065025752857, 
+      "b": 51.065015621476, 
       "l": 3.696979145636, 
       "name": "Palinghuizen", 
-      "numOfAddr": 126, 
+      "numOfAddr": 125, 
       "r": 3.70202652056, 
       "sanName": "palinghuizen", 
       "t": 51.069071786196
@@ -7649,7 +7676,7 @@
       "b": 51.050315957761, 
       "l": 3.731391683019, 
       "name": "Pelikaanstraat", 
-      "numOfAddr": 46, 
+      "numOfAddr": 48, 
       "r": 3.732684296988, 
       "sanName": "pelikaanstraat", 
       "t": 51.051099438305
@@ -7676,7 +7703,7 @@
       "b": 51.054761027831, 
       "l": 3.71395516073, 
       "name": "Peperstraat", 
-      "numOfAddr": 63, 
+      "numOfAddr": 61, 
       "r": 3.7146989907, 
       "sanName": "peperstraat", 
       "t": 51.056112944676
@@ -7703,7 +7730,7 @@
       "b": 51.062870378484, 
       "l": 3.689220236721, 
       "name": "Perzikstraat", 
-      "numOfAddr": 53, 
+      "numOfAddr": 52, 
       "r": 3.690753977792, 
       "sanName": "perzikstraat", 
       "t": 51.063753159843
@@ -7739,7 +7766,7 @@
       "b": 51.053926840703, 
       "l": 3.706248807869, 
       "name": "Pieter Colpaertsteeg", 
-      "numOfAddr": 51, 
+      "numOfAddr": 60, 
       "r": 3.708338932176, 
       "sanName": "pietercolpaertsteeg", 
       "t": 51.054550560157
@@ -7775,7 +7802,7 @@
       "b": 51.052632748963, 
       "l": 3.704147477411, 
       "name": "Pijlstraat", 
-      "numOfAddr": 63, 
+      "numOfAddr": 62, 
       "r": 3.705966465764, 
       "sanName": "pijlstraat", 
       "t": 51.053040003167
@@ -7865,8 +7892,8 @@
       "b": 51.04764432078, 
       "l": 3.724133090571, 
       "name": "Pollepelstraat", 
-      "numOfAddr": 51, 
-      "r": 3.724673335856, 
+      "numOfAddr": 47, 
+      "r": 3.724573833898, 
       "sanName": "pollepelstraat", 
       "t": 51.048521629529
     }, 
@@ -7874,7 +7901,7 @@
       "b": 51.073001545625, 
       "l": 3.708312349601, 
       "name": "Poperingestraat", 
-      "numOfAddr": 98, 
+      "numOfAddr": 97, 
       "r": 3.709623131726, 
       "sanName": "poperingestraat", 
       "t": 51.075600244265
@@ -7928,7 +7955,7 @@
       "b": 51.057752115273, 
       "l": 3.71540195549, 
       "name": "Prinsenhof", 
-      "numOfAddr": 117, 
+      "numOfAddr": 116, 
       "r": 3.718446547253, 
       "sanName": "prinsenhof", 
       "t": 51.059458524478
@@ -7982,7 +8009,7 @@
       "b": 51.056355160729, 
       "l": 3.710515232677, 
       "name": "Provenierstersstraat", 
-      "numOfAddr": 41, 
+      "numOfAddr": 40, 
       "r": 3.713649164831, 
       "sanName": "provenierstersstraat", 
       "t": 51.056724997215
@@ -8009,7 +8036,7 @@
       "b": 51.051639620646, 
       "l": 3.718075632187, 
       "name": "Pussemierstraat", 
-      "numOfAddr": 28, 
+      "numOfAddr": 27, 
       "r": 3.719265710169, 
       "sanName": "pussemierstraat", 
       "t": 51.051776786063
@@ -8081,7 +8108,7 @@
       "b": 51.053523162679, 
       "l": 3.710310123087, 
       "name": "Rasphuisstraat", 
-      "numOfAddr": 108, 
+      "numOfAddr": 106, 
       "r": 3.712494758261, 
       "sanName": "rasphuisstraat", 
       "t": 51.055086902603
@@ -8153,7 +8180,7 @@
       "b": 51.058213572774, 
       "l": 3.699626554593, 
       "name": "Reinaertstraat", 
-      "numOfAddr": 101, 
+      "numOfAddr": 99, 
       "r": 3.702496575911, 
       "sanName": "reinaertstraat", 
       "t": 51.06018674917
@@ -8198,7 +8225,7 @@
       "b": 51.021653558136, 
       "l": 3.717398748162, 
       "name": "Rerum-Novarumplein", 
-      "numOfAddr": 170, 
+      "numOfAddr": 171, 
       "r": 3.720237318958, 
       "sanName": "rerumnovarumplein", 
       "t": 51.023711890563
@@ -8396,10 +8423,10 @@
       "b": 51.053724432532, 
       "l": 3.692697245367, 
       "name": "Rooigemlaan", 
-      "numOfAddr": 637, 
+      "numOfAddr": 634, 
       "r": 3.698996914881, 
       "sanName": "rooigemlaan", 
-      "t": 51.065944343831
+      "t": 51.065921144338
     }, 
     {
       "b": 51.03560989115, 
@@ -8489,7 +8516,7 @@
       "numOfAddr": 22, 
       "r": 3.715427050786, 
       "sanName": "sanderswal", 
-      "t": 51.059044182295
+      "t": 51.059026305719
     }, 
     {
       "b": 51.073585145107, 
@@ -8513,7 +8540,7 @@
       "b": 51.067241957018, 
       "l": 3.729715248994, 
       "name": "Sassevaartstraat", 
-      "numOfAddr": 22, 
+      "numOfAddr": 20, 
       "r": 3.733045840269, 
       "sanName": "sassevaartstraat", 
       "t": 51.06760852151
@@ -8690,8 +8717,8 @@
       "t": 51.057349188315
     }, 
     {
-      "b": 51.056212108816, 
-      "l": 3.722369427423, 
+      "b": 51.056165039089, 
+      "l": 3.72237563965, 
       "name": "Schuddevisstraatje", 
       "numOfAddr": 2, 
       "r": 3.722614858336, 
@@ -8735,13 +8762,13 @@
       "t": 51.056244723561
     }, 
     {
-      "b": 51.066064186593, 
-      "l": 3.696955408337, 
+      "b": 51.066013948721, 
+      "l": 3.696705038973, 
       "name": "Siervogelstraat", 
       "numOfAddr": 12, 
-      "r": 3.696955408337, 
+      "r": 3.697128279611, 
       "sanName": "siervogelstraat", 
-      "t": 51.066064186593
+      "t": 51.066186256407
     }, 
     {
       "b": 51.021338171493, 
@@ -8840,7 +8867,7 @@
       "numOfAddr": 95, 
       "r": 3.718165409875, 
       "sanName": "sintantoniuskaai", 
-      "t": 51.06063422284
+      "t": 51.06062202406
     }, 
     {
       "b": 51.053137411001, 
@@ -8885,7 +8912,7 @@
       "b": 51.034390802403, 
       "l": 3.725879448078, 
       "name": "Sint-Coletastraat", 
-      "numOfAddr": 25, 
+      "numOfAddr": 27, 
       "r": 3.7272898823, 
       "sanName": "sintcoletastraat", 
       "t": 51.034807941488
@@ -8913,7 +8940,7 @@
       "l": 3.71369392288, 
       "name": "Sint-Elisabethplein", 
       "numOfAddr": 31, 
-      "r": 3.714766710659, 
+      "r": 3.714749509413, 
       "sanName": "sintelisabethplein", 
       "t": 51.057299795963
     }, 
@@ -8957,7 +8984,7 @@
       "b": 51.049716789649, 
       "l": 3.726726715743, 
       "name": "Sint-Jansvest", 
-      "numOfAddr": 59, 
+      "numOfAddr": 54, 
       "r": 3.728006995405, 
       "sanName": "sintjansvest", 
       "t": 51.050347587212
@@ -8990,7 +9017,7 @@
       "t": 51.059349896131
     }, 
     {
-      "b": 51.049882172719, 
+      "b": 51.049827307183, 
       "l": 3.732802804151, 
       "name": "Sint-Kristoffelstraat", 
       "numOfAddr": 33, 
@@ -9002,7 +9029,7 @@
       "b": 51.04404548241, 
       "l": 3.722276198237, 
       "name": "Sint-Kwintensberg", 
-      "numOfAddr": 86, 
+      "numOfAddr": 87, 
       "r": 3.724178559715, 
       "sanName": "sintkwintensberg", 
       "t": 51.046097240508
@@ -9218,8 +9245,8 @@
       "b": 51.052436120808, 
       "l": 3.736004870074, 
       "name": "Slachthuisstraat", 
-      "numOfAddr": 130, 
-      "r": 3.73983187448, 
+      "numOfAddr": 125, 
+      "r": 3.739743964663, 
       "sanName": "slachthuisstraat", 
       "t": 51.053201669521
     }, 
@@ -9272,7 +9299,7 @@
       "b": 51.059137759884, 
       "l": 3.724412560271, 
       "name": "Sluizeken", 
-      "numOfAddr": 44, 
+      "numOfAddr": 41, 
       "r": 3.725109663429, 
       "sanName": "sluizeken", 
       "t": 51.059974178687
@@ -9380,7 +9407,7 @@
       "b": 51.071697238884, 
       "l": 3.731636615197, 
       "name": "Spadestraat", 
-      "numOfAddr": 29, 
+      "numOfAddr": 28, 
       "r": 3.732291588164, 
       "sanName": "spadestraat", 
       "t": 51.073074059945
@@ -9389,7 +9416,7 @@
       "b": 51.054007076294, 
       "l": 3.735332730786, 
       "name": "Spanjaardstraat", 
-      "numOfAddr": 13, 
+      "numOfAddr": 12, 
       "r": 3.7363703702, 
       "sanName": "spanjaardstraat", 
       "t": 51.054314783659
@@ -9398,7 +9425,7 @@
       "b": 51.058408516682, 
       "l": 3.696204021634, 
       "name": "Sparrestraat", 
-      "numOfAddr": 99, 
+      "numOfAddr": 98, 
       "r": 3.699123213477, 
       "sanName": "sparrestraat", 
       "t": 51.059944095055
@@ -9500,7 +9527,7 @@
       "b": 51.06911202859, 
       "l": 3.694270125497, 
       "name": "Staakskenstraat", 
-      "numOfAddr": 61, 
+      "numOfAddr": 62, 
       "r": 3.69686645754, 
       "sanName": "staakskenstraat", 
       "t": 51.071377940124
@@ -9572,7 +9599,7 @@
       "b": 51.063509161275, 
       "l": 3.731117829907, 
       "name": "Stokerijstraat", 
-      "numOfAddr": 67, 
+      "numOfAddr": 66, 
       "r": 3.734094243092, 
       "sanName": "stokerijstraat", 
       "t": 51.063900856186
@@ -9626,7 +9653,7 @@
       "b": 51.03246738211, 
       "l": 3.729210946076, 
       "name": "Stropkaai", 
-      "numOfAddr": 63, 
+      "numOfAddr": 62, 
       "r": 3.73374574237, 
       "sanName": "stropkaai", 
       "t": 51.03818373089
@@ -9705,12 +9732,12 @@
     }, 
     {
       "b": 51.044667953223, 
-      "l": 3.740471971623, 
+      "l": 3.740610071448, 
       "name": "Tarbotstraat", 
-      "numOfAddr": 105, 
+      "numOfAddr": 104, 
       "r": 3.742575496663, 
       "sanName": "tarbotstraat", 
-      "t": 51.046249324497
+      "t": 51.046261538455
     }, 
     {
       "b": 51.061010439581, 
@@ -9758,6 +9785,15 @@
       "t": 51.042216150213
     }, 
     {
+      "b": 51.063744661282, 
+      "l": 3.714369080161, 
+      "name": "Ter Luchteplein", 
+      "numOfAddr": 2, 
+      "r": 3.714478513981, 
+      "sanName": "terluchteplein", 
+      "t": 51.063796821161
+    }, 
+    {
       "b": 51.070771719796, 
       "l": 3.727581835269, 
       "name": "Terneuzenlaan", 
@@ -9797,7 +9833,7 @@
       "b": 51.05327732431, 
       "l": 3.71214044926, 
       "name": "Theresianenstraat", 
-      "numOfAddr": 27, 
+      "numOfAddr": 26, 
       "r": 3.714126720832, 
       "sanName": "theresianenstraat", 
       "t": 51.054004875587
@@ -9893,10 +9929,10 @@
       "t": 51.066791966098
     }, 
     {
-      "b": 51.065623597635, 
-      "l": 3.715192545117, 
+      "b": 51.063412142958, 
+      "l": 3.714104833863, 
       "name": "Tondelierlaan", 
-      "numOfAddr": 17, 
+      "numOfAddr": 20, 
       "r": 3.716324161083, 
       "sanName": "tondelierlaan", 
       "t": 51.066239234237
@@ -10133,13 +10169,13 @@
       "t": 51.044037863721
     }, 
     {
-      "b": 51.053668997122, 
-      "l": 3.73387776318, 
+      "b": 51.053824213695, 
+      "l": 3.733840068839, 
       "name": "Veermanplein", 
       "numOfAddr": 2, 
-      "r": 3.733895372112, 
+      "r": 3.734000604091, 
       "sanName": "veermanplein", 
-      "t": 51.053789628162
+      "t": 51.053839370764
     }, 
     {
       "b": 51.081638677004, 
@@ -10154,7 +10190,7 @@
       "b": 51.050540386688, 
       "l": 3.72079612215, 
       "name": "Veldstraat", 
-      "numOfAddr": 86, 
+      "numOfAddr": 87, 
       "r": 3.722419285701, 
       "sanName": "veldstraat", 
       "t": 51.053595557264
@@ -10217,7 +10253,7 @@
       "b": 51.062322478222, 
       "l": 3.706992991975, 
       "name": "Victor Frisstraat", 
-      "numOfAddr": 95, 
+      "numOfAddr": 94, 
       "r": 3.70854485797, 
       "sanName": "victorfrisstraat", 
       "t": 51.063775652327
@@ -10272,9 +10308,9 @@
       "l": 3.693926901784, 
       "name": "Violierstraat", 
       "numOfAddr": 48, 
-      "r": 3.695416489967, 
+      "r": 3.695400351749, 
       "sanName": "violierstraat", 
-      "t": 51.061776966813
+      "t": 51.061768334866
     }, 
     {
       "b": 51.065435854899, 
@@ -10289,10 +10325,10 @@
       "b": 51.042868579473, 
       "l": 3.735253405388, 
       "name": "Visserij", 
-      "numOfAddr": 347, 
+      "numOfAddr": 342, 
       "r": 3.740165007605, 
       "sanName": "visserij", 
-      "t": 51.052217916376
+      "t": 51.052399391661
     }, 
     {
       "b": 51.047093135392, 
@@ -10316,7 +10352,7 @@
       "b": 51.048705749047, 
       "l": 3.728549217305, 
       "name": "Vlaanderenstraat", 
-      "numOfAddr": 175, 
+      "numOfAddr": 176, 
       "r": 3.731513555449, 
       "sanName": "vlaanderenstraat", 
       "t": 51.051285513605
@@ -10379,17 +10415,17 @@
       "b": 51.06465174114, 
       "l": 3.719386766079, 
       "name": "Vogelenzang", 
-      "numOfAddr": 23, 
+      "numOfAddr": 12, 
       "r": 3.722842136843, 
       "sanName": "vogelenzang", 
       "t": 51.065903586485
     }, 
     {
-      "b": 51.06416985349, 
+      "b": 51.064576955383, 
       "l": 3.720462657003, 
       "name": "Vogelenzangpark", 
-      "numOfAddr": 17, 
-      "r": 3.72141948684, 
+      "numOfAddr": 9, 
+      "r": 3.721137242483, 
       "sanName": "vogelenzangpark", 
       "t": 51.064964731551
     }, 
@@ -10406,7 +10442,7 @@
       "b": 51.052090710917, 
       "l": 3.722076236103, 
       "name": "Voldersstraat", 
-      "numOfAddr": 53, 
+      "numOfAddr": 54, 
       "r": 3.725000463572, 
       "sanName": "voldersstraat", 
       "t": 51.052335984198
@@ -10424,7 +10460,7 @@
       "b": 51.074845840473, 
       "l": 3.726737664995, 
       "name": "Voorhavenkaai", 
-      "numOfAddr": 10, 
+      "numOfAddr": 9, 
       "r": 3.727480680085, 
       "sanName": "voorhavenkaai", 
       "t": 51.083152489805
@@ -10433,7 +10469,7 @@
       "b": 51.076589324378, 
       "l": 3.727139930029, 
       "name": "Voorhavenlaan", 
-      "numOfAddr": 80, 
+      "numOfAddr": 78, 
       "r": 3.728676415067, 
       "sanName": "voorhavenlaan", 
       "t": 51.083137204185
@@ -10607,25 +10643,25 @@
       "numOfAddr": 13, 
       "r": 3.718101262242, 
       "sanName": "watergraafstraat", 
-      "t": 51.053773055724
+      "t": 51.053792848273
     }, 
     {
       "b": 51.05065816748, 
-      "l": 3.727393012352, 
+      "l": 3.727401309348, 
       "name": "Watermolenstraat", 
-      "numOfAddr": 28, 
+      "numOfAddr": 21, 
       "r": 3.727628287809, 
       "sanName": "watermolenstraat", 
       "t": 51.050922522722
     }, 
     {
       "b": 51.047997994161, 
-      "l": 3.699731662496, 
+      "l": 3.700204982148, 
       "name": "Watersportlaan", 
       "numOfAddr": 4, 
       "r": 3.703574857672, 
       "sanName": "watersportlaan", 
-      "t": 51.048697374435
+      "t": 51.049467566695
     }, 
     {
       "b": 51.066202416338, 
@@ -10733,7 +10769,7 @@
       "b": 51.069354175831, 
       "l": 3.721688502823, 
       "name": "Wiedauwkaai", 
-      "numOfAddr": 120, 
+      "numOfAddr": 116, 
       "r": 3.72718243525, 
       "sanName": "wiedauwkaai", 
       "t": 51.087329124825
@@ -10850,7 +10886,7 @@
       "b": 51.051931927531, 
       "l": 3.703649847513, 
       "name": "Wintertuinstraat", 
-      "numOfAddr": 50, 
+      "numOfAddr": 49, 
       "r": 3.705384786394, 
       "sanName": "wintertuinstraat", 
       "t": 51.052453622373
@@ -10964,10 +11000,10 @@
       "b": 51.072787990802, 
       "l": 3.731504893382, 
       "name": "Zaamslagstraat", 
-      "numOfAddr": 1, 
-      "r": 3.731504893382, 
+      "numOfAddr": 3, 
+      "r": 3.731985999915, 
       "sanName": "zaamslagstraat", 
-      "t": 51.072787990802
+      "t": 51.072789959096
     }, 
     {
       "b": 51.046515435995, 
@@ -11009,10 +11045,10 @@
       "b": 51.056993543224, 
       "l": 3.743344784818, 
       "name": "Zeemstraat", 
-      "numOfAddr": 44, 
+      "numOfAddr": 45, 
       "r": 3.744557257211, 
       "sanName": "zeemstraat", 
-      "t": 51.05755603891
+      "t": 51.057545000789
     }, 
     {
       "b": 51.089107317679, 
@@ -11102,7 +11138,7 @@
       "b": 51.031753591255, 
       "l": 3.727443007087, 
       "name": "Zomerstraat", 
-      "numOfAddr": 57, 
+      "numOfAddr": 58, 
       "r": 3.728950862559, 
       "sanName": "zomerstraat", 
       "t": 51.032792626918
@@ -11174,7 +11210,7 @@
       "b": 51.048439548674, 
       "l": 3.731688537352, 
       "name": "Zuidstationstraat", 
-      "numOfAddr": 55, 
+      "numOfAddr": 57, 
       "r": 3.733343073575, 
       "sanName": "zuidstationstraat", 
       "t": 51.04928752782
@@ -11246,7 +11282,7 @@
       "b": 51.015489694809, 
       "l": 3.719272632481, 
       "name": "Zwijnaardsesteenweg", 
-      "numOfAddr": 917, 
+      "numOfAddr": 919, 
       "r": 3.726680965665, 
       "sanName": "zwijnaardsesteenweg", 
       "t": 51.037111617645

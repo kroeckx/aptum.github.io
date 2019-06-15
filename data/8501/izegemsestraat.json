@@ -1129,8 +1129,8 @@
         "204A"
       ], 
       "housenumber": "204A", 
-      "lat": 50.841303226901, 
-      "lon": 3.257233837916, 
+      "lat": 50.841303684396, 
+      "lon": 3.257234679064, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2416,11 +2416,11 @@
         "377"
       ], 
       "housenumber": "377", 
-      "lat": 50.86025333069, 
-      "lon": 3.245954674244, 
+      "lat": 50.859418870687, 
+      "lon": 3.248207310368, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Izegemsestraat"
     }, 
     {
@@ -2702,6 +2702,18 @@
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanGebouw", 
+      "street": "Izegemsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "409"
+      ], 
+      "housenumber": "409", 
+      "lat": 50.870156983629, 
+      "lon": 3.241928417857, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Izegemsestraat"
     }, 
     {

@@ -368,12 +368,36 @@
       "street": "Windmolenstraat"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "31"
+      ], 
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 50.934698213992, 
+      "lon": 4.0406977343, 
+      "municipality": "Aalst", 
+      "pcode": "9300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Windmolenstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.934675089638, 
-      "lon": 4.040722222272, 
+      "lat": 50.93461761187, 
+      "lon": 4.040580362476, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -386,42 +410,6 @@
       "housenumber": "4", 
       "lat": 50.934923200074, 
       "lon": 4.041757863756, 
-      "municipality": "Aalst", 
-      "pcode": "9300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Windmolenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.934641792998, 
-      "lon": 4.040644780136, 
-      "municipality": "Aalst", 
-      "pcode": "9300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Windmolenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.934615182012, 
-      "lon": 4.04057938361, 
-      "municipality": "Aalst", 
-      "pcode": "9300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Windmolenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.934596514791, 
-      "lon": 4.040525881604, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 

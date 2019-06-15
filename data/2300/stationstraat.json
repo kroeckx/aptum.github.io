@@ -155,6 +155,10 @@
       "street": "Stationstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -182,7 +186,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "22"

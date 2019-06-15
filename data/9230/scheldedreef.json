@@ -17,6 +17,30 @@
     }, 
     {
       "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22", 
+        "23", 
+        "31", 
+        "41"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.007727639288, 
+      "lon": 3.886850834256, 
+      "municipality": "Wetteren", 
+      "pcode": "9230", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Scheldedreef"
+    }, 
+    {
+      "busnrs": [
         "1", 
         "11", 
         "12", 
@@ -351,6 +375,22 @@
       "street": "Scheldedreef"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "21", 
+        "22", 
+        "23", 
+        "24", 
+        "31", 
+        "32", 
+        "41", 
+        "42"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -464,6 +504,18 @@
     }, 
     {
       "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.00764568668, 
+      "lon": 3.88688003047, 
+      "municipality": "Wetteren", 
+      "pcode": "9230", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Scheldedreef"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -472,6 +524,18 @@
       "municipality": "Wetteren", 
       "pcode": "9230", 
       "source": "afgeleidVanGebouw", 
+      "street": "Scheldedreef"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.007684921512, 
+      "lon": 3.886868228709, 
+      "municipality": "Wetteren", 
+      "pcode": "9230", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Scheldedreef"
     }, 
     {

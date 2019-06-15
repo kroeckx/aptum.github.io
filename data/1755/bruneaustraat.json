@@ -29,8 +29,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.762589843826, 
-      "lon": 4.116740125146, 
+      "lat": 50.762589390083, 
+      "lon": 4.1167381432, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 
@@ -106,6 +106,18 @@
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bruneaustraat"
+    }, 
+    {
+      "hnrlbls": [
+        "108A"
+      ], 
+      "housenumber": "108A", 
+      "lat": 50.762381212102, 
+      "lon": 4.115997103908, 
+      "municipality": "Gooik", 
+      "pcode": "1755", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bruneaustraat"
     }, 
     {
@@ -506,7 +518,7 @@
     }, 
     {
       "hnrlbls": [
-        "28"
+        "28-28A"
       ], 
       "housenumber": "28", 
       "lat": 50.767758638838, 
@@ -518,14 +530,14 @@
     }, 
     {
       "hnrlbls": [
-        "28A"
+        "28-28A"
       ], 
       "housenumber": "28A", 
-      "lat": 50.768185902128, 
-      "lon": 4.119615716415, 
+      "lat": 50.767758638838, 
+      "lon": 4.118736814843, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruneaustraat"
     }, 
     {
@@ -1061,7 +1073,7 @@
     }, 
     {
       "hnrlbls": [
-        "79"
+        "79-81"
       ], 
       "housenumber": "79", 
       "lat": 50.762258081653, 
@@ -1102,6 +1114,18 @@
       "housenumber": "80A", 
       "lat": 50.763770227193, 
       "lon": 4.119193794499, 
+      "municipality": "Gooik", 
+      "pcode": "1755", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bruneaustraat"
+    }, 
+    {
+      "hnrlbls": [
+        "79-81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.762258081653, 
+      "lon": 4.114470519098, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 

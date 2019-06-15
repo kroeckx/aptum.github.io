@@ -425,11 +425,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.005288308872, 
-      "lon": 5.582435376028, 
+      "lat": 51.005259454022, 
+      "lon": 5.582400144692, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zander Le\u00ebnstraat"
     }, 
     {
@@ -439,6 +439,18 @@
       "housenumber": "60", 
       "lat": 51.004473588862, 
       "lon": 5.584013142438, 
+      "municipality": "As", 
+      "pcode": "3665", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zander Le\u00ebnstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70"
+      ], 
+      "housenumber": "70", 
+      "lat": 51.004930013571, 
+      "lon": 5.584562327592, 
       "municipality": "As", 
       "pcode": "3665", 
       "source": "afgeleidVanGebouw", 

@@ -866,9 +866,9 @@
     }, 
     {
       "hnrlbls": [
-        "45B"
+        "45"
       ], 
-      "housenumber": "45B", 
+      "housenumber": "45", 
       "lat": 50.795106091294, 
       "lon": 3.323847520032, 
       "municipality": "Zwevegem", 
@@ -989,11 +989,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.796680415346, 
-      "lon": 3.327322253811, 
+      "lat": 50.796626603762, 
+      "lon": 3.327367419395, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bellegemstraat"
     }, 
     {
@@ -1013,8 +1013,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.796669513377, 
-      "lon": 3.327238657835, 
+      "lat": 50.796605034191, 
+      "lon": 3.327287322142, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1029,7 +1029,7 @@
       "lon": 3.327113692007, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bellegemstraat"
     }, 
     {

@@ -409,12 +409,28 @@
       "street": "Boeveriestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205"
+      ], 
       "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.202454389562, 
-      "lon": 3.215773731639, 
+      "lat": 51.20240073579, 
+      "lon": 3.215719823106, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -427,18 +443,6 @@
       "housenumber": "41", 
       "lat": 51.202849867029, 
       "lon": 3.216385278552, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boeveriestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "42"
-      ], 
-      "housenumber": "42", 
-      "lat": 51.202377309847, 
-      "lon": 3.215695932914, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

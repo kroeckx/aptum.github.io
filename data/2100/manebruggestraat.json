@@ -396,11 +396,14 @@
       "street": "Manebruggestraat"
     }, 
     {
-      "busnrs": [
-        "26"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "24-26"
+        "24"
       ], 
       "housenumber": "24", 
       "lat": 51.200558805113, 
@@ -496,18 +499,6 @@
     }, 
     {
       "hnrlbls": [
-        "24-26"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.200558805113, 
-      "lon": 4.47324585049, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Manebruggestraat"
-    }, 
-    {
-      "hnrlbls": [
         "261"
       ], 
       "housenumber": "261", 
@@ -563,11 +554,14 @@
       "street": "Manebruggestraat"
     }, 
     {
-      "busnrs": [
-        "30"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "28-30"
+        "28"
       ], 
       "housenumber": "28", 
       "lat": 51.200622019855, 
@@ -680,18 +674,6 @@
       "housenumber": "3", 
       "lat": 51.199692087281, 
       "lon": 4.472287487499, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Manebruggestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28-30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.200622019855, 
-      "lon": 4.473418679391, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1331,11 +1313,14 @@
       "street": "Manebruggestraat"
     }, 
     {
-      "busnrs": [
-        "6"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 51.199853966658, 
@@ -1402,6 +1387,10 @@
       "street": "Manebruggestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -1614,18 +1603,6 @@
       "housenumber": "59", 
       "lat": 51.201142058686, 
       "lon": 4.474459703557, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Manebruggestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "4-6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.199853966658, 
-      "lon": 4.472799175515, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

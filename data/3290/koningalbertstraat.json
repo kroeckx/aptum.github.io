@@ -1183,6 +1183,7 @@
         "A001", 
         "B001", 
         "C001", 
+        "D001", 
         "F000", 
         "F001"
       ], 
@@ -1195,8 +1196,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 50.987169321017, 
-      "lon": 5.054877991752, 
+      "lat": 50.987122664782, 
+      "lon": 5.05480111068, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1228,11 +1229,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 50.987237399608, 
-      "lon": 5.054965584006, 
+      "lat": 50.987189347236, 
+      "lon": 5.055158577798, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {
@@ -1402,7 +1403,8 @@
       "apptnrs": [
         "0001", 
         "0002", 
-        "0003"
+        "0003", 
+        "85"
       ], 
       "hnrlbls": [
         "85"

@@ -915,11 +915,23 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.284798114213, 
-      "lon": 4.437245637893, 
+      "lat": 51.284663045221, 
+      "lon": 4.437513318837, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bist"
+    }, 
+    {
+      "hnrlbls": [
+        "40A"
+      ], 
+      "housenumber": "40A", 
+      "lat": 51.284730140026, 
+      "lon": 4.437592966551, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bist"
     }, 
     {
@@ -948,11 +960,47 @@
     }, 
     {
       "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 51.284872539204, 
+      "lon": 4.437240445289, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bist"
+    }, 
+    {
+      "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 51.284929091212, 
+      "lon": 4.437365942783, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bist"
+    }, 
+    {
+      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
       "lat": 51.284870307174, 
       "lon": 4.438435093357, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bist"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 51.284860364365, 
+      "lon": 4.437616953714, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1358,16 +1406,24 @@
       "street": "Bist"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
       "lat": 51.286079081083, 
       "lon": 4.439408576314, 
+      "municipality": "Antwerpen", 
+      "pcode": "2180", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bist"
+    }, 
+    {
+      "hnrlbls": [
+        "81_1"
+      ], 
+      "housenumber": "81_1", 
+      "lat": 51.286128745266, 
+      "lon": 4.439475445772, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 

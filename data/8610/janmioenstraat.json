@@ -53,8 +53,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.018385070268, 
-      "lon": 3.028787181873, 
+      "lat": 51.018384490271, 
+      "lon": 3.02876781342, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanPerceelKadaster", 
@@ -149,8 +149,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.0193968629, 
-      "lon": 3.027823608929, 
+      "lat": 51.019396692883, 
+      "lon": 3.027824469036, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -158,7 +158,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.017284440477, 
@@ -185,8 +185,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.019483683536, 
-      "lon": 3.027813284355, 
+      "lat": 51.019490866837, 
+      "lon": 3.027915137732, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -290,14 +290,38 @@
     }, 
     {
       "hnrlbls": [
-        "2-2A"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.017284440477, 
-      "lon": 3.028604430124, 
+      "lat": 51.016756708153, 
+      "lon": 3.028273598943, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Jan Mioenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 51.016915460153, 
+      "lon": 3.028342889051, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Jan Mioenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 51.01706211402, 
+      "lon": 3.028384019101, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "afgeleidVanGebouw", 
       "street": "Jan Mioenstraat"
     }, 
     {
@@ -317,8 +341,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.01991683414, 
-      "lon": 3.027638532092, 
+      "lat": 51.019916221866, 
+      "lon": 3.027632135239, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 

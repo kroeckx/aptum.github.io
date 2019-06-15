@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-3"
       ], 
       "housenumber": "1", 
       "lat": 50.96109290537, 
@@ -242,14 +242,14 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "1-3"
       ], 
       "housenumber": "3", 
-      "lat": 50.961090287535, 
-      "lon": 5.484178121168, 
+      "lat": 50.96109290537, 
+      "lon": 5.484110706833, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dominikanenlaan"
     }, 
     {
@@ -341,7 +341,7 @@
     }, 
     {
       "hnrlbls": [
-        "39"
+        "39-41"
       ], 
       "housenumber": "39", 
       "lat": 50.959912247842, 
@@ -377,14 +377,14 @@
     }, 
     {
       "hnrlbls": [
-        "41"
+        "39-41"
       ], 
       "housenumber": "41", 
-      "lat": 50.95991054903, 
-      "lon": 5.481860020498, 
+      "lat": 50.959912247842, 
+      "lon": 5.481794578863, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dominikanenlaan"
     }, 
     {
@@ -401,7 +401,7 @@
     }, 
     {
       "hnrlbls": [
-        "43"
+        "43-45"
       ], 
       "housenumber": "43", 
       "lat": 50.95984910032, 
@@ -425,14 +425,14 @@
     }, 
     {
       "hnrlbls": [
-        "45"
+        "43-45"
       ], 
       "housenumber": "45", 
-      "lat": 50.959808333428, 
-      "lon": 5.481650897672, 
+      "lat": 50.95984910032, 
+      "lon": 5.481665531631, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dominikanenlaan"
     }, 
     {
@@ -464,8 +464,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.960158782693, 
-      "lon": 5.481061196075, 
+      "lat": 50.960158236664, 
+      "lon": 5.481061894878, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -485,7 +485,7 @@
     }, 
     {
       "hnrlbls": [
-        "5"
+        "5-7"
       ], 
       "housenumber": "5", 
       "lat": 50.9610301321, 
@@ -584,11 +584,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.959440276084, 
-      "lon": 5.48089111448, 
+      "lat": 50.959482577806, 
+      "lon": 5.480905072333, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dominikanenlaan"
     }, 
     {
@@ -644,11 +644,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.959302729112, 
-      "lon": 5.480444286726, 
+      "lat": 50.959303631663, 
+      "lon": 5.480377403515, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dominikanenlaan"
     }, 
     {
@@ -668,11 +668,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.959199872373, 
-      "lon": 5.480236150999, 
+      "lat": 50.959240207542, 
+      "lon": 5.480248922743, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dominikanenlaan"
     }, 
     {
@@ -701,14 +701,14 @@
     }, 
     {
       "hnrlbls": [
-        "7"
+        "5-7"
       ], 
       "housenumber": "7", 
-      "lat": 50.960988387617, 
-      "lon": 5.483964582422, 
+      "lat": 50.9610301321, 
+      "lon": 5.483980380878, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dominikanenlaan"
     }, 
     {

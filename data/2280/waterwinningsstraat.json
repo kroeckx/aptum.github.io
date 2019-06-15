@@ -101,8 +101,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.192613556537, 
-      "lon": 4.719720537214, 
+      "lat": 51.192610601013, 
+      "lon": 4.719716938748, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
       "source": "afgeleidVanGebouw", 
@@ -170,14 +170,26 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.191394045449, 
+      "lon": 4.719518951705, 
+      "municipality": "Grobbendonk", 
+      "pcode": "2280", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Waterwinningsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "27A"
       ], 
       "housenumber": "27A", 
-      "lat": 51.191338569282, 
-      "lon": 4.719433851944, 
+      "lat": 51.191320953145, 
+      "lon": 4.719493797615, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Waterwinningsstraat"
     }, 
     {
@@ -377,8 +389,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.189661242385, 
-      "lon": 4.717452008842, 
+      "lat": 51.189675749652, 
+      "lon": 4.717439959194, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
       "source": "afgeleidVanGebouw", 

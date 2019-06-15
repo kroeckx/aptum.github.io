@@ -1187,8 +1187,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "251"
@@ -1959,8 +1961,10 @@
       "street": "Rietschoorvelden"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "327"
@@ -2149,6 +2153,10 @@
       "street": "Rietschoorvelden"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "43"
       ], 

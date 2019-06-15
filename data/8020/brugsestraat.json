@@ -73,7 +73,7 @@
       "lon": 3.235026817427, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsestraat"
     }, 
     {
@@ -221,13 +221,11 @@
       "apptnrs": [
         "0-01", 
         "0-02", 
+        "1", 
         "1-01", 
         "2-01", 
+        "201", 
         "3-01"
-      ], 
-      "busnrs": [
-        "1", 
-        "201"
       ], 
       "hnrlbls": [
         "111"
@@ -507,8 +505,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.161889444775, 
-      "lon": 3.23506998453, 
+      "lat": 51.161889627269, 
+      "lon": 3.235070266038, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -1032,20 +1030,18 @@
     {
       "apptnrs": [
         "1-01", 
-        "2-01"
-      ], 
-      "busnrs": [
+        "2-01", 
         "A"
       ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.156373589638, 
-      "lon": 3.235099335308, 
+      "lat": 51.156344965139, 
+      "lon": 3.235357771568, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsestraat"
     }, 
     {
@@ -1243,8 +1239,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.154609288577, 
-      "lon": 3.235953079314, 
+      "lat": 51.154610196927, 
+      "lon": 3.235954057914, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -1369,11 +1365,11 @@
         "25-25A"
       ], 
       "housenumber": "25", 
-      "lat": 51.156643294584, 
-      "lon": 3.235119665818, 
+      "lat": 51.15662486438, 
+      "lon": 3.235381858915, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsestraat"
     }, 
     {
@@ -1381,11 +1377,11 @@
         "25-25A"
       ], 
       "housenumber": "25A", 
-      "lat": 51.156643294584, 
-      "lon": 3.235119665818, 
+      "lat": 51.15662486438, 
+      "lon": 3.235381858915, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsestraat"
     }, 
     {
@@ -1644,7 +1640,7 @@
       "lon": 3.235817260654, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsestraat"
     }, 
     {
@@ -1715,23 +1711,21 @@
     {
       "apptnrs": [
         "01-2", 
+        "1", 
         "1-01", 
         "1-02", 
         "1-03", 
+        "2", 
         "2-01", 
         "2-02", 
         "2-03", 
+        "3", 
         "3-01", 
         "3-02", 
         "3-03", 
         "4-01", 
         "4-02", 
         "4-03"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
       ], 
       "hnrlbls": [
         "46"
@@ -1749,8 +1743,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.157635647537, 
-      "lon": 3.235417950368, 
+      "lat": 51.157611089279, 
+      "lon": 3.235453713171, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -1778,11 +1772,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.15766693813, 
-      "lon": 3.235484237458, 
+      "lat": 51.157651379295, 
+      "lon": 3.235492906305, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsestraat"
     }, 
     {
@@ -1794,7 +1788,7 @@
       "lon": 3.235541809004, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsestraat"
     }, 
     {
@@ -1830,11 +1824,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.157531370198, 
-      "lon": 3.23600874064, 
+      "lat": 51.157557501961, 
+      "lon": 3.235958930425, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsestraat"
     }, 
     {
@@ -1972,12 +1966,10 @@
     {
       "apptnrs": [
         "1-01", 
-        "2-01", 
-        "3-01"
-      ], 
-      "busnrs": [
         "2", 
-        "3"
+        "2-01", 
+        "3", 
+        "3-01"
       ], 
       "hnrlbls": [
         "62"

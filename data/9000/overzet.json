@@ -332,46 +332,16 @@
       "street": "Overzet"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "3-3C"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.052077275047, 
-      "lon": 3.699559027694, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Overzet"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3C"
-      ], 
-      "housenumber": "3A", 
-      "lat": 51.052077275047, 
-      "lon": 3.699559027694, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Overzet"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3C"
-      ], 
-      "housenumber": "3B", 
-      "lat": 51.052077275047, 
-      "lon": 3.699559027694, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Overzet"
-    }, 
-    {
-      "hnrlbls": [
-        "3-3C"
-      ], 
-      "housenumber": "3C", 
       "lat": 51.052077275047, 
       "lon": 3.699559027694, 
       "municipality": "Gent", 

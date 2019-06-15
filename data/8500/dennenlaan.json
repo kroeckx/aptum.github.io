@@ -98,18 +98,6 @@
     }, 
     {
       "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 50.827160242813, 
-      "lon": 3.290292889553, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -118,66 +106,6 @@
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 50.826801030641, 
-      "lon": 3.290229722395, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19A"
-      ], 
-      "housenumber": "19A", 
-      "lat": 50.827029668976, 
-      "lon": 3.290260111067, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19B"
-      ], 
-      "housenumber": "19B", 
-      "lat": 50.82698918498, 
-      "lon": 3.290257206337, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19C"
-      ], 
-      "housenumber": "19C", 
-      "lat": 50.826964179668, 
-      "lon": 3.290255934122, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "19D"
-      ], 
-      "housenumber": "19D", 
-      "lat": 50.826928443978, 
-      "lon": 3.290251217185, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Dennenlaan"
     }, 
     {
@@ -217,15 +145,35 @@
       "street": "Dennenlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0016", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0026"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.826763007362, 
-      "lon": 3.289770965856, 
+      "lat": 50.826563353127, 
+      "lon": 3.289392569474, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dennenlaan"
     }, 
     {
@@ -235,18 +183,6 @@
       "housenumber": "23", 
       "lat": 50.826484442051, 
       "lon": 3.290294609281, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.826693610773, 
-      "lon": 3.289742748062, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -266,35 +202,11 @@
     }, 
     {
       "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.82664790292, 
-      "lon": 3.289738828002, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
       "lat": 50.826379037768, 
       "lon": 3.290271190675, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "28"
-      ], 
-      "housenumber": "28", 
-      "lat": 50.82657635896, 
-      "lon": 3.28975083073, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -338,35 +250,11 @@
     }, 
     {
       "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.826488541308, 
-      "lon": 3.28974319201, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 50.82626740915, 
       "lon": 3.290245501741, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dennenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 50.82640726576, 
-      "lon": 3.289733274098, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 

@@ -29,11 +29,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.970869994474, 
-      "lon": 5.694970415013, 
+      "lat": 50.970843567942, 
+      "lon": 5.695065496838, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -44,11 +44,11 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 50.970843651411, 
-      "lon": 5.694898758105, 
+      "lat": 50.97091326956, 
+      "lon": 5.694896029665, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Leopoldstraat"
     }, 
     {
@@ -106,6 +106,18 @@
       "housenumber": "22", 
       "lat": 50.971228362835, 
       "lon": 5.695296814417, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leopoldstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 50.971614867294, 
+      "lon": 5.693216411519, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -416,11 +428,11 @@
     }, 
     {
       "apptnrs": [
-        "0.3", 
         "1L", 
         "1R", 
         "2L", 
         "2R", 
+        "3L", 
         "3R"
       ], 
       "hnrlbls": [
@@ -618,12 +630,8 @@
         "3L", 
         "3R"
       ], 
-      "busnrs": [
-        "1", 
-        "L3"
-      ], 
       "hnrlbls": [
-        "8-8R"
+        "8"
       ], 
       "housenumber": "8", 
       "lat": 50.970411915193, 
@@ -652,21 +660,6 @@
       "housenumber": "82", 
       "lat": 50.974234823497, 
       "lon": 5.688396399957, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leopoldstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "8-8R"
-      ], 
-      "housenumber": "8R", 
-      "lat": 50.970411915193, 
-      "lon": 5.696977261938, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 

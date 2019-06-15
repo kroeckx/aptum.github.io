@@ -57,6 +57,10 @@
       "street": "Sint-Martensstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -117,6 +121,10 @@
       "street": "Sint-Martensstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -304,18 +312,6 @@
     }, 
     {
       "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.748440856042, 
-      "lon": 3.598756877907, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Martensstraat"
-    }, 
-    {
-      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -364,7 +360,7 @@
     }, 
     {
       "hnrlbls": [
-        "4-6"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 50.747646490708, 
@@ -472,18 +468,6 @@
     }, 
     {
       "hnrlbls": [
-        "4-6"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.747646490708, 
-      "lon": 3.599127932743, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sint-Martensstraat"
-    }, 
-    {
-      "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
@@ -531,9 +515,6 @@
       "street": "Sint-Martensstraat"
     }, 
     {
-      "busnrs": [
-        "0102"
-      ], 
       "hnrlbls": [
         "9"
       ], 

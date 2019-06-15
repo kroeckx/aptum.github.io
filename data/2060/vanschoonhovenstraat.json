@@ -90,21 +90,26 @@
     }, 
     {
       "busnrs": [
-        "2", 
         "23"
       ], 
       "hnrlbls": [
         "21-23"
       ], 
       "housenumber": "21", 
-      "lat": 51.219837534454, 
-      "lon": 4.420982476894, 
+      "lat": 51.219813974287, 
+      "lon": 4.421206447822, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
       "street": "Van Schoonhovenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -121,8 +126,8 @@
         "21-23"
       ], 
       "housenumber": "23", 
-      "lat": 51.219837534454, 
-      "lon": 4.420982476894, 
+      "lat": 51.219813974287, 
+      "lon": 4.421206447822, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -652,10 +657,6 @@
       "street": "Van Schoonhovenstraat"
     }, 
     {
-      "apptnrs": [
-        "0.2", 
-        "0.3"
-      ], 
       "busnrs": [
         "A1", 
         "A2", 
@@ -915,19 +916,21 @@
       "street": "Van Schoonhovenstraat"
     }, 
     {
-      "busnrs": [
-        "18", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.221107989374, 
-      "lon": 4.421502205193, 
+      "lat": 51.221117901555, 
+      "lon": 4.421446967022, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Schoonhovenstraat"
     }, 
     {

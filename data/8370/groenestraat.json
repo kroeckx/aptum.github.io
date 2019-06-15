@@ -156,6 +156,18 @@
     }, 
     {
       "hnrlbls": [
+        "17B"
+      ], 
+      "housenumber": "17B", 
+      "lat": 51.314318507362, 
+      "lon": 3.138514665467, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Groenestraat"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -550,11 +562,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.314323845178, 
-      "lon": 3.139791856032, 
+      "lat": 51.314332899561, 
+      "lon": 3.139789465416, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groenestraat"
     }, 
     {

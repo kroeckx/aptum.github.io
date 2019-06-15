@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.250600052376, 
-      "lon": 5.479118852916, 
+      "lat": 51.250600213292, 
+      "lon": 5.479120862114, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanPerceelGrb", 
@@ -29,11 +29,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.242351443416, 
-      "lon": 5.481893616344, 
+      "lat": 51.242354814186, 
+      "lon": 5.481783851169, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Thomas Watsonlaan"
     }, 
     {
@@ -125,8 +125,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.250240649793, 
-      "lon": 5.480411465604, 
+      "lat": 51.25024931425, 
+      "lon": 5.480436452798, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -403,8 +403,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.248573050162, 
-      "lon": 5.480841177176, 
+      "lat": 51.248573462186, 
+      "lon": 5.480835600895, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -487,8 +487,8 @@
         "36-38"
       ], 
       "housenumber": "36", 
-      "lat": 51.248791780649, 
-      "lon": 5.479968946067, 
+      "lat": 51.248792239435, 
+      "lon": 5.479967954373, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -511,8 +511,8 @@
         "36-38"
       ], 
       "housenumber": "38", 
-      "lat": 51.248791780649, 
-      "lon": 5.479968946067, 
+      "lat": 51.248792239435, 
+      "lon": 5.479967954373, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -547,8 +547,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.248655110909, 
-      "lon": 5.480173230977, 
+      "lat": 51.248653881601, 
+      "lon": 5.480151000352, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -571,8 +571,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.248466960148, 
-      "lon": 5.48025024028, 
+      "lat": 51.248468041314, 
+      "lon": 5.480249979619, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -599,8 +599,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.24817004303, 
-      "lon": 5.48028855809, 
+      "lat": 51.248172734844, 
+      "lon": 5.480298648625, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -649,6 +649,10 @@
       "street": "Thomas Watsonlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -884,8 +888,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.250461233353, 
-      "lon": 5.480192991263, 
+      "lat": 51.250458470443, 
+      "lon": 5.480142648203, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 

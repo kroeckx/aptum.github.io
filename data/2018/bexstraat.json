@@ -129,11 +129,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.210124595351, 
-      "lon": 4.413347099931, 
+      "lat": 51.210170700683, 
+      "lon": 4.413594850622, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bexstraat"
     }, 
     {
@@ -264,22 +264,6 @@
     {
       "busnrs": [
         "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "2A-21"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.210310391285, 
-      "lon": 4.413567654847, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bexstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
         "2", 
         "3", 
         "4", 
@@ -304,17 +288,18 @@
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 51.210200646565, 
-      "lon": 4.413557387663, 
+      "lat": 51.210080111375, 
+      "lon": 4.413324303896, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bexstraat"
     }, 
     {

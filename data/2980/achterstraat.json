@@ -24,9 +24,7 @@
     }, 
     {
       "apptnrs": [
-        "b1", 
         "b2", 
-        "b4", 
         "b6"
       ], 
       "hnrlbls": [
@@ -43,7 +41,6 @@
     {
       "apptnrs": [
         "b1", 
-        "b2", 
         "b3"
       ], 
       "hnrlbls": [
@@ -364,8 +361,7 @@
     {
       "apptnrs": [
         "b1", 
-        "b2", 
-        "b3"
+        "b2"
       ], 
       "hnrlbls": [
         "135"
@@ -404,7 +400,6 @@
     }, 
     {
       "apptnrs": [
-        "b1", 
         "b2", 
         "b3"
       ], 
@@ -436,11 +431,11 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.261572847478, 
-      "lon": 4.633151350402, 
+      "lat": 51.261668810895, 
+      "lon": 4.633004912771, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Achterstraat"
     }, 
     {
@@ -827,14 +822,14 @@
         "b3"
       ], 
       "hnrlbls": [
-        "193-195"
+        "193"
       ], 
       "housenumber": "193", 
-      "lat": 51.260940336448, 
-      "lon": 4.631704869573, 
+      "lat": 51.260970354339, 
+      "lon": 4.631827237507, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Achterstraat"
     }, 
     {
@@ -847,14 +842,14 @@
         "b6"
       ], 
       "hnrlbls": [
-        "193-195"
+        "195"
       ], 
       "housenumber": "195", 
-      "lat": 51.260940336448, 
-      "lon": 4.631704869573, 
+      "lat": 51.260876795188, 
+      "lon": 4.631661819537, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Achterstraat"
     }, 
     {
@@ -882,6 +877,24 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Achterstraat"
+    }, 
+    {
+      "apptnrs": [
+        "A", 
+        "B", 
+        "D", 
+        "F"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.265746382883, 
+      "lon": 4.64280610072, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Achterstraat"
     }, 
     {
@@ -944,6 +957,18 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Achterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.265418214599, 
+      "lon": 4.643156897285, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Achterstraat"
     }, 
     {
@@ -1061,6 +1086,18 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Achterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "253"
+      ], 
+      "housenumber": "253", 
+      "lat": 51.259453316149, 
+      "lon": 4.62967788865, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Achterstraat"
     }, 
     {
@@ -1356,18 +1393,6 @@
     }, 
     {
       "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 51.265625761957, 
-      "lon": 4.639611731193, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Achterstraat"
-    }, 
-    {
-      "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
@@ -1562,18 +1587,6 @@
     }, 
     {
       "hnrlbls": [
-        "85"
-      ], 
-      "housenumber": "85", 
-      "lat": 51.265081910228, 
-      "lon": 4.637514533841, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Achterstraat"
-    }, 
-    {
-      "hnrlbls": [
         "85A"
       ], 
       "housenumber": "85A", 
@@ -1723,8 +1736,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.264579220773, 
-      "lon": 4.636435254052, 
+      "lat": 51.264578601347, 
+      "lon": 4.636430952445, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "manueleAanduidingVanGebouw", 

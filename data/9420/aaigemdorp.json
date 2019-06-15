@@ -13,6 +13,21 @@
       "street": "Aaigemdorp"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.88916288631, 
+      "lon": 3.937868084859, 
+      "municipality": "Erpe-Mere", 
+      "pcode": "9420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Aaigemdorp"
+    }, 
+    {
       "hnrlbls": [
         "101"
       ], 
@@ -346,7 +361,8 @@
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "42"
@@ -677,7 +693,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "9"

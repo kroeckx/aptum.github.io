@@ -2,12 +2,12 @@
   "streets": [
     {
       "b": 50.883351517878, 
-      "l": 4.995441139214, 
+      "l": 4.99508024634, 
       "name": "Beekstraat", 
-      "numOfAddr": 2, 
+      "numOfAddr": 3, 
       "r": 4.99597855371, 
       "sanName": "beekstraat", 
-      "t": 50.883705800543
+      "t": 50.883849227465
     }, 
     {
       "b": 50.897654692608, 
@@ -23,6 +23,9 @@
       "l": 4.97562570834, 
       "name": "Doddelbergstraat", 
       "numOfAddr": 36, 
+      "otherPCs": [
+        "3470"
+      ], 
       "r": 4.991721028589, 
       "sanName": "doddelbergstraat", 
       "t": 50.894219776289
@@ -64,7 +67,7 @@
       "b": 50.879316223326, 
       "l": 4.982161817541, 
       "name": "Heerbaan", 
-      "numOfAddr": 114, 
+      "numOfAddr": 116, 
       "r": 5.034318865934, 
       "sanName": "heerbaan", 
       "t": 50.899084273213
@@ -185,7 +188,7 @@
       "b": 50.893733753424, 
       "l": 5.010188172967, 
       "name": "Miskom-Dorp", 
-      "numOfAddr": 56, 
+      "numOfAddr": 57, 
       "r": 5.014908970114, 
       "sanName": "miskomdorp", 
       "t": 50.902204496309
@@ -341,7 +344,7 @@
       "b": 50.899829472044, 
       "l": 5.002919781847, 
       "name": "Wittebos", 
-      "numOfAddr": 26, 
+      "numOfAddr": 28, 
       "otherPCs": [
         "3473"
       ], 

@@ -270,8 +270,10 @@
       "street": "Jan Samynlaan"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "3"
@@ -285,6 +287,11 @@
       "street": "Jan Samynlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -449,8 +456,13 @@
       "street": "Jan Samynlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "45"

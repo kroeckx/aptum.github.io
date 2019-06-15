@@ -85,11 +85,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.035540905919, 
-      "lon": 3.735430494068, 
+      "lat": 51.035486532286, 
+      "lon": 3.735231914433, 
       "municipality": "Gent", 
       "pcode": "9050", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gaston Crommenlaan"
     }, 
     {
@@ -114,11 +114,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.035415224548, 
-      "lon": 3.735512174693, 
+      "lat": 51.035337832635, 
+      "lon": 3.735345985002, 
       "municipality": "Gent", 
       "pcode": "9050", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gaston Crommenlaan"
     }, 
     {
@@ -138,8 +138,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.035291062765, 
-      "lon": 3.735592266073, 
+      "lat": 51.03536422163, 
+      "lon": 3.735572886092, 
       "municipality": "Gent", 
       "pcode": "9050", 
       "source": "manueleAanduidingVanGebouw", 
@@ -229,6 +229,7 @@
         "0606", 
         "0701", 
         "0702", 
+        "0703", 
         "0801", 
         "0802", 
         "0803", 

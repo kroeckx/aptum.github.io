@@ -5,8 +5,8 @@
         "1-5"
       ], 
       "housenumber": "1", 
-      "lat": 51.069988897627, 
-      "lon": 3.709672672449, 
+      "lat": 51.069966730289, 
+      "lon": 3.709759589134, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -280,8 +280,8 @@
         "1-5"
       ], 
       "housenumber": "3", 
-      "lat": 51.069988897627, 
-      "lon": 3.709672672449, 
+      "lat": 51.069966730289, 
+      "lon": 3.709759589134, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -330,18 +330,6 @@
       "housenumber": "33", 
       "lat": 51.070244805004, 
       "lon": 3.708801449119, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Lavendelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "34"
-      ], 
-      "housenumber": "34", 
-      "lat": 51.070421180837, 
-      "lon": 3.708850898294, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -652,8 +640,8 @@
         "1-5"
       ], 
       "housenumber": "5", 
-      "lat": 51.069988897627, 
-      "lon": 3.709672672449, 
+      "lat": 51.069966730289, 
+      "lon": 3.709759589134, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -857,19 +845,19 @@
     }, 
     {
       "hnrlbls": [
-        "66-66A"
+        "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.070861024452, 
-      "lon": 3.707422186831, 
+      "lat": 51.071114477652, 
+      "lon": 3.70779942076, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lavendelstraat"
     }, 
     {
       "hnrlbls": [
-        "66-66A"
+        "66A"
       ], 
       "housenumber": "66A", 
       "lat": 51.070861024452, 
@@ -908,8 +896,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.070015147015, 
-      "lon": 3.709576281556, 
+      "lat": 51.069998905622, 
+      "lon": 3.709645851052, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1033,6 +1021,18 @@
       "housenumber": "79", 
       "lat": 51.070792778527, 
       "lon": 3.707050329949, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lavendelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.070025632905, 
+      "lon": 3.709474120049, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

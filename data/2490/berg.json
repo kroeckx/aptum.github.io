@@ -29,11 +29,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.170122545283, 
-      "lon": 5.152644712634, 
+      "lat": 51.169772936009, 
+      "lon": 5.152648416227, 
       "municipality": "Balen", 
       "pcode": "2490", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Berg"
     }, 
     {
@@ -495,6 +495,10 @@
       "street": "Berg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -1005,30 +1009,6 @@
       "housenumber": "84", 
       "lat": 51.169681473957, 
       "lon": 5.154897871951, 
-      "municipality": "Balen", 
-      "pcode": "2490", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Berg"
-    }, 
-    {
-      "hnrlbls": [
-        "85"
-      ], 
-      "housenumber": "85", 
-      "lat": 51.169658728221, 
-      "lon": 5.15470946498, 
-      "municipality": "Balen", 
-      "pcode": "2490", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berg"
-    }, 
-    {
-      "hnrlbls": [
-        "86"
-      ], 
-      "housenumber": "86", 
-      "lat": 51.16969647355, 
-      "lon": 5.154616303707, 
       "municipality": "Balen", 
       "pcode": "2490", 
       "source": "manueleAanduidingVanGebouw", 

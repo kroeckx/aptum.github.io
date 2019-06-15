@@ -545,11 +545,23 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.824564760981, 
-      "lon": 4.11841395049, 
+      "lat": 50.824564760679, 
+      "lon": 4.118413808564, 
       "municipality": "Lennik", 
       "pcode": "1750", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lombeeksestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 50.824596810622, 
+      "lon": 4.118267027407, 
+      "municipality": "Lennik", 
+      "pcode": "1750", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lombeeksestraat"
     }
   ]

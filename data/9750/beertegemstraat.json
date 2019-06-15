@@ -458,18 +458,6 @@
     }, 
     {
       "hnrlbls": [
-        "38B"
-      ], 
-      "housenumber": "38B", 
-      "lat": 50.911628181066, 
-      "lon": 3.604994414391, 
-      "municipality": "Kruisem", 
-      "pcode": "9750", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Beertegemstraat"
-    }, 
-    {
-      "hnrlbls": [
         "38C"
       ], 
       "housenumber": "38C", 
@@ -487,18 +475,6 @@
       "housenumber": "38D", 
       "lat": 50.911843769989, 
       "lon": 3.604664423338, 
-      "municipality": "Kruisem", 
-      "pcode": "9750", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Beertegemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "38E"
-      ], 
-      "housenumber": "38E", 
-      "lat": 50.911808810728, 
-      "lon": 3.605094998074, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
       "source": "manueleAanduidingVanLot", 
@@ -1005,7 +981,7 @@
       "lon": 3.607657541654, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beertegemstraat"
     }, 
     {
@@ -1101,7 +1077,7 @@
       "lon": 3.608370818879, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Beertegemstraat"
     }, 
     {

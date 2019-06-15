@@ -608,8 +608,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.038285260986, 
-      "lon": 4.326023959935, 
+      "lat": 51.038284090993, 
+      "lon": 4.326019968901, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -984,11 +984,23 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.035768443975, 
-      "lon": 4.325055910193, 
+      "lat": 51.035917600649, 
+      "lon": 4.325136181109, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Veurtstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 51.035737793602, 
+      "lon": 4.325061641016, 
+      "municipality": "Puurs-Sint-Amands", 
+      "pcode": "2870", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Veurtstraat"
     }, 
     {
@@ -1056,8 +1068,8 @@
         "66B"
       ], 
       "housenumber": "66B", 
-      "lat": 51.037925475228, 
-      "lon": 4.324171542103, 
+      "lat": 51.038073192728, 
+      "lon": 4.324247965754, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 

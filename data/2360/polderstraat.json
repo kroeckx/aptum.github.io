@@ -310,12 +310,16 @@
       "street": "Polderstraat"
     }, 
     {
+      "busnrs": [
+        "3Ab1", 
+        "3Ab2"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.336862931972, 
-      "lon": 4.974694715967, 
+      "lat": 51.33686329001, 
+      "lon": 4.974695007626, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 

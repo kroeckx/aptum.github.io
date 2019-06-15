@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.156941470186, 
-      "lon": 3.730041456012, 
+      "lat": 51.156941457345, 
+      "lon": 3.730022444898, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kluisstraat"
     }, 
     {
@@ -245,11 +245,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.159163004182, 
-      "lon": 3.728348460743, 
+      "lat": 51.159155438602, 
+      "lon": 3.728329123361, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kluisstraat"
     }, 
     {
@@ -269,11 +269,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.159115405968, 
-      "lon": 3.727626793046, 
+      "lat": 51.159122122406, 
+      "lon": 3.727638708613, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kluisstraat"
     }, 
     {
@@ -350,6 +350,18 @@
       "housenumber": "38C", 
       "lat": 51.159633662478, 
       "lon": 3.727684726571, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kluisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38D"
+      ], 
+      "housenumber": "38D", 
+      "lat": 51.159650742504, 
+      "lon": 3.727684921158, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 

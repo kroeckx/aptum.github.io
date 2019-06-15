@@ -179,14 +179,14 @@
     }, 
     {
       "hnrlbls": [
-        "26-28"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.154954086739, 
-      "lon": 4.374821945123, 
+      "lat": 51.154986620133, 
+      "lon": 4.374915283618, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Terbekehofdreef"
     }, 
     {
@@ -199,6 +199,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Terbekehofdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.155126579442, 
+      "lon": 4.374800387495, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
       "street": "Terbekehofdreef"
     }, 
     {

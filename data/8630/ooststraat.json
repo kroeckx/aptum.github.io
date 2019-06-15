@@ -665,42 +665,6 @@
       "street": "Ooststraat"
     }, 
     {
-      "hnrlbls": [
-        "55"
-      ], 
-      "housenumber": "55", 
-      "lat": 51.072886508649, 
-      "lon": 2.66678071862, 
-      "municipality": "Veurne", 
-      "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ooststraat"
-    }, 
-    {
-      "hnrlbls": [
-        "55A-55B"
-      ], 
-      "housenumber": "55A", 
-      "lat": 51.072949364805, 
-      "lon": 2.666999216301, 
-      "municipality": "Veurne", 
-      "pcode": "8630", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ooststraat"
-    }, 
-    {
-      "hnrlbls": [
-        "55A-55B"
-      ], 
-      "housenumber": "55B", 
-      "lat": 51.072949364805, 
-      "lon": 2.666999216301, 
-      "municipality": "Veurne", 
-      "pcode": "8630", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Ooststraat"
-    }, 
-    {
       "busnrs": [
         "0101", 
         "0102", 
@@ -726,11 +690,23 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.072925848789, 
-      "lon": 2.667282366774, 
+      "lat": 51.072936037292, 
+      "lon": 2.666767356892, 
       "municipality": "Veurne", 
       "pcode": "8630", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ooststraat"
+    }, 
+    {
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 51.072937740978, 
+      "lon": 2.66680440148, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ooststraat"
     }, 
     {
@@ -758,6 +734,18 @@
       "street": "Ooststraat"
     }, 
     {
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 51.072948375984, 
+      "lon": 2.666961860264, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ooststraat"
+    }, 
+    {
       "busnrs": [
         "101", 
         "102", 
@@ -772,6 +760,18 @@
       "municipality": "Veurne", 
       "pcode": "8630", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Ooststraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.072950072695, 
+      "lon": 2.666992197394, 
+      "municipality": "Veurne", 
+      "pcode": "8630", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Ooststraat"
     }, 
     {

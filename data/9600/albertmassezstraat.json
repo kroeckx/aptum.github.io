@@ -2,23 +2,23 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.748652778077, 
-      "lon": 3.607148749911, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Albert Massezstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
       "lat": 50.749045544569, 
       "lon": 3.607505882387, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert Massezstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.748784402374, 
+      "lon": 3.607813915637, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "afgeleidVanGebouw", 
@@ -38,14 +38,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-15"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.749336349977, 
-      "lon": 3.609954140158, 
+      "lat": 50.748801294265, 
+      "lon": 3.608089260584, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert Massezstraat"
     }, 
     {
@@ -62,14 +62,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-15"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.749336349977, 
-      "lon": 3.609954140158, 
+      "lat": 50.748809178467, 
+      "lon": 3.608195837785, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert Massezstraat"
     }, 
     {
@@ -86,11 +86,35 @@
     }, 
     {
       "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.748826237506, 
+      "lon": 3.608427818342, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert Massezstraat"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 50.749041495543, 
       "lon": 3.608114293407, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert Massezstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 50.748832005355, 
+      "lon": 3.608540806535, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "afgeleidVanGebouw", 
@@ -115,6 +139,18 @@
       "housenumber": "20", 
       "lat": 50.749049414155, 
       "lon": 3.608198480984, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albert Massezstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.748826570521, 
+      "lon": 3.60865921847, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "afgeleidVanGebouw", 
@@ -173,11 +209,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.748707520817, 
-      "lon": 3.607244367026, 
+      "lat": 50.748713064689, 
+      "lon": 3.607239742911, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert Massezstraat"
     }, 
     {
@@ -209,11 +245,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.748736001876, 
-      "lon": 3.607407576879, 
+      "lat": 50.748740361889, 
+      "lon": 3.607345297752, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert Massezstraat"
     }, 
     {
@@ -230,14 +266,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-15"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.749336349977, 
-      "lon": 3.609954140158, 
+      "lat": 50.748769200739, 
+      "lon": 3.607591258073, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert Massezstraat"
     }, 
     {
@@ -254,14 +290,14 @@
     }, 
     {
       "hnrlbls": [
-        "7-15"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.749336349977, 
-      "lon": 3.609954140158, 
+      "lat": 50.74877649573, 
+      "lon": 3.607703937978, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albert Massezstraat"
     }
   ]

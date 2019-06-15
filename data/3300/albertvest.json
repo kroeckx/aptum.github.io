@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.812707307222, 
-      "lon": 4.934284373811, 
+      "lat": 50.812713074106, 
+      "lon": 4.934281605327, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -112,8 +112,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.81172266164, 
-      "lon": 4.929479273458, 
+      "lat": 50.811729697115, 
+      "lon": 4.929474391206, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -627,8 +627,67 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.812191973202, 
-      "lon": 4.931493799035, 
+      "lat": 50.81219764808, 
+      "lon": 4.931491454818, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albertvest"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "86"
+      ], 
+      "housenumber": "86", 
+      "lat": 50.812125255011, 
+      "lon": 4.931234754568, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albertvest"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.812026843869, 
+      "lon": 4.930798533222, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -636,26 +695,38 @@
     }, 
     {
       "hnrlbls": [
-        "86-88"
+        "88A"
       ], 
-      "housenumber": "86", 
-      "lat": 50.811701644672, 
-      "lon": 4.931105528019, 
+      "housenumber": "88A", 
+      "lat": 50.811994573047, 
+      "lon": 4.930517057829, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albertvest"
     }, 
     {
       "hnrlbls": [
-        "86-88"
+        "88B"
       ], 
-      "housenumber": "88", 
-      "lat": 50.811701644672, 
-      "lon": 4.931105528019, 
+      "housenumber": "88B", 
+      "lat": 50.811974422576, 
+      "lon": 4.930444877358, 
       "municipality": "Tienen", 
       "pcode": "3300", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Albertvest"
+    }, 
+    {
+      "hnrlbls": [
+        "88C"
+      ], 
+      "housenumber": "88C", 
+      "lat": 50.811953663911, 
+      "lon": 4.93036829101, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "afgeleidVanGebouw", 
       "street": "Albertvest"
     }, 
     {

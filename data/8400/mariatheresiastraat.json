@@ -83,8 +83,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.224058059175, 
-      "lon": 2.906176741403, 
+      "lat": 51.224058062334, 
+      "lon": 2.906169725961, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -135,8 +135,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.224054165774, 
-      "lon": 2.90586188893, 
+      "lat": 51.224052136016, 
+      "lon": 2.905864959168, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -230,8 +230,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.224159881344, 
-      "lon": 2.905686768459, 
+      "lat": 51.224162875255, 
+      "lon": 2.905688965273, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +257,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.22433766674, 
-      "lon": 2.905523703282, 
+      "lat": 51.224337152326, 
+      "lon": 2.905525723817, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -274,11 +274,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.224038806312, 
-      "lon": 2.905346957869, 
+      "lat": 51.224054438424, 
+      "lon": 2.905447831956, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maria Theresiastraat"
     }, 
     {
@@ -290,8 +290,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.22437308216, 
-      "lon": 2.905479640841, 
+      "lat": 51.224374720576, 
+      "lon": 2.905474005759, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -322,9 +322,6 @@
       "street": "Maria Theresiastraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "30A"
       ], 
@@ -388,7 +385,7 @@
     }, 
     {
       "hnrlbls": [
-        "33"
+        "33-35"
       ], 
       "housenumber": "33", 
       "lat": 51.224457336184, 
@@ -417,11 +414,11 @@
     }, 
     {
       "hnrlbls": [
-        "35"
+        "33-35"
       ], 
       "housenumber": "35", 
-      "lat": 51.22448021357, 
-      "lon": 2.905419011133, 
+      "lat": 51.224457336184, 
+      "lon": 2.905415576929, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -432,8 +429,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.224385566408, 
-      "lon": 2.905035418131, 
+      "lat": 51.224382139092, 
+      "lon": 2.905034523491, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -462,8 +459,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.224386957237, 
-      "lon": 2.904958921, 
+      "lat": 51.224384643281, 
+      "lon": 2.904953553112, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -486,8 +483,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.223525370193, 
-      "lon": 2.905993009257, 
+      "lat": 51.223523183706, 
+      "lon": 2.905997945563, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -511,6 +508,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0201", 
         "0301"
@@ -523,7 +521,7 @@
       "lon": 2.905286114553, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Maria Theresiastraat"
     }, 
     {
@@ -636,8 +634,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.223743880852, 
-      "lon": 2.906215227239, 
+      "lat": 51.223746108047, 
+      "lon": 2.906213582538, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -786,8 +784,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.224957522724, 
-      "lon": 2.904759756765, 
+      "lat": 51.224958160177, 
+      "lon": 2.904753150794, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

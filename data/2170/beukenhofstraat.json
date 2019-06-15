@@ -52,6 +52,11 @@
       "street": "Beukenhofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -602,6 +607,11 @@
       "street": "Beukenhofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -779,8 +789,10 @@
       "street": "Beukenhofstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "7"

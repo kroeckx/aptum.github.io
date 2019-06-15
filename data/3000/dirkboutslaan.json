@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "1-7"
       ], 
       "housenumber": "1", 
       "lat": 50.879995771771, 
@@ -28,8 +28,8 @@
         "8-10"
       ], 
       "housenumber": "10", 
-      "lat": 50.880263722302, 
-      "lon": 4.699846120518, 
+      "lat": 50.880262725843, 
+      "lon": 4.699848813308, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -40,8 +40,8 @@
         "9-11"
       ], 
       "housenumber": "11", 
-      "lat": 50.880098058446, 
-      "lon": 4.699555217249, 
+      "lat": 50.880061520361, 
+      "lon": 4.699442277589, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -52,8 +52,8 @@
         "12-12A"
       ], 
       "housenumber": "12", 
-      "lat": 50.880354861472, 
-      "lon": 4.699787652106, 
+      "lat": 50.880345468853, 
+      "lon": 4.699771244683, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -74,8 +74,8 @@
         "12-12A"
       ], 
       "housenumber": "12A", 
-      "lat": 50.880354861472, 
-      "lon": 4.699787652106, 
+      "lat": 50.880345468853, 
+      "lon": 4.699771244683, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -91,8 +91,8 @@
         "13-15"
       ], 
       "housenumber": "13", 
-      "lat": 50.880131451409, 
-      "lon": 4.699476731819, 
+      "lat": 50.880127646578, 
+      "lon": 4.699455248509, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -108,8 +108,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.880399326328, 
-      "lon": 4.699703987006, 
+      "lat": 50.88037718811, 
+      "lon": 4.699680668968, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -120,8 +120,8 @@
         "13-15"
       ], 
       "housenumber": "15", 
-      "lat": 50.880131451409, 
-      "lon": 4.699476731819, 
+      "lat": 50.880127646578, 
+      "lon": 4.699455248509, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.880390383244, 
-      "lon": 4.699592093842, 
+      "lat": 50.880389660886, 
+      "lon": 4.699593225517, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -159,8 +159,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.880159726414, 
-      "lon": 4.699396078739, 
+      "lat": 50.880170752812, 
+      "lon": 4.699406955805, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -184,8 +184,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.880410093578, 
-      "lon": 4.699520189946, 
+      "lat": 50.880420497131, 
+      "lon": 4.699528789158, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -203,8 +203,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.880190116294, 
-      "lon": 4.699330502651, 
+      "lat": 50.880189934903, 
+      "lon": 4.699331069756, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -215,11 +215,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.88016221542, 
-      "lon": 4.700074035887, 
+      "lat": 50.880160688841, 
+      "lon": 4.700073456713, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dirk Boutslaan"
     }, 
     {
@@ -239,8 +239,20 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.880446948224, 
-      "lon": 4.699457359035, 
+      "lat": 50.880446681352, 
+      "lon": 4.699456362475, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Dirk Boutslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "21-21A"
+      ], 
+      "housenumber": "21", 
+      "lat": 50.880202946779, 
+      "lon": 4.699243630363, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -261,11 +273,11 @@
         "0204"
       ], 
       "hnrlbls": [
-        "21A"
+        "21-21A"
       ], 
       "housenumber": "21A", 
-      "lat": 50.880212475076, 
-      "lon": 4.699243839636, 
+      "lat": 50.880202946779, 
+      "lon": 4.699243630363, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -287,8 +299,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.880507696854, 
-      "lon": 4.699432778547, 
+      "lat": 50.880492263679, 
+      "lon": 4.699422580795, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -319,8 +331,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.880499937422, 
-      "lon": 4.699347323554, 
+      "lat": 50.880503169572, 
+      "lon": 4.699348767318, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -351,8 +363,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.880525619534, 
-      "lon": 4.699293507816, 
+      "lat": 50.880524017894, 
+      "lon": 4.699287670545, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -398,8 +410,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.880575781963, 
-      "lon": 4.699261321283, 
+      "lat": 50.880578663362, 
+      "lon": 4.699259636433, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -435,14 +447,14 @@
         "0302"
       ], 
       "hnrlbls": [
-        "3-3A"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.880021798624, 
-      "lon": 4.699724483196, 
+      "lat": 50.880020456246, 
+      "lon": 4.699722342286, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dirk Boutslaan"
     }, 
     {
@@ -450,8 +462,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.880613101472, 
-      "lon": 4.699161121643, 
+      "lat": 50.880613474273, 
+      "lon": 4.699156435061, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -496,8 +508,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.880632398412, 
-      "lon": 4.699044453656, 
+      "lat": 50.880637691301, 
+      "lon": 4.699048327579, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -517,8 +529,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.880673533227, 
-      "lon": 4.69899387261, 
+      "lat": 50.880667988284, 
+      "lon": 4.698983744628, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -562,8 +574,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.880738782348, 
-      "lon": 4.698807758083, 
+      "lat": 50.880743628181, 
+      "lon": 4.698810776254, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -571,14 +583,14 @@
     }, 
     {
       "hnrlbls": [
-        "3-3A"
+        "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 50.880021798624, 
-      "lon": 4.699724483196, 
+      "lat": 50.88002144427, 
+      "lon": 4.699722633453, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dirk Boutslaan"
     }, 
     {
@@ -593,8 +605,8 @@
         "4-6"
       ], 
       "housenumber": "4", 
-      "lat": 50.880196180516, 
-      "lon": 4.700015874489, 
+      "lat": 50.880221495326, 
+      "lon": 4.699964898789, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -605,11 +617,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.880768012889, 
-      "lon": 4.698738762301, 
+      "lat": 50.880793222262, 
+      "lon": 4.69872501418, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Dirk Boutslaan"
     }, 
     {
@@ -617,8 +629,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.880800631768, 
-      "lon": 4.698743396959, 
+      "lat": 50.880805433123, 
+      "lon": 4.698698385742, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -695,8 +707,8 @@
         "5-7"
       ], 
       "housenumber": "5", 
-      "lat": 50.880052710815, 
-      "lon": 4.699633191899, 
+      "lat": 50.880052882172, 
+      "lon": 4.699636177116, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -813,8 +825,8 @@
         "4-6"
       ], 
       "housenumber": "6", 
-      "lat": 50.880196180516, 
-      "lon": 4.700015874489, 
+      "lat": 50.880221495326, 
+      "lon": 4.699964898789, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -852,8 +864,8 @@
         "5-7"
       ], 
       "housenumber": "7", 
-      "lat": 50.880052710815, 
-      "lon": 4.699633191899, 
+      "lat": 50.880052882172, 
+      "lon": 4.699636177116, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -864,8 +876,8 @@
         "8-10"
       ], 
       "housenumber": "8", 
-      "lat": 50.880263722302, 
-      "lon": 4.699846120518, 
+      "lat": 50.880262725843, 
+      "lon": 4.699848813308, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -888,8 +900,8 @@
         "9-11"
       ], 
       "housenumber": "9", 
-      "lat": 50.880098058446, 
-      "lon": 4.699555217249, 
+      "lat": 50.880061520361, 
+      "lon": 4.699442277589, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

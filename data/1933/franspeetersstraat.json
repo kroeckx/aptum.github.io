@@ -14,6 +14,18 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.858439939301, 
+      "lon": 4.514494269291, 
+      "municipality": "Zaventem", 
+      "pcode": "1933", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Frans Peetersstraat"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -22,18 +34,6 @@
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Frans Peetersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 50.858323432176, 
-      "lon": 4.514352729709, 
-      "municipality": "Zaventem", 
-      "pcode": "1933", 
-      "source": "afgeleidVanGebouw", 
       "street": "Frans Peetersstraat"
     }, 
     {
@@ -265,13 +265,21 @@
       "street": "Frans Peetersstraat"
     }, 
     {
-      "apptnrs": [
-        "0.0", 
-        "1.0"
+      "hnrlbls": [
+        "5"
       ], 
-      "busnrs": [
-        "1", 
-        "2"
+      "housenumber": "5", 
+      "lat": 50.858548439601, 
+      "lon": 4.514280426989, 
+      "municipality": "Zaventem", 
+      "pcode": "1933", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Frans Peetersstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "6"
@@ -282,6 +290,18 @@
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanGebouw", 
+      "street": "Frans Peetersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.858510318017, 
+      "lon": 4.514357430296, 
+      "municipality": "Zaventem", 
+      "pcode": "1933", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Peetersstraat"
     }, 
     {
@@ -361,26 +381,23 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.857216856315, 
-      "lon": 4.516900203515, 
+      "lat": 50.857169661792, 
+      "lon": 4.516829041422, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Peetersstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.85717841506, 
-      "lon": 4.516944393665, 
+      "lat": 50.857136331587, 
+      "lon": 4.516883473581, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Peetersstraat"
     }, 
     {
@@ -393,6 +410,18 @@
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanGebouw", 
+      "street": "Frans Peetersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.858472208255, 
+      "lon": 4.51442491756, 
+      "municipality": "Zaventem", 
+      "pcode": "1933", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Peetersstraat"
     }
   ]

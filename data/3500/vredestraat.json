@@ -125,8 +125,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.926056621893, 
-      "lon": 5.322528572198, 
+      "lat": 50.926059538917, 
+      "lon": 5.322512557822, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -238,7 +238,8 @@
         "0.01"
       ], 
       "hnrlbls": [
-        "2-6"
+        "2-6", 
+        "2A"
       ], 
       "housenumber": "2A", 
       "lat": 50.929393751955, 
@@ -576,15 +577,14 @@
         "5.02"
       ], 
       "hnrlbls": [
-        "2-6", 
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.929393751955, 
-      "lon": 5.325067145716, 
+      "lat": 50.929487216328, 
+      "lon": 5.324607432388, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanBrievenbus", 
       "street": "Vredestraat"
     }, 
     {

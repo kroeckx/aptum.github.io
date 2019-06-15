@@ -600,7 +600,7 @@
     }, 
     {
       "hnrlbls": [
-        "20D-20G"
+        "20D"
       ], 
       "housenumber": "20D", 
       "lat": 51.202354698634, 
@@ -612,26 +612,26 @@
     }, 
     {
       "hnrlbls": [
-        "20D-20G"
+        "20F-20G"
       ], 
       "housenumber": "20F", 
-      "lat": 51.202354698634, 
-      "lon": 4.767298066026, 
+      "lat": 51.202483529785, 
+      "lon": 4.7672375019, 
       "municipality": "Vorselaar", 
       "pcode": "2290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Kempenlaan"
     }, 
     {
       "hnrlbls": [
-        "20D-20G"
+        "20F-20G"
       ], 
       "housenumber": "20G", 
-      "lat": 51.202354698634, 
-      "lon": 4.767298066026, 
+      "lat": 51.202483529785, 
+      "lon": 4.7672375019, 
       "municipality": "Vorselaar", 
       "pcode": "2290", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Kempenlaan"
     }, 
     {
@@ -1767,6 +1767,18 @@
       "municipality": "Vorselaar", 
       "pcode": "2290", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kempenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 51.200711322667, 
+      "lon": 4.75958482055, 
+      "municipality": "Vorselaar", 
+      "pcode": "2290", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kempenlaan"
     }, 
     {

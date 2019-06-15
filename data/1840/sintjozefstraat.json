@@ -214,8 +214,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.032281859982, 
-      "lon": 4.297738359524, 
+      "lat": 51.032281590312, 
+      "lon": 4.297738359929, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 
@@ -315,8 +315,8 @@
         "120A"
       ], 
       "housenumber": "120A", 
-      "lat": 51.032601716849, 
-      "lon": 4.297785350647, 
+      "lat": 51.032601896203, 
+      "lon": 4.297784637592, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
       "source": "afgeleidVanGebouw", 
@@ -585,11 +585,23 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.028215241295, 
-      "lon": 4.295241397087, 
+      "lat": 51.028207606542, 
+      "lon": 4.295250959397, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint Jozefstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22_1"
+      ], 
+      "housenumber": "22_1", 
+      "lat": 51.028256641225, 
+      "lon": 4.295323010399, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint Jozefstraat"
     }, 
     {
@@ -1527,14 +1539,50 @@
     }, 
     {
       "hnrlbls": [
-        "94"
+        "94_1"
       ], 
-      "housenumber": "94", 
-      "lat": 51.031330957217, 
-      "lon": 4.297063229641, 
+      "housenumber": "94_1", 
+      "lat": 51.031231816777, 
+      "lon": 4.297226318083, 
       "municipality": "Londerzeel", 
       "pcode": "1840", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint Jozefstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "94_2"
+      ], 
+      "housenumber": "94_2", 
+      "lat": 51.031302303148, 
+      "lon": 4.297247166772, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint Jozefstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "94_3"
+      ], 
+      "housenumber": "94_3", 
+      "lat": 51.031363992889, 
+      "lon": 4.297288984177, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint Jozefstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 51.031469651411, 
+      "lon": 4.297351690673, 
+      "municipality": "Londerzeel", 
+      "pcode": "1840", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sint Jozefstraat"
     }, 
     {

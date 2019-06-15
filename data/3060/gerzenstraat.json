@@ -17,11 +17,23 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.865506374926, 
-      "lon": 4.63515316749, 
+      "lat": 50.865410834947, 
+      "lon": 4.635263424061, 
       "municipality": "Bertem", 
       "pcode": "3060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Gerzenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "11A"
+      ], 
+      "housenumber": "11A", 
+      "lat": 50.865514666841, 
+      "lon": 4.635183187409, 
+      "municipality": "Bertem", 
+      "pcode": "3060", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gerzenstraat"
     }, 
     {
@@ -77,8 +89,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.865837280281, 
-      "lon": 4.634955181107, 
+      "lat": 50.865853542117, 
+      "lon": 4.634998741429, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 

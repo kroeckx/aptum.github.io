@@ -55,15 +55,21 @@
       "street": "Vennestraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU21", 
+        "BU31"
+      ], 
       "hnrlbls": [
-        "103-107"
+        "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.980281296871, 
-      "lon": 5.492427885753, 
+      "lat": 50.98030093974, 
+      "lon": 5.492376233314, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vennestraat"
     }, 
     {
@@ -80,21 +86,6 @@
     }, 
     {
       "busnrs": [
-        "BU01"
-      ], 
-      "hnrlbls": [
-        "103-107"
-      ], 
-      "housenumber": "105", 
-      "lat": 50.980281296871, 
-      "lon": 5.492427885753, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Vennestraat"
-    }, 
-    {
-      "busnrs": [
         "BU11", 
         "BU21"
       ], 
@@ -107,18 +98,6 @@
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Vennestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "103-107"
-      ], 
-      "housenumber": "107", 
-      "lat": 50.980281296871, 
-      "lon": 5.492427885753, 
-      "municipality": "Genk", 
-      "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Vennestraat"
     }, 
     {
@@ -541,8 +520,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 50.97763516229, 
-      "lon": 5.489778455217, 
+      "lat": 50.977635231803, 
+      "lon": 5.489780592973, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1096,11 +1075,11 @@
     }, 
     {
       "hnrlbls": [
-        "197-199"
+        "197"
       ], 
       "housenumber": "197", 
-      "lat": 50.97803726232, 
-      "lon": 5.490695640746, 
+      "lat": 50.978063910865, 
+      "lon": 5.49070112087, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1120,14 +1099,14 @@
     }, 
     {
       "busnrs": [
-        "11"
+        "BU11"
       ], 
       "hnrlbls": [
-        "197-199"
+        "199"
       ], 
       "housenumber": "199", 
-      "lat": 50.97803726232, 
-      "lon": 5.490695640746, 
+      "lat": 50.978010525252, 
+      "lon": 5.4906900161, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1407,6 +1386,18 @@
       "housenumber": "222", 
       "lat": 50.970948446572, 
       "lon": 5.485036052081, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Vennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "224C"
+      ], 
+      "housenumber": "224C", 
+      "lat": 50.97040871574, 
+      "lon": 5.48446376498, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -1810,8 +1801,8 @@
         "265"
       ], 
       "housenumber": "265", 
-      "lat": 50.97518386226, 
-      "lon": 5.490234424031, 
+      "lat": 50.975184882201, 
+      "lon": 5.490231173276, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 

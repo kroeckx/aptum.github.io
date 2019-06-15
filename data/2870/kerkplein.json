@@ -85,8 +85,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.076738407135, 
-      "lon": 4.274752376449, 
+      "lat": 51.076714223942, 
+      "lon": 4.274748429324, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -121,8 +121,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.076404454897, 
-      "lon": 4.273268345437, 
+      "lat": 51.076417395182, 
+      "lon": 4.273263753108, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -253,6 +253,18 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.076984469022, 
+      "lon": 4.276171818755, 
+      "municipality": "Puurs-Sint-Amands", 
+      "pcode": "2870", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkplein"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -359,11 +371,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.07695307005, 
-      "lon": 4.27533284905, 
+      "lat": 51.076787014636, 
+      "lon": 4.275407806111, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkplein"
     }, 
     {
@@ -487,8 +499,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.076767896367, 
-      "lon": 4.275100913813, 
+      "lat": 51.07693479504, 
+      "lon": 4.275069617877, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 

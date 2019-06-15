@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.792253568283, 
+      "lon": 3.194090498493, 
+      "municipality": "Menen", 
+      "pcode": "8930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albrecht Rodenbachlaan"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -94,18 +110,6 @@
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Albrecht Rodenbachlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1_0101"
-      ], 
-      "housenumber": "1_0101", 
-      "lat": 50.792302639191, 
-      "lon": 3.194070692385, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Albrecht Rodenbachlaan"
     }, 
     {

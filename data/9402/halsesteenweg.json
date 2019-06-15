@@ -371,8 +371,8 @@
         "165-165A"
       ], 
       "housenumber": "165", 
-      "lat": 50.812732753111, 
-      "lon": 4.051423046081, 
+      "lat": 50.812796444286, 
+      "lon": 4.051472705362, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -383,8 +383,8 @@
         "165-165A"
       ], 
       "housenumber": "165A", 
-      "lat": 50.812732753111, 
-      "lon": 4.051423046081, 
+      "lat": 50.812796444286, 
+      "lon": 4.051472705362, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -554,8 +554,8 @@
         "195"
       ], 
       "housenumber": "195", 
-      "lat": 50.8108641865, 
-      "lon": 4.052633570371, 
+      "lat": 50.810912444699, 
+      "lon": 4.052493914142, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -705,11 +705,11 @@
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 50.81357754169, 
-      "lon": 4.051367129018, 
+      "lat": 50.813608989109, 
+      "lon": 4.051228002334, 
       "municipality": "Ninove", 
       "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Halsesteenweg"
     }, 
     {
@@ -717,8 +717,8 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 50.813552824742, 
-      "lon": 4.051501953386, 
+      "lat": 50.813519254849, 
+      "lon": 4.051254857196, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -840,8 +840,8 @@
         "233"
       ], 
       "housenumber": "233", 
-      "lat": 50.808801226835, 
-      "lon": 4.054305272486, 
+      "lat": 50.808856578551, 
+      "lon": 4.054463951269, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -866,18 +866,6 @@
       "housenumber": "241", 
       "lat": 50.808473371759, 
       "lon": 4.054674358713, 
-      "municipality": "Ninove", 
-      "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Halsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "241A"
-      ], 
-      "housenumber": "241A", 
-      "lat": 50.80850992798, 
-      "lon": 4.054628855689, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1089,11 +1077,11 @@
     }, 
     {
       "hnrlbls": [
-        "31"
+        "31-33"
       ], 
       "housenumber": "31", 
-      "lat": 50.826067317703, 
-      "lon": 4.03691875231, 
+      "lat": 50.826362954344, 
+      "lon": 4.037257310692, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1104,8 +1092,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.826557438526, 
-      "lon": 4.038132100883, 
+      "lat": 50.826534984433, 
+      "lon": 4.038011472687, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1178,11 +1166,11 @@
     }, 
     {
       "hnrlbls": [
-        "33"
+        "31-33"
       ], 
       "housenumber": "33", 
-      "lat": 50.826239013549, 
-      "lon": 4.037330426399, 
+      "lat": 50.826362954344, 
+      "lon": 4.037257310692, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1195,6 +1183,18 @@
       "housenumber": "35", 
       "lat": 50.826027216848, 
       "lon": 4.037585265107, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Halsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "357"
+      ], 
+      "housenumber": "357", 
+      "lat": 50.803647336649, 
+      "lon": 4.056525066207, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1268,23 +1268,11 @@
     }, 
     {
       "hnrlbls": [
-        "4-42A"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.825357982207, 
-      "lon": 4.039520220139, 
-      "municipality": "Ninove", 
-      "pcode": "9402", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Halsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "4-42A"
-      ], 
-      "housenumber": "42A", 
-      "lat": 50.825357982207, 
-      "lon": 4.039520220139, 
+      "lat": 50.825393501366, 
+      "lon": 4.03945965158, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1297,6 +1285,18 @@
       "housenumber": "44", 
       "lat": 50.824868949301, 
       "lon": 4.040549781858, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Halsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "441"
+      ], 
+      "housenumber": "441", 
+      "lat": 50.798337857737, 
+      "lon": 4.06517184818, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1415,8 +1415,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.823933269055, 
-      "lon": 4.040150673227, 
+      "lat": 50.82409568934, 
+      "lon": 4.040174661774, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1463,8 +1463,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.823224067764, 
-      "lon": 4.040501770196, 
+      "lat": 50.823378113694, 
+      "lon": 4.040713867642, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1559,8 +1559,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.819377270948, 
-      "lon": 4.044634506488, 
+      "lat": 50.81946441614, 
+      "lon": 4.044777664596, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1595,8 +1595,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.827828245779, 
-      "lon": 4.035407063696, 
+      "lat": 50.827890881845, 
+      "lon": 4.03552613241, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 

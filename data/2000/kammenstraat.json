@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-10"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.218498002094, 
-      "lon": 4.400556955031, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kammenstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -32,14 +20,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "11-12"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.218306213454, 
-      "lon": 4.400470517084, 
+      "lat": 51.218324756773, 
+      "lon": 4.400371058163, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kammenstraat"
     }, 
     {
@@ -77,11 +65,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.218264258421, 
-      "lon": 4.400394631821, 
+      "lat": 51.218274424501, 
+      "lon": 4.400361004553, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kammenstraat"
     }, 
     {
@@ -279,18 +267,6 @@
       "street": "Kammenstraat"
     }, 
     {
-      "hnrlbls": [
-        "3-3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.21587877408, 
-      "lon": 4.402181229624, 
-      "municipality": "Antwerpen", 
-      "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kammenstraat"
-    }, 
-    {
       "apptnrs": [
         "101", 
         "201", 
@@ -368,20 +344,15 @@
       "street": "Kammenstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "201", 
-        "301"
-      ], 
       "hnrlbls": [
-        "36_38"
+        "36"
       ], 
-      "housenumber": "36_38", 
-      "lat": 51.217172822491, 
-      "lon": 4.400630025252, 
+      "housenumber": "36", 
+      "lat": 51.217130104845, 
+      "lon": 4.400385401215, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kammenstraat"
     }, 
     {
@@ -434,7 +405,7 @@
     }, 
     {
       "hnrlbls": [
-        "2A-42"
+        "42"
       ], 
       "housenumber": "42", 
       "lat": 51.217015138493, 

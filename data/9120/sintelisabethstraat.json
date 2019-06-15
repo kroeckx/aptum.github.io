@@ -1,6 +1,26 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.221380059709, 
+      "lon": 4.28349028189, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Sint-Elisabethstraat"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 
@@ -10,6 +30,18 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Elisabethstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.221369703888, 
+      "lon": 4.283589206497, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Elisabethstraat"
     }, 
     {
@@ -27,6 +59,18 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Elisabethstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 51.221363637582, 
+      "lon": 4.28365334166, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Elisabethstraat"
     }, 
     {
@@ -170,6 +214,30 @@
       "street": "Sint-Elisabethstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.221061295469, 
+      "lon": 4.284197080158, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Sint-Elisabethstraat"
+    }, 
+    {
       "hnrlbls": [
         "28"
       ], 
@@ -188,6 +256,18 @@
       "housenumber": "29", 
       "lat": 51.220998018593, 
       "lon": 4.284199054694, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Sint-Elisabethstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.220883846687, 
+      "lon": 4.284298594222, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -224,6 +304,18 @@
       "housenumber": "31", 
       "lat": 51.220767808008, 
       "lon": 4.284300663389, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Sint-Elisabethstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.220686675902, 
+      "lon": 4.284220511941, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -685,6 +777,18 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Sint-Elisabethstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.221371034875, 
+      "lon": 4.283439342434, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sint-Elisabethstraat"
     }, 
     {

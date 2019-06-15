@@ -263,8 +263,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.921500133855, 
-      "lon": 5.606814629439, 
+      "lat": 50.921503511829, 
+      "lon": 5.606818274593, 
       "municipality": "Zutendaal", 
       "pcode": "3690", 
       "source": "afgeleidVanGebouw", 
@@ -275,8 +275,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 50.921250722816, 
-      "lon": 5.606909604226, 
+      "lat": 50.921251560133, 
+      "lon": 5.606915458116, 
       "municipality": "Zutendaal", 
       "pcode": "3690", 
       "source": "afgeleidVanGebouw", 
@@ -299,8 +299,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.92059189836, 
-      "lon": 5.607454616217, 
+      "lat": 50.920595980356, 
+      "lon": 5.607459702307, 
       "municipality": "Zutendaal", 
       "pcode": "3690", 
       "source": "afgeleidVanGebouw", 
@@ -352,6 +352,18 @@
       "municipality": "Zutendaal", 
       "pcode": "3690", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Trichterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "136"
+      ], 
+      "housenumber": "136", 
+      "lat": 50.920199760833, 
+      "lon": 5.607928714137, 
+      "municipality": "Zutendaal", 
+      "pcode": "3690", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Trichterweg"
     }, 
     {
@@ -616,6 +628,18 @@
       "municipality": "Zutendaal", 
       "pcode": "3690", 
       "source": "afgeleidVanGebouw", 
+      "street": "Trichterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "42H"
+      ], 
+      "housenumber": "42H", 
+      "lat": 50.928877148341, 
+      "lon": 5.596334646685, 
+      "municipality": "Zutendaal", 
+      "pcode": "3690", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Trichterweg"
     }, 
     {
@@ -1152,11 +1176,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.925961577974, 
-      "lon": 5.601982577619, 
+      "lat": 50.925967285774, 
+      "lon": 5.601995530466, 
       "municipality": "Zutendaal", 
       "pcode": "3690", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Trichterweg"
     }, 
     {
@@ -1176,11 +1200,11 @@
         "77B"
       ], 
       "housenumber": "77B", 
-      "lat": 50.925978147394, 
-      "lon": 5.602082732582, 
+      "lat": 50.925994917724, 
+      "lon": 5.60208672994, 
       "municipality": "Zutendaal", 
       "pcode": "3690", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Trichterweg"
     }, 
     {

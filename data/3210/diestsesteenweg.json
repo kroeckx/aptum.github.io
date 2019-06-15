@@ -114,8 +114,8 @@
         "106A"
       ], 
       "housenumber": "106A", 
-      "lat": 50.890397366002, 
-      "lon": 4.782530746129, 
+      "lat": 50.890409420141, 
+      "lon": 4.782528436339, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -769,8 +769,8 @@
         "177"
       ], 
       "housenumber": "177", 
-      "lat": 50.890505417998, 
-      "lon": 4.777587778128, 
+      "lat": 50.890516504539, 
+      "lon": 4.777579347124, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -1031,8 +1031,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.888796003525, 
-      "lon": 4.75516353999, 
+      "lat": 50.888804171118, 
+      "lon": 4.75516744462, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -1358,8 +1358,8 @@
         "263"
       ], 
       "housenumber": "263", 
-      "lat": 50.891460764238, 
-      "lon": 4.790692903802, 
+      "lat": 50.891452506918, 
+      "lon": 4.790689276218, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -1394,8 +1394,8 @@
         "269"
       ], 
       "housenumber": "269", 
-      "lat": 50.891570789119, 
-      "lon": 4.791019374667, 
+      "lat": 50.891577071353, 
+      "lon": 4.791022273873, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -1599,8 +1599,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.889729207079, 
-      "lon": 4.773927813695, 
+      "lat": 50.889740360158, 
+      "lon": 4.773926062447, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -1669,6 +1669,30 @@
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
+      "street": "Diestsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "41A"
+      ], 
+      "housenumber": "41A", 
+      "lat": 50.889661958345, 
+      "lon": 4.767085888032, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Diestsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "41B"
+      ], 
+      "housenumber": "41B", 
+      "lat": 50.889671990695, 
+      "lon": 4.767281537708, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -1746,7 +1770,7 @@
       "lon": 4.775712302614, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -1778,8 +1802,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.88988157216, 
-      "lon": 4.775849537387, 
+      "lat": 50.889881572654, 
+      "lon": 4.775849395266, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -2003,11 +2027,23 @@
     }, 
     {
       "hnrlbls": [
+        "69"
+      ], 
+      "housenumber": "69", 
+      "lat": 50.889802850087, 
+      "lon": 4.769793158938, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Diestsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.890095562734, 
-      "lon": 4.778134945187, 
+      "lat": 50.890100334987, 
+      "lon": 4.778132712829, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -2286,11 +2322,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.890147484829, 
-      "lon": 4.780404027861, 
+      "lat": 50.890245254107, 
+      "lon": 4.780465716715, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diestsesteenweg"
     }, 
     {
@@ -2310,8 +2346,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 50.890212384292, 
-      "lon": 4.78073802784, 
+      "lat": 50.890211035404, 
+      "lon": 4.780738158114, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 

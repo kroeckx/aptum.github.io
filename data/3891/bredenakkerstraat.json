@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1B"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 50.76151764187, 
@@ -134,7 +134,7 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
+        "1A-1B"
       ], 
       "housenumber": "1A", 
       "lat": 50.761662243666, 
@@ -146,14 +146,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-1B"
+        "1A-1B"
       ], 
       "housenumber": "1B", 
-      "lat": 50.76151764187, 
-      "lon": 5.216805684867, 
+      "lat": 50.761662243666, 
+      "lon": 5.216676467054, 
       "municipality": "Gingelom", 
       "pcode": "3891", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bredenakkerstraat"
     }, 
     {

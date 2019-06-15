@@ -157,6 +157,10 @@
       "street": "Marcel Habetslaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11"
+      ], 
       "hnrlbls": [
         "26"
       ], 
@@ -290,11 +294,35 @@
     }, 
     {
       "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 51.015134979058, 
+      "lon": 5.494974022482, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Marcel Habetslaan"
+    }, 
+    {
+      "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
       "lat": 51.012700029654, 
       "lon": 5.493036402973, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Marcel Habetslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "60"
+      ], 
+      "housenumber": "60", 
+      "lat": 51.012533184584, 
+      "lon": 5.492423725098, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 

@@ -133,6 +133,24 @@
       "street": "Regentiestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 51.168637103601, 
+      "lon": 4.143756209294, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Regentiestraat"
+    }, 
+    {
       "hnrlbls": [
         "19"
       ], 
@@ -1063,6 +1081,22 @@
       "housenumber": "76", 
       "lat": 51.168096685663, 
       "lon": 4.147659069561, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Regentiestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "78A"
+      ], 
+      "housenumber": "78A", 
+      "lat": 51.168263811206, 
+      "lon": 4.147818266215, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "manueleAanduidingVanGebouw", 

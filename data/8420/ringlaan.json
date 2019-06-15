@@ -145,12 +145,45 @@
       "street": "Ringlaan"
     }, 
     {
+      "apptnrs": [
+        "201"
+      ], 
       "hnrlbls": [
         "128A"
       ], 
       "housenumber": "128A", 
       "lat": 51.29658588203, 
       "lon": 3.079047239307, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ringlaan"
+    }, 
+    {
+      "apptnrs": [
+        "001"
+      ], 
+      "hnrlbls": [
+        "128G"
+      ], 
+      "housenumber": "128G", 
+      "lat": 51.296294783117, 
+      "lon": 3.078624281617, 
+      "municipality": "De Haan", 
+      "pcode": "8420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ringlaan"
+    }, 
+    {
+      "apptnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "128H"
+      ], 
+      "housenumber": "128H", 
+      "lat": 51.296010862282, 
+      "lon": 3.078538659463, 
       "municipality": "De Haan", 
       "pcode": "8420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -668,7 +701,7 @@
       "lon": 3.083198947942, 
       "municipality": "De Haan", 
       "pcode": "8420", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ringlaan"
     }, 
     {

@@ -29,8 +29,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.261484769623, 
-      "lon": 5.045928632198, 
+      "lat": 51.26147586539, 
+      "lon": 5.045882515073, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "manueleAanduidingVanLot", 
@@ -233,8 +233,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.25674650699, 
-      "lon": 5.033545455032, 
+      "lat": 51.256747656888, 
+      "lon": 5.033548766176, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -581,8 +581,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.262554854261, 
-      "lon": 5.057784348618, 
+      "lat": 51.262588405943, 
+      "lon": 5.057764787995, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -713,11 +713,23 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.262807199554, 
-      "lon": 5.054330462278, 
+      "lat": 51.262794906911, 
+      "lon": 5.054404207281, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Pontfort"
+    }, 
+    {
+      "hnrlbls": [
+        "48A"
+      ], 
+      "housenumber": "48A", 
+      "lat": 51.262775892901, 
+      "lon": 5.054195472827, 
+      "municipality": "Retie", 
+      "pcode": "2470", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pontfort"
     }, 
     {
@@ -742,6 +754,30 @@
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
+      "street": "Pontfort"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 51.262772942049, 
+      "lon": 5.053882676293, 
+      "municipality": "Retie", 
+      "pcode": "2470", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Pontfort"
+    }, 
+    {
+      "hnrlbls": [
+        "50A"
+      ], 
+      "housenumber": "50A", 
+      "lat": 51.262767203748, 
+      "lon": 5.053647489792, 
+      "municipality": "Retie", 
+      "pcode": "2470", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pontfort"
     }, 
     {
@@ -929,8 +965,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.262281584313, 
-      "lon": 5.051854675226, 
+      "lat": 51.2622864361, 
+      "lon": 5.051855032976, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -953,8 +989,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.262299540446, 
-      "lon": 5.051609380774, 
+      "lat": 51.262304936157, 
+      "lon": 5.051624502885, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -965,8 +1001,8 @@
         "69A"
       ], 
       "housenumber": "69A", 
-      "lat": 51.262294983394, 
-      "lon": 5.051417910478, 
+      "lat": 51.262281359076, 
+      "lon": 5.051411263651, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "manueleAanduidingVanLot", 
@@ -1001,8 +1037,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.262083975151, 
-      "lon": 5.051161092172, 
+      "lat": 51.262087865563, 
+      "lon": 5.051156707992, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -1109,8 +1145,8 @@
         "78A"
       ], 
       "housenumber": "78A", 
-      "lat": 51.262377265834, 
-      "lon": 5.048728863532, 
+      "lat": 51.26237834273, 
+      "lon": 5.0487291658, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 

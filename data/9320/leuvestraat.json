@@ -1170,7 +1170,8 @@
       "busnrs": [
         "1", 
         "11", 
-        "12"
+        "12", 
+        "21"
       ], 
       "hnrlbls": [
         "183"
@@ -1508,6 +1509,10 @@
       "street": "Leuvestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "11"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1560,8 +1565,8 @@
         "224"
       ], 
       "housenumber": "224", 
-      "lat": 50.913862936109, 
-      "lon": 4.074461722251, 
+      "lat": 50.9138749728, 
+      "lon": 4.074422116012, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1660,8 +1665,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.919807169732, 
-      "lon": 4.062405747498, 
+      "lat": 50.919794949135, 
+      "lon": 4.062373117475, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1816,8 +1821,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.919775185428, 
-      "lon": 4.06244719833, 
+      "lat": 50.919766545739, 
+      "lon": 4.062408856374, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1924,8 +1929,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.919758534245, 
-      "lon": 4.062473758855, 
+      "lat": 50.919737800152, 
+      "lon": 4.062451281588, 
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 

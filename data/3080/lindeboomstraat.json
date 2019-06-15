@@ -57,6 +57,10 @@
       "street": "Lindeboomstraat"
     }, 
     {
+      "apptnrs": [
+        "bus A", 
+        "bus B"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -1201,6 +1205,18 @@
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lindeboomstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.818578373874, 
+      "lon": 4.511158212656, 
+      "municipality": "Tervuren", 
+      "pcode": "3080", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lindeboomstraat"
     }, 
     {

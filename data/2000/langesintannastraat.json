@@ -14,14 +14,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-10"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.221407137813, 
-      "lon": 4.413747527021, 
+      "lat": 51.22128050367, 
+      "lon": 4.413948076795, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Sint-Annastraat"
     }, 
     {
@@ -533,18 +533,20 @@
       "street": "Lange Sint-Annastraat"
     }, 
     {
-      "busnrs": [
-        "10"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003"
       ], 
       "hnrlbls": [
-        "8-10"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.221407137813, 
-      "lon": 4.413747527021, 
+      "lat": 51.221324711787, 
+      "lon": 4.413986050847, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Lange Sint-Annastraat"
     }, 
     {

@@ -116,8 +116,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.811906896445, 
-      "lon": 5.621794184206, 
+      "lat": 50.811906409084, 
+      "lon": 5.62179771893, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanGebouw", 
@@ -224,8 +224,8 @@
         "20I"
       ], 
       "housenumber": "20I", 
-      "lat": 50.809308300089, 
-      "lon": 5.620689336475, 
+      "lat": 50.809308728275, 
+      "lon": 5.620691334486, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanGebouw", 
@@ -512,8 +512,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.808614728949, 
-      "lon": 5.621153181606, 
+      "lat": 50.808613549469, 
+      "lon": 5.621145771461, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanGebouw", 
@@ -524,11 +524,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.805115314818, 
-      "lon": 5.621605248749, 
+      "lat": 50.805111879177, 
+      "lon": 5.621598630356, 
       "municipality": "Riemst", 
       "pcode": "3770", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Heukelommerweg"
     }, 
     {
@@ -608,8 +608,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.821731930302, 
-      "lon": 5.624741435413, 
+      "lat": 50.821735280187, 
+      "lon": 5.624730879554, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanGebouw", 
@@ -641,11 +641,35 @@
     }, 
     {
       "hnrlbls": [
+        "8C"
+      ], 
+      "housenumber": "8C", 
+      "lat": 50.816001757999, 
+      "lon": 5.622956387309, 
+      "municipality": "Riemst", 
+      "pcode": "3770", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Heukelommerweg"
+    }, 
+    {
+      "hnrlbls": [
+        "8D"
+      ], 
+      "housenumber": "8D", 
+      "lat": 50.814448602432, 
+      "lon": 5.621795515196, 
+      "municipality": "Riemst", 
+      "pcode": "3770", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Heukelommerweg"
+    }, 
+    {
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.821567543329, 
-      "lon": 5.624711068177, 
+      "lat": 50.82156952988, 
+      "lon": 5.624710269632, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanGebouw", 

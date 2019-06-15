@@ -644,18 +644,6 @@
       "street": "Fabriekstraat"
     }, 
     {
-      "hnrlbls": [
-        "23"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.253384755554, 
-      "lon": 4.276520358372, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
       "apptnrs": [
         "001", 
         "002", 
@@ -680,11 +668,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.253495290691, 
-      "lon": 4.276493643109, 
+      "lat": 51.253448971303, 
+      "lon": 4.276571366361, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -699,6 +687,18 @@
       "housenumber": "26", 
       "lat": 51.254206933934, 
       "lon": 4.276547246949, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Fabriekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.253524633747, 
+      "lon": 4.276430849337, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -730,18 +730,18 @@
     }, 
     {
       "apptnrs": [
-        "001", 
-        "002"
+        "101", 
+        "102"
       ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.253581741042, 
-      "lon": 4.276471844995, 
+      "lat": 51.253567579709, 
+      "lon": 4.27652372327, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -1248,6 +1248,18 @@
     }, 
     {
       "hnrlbls": [
+        "62A"
+      ], 
+      "housenumber": "62A", 
+      "lat": 51.256766814198, 
+      "lon": 4.275879576512, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Fabriekstraat"
+    }, 
+    {
+      "hnrlbls": [
         "62X"
       ], 
       "housenumber": "62X", 
@@ -1371,8 +1383,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.256245297515, 
-      "lon": 4.275282145336, 
+      "lat": 51.256226276552, 
+      "lon": 4.275325728607, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 

@@ -25,7 +25,7 @@
       "b": 50.820809669555, 
       "l": 5.142357143577, 
       "name": "Galgestraat", 
-      "numOfAddr": 73, 
+      "numOfAddr": 74, 
       "r": 5.146742621559, 
       "sanName": "galgestraat", 
       "t": 50.835479481108
@@ -53,7 +53,7 @@
       "l": 5.150075526184, 
       "name": "Grazenseweg", 
       "numOfAddr": 8, 
-      "r": 5.150703919372, 
+      "r": 5.150706054028, 
       "sanName": "grazenseweg", 
       "t": 50.855812476346
     }, 
@@ -102,6 +102,9 @@
       "l": 5.144917497665, 
       "name": "Heulken", 
       "numOfAddr": 6, 
+      "otherPCs": [
+        "3800"
+      ], 
       "r": 5.150005212959, 
       "sanName": "heulken", 
       "t": 50.85439314557
@@ -116,10 +119,10 @@
       "t": 50.820292666729
     }, 
     {
-      "b": 50.834205972313, 
+      "b": 50.834279322444, 
       "l": 5.144503158886, 
       "name": "Kleine Vinnestraat", 
-      "numOfAddr": 7, 
+      "numOfAddr": 6, 
       "r": 5.145642594523, 
       "sanName": "kleinevinnestraat", 
       "t": 50.834901377276

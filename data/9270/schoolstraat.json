@@ -11,8 +11,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.032745271882, 
-      "lon": 3.852893898938, 
+      "lat": 51.032700857099, 
+      "lon": 3.852768791524, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 
@@ -259,12 +259,20 @@
       "street": "Schoolstraat"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
-        "35"
+        "33-35"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.032368086037, 
+      "lon": 3.847335504686, 
+      "municipality": "Laarne", 
+      "pcode": "9270", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schoolstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33-35"
       ], 
       "housenumber": "35", 
       "lat": 51.032368086037, 

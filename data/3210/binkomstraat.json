@@ -300,11 +300,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.880802923431, 
-      "lon": 4.856820170907, 
+      "lat": 50.880763218202, 
+      "lon": 4.856834820307, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Binkomstraat"
     }, 
     {
@@ -539,8 +539,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.880691027551, 
-      "lon": 4.860234644872, 
+      "lat": 50.880692703328, 
+      "lon": 4.860242335788, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -733,6 +733,14 @@
       "street": "Binkomstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "A000"
+      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -857,8 +865,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.878945211915, 
-      "lon": 4.870929814634, 
+      "lat": 50.878945235049, 
+      "lon": 4.870924415307, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 

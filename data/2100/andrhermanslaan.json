@@ -139,8 +139,10 @@
       "street": "Andr\u00e9 Hermanslaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "21"
@@ -186,8 +188,9 @@
       "street": "Andr\u00e9 Hermanslaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "24"
@@ -198,6 +201,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
+      "street": "Andr\u00e9 Hermanslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 51.229659752632, 
+      "lon": 4.475584745736, 
+      "municipality": "Antwerpen", 
+      "pcode": "2100", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Andr\u00e9 Hermanslaan"
     }, 
     {
@@ -279,8 +294,11 @@
       "street": "Andr\u00e9 Hermanslaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "3"
@@ -461,6 +479,11 @@
       "street": "Andr\u00e9 Hermanslaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "4"
       ], 
@@ -473,6 +496,11 @@
       "street": "Andr\u00e9 Hermanslaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "40"
       ], 

@@ -125,8 +125,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.019310923256, 
-      "lon": 4.346908854782, 
+      "lat": 51.019162089784, 
+      "lon": 4.347048730422, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -141,7 +141,7 @@
       "lon": 4.346768978294, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bormstraat"
     }, 
     {
@@ -406,30 +406,6 @@
     }, 
     {
       "hnrlbls": [
-        "20"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.017625638045, 
-      "lon": 4.357413999735, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Bormstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.017551466892, 
-      "lon": 4.357287324032, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Bormstraat"
-    }, 
-    {
-      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
@@ -529,8 +505,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.016569070726, 
-      "lon": 4.357472668342, 
+      "lat": 51.016538062295, 
+      "lon": 4.357514857791, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -886,7 +862,7 @@
     }, 
     {
       "hnrlbls": [
-        "84-84A"
+        "84"
       ], 
       "housenumber": "84", 
       "lat": 51.018109935374, 
@@ -898,14 +874,14 @@
     }, 
     {
       "hnrlbls": [
-        "84-84A"
+        "84A"
       ], 
       "housenumber": "84A", 
-      "lat": 51.018109935374, 
-      "lon": 4.350412794889, 
+      "lat": 51.018293323227, 
+      "lon": 4.350488685523, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bormstraat"
     }, 
     {

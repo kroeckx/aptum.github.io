@@ -903,11 +903,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.824053474022, 
-      "lon": 3.255174216573, 
+      "lat": 50.823868184768, 
+      "lon": 3.25494766435, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marksesteenweg"
     }, 
     {
@@ -927,11 +927,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.823819631583, 
-      "lon": 3.254975640274, 
+      "lat": 50.823706102374, 
+      "lon": 3.254798063687, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Marksesteenweg"
     }, 
     {
@@ -1427,8 +1427,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.822983819965, 
-      "lon": 3.252407897303, 
+      "lat": 50.822899128241, 
+      "lon": 3.252398409489, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 

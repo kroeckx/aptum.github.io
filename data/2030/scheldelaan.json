@@ -17,8 +17,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.256901368293, 
-      "lon": 4.325425790437, 
+      "lat": 51.256901457814, 
+      "lon": 4.325424787652, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
       "source": "afgeleidVanPerceelGrb", 
@@ -377,8 +377,8 @@
         "6100"
       ], 
       "housenumber": "6100", 
-      "lat": 51.295498578546, 
-      "lon": 4.327330994095, 
+      "lat": 51.295498669857, 
+      "lon": 4.327335151519, 
       "municipality": "Antwerpen", 
       "pcode": "2030", 
       "source": "afgeleidVanPerceelGrb", 
@@ -478,6 +478,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2030", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Scheldelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8E"
+      ], 
+      "housenumber": "8E", 
+      "lat": 51.245710053787, 
+      "lon": 4.35046695847, 
+      "municipality": "Antwerpen", 
+      "pcode": "2030", 
+      "source": "afgeleidVanGebouw", 
       "street": "Scheldelaan"
     }, 
     {

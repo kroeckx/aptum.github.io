@@ -553,15 +553,18 @@
       "street": "Kronekalseide"
     }, 
     {
+      "apptnrs": [
+        "0-01"
+      ], 
       "hnrlbls": [
         "299"
       ], 
       "housenumber": "299", 
-      "lat": 51.20559471733, 
-      "lon": 3.384348743335, 
+      "lat": 51.205512355958, 
+      "lon": 3.384367938398, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kronekalseide"
     }, 
     {

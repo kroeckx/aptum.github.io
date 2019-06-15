@@ -111,7 +111,6 @@
         "2.01"
       ], 
       "hnrlbls": [
-        "18", 
         "18-18A"
       ], 
       "housenumber": "18", 
@@ -588,14 +587,32 @@
     }, 
     {
       "hnrlbls": [
-        "58"
+        "58-60"
       ], 
       "housenumber": "58", 
-      "lat": 50.916329018265, 
-      "lon": 5.247829384043, 
+      "lat": 50.91632649566, 
+      "lon": 5.247698073287, 
       "municipality": "Hasselt", 
       "pcode": "3512", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Maartenplein"
+    }, 
+    {
+      "busnrs": [
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02"
+      ], 
+      "hnrlbls": [
+        "58-60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.91632649566, 
+      "lon": 5.247698073287, 
+      "municipality": "Hasselt", 
+      "pcode": "3512", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Maartenplein"
     }, 
     {

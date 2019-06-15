@@ -1,15 +1,21 @@
 {
   "addresses": [
     {
-      "hnrlbls": [
-        "3B-11B"
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
-      "housenumber": "10B", 
-      "lat": 50.833466072439, 
-      "lon": 4.02277308421, 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.833964365275, 
+      "lon": 4.023199695004, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Onderwijslaan"
     }, 
     {
@@ -40,18 +46,6 @@
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3B-11B"
-      ], 
-      "housenumber": "11B", 
-      "lat": 50.833466072439, 
-      "lon": 4.02277308421, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Onderwijslaan"
     }, 
     {
@@ -137,11 +131,11 @@
         "1"
       ], 
       "hnrlbls": [
-        "2-2C"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.833444665022, 
-      "lon": 4.022677421878, 
+      "lat": 50.833571564308, 
+      "lon": 4.023001567271, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -197,13 +191,14 @@
         "2", 
         "3", 
         "4", 
+        "5", 
         "6", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "2-2C"
+        "2B-2C"
       ], 
       "housenumber": "2B", 
       "lat": 50.833444665022, 
@@ -226,7 +221,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-2C"
+        "2B-2C"
       ], 
       "housenumber": "2C", 
       "lat": 50.833444665022, 
@@ -241,8 +236,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.833901890912, 
-      "lon": 4.023017597485, 
+      "lat": 50.833873772889, 
+      "lon": 4.022963150699, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -322,26 +317,26 @@
     }, 
     {
       "hnrlbls": [
-        "3B-11B"
+        "3A"
       ], 
-      "housenumber": "3B", 
-      "lat": 50.833466072439, 
-      "lon": 4.02277308421, 
+      "housenumber": "3A", 
+      "lat": 50.833852917906, 
+      "lon": 4.022902404596, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onderwijslaan"
     }, 
     {
       "hnrlbls": [
-        "3B-11B"
+        "4"
       ], 
-      "housenumber": "3C", 
-      "lat": 50.833466072439, 
-      "lon": 4.02277308421, 
+      "housenumber": "4", 
+      "lat": 50.833081693561, 
+      "lon": 4.021864705536, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onderwijslaan"
     }, 
     {
@@ -386,35 +381,11 @@
     }, 
     {
       "hnrlbls": [
-        "3B-11B"
-      ], 
-      "housenumber": "4B", 
-      "lat": 50.833466072439, 
-      "lon": 4.02277308421, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3B-11B"
-      ], 
-      "housenumber": "4C", 
-      "lat": 50.833466072439, 
-      "lon": 4.02277308421, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "hnrlbls": [
         "5-5B"
       ], 
       "housenumber": "5", 
-      "lat": 50.833854370007, 
-      "lon": 4.022907078488, 
+      "lat": 50.833810946499, 
+      "lon": 4.022814274123, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -495,8 +466,8 @@
         "5-5B"
       ], 
       "housenumber": "5B", 
-      "lat": 50.833854370007, 
-      "lon": 4.022907078488, 
+      "lat": 50.833810946499, 
+      "lon": 4.022814274123, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -504,14 +475,14 @@
     }, 
     {
       "hnrlbls": [
-        "3B-11B"
+        "6"
       ], 
-      "housenumber": "6C", 
-      "lat": 50.833466072439, 
-      "lon": 4.02277308421, 
+      "housenumber": "6", 
+      "lat": 50.832552728296, 
+      "lon": 4.021221014172, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Onderwijslaan"
     }, 
     {
@@ -522,8 +493,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.833805112578, 
-      "lon": 4.02278691946, 
+      "lat": 50.833751939811, 
+      "lon": 4.022680417199, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -555,23 +526,11 @@
     }, 
     {
       "hnrlbls": [
-        "3B-11B"
-      ], 
-      "housenumber": "7C", 
-      "lat": 50.833466072439, 
-      "lon": 4.02277308421, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.832390517774, 
-      "lon": 4.020722540686, 
+      "lat": 50.832455791242, 
+      "lon": 4.020604096504, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -579,23 +538,11 @@
     }, 
     {
       "hnrlbls": [
-        "3B-11B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 50.833466072439, 
-      "lon": 4.02277308421, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Onderwijslaan"
-    }, 
-    {
-      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.8337485305, 
-      "lon": 4.022652193041, 
+      "lat": 50.833700555593, 
+      "lon": 4.022540258552, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 

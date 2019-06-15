@@ -169,10 +169,10 @@
       "b": 50.991448851016, 
       "l": 4.324489391294, 
       "name": "Breemweg", 
-      "numOfAddr": 50, 
+      "numOfAddr": 64, 
       "r": 4.328089972198, 
       "sanName": "breemweg", 
-      "t": 50.994872084127
+      "t": 50.995232059836
     }, 
     {
       "b": 50.945545935867, 
@@ -239,9 +239,9 @@
     }, 
     {
       "b": 50.971936455586, 
-      "l": 4.305233297449, 
+      "l": 4.305094720171, 
       "name": "Drijpikkelstraat", 
-      "numOfAddr": 37, 
+      "numOfAddr": 38, 
       "r": 4.312157411964, 
       "sanName": "drijpikkelstraat", 
       "t": 50.976793766424
@@ -421,13 +421,13 @@
       "t": 50.940499609812
     }, 
     {
-      "b": 50.954301880503, 
-      "l": 4.307265575026, 
+      "b": 50.954449126201, 
+      "l": 4.305086579748, 
       "name": "Hof ter Wilderweg", 
-      "numOfAddr": 1, 
-      "r": 4.307265575026, 
+      "numOfAddr": 15, 
+      "r": 4.306064775834, 
       "sanName": "hofterwilderweg", 
-      "t": 50.954301880503
+      "t": 50.954858664474
     }, 
     {
       "b": 50.950993111512, 
@@ -481,7 +481,7 @@
       "b": 50.986767977507, 
       "l": 4.321274427931, 
       "name": "Jan Hammeneckerstraat", 
-      "numOfAddr": 94, 
+      "numOfAddr": 95, 
       "r": 4.325238576811, 
       "sanName": "janhammeneckerstraat", 
       "t": 50.995369358148
@@ -646,14 +646,14 @@
       "b": 50.995489064012, 
       "l": 4.317049091271, 
       "name": "Londerzeelsesteenweg", 
-      "numOfAddr": 44, 
+      "numOfAddr": 45, 
       "r": 4.324498064268, 
       "sanName": "londerzeelsesteenweg", 
       "t": 50.996785339441
     }, 
     {
       "b": 50.952185824228, 
-      "l": 4.281618995413, 
+      "l": 4.281530175468, 
       "name": "Lovegemstraat", 
       "numOfAddr": 14, 
       "r": 4.288451826217, 
@@ -790,7 +790,7 @@
       "b": 50.964216008654, 
       "l": 4.321313943692, 
       "name": "Neromstraat", 
-      "numOfAddr": 137, 
+      "numOfAddr": 136, 
       "r": 4.342588483728, 
       "sanName": "neromstraat", 
       "t": 50.982972772785
@@ -913,7 +913,7 @@
       "b": 50.978048029375, 
       "l": 4.314831356777, 
       "name": "Patatestraat", 
-      "numOfAddr": 88, 
+      "numOfAddr": 89, 
       "otherPCs": [
         "1860"
       ], 
@@ -979,7 +979,7 @@
       "b": 50.955619193251, 
       "l": 4.310547645989, 
       "name": "Populierenlaan", 
-      "numOfAddr": 20, 
+      "numOfAddr": 24, 
       "r": 4.312359903428, 
       "sanName": "populierenlaan", 
       "t": 50.957154011053
@@ -1105,7 +1105,7 @@
       "b": 50.980306856455, 
       "l": 4.291075636758, 
       "name": "Slozenstraat", 
-      "numOfAddr": 69, 
+      "numOfAddr": 70, 
       "r": 4.305228637964, 
       "sanName": "slozenstraat", 
       "t": 50.987906218875
@@ -1120,7 +1120,7 @@
       "t": 50.952081703886
     }, 
     {
-      "b": 50.948206149958, 
+      "b": 50.948175409526, 
       "l": 4.308946231311, 
       "name": "Stationsstraat", 
       "numOfAddr": 74, 
@@ -1234,7 +1234,7 @@
       "b": 50.956109425352, 
       "l": 4.273076305913, 
       "name": "Veilinglaan", 
-      "numOfAddr": 72, 
+      "numOfAddr": 73, 
       "otherPCs": [
         "1860"
       ], 
@@ -1304,6 +1304,18 @@
       "r": 4.316470957361, 
       "sanName": "wilgenlaan", 
       "t": 50.954120155333
+    }, 
+    {
+      "b": 50.960422996802, 
+      "l": 4.314265353197, 
+      "name": "Winkelveldbaan", 
+      "numOfAddr": 1, 
+      "otherPCs": [
+        "1860"
+      ], 
+      "r": 4.314265353197, 
+      "sanName": "winkelveldbaan", 
+      "t": 50.960422996802
     }, 
     {
       "b": 50.946031089026, 

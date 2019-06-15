@@ -981,6 +981,12 @@
       "street": "Lostraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1084,26 +1090,26 @@
     }, 
     {
       "hnrlbls": [
-        "87A-87F"
+        "87A"
       ], 
       "housenumber": "87A", 
-      "lat": 50.826986225178, 
-      "lon": 4.212057341261, 
+      "lat": 50.826890703111, 
+      "lon": 4.211747816529, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lostraat"
     }, 
     {
       "hnrlbls": [
-        "87A-87F"
+        "87B"
       ], 
       "housenumber": "87B", 
-      "lat": 50.826986225178, 
-      "lon": 4.212057341261, 
+      "lat": 50.826915799354, 
+      "lon": 4.211894208929, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1114,26 +1120,26 @@
         "202"
       ], 
       "hnrlbls": [
-        "87A-87F"
+        "87C"
       ], 
       "housenumber": "87C", 
-      "lat": 50.826986225178, 
-      "lon": 4.212057341261, 
+      "lat": 50.826929054125, 
+      "lon": 4.211991815485, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Lostraat"
     }, 
     {
       "hnrlbls": [
-        "87A-87F"
+        "87D"
       ], 
       "housenumber": "87D", 
-      "lat": 50.826986225178, 
-      "lon": 4.212057341261, 
+      "lat": 50.826938422729, 
+      "lon": 4.212073964179, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1146,26 +1152,26 @@
         "202"
       ], 
       "hnrlbls": [
-        "87A-87F"
+        "87E"
       ], 
       "housenumber": "87E", 
-      "lat": 50.826986225178, 
-      "lon": 4.212057341261, 
+      "lat": 50.82695964954, 
+      "lon": 4.212150112363, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lostraat"
     }, 
     {
       "hnrlbls": [
-        "87A-87F"
+        "87F"
       ], 
       "housenumber": "87F", 
-      "lat": 50.826986225178, 
-      "lon": 4.212057341261, 
+      "lat": 50.826970808017, 
+      "lon": 4.212226293978, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1191,11 +1197,11 @@
         "87G"
       ], 
       "housenumber": "87G", 
-      "lat": 50.826778777075, 
-      "lon": 4.212216143362, 
+      "lat": 50.82676452246, 
+      "lon": 4.212177726629, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1207,7 +1213,7 @@
       "lon": 4.211774202803, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1219,7 +1225,7 @@
       "lon": 4.211798367118, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1231,7 +1237,7 @@
       "lon": 4.211818273414, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1243,7 +1249,7 @@
       "lon": 4.211827208792, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1251,11 +1257,11 @@
         "87L"
       ], 
       "housenumber": "87L", 
-      "lat": 50.826273081649, 
-      "lon": 4.211719921746, 
+      "lat": 50.826250187293, 
+      "lon": 4.211944108362, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lostraat"
     }, 
     {
@@ -1271,10 +1277,6 @@
       "street": "Lostraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "102"
-      ], 
       "hnrlbls": [
         "89"
       ], 

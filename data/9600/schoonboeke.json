@@ -73,6 +73,14 @@
       "street": "Schoonboeke"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -190,6 +198,18 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Schoonboeke"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.753689515436, 
+      "lon": 3.657842513575, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schoonboeke"
     }, 
     {

@@ -118,6 +118,11 @@
       "street": "Vroenhofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -203,6 +208,10 @@
       "street": "Vroenhofstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -232,20 +241,27 @@
       "street": "Vroenhofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.201765892858, 
-      "lon": 4.462911317219, 
+      "lat": 51.201765397148, 
+      "lon": 4.462968975114, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vroenhofstraat"
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "25"
@@ -465,8 +481,10 @@
       "street": "Vroenhofstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "42"
@@ -571,6 +589,12 @@
       "street": "Vroenhofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "54"
       ], 

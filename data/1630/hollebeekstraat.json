@@ -1516,8 +1516,8 @@
         "343-345"
       ], 
       "housenumber": "343", 
-      "lat": 50.764500405296, 
-      "lon": 4.355032935015, 
+      "lat": 50.764499327146, 
+      "lon": 4.355038463388, 
       "municipality": "Linkebeek", 
       "pcode": "1630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1528,8 +1528,8 @@
         "343-345"
       ], 
       "housenumber": "345", 
-      "lat": 50.764500405296, 
-      "lon": 4.355032935015, 
+      "lat": 50.764499327146, 
+      "lon": 4.355038463388, 
       "municipality": "Linkebeek", 
       "pcode": "1630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1549,7 +1549,7 @@
     }, 
     {
       "hnrlbls": [
-        "347-349"
+        "347"
       ], 
       "housenumber": "347", 
       "lat": 50.764669522588, 
@@ -1573,11 +1573,11 @@
     }, 
     {
       "hnrlbls": [
-        "347-349"
+        "349"
       ], 
       "housenumber": "349", 
-      "lat": 50.764669522588, 
-      "lon": 4.355221977386, 
+      "lat": 50.764762133987, 
+      "lon": 4.355381700191, 
       "municipality": "Linkebeek", 
       "pcode": "1630", 
       "source": "afgeleidVanGebouw", 
@@ -1796,23 +1796,23 @@
         "380"
       ], 
       "housenumber": "380", 
-      "lat": 50.764038399351, 
-      "lon": 4.357458587981, 
+      "lat": 50.764018710746, 
+      "lon": 4.357445977195, 
       "municipality": "Linkebeek", 
       "pcode": "1630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hollebeekstraat"
     }, 
     {
       "hnrlbls": [
-        "381"
+        "381-385"
       ], 
       "housenumber": "381", 
-      "lat": 50.764364722784, 
-      "lon": 4.357425629628, 
+      "lat": 50.76448130999, 
+      "lon": 4.357323688319, 
       "municipality": "Linkebeek", 
       "pcode": "1630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hollebeekstraat"
     }, 
     {
@@ -1841,7 +1841,7 @@
     }, 
     {
       "hnrlbls": [
-        "385"
+        "381-385"
       ], 
       "housenumber": "385", 
       "lat": 50.76448130999, 
@@ -1871,8 +1871,8 @@
         "387B"
       ], 
       "housenumber": "387B", 
-      "lat": 50.764361075033, 
-      "lon": 4.357852708364, 
+      "lat": 50.764352266416, 
+      "lon": 4.357867593504, 
       "municipality": "Linkebeek", 
       "pcode": "1630", 
       "source": "afgeleidVanPerceelGrb", 

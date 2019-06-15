@@ -515,11 +515,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.09055338695, 
-      "lon": 3.716462706824, 
+      "lat": 51.090541776209, 
+      "lon": 3.71654137522, 
       "municipality": "Gent", 
       "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vierweegsestraat"
     }, 
     {
@@ -680,6 +680,30 @@
     }, 
     {
       "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.090553044682, 
+      "lon": 3.716433307296, 
+      "municipality": "Gent", 
+      "pcode": "9032", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vierweegsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 51.090535179228, 
+      "lon": 3.716600132971, 
+      "municipality": "Gent", 
+      "pcode": "9032", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vierweegsestraat"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -817,18 +841,6 @@
       "housenumber": "69", 
       "lat": 51.090300679509, 
       "lon": 3.718854100956, 
-      "municipality": "Gent", 
-      "pcode": "9032", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Vierweegsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.090531368579, 
-      "lon": 3.716593762795, 
       "municipality": "Gent", 
       "pcode": "9032", 
       "source": "manueleAanduidingVanPerceel", 

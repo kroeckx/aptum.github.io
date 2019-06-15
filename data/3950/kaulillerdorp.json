@@ -341,6 +341,10 @@
       "street": "Kaulillerdorp"
     }, 
     {
+      "busnrs": [
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -604,8 +608,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.191158434848, 
-      "lon": 5.515804498597, 
+      "lat": 51.191161104675, 
+      "lon": 5.515807282391, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 
@@ -640,6 +644,7 @@
         "0001", 
         "0002", 
         "0003", 
+        "0004", 
         "0005", 
         "0006", 
         "0007"
@@ -759,8 +764,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.187002536801, 
-      "lon": 5.520442383175, 
+      "lat": 51.187008934406, 
+      "lon": 5.520459277571, 
       "municipality": "Bocholt", 
       "pcode": "3950", 
       "source": "afgeleidVanGebouw", 

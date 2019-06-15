@@ -39,9 +39,7 @@
         "1", 
         "101", 
         "2", 
-        "201", 
-        "3", 
-        "4"
+        "201"
       ], 
       "hnrlbls": [
         "11"
@@ -259,6 +257,18 @@
       "housenumber": "25", 
       "lat": 51.207333465101, 
       "lon": 3.213692742388, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Guido Gezellelaan"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 51.207280464617, 
+      "lon": 3.214175327465, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

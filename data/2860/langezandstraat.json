@@ -45,7 +45,7 @@
       "lon": 4.470201055289, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lange Zandstraat"
     }, 
     {
@@ -209,8 +209,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.069891223568, 
-      "lon": 4.483670197695, 
+      "lat": 51.069889336184, 
+      "lon": 4.483669907689, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
@@ -573,8 +573,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.070691578357, 
-      "lon": 4.476011044064, 
+      "lat": 51.070691667984, 
+      "lon": 4.476011329617, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
@@ -882,6 +882,18 @@
       "housenumber": "87", 
       "lat": 51.069834799358, 
       "lon": 4.472674709294, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lange Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "87A"
+      ], 
+      "housenumber": "87A", 
+      "lat": 51.069799254108, 
+      "lon": 4.472516122747, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "manueleAanduidingVanPerceel", 

@@ -104,15 +104,12 @@
       "street": "Vrijheidstraat"
     }, 
     {
-      "busnrs": [
-        "15"
-      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.940412663642, 
-      "lon": 4.03503558491, 
+      "lat": 50.940449274597, 
+      "lon": 4.035107602511, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -125,6 +122,21 @@
       "housenumber": "17", 
       "lat": 50.940615681573, 
       "lon": 4.03508081124, 
+      "municipality": "Aalst", 
+      "pcode": "9300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vrijheidstraat"
+    }, 
+    {
+      "busnrs": [
+        "11"
+      ], 
+      "hnrlbls": [
+        "18"
+      ], 
+      "housenumber": "18", 
+      "lat": 50.940426617829, 
+      "lon": 4.035042884332, 
       "municipality": "Aalst", 
       "pcode": "9300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -263,6 +275,11 @@
       "street": "Vrijheidstraat"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "33"
       ], 
@@ -271,7 +288,7 @@
       "lon": 4.034422957457, 
       "municipality": "Aalst", 
       "pcode": "9300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Vrijheidstraat"
     }, 
     {

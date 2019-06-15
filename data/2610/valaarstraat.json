@@ -233,8 +233,13 @@
       "street": "Valaarstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "124-126"
+        "124"
       ], 
       "housenumber": "124", 
       "lat": 51.177869168349, 
@@ -251,18 +256,6 @@
       "housenumber": "125", 
       "lat": 51.177576138558, 
       "lon": 4.384366893564, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Valaarstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "124-126"
-      ], 
-      "housenumber": "126", 
-      "lat": 51.177869168349, 
-      "lon": 4.384341398802, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -677,11 +670,11 @@
         "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.1777358547, 
-      "lon": 4.382364085413, 
+      "lat": 51.177751138411, 
+      "lon": 4.38233763501, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Valaarstraat"
     }, 
     {

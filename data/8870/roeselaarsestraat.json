@@ -34,8 +34,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.919488421295, 
-      "lon": 3.209116765325, 
+      "lat": 50.919479596081, 
+      "lon": 3.209106173716, 
       "municipality": "Izegem", 
       "pcode": "8870", 
       "source": "afgeleidVanGebouw", 
@@ -93,6 +93,10 @@
       "street": "Roeselaarsestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102"
+      ], 
       "hnrlbls": [
         "104"
       ], 
@@ -756,8 +760,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.920061042545, 
-      "lon": 3.205207439791, 
+      "lat": 50.920062770015, 
+      "lon": 3.205209388246, 
       "municipality": "Izegem", 
       "pcode": "8870", 
       "source": "afgeleidVanGebouw", 
@@ -3693,6 +3697,18 @@
     }, 
     {
       "hnrlbls": [
+        "363"
+      ], 
+      "housenumber": "363", 
+      "lat": 50.923585814014, 
+      "lon": 3.192209920406, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Roeselaarsestraat"
+    }, 
+    {
+      "hnrlbls": [
         "364"
       ], 
       "housenumber": "364", 
@@ -5017,11 +5033,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.918441886194, 
-      "lon": 3.211190972079, 
+      "lat": 50.918541446271, 
+      "lon": 3.211139875943, 
       "municipality": "Izegem", 
       "pcode": "8870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Roeselaarsestraat"
     }, 
     {
@@ -5050,6 +5066,42 @@
     }, 
     {
       "hnrlbls": [
+        "471_1"
+      ], 
+      "housenumber": "471_1", 
+      "lat": 50.925684864694, 
+      "lon": 3.185560464028, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Roeselaarsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "471_2"
+      ], 
+      "housenumber": "471_2", 
+      "lat": 50.925771710433, 
+      "lon": 3.185560266999, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Roeselaarsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "471_3"
+      ], 
+      "housenumber": "471_3", 
+      "lat": 50.925857277785, 
+      "lon": 3.185558110671, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Roeselaarsestraat"
+    }, 
+    {
+      "hnrlbls": [
         "472"
       ], 
       "housenumber": "472", 
@@ -5070,42 +5122,6 @@
       "municipality": "Izegem", 
       "pcode": "8870", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Roeselaarsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "473_1"
-      ], 
-      "housenumber": "473_1", 
-      "lat": 50.925857277785, 
-      "lon": 3.185558110671, 
-      "municipality": "Izegem", 
-      "pcode": "8870", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Roeselaarsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "473_2"
-      ], 
-      "housenumber": "473_2", 
-      "lat": 50.925771710433, 
-      "lon": 3.185560266999, 
-      "municipality": "Izegem", 
-      "pcode": "8870", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Roeselaarsestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "473_3"
-      ], 
-      "housenumber": "473_3", 
-      "lat": 50.925684864694, 
-      "lon": 3.185560464028, 
-      "municipality": "Izegem", 
-      "pcode": "8870", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Roeselaarsestraat"
     }, 
     {
@@ -6207,6 +6223,9 @@
       "street": "Roeselaarsestraat"
     }, 
     {
+      "busnrs": [
+        "2"
+      ], 
       "hnrlbls": [
         "594"
       ], 
@@ -6355,6 +6374,18 @@
       "municipality": "Izegem", 
       "pcode": "8870", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Roeselaarsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "608_1"
+      ], 
+      "housenumber": "608_1", 
+      "lat": 50.927120217034, 
+      "lon": 3.185304223573, 
+      "municipality": "Izegem", 
+      "pcode": "8870", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Roeselaarsestraat"
     }, 
     {

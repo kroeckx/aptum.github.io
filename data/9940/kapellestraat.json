@@ -29,11 +29,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.114555344049, 
-      "lon": 3.712760971093, 
+      "lat": 51.114555254959, 
+      "lon": 3.712761115155, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -41,11 +41,11 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.114525036977, 
-      "lon": 3.712726121336, 
+      "lat": 51.114530115936, 
+      "lon": 3.712718052612, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -155,11 +155,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.110181677554, 
-      "lon": 3.71019007073, 
+      "lat": 51.110181964038, 
+      "lon": 3.710209201812, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -179,11 +179,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.110246104045, 
-      "lon": 3.710233860172, 
+      "lat": 51.110230927471, 
+      "lon": 3.710284910396, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -259,7 +259,7 @@
       "lon": 3.709754346216, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -306,8 +306,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.11038042631, 
-      "lon": 3.709803284173, 
+      "lat": 51.110383184505, 
+      "lon": 3.709846513722, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -330,11 +330,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.110524761305, 
-      "lon": 3.7098300971, 
+      "lat": 51.110514219683, 
+      "lon": 3.709777409418, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -581,7 +581,7 @@
       "lon": 3.710583597974, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -684,6 +684,21 @@
       "street": "Kapellestraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "52A"
+      ], 
+      "housenumber": "52A", 
+      "lat": 51.11184580323, 
+      "lon": 3.710571925953, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kapellestraat"
+    }, 
+    {
       "hnrlbls": [
         "53"
       ], 
@@ -729,6 +744,29 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kapellestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.112343287785, 
+      "lon": 3.710463963675, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -836,7 +874,7 @@
       "lon": 3.710603239437, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -844,11 +882,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.112477437973, 
-      "lon": 3.711098992544, 
+      "lat": 51.112508086874, 
+      "lon": 3.7110337276, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -916,11 +954,11 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.112601088068, 
-      "lon": 3.711156376443, 
+      "lat": 51.112659112663, 
+      "lon": 3.711067591833, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -1000,11 +1038,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.114139306931, 
-      "lon": 3.712352651438, 
+      "lat": 51.114133672436, 
+      "lon": 3.712390147076, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -1036,11 +1074,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.114249064208, 
-      "lon": 3.712465932167, 
+      "lat": 51.114238383478, 
+      "lon": 3.712501213675, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {

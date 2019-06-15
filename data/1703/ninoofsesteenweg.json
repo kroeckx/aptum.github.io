@@ -51,8 +51,8 @@
         "1009"
       ], 
       "housenumber": "1009", 
-      "lat": 50.837870722057, 
-      "lon": 4.189156864625, 
+      "lat": 50.837870544866, 
+      "lon": 4.189158568905, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
@@ -267,11 +267,11 @@
         "1024"
       ], 
       "housenumber": "1024", 
-      "lat": 50.83779506493, 
-      "lon": 4.19305201338, 
+      "lat": 50.837750408517, 
+      "lon": 4.193006324353, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -279,11 +279,11 @@
         "1024A"
       ], 
       "housenumber": "1024A", 
-      "lat": 50.837789440389, 
-      "lon": 4.192957626369, 
+      "lat": 50.837783453858, 
+      "lon": 4.192861679095, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -758,11 +758,11 @@
     }, 
     {
       "hnrlbls": [
-        "1055B"
+        "1055A"
       ], 
-      "housenumber": "1055B", 
-      "lat": 50.837411670842, 
-      "lon": 4.184016754745, 
+      "housenumber": "1055A", 
+      "lat": 50.837417293449, 
+      "lon": 4.184105319366, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -770,14 +770,26 @@
     }, 
     {
       "hnrlbls": [
-        "1055a"
+        "1055B"
       ], 
-      "housenumber": "1055a", 
-      "lat": 50.837413550507, 
-      "lon": 4.184068848815, 
+      "housenumber": "1055B", 
+      "lat": 50.837413567997, 
+      "lon": 4.18402270988, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ninoofsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "1055C"
+      ], 
+      "housenumber": "1055C", 
+      "lat": 50.837406737008, 
+      "lon": 4.183908880109, 
+      "municipality": "Dilbeek", 
+      "pcode": "1703", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -1359,11 +1371,11 @@
         "1141"
       ], 
       "housenumber": "1141", 
-      "lat": 50.836669401905, 
-      "lon": 4.173330090942, 
+      "lat": 50.836654764483, 
+      "lon": 4.173393609251, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -1387,11 +1399,11 @@
         "1143"
       ], 
       "housenumber": "1143", 
-      "lat": 50.836716670049, 
-      "lon": 4.173211639418, 
+      "lat": 50.836644998657, 
+      "lon": 4.173250976392, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
@@ -2371,7 +2383,7 @@
       "lon": 4.202437401996, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {

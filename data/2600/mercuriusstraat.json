@@ -88,6 +88,10 @@
       "street": "Mercuriusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -104,14 +108,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "18-20"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.199146384564, 
-      "lon": 4.44511457099, 
+      "lat": 51.199017554963, 
+      "lon": 4.44515269981, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mercuriusstraat"
     }, 
     {
@@ -132,7 +136,7 @@
         "24"
       ], 
       "hnrlbls": [
-        "18-20"
+        "20"
       ], 
       "housenumber": "20", 
       "lat": 51.199146384564, 
@@ -159,11 +163,11 @@
         "22-26"
       ], 
       "housenumber": "22", 
-      "lat": 51.199164132323, 
-      "lon": 4.445327911985, 
+      "lat": 51.199164041971, 
+      "lon": 4.445328627167, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mercuriusstraat"
     }, 
     {
@@ -183,11 +187,11 @@
         "22-26"
       ], 
       "housenumber": "24", 
-      "lat": 51.199164132323, 
-      "lon": 4.445327911985, 
+      "lat": 51.199164041971, 
+      "lon": 4.445328627167, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mercuriusstraat"
     }, 
     {
@@ -207,11 +211,11 @@
         "22-26"
       ], 
       "housenumber": "26", 
-      "lat": 51.199164132323, 
-      "lon": 4.445327911985, 
+      "lat": 51.199164041971, 
+      "lon": 4.445328627167, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mercuriusstraat"
     }, 
     {

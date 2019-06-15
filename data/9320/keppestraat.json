@@ -138,7 +138,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "11", 
         "21"
       ], 
@@ -312,6 +311,18 @@
       "municipality": "Aalst", 
       "pcode": "9320", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Keppestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "121"
+      ], 
+      "housenumber": "121", 
+      "lat": 50.916146674546, 
+      "lon": 4.046937235253, 
+      "municipality": "Aalst", 
+      "pcode": "9320", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Keppestraat"
     }, 
     {

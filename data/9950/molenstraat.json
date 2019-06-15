@@ -53,8 +53,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.149001893852, 
-      "lon": 3.617872277123, 
+      "lat": 51.149001901117, 
+      "lon": 3.617873420365, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -1205,11 +1205,11 @@
         "19A"
       ], 
       "housenumber": "19A", 
-      "lat": 51.15192543154, 
-      "lon": 3.613628922694, 
+      "lat": 51.151865646425, 
+      "lon": 3.613599587717, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Molenstraat"
     }, 
     {
@@ -1992,18 +1992,6 @@
       "street": "Molenstraat"
     }, 
     {
-      "hnrlbls": [
-        "69"
-      ], 
-      "housenumber": "69", 
-      "lat": 51.150115371276, 
-      "lon": 3.616317679845, 
-      "municipality": "Lievegem", 
-      "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -2031,12 +2019,18 @@
       "street": "Molenstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.150070561378, 
-      "lon": 3.616395436702, 
+      "lat": 51.150065529007, 
+      "lon": 3.616339206031, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -2167,8 +2161,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.149822773792, 
-      "lon": 3.616924521538, 
+      "lat": 51.149826755866, 
+      "lon": 3.616928745156, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2227,11 +2221,11 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.149182861435, 
-      "lon": 3.617040861028, 
+      "lat": 51.149283243094, 
+      "lon": 3.617163873475, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Molenstraat"
     }, 
     {

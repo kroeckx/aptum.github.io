@@ -416,11 +416,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.17689310347, 
-      "lon": 3.745394507468, 
+      "lat": 51.176884329115, 
+      "lon": 3.745384042318, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lindenlaan"
     }, 
     {
@@ -457,6 +457,26 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lindenlaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 51.17546535622, 
+      "lon": 3.745726721644, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lindenlaan"
     }, 
     {
@@ -507,15 +527,23 @@
       "street": "Lindenlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.175246715649, 
-      "lon": 3.746079123625, 
+      "lat": 51.175340412017, 
+      "lon": 3.74569278109, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lindenlaan"
     }, 
     {
@@ -649,11 +677,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.175810843476, 
-      "lon": 3.74517256764, 
+      "lat": 51.175836056906, 
+      "lon": 3.745044675465, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lindenlaan"
     }, 
     {
@@ -1029,11 +1057,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.177330974262, 
-      "lon": 3.746610922614, 
+      "lat": 51.177323780281, 
+      "lon": 3.746593285886, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lindenlaan"
     }
   ]

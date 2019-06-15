@@ -134,11 +134,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.149102645333, 
-      "lon": 2.71685670749, 
+      "lat": 51.149137794638, 
+      "lon": 2.716734244425, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Goethalsstraat"
     }, 
     {
@@ -253,18 +253,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Goethalsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "zn"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.148399753329, 
-      "lon": 2.716986199614, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Goethalsstraat"
     }
   ]

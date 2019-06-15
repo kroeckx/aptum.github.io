@@ -177,8 +177,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.978606593584, 
-      "lon": 4.819786118012, 
+      "lat": 50.978601997713, 
+      "lon": 4.819789064028, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanPerceelGrb", 
@@ -218,6 +218,18 @@
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Gijzelaarsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.978503081092, 
+      "lon": 4.819680887155, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gijzelaarsstraat"
     }, 
     {

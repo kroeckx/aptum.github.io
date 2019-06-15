@@ -89,11 +89,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.827281277035, 
-      "lon": 3.290862598589, 
+      "lat": 50.827236067386, 
+      "lon": 3.290912890702, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Beukenlaan"
     }, 
     {
@@ -110,38 +110,14 @@
     }, 
     {
       "hnrlbls": [
-        "18"
-      ], 
-      "housenumber": "18", 
-      "lat": 50.827253796007, 
-      "lon": 3.290934344845, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Beukenlaan"
-    }, 
-    {
-      "hnrlbls": [
         "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 50.827254151927, 
-      "lon": 3.291119864799, 
+      "lat": 50.827263519567, 
+      "lon": 3.291111984985, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Beukenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18B"
-      ], 
-      "housenumber": "18B", 
-      "lat": 50.827280284678, 
-      "lon": 3.29120472001, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beukenlaan"
     }, 
     {
@@ -161,11 +137,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.827208244911, 
-      "lon": 3.290311662305, 
+      "lat": 50.827152842284, 
+      "lon": 3.290299588835, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Beukenlaan"
     }, 
     {
@@ -181,27 +157,37 @@
       "street": "Beukenlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0015", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024", 
+        "0025", 
+        "0031", 
+        "0032", 
+        "0033", 
+        "0034", 
+        "0035"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.827429689988, 
-      "lon": 3.291858811497, 
+      "lat": 50.827400226979, 
+      "lon": 3.292077095138, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Beukenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.827488578348, 
-      "lon": 3.292260460571, 
-      "municipality": "Kortrijk", 
-      "pcode": "8500", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Beukenlaan"
     }, 
     {

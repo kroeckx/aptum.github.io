@@ -165,7 +165,7 @@
       "lon": 3.155783745779, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -177,7 +177,7 @@
       "lon": 3.155593950541, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -209,8 +209,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.03893615701, 
-      "lon": 3.1560438334, 
+      "lat": 51.038940203692, 
+      "lon": 3.156061410455, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 
@@ -225,7 +225,7 @@
       "lon": 3.155364518852, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -497,8 +497,8 @@
         "34A"
       ], 
       "housenumber": "34A", 
-      "lat": 51.042387588339, 
-      "lon": 3.154735463746, 
+      "lat": 51.042390063508, 
+      "lon": 3.154740105581, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 
@@ -569,8 +569,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.042951446971, 
-      "lon": 3.153967307648, 
+      "lat": 51.042951376199, 
+      "lon": 3.153969163384, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 
@@ -581,8 +581,8 @@
         "42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.043006184694, 
-      "lon": 3.153878896963, 
+      "lat": 51.042981539965, 
+      "lon": 3.153842886068, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 
@@ -641,8 +641,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.044611157355, 
-      "lon": 3.149504966911, 
+      "lat": 51.044606866477, 
+      "lon": 3.149602911086, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 
@@ -653,8 +653,8 @@
         "47A"
       ], 
       "housenumber": "47A", 
-      "lat": 51.044670358985, 
-      "lon": 3.149300914933, 
+      "lat": 51.044667036502, 
+      "lon": 3.149414236255, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 
@@ -665,8 +665,8 @@
         "47B"
       ], 
       "housenumber": "47B", 
-      "lat": 51.044709125444, 
-      "lon": 3.149181108624, 
+      "lat": 51.044714035405, 
+      "lon": 3.149325447978, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 
@@ -689,11 +689,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.044770577396, 
-      "lon": 3.149038178342, 
+      "lat": 51.044771555876, 
+      "lon": 3.149141404981, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -701,11 +701,11 @@
         "49A"
       ], 
       "housenumber": "49A", 
-      "lat": 51.044787872153, 
-      "lon": 3.148945884803, 
+      "lat": 51.044805212713, 
+      "lon": 3.149040413736, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kasteelstraat"
     }, 
     {
@@ -713,8 +713,8 @@
         "49B"
       ], 
       "housenumber": "49B", 
-      "lat": 51.044831028179, 
-      "lon": 3.148781182864, 
+      "lat": 51.044858941645, 
+      "lon": 3.148854900035, 
       "municipality": "Lichtervelde", 
       "pcode": "8810", 
       "source": "afgeleidVanGebouw", 

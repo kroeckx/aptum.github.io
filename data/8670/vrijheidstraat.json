@@ -1,8 +1,14 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "1-1A"
+        "1-1B"
       ], 
       "housenumber": "1", 
       "lat": 51.117481271845, 
@@ -97,15 +103,25 @@
       "street": "Vrijheidstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "101", 
-        "201"
-      ], 
       "hnrlbls": [
-        "1-1A"
+        "1-1B"
       ], 
       "housenumber": "1A", 
+      "lat": 51.117481271845, 
+      "lon": 2.682047278105, 
+      "municipality": "Koksijde", 
+      "pcode": "8670", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vrijheidstraat"
+    }, 
+    {
+      "apptnrs": [
+        "101"
+      ], 
+      "hnrlbls": [
+        "1-1B"
+      ], 
+      "housenumber": "1B", 
       "lat": 51.117481271845, 
       "lon": 2.682047278105, 
       "municipality": "Koksijde", 

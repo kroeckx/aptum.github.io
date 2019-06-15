@@ -290,11 +290,11 @@
     }, 
     {
       "hnrlbls": [
-        "11A-12A"
+        "11A-11B"
       ], 
       "housenumber": "11A", 
-      "lat": 51.065171673813, 
-      "lon": 3.701490458906, 
+      "lat": 51.065117183578, 
+      "lon": 3.701503646841, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -302,11 +302,11 @@
     }, 
     {
       "hnrlbls": [
-        "11A-12A"
+        "11A-11B"
       ], 
       "housenumber": "11B", 
-      "lat": 51.065171673813, 
-      "lon": 3.701490458906, 
+      "lat": 51.065117183578, 
+      "lon": 3.701503646841, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -314,7 +314,7 @@
     }, 
     {
       "hnrlbls": [
-        "11A-12A"
+        "12-12A"
       ], 
       "housenumber": "12", 
       "lat": 51.065171673813, 
@@ -446,7 +446,7 @@
     }, 
     {
       "hnrlbls": [
-        "11A-12A"
+        "12-12A"
       ], 
       "housenumber": "12A", 
       "lat": 51.065171673813, 
@@ -458,14 +458,14 @@
     }, 
     {
       "hnrlbls": [
-        "13"
+        "13-14"
       ], 
       "housenumber": "13", 
-      "lat": 51.065265540025, 
-      "lon": 3.701366574536, 
+      "lat": 51.065173413044, 
+      "lon": 3.701241774024, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Palinghuizen"
     }, 
     {
@@ -590,14 +590,14 @@
     }, 
     {
       "hnrlbls": [
-        "14-15B"
+        "13-14"
       ], 
       "housenumber": "14", 
-      "lat": 51.065243602263, 
-      "lon": 3.701191127135, 
+      "lat": 51.065173413044, 
+      "lon": 3.701241774024, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Palinghuizen"
     }, 
     {
@@ -638,23 +638,11 @@
     }, 
     {
       "hnrlbls": [
-        "142A"
-      ], 
-      "housenumber": "142A", 
-      "lat": 51.068418718905, 
-      "lon": 3.698309831207, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Palinghuizen"
-    }, 
-    {
-      "hnrlbls": [
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.068875057023, 
-      "lon": 3.698491484328, 
+      "lat": 51.068673425715, 
+      "lon": 3.698649312922, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -830,7 +818,7 @@
     }, 
     {
       "hnrlbls": [
-        "14-15B"
+        "15-15B"
       ], 
       "housenumber": "15", 
       "lat": 51.065243602263, 
@@ -854,7 +842,7 @@
     }, 
     {
       "hnrlbls": [
-        "14-15B"
+        "15-15B"
       ], 
       "housenumber": "15A", 
       "lat": 51.065243602263, 
@@ -866,7 +854,7 @@
     }, 
     {
       "hnrlbls": [
-        "14-15B"
+        "15-15B"
       ], 
       "housenumber": "15B", 
       "lat": 51.065243602263, 
@@ -982,11 +970,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.065276322644, 
-      "lon": 3.701953904829, 
+      "lat": 51.065015621476, 
+      "lon": 3.701935789322, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Palinghuizen"
     }, 
     {

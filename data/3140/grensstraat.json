@@ -125,8 +125,8 @@
         "109A"
       ], 
       "housenumber": "109A", 
-      "lat": 51.019438235744, 
-      "lon": 4.665844248132, 
+      "lat": 51.019448569091, 
+      "lon": 4.665845881537, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -209,8 +209,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.019725681739, 
-      "lon": 4.668472560127, 
+      "lat": 51.019726490019, 
+      "lon": 4.66847285035, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -233,8 +233,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.019689294261, 
-      "lon": 4.669028435815, 
+      "lat": 51.019709438652, 
+      "lon": 4.669025002296, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -329,8 +329,8 @@
         "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.019723762018, 
-      "lon": 4.670626153947, 
+      "lat": 51.01972960631, 
+      "lon": 4.670625621628, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -509,8 +509,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.020752878183, 
-      "lon": 4.674225646315, 
+      "lat": 51.020779100175, 
+      "lon": 4.674201161377, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -521,8 +521,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.020895579191, 
-      "lon": 4.674416134435, 
+      "lat": 51.020879296936, 
+      "lon": 4.674420731169, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -749,8 +749,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.021344368127, 
-      "lon": 4.677455260835, 
+      "lat": 51.021347506396, 
+      "lon": 4.677458274575, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -833,8 +833,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.023378117621, 
-      "lon": 4.68222122812, 
+      "lat": 51.023380999028, 
+      "lon": 4.682219394556, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -962,6 +962,18 @@
     }, 
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.996338086108, 
+      "lon": 4.63895884104, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -1015,6 +1027,30 @@
       "housenumber": "23A", 
       "lat": 51.017581388786, 
       "lon": 4.6372759404, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.017595483918, 
+      "lon": 4.637519432579, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 51.017604714265, 
+      "lon": 4.637728123864, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1094,6 +1130,30 @@
     }, 
     {
       "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.017768478201, 
+      "lon": 4.63957375407, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 51.017793046134, 
+      "lon": 4.63979550422, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -1109,11 +1169,83 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.017915734014, 
-      "lon": 4.640384796323, 
+      "lat": 51.017828387591, 
+      "lon": 4.640022875176, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 51.017836781097, 
+      "lon": 4.640241681587, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 51.017877488369, 
+      "lon": 4.640480627881, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.017916353679, 
+      "lon": 4.640699611996, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31A"
+      ], 
+      "housenumber": "31A", 
+      "lat": 51.017940919821, 
+      "lon": 4.640921220925, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31B"
+      ], 
+      "housenumber": "31B", 
+      "lat": 51.017972683013, 
+      "lon": 4.641140164295, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31C"
+      ], 
+      "housenumber": "31C", 
+      "lat": 51.01800260168, 
+      "lon": 4.641379049114, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grensstraat"
     }, 
     {
@@ -1409,8 +1541,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.019580933567, 
-      "lon": 4.649381694657, 
+      "lat": 51.019567520922, 
+      "lon": 4.649389595122, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1766,6 +1898,18 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "92C"
+      ], 
+      "housenumber": "92C", 
+      "lat": 51.006475846319, 
+      "lon": 4.618980855371, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Grensstraat"
     }, 
     {

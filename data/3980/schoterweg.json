@@ -382,8 +382,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.065398865616, 
-      "lon": 5.067261569157, 
+      "lat": 51.065442641312, 
+      "lon": 5.067261938059, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -2988,6 +2988,18 @@
     }, 
     {
       "hnrlbls": [
+        "358A"
+      ], 
+      "housenumber": "358A", 
+      "lat": 51.066692810301, 
+      "lon": 5.020500998665, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Schoterweg"
+    }, 
+    {
+      "hnrlbls": [
         "360"
       ], 
       "housenumber": "360", 
@@ -3151,11 +3163,11 @@
         "392"
       ], 
       "housenumber": "392", 
-      "lat": 51.06627245466, 
-      "lon": 5.014862430003, 
+      "lat": 51.066399211, 
+      "lon": 5.014811824196, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schoterweg"
     }, 
     {

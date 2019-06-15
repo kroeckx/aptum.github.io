@@ -121,6 +121,9 @@
       "street": "Louis Vangrootenbruelstraat"
     }, 
     {
+      "busnrs": [
+        "0201"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -353,11 +356,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.743664419854, 
-      "lon": 3.591377988602, 
+      "lat": 50.743628347897, 
+      "lon": 3.591388359939, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Louis Vangrootenbruelstraat"
     }, 
     {
@@ -367,18 +370,6 @@
       "housenumber": "38", 
       "lat": 50.743920103229, 
       "lon": 3.591716808005, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Louis Vangrootenbruelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "39"
-      ], 
-      "housenumber": "39", 
-      "lat": 50.743602182935, 
-      "lon": 3.591401401742, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 

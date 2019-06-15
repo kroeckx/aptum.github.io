@@ -26,14 +26,14 @@
     }, 
     {
       "hnrlbls": [
-        "10A"
+        "10A-12"
       ], 
       "housenumber": "10A", 
-      "lat": 50.759853404089, 
-      "lon": 4.107590030574, 
+      "lat": 50.759847444954, 
+      "lon": 4.107376472856, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -62,7 +62,7 @@
     }, 
     {
       "hnrlbls": [
-        "12"
+        "10A-12"
       ], 
       "housenumber": "12", 
       "lat": 50.759847444954, 
@@ -269,11 +269,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.75946185547, 
-      "lon": 4.106240505556, 
+      "lat": 50.759548818283, 
+      "lon": 4.106294872182, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Langestraat"
     }, 
     {
@@ -470,7 +470,7 @@
     }, 
     {
       "hnrlbls": [
-        "49"
+        "49-51"
       ], 
       "housenumber": "49", 
       "lat": 50.757680656601, 
@@ -494,11 +494,11 @@
     }, 
     {
       "hnrlbls": [
-        "51"
+        "49-51"
       ], 
       "housenumber": "51", 
-      "lat": 50.757853498954, 
-      "lon": 4.086265167815, 
+      "lat": 50.757680656601, 
+      "lon": 4.086502317476, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 

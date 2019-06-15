@@ -74,6 +74,18 @@
     }, 
     {
       "hnrlbls": [
+        "121"
+      ], 
+      "housenumber": "121", 
+      "lat": 51.181816830032, 
+      "lon": 5.088450883295, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Wanmolenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -190,7 +202,9 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "102", 
+        "103", 
         "2", 
         "3"
       ], 

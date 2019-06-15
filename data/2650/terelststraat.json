@@ -2,11 +2,23 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.155681111242, 
+      "lon": 4.443744726916, 
+      "municipality": "Edegem", 
+      "pcode": "2650", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Terelststraat"
+    }, 
+    {
+      "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.154457723776, 
-      "lon": 4.440214107809, 
+      "lat": 51.154451881442, 
+      "lon": 4.440213669994, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -161,8 +173,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.153911500986, 
-      "lon": 4.439151169324, 
+      "lat": 51.153912310735, 
+      "lon": 4.439149884209, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -431,8 +443,8 @@
         "257"
       ], 
       "housenumber": "257", 
-      "lat": 51.151925784439, 
-      "lon": 4.433790450112, 
+      "lat": 51.151924526589, 
+      "lon": 4.433789447891, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -455,8 +467,8 @@
         "261"
       ], 
       "housenumber": "261", 
-      "lat": 51.151844400981, 
-      "lon": 4.433694292519, 
+      "lat": 51.151848988117, 
+      "lon": 4.433689010881, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -570,8 +582,8 @@
         "368"
       ], 
       "housenumber": "368", 
-      "lat": 51.151013741265, 
-      "lon": 4.43007456783, 
+      "lat": 51.151017335889, 
+      "lon": 4.430076144708, 
       "municipality": "Edegem", 
       "pcode": "2650", 
       "source": "afgeleidVanGebouw", 
@@ -870,11 +882,11 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.154632049236, 
-      "lon": 4.439859911436, 
+      "lat": 51.154679364509, 
+      "lon": 4.439802097588, 
       "municipality": "Edegem", 
       "pcode": "2650", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Terelststraat"
     }, 
     {

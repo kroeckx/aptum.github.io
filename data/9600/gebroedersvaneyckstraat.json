@@ -38,6 +38,18 @@
     }, 
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.73818880023, 
+      "lon": 3.600462284054, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Gebroeders Van Eyckstraat"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -209,11 +221,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.738541077264, 
-      "lon": 3.600303819217, 
+      "lat": 50.738547197624, 
+      "lon": 3.600565251534, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gebroeders Van Eyckstraat"
     }, 
     {
@@ -286,6 +298,18 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Gebroeders Van Eyckstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.738373768471, 
+      "lon": 3.600523024124, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gebroeders Van Eyckstraat"
     }
   ]

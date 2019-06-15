@@ -144,11 +144,23 @@
     }, 
     {
       "hnrlbls": [
-        "1A-1D"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 50.930734920268, 
       "lon": 3.659485441326, 
+      "municipality": "Gavere", 
+      "pcode": "9890", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint Rochuswegel"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.930788105658, 
+      "lon": 3.659509674913, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -168,14 +180,14 @@
     }, 
     {
       "hnrlbls": [
-        "1A-1D"
+        "1D"
       ], 
       "housenumber": "1D", 
-      "lat": 50.930734920268, 
-      "lon": 3.659485441326, 
+      "lat": 50.930847694451, 
+      "lon": 3.659388285535, 
       "municipality": "Gavere", 
       "pcode": "9890", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Sint Rochuswegel"
     }, 
     {

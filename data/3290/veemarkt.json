@@ -178,11 +178,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.985407564056, 
-      "lon": 5.054629998842, 
+      "lat": 50.985408809183, 
+      "lon": 5.054632295797, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Veemarkt"
     }, 
     {
@@ -194,29 +194,9 @@
         "5"
       ], 
       "hnrlbls": [
-        "23A-23B"
+        "23A"
       ], 
       "housenumber": "23A", 
-      "lat": 50.985544195687, 
-      "lon": 5.05453914255, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Veemarkt"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "23A-23B"
-      ], 
-      "housenumber": "23B", 
       "lat": 50.985544195687, 
       "lon": 5.05453914255, 
       "municipality": "Diest", 
@@ -378,8 +358,20 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.984858702455, 
-      "lon": 5.05488514682, 
+      "lat": 50.984819784195, 
+      "lon": 5.054837863419, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Veemarkt"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 50.984897530809, 
+      "lon": 5.054932428983, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 

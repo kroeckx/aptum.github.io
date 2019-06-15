@@ -158,6 +158,18 @@
     }, 
     {
       "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.018936430983, 
+      "lon": 4.916137135241, 
+      "municipality": "Aarschot", 
+      "pcode": "3201", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Roosstraat"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -329,11 +341,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.018811307144, 
-      "lon": 4.916232156322, 
+      "lat": 51.018820147717, 
+      "lon": 4.916206178812, 
       "municipality": "Aarschot", 
       "pcode": "3201", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Roosstraat"
     }, 
     {

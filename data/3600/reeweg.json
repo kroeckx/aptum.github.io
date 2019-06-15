@@ -2,6 +2,30 @@
   "addresses": [
     {
       "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.953194635047, 
+      "lon": 5.512634286739, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Reeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.953030673095, 
+      "lon": 5.512761372964, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Reeweg"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
@@ -41,8 +65,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.951893083221, 
-      "lon": 5.513569075868, 
+      "lat": 50.951887399003, 
+      "lon": 5.513552711555, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 

@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.143980432437, 
-      "lon": 4.552603366242, 
-      "municipality": "Lier", 
-      "pcode": "2500", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Bollaarstraat"
-    }, 
-    {
-      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
@@ -58,6 +46,18 @@
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bollaarstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "115"
+      ], 
+      "housenumber": "115", 
+      "lat": 51.141475461315, 
+      "lon": 4.553352785932, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bollaarstraat"
     }, 
     {

@@ -322,6 +322,18 @@
     }, 
     {
       "hnrlbls": [
+        "124B"
+      ], 
+      "housenumber": "124B", 
+      "lat": 50.984798265698, 
+      "lon": 4.463919109809, 
+      "municipality": "Zemst", 
+      "pcode": "1980", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "125"
       ], 
       "housenumber": "125", 
@@ -500,6 +512,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "1", 
         "2", 
         "3", 
@@ -3042,18 +3055,6 @@
     }, 
     {
       "hnrlbls": [
-        "382"
-      ], 
-      "housenumber": "382", 
-      "lat": 50.963898734373, 
-      "lon": 4.455568222169, 
-      "municipality": "Zemst", 
-      "pcode": "1980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "383"
       ], 
       "housenumber": "383", 
@@ -3065,6 +3066,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0103"
+      ], 
       "hnrlbls": [
         "388-390"
       ], 
@@ -3358,6 +3362,9 @@
       "street": "Brusselsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "41A"
       ], 
@@ -3871,18 +3878,6 @@
       "municipality": "Zemst", 
       "pcode": "1980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.985901573691, 
-      "lon": 4.469828749113, 
-      "municipality": "Zemst", 
-      "pcode": "1980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {

@@ -468,21 +468,6 @@
     }, 
     {
       "apptnrs": [
-        "V1"
-      ], 
-      "hnrlbls": [
-        "33A"
-      ], 
-      "housenumber": "33A", 
-      "lat": 51.313066016669, 
-      "lon": 3.13716288776, 
-      "municipality": "Blankenberge", 
-      "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Koning Albert-I-laan"
-    }, 
-    {
-      "apptnrs": [
         "0001", 
         "0101", 
         "0201"
@@ -566,6 +551,30 @@
       "municipality": "Blankenberge", 
       "pcode": "8370", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Koning Albert-I-laan"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0501"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.31337718504, 
+      "lon": 3.13359096322, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koning Albert-I-laan"
     }, 
     {

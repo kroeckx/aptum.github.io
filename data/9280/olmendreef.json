@@ -21,7 +21,7 @@
       "lon": 4.09239299461, 
       "municipality": "Lebbeke", 
       "pcode": "9280", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Olmendreef"
     }, 
     {
@@ -33,7 +33,7 @@
       "lon": 4.092558919789, 
       "municipality": "Lebbeke", 
       "pcode": "9280", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Olmendreef"
     }, 
     {
@@ -259,6 +259,18 @@
       "housenumber": "5", 
       "lat": 50.982458712967, 
       "lon": 4.095035874386, 
+      "municipality": "Lebbeke", 
+      "pcode": "9280", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Olmendreef"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.983960003328, 
+      "lon": 4.092224354587, 
       "municipality": "Lebbeke", 
       "pcode": "9280", 
       "source": "manueleAanduidingVanGebouw", 

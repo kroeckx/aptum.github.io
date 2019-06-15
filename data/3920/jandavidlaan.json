@@ -17,8 +17,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.228268924628, 
-      "lon": 5.285111605009, 
+      "lat": 51.228256670309, 
+      "lon": 5.285115372604, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "afgeleidVanGebouw", 
@@ -31,18 +31,6 @@
       "housenumber": "12", 
       "lat": 51.229287610345, 
       "lon": 5.284746089225, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Jan Davidlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.227702097071, 
-      "lon": 5.284679837241, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanPerceel", 
@@ -290,6 +278,18 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.229791141357, 
+      "lon": 5.285017277898, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Jan Davidlaan"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -310,6 +310,18 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "afgeleidVanGebouw", 
+      "street": "Jan Davidlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.22769244787, 
+      "lon": 5.284475065385, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Jan Davidlaan"
     }
   ]

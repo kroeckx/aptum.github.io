@@ -92,8 +92,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.022677441315, 
-      "lon": 4.46766842745, 
+      "lat": 51.022684013309, 
+      "lon": 4.467656611682, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -437,8 +437,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.02215371286, 
-      "lon": 4.466525114523, 
+      "lat": 51.022160467382, 
+      "lon": 4.4665098785, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -910,8 +910,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.022794945586, 
-      "lon": 4.467965989549, 
+      "lat": 51.022817532096, 
+      "lon": 4.467937674767, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -1039,6 +1039,18 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Vrijgeweidestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 51.0213452003, 
+      "lon": 4.464178341387, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vrijgeweidestraat"
     }
   ]

@@ -135,8 +135,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.305917267056, 
-      "lon": 4.887244665444, 
+      "lat": 51.305918372623, 
+      "lon": 4.887238511673, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -178,8 +178,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.30572785814, 
-      "lon": 4.887065887186, 
+      "lat": 51.305727324523, 
+      "lon": 4.887064590661, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -260,8 +260,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.305396917174, 
-      "lon": 4.886879366594, 
+      "lat": 51.30541904463, 
+      "lon": 4.886998775513, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -289,8 +289,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.305304974026, 
-      "lon": 4.886918779287, 
+      "lat": 51.305305002289, 
+      "lon": 4.886912326789, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -322,20 +322,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
         "7"
       ], 
       "hnrlbls": [
         "11B"
       ], 
       "housenumber": "11B", 
-      "lat": 51.311176766788, 
-      "lon": 4.887469274596, 
+      "lat": 51.31117631048, 
+      "lon": 4.887470847056, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -355,8 +349,8 @@
         "11C"
       ], 
       "housenumber": "11C", 
-      "lat": 51.311049556235, 
-      "lon": 4.887454804086, 
+      "lat": 51.311049458183, 
+      "lon": 4.887456667368, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -376,8 +370,8 @@
         "11D"
       ], 
       "housenumber": "11D", 
-      "lat": 51.310917389159, 
-      "lon": 4.887443290013, 
+      "lat": 51.310917291108, 
+      "lon": 4.887445153289, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -407,8 +401,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.31056274646, 
-      "lon": 4.887025157822, 
+      "lat": 51.310558060749, 
+      "lon": 4.886986814551, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -520,11 +514,11 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.305815648061, 
-      "lon": 4.886476498962, 
+      "lat": 51.305823844458, 
+      "lon": 4.886657414452, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bolk"
     }, 
     {
@@ -541,14 +535,26 @@
     }, 
     {
       "hnrlbls": [
+        "12B"
+      ], 
+      "housenumber": "12B", 
+      "lat": 51.310561409591, 
+      "lon": 4.887022561497, 
+      "municipality": "Vosselaar", 
+      "pcode": "2350", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Bolk"
+    }, 
+    {
+      "hnrlbls": [
         "12C"
       ], 
       "housenumber": "12C", 
-      "lat": 51.310533870787, 
-      "lon": 4.886948397221, 
+      "lat": 51.310514252911, 
+      "lon": 4.886994787347, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bolk"
     }, 
     {
@@ -562,8 +568,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.304707571059, 
-      "lon": 4.886907530692, 
+      "lat": 51.304707021738, 
+      "lon": 4.886909818872, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -652,8 +658,8 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.304369121595, 
-      "lon": 4.886937168252, 
+      "lat": 51.304370205163, 
+      "lon": 4.886936033189, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -934,8 +940,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.310194688609, 
-      "lon": 4.886960820703, 
+      "lat": 51.310194780527, 
+      "lon": 4.887021914784, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1220,8 +1226,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.309456204512, 
-      "lon": 4.887126541083, 
+      "lat": 51.309456304443, 
+      "lon": 4.887124247659, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1256,11 +1262,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.309324057034, 
-      "lon": 4.887643631368, 
+      "lat": 51.30930852184, 
+      "lon": 4.887660810312, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bolk"
     }, 
     {
@@ -1490,8 +1496,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.308522918124, 
-      "lon": 4.887257099433, 
+      "lat": 51.30852212305, 
+      "lon": 4.887294949688, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1502,8 +1508,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.308044407705, 
-      "lon": 4.887947988946, 
+      "lat": 51.308044354956, 
+      "lon": 4.887939527503, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1525,6 +1531,23 @@
       "busnrs": [
         "1", 
         "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "67"
+      ], 
+      "housenumber": "67", 
+      "lat": 51.307953357647, 
+      "lon": 4.887824791577, 
+      "municipality": "Vosselaar", 
+      "pcode": "2350", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bolk"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
         "3", 
         "4", 
         "5"
@@ -1533,11 +1556,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.308348998872, 
-      "lon": 4.887358697709, 
+      "lat": 51.308358217347, 
+      "lon": 4.887408705609, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bolk"
     }, 
     {
@@ -1586,11 +1609,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.308258871494, 
-      "lon": 4.887373466564, 
+      "lat": 51.308292697805, 
+      "lon": 4.887428051145, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bolk"
     }, 
     {
@@ -1769,6 +1792,10 @@
       "street": "Bolk"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1842,18 +1869,6 @@
     }, 
     {
       "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.307781558454, 
-      "lon": 4.886950692772, 
-      "municipality": "Vosselaar", 
-      "pcode": "2350", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bolk"
-    }, 
-    {
-      "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
@@ -1900,21 +1915,6 @@
       "housenumber": "95", 
       "lat": 51.306558633192, 
       "lon": 4.887560990139, 
-      "municipality": "Vosselaar", 
-      "pcode": "2350", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bolk"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "95B"
-      ], 
-      "housenumber": "95B", 
-      "lat": 51.306511754196, 
-      "lon": 4.887920686624, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1995,8 +1995,8 @@
         "9A"
       ], 
       "housenumber": "9A", 
-      "lat": 51.310810941568, 
-      "lon": 4.888268733557, 
+      "lat": 51.310811915117, 
+      "lon": 4.888272186348, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -2015,8 +2015,8 @@
         "9B"
       ], 
       "housenumber": "9B", 
-      "lat": 51.310924103454, 
-      "lon": 4.888105073395, 
+      "lat": 51.310922142497, 
+      "lon": 4.888101322738, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -2037,8 +2037,8 @@
         "9C"
       ], 
       "housenumber": "9C", 
-      "lat": 51.311011417269, 
-      "lon": 4.887932662278, 
+      "lat": 51.311007934038, 
+      "lon": 4.887927603894, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 

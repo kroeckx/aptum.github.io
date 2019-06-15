@@ -68,6 +68,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3", 
         "4"
       ], 
@@ -83,18 +84,15 @@
       "street": "Bollandusstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "15-17"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.210599392524, 
-      "lon": 4.406405864478, 
+      "lat": 51.210627279911, 
+      "lon": 4.40633405056, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bollandusstraat"
     }, 
     {
@@ -110,8 +108,16 @@
       "street": "Bollandusstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
-        "15-17"
+        "17"
       ], 
       "housenumber": "17", 
       "lat": 51.210599392524, 

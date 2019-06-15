@@ -299,6 +299,23 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "1/1", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.076205422786, 
+      "lon": 4.791516507178, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kerkstraat"
+    }, 
+    {
       "hnrlbls": [
         "40"
       ], 
@@ -355,7 +372,7 @@
       "lon": 4.795775577393, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kerkstraat"
     }, 
     {

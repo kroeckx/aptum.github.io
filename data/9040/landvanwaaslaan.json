@@ -280,18 +280,6 @@
       "hnrlbls": [
         "117-121"
       ], 
-      "housenumber": "117A", 
-      "lat": 51.058440152847, 
-      "lon": 3.74624375394, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Land van Waaslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "117-121"
-      ], 
       "housenumber": "119", 
       "lat": 51.058440152847, 
       "lon": 3.74624375394, 
@@ -458,38 +446,38 @@
     }, 
     {
       "hnrlbls": [
-        "131-131B"
+        "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.058493002075, 
-      "lon": 3.746480834209, 
+      "lat": 51.058485251479, 
+      "lon": 3.746442994663, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Land van Waaslaan"
     }, 
     {
       "hnrlbls": [
-        "131-131B"
+        "131A"
       ], 
       "housenumber": "131A", 
-      "lat": 51.058493002075, 
-      "lon": 3.746480834209, 
+      "lat": 51.058485340613, 
+      "lon": 3.746442850838, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Land van Waaslaan"
     }, 
     {
       "hnrlbls": [
-        "131-131B"
+        "131B"
       ], 
       "housenumber": "131B", 
-      "lat": 51.058493002075, 
-      "lon": 3.746480834209, 
+      "lat": 51.058485431251, 
+      "lon": 3.746442992274, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Land van Waaslaan"
     }, 
     {
@@ -626,35 +614,11 @@
     }, 
     {
       "hnrlbls": [
-        "144-148"
-      ], 
-      "housenumber": "144", 
-      "lat": 51.058523364168, 
-      "lon": 3.748029227906, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Land van Waaslaan"
-    }, 
-    {
-      "hnrlbls": [
         "145"
       ], 
       "housenumber": "145", 
       "lat": 51.058581487753, 
       "lon": 3.746861794776, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Land van Waaslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "144-148"
-      ], 
-      "housenumber": "146", 
-      "lat": 51.058523364168, 
-      "lon": 3.748029227906, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanPerceel", 
@@ -673,8 +637,15 @@
       "street": "Land van Waaslaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401"
+      ], 
       "hnrlbls": [
-        "144-148"
+        "148"
       ], 
       "housenumber": "148", 
       "lat": 51.058523364168, 

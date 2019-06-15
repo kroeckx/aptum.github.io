@@ -496,7 +496,7 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "11"
       ], 
       "hnrlbls": [
         "36"
@@ -594,6 +594,21 @@
       "municipality": "Wetteren", 
       "pcode": "9230", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kapellendries"
+    }, 
+    {
+      "busnrs": [
+        "03"
+      ], 
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 51.010798716499, 
+      "lon": 3.881577649599, 
+      "municipality": "Wetteren", 
+      "pcode": "9230", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kapellendries"
     }, 
     {

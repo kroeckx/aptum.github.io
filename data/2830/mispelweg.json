@@ -17,8 +17,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.052335127937, 
-      "lon": 4.355762439564, 
+      "lat": 51.052023560251, 
+      "lon": 4.35654320303, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -221,11 +221,11 @@
         "27A"
       ], 
       "housenumber": "27A", 
-      "lat": 51.050625556159, 
-      "lon": 4.356106726415, 
+      "lat": 51.050583726804, 
+      "lon": 4.356704423596, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mispelweg"
     }, 
     {
@@ -329,11 +329,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.050186801537, 
-      "lon": 4.356984179485, 
+      "lat": 51.050224283582, 
+      "lon": 4.356964347711, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Mispelweg"
     }, 
     {
@@ -413,11 +413,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.049790063533, 
-      "lon": 4.356406704957, 
+      "lat": 51.049765988857, 
+      "lon": 4.356566576105, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mispelweg"
     }, 
     {
@@ -425,11 +425,11 @@
         "44A"
       ], 
       "housenumber": "44A", 
-      "lat": 51.049914612409, 
-      "lon": 4.356029185626, 
+      "lat": 51.049831697961, 
+      "lon": 4.35656541909, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mispelweg"
     }, 
     {
@@ -479,14 +479,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "6-93"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.05238707035, 
-      "lon": 4.355632216227, 
+      "lat": 51.052628815538, 
+      "lon": 4.355944913602, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mispelweg"
     }, 
     {
@@ -499,14 +499,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "8-91"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.052387070365, 
-      "lon": 4.355632358844, 
+      "lat": 51.0524272, 
+      "lon": 4.356007289656, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mispelweg"
     }, 
     {

@@ -157,6 +157,18 @@
     }, 
     {
       "hnrlbls": [
+        "19A-21"
+      ], 
+      "housenumber": "19A", 
+      "lat": 51.208770392111, 
+      "lon": 3.22213174039, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geldmuntstraat"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -169,7 +181,7 @@
     }, 
     {
       "hnrlbls": [
-        "21"
+        "19A-21"
       ], 
       "housenumber": "21", 
       "lat": 51.208770392111, 
@@ -436,6 +448,22 @@
       "housenumber": "41", 
       "lat": 51.20848391927, 
       "lon": 3.221522253878, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Geldmuntstraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "43-46"
+      ], 
+      "housenumber": "43", 
+      "lat": 51.208410908309, 
+      "lon": 3.22140011419, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

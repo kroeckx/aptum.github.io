@@ -85,8 +85,13 @@
       "street": "Weversfabriekstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "26"
@@ -192,6 +197,10 @@
       "street": "Weversfabriekstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "34"
       ], 

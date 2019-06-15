@@ -170,6 +170,18 @@
     }, 
     {
       "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 50.887071308755, 
+      "lon": 3.241106387154, 
+      "municipality": "Lendelede", 
+      "pcode": "8860", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Rozebeeksestraat"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -317,11 +329,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.893426996894, 
-      "lon": 3.257786211959, 
+      "lat": 50.893415737386, 
+      "lon": 3.257793443557, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rozebeeksestraat"
     }, 
     {
@@ -948,18 +960,6 @@
     }, 
     {
       "hnrlbls": [
-        "48"
-      ], 
-      "housenumber": "48", 
-      "lat": 50.887885068631, 
-      "lon": 3.244899467232, 
-      "municipality": "Lendelede", 
-      "pcode": "8860", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Rozebeeksestraat"
-    }, 
-    {
-      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -1311,11 +1311,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.889583462417, 
-      "lon": 3.248090382529, 
+      "lat": 50.890039788903, 
+      "lon": 3.248511606858, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Rozebeeksestraat"
     }, 
     {

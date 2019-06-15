@@ -239,8 +239,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 50.969259739624, 
-      "lon": 5.074720084241, 
+      "lat": 50.969259027366, 
+      "lon": 5.074718934537, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
@@ -928,11 +928,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.972879953466, 
-      "lon": 5.069250522415, 
+      "lat": 50.972863601044, 
+      "lon": 5.069188768883, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Halensebaan"
     }, 
     {
@@ -940,11 +940,11 @@
         "53BIS"
       ], 
       "housenumber": "53BIS", 
-      "lat": 50.97279901219, 
-      "lon": 5.069075463793, 
+      "lat": 50.972879953466, 
+      "lon": 5.069250522415, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Halensebaan"
     }, 
     {
@@ -1359,11 +1359,11 @@
     }, 
     {
       "hnrlbls": [
-        "96"
+        "94"
       ], 
-      "housenumber": "96", 
-      "lat": 50.970906072724, 
-      "lon": 5.072596020059, 
+      "housenumber": "94", 
+      "lat": 50.971072538683, 
+      "lon": 5.072404462673, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1383,11 +1383,23 @@
     }, 
     {
       "hnrlbls": [
+        "96B"
+      ], 
+      "housenumber": "96B", 
+      "lat": 50.970906072724, 
+      "lon": 5.072596020059, 
+      "municipality": "Diest", 
+      "pcode": "3290", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Halensebaan"
+    }, 
+    {
+      "hnrlbls": [
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 50.970191809022, 
-      "lon": 5.072542858764, 
+      "lat": 50.970224908875, 
+      "lon": 5.072494806664, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 

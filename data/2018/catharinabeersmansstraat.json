@@ -49,6 +49,10 @@
       "street": "Catharina Beersmansstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -238,10 +242,6 @@
       "street": "Catharina Beersmansstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -308,10 +308,10 @@
       "street": "Catharina Beersmansstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "31"

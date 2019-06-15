@@ -9,7 +9,7 @@
       "lon": 4.454707545902, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {
@@ -149,11 +149,11 @@
         "113-115"
       ], 
       "housenumber": "113", 
-      "lat": 51.229696813147, 
-      "lon": 4.451757866008, 
+      "lat": 51.229690876885, 
+      "lon": 4.451763438585, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {
@@ -173,11 +173,11 @@
         "113-115"
       ], 
       "housenumber": "115", 
-      "lat": 51.229696813147, 
-      "lon": 4.451757866008, 
+      "lat": 51.229690876885, 
+      "lon": 4.451763438585, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {
@@ -261,7 +261,7 @@
       "lon": 4.451577155292, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {
@@ -285,7 +285,7 @@
       "lon": 4.451577155292, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {
@@ -369,7 +369,7 @@
       "lon": 4.454447531954, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {
@@ -645,7 +645,7 @@
       "lon": 4.454447531954, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {
@@ -1190,8 +1190,8 @@
         "19-21"
       ], 
       "housenumber": "19", 
-      "lat": 51.23005518873, 
-      "lon": 4.454247220252, 
+      "lat": 51.230130969055, 
+      "lon": 4.454235621133, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1210,10 +1210,6 @@
       "street": "Van Heetveldelei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "191"
       ], 
@@ -1262,6 +1258,10 @@
       "street": "Van Heetveldelei"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "197"
       ], 
@@ -1371,8 +1371,8 @@
         "19-21"
       ], 
       "housenumber": "21", 
-      "lat": 51.23005518873, 
-      "lon": 4.454247220252, 
+      "lat": 51.230130969055, 
+      "lon": 4.454235621133, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -1555,7 +1555,7 @@
       "lon": 4.454707545902, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {
@@ -1810,7 +1810,7 @@
       "lon": 4.454620540784, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {
@@ -1989,7 +1989,7 @@
       "lon": 4.454620540784, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Van Heetveldelei"
     }, 
     {

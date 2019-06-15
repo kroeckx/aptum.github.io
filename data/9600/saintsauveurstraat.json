@@ -487,26 +487,14 @@
     }, 
     {
       "hnrlbls": [
-        "156"
-      ], 
-      "housenumber": "156", 
-      "lat": 50.735937337446, 
-      "lon": 3.598623005604, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Saint-Sauveurstraat"
-    }, 
-    {
-      "hnrlbls": [
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 50.73589446785, 
-      "lon": 3.598625122329, 
+      "lat": 50.735894739392, 
+      "lon": 3.598625401229, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Saint-Sauveurstraat"
     }, 
     {
@@ -1227,18 +1215,6 @@
     }, 
     {
       "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.737950347095, 
-      "lon": 3.598144994667, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Saint-Sauveurstraat"
-    }, 
-    {
-      "hnrlbls": [
         "64"
       ], 
       "housenumber": "64", 
@@ -1391,6 +1367,18 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Saint-Sauveurstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 50.739508618506, 
+      "lon": 3.598061725943, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Saint-Sauveurstraat"
     }, 
     {

@@ -623,12 +623,17 @@
       "street": "Kasteeldreef"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.028908629477, 
-      "lon": 3.843296779425, 
+      "lat": 51.028859152396, 
+      "lon": 3.843328979884, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 

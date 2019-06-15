@@ -134,7 +134,7 @@
     }, 
     {
       "hnrlbls": [
-        "19-19A"
+        "19"
       ], 
       "housenumber": "19", 
       "lat": 50.822237039417, 
@@ -146,19 +146,19 @@
     }, 
     {
       "hnrlbls": [
-        "19-19A"
+        "19A-19C"
       ], 
       "housenumber": "19A", 
-      "lat": 50.822237039417, 
-      "lon": 3.850406611669, 
+      "lat": 50.822107433559, 
+      "lon": 3.850270231355, 
       "municipality": "Lierde", 
       "pcode": "9570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Kapellestraat"
     }, 
     {
       "hnrlbls": [
-        "19B-19C"
+        "19A-19C"
       ], 
       "housenumber": "19B", 
       "lat": 50.822107433559, 
@@ -293,8 +293,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.823351173779, 
-      "lon": 3.854829403209, 
+      "lat": 50.823351080778, 
+      "lon": 3.854828694592, 
       "municipality": "Lierde", 
       "pcode": "9570", 
       "source": "afgeleidVanGebouw", 
@@ -365,8 +365,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.822025618541, 
-      "lon": 3.848805216377, 
+      "lat": 50.822021204331, 
+      "lon": 3.848823431169, 
       "municipality": "Lierde", 
       "pcode": "9570", 
       "source": "afgeleidVanGebouw", 

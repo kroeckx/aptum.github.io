@@ -577,6 +577,11 @@
       "street": "Willem de Croylaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "7"
       ], 
@@ -601,10 +606,10 @@
       "street": "Willem de Croylaan"
     }, 
     {
-      "apptnrs": [
-        "1", 
-        "11", 
-        "21"
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "9"

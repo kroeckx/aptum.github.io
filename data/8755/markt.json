@@ -157,8 +157,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.041298474618, 
-      "lon": 3.396854797326, 
+      "lat": 51.041297721465, 
+      "lon": 3.396850677674, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -166,21 +166,9 @@
     }, 
     {
       "hnrlbls": [
-        "4-4A"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.041799991127, 
-      "lon": 3.397942961344, 
-      "municipality": "Ruiselede", 
-      "pcode": "8755", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Markt"
-    }, 
-    {
-      "hnrlbls": [
-        "4-4A"
-      ], 
-      "housenumber": "4A", 
       "lat": 51.041799991127, 
       "lon": 3.397942961344, 
       "municipality": "Ruiselede", 
@@ -193,8 +181,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.041325129989, 
-      "lon": 3.396718635551, 
+      "lat": 51.041323034994, 
+      "lon": 3.396704419435, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -224,27 +212,26 @@
         "0201"
       ], 
       "hnrlbls": [
-        "7-7A", 
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.041362463862, 
-      "lon": 3.396623747436, 
+      "lat": 51.041400072442, 
+      "lon": 3.396747453353, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Markt"
     }, 
     {
       "hnrlbls": [
-        "7-7A"
+        "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.041362463862, 
-      "lon": 3.396623747436, 
+      "lat": 51.041425275943, 
+      "lon": 3.396675061861, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Markt"
     }, 
     {

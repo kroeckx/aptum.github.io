@@ -8,11 +8,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.154377020514, 
-      "lon": 3.234962380541, 
+      "lat": 51.154365867153, 
+      "lon": 3.235092874566, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Majoor Woodstraat"
     }, 
     {
@@ -128,18 +128,6 @@
     }, 
     {
       "hnrlbls": [
-        "1A"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.154365867153, 
-      "lon": 3.235092874566, 
-      "municipality": "Oostkamp", 
-      "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Majoor Woodstraat"
-    }, 
-    {
-      "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
@@ -215,11 +203,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.154314541512, 
-      "lon": 3.234840534893, 
+      "lat": 51.154389413448, 
+      "lon": 3.234839289536, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Majoor Woodstraat"
     }, 
     {
@@ -243,11 +231,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.15434445456, 
-      "lon": 3.234735172832, 
+      "lat": 51.154397715201, 
+      "lon": 3.234711437616, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Majoor Woodstraat"
     }, 
     {
@@ -279,11 +267,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.154296898142, 
-      "lon": 3.234547782262, 
+      "lat": 51.154388051981, 
+      "lon": 3.234538279164, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Majoor Woodstraat"
     }
   ]

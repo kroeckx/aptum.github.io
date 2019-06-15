@@ -134,18 +134,6 @@
     }, 
     {
       "hnrlbls": [
-        "14C"
-      ], 
-      "housenumber": "14C", 
-      "lat": 51.021066060246, 
-      "lon": 4.715816020228, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2223", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Langstraat"
-    }, 
-    {
-      "hnrlbls": [
         "14D"
       ], 
       "housenumber": "14D", 
@@ -257,11 +245,11 @@
         "17A"
       ], 
       "housenumber": "17A", 
-      "lat": 51.02120485359, 
-      "lon": 4.714840476484, 
+      "lat": 51.021179225089, 
+      "lon": 4.714874207397, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Langstraat"
     }, 
     {
@@ -269,11 +257,11 @@
         "17B"
       ], 
       "housenumber": "17B", 
-      "lat": 51.020893540125, 
-      "lon": 4.713532517733, 
+      "lat": 51.02085957738, 
+      "lon": 4.713557636273, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Langstraat"
     }, 
     {
@@ -298,18 +286,6 @@
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Langstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "18A"
-      ], 
-      "housenumber": "18A", 
-      "lat": 51.021858456304, 
-      "lon": 4.718633372282, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2223", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Langstraat"
     }, 
     {
@@ -926,18 +902,6 @@
     }, 
     {
       "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 51.023730742411, 
-      "lon": 4.726534097867, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2223", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Langstraat"
-    }, 
-    {
-      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -1198,8 +1162,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.025269047336, 
-      "lon": 4.731927481716, 
+      "lat": 51.025267889349, 
+      "lon": 4.731924051842, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2223", 
       "source": "afgeleidVanGebouw", 

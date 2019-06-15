@@ -85,6 +85,39 @@
       "street": "Terweststraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0301", 
+        "0302", 
+        "0303", 
+        "0304", 
+        "0401", 
+        "0402", 
+        "0403", 
+        "0404"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.17127054583, 
+      "lon": 3.923280989517, 
+      "municipality": "Moerbeke", 
+      "pcode": "9180", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Terweststraat"
+    }, 
+    {
       "hnrlbls": [
         "21"
       ], 
@@ -94,6 +127,31 @@
       "municipality": "Moerbeke", 
       "pcode": "9180", 
       "source": "afgeleidVanGebouw", 
+      "street": "Terweststraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204"
+      ], 
+      "hnrlbls": [
+        "22"
+      ], 
+      "housenumber": "22", 
+      "lat": 51.171707993067, 
+      "lon": 3.923152710636, 
+      "municipality": "Moerbeke", 
+      "pcode": "9180", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Terweststraat"
     }, 
     {

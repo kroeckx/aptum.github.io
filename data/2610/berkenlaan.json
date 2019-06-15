@@ -400,9 +400,6 @@
       "street": "Berkenlaan"
     }, 
     {
-      "apptnrs": [
-        "3.0"
-      ], 
       "hnrlbls": [
         "46"
       ], 
@@ -631,6 +628,11 @@
       "street": "Berkenlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "65-67"
       ], 
@@ -655,6 +657,11 @@
       "street": "Berkenlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -711,14 +718,6 @@
       "street": "Berkenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
         "75"
       ], 
@@ -728,51 +727,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "busnrs": [
-        "b"
-      ], 
-      "hnrlbls": [
-        "75_2-75_4"
-      ], 
-      "housenumber": "75_2", 
-      "lat": 51.182730619479, 
-      "lon": 4.393888966119, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "75_2-75_4"
-      ], 
-      "housenumber": "75_3", 
-      "lat": 51.182730619479, 
-      "lon": 4.393888966119, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Berkenlaan"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "75_2-75_4"
-      ], 
-      "housenumber": "75_4", 
-      "lat": 51.182730619479, 
-      "lon": 4.393888966119, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Berkenlaan"
     }, 
     {

@@ -65,8 +65,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.928400809759, 
-      "lon": 4.43095996766, 
+      "lat": 50.928400000798, 
+      "lon": 4.430959824335, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -104,8 +104,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.928431472114, 
-      "lon": 4.431611755701, 
+      "lat": 50.928430662231, 
+      "lon": 4.431613319252, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -373,10 +373,10 @@
       "street": "Campionlei (Ferdinand)"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2"
+      "busnrs": [
+        "0002", 
+        "01/1", 
+        "O000"
       ], 
       "hnrlbls": [
         "4"
@@ -415,8 +415,7 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
         "5"
@@ -472,9 +471,6 @@
     {
       "apptnrs": [
         "01/1"
-      ], 
-      "busnrs": [
-        "11"
       ], 
       "hnrlbls": [
         "9"

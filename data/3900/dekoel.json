@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.218290681735, 
+      "lon": 5.426784480765, 
+      "municipality": "Pelt", 
+      "pcode": "3900", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "De Koel"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -226,6 +238,32 @@
       "street": "De Koel"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.218321883384, 
+      "lon": 5.427014355444, 
+      "municipality": "Pelt", 
+      "pcode": "3900", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "De Koel"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 
@@ -235,6 +273,18 @@
       "municipality": "Pelt", 
       "pcode": "3900", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "De Koel"
+    }, 
+    {
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.218396306653, 
+      "lon": 5.427466792457, 
+      "municipality": "Pelt", 
+      "pcode": "3900", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "De Koel"
     }, 
     {

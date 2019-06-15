@@ -1000,6 +1000,21 @@
       "street": "Oude Molenstraat"
     }, 
     {
+      "apptnrs": [
+        "2"
+      ], 
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 51.182607979441, 
+      "lon": 5.100244977903, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Oude Molenstraat"
+    }, 
+    {
       "hnrlbls": [
         "47"
       ], 
@@ -1048,7 +1063,7 @@
       "street": "Oude Molenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -1380,7 +1395,7 @@
       "street": "Oude Molenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -1411,6 +1426,9 @@
       "street": "Oude Molenstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "85"
       ], 

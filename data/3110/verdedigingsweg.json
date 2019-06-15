@@ -5,11 +5,23 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.946611809472, 
-      "lon": 4.705312750741, 
+      "lat": 50.946612170263, 
+      "lon": 4.705312326443, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
+      "street": "Verdedigingsweg"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.946247638665, 
+      "lon": 4.704501605736, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Verdedigingsweg"
     }, 
     {
@@ -17,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.945895869049, 
-      "lon": 4.705917622357, 
+      "lat": 50.945897759226, 
+      "lon": 4.705916782201, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
@@ -26,11 +38,71 @@
     }, 
     {
       "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.946122832332, 
+      "lon": 4.704639164345, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Verdedigingsweg"
+    }, 
+    {
+      "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.945838630002, 
-      "lon": 4.705972135924, 
+      "lat": 50.945839888893, 
+      "lon": 4.705972002698, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Verdedigingsweg"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.946244308084, 
+      "lon": 4.704942557566, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Verdedigingsweg"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.94605089815, 
+      "lon": 4.706336803329, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Verdedigingsweg"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.946115445356, 
+      "lon": 4.706585290323, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
@@ -41,11 +113,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.945754502378, 
-      "lon": 4.706498873904, 
+      "lat": 50.945781798353, 
+      "lon": 4.706447417851, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verdedigingsweg"
     }, 
     {
@@ -53,11 +125,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.945727159881, 
-      "lon": 4.706379149181, 
+      "lat": 50.945754661592, 
+      "lon": 4.70634989254, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verdedigingsweg"
     }, 
     {
@@ -65,11 +137,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.945702322761, 
-      "lon": 4.706263426908, 
+      "lat": 50.945726722685, 
+      "lon": 4.706249942551, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verdedigingsweg"
     }, 
     {
@@ -77,11 +149,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.945674922721, 
-      "lon": 4.706163623261, 
+      "lat": 50.945694456618, 
+      "lon": 4.706154230328, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Verdedigingsweg"
     }, 
     {
@@ -89,8 +161,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.94658993365, 
-      "lon": 4.705198471113, 
+      "lat": 50.946590024358, 
+      "lon": 4.705198187171, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
@@ -110,6 +182,18 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.946529330059, 
+      "lon": 4.704733435825, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Verdedigingsweg"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -118,6 +202,18 @@
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 
+      "street": "Verdedigingsweg"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.946504836472, 
+      "lon": 4.704340093626, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Verdedigingsweg"
     }, 
     {
@@ -134,11 +230,23 @@
     }, 
     {
       "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.946346481453, 
+      "lon": 4.70442134801, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Verdedigingsweg"
+    }, 
+    {
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.945956035231, 
-      "lon": 4.705876790084, 
+      "lat": 50.945956936192, 
+      "lon": 4.705876085096, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
       "source": "afgeleidVanGebouw", 

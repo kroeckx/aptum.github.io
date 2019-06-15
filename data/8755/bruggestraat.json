@@ -267,8 +267,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.044509858564, 
-      "lon": 3.388526156017, 
+      "lat": 51.044510412085, 
+      "lon": 3.388527855702, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -303,8 +303,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.045262806498, 
-      "lon": 3.38766858225, 
+      "lat": 51.045262858719, 
+      "lon": 3.387674855914, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -423,8 +423,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.04500320516, 
-      "lon": 3.388189830765, 
+      "lat": 51.044994265713, 
+      "lon": 3.388152654802, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -459,8 +459,8 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.045068548322, 
-      "lon": 3.388199158338, 
+      "lat": 51.045070600829, 
+      "lon": 3.388175727732, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -579,8 +579,8 @@
         "140A"
       ], 
       "housenumber": "140A", 
-      "lat": 51.044342866739, 
-      "lon": 3.391605361358, 
+      "lat": 51.044344082441, 
+      "lon": 3.391621878203, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -591,8 +591,8 @@
         "140B"
       ], 
       "housenumber": "140B", 
-      "lat": 51.044961901631, 
-      "lon": 3.390857592219, 
+      "lat": 51.044962896247, 
+      "lon": 3.390858284489, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -1192,8 +1192,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.041609087885, 
-      "lon": 3.395898087493, 
+      "lat": 51.041610187653, 
+      "lon": 3.395900631394, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -1563,8 +1563,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.043168488553, 
-      "lon": 3.391144302181, 
+      "lat": 51.043158789586, 
+      "lon": 3.3911346651, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -1595,15 +1595,25 @@
       "street": "Bruggestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
       "hnrlbls": [
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.043168282525, 
-      "lon": 3.390881063796, 
+      "lat": 51.04314350362, 
+      "lon": 3.390950029875, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1892,8 +1902,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.0432997753, 
-      "lon": 3.391647371534, 
+      "lat": 51.043198045605, 
+      "lon": 3.391629814654, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -1916,11 +1926,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.043418933783, 
-      "lon": 3.391262426084, 
+      "lat": 51.043439621968, 
+      "lon": 3.391285523751, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Bruggestraat"
     }, 
     {
@@ -1940,8 +1950,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.043431784605, 
-      "lon": 3.391077630303, 
+      "lat": 51.043476176807, 
+      "lon": 3.39107556288, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -1964,8 +1974,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.043606352852, 
-      "lon": 3.390924395963, 
+      "lat": 51.043505817508, 
+      "lon": 3.390888277251, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
       "source": "afgeleidVanGebouw", 
@@ -2005,11 +2015,11 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.043741300867, 
-      "lon": 3.390828316088, 
+      "lat": 51.043526187275, 
+      "lon": 3.390764643199, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bruggestraat"
     }, 
     {
@@ -2070,11 +2080,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.043862386873, 
-      "lon": 3.39073010084, 
+      "lat": 51.04348403767, 
+      "lon": 3.390538642469, 
       "municipality": "Ruiselede", 
       "pcode": "8755", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bruggestraat"
     }, 
     {

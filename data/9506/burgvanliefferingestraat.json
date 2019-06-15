@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 50.798285092661, 
-      "lon": 3.897938770624, 
-      "municipality": "Geraardsbergen", 
-      "pcode": "9506", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Burg. Van Liefferingestraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -29,8 +17,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.797636483798, 
-      "lon": 3.897358141019, 
+      "lat": 50.797631989073, 
+      "lon": 3.897358185979, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 
@@ -137,11 +125,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.798277095236, 
-      "lon": 3.897827640056, 
+      "lat": 50.798232766663, 
+      "lon": 3.897937449343, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -185,11 +173,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.79675283304, 
-      "lon": 3.895605684185, 
+      "lat": 50.796770236926, 
+      "lon": 3.895641254536, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -197,11 +185,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.796861923225, 
-      "lon": 3.895594234184, 
+      "lat": 50.796842303157, 
+      "lon": 3.895633296918, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -209,11 +197,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.796966786647, 
-      "lon": 3.895582401029, 
+      "lat": 50.796976823765, 
+      "lon": 3.895619180263, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -221,11 +209,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.797066530655, 
-      "lon": 3.895571753996, 
+      "lat": 50.79704897817, 
+      "lon": 3.895610796151, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -281,8 +269,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.79759334338, 
-      "lon": 3.896824089153, 
+      "lat": 50.797587696571, 
+      "lon": 3.896828259293, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 
@@ -425,8 +413,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.798585898604, 
-      "lon": 3.896374836683, 
+      "lat": 50.79857423288, 
+      "lon": 3.896380060256, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 
@@ -437,8 +425,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.798669243814, 
-      "lon": 3.89633258066, 
+      "lat": 50.798662619037, 
+      "lon": 3.896339455933, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 
@@ -473,8 +461,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.798421494087, 
-      "lon": 3.896915800394, 
+      "lat": 50.79842513607, 
+      "lon": 3.896927253823, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -485,8 +473,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.798431147905, 
-      "lon": 3.897013864324, 
+      "lat": 50.798434674891, 
+      "lon": 3.897019077489, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanGebouw", 
@@ -497,11 +485,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.798505652433, 
-      "lon": 3.89716518255, 
+      "lat": 50.798449329246, 
+      "lon": 3.897198229972, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -509,11 +497,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.798524542127, 
-      "lon": 3.89730216328, 
+      "lat": 50.798458713144, 
+      "lon": 3.897296296716, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -521,11 +509,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.79854227101, 
-      "lon": 3.897441141641, 
+      "lat": 50.798476436591, 
+      "lon": 3.897478681246, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -533,8 +521,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.798171620993, 
-      "lon": 3.897239733804, 
+      "lat": 50.798167583151, 
+      "lon": 3.897241618251, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 
@@ -545,11 +533,11 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.798559636162, 
-      "lon": 3.897579130785, 
+      "lat": 50.798485909579, 
+      "lon": 3.897576605359, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -557,11 +545,11 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.79857682421, 
-      "lon": 3.897717831054, 
+      "lat": 50.798503995015, 
+      "lon": 3.897759695732, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -569,11 +557,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.798593477281, 
-      "lon": 3.897857671577, 
+      "lat": 50.798513913825, 
+      "lon": 3.897856764397, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burg. Van Liefferingestraat"
     }, 
     {
@@ -581,8 +569,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.79808587264, 
-      "lon": 3.897265699118, 
+      "lat": 50.798078237877, 
+      "lon": 3.897267335847, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 
@@ -593,8 +581,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.797996537618, 
-      "lon": 3.897293969808, 
+      "lat": 50.797987558427, 
+      "lon": 3.897296612924, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 
@@ -605,8 +593,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.797904776576, 
-      "lon": 3.897322548357, 
+      "lat": 50.797894800566, 
+      "lon": 3.897323215549, 
       "municipality": "Geraardsbergen", 
       "pcode": "9506", 
       "source": "afgeleidVanPerceelGrb", 

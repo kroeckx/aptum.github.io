@@ -404,8 +404,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.9517856988, 
-      "lon": 5.471155760771, 
+      "lat": 50.950587712462, 
+      "lon": 5.46906958567, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -436,15 +436,12 @@
       "street": "Schurfstraat"
     }, 
     {
-      "busnrs": [
-        "BU00"
-      ], 
       "hnrlbls": [
         "52A"
       ], 
       "housenumber": "52A", 
-      "lat": 50.951987104727, 
-      "lon": 5.470702771913, 
+      "lat": 50.951999958801, 
+      "lon": 5.470693395839, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -457,6 +454,18 @@
       "housenumber": "54", 
       "lat": 50.951700982265, 
       "lon": 5.470785141446, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schurfstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "54A"
+      ], 
+      "housenumber": "54A", 
+      "lat": 50.950467021466, 
+      "lon": 5.468248394494, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -479,11 +488,11 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 50.951565551855, 
-      "lon": 5.470463288052, 
+      "lat": 50.951563043154, 
+      "lon": 5.470462375123, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schurfstraat"
     }, 
     {
@@ -503,11 +512,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.95161797969, 
-      "lon": 5.470346673965, 
+      "lat": 50.951615747307, 
+      "lon": 5.470345055902, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schurfstraat"
     }, 
     {
@@ -527,8 +536,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.95456448224, 
-      "lon": 5.476164869717, 
+      "lat": 50.954560570352, 
+      "lon": 5.476169759033, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 
@@ -539,11 +548,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.951669602831, 
-      "lon": 5.47021039961, 
+      "lat": 50.951657275594, 
+      "lon": 5.470211533178, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schurfstraat"
     }, 
     {
@@ -551,11 +560,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.95120381085, 
-      "lon": 5.471083436284, 
+      "lat": 50.951268529791, 
+      "lon": 5.471074995629, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schurfstraat"
     }, 
     {
@@ -563,11 +572,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.951710804104, 
-      "lon": 5.470111739028, 
+      "lat": 50.951704834012, 
+      "lon": 5.470106047989, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schurfstraat"
     }, 
     {
@@ -575,11 +584,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.951757057387, 
-      "lon": 5.4700112044, 
+      "lat": 50.95175047679, 
+      "lon": 5.470003506446, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schurfstraat"
     }, 
     {
@@ -587,11 +596,47 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.951800756526, 
-      "lon": 5.46991459473, 
+      "lat": 50.951789762345, 
+      "lon": 5.469907789377, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schurfstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 50.951771967943, 
+      "lon": 5.469465872663, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schurfstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.95118533296, 
+      "lon": 5.469353179652, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schurfstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 50.951170182743, 
+      "lon": 5.469099057961, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schurfstraat"
     }, 
     {

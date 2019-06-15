@@ -26,18 +26,6 @@
     }, 
     {
       "hnrlbls": [
-        "100"
-      ], 
-      "housenumber": "100", 
-      "lat": 51.20054084193, 
-      "lon": 4.415873860866, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
-      "street": "Haringrodestraat"
-    }, 
-    {
-      "hnrlbls": [
         "101"
       ], 
       "housenumber": "101", 
@@ -49,19 +37,12 @@
       "street": "Haringrodestraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "301", 
-        "302", 
-        "303", 
-        "304"
-      ], 
       "hnrlbls": [
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.200456150872, 
-      "lon": 4.415922704032, 
+      "lat": 51.200475489142, 
+      "lon": 4.415890390018, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -918,9 +899,14 @@
     {
       "apptnrs": [
         "001", 
+        "002", 
         "101", 
+        "102", 
         "201", 
-        "301"
+        "202", 
+        "301", 
+        "302", 
+        "401"
       ], 
       "hnrlbls": [
         "53"
@@ -1494,6 +1480,10 @@
         "304", 
         "305", 
         "306", 
+        "307", 
+        "308", 
+        "309", 
+        "310", 
         "401", 
         "402", 
         "403", 
@@ -1507,8 +1497,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.200640004262, 
-      "lon": 4.415825318482, 
+      "lat": 51.200637165909, 
+      "lon": 4.415731318155, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

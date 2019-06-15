@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
-      ], 
-      "housenumber": "1", 
-      "lat": 51.032267401666, 
-      "lon": 4.174462629594, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -146,18 +134,6 @@
     }, 
     {
       "hnrlbls": [
-        "13"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.031740109748, 
-      "lon": 4.175507172004, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "hnrlbls": [
         "13A"
       ], 
       "housenumber": "13A", 
@@ -278,18 +254,6 @@
     }, 
     {
       "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.032187762401, 
-      "lon": 4.174628894499, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -401,11 +365,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.029890249664, 
-      "lon": 4.180233732986, 
+      "lat": 51.030088804187, 
+      "lon": 4.179943845206, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -418,6 +382,18 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Fabriekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 51.029865442152, 
+      "lon": 4.180347871908, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -449,23 +425,11 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.029595383569, 
-      "lon": 4.179598864702, 
+      "lat": 51.02930105772, 
+      "lon": 4.179976945066, 
       "municipality": "Dendermonde", 
       "pcode": "9200", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Fabriekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.032225381874, 
-      "lon": 4.174547054219, 
-      "municipality": "Dendermonde", 
-      "pcode": "9200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -478,6 +442,18 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Fabriekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.029336603583, 
+      "lon": 4.180170381989, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabriekstraat"
     }, 
     {
@@ -498,6 +474,18 @@
     }, 
     {
       "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.029374681949, 
+      "lon": 4.180373787395, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Fabriekstraat"
+    }, 
+    {
+      "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
@@ -506,6 +494,18 @@
       "municipality": "Dendermonde", 
       "pcode": "9200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Fabriekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.029429183456, 
+      "lon": 4.180617040791, 
+      "municipality": "Dendermonde", 
+      "pcode": "9200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabriekstraat"
     }, 
     {

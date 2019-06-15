@@ -149,9 +149,6 @@
       "street": "Miraeusstraat"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -294,8 +291,18 @@
       "street": "Miraeusstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
+      ], 
       "hnrlbls": [
-        "29-31"
+        "29"
       ], 
       "housenumber": "29", 
       "lat": 51.206149452205, 
@@ -324,18 +331,6 @@
       "housenumber": "30", 
       "lat": 51.20648663345, 
       "lon": 4.399776623267, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Miraeusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "29-31"
-      ], 
-      "housenumber": "31", 
-      "lat": 51.206149452205, 
-      "lon": 4.399869400886, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

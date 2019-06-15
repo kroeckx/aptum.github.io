@@ -30,6 +30,11 @@
       "street": "Gustaaf Garittestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "11"
       ], 
@@ -120,21 +125,6 @@
     }, 
     {
       "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "18B"
-      ], 
-      "housenumber": "18B", 
-      "lat": 51.180068650559, 
-      "lon": 4.426097522187, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Gustaaf Garittestraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "2", 
         "3"
@@ -151,26 +141,16 @@
       "street": "Gustaaf Garittestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "20-22"
-      ], 
-      "housenumber": "20", 
-      "lat": 51.180000481544, 
-      "lon": 4.426170657203, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gustaaf Garittestraat"
-    }, 
-    {
-      "busnrs": [
-        "5"
-      ], 
-      "hnrlbls": [
-        "20-22"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 51.180000481544, 

@@ -244,9 +244,6 @@
       "street": "Van Steenlandstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -300,6 +297,11 @@
       "street": "Van Steenlandstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -605,6 +607,10 @@
       "street": "Van Steenlandstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -737,12 +743,12 @@
       "street": "Van Steenlandstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "65"
@@ -756,6 +762,11 @@
       "street": "Van Steenlandstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "66"
       ], 

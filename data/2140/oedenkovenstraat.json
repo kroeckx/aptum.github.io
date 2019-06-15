@@ -889,12 +889,17 @@
       "street": "Oedenkovenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.213618810532, 
-      "lon": 4.432907114092, 
+      "lat": 51.213585402294, 
+      "lon": 4.43285483234, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 

@@ -1099,15 +1099,28 @@
       "street": "Nanofstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
+      "busnrs": [
+        "1", 
+        "11", 
+        "21", 
+        "22"
+      ], 
       "hnrlbls": [
         "38A"
       ], 
       "housenumber": "38A", 
-      "lat": 50.907750941857, 
-      "lon": 5.415905977382, 
+      "lat": 50.907740471932, 
+      "lon": 5.41592067385, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nanofstraat"
     }, 
     {
@@ -1501,6 +1514,18 @@
     }, 
     {
       "hnrlbls": [
+        "75A"
+      ], 
+      "housenumber": "75A", 
+      "lat": 50.903026758541, 
+      "lon": 5.408615300885, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Nanofstraat"
+    }, 
+    {
+      "hnrlbls": [
         "76"
       ], 
       "housenumber": "76", 
@@ -1509,6 +1534,30 @@
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nanofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.902990157762, 
+      "lon": 5.408474444804, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Nanofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "77A"
+      ], 
+      "housenumber": "77A", 
+      "lat": 50.902941631415, 
+      "lon": 5.408309723256, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nanofstraat"
     }, 
     {
@@ -1557,6 +1606,30 @@
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Nanofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "79"
+      ], 
+      "housenumber": "79", 
+      "lat": 50.90288559131, 
+      "lon": 5.408120381117, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Nanofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "79A"
+      ], 
+      "housenumber": "79A", 
+      "lat": 50.902831287413, 
+      "lon": 5.407948139137, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nanofstraat"
     }, 
     {

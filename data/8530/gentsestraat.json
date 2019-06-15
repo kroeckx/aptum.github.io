@@ -1033,12 +1033,50 @@
       "street": "Gentsestraat"
     }, 
     {
-      "hnrlbls": [
-        "98"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
-      "housenumber": "98", 
-      "lat": 50.859626298168, 
-      "lon": 3.316889203075, 
+      "hnrlbls": [
+        "98A"
+      ], 
+      "housenumber": "98A", 
+      "lat": 50.859602893364, 
+      "lon": 3.316855777488, 
+      "municipality": "Harelbeke", 
+      "pcode": "8530", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Gentsestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "98B"
+      ], 
+      "housenumber": "98B", 
+      "lat": 50.859626236746, 
+      "lon": 3.316902414787, 
+      "municipality": "Harelbeke", 
+      "pcode": "8530", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Gentsestraat"
+    }, 
+    {
+      "apptnrs": [
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "98C"
+      ], 
+      "housenumber": "98C", 
+      "lat": 50.859652966965, 
+      "lon": 3.31695579462, 
       "municipality": "Harelbeke", 
       "pcode": "8530", 
       "source": "manueleAanduidingVanLot", 

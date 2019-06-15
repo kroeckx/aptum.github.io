@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.964293214755, 
-      "lon": 3.514212533191, 
+      "lat": 50.964268172887, 
+      "lon": 3.514267512643, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vossenbulk"
     }, 
     {
@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.964223918192, 
-      "lon": 3.514908078303, 
+      "lat": 50.964212308484, 
+      "lon": 3.514881526133, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vossenbulk"
     }, 
     {
@@ -29,11 +29,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.964326987246, 
-      "lon": 3.513837229328, 
+      "lat": 50.964330822914, 
+      "lon": 3.513919727664, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vossenbulk"
     }, 
     {
@@ -53,11 +53,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.964165923065, 
-      "lon": 3.513495371432, 
+      "lat": 50.964138466212, 
+      "lon": 3.513576731445, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vossenbulk"
     }, 
     {
@@ -65,11 +65,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.964035281358, 
-      "lon": 3.513727660848, 
+      "lat": 50.964044086596, 
+      "lon": 3.513665147547, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vossenbulk"
     }, 
     {
@@ -77,11 +77,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.963914458745, 
-      "lon": 3.51383905074, 
+      "lat": 50.963921779764, 
+      "lon": 3.513832084189, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vossenbulk"
     }, 
     {
@@ -89,11 +89,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.963860144178, 
-      "lon": 3.513898691594, 
+      "lat": 50.963861659833, 
+      "lon": 3.513896955692, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vossenbulk"
     }, 
     {
@@ -106,6 +106,18 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vossenbulk"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.964097048863, 
+      "lon": 3.514471353905, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Vossenbulk"
     }
   ]

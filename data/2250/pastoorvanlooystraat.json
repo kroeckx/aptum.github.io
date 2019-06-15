@@ -2,7 +2,6 @@
   "addresses": [
     {
       "apptnrs": [
-        "A", 
         "B", 
         "C", 
         "D", 
@@ -11,12 +10,15 @@
         "G", 
         "H"
       ], 
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.16837029107, 
-      "lon": 4.901550481655, 
+      "lat": 51.168281816903, 
+      "lon": 4.901575777958, 
       "municipality": "Olen", 
       "pcode": "2250", 
       "source": "manueleAanduidingVanPerceel", 

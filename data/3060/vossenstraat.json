@@ -53,8 +53,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.862127787411, 
-      "lon": 4.625485271852, 
+      "lat": 50.862122941227, 
+      "lon": 4.625481552244, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -113,8 +113,8 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 50.861944355577, 
-      "lon": 4.624767531877, 
+      "lat": 50.861947589282, 
+      "lon": 4.624768685864, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 
@@ -181,15 +181,19 @@
       "street": "Vossenstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.863218856238, 
-      "lon": 4.628778291913, 
+      "lat": 50.863319787932, 
+      "lon": 4.629070611183, 
       "municipality": "Bertem", 
       "pcode": "3060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vossenstraat"
     }, 
     {
@@ -293,8 +297,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.862230593731, 
-      "lon": 4.624680035724, 
+      "lat": 50.862225913641, 
+      "lon": 4.624682566906, 
       "municipality": "Bertem", 
       "pcode": "3060", 
       "source": "afgeleidVanGebouw", 

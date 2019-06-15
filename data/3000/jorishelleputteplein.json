@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-3"
+        "1-31"
       ], 
       "housenumber": "1", 
       "lat": 50.878121801454, 
@@ -14,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "2"
+        "2-8"
       ], 
       "housenumber": "2", 
-      "lat": 50.87836864692, 
-      "lon": 4.697898884473, 
+      "lat": 50.878583429196, 
+      "lon": 4.698082695459, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -45,7 +45,7 @@
         "0701"
       ], 
       "hnrlbls": [
-        "1-3"
+        "1-31"
       ], 
       "housenumber": "3", 
       "lat": 50.878121801454, 
@@ -67,35 +67,23 @@
         "0401"
       ], 
       "hnrlbls": [
-        "4"
+        "2-8"
       ], 
       "housenumber": "4", 
-      "lat": 50.878401762653, 
-      "lon": 4.697790701887, 
+      "lat": 50.878583429196, 
+      "lon": 4.698082695459, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
       "street": "Joris Helleputteplein"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101", 
-        "0102", 
-        "0201", 
-        "0202", 
-        "0301", 
-        "0302", 
-        "0401", 
-        "0402", 
-        "0501"
-      ], 
       "hnrlbls": [
-        "5"
+        "1-31"
       ], 
       "housenumber": "5", 
-      "lat": 50.878207756367, 
-      "lon": 4.697346871944, 
+      "lat": 50.878121801454, 
+      "lon": 4.697576454779, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -114,11 +102,11 @@
         "0401"
       ], 
       "hnrlbls": [
-        "6"
+        "2-8"
       ], 
       "housenumber": "6", 
-      "lat": 50.878502869805, 
-      "lon": 4.697607545978, 
+      "lat": 50.878583429196, 
+      "lon": 4.698082695459, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

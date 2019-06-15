@@ -204,12 +204,18 @@
       "street": "Kortrijkstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.995546106704, 
-      "lon": 3.325702147973, 
+      "lat": 50.995544662279, 
+      "lon": 3.325701467815, 
       "municipality": "Tielt", 
       "pcode": "8700", 
       "source": "afgeleidVanGebouw", 
@@ -1851,11 +1857,6 @@
       "street": "Kortrijkstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "90-92"
       ], 

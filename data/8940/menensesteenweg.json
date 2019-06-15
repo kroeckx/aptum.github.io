@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -55,14 +59,15 @@
         "GV02"
       ], 
       "hnrlbls": [
-        "104-106"
+        "104-106", 
+        "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.781638887305, 
-      "lon": 3.063657510697, 
+      "lat": 50.781682381505, 
+      "lon": 3.063582843052, 
       "municipality": "Wervik", 
       "pcode": "8940", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Menensesteenweg"
     }, 
     {
@@ -82,8 +87,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.78176782258, 
-      "lon": 3.063803131565, 
+      "lat": 50.781751935545, 
+      "lon": 3.063813640959, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -550,8 +555,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 50.781669081143, 
-      "lon": 3.064964387596, 
+      "lat": 50.78166886773, 
+      "lon": 3.064864411074, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1114,8 +1119,8 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 50.780028657662, 
-      "lon": 3.070640242357, 
+      "lat": 50.780058738774, 
+      "lon": 3.070295939687, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1128,6 +1133,18 @@
       "housenumber": "233", 
       "lat": 50.780386883268, 
       "lon": 3.072485733639, 
+      "municipality": "Wervik", 
+      "pcode": "8940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Menensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "234"
+      ], 
+      "housenumber": "234", 
+      "lat": 50.78004948696, 
+      "lon": 3.070637541026, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanGebouw", 

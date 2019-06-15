@@ -62,11 +62,59 @@
     }, 
     {
       "hnrlbls": [
+        "14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 51.361109772605, 
+      "lon": 4.759132995809, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Gammel"
+    }, 
+    {
+      "hnrlbls": [
+        "14B"
+      ], 
+      "housenumber": "14B", 
+      "lat": 51.361200186963, 
+      "lon": 4.759107196612, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Gammel"
+    }, 
+    {
+      "hnrlbls": [
+        "16A"
+      ], 
+      "housenumber": "16A", 
+      "lat": 51.361321021941, 
+      "lon": 4.759096153493, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Gammel"
+    }, 
+    {
+      "hnrlbls": [
+        "16B"
+      ], 
+      "housenumber": "16B", 
+      "lat": 51.361454466252, 
+      "lon": 4.759077176602, 
+      "municipality": "Rijkevorsel", 
+      "pcode": "2310", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Gammel"
+    }, 
+    {
+      "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.361690355847, 
-      "lon": 4.759172623832, 
+      "lat": 51.361684253181, 
+      "lon": 4.759169844688, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanPerceelGrb", 
@@ -77,11 +125,11 @@
         "18B"
       ], 
       "housenumber": "18B", 
-      "lat": 51.361870329356, 
-      "lon": 4.759080531242, 
+      "lat": 51.361860769359, 
+      "lon": 4.759008666418, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gammel"
     }, 
     {
@@ -117,11 +165,11 @@
         "20B"
       ], 
       "housenumber": "20B", 
-      "lat": 51.36223130513, 
-      "lon": 4.759129510178, 
+      "lat": 51.36221179985, 
+      "lon": 4.759129920357, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Gammel"
     }, 
     {
@@ -467,11 +515,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.365106714578, 
-      "lon": 4.758291081219, 
+      "lat": 51.365115840255, 
+      "lon": 4.758358496318, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gammel"
     }, 
     {
@@ -599,8 +647,8 @@
         "60A"
       ], 
       "housenumber": "60A", 
-      "lat": 51.366277111414, 
-      "lon": 4.758569263253, 
+      "lat": 51.366264972793, 
+      "lon": 4.758570740673, 
       "municipality": "Rijkevorsel", 
       "pcode": "2310", 
       "source": "afgeleidVanPerceelGrb", 

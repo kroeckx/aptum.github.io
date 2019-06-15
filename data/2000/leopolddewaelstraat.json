@@ -141,9 +141,10 @@
       "street": "Leopold de Waelstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "19"
@@ -187,12 +188,11 @@
       "street": "Leopold de Waelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "21"

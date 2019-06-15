@@ -350,6 +350,11 @@
       "street": "Sterlingerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -537,6 +542,12 @@
       "street": "Sterlingerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -713,7 +724,7 @@
     }, 
     {
       "hnrlbls": [
-        "74-80"
+        "74-76"
       ], 
       "housenumber": "74", 
       "lat": 51.210231547012, 
@@ -725,7 +736,7 @@
     }, 
     {
       "hnrlbls": [
-        "74-80"
+        "74-76"
       ], 
       "housenumber": "76", 
       "lat": 51.210231547012, 
@@ -737,14 +748,14 @@
     }, 
     {
       "hnrlbls": [
-        "74-80"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.210231547012, 
-      "lon": 4.437762799744, 
+      "lat": 51.210329220659, 
+      "lon": 4.437814604973, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sterlingerstraat"
     }, 
     {
@@ -766,14 +777,14 @@
     }, 
     {
       "hnrlbls": [
-        "74-80"
+        "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.210231547012, 
-      "lon": 4.437762799744, 
+      "lat": 51.210319105132, 
+      "lon": 4.437896729466, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sterlingerstraat"
     }, 
     {

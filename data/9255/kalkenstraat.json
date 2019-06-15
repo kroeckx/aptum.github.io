@@ -992,8 +992,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.005261586206, 
-      "lon": 4.205185131428, 
+      "lat": 51.005351486039, 
+      "lon": 4.205126546776, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1488,7 +1488,7 @@
       "lon": 4.186385234113, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kalkenstraat"
     }, 
     {
@@ -1712,8 +1712,8 @@
         "266"
       ], 
       "housenumber": "266", 
-      "lat": 50.993417854584, 
-      "lon": 4.183551887297, 
+      "lat": 50.993492429913, 
+      "lon": 4.183472540236, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2215,8 +2215,9 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102"
+        "0001", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "53B"

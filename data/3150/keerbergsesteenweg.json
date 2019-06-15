@@ -28,11 +28,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.97859694159, 
-      "lon": 4.638013054355, 
+      "lat": 50.97857691548, 
+      "lon": 4.637965237113, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Keerbergsesteenweg"
     }, 
     {
@@ -63,11 +63,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.978678623423, 
-      "lon": 4.638065356208, 
+      "lat": 50.978691638658, 
+      "lon": 4.638073690037, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Keerbergsesteenweg"
     }, 
     {
@@ -82,11 +82,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.978763761955, 
-      "lon": 4.638099878867, 
+      "lat": 50.978831630941, 
+      "lon": 4.638138858776, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Keerbergsesteenweg"
     }, 
     {
@@ -442,6 +442,42 @@
     }, 
     {
       "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.9807940728, 
+      "lon": 4.641520928889, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Keerbergsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "48A"
+      ], 
+      "housenumber": "48A", 
+      "lat": 50.980884455695, 
+      "lon": 4.641619143147, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Keerbergsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "48B"
+      ], 
+      "housenumber": "48B", 
+      "lat": 50.980952223101, 
+      "lon": 4.641701276833, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Keerbergsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
@@ -466,6 +502,42 @@
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
+      "street": "Keerbergsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.981023673986, 
+      "lon": 4.641784286675, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Keerbergsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "50A"
+      ], 
+      "housenumber": "50A", 
+      "lat": 50.981105380993, 
+      "lon": 4.641863654245, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Keerbergsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "50B"
+      ], 
+      "housenumber": "50B", 
+      "lat": 50.981190729703, 
+      "lon": 4.641961840399, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Keerbergsesteenweg"
     }, 
     {

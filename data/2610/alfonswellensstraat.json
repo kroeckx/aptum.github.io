@@ -305,19 +305,27 @@
       "street": "Alfons Wellensstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.16956184107, 
-      "lon": 4.404547786825, 
+      "lat": 51.169531669629, 
+      "lon": 4.404450111107, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Alfons Wellensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45A"
+      ], 
+      "housenumber": "45A", 
+      "lat": 51.169520970464, 
+      "lon": 4.404459110209, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Alfons Wellensstraat"
     }, 
     {
@@ -325,8 +333,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.169534694772, 
-      "lon": 4.404550482137, 
+      "lat": 51.169507458588, 
+      "lon": 4.404553177375, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -342,18 +350,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
-      "street": "Alfons Wellensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 51.169492877352, 
-      "lon": 4.404617075885, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Alfons Wellensstraat"
     }, 
     {

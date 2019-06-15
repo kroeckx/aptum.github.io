@@ -29,8 +29,8 @@
         "81A-101B"
       ], 
       "housenumber": "101B", 
-      "lat": 51.175283264627, 
-      "lon": 4.787409696763, 
+      "lat": 51.175285145084, 
+      "lon": 4.787411715591, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
       "source": "afgeleidVanPerceelGrb", 
@@ -329,8 +329,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.173523323622, 
-      "lon": 4.74640249138, 
+      "lat": 51.173534824694, 
+      "lon": 4.74640387151, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
       "source": "afgeleidVanGebouw", 
@@ -452,8 +452,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.174119200959, 
-      "lon": 4.74751750513, 
+      "lat": 51.174128124769, 
+      "lon": 4.74750971316, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
       "source": "afgeleidVanGebouw", 
@@ -488,8 +488,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.173770266665, 
-      "lon": 4.747879293258, 
+      "lat": 51.173761216396, 
+      "lon": 4.747870497215, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
       "source": "afgeleidVanGebouw", 
@@ -512,11 +512,11 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.17341199582, 
-      "lon": 4.758487598502, 
+      "lat": 51.173757799482, 
+      "lon": 4.758729427681, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Herentalse steenweg"
     }, 
     {
@@ -757,28 +757,12 @@
       "street": "Herentalse steenweg"
     }, 
     {
-      "busnrs": [
-        "42", 
-        "59"
-      ], 
-      "hnrlbls": [
-        "63"
-      ], 
-      "housenumber": "63", 
-      "lat": 51.177496091524, 
-      "lon": 4.771776307565, 
-      "municipality": "Grobbendonk", 
-      "pcode": "2280", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Herentalse steenweg"
-    }, 
-    {
       "hnrlbls": [
         "63A"
       ], 
       "housenumber": "63A", 
-      "lat": 51.177248903602, 
-      "lon": 4.775259105119, 
+      "lat": 51.177227395675, 
+      "lon": 4.775344575074, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
       "source": "afgeleidVanPerceelGrb", 
@@ -889,7 +873,7 @@
       "lon": 4.783053184901, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herentalse steenweg"
     }, 
     {
@@ -1088,8 +1072,8 @@
         "81A-101B"
       ], 
       "housenumber": "81A", 
-      "lat": 51.175283264627, 
-      "lon": 4.787409696763, 
+      "lat": 51.175285145084, 
+      "lon": 4.787411715591, 
       "municipality": "Grobbendonk", 
       "pcode": "2280", 
       "source": "afgeleidVanPerceelGrb", 

@@ -1,6 +1,22 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.987127398579, 
+      "lon": 5.194008266692, 
+      "municipality": "Lummen", 
+      "pcode": "3560", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor Frederickxstraat"
+    }, 
+    {
       "hnrlbls": [
         "10"
       ], 
@@ -138,30 +154,6 @@
       "municipality": "Lummen", 
       "pcode": "3560", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Pastoor Frederickxstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_1"
-      ], 
-      "housenumber": "1_1", 
-      "lat": 50.987127398579, 
-      "lon": 5.194008266692, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Pastoor Frederickxstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "1_2"
-      ], 
-      "housenumber": "1_2", 
-      "lat": 50.987114196263, 
-      "lon": 5.194019285787, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoor Frederickxstraat"
     }, 
     {

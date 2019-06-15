@@ -724,15 +724,19 @@
       "street": "Gaston Oomslaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.084968459859, 
-      "lon": 5.226691265239, 
+      "lat": 51.084990714909, 
+      "lon": 5.22665956043, 
       "municipality": "Beringen", 
       "pcode": "3581", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gaston Oomslaan"
     }, 
     {

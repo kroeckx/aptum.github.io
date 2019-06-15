@@ -37,6 +37,12 @@
       "street": "Marcel Auburtinlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -253,15 +259,19 @@
       "street": "Marcel Auburtinlaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.190283047369, 
-      "lon": 4.430956243276, 
+      "lat": 51.190290509719, 
+      "lon": 4.430952677361, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Marcel Auburtinlaan"
     }, 
     {

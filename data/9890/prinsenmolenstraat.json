@@ -50,9 +50,9 @@
     }, 
     {
       "hnrlbls": [
-        "17"
+        "17A"
       ], 
-      "housenumber": "17", 
+      "housenumber": "17A", 
       "lat": 50.936262150657, 
       "lon": 3.718196757885, 
       "municipality": "Gavere", 
@@ -62,14 +62,14 @@
     }, 
     {
       "hnrlbls": [
-        "17A"
+        "17B"
       ], 
-      "housenumber": "17A", 
-      "lat": 50.936129567212, 
-      "lon": 3.71811792759, 
+      "housenumber": "17B", 
+      "lat": 50.936128667532, 
+      "lon": 3.718117797784, 
       "municipality": "Gavere", 
       "pcode": "9890", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Prinsenmolenstraat"
     }, 
     {
@@ -113,8 +113,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.933639247402, 
-      "lon": 3.718456865248, 
+      "lat": 50.933638060751, 
+      "lon": 3.718453609654, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 

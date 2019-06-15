@@ -782,6 +782,28 @@
       "street": "Broeder de Saedeleerstraat"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02", 
+        "03", 
+        "11", 
+        "12", 
+        "13", 
+        "21", 
+        "22"
+      ], 
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.964956675563, 
+      "lon": 3.99014103211, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Broeder de Saedeleerstraat"
+    }, 
+    {
       "hnrlbls": [
         "51"
       ], 

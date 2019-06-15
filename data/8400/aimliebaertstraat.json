@@ -180,15 +180,19 @@
       "street": "Aim\u00e9 Liebaertstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.230127468693, 
-      "lon": 2.942232342675, 
+      "lat": 51.230126060282, 
+      "lon": 2.942227374192, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aim\u00e9 Liebaertstraat"
     }, 
     {
@@ -291,8 +295,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.230065672703, 
-      "lon": 2.942639596316, 
+      "lat": 51.230056722778, 
+      "lon": 2.942702586047, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -458,8 +462,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.229969074985, 
-      "lon": 2.943568397584, 
+      "lat": 51.229980351469, 
+      "lon": 2.943571632653, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -482,8 +486,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.230062185737, 
-      "lon": 2.943693132013, 
+      "lat": 51.229976930583, 
+      "lon": 2.94366079953, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -628,6 +632,7 @@
       "busnrs": [
         "0101", 
         "0201", 
+        "0301", 
         "1", 
         "2"
       ], 
@@ -639,7 +644,7 @@
       "lon": 2.944074079042, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aim\u00e9 Liebaertstraat"
     }, 
     {
@@ -668,8 +673,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
         "2", 
         "4", 
         "4B", 
@@ -686,7 +695,7 @@
       "lon": 2.944207614848, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Aim\u00e9 Liebaertstraat"
     }, 
     {
@@ -1026,8 +1035,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.229148834726, 
-      "lon": 2.94543596113, 
+      "lat": 51.229150905435, 
+      "lon": 2.945428738712, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1072,6 +1081,7 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "1", 
         "1A"
       ], 

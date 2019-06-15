@@ -105,18 +105,19 @@
       "street": "Elzenhoutstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
-        "2-6"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.17480481848, 
-      "lon": 4.429577824289, 
+      "lat": 51.174926297144, 
+      "lon": 4.429667068331, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Elzenhoutstraat"
     }, 
     {
@@ -204,15 +205,21 @@
       "street": "Elzenhoutstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "2-6"
+        "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.17480481848, 
-      "lon": 4.429577824289, 
+      "lat": 51.174818694893, 
+      "lon": 4.429684943236, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Elzenhoutstraat"
     }, 
     {
@@ -228,33 +235,21 @@
       "street": "Elzenhoutstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "2-6"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.17480481848, 
-      "lon": 4.429577824289, 
+      "lat": 51.174693504331, 
+      "lon": 4.4296467423, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Elzenhoutstraat"
-    }, 
-    {
-      "busnrs": [
-        "C"
-      ], 
-      "hnrlbls": [
-        "6_6"
-      ], 
-      "housenumber": "6_6", 
-      "lat": 51.174803460739, 
-      "lon": 4.429595982418, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Elzenhoutstraat"
     }, 
     {

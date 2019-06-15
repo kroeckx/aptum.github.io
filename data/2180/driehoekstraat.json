@@ -693,8 +693,8 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.284459258047, 
-      "lon": 4.422436749192, 
+      "lat": 51.284458988929, 
+      "lon": 4.422435602252, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -705,8 +705,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.284531867451, 
-      "lon": 4.422469226215, 
+      "lat": 51.284531059505, 
+      "lon": 4.422467075344, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1169,15 +1169,19 @@
       "street": "Driehoekstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.2794538831, 
-      "lon": 4.419311271243, 
+      "lat": 51.279477059429, 
+      "lon": 4.419341679079, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Driehoekstraat"
     }, 
     {
@@ -2164,8 +2168,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.281294565712, 
-      "lon": 4.420147697287, 
+      "lat": 51.281294565523, 
+      "lon": 4.420148127242, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanPerceelGrb", 

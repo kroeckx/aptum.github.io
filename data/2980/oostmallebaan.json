@@ -53,8 +53,8 @@
         "12-12B"
       ], 
       "housenumber": "12", 
-      "lat": 51.271695718323, 
-      "lon": 4.715239548233, 
+      "lat": 51.271694719124, 
+      "lon": 4.715243123046, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -124,8 +124,8 @@
         "12-12B"
       ], 
       "housenumber": "12B", 
-      "lat": 51.271695718323, 
-      "lon": 4.715239548233, 
+      "lat": 51.271694719124, 
+      "lon": 4.715243123046, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -136,8 +136,8 @@
         "14-14B"
       ], 
       "housenumber": "14", 
-      "lat": 51.271977286009, 
-      "lon": 4.715343670494, 
+      "lat": 51.27197727676, 
+      "lon": 4.715346822834, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -159,8 +159,8 @@
         "14-14B"
       ], 
       "housenumber": "14B", 
-      "lat": 51.271977286009, 
-      "lon": 4.715343670494, 
+      "lat": 51.27197727676, 
+      "lon": 4.715346822834, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -183,8 +183,8 @@
         "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.28035875345, 
-      "lon": 4.721003284639, 
+      "lat": 51.280355793795, 
+      "lon": 4.72100111245, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -243,9 +243,12 @@
       "street": "Oostmallebaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "b1", 
         "b2", 
-        "b4"
+        "b3", 
+        "b4", 
+        "b5"
       ], 
       "hnrlbls": [
         "2"
@@ -301,25 +304,6 @@
       "housenumber": "29", 
       "lat": 51.273148112639, 
       "lon": 4.714880100744, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oostmallebaan"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "2B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.270649143365, 
-      "lon": 4.714403260381, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -880,8 +864,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.279075461976, 
-      "lon": 4.717104324927, 
+      "lat": 51.279079839206, 
+      "lon": 4.71708300407, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -916,8 +900,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.276709127677, 
-      "lon": 4.717588303359, 
+      "lat": 51.276715788169, 
+      "lon": 4.717585200618, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

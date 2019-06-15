@@ -213,12 +213,17 @@
       "street": "Distelhoek"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.25399309323, 
-      "lon": 4.434542895367, 
+      "lat": 51.254109108294, 
+      "lon": 4.434584742253, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -251,11 +256,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.254109557465, 
-      "lon": 4.434585172599, 
+      "lat": 51.253996428142, 
+      "lon": 4.434526428155, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Distelhoek"
     }, 
     {
@@ -716,8 +721,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.253094022555, 
-      "lon": 4.43401409, 
+      "lat": 51.253094202161, 
+      "lon": 4.434014376717, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

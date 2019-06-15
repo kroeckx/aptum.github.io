@@ -518,8 +518,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.296982285824, 
-      "lon": 4.496051327731, 
+      "lat": 51.296977257448, 
+      "lon": 4.496046726164, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -530,8 +530,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.296998270962, 
-      "lon": 4.495980835124, 
+      "lat": 51.296998091355, 
+      "lon": 4.495980691263, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -542,8 +542,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.297022076167, 
-      "lon": 4.495909933845, 
+      "lat": 51.297000605759, 
+      "lon": 4.495899552452, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -578,11 +578,11 @@
         "35A"
       ], 
       "housenumber": "35A", 
-      "lat": 51.29715134062, 
-      "lon": 4.495812512265, 
+      "lat": 51.297105603427, 
+      "lon": 4.495801060724, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Kavellei"
     }, 
     {
@@ -606,7 +606,7 @@
       "lon": 4.495626848724, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prins Kavellei"
     }, 
     {
@@ -614,8 +614,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.297377218562, 
-      "lon": 4.496139438103, 
+      "lat": 51.297318741407, 
+      "lon": 4.496106589306, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -683,18 +683,6 @@
     }, 
     {
       "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 51.297350934408, 
-      "lon": 4.495174355264, 
-      "municipality": "Brasschaat", 
-      "pcode": "2930", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Prins Kavellei"
-    }, 
-    {
-      "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
@@ -709,14 +697,15 @@
       "apptnrs": [
         "0001", 
         "1001", 
-        "1002"
+        "1002", 
+        "2001"
       ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.297491236407, 
-      "lon": 4.495260472761, 
+      "lat": 51.297472662254, 
+      "lon": 4.495315045384, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1046,14 +1035,14 @@
     }, 
     {
       "hnrlbls": [
-        "71"
+        "71-77"
       ], 
       "housenumber": "71", 
-      "lat": 51.298039365755, 
-      "lon": 4.49062537874, 
+      "lat": 51.298138329973, 
+      "lon": 4.491744502595, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Prins Kavellei"
     }, 
     {
@@ -1095,8 +1084,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.298112792323, 
-      "lon": 4.491065002374, 
+      "lat": 51.29820514306, 
+      "lon": 4.491369622391, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -1123,14 +1112,14 @@
     }, 
     {
       "hnrlbls": [
-        "75"
+        "71-77"
       ], 
       "housenumber": "75", 
-      "lat": 51.298252334571, 
-      "lon": 4.491452185636, 
+      "lat": 51.298138329973, 
+      "lon": 4.491744502595, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Prins Kavellei"
     }, 
     {
@@ -1147,14 +1136,14 @@
     }, 
     {
       "hnrlbls": [
-        "77"
+        "71-77"
       ], 
       "housenumber": "77", 
-      "lat": 51.2983033969, 
-      "lon": 4.49187340161, 
+      "lat": 51.298138329973, 
+      "lon": 4.491744502595, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Prins Kavellei"
     }, 
     {

@@ -549,6 +549,12 @@
       "street": "Kruishofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "16"
       ], 
@@ -716,8 +722,10 @@
       "street": "Kruishofstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "42"

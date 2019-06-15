@@ -17,8 +17,8 @@
         "10-12"
       ], 
       "housenumber": "10", 
-      "lat": 51.142810963658, 
-      "lon": 5.594868151864, 
+      "lat": 51.14280836176, 
+      "lon": 5.594867654778, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -41,8 +41,8 @@
         "10-12"
       ], 
       "housenumber": "12", 
-      "lat": 51.142810963658, 
-      "lon": 5.594868151864, 
+      "lat": 51.14280836176, 
+      "lon": 5.594867654778, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -94,8 +94,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.143284011342, 
-      "lon": 5.594461552955, 
+      "lat": 51.14328337183, 
+      "lon": 5.594462536563, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -211,11 +211,35 @@
     }, 
     {
       "hnrlbls": [
+        "22A"
+      ], 
+      "housenumber": "22A", 
+      "lat": 51.144776986799, 
+      "lon": 5.593264367241, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gerdingerpoort"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 51.144838208647, 
+      "lon": 5.593203660647, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gerdingerpoort"
+    }, 
+    {
+      "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.143957427556, 
-      "lon": 5.593484967052, 
+      "lat": 51.143958054321, 
+      "lon": 5.593476551428, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -605,8 +629,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.146568704491, 
-      "lon": 5.590095433024, 
+      "lat": 51.146558822402, 
+      "lon": 5.590103464038, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 

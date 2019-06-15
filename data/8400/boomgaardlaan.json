@@ -73,6 +73,9 @@
       "street": "Boomgaardlaan"
     }, 
     {
+      "busnrs": [
+        "B000"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -81,7 +84,7 @@
       "lon": 2.974770601488, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boomgaardlaan"
     }, 
     {
@@ -221,8 +224,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.200219767501, 
-      "lon": 2.973397330553, 
+      "lat": 51.200219433743, 
+      "lon": 2.973391902937, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -245,8 +248,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.200172382047, 
-      "lon": 2.973480454327, 
+      "lat": 51.20017551226, 
+      "lon": 2.973479072889, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -269,8 +272,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.200116828814, 
-      "lon": 2.973686597015, 
+      "lat": 51.2001149673, 
+      "lon": 2.973681215081, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -314,6 +317,18 @@
     }, 
     {
       "hnrlbls": [
+        "39A"
+      ], 
+      "housenumber": "39A", 
+      "lat": 51.1997892384, 
+      "lon": 2.974091041178, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Boomgaardlaan"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
@@ -329,11 +344,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.199782715979, 
-      "lon": 2.974079216269, 
+      "lat": 51.199731501556, 
+      "lon": 2.974157874002, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boomgaardlaan"
     }, 
     {
@@ -341,8 +356,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.199724742507, 
-      "lon": 2.97436226978, 
+      "lat": 51.199727475685, 
+      "lon": 2.974365336162, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

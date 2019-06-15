@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.240828724579, 
-      "lon": 4.972486133033, 
+      "lat": 51.240835397661, 
+      "lon": 4.972481923612, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanPerceelGrb", 
@@ -34,6 +34,18 @@
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oostbergen"
+    }, 
+    {
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.240766544827, 
+      "lon": 4.973905140316, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Oostbergen"
     }, 
     {

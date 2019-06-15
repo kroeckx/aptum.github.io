@@ -65,8 +65,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 50.9682533597, 
-      "lon": 5.371364064864, 
+      "lat": 50.968260193288, 
+      "lon": 5.371363926358, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -317,8 +317,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 50.968273302012, 
-      "lon": 5.375498052505, 
+      "lat": 50.968266724287, 
+      "lon": 5.375510297748, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1457,8 +1457,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.96805486999, 
-      "lon": 5.361856513034, 
+      "lat": 50.968054244413, 
+      "lon": 5.361856072653, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -1646,6 +1646,18 @@
     }, 
     {
       "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.968524713152, 
+      "lon": 5.363235266436, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
@@ -1661,11 +1673,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.968701495185, 
-      "lon": 5.364069496018, 
+      "lat": 50.968526979802, 
+      "lon": 5.363360462244, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zavelvennestraat"
     }, 
     {
@@ -1682,14 +1694,14 @@
     }, 
     {
       "hnrlbls": [
-        "38"
+        "38-40"
       ], 
       "housenumber": "38", 
-      "lat": 50.968833998939, 
-      "lon": 5.365131304097, 
+      "lat": 50.968550602327, 
+      "lon": 5.363819554129, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zavelvennestraat"
     }, 
     {
@@ -1718,6 +1730,18 @@
     }, 
     {
       "hnrlbls": [
+        "38-40"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.968550602327, 
+      "lon": 5.363819554129, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
@@ -1730,11 +1754,131 @@
     }, 
     {
       "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.968549206993, 
+      "lon": 5.364270853764, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 50.96855163301, 
+      "lon": 5.364398331101, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42B"
+      ], 
+      "housenumber": "42B", 
+      "lat": 50.96855627348, 
+      "lon": 5.36461455527, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42C"
+      ], 
+      "housenumber": "42C", 
+      "lat": 50.968559148543, 
+      "lon": 5.364742042199, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.968565686748, 
+      "lon": 5.364978239337, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 50.9685711258, 
+      "lon": 5.365110763984, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
       "lat": 50.968153059721, 
       "lon": 5.36429774471, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.968581142291, 
+      "lon": 5.36532895358, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "46A"
+      ], 
+      "housenumber": "46A", 
+      "lat": 50.968585375702, 
+      "lon": 5.365455188156, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.968595465043, 
+      "lon": 5.365685908485, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Zavelvennestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "48A"
+      ], 
+      "housenumber": "48A", 
+      "lat": 50.968601771437, 
+      "lon": 5.365811475382, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2129,8 +2273,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.968157528623, 
-      "lon": 5.369106522992, 
+      "lat": 50.968170897058, 
+      "lon": 5.369109655922, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -2237,8 +2381,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.96825659068, 
-      "lon": 5.370647990498, 
+      "lat": 50.968245301748, 
+      "lon": 5.370643477849, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

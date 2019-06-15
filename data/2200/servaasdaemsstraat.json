@@ -14,18 +14,6 @@
     }, 
     {
       "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 51.141643207352, 
-      "lon": 4.838796599395, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Servaas Daemsstraat"
-    }, 
-    {
-      "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
@@ -314,8 +302,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.145886678959, 
-      "lon": 4.825599300707, 
+      "lat": 51.145893633068, 
+      "lon": 4.825637238827, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -338,8 +326,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.145960287059, 
-      "lon": 4.82548598296, 
+      "lat": 51.145975938591, 
+      "lon": 4.825552730396, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -542,11 +530,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.141605797228, 
-      "lon": 4.837423881214, 
+      "lat": 51.141601481069, 
+      "lon": 4.837559871639, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Servaas Daemsstraat"
     }, 
     {
@@ -678,11 +666,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.14156521698, 
-      "lon": 4.837524498451, 
+      "lat": 51.141632874812, 
+      "lon": 4.837441157549, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Servaas Daemsstraat"
     }, 
     {
@@ -1355,8 +1343,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.14342118347, 
-      "lon": 4.83310859414, 
+      "lat": 51.143429981478, 
+      "lon": 4.833111396806, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1402,6 +1390,16 @@
       "street": "Servaas Daemsstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "8"
       ], 

@@ -28,6 +28,15 @@
       "t": 50.896284934902
     }, 
     {
+      "b": 50.882025604872, 
+      "l": 3.237274906244, 
+      "name": "Bergkapel", 
+      "numOfAddr": 16, 
+      "r": 3.23885725436, 
+      "sanName": "bergkapel", 
+      "t": 50.883236919917
+    }, 
+    {
       "b": 50.888066613682, 
       "l": 3.241876791987, 
       "name": "Beukenlaan", 
@@ -67,7 +76,7 @@
       "b": 50.872784793182, 
       "l": 3.239367811328, 
       "name": "Burgemeester G. Dussartlaan", 
-      "numOfAddr": 98, 
+      "numOfAddr": 99, 
       "r": 3.243098660376, 
       "sanName": "burgemeestergdussartlaan", 
       "t": 50.874628453518
@@ -119,9 +128,9 @@
     }, 
     {
       "b": 50.885861443773, 
-      "l": 3.237152810079, 
+      "l": 3.237158890586, 
       "name": "Dorpsplein", 
-      "numOfAddr": 27, 
+      "numOfAddr": 28, 
       "r": 3.238702307903, 
       "sanName": "dorpsplein", 
       "t": 50.886947367022
@@ -185,9 +194,9 @@
       "l": 3.234064593769, 
       "name": "Groenstraat", 
       "numOfAddr": 13, 
-      "r": 3.239706928547, 
+      "r": 3.239692213038, 
       "sanName": "groenstraat", 
-      "t": 50.898963084765
+      "t": 50.898966089985
     }, 
     {
       "b": 50.883967025501, 
@@ -211,7 +220,7 @@
       "b": 50.887728887121, 
       "l": 3.257724941149, 
       "name": "Heirweg", 
-      "numOfAddr": 13, 
+      "numOfAddr": 12, 
       "r": 3.262548670136, 
       "sanName": "heirweg", 
       "t": 50.897132248277
@@ -220,7 +229,7 @@
       "b": 50.871654741034, 
       "l": 3.235502737401, 
       "name": "Heulsestraat", 
-      "numOfAddr": 122, 
+      "numOfAddr": 124, 
       "r": 3.241006488698, 
       "sanName": "heulsestraat", 
       "t": 50.885382383473
@@ -274,16 +283,16 @@
       "b": 50.887484022594, 
       "l": 3.239782556445, 
       "name": "Ingelmunstersestraat", 
-      "numOfAddr": 48, 
+      "numOfAddr": 49, 
       "r": 3.243889214024, 
       "sanName": "ingelmunstersestraat", 
       "t": 50.896449644309
     }, 
     {
       "b": 50.886899188863, 
-      "l": 3.234899763402, 
+      "l": 3.234781979937, 
       "name": "Izegemsestraat", 
-      "numOfAddr": 99, 
+      "numOfAddr": 100, 
       "r": 3.23821740246, 
       "sanName": "izegemsestraat", 
       "t": 50.893804812522
@@ -337,10 +346,10 @@
       "b": 50.883468527487, 
       "l": 3.243560000186, 
       "name": "Korenveld", 
-      "numOfAddr": 35, 
+      "numOfAddr": 36, 
       "r": 3.246372126384, 
       "sanName": "korenveld", 
-      "t": 50.884656913821
+      "t": 50.884837309416
     }, 
     {
       "b": 50.885565974931, 
@@ -355,7 +364,7 @@
       "b": 50.872258228645, 
       "l": 3.220912682599, 
       "name": "Kortrijksestraat", 
-      "numOfAddr": 119, 
+      "numOfAddr": 120, 
       "r": 3.238824183638, 
       "sanName": "kortrijksestraat", 
       "t": 50.896413831872
@@ -364,7 +373,7 @@
       "b": 50.874914096484, 
       "l": 3.237663470522, 
       "name": "Kuurnsestraat", 
-      "numOfAddr": 55, 
+      "numOfAddr": 56, 
       "r": 3.246498088658, 
       "sanName": "kuurnsestraat", 
       "t": 50.883847519267
@@ -526,7 +535,7 @@
       "b": 50.888735880784, 
       "l": 3.228776743146, 
       "name": "Rijksweg", 
-      "numOfAddr": 26, 
+      "numOfAddr": 25, 
       "r": 3.252172148345, 
       "sanName": "rijksweg", 
       "t": 50.896989948302
@@ -614,21 +623,21 @@
     }, 
     {
       "b": 50.890438314589, 
-      "l": 3.237102443026, 
+      "l": 3.236772747132, 
       "name": "Spoelewielenlaan", 
-      "numOfAddr": 14, 
+      "numOfAddr": 16, 
       "r": 3.24138691046, 
       "sanName": "spoelewielenlaan", 
-      "t": 50.892321755036
+      "t": 50.892837628658
     }, 
     {
-      "b": 50.883988567669, 
+      "b": 50.883987013898, 
       "l": 3.238600167153, 
       "name": "Stationsstraat", 
-      "numOfAddr": 80, 
-      "r": 3.249775906284, 
+      "numOfAddr": 93, 
+      "r": 3.249923009111, 
       "sanName": "stationsstraat", 
-      "t": 50.88669735541
+      "t": 50.886844857374
     }, 
     {
       "b": 50.884025198178, 
@@ -673,7 +682,7 @@
       "numOfAddr": 26, 
       "r": 3.243012645866, 
       "sanName": "tarwelaan", 
-      "t": 50.883018117867
+      "t": 50.883020014973
     }, 
     {
       "b": 50.893520237385, 
@@ -760,8 +769,8 @@
       "b": 50.879618437524, 
       "l": 3.199587033979, 
       "name": "Winkelsestraat", 
-      "numOfAddr": 209, 
-      "r": 3.23721002344, 
+      "numOfAddr": 212, 
+      "r": 3.237176635238, 
       "sanName": "winkelsestraat", 
       "t": 50.886245771753
     }, 

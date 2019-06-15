@@ -311,12 +311,23 @@
       "street": "Ijzerlaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401"
+      ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.184244282793, 
-      "lon": 2.812054492255, 
+      "lat": 51.18429371627, 
+      "lon": 2.812005636568, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -338,8 +349,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.183886108343, 
-      "lon": 2.811775185574, 
+      "lat": 51.183916912477, 
+      "lon": 2.811854552671, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -359,24 +370,6 @@
       "housenumber": "47", 
       "lat": 51.183939080383, 
       "lon": 2.811592316308, 
-      "municipality": "Middelkerke", 
-      "pcode": "8430", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Ijzerlaan"
-    }, 
-    {
-      "apptnrs": [
-        "-101", 
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
-      "hnrlbls": [
-        "48"
-      ], 
-      "housenumber": "48", 
-      "lat": 51.184352429313, 
-      "lon": 2.811992377381, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 

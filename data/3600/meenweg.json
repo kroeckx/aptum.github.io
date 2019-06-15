@@ -17,11 +17,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.945509485665, 
-      "lon": 5.471236704705, 
+      "lat": 50.945694160497, 
+      "lon": 5.471426618733, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mee\u00ebnweg"
     }, 
     {
@@ -29,11 +29,23 @@
         "100A"
       ], 
       "housenumber": "100A", 
-      "lat": 50.945154590048, 
-      "lon": 5.471222950121, 
+      "lat": 50.945356412064, 
+      "lon": 5.470936535317, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Mee\u00ebnweg"
+    }, 
+    {
+      "hnrlbls": [
+        "100B"
+      ], 
+      "housenumber": "100B", 
+      "lat": 50.945509485665, 
+      "lon": 5.471236704705, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mee\u00ebnweg"
     }, 
     {
@@ -350,11 +362,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.954853602638, 
-      "lon": 5.482337728139, 
+      "lat": 50.954885305281, 
+      "lon": 5.48244551878, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Mee\u00ebnweg"
     }, 
     {
@@ -431,11 +443,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.954957617231, 
-      "lon": 5.482005992085, 
+      "lat": 50.954853602638, 
+      "lon": 5.482337728139, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mee\u00ebnweg"
     }, 
     {

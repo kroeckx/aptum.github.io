@@ -3,14 +3,15 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.211658373708, 
-      "lon": 4.459281984576, 
+      "lat": 51.211613746668, 
+      "lon": 4.45933956836, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -27,8 +28,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.21158963352, 
-      "lon": 4.459370861014, 
+      "lat": 51.211565520475, 
+      "lon": 4.459402010531, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -101,11 +102,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.211881369477, 
-      "lon": 4.459057888658, 
+      "lat": 51.211793875213, 
+      "lon": 4.459105801205, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Joseph Deckerslaan"
     }, 
     {
@@ -113,11 +114,11 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.211817291529, 
-      "lon": 4.459162230301, 
+      "lat": 51.212056975548, 
+      "lon": 4.458860172926, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Joseph Deckerslaan"
     }, 
     {
@@ -130,8 +131,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.211793875213, 
-      "lon": 4.459105801205, 
+      "lat": 51.211747358159, 
+      "lon": 4.459166673044, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -147,8 +148,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.211747358159, 
-      "lon": 4.459166673044, 
+      "lat": 51.211702821061, 
+      "lon": 4.459224257225, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -163,8 +164,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.211702821061, 
-      "lon": 4.459224257225, 
+      "lat": 51.211658373708, 
+      "lon": 4.459281984576, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

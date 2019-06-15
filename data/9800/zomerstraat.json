@@ -405,7 +405,7 @@
       "lon": 3.54840431707, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zomerstraat"
     }, 
     {
@@ -458,18 +458,6 @@
     }, 
     {
       "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.97414495674, 
-      "lon": 3.546948737106, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Zomerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "47A"
       ], 
       "housenumber": "47A", 
@@ -497,8 +485,8 @@
         "47E"
       ], 
       "housenumber": "47E", 
-      "lat": 50.973700532348, 
-      "lon": 3.546502165621, 
+      "lat": 50.973701707831, 
+      "lon": 3.546503141727, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

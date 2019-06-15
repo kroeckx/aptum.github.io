@@ -1912,11 +1912,11 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 51.057159446297, 
-      "lon": 3.686238076428, 
+      "lat": 51.057045574067, 
+      "lon": 3.68650604008, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Drongensesteenweg"
     }, 
     {
@@ -1954,11 +1954,11 @@
         "240"
       ], 
       "housenumber": "240", 
-      "lat": 51.056033682847, 
-      "lon": 3.688815767392, 
+      "lat": 51.05618591819, 
+      "lon": 3.689354144078, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Drongensesteenweg"
     }, 
     {
@@ -2315,7 +2315,7 @@
     }, 
     {
       "hnrlbls": [
-        "43-45"
+        "43"
       ], 
       "housenumber": "43", 
       "lat": 51.056952171426, 
@@ -2339,18 +2339,6 @@
     }, 
     {
       "hnrlbls": [
-        "43-45"
-      ], 
-      "housenumber": "45", 
-      "lat": 51.056952171426, 
-      "lon": 3.700335650088, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Drongensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
@@ -2362,22 +2350,15 @@
       "street": "Drongensesteenweg"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
-        "47-47A"
+        "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.056914582723, 
-      "lon": 3.700285692972, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Drongensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "47-47A"
-      ], 
-      "housenumber": "47A", 
       "lat": 51.056914582723, 
       "lon": 3.700285692972, 
       "municipality": "Gent", 

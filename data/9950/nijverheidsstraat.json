@@ -416,8 +416,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.153449323343, 
-      "lon": 3.605913049564, 
+      "lat": 51.153473506066, 
+      "lon": 3.605913369528, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -505,6 +505,18 @@
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nijverheidsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 51.153197467661, 
+      "lon": 3.607435249575, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nijverheidsstraat"
     }, 
     {
@@ -1044,8 +1056,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.153435714008, 
-      "lon": 3.608599707232, 
+      "lat": 51.153435979055, 
+      "lon": 3.608598988254, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -1068,11 +1080,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.15356225695, 
-      "lon": 3.608651963982, 
+      "lat": 51.153440973028, 
+      "lon": 3.608662655377, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nijverheidsstraat"
     }, 
     {
@@ -1200,6 +1212,18 @@
     }, 
     {
       "hnrlbls": [
+        "78"
+      ], 
+      "housenumber": "78", 
+      "lat": 51.153055655251, 
+      "lon": 3.611161232309, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Nijverheidsstraat"
+    }, 
+    {
+      "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
@@ -1315,8 +1339,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.153513357615, 
-      "lon": 3.611775003004, 
+      "lat": 51.153524667877, 
+      "lon": 3.611786540384, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 

@@ -149,11 +149,23 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.902725878041, 
-      "lon": 5.518923750171, 
+      "lat": 50.903154608372, 
+      "lon": 5.519173835264, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Weg naar Diepenbeek"
+    }, 
+    {
+      "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 50.901972208629, 
+      "lon": 5.519437303721, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Weg naar Diepenbeek"
     }, 
     {

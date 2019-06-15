@@ -3,6 +3,7 @@
     {
       "busnrs": [
         "1", 
+        "2", 
         "3"
       ], 
       "hnrlbls": [
@@ -415,6 +416,18 @@
     }, 
     {
       "hnrlbls": [
+        "328"
+      ], 
+      "housenumber": "328", 
+      "lat": 50.829472225657, 
+      "lon": 4.045099915965, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "327-329"
       ], 
       "housenumber": "329", 
@@ -468,6 +481,25 @@
       "housenumber": "36", 
       "lat": 50.828356846118, 
       "lon": 4.026870635622, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "365"
+      ], 
+      "housenumber": "365", 
+      "lat": 50.829173762485, 
+      "lon": 4.048938225736, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -625,8 +657,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.828138650384, 
-      "lon": 4.028133628844, 
+      "lat": 50.828223215723, 
+      "lon": 4.028124217346, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -872,8 +904,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 50.828471373166, 
-      "lon": 4.027953089306, 
+      "lat": 50.828385466428, 
+      "lon": 4.027964923835, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1132,8 +1164,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.828616837708, 
-      "lon": 4.028888133128, 
+      "lat": 50.828727549661, 
+      "lon": 4.028843049162, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 

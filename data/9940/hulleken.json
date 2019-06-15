@@ -129,7 +129,7 @@
       "lon": 3.681797105739, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hulleken"
     }, 
     {
@@ -397,6 +397,23 @@
       "street": "Hulleken"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 51.121101688716, 
+      "lon": 3.678404678806, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hulleken"
+    }, 
+    {
       "hnrlbls": [
         "37"
       ], 
@@ -449,11 +466,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.119772527429, 
-      "lon": 3.679923430431, 
+      "lat": 51.119855343471, 
+      "lon": 3.679943349647, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hulleken"
     }, 
     {
@@ -485,11 +502,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.119803639776, 
-      "lon": 3.679694016923, 
+      "lat": 51.11977882195, 
+      "lon": 3.679692668558, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hulleken"
     }, 
     {
@@ -605,11 +622,11 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.119603167168, 
-      "lon": 3.677799062321, 
+      "lat": 51.11959405624, 
+      "lon": 3.67782433475, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hulleken"
     }, 
     {
@@ -634,6 +651,18 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hulleken"
+    }, 
+    {
+      "hnrlbls": [
+        "65"
+      ], 
+      "housenumber": "65", 
+      "lat": 51.120846381458, 
+      "lon": 3.677403048773, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hulleken"
     }, 
     {
@@ -737,11 +766,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.119639411099, 
-      "lon": 3.682272067286, 
+      "lat": 51.11962937177, 
+      "lon": 3.682261502465, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hulleken"
     }, 
     {

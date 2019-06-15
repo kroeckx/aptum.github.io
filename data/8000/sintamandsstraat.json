@@ -380,14 +380,26 @@
     }, 
     {
       "hnrlbls": [
-        "36"
+        "36A-36B"
       ], 
-      "housenumber": "36", 
-      "lat": 51.20842411554, 
-      "lon": 3.2219091236, 
+      "housenumber": "36A", 
+      "lat": 51.20842743269, 
+      "lon": 3.221871117507, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sint-Amandsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36A-36B"
+      ], 
+      "housenumber": "36B", 
+      "lat": 51.20842743269, 
+      "lon": 3.221871117507, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint-Amandsstraat"
     }, 
     {
@@ -491,21 +503,9 @@
     }, 
     {
       "hnrlbls": [
-        "46-48"
+        "43-46"
       ], 
       "housenumber": "46", 
-      "lat": 51.208410908309, 
-      "lon": 3.22140011419, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Amandsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "46-48"
-      ], 
-      "housenumber": "48", 
       "lat": 51.208410908309, 
       "lon": 3.22140011419, 
       "municipality": "Brugge", 

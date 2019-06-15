@@ -98,6 +98,18 @@
     }, 
     {
       "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 51.054038311323, 
+      "lon": 3.722465742991, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Korenmarkt"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
@@ -194,90 +206,6 @@
     }, 
     {
       "hnrlbls": [
-        "23-31"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "23-31"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "23-31"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "23-31"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "23-31"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "23-31"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "23-31"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -289,39 +217,37 @@
       "street": "Korenmarkt"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
-        "23-31"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
+      "lat": 51.054915132481, 
+      "lon": 3.72156548617, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Korenmarkt"
     }, 
     {
       "hnrlbls": [
-        "23-31"
-      ], 
-      "housenumber": "30B", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Korenmarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "23-31"
+        "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.054938007335, 
-      "lon": 3.721573157461, 
+      "lat": 51.054952354764, 
+      "lon": 3.721583086025, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Korenmarkt"
     }, 
     {

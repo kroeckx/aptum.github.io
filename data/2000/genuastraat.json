@@ -28,11 +28,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.2337463378, 
-      "lon": 4.412159814095, 
+      "lat": 51.233746247917, 
+      "lon": 4.412159814009, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Genuastraat"
     }, 
     {
@@ -51,6 +51,32 @@
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanPerceelKadaster", 
+      "street": "Genuastraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 51.233776206389, 
+      "lon": 4.412327354013, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
       "street": "Genuastraat"
     }, 
     {
@@ -247,8 +273,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.233746091143, 
-      "lon": 4.412098106614, 
+      "lat": 51.233746015967, 
+      "lon": 4.412058590997, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

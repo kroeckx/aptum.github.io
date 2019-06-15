@@ -68,7 +68,7 @@
         "909"
       ], 
       "hnrlbls": [
-        "100-100C"
+        "100"
       ], 
       "housenumber": "100", 
       "lat": 51.146364226603, 
@@ -80,22 +80,6 @@
     }, 
     {
       "busnrs": [
-        "513", 
-        "606"
-      ], 
-      "hnrlbls": [
-        "100-100C"
-      ], 
-      "housenumber": "100C", 
-      "lat": 51.146364226603, 
-      "lon": 2.714180221476, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "busnrs": [
         "101", 
         "201", 
         "301", 
@@ -103,14 +87,14 @@
         "403"
       ], 
       "hnrlbls": [
-        "101-295"
+        "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.145174053314, 
-      "lon": 2.709652985998, 
+      "lat": 51.145010406706, 
+      "lon": 2.70993366342, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -184,14 +168,14 @@
         "402"
       ], 
       "hnrlbls": [
-        "101-295"
+        "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.145174053314, 
-      "lon": 2.709652985998, 
+      "lat": 51.144954787883, 
+      "lon": 2.709782554159, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -482,14 +466,14 @@
         "801"
       ], 
       "hnrlbls": [
-        "121-319"
+        "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.143724212278, 
-      "lon": 2.706292972026, 
+      "lat": 51.143934836128, 
+      "lon": 2.70699956896, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -512,50 +496,14 @@
         "901"
       ], 
       "hnrlbls": [
-        "121-319"
+        "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.143724212278, 
-      "lon": 2.706292972026, 
+      "lat": 51.143885092297, 
+      "lon": 2.706742344506, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "121-319"
-      ], 
-      "housenumber": "125", 
-      "lat": 51.143724212278, 
-      "lon": 2.706292972026, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "121-319"
-      ], 
-      "housenumber": "127", 
-      "lat": 51.143724212278, 
-      "lon": 2.706292972026, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "129-131T"
-      ], 
-      "housenumber": "129", 
-      "lat": 51.143933741674, 
-      "lon": 2.706998464428, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -640,21 +588,6 @@
     }, 
     {
       "busnrs": [
-        "P"
-      ], 
-      "hnrlbls": [
-        "130_7"
-      ], 
-      "housenumber": "130_7", 
-      "lat": 51.145696606126, 
-      "lon": 2.712785065831, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "busnrs": [
         "104", 
         "203", 
         "204", 
@@ -666,29 +599,14 @@
         "701"
       ], 
       "hnrlbls": [
-        "121-319"
+        "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.143724212278, 
-      "lon": 2.706292972026, 
+      "lat": 51.143522856917, 
+      "lon": 2.705893639979, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "apptnrs": [
-        "6.0"
-      ], 
-      "hnrlbls": [
-        "129-131T"
-      ], 
-      "housenumber": "131T", 
-      "lat": 51.143933741674, 
-      "lon": 2.706998464428, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -734,14 +652,14 @@
         "603"
       ], 
       "hnrlbls": [
-        "121-319"
+        "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.143724212278, 
-      "lon": 2.706292972026, 
+      "lat": 51.143383511113, 
+      "lon": 2.705722222753, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -761,14 +679,14 @@
     }, 
     {
       "hnrlbls": [
-        "13A-157A"
+        "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 51.149890603768, 
-      "lon": 2.720524254843, 
+      "lat": 51.149707958305, 
+      "lon": 2.720708100098, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -854,14 +772,14 @@
         "901"
       ], 
       "hnrlbls": [
-        "10-150"
+        "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.144767084539, 
-      "lon": 2.710584510719, 
+      "lat": 51.145000597298, 
+      "lon": 2.710950857261, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -879,14 +797,14 @@
         "701"
       ], 
       "hnrlbls": [
-        "152-166"
+        "152"
       ], 
       "housenumber": "152", 
-      "lat": 51.143962119223, 
-      "lon": 2.70884328878, 
+      "lat": 51.144335388362, 
+      "lon": 2.709525399525, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -906,14 +824,14 @@
         "801"
       ], 
       "hnrlbls": [
-        "152-166"
+        "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.143962119223, 
-      "lon": 2.70884328878, 
+      "lat": 51.144248126438, 
+      "lon": 2.709317099948, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -937,14 +855,14 @@
         "705"
       ], 
       "hnrlbls": [
-        "152-166"
+        "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.143962119223, 
-      "lon": 2.70884328878, 
+      "lat": 51.144115771954, 
+      "lon": 2.709130985414, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -961,14 +879,14 @@
         "704"
       ], 
       "hnrlbls": [
-        "152-166"
+        "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.143962119223, 
-      "lon": 2.70884328878, 
+      "lat": 51.144022185721, 
+      "lon": 2.708933346325, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -1008,14 +926,14 @@
         "701"
       ], 
       "hnrlbls": [
-        "152-166"
+        "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.143962119223, 
-      "lon": 2.70884328878, 
+      "lat": 51.14389660762, 
+      "lon": 2.70876242969, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -1034,14 +952,14 @@
         "701"
       ], 
       "hnrlbls": [
-        "152-166"
+        "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.143962119223, 
-      "lon": 2.70884328878, 
+      "lat": 51.1437995667, 
+      "lon": 2.708549335396, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -1055,14 +973,14 @@
         "403"
       ], 
       "hnrlbls": [
-        "152-166"
+        "164"
       ], 
       "housenumber": "164", 
-      "lat": 51.143962119223, 
-      "lon": 2.70884328878, 
+      "lat": 51.14368037039, 
+      "lon": 2.708378336712, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -1077,29 +995,14 @@
         "B"
       ], 
       "hnrlbls": [
-        "152-166"
+        "166"
       ], 
       "housenumber": "166", 
-      "lat": 51.143962119223, 
-      "lon": 2.70884328878, 
+      "lat": 51.143583328769, 
+      "lon": 2.708165244202, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "busnrs": [
-        "B"
-      ], 
-      "hnrlbls": [
-        "166_4"
-      ], 
-      "housenumber": "166_4", 
-      "lat": 51.144331615503, 
-      "lon": 2.709544829588, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -1279,7 +1182,7 @@
         "205"
       ], 
       "hnrlbls": [
-        "/zn-502"
+        "175"
       ], 
       "housenumber": "175", 
       "lat": 51.146913534831, 
@@ -1355,8 +1258,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.149443546614, 
-      "lon": 2.719987388037, 
+      "lat": 51.149542222749, 
+      "lon": 2.72028695774, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1436,7 +1339,7 @@
       "lon": 2.719821996204, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Franslaan"
     }, 
     {
@@ -1452,7 +1355,7 @@
       "lon": 2.719749743407, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Franslaan"
     }, 
     {
@@ -1606,18 +1509,6 @@
       "street": "Franslaan"
     }, 
     {
-      "hnrlbls": [
-        "99A-293A"
-      ], 
-      "housenumber": "293", 
-      "lat": 51.145351956474, 
-      "lon": 2.710041459766, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
       "busnrs": [
         "1", 
         "105", 
@@ -1711,26 +1602,26 @@
         "305"
       ], 
       "hnrlbls": [
-        "35-35A"
+        "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.148832957112, 
-      "lon": 2.718698542146, 
+      "lat": 51.148834061011, 
+      "lon": 2.718809716084, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
       "hnrlbls": [
-        "35-35A"
+        "35A"
       ], 
       "housenumber": "35A", 
-      "lat": 51.148832957112, 
-      "lon": 2.718698542146, 
+      "lat": 51.14877932837, 
+      "lon": 2.718637539765, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2056,18 +1947,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-502"
-      ], 
-      "housenumber": "502", 
-      "lat": 51.146913534831, 
-      "lon": 2.71454356336, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Franslaan"
     }, 
     {
@@ -2514,14 +2393,14 @@
         "201"
       ], 
       "hnrlbls": [
-        "6-81C"
+        "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.146506535329, 
-      "lon": 2.713293811294, 
+      "lat": 51.14662588929, 
+      "lon": 2.713592044231, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2531,14 +2410,14 @@
         "602"
       ], 
       "hnrlbls": [
-        "6-81C"
+        "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.146506535329, 
-      "lon": 2.713293811294, 
+      "lat": 51.146588835359, 
+      "lon": 2.713495013965, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2548,14 +2427,14 @@
         "501"
       ], 
       "hnrlbls": [
-        "6-81C"
+        "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.146506535329, 
-      "lon": 2.713293811294, 
+      "lat": 51.146542333866, 
+      "lon": 2.713403893299, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2566,14 +2445,14 @@
         "202"
       ], 
       "hnrlbls": [
-        "45-80"
+        "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.14761410786, 
-      "lon": 2.717312302151, 
+      "lat": 51.14770924833, 
+      "lon": 2.717120681741, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2586,14 +2465,14 @@
         "501"
       ], 
       "hnrlbls": [
-        "6-81C"
+        "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.146506535329, 
-      "lon": 2.713293811294, 
+      "lat": 51.146502971354, 
+      "lon": 2.713308946323, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2604,14 +2483,14 @@
         "401"
       ], 
       "hnrlbls": [
-        "6-81C"
+        "81A"
       ], 
       "housenumber": "81A", 
-      "lat": 51.146506535329, 
-      "lon": 2.713293811294, 
+      "lat": 51.146462322625, 
+      "lon": 2.713212043923, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2623,42 +2502,26 @@
         "501"
       ], 
       "hnrlbls": [
-        "6-81C"
+        "81B"
       ], 
       "housenumber": "81B", 
-      "lat": 51.146506535329, 
-      "lon": 2.713293811294, 
+      "lat": 51.146419311306, 
+      "lon": 2.713113367201, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
       "hnrlbls": [
-        "6-81C"
+        "81C"
       ], 
       "housenumber": "81C", 
-      "lat": 51.146506535329, 
-      "lon": 2.713293811294, 
+      "lat": 51.146319871261, 
+      "lon": 2.713062002549, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "busnrs": [
-        "103", 
-        "501"
-      ], 
-      "hnrlbls": [
-        "81D"
-      ], 
-      "housenumber": "81D", 
-      "lat": 51.146589925483, 
-      "lon": 2.713489400657, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2694,14 +2557,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "15-84"
+        "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.147356784926, 
-      "lon": 2.716360823465, 
+      "lat": 51.147407820804, 
+      "lon": 2.716300697507, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2867,14 +2730,14 @@
         "202"
       ], 
       "hnrlbls": [
-        "95-271"
+        "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.146058468955, 
-      "lon": 2.711578841026, 
+      "lat": 51.145833557874, 
+      "lon": 2.71174190741, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2975,11 +2838,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.145350908182, 
-      "lon": 2.710363676798, 
+      "lat": 51.145355841437, 
+      "lon": 2.710708551395, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -2991,14 +2854,14 @@
         "602"
       ], 
       "hnrlbls": [
-        "99A-293A"
+        "99A"
       ], 
       "housenumber": "99A", 
-      "lat": 51.145351956474, 
-      "lon": 2.710041459766, 
+      "lat": 51.145236933177, 
+      "lon": 2.710436189372, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -3009,14 +2872,14 @@
         "601"
       ], 
       "hnrlbls": [
-        "99A-293A"
+        "99B"
       ], 
       "housenumber": "99B", 
-      "lat": 51.145351956474, 
-      "lon": 2.710041459766, 
+      "lat": 51.145184517037, 
+      "lon": 2.710327417218, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -3028,14 +2891,14 @@
         "602"
       ], 
       "hnrlbls": [
-        "99A-293A"
+        "99C"
       ], 
       "housenumber": "99C", 
-      "lat": 51.145351956474, 
-      "lon": 2.710041459766, 
+      "lat": 51.145137135433, 
+      "lon": 2.710193023915, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }, 
     {
@@ -3045,26 +2908,14 @@
         "601"
       ], 
       "hnrlbls": [
-        "99A-293A"
+        "99D"
       ], 
       "housenumber": "99D", 
-      "lat": 51.145351956474, 
-      "lon": 2.710041459766, 
+      "lat": 51.145092985447, 
+      "lon": 2.710096680087, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Franslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-502"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.146913534831, 
-      "lon": 2.71454356336, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Franslaan"
     }
   ]

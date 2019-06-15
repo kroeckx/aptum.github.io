@@ -1,0 +1,31 @@
+{
+  "addresses": [
+    {
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.152383947108, 
+      "lon": 5.376111228006, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Mettenberg"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.152095086181, 
+      "lon": 5.376209477649, 
+      "municipality": "Hechtel-Eksel", 
+      "pcode": "3940", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Mettenberg"
+    }
+  ]
+}

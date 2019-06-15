@@ -77,11 +77,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.798084515436, 
-      "lon": 3.263101856338, 
+      "lat": 50.798190834462, 
+      "lon": 3.263211998639, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Marionetten"
     }, 
     {
@@ -137,11 +137,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.797439112647, 
-      "lon": 3.263210356193, 
+      "lat": 50.797427516483, 
+      "lon": 3.263143812228, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Marionetten"
     }, 
     {
@@ -185,8 +185,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.799208975952, 
-      "lon": 3.263836418084, 
+      "lat": 50.799195131151, 
+      "lon": 3.263702963629, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 

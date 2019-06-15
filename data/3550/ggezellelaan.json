@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.032704487841, 
-      "lon": 5.280619253214, 
+      "lat": 51.032704849583, 
+      "lon": 5.280618975129, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -481,7 +481,7 @@
         "11"
       ], 
       "hnrlbls": [
-        "131-133"
+        "131"
       ], 
       "housenumber": "131", 
       "lat": 51.028759710689, 
@@ -498,18 +498,6 @@
       "housenumber": "132", 
       "lat": 51.028695044797, 
       "lon": 5.271684966437, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "G. Gezellelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "131-133"
-      ], 
-      "housenumber": "133", 
-      "lat": 51.028759710689, 
-      "lon": 5.272828230485, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -2172,6 +2160,11 @@
       "street": "G. Gezellelaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
         "80"
       ], 

@@ -73,8 +73,8 @@
         "109-111"
       ], 
       "housenumber": "109", 
-      "lat": 51.171091949503, 
-      "lon": 4.404594593544, 
+      "lat": 51.171091500252, 
+      "lon": 4.404594021272, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -97,8 +97,8 @@
         "109-111"
       ], 
       "housenumber": "111", 
-      "lat": 51.171091949503, 
-      "lon": 4.404594593544, 
+      "lat": 51.171091500252, 
+      "lon": 4.404594021272, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -109,8 +109,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.171127160828, 
-      "lon": 4.404671544448, 
+      "lat": 51.17112671202, 
+      "lon": 4.404669542373, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -875,6 +875,15 @@
       "street": "Sint-Bavostraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "77"
       ], 
@@ -971,24 +980,34 @@
       "street": "Sint-Bavostraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.170901243578, 
-      "lon": 4.403608314661, 
+      "lat": 51.170901243449, 
+      "lon": 4.4036087436, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
       "street": "Sint-Bavostraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "91B"
       ], 
       "housenumber": "91B", 
-      "lat": 51.170921712803, 
-      "lon": 4.40369025754, 
+      "lat": 51.170921802645, 
+      "lon": 4.403690400588, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 

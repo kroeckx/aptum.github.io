@@ -250,6 +250,27 @@
     {
       "apptnrs": [
         "001", 
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203"
+      ], 
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 51.183241432082, 
+      "lon": 4.350529837282, 
+      "municipality": "Antwerpen", 
+      "pcode": "2660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Commandant Van Laethemstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
         "002", 
         "101", 
         "102", 
@@ -257,14 +278,14 @@
         "202"
       ], 
       "hnrlbls": [
-        "40-46"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.185587101276, 
-      "lon": 4.355719314711, 
+      "lat": 51.183317490081, 
+      "lon": 4.350632209264, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Commandant Van Laethemstraat"
     }, 
     {
@@ -290,14 +311,14 @@
         "301"
       ], 
       "hnrlbls": [
-        "40-46"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.185587101276, 
-      "lon": 4.355719314711, 
+      "lat": 51.183385457109, 
+      "lon": 4.350726289554, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Commandant Van Laethemstraat"
     }, 
     {
@@ -329,14 +350,14 @@
         "302"
       ], 
       "hnrlbls": [
-        "40-46"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.185587101276, 
-      "lon": 4.355719314711, 
+      "lat": 51.183458458213, 
+      "lon": 4.350824372763, 
       "municipality": "Antwerpen", 
       "pcode": "2660", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Commandant Van Laethemstraat"
     }, 
     {

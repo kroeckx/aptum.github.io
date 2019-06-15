@@ -29,11 +29,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.911387411994, 
-      "lon": 4.51225031773, 
+      "lat": 50.911038501109, 
+      "lon": 4.512424137549, 
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Van Frachenlaan"
     }, 
     {
@@ -475,6 +475,18 @@
     }, 
     {
       "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 50.91303818182, 
+      "lon": 4.509619675247, 
+      "municipality": "Steenokkerzeel", 
+      "pcode": "1820", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Van Frachenlaan"
+    }, 
+    {
+      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
@@ -555,18 +567,6 @@
       "municipality": "Steenokkerzeel", 
       "pcode": "1820", 
       "source": "afgeleidVanGebouw", 
-      "street": "Van Frachenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 50.913777222229, 
-      "lon": 4.509299828868, 
-      "municipality": "Steenokkerzeel", 
-      "pcode": "1820", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Van Frachenlaan"
     }, 
     {

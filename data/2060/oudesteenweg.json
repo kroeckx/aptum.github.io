@@ -111,6 +111,11 @@
       "street": "Oudesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "106"
       ], 
@@ -135,10 +140,6 @@
       "street": "Oudesteenweg"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
         "108"
       ], 
@@ -251,18 +252,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oudesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "115BIS"
-      ], 
-      "housenumber": "115BIS", 
-      "lat": 51.227435302684, 
-      "lon": 4.421820529608, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Oudesteenweg"
     }, 
     {

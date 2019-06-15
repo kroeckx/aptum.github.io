@@ -133,12 +133,15 @@
       "street": "Kloosterstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.127700618839, 
-      "lon": 4.289279603897, 
+      "lat": 51.127672687935, 
+      "lon": 4.289180943521, 
       "municipality": "Kruibeke", 
       "pcode": "9150", 
       "source": "manueleAanduidingVanGebouw", 
@@ -419,6 +422,18 @@
       "housenumber": "41", 
       "lat": 51.128315435605, 
       "lon": 4.288459898206, 
+      "municipality": "Kruibeke", 
+      "pcode": "9150", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kloosterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42"
+      ], 
+      "housenumber": "42", 
+      "lat": 51.127502565322, 
+      "lon": 4.287897038345, 
       "municipality": "Kruibeke", 
       "pcode": "9150", 
       "source": "manueleAanduidingVanGebouw", 

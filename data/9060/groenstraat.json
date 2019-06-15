@@ -2,11 +2,9 @@
   "addresses": [
     {
       "apptnrs": [
+        "0001", 
         "0101", 
         "0201"
-      ], 
-      "busnrs": [
-        "1"
       ], 
       "hnrlbls": [
         "1"
@@ -847,11 +845,9 @@
       "street": "Groenstraat"
     }, 
     {
-      "apptnrs": [
-        "0101"
-      ], 
       "busnrs": [
-        "0001"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "62"
@@ -989,7 +985,7 @@
         "0101"
       ], 
       "hnrlbls": [
-        "71"
+        "71-73"
       ], 
       "housenumber": "71", 
       "lat": 51.197770163424, 
@@ -1013,14 +1009,14 @@
     }, 
     {
       "hnrlbls": [
-        "73"
+        "71-73"
       ], 
       "housenumber": "73", 
-      "lat": 51.197770162743, 
-      "lon": 3.806137107039, 
+      "lat": 51.197770163424, 
+      "lon": 3.806137250097, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Groenstraat"
     }, 
     {

@@ -836,6 +836,20 @@
       "street": "Molsekiezel"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1930,30 +1944,6 @@
     }, 
     {
       "hnrlbls": [
-        "53"
-      ], 
-      "housenumber": "53", 
-      "lat": 51.2317456239, 
-      "lon": 5.303155759122, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Molsekiezel"
-    }, 
-    {
-      "hnrlbls": [
-        "53A"
-      ], 
-      "housenumber": "53A", 
-      "lat": 51.231692858084, 
-      "lon": 5.303087550491, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Molsekiezel"
-    }, 
-    {
-      "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
@@ -1962,30 +1952,6 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Molsekiezel"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 51.231619185744, 
-      "lon": 5.302923566777, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Molsekiezel"
-    }, 
-    {
-      "hnrlbls": [
-        "59"
-      ], 
-      "housenumber": "59", 
-      "lat": 51.231641058709, 
-      "lon": 5.302817481672, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Molsekiezel"
     }, 
     {

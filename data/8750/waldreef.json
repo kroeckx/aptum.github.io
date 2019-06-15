@@ -235,15 +235,22 @@
       "street": "Waldreef"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
+      ], 
       "hnrlbls": [
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.035282711971, 
-      "lon": 3.210611437681, 
+      "lat": 51.035418783805, 
+      "lon": 3.210580127033, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Waldreef"
     }, 
     {
@@ -265,7 +272,7 @@
       "lon": 3.210447252606, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Waldreef"
     }, 
     {

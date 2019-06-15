@@ -222,8 +222,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.883374629687, 
-      "lon": 4.690917858225, 
+      "lat": 50.883383424772, 
+      "lon": 4.690923176584, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -270,8 +270,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 50.883309444437, 
-      "lon": 4.690562288887, 
+      "lat": 50.883437342904, 
+      "lon": 4.690635783068, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -593,6 +593,18 @@
       "street": "Brouwersstraat"
     }, 
     {
+      "hnrlbls": [
+        "2-41"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.882190341434, 
+      "lon": 4.697681304813, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brouwersstraat"
+    }, 
+    {
       "busnrs": [
         "0001", 
         "0002", 
@@ -850,18 +862,6 @@
       "housenumber": "43", 
       "lat": 50.882820240982, 
       "lon": 4.694268836337, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brouwersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.883250396683, 
-      "lon": 4.692904629563, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1454,11 +1454,11 @@
         "7B"
       ], 
       "housenumber": "7B", 
-      "lat": 50.881964781204, 
-      "lon": 4.695631047, 
+      "lat": 50.881966950541, 
+      "lon": 4.695626799088, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersstraat"
     }, 
     {
@@ -1466,8 +1466,8 @@
         "7C"
       ], 
       "housenumber": "7C", 
-      "lat": 50.881885699768, 
-      "lon": 4.695589428299, 
+      "lat": 50.881843688762, 
+      "lon": 4.695567962323, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -1478,11 +1478,11 @@
         "7D"
       ], 
       "housenumber": "7D", 
-      "lat": 50.881773943523, 
-      "lon": 4.695530956146, 
+      "lat": 50.881771516403, 
+      "lon": 4.695530939226, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersstraat"
     }, 
     {
@@ -1490,11 +1490,11 @@
         "7E"
       ], 
       "housenumber": "7E", 
-      "lat": 50.881799972284, 
-      "lon": 4.695319975774, 
+      "lat": 50.881799167998, 
+      "lon": 4.695318264961, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersstraat"
     }, 
     {
@@ -1514,11 +1514,11 @@
         "7G"
       ], 
       "housenumber": "7G", 
-      "lat": 50.88198622796, 
-      "lon": 4.695419181284, 
+      "lat": 50.881986405369, 
+      "lon": 4.695420035129, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersstraat"
     }, 
     {
@@ -1548,11 +1548,11 @@
         "7I"
       ], 
       "housenumber": "7I", 
-      "lat": 50.882188249457, 
-      "lon": 4.695473877461, 
+      "lat": 50.882187082825, 
+      "lon": 4.695473158819, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersstraat"
     }, 
     {
@@ -1560,11 +1560,11 @@
         "7J"
       ], 
       "housenumber": "7J", 
-      "lat": 50.882242289535, 
-      "lon": 4.695501395653, 
+      "lat": 50.882241931943, 
+      "lon": 4.69550068265, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersstraat"
     }, 
     {
@@ -1572,11 +1572,11 @@
         "7K"
       ], 
       "housenumber": "7K", 
-      "lat": 50.882293634787, 
-      "lon": 4.69552818461, 
+      "lat": 50.882292919209, 
+      "lon": 4.695526900701, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersstraat"
     }, 
     {
@@ -1584,11 +1584,11 @@
         "7L"
       ], 
       "housenumber": "7L", 
-      "lat": 50.882345254471, 
-      "lon": 4.69555327031, 
+      "lat": 50.882344449396, 
+      "lon": 4.695551843672, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersstraat"
     }, 
     {
@@ -1596,11 +1596,11 @@
         "7M"
       ], 
       "housenumber": "7M", 
-      "lat": 50.882398127897, 
-      "lon": 4.695580070038, 
+      "lat": 50.882396877717, 
+      "lon": 4.695577077166, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brouwersstraat"
     }, 
     {
@@ -1703,8 +1703,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.883673611993, 
-      "lon": 4.690528552117, 
+      "lat": 50.883668401303, 
+      "lon": 4.690527379492, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

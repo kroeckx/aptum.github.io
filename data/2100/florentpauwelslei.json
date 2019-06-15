@@ -37,21 +37,6 @@
     }, 
     {
       "busnrs": [
-        "16"
-      ], 
-      "hnrlbls": [
-        "14"
-      ], 
-      "housenumber": "14", 
-      "lat": 51.206566413626, 
-      "lon": 4.471930960767, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Florent Pauwelslei"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "10", 
         "11", 
@@ -74,21 +59,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Florent Pauwelslei"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "16_3"
-      ], 
-      "housenumber": "16_3", 
-      "lat": 51.206566413752, 
-      "lon": 4.471930817678, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Florent Pauwelslei"
     }, 
     {
@@ -143,7 +113,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-421"
+        "2-6"
       ], 
       "housenumber": "2", 
       "lat": 51.206068526586, 
@@ -187,11 +157,11 @@
         "8"
       ], 
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.20705540867, 
-      "lon": 4.472210503776, 
+      "lat": 51.2069328751, 
+      "lon": 4.472132389159, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -210,7 +180,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "22-24"
+        "24"
       ], 
       "housenumber": "24", 
       "lat": 51.20705540867, 
@@ -236,8 +206,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.207126043069, 
-      "lon": 4.47222726002, 
+      "lat": 51.207189740737, 
+      "lon": 4.472261744087, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -339,7 +309,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "2-421"
+        "2-6"
       ], 
       "housenumber": "4", 
       "lat": 51.206068526586, 
@@ -369,53 +339,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Florent Pauwelslei"
-    }, 
-    {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "40_1-40_3"
-      ], 
-      "housenumber": "40_1", 
-      "lat": 51.207312161473, 
-      "lon": 4.472365758736, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Florent Pauwelslei"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "40_1-40_3"
-      ], 
-      "housenumber": "40_2", 
-      "lat": 51.207312161473, 
-      "lon": 4.472365758736, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Florent Pauwelslei"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
-        "40_1-40_3"
-      ], 
-      "housenumber": "40_3", 
-      "lat": 51.207312161473, 
-      "lon": 4.472365758736, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Florent Pauwelslei"
     }, 
     {
@@ -634,7 +557,7 @@
         "8"
       ], 
       "hnrlbls": [
-        "2-421"
+        "2-6"
       ], 
       "housenumber": "6", 
       "lat": 51.206068526586, 

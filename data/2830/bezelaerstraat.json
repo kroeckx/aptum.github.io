@@ -110,18 +110,6 @@
     }, 
     {
       "hnrlbls": [
-        "107"
-      ], 
-      "housenumber": "107", 
-      "lat": 51.053688896798, 
-      "lon": 4.380877563925, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Bezelaerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "109"
       ], 
       "housenumber": "109", 
@@ -182,18 +170,6 @@
     }, 
     {
       "hnrlbls": [
-        "113-115"
-      ], 
-      "housenumber": "113", 
-      "lat": 51.054156788893, 
-      "lon": 4.380711393891, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bezelaerstraat"
-    }, 
-    {
-      "hnrlbls": [
         "114"
       ], 
       "housenumber": "114", 
@@ -206,7 +182,7 @@
     }, 
     {
       "hnrlbls": [
-        "113-115"
+        "115"
       ], 
       "housenumber": "115", 
       "lat": 51.054156788893, 
@@ -662,7 +638,7 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "42-42A"
       ], 
       "housenumber": "42", 
       "lat": 51.048826487128, 
@@ -674,14 +650,14 @@
     }, 
     {
       "hnrlbls": [
-        "42A"
+        "42-42A"
       ], 
       "housenumber": "42A", 
-      "lat": 51.04872415123, 
-      "lon": 4.381431513061, 
+      "lat": 51.048826487128, 
+      "lon": 4.38105962441, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bezelaerstraat"
     }, 
     {

@@ -134,7 +134,7 @@
     }, 
     {
       "hnrlbls": [
-        "25"
+        "25-33"
       ], 
       "housenumber": "25", 
       "lat": 51.093038115605, 
@@ -146,14 +146,36 @@
     }, 
     {
       "hnrlbls": [
-        "27"
+        "25-33"
       ], 
       "housenumber": "27", 
-      "lat": 51.0933926662, 
-      "lon": 3.449877057043, 
+      "lat": 51.093038115605, 
+      "lon": 3.450061175265, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stationsplein"
+    }, 
+    {
+      "busnrs": [
+        "0A", 
+        "0B", 
+        "1A", 
+        "1B", 
+        "2A", 
+        "2B", 
+        "3A", 
+        "3B"
+      ], 
+      "hnrlbls": [
+        "25-33"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.093038115605, 
+      "lon": 3.450061175265, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsplein"
     }, 
     {
@@ -166,6 +188,55 @@
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Stationsplein"
+    }, 
+    {
+      "busnrs": [
+        "0A", 
+        "0B", 
+        "0C", 
+        "1A", 
+        "1B", 
+        "1C", 
+        "2A", 
+        "2B", 
+        "2C", 
+        "3A", 
+        "3B", 
+        "3C"
+      ], 
+      "hnrlbls": [
+        "25-33"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.093038115605, 
+      "lon": 3.450061175265, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stationsplein"
+    }, 
+    {
+      "busnrs": [
+        "0A", 
+        "0B", 
+        "0C", 
+        "1A", 
+        "1B", 
+        "1C", 
+        "2A", 
+        "2B", 
+        "2C"
+      ], 
+      "hnrlbls": [
+        "25-33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.093038115605, 
+      "lon": 3.450061175265, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsplein"
     }, 
     {

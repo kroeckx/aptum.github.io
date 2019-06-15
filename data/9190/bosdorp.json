@@ -1353,7 +1353,7 @@
       "lon": 4.03152167888, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bosdorp"
     }, 
     {
@@ -1441,15 +1441,25 @@
       "street": "Bosdorp"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.198826203421, 
-      "lon": 4.031213884086, 
+      "lat": 51.198588969924, 
+      "lon": 4.031425760744, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bosdorp"
     }, 
     {

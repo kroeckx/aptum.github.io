@@ -161,11 +161,11 @@
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 50.974700322937, 
-      "lon": 5.458715553001, 
+      "lat": 50.97470053703, 
+      "lon": 5.458711855676, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonhoverweg"
     }, 
     {
@@ -1041,11 +1041,23 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.974671884615, 
-      "lon": 5.459019192243, 
+      "lat": 50.974670098787, 
+      "lon": 5.459008186164, 
       "municipality": "Genk", 
       "pcode": "3600", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zonhoverweg"
+    }, 
+    {
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.976275423137, 
+      "lon": 5.446272035878, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zonhoverweg"
     }, 
     {

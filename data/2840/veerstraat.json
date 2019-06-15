@@ -890,7 +890,7 @@
     }, 
     {
       "hnrlbls": [
-        "79"
+        "79-79A"
       ], 
       "housenumber": "79", 
       "lat": 51.075904857493, 
@@ -898,6 +898,18 @@
       "municipality": "Rumst", 
       "pcode": "2840", 
       "source": "afgeleidVanGebouw", 
+      "street": "Veerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "79-79A"
+      ], 
+      "housenumber": "79A", 
+      "lat": 51.075904857493, 
+      "lon": 4.421743822095, 
+      "municipality": "Rumst", 
+      "pcode": "2840", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Veerstraat"
     }, 
     {

@@ -877,8 +877,8 @@
         "168"
       ], 
       "housenumber": "168", 
-      "lat": 51.050805771823, 
-      "lon": 5.606346236143, 
+      "lat": 51.050804140547, 
+      "lon": 5.60634747667, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "afgeleidVanGebouw", 
@@ -950,14 +950,26 @@
     }, 
     {
       "hnrlbls": [
+        "172A"
+      ], 
+      "housenumber": "172A", 
+      "lat": 51.050087361337, 
+      "lon": 5.60693654294, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Weg naar Opoeteren"
+    }, 
+    {
+      "hnrlbls": [
         "172B"
       ], 
       "housenumber": "172B", 
-      "lat": 51.050050177379, 
-      "lon": 5.607078473941, 
+      "lat": 51.05001965374, 
+      "lon": 5.607279487282, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Weg naar Opoeteren"
     }, 
     {
@@ -1418,8 +1430,8 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.050773334782, 
-      "lon": 5.610996619455, 
+      "lat": 51.050770048459, 
+      "lon": 5.610992823727, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "afgeleidVanGebouw", 
@@ -1931,6 +1943,18 @@
       "housenumber": "257", 
       "lat": 51.053228891846, 
       "lon": 5.616677723457, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Weg naar Opoeteren"
+    }, 
+    {
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.044596312846, 
+      "lon": 5.587920475539, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

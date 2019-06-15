@@ -585,54 +585,15 @@
       "street": "Heerweg-Zuid"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0004", 
-        "0005", 
-        "0006", 
-        "0007", 
-        "0008", 
-        "0009", 
-        "0010", 
-        "0011", 
-        "0012", 
-        "0013", 
-        "0014", 
-        "0015", 
-        "0016", 
-        "0017", 
-        "0018", 
-        "0019", 
-        "0101", 
-        "0102", 
-        "0103", 
-        "0104", 
-        "0105", 
-        "0106", 
-        "0107", 
-        "0108", 
-        "0109", 
-        "0110", 
-        "0111", 
-        "0112", 
-        "0113", 
-        "0114", 
-        "0116", 
-        "0117", 
-        "0118", 
-        "0119"
-      ], 
       "hnrlbls": [
         "126"
       ], 
       "housenumber": "126", 
-      "lat": 50.998491208437, 
-      "lon": 3.7086933578, 
+      "lat": 50.998830542081, 
+      "lon": 3.708128856907, 
       "municipality": "Gent", 
       "pcode": "9052", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heerweg-Zuid"
     }, 
     {
@@ -2642,6 +2603,30 @@
       "municipality": "Gent", 
       "pcode": "9052", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Heerweg-Zuid"
+    }, 
+    {
+      "hnrlbls": [
+        "44A"
+      ], 
+      "housenumber": "44A", 
+      "lat": 51.000629409071, 
+      "lon": 3.711678546536, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heerweg-Zuid"
+    }, 
+    {
+      "hnrlbls": [
+        "44B"
+      ], 
+      "housenumber": "44B", 
+      "lat": 51.000517333796, 
+      "lon": 3.711795513428, 
+      "municipality": "Gent", 
+      "pcode": "9052", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heerweg-Zuid"
     }, 
     {

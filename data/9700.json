@@ -4,7 +4,7 @@
       "b": 50.836103269108, 
       "l": 3.609555717778, 
       "name": "Aalststraat", 
-      "numOfAddr": 205, 
+      "numOfAddr": 206, 
       "r": 3.62048876491, 
       "sanName": "aalststraat", 
       "t": 50.847386777782
@@ -365,9 +365,9 @@
       "l": 3.631656230969, 
       "name": "Boembeekstraat", 
       "numOfAddr": 30, 
-      "r": 3.636555383404, 
+      "r": 3.636490119519, 
       "sanName": "boembeekstraat", 
-      "t": 50.840559260301
+      "t": 50.840540096105
     }, 
     {
       "b": 50.859513753673, 
@@ -733,8 +733,8 @@
       "b": 50.841621360096, 
       "l": 3.579178147371, 
       "name": "Donkstraat", 
-      "numOfAddr": 2, 
-      "r": 3.585076387672, 
+      "numOfAddr": 3, 
+      "r": 3.585451257834, 
       "sanName": "donkstraat", 
       "t": 50.843669044592
     }, 
@@ -859,7 +859,7 @@
       "b": 50.833201710809, 
       "l": 3.608384361466, 
       "name": "Edelareberg", 
-      "numOfAddr": 69, 
+      "numOfAddr": 70, 
       "r": 3.625571104255, 
       "sanName": "edelareberg", 
       "t": 50.837771641626
@@ -937,10 +937,10 @@
       "t": 50.875161832167
     }, 
     {
-      "b": 50.868560065868, 
+      "b": 50.868357988163, 
       "l": 3.621233218372, 
       "name": "Fabrieksstraat", 
-      "numOfAddr": 38, 
+      "numOfAddr": 40, 
       "r": 3.624802311574, 
       "sanName": "fabrieksstraat", 
       "t": 50.869746747985
@@ -1171,11 +1171,11 @@
       "t": 50.867074127773
     }, 
     {
-      "b": 50.84401106186, 
+      "b": 50.843164136175, 
       "l": 3.612409982055, 
       "name": "Hastingsstraat", 
-      "numOfAddr": 2, 
-      "r": 3.612467901622, 
+      "numOfAddr": 12, 
+      "r": 3.61274256146, 
       "sanName": "hastingsstraat", 
       "t": 50.844151561728
     }, 
@@ -1396,10 +1396,10 @@
       "t": 50.849253881466
     }, 
     {
-      "b": 50.857179703516, 
+      "b": 50.856784327494, 
       "l": 3.585574079849, 
       "name": "Industriepark \"De Bruwaan\"", 
-      "numOfAddr": 86, 
+      "numOfAddr": 93, 
       "r": 3.604293986354, 
       "sanName": "industrieparkdebruwaan", 
       "t": 50.86928633002
@@ -1723,7 +1723,7 @@
       "b": 50.847534013066, 
       "l": 3.593064441995, 
       "name": "Koestraat", 
-      "numOfAddr": 49, 
+      "numOfAddr": 51, 
       "r": 3.597103724168, 
       "sanName": "koestraat", 
       "t": 50.850145561266
@@ -1820,12 +1820,12 @@
     }, 
     {
       "b": 50.84452395271, 
-      "l": 3.603233440558, 
+      "l": 3.603137135427, 
       "name": "Kruisstraat", 
-      "numOfAddr": 1, 
+      "numOfAddr": 2, 
       "r": 3.603233440558, 
       "sanName": "kruisstraat", 
-      "t": 50.84452395271
+      "t": 50.844587063659
     }, 
     {
       "b": 50.82196914828, 
@@ -1957,7 +1957,7 @@
       "b": 50.852767075672, 
       "l": 3.600081867707, 
       "name": "Lindestraat", 
-      "numOfAddr": 47, 
+      "numOfAddr": 49, 
       "r": 3.610095850497, 
       "sanName": "lindestraat", 
       "t": 50.859082810475
@@ -2119,7 +2119,7 @@
       "b": 50.843134745658, 
       "l": 3.609144796242, 
       "name": "Marlboroughlaan", 
-      "numOfAddr": 10, 
+      "numOfAddr": 11, 
       "r": 3.611143583037, 
       "sanName": "marlboroughlaan", 
       "t": 50.845145778132
@@ -2245,7 +2245,7 @@
       "b": 50.813767568402, 
       "l": 3.563558882121, 
       "name": "Meldenstraat", 
-      "numOfAddr": 106, 
+      "numOfAddr": 105, 
       "r": 3.577066245399, 
       "sanName": "meldenstraat", 
       "t": 50.819651432293
@@ -2291,7 +2291,7 @@
       "l": 3.623889233629, 
       "name": "Misweg", 
       "numOfAddr": 55, 
-      "r": 3.626133567181, 
+      "r": 3.625426972551, 
       "sanName": "misweg", 
       "t": 50.87394995472
     }, 
@@ -2398,7 +2398,7 @@
       "b": 50.863556574009, 
       "l": 3.611824475389, 
       "name": "Nestor De Ti\u00e8restraat", 
-      "numOfAddr": 178, 
+      "numOfAddr": 179, 
       "r": 3.622116907569, 
       "sanName": "nestordetirestraat", 
       "t": 50.869954968411
@@ -3253,7 +3253,7 @@
       "b": 50.84718527503, 
       "l": 3.600778995575, 
       "name": "Stationsstraat", 
-      "numOfAddr": 70, 
+      "numOfAddr": 71, 
       "r": 3.60199448937, 
       "sanName": "stationsstraat", 
       "t": 50.84974809602
@@ -3469,10 +3469,10 @@
       "b": 50.841042373409, 
       "l": 3.613289283962, 
       "name": "Trekweg(Linker oever)", 
-      "numOfAddr": 1, 
-      "r": 3.613289283962, 
+      "numOfAddr": 11, 
+      "r": 3.613435963301, 
       "sanName": "trekweglinkeroever", 
-      "t": 50.841042373409
+      "t": 50.843562671635
     }, 
     {
       "b": 50.84077502189, 
@@ -3811,7 +3811,7 @@
       "b": 50.874828981256, 
       "l": 3.665699486416, 
       "name": "Weldenstraat", 
-      "numOfAddr": 73, 
+      "numOfAddr": 74, 
       "r": 3.683056695634, 
       "sanName": "weldenstraat", 
       "t": 50.884133733826
@@ -3865,7 +3865,7 @@
       "b": 50.838829643965, 
       "l": 3.628001267953, 
       "name": "Winkelstraat", 
-      "numOfAddr": 33, 
+      "numOfAddr": 34, 
       "r": 3.630266276012, 
       "sanName": "winkelstraat", 
       "t": 50.842777420522

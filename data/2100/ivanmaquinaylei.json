@@ -317,11 +317,14 @@
       "street": "Ivan Maquinaylei"
     }, 
     {
-      "busnrs": [
-        "33"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "31-33"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 51.22115711646, 
@@ -343,18 +346,6 @@
       "housenumber": "32", 
       "lat": 51.221793287557, 
       "lon": 4.482124653296, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ivan Maquinaylei"
-    }, 
-    {
-      "hnrlbls": [
-        "31-33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.22115711646, 
-      "lon": 4.482282404897, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

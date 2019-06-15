@@ -125,11 +125,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.904740857494, 
-      "lon": 3.660415331357, 
+      "lat": 50.904795659999, 
+      "lon": 3.660379672315, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Omgangstraat"
     }, 
     {
@@ -1237,7 +1237,7 @@
       "lon": 3.661268217098, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Omgangstraat"
     }, 
     {
@@ -1861,7 +1861,7 @@
       "lon": 3.657428065274, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Omgangstraat"
     }, 
     {
@@ -1869,11 +1869,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.904814997979, 
-      "lon": 3.660053230034, 
+      "lat": 50.904802236235, 
+      "lon": 3.660053849017, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Omgangstraat"
     }, 
     {

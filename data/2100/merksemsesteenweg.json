@@ -251,66 +251,6 @@
     }, 
     {
       "hnrlbls": [
-        "114A-114F"
-      ], 
-      "housenumber": "114A", 
-      "lat": 51.232139044869, 
-      "lon": 4.458349096894, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Merksemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "114A-114F"
-      ], 
-      "housenumber": "114C", 
-      "lat": 51.232139044869, 
-      "lon": 4.458349096894, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Merksemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "114A-114F"
-      ], 
-      "housenumber": "114D", 
-      "lat": 51.232139044869, 
-      "lon": 4.458349096894, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Merksemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "114A-114F"
-      ], 
-      "housenumber": "114E", 
-      "lat": 51.232139044869, 
-      "lon": 4.458349096894, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Merksemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "114A-114F"
-      ], 
-      "housenumber": "114F", 
-      "lat": 51.232139044869, 
-      "lon": 4.458349096894, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Merksemsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "115"
       ], 
       "housenumber": "115", 
@@ -387,7 +327,7 @@
       "lon": 4.457766864151, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Merksemsesteenweg"
     }, 
     {
@@ -404,7 +344,7 @@
       "lon": 4.457766864151, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Merksemsesteenweg"
     }, 
     {
@@ -703,11 +643,11 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.234875315302, 
-      "lon": 4.455426881184, 
+      "lat": 51.234896392174, 
+      "lon": 4.455488772666, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Merksemsesteenweg"
     }, 
     {
@@ -822,7 +762,7 @@
       "lon": 4.455070612657, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Merksemsesteenweg"
     }, 
     {
@@ -1334,15 +1274,20 @@
       "street": "Merksemsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.230694959822, 
-      "lon": 4.458956460584, 
+      "lat": 51.230624777131, 
+      "lon": 4.45893513565, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Merksemsesteenweg"
     }, 
     {
@@ -1440,6 +1385,11 @@
       "street": "Merksemsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "90"
       ], 

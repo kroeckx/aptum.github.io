@@ -511,6 +511,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -1309,9 +1310,10 @@
       "street": "Boterlaarbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "22"
@@ -1979,7 +1981,6 @@
       "busnrs": [
         "1", 
         "2", 
-        "29", 
         "3", 
         "4", 
         "5", 
@@ -1989,7 +1990,7 @@
         "9"
       ], 
       "hnrlbls": [
-        "27-29"
+        "27"
       ], 
       "housenumber": "27", 
       "lat": 51.210045657794, 
@@ -2234,18 +2235,6 @@
     }, 
     {
       "hnrlbls": [
-        "27-29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.210045657794, 
-      "lon": 4.461370373906, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boterlaarbaan"
-    }, 
-    {
-      "hnrlbls": [
         "290"
       ], 
       "housenumber": "290", 
@@ -2349,8 +2338,8 @@
         "300"
       ], 
       "housenumber": "300", 
-      "lat": 51.208455199745, 
-      "lon": 4.475104715926, 
+      "lat": 51.208363543639, 
+      "lon": 4.475076029766, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2487,21 +2476,6 @@
       "street": "Boterlaarbaan"
     }, 
     {
-      "busnrs": [
-        "L"
-      ], 
-      "hnrlbls": [
-        "314_1"
-      ], 
-      "housenumber": "314_1", 
-      "lat": 51.208391860088, 
-      "lon": 4.475666932179, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Boterlaarbaan"
-    }, 
-    {
       "hnrlbls": [
         "315"
       ], 
@@ -2605,6 +2579,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201"
       ], 
@@ -2665,8 +2640,8 @@
         "325"
       ], 
       "housenumber": "325", 
-      "lat": 51.209015210121, 
-      "lon": 4.473872652746, 
+      "lat": 51.209015658133, 
+      "lon": 4.473874227824, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2689,8 +2664,8 @@
         "327"
       ], 
       "housenumber": "327", 
-      "lat": 51.209007313567, 
-      "lon": 4.473958206505, 
+      "lat": 51.209006863634, 
+      "lon": 4.47395877787, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -2806,10 +2781,7 @@
       "busnrs": [
         "1", 
         "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "3"
       ], 
       "hnrlbls": [
         "336"
@@ -2969,8 +2941,9 @@
       "street": "Boterlaarbaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "347"
@@ -3807,10 +3780,10 @@
       "street": "Boterlaarbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "451"
@@ -4132,8 +4105,8 @@
         "504"
       ], 
       "housenumber": "504", 
-      "lat": 51.205673810408, 
-      "lon": 4.479105033244, 
+      "lat": 51.20563156573, 
+      "lon": 4.479103931068, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -4253,15 +4226,19 @@
       "street": "Boterlaarbaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "536"
       ], 
       "housenumber": "536", 
-      "lat": 51.204353709286, 
-      "lon": 4.481343702221, 
+      "lat": 51.204439844714, 
+      "lon": 4.481410301674, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Boterlaarbaan"
     }, 
     {
@@ -4608,6 +4585,11 @@
       "street": "Boterlaarbaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "82"
       ], 

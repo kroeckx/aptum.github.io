@@ -317,8 +317,8 @@
         "238"
       ], 
       "housenumber": "238", 
-      "lat": 50.80838843609, 
-      "lon": 4.024102812517, 
+      "lat": 50.808405130698, 
+      "lon": 4.024063248017, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -329,8 +329,8 @@
         "239"
       ], 
       "housenumber": "239", 
-      "lat": 50.805559056458, 
-      "lon": 4.022802113119, 
+      "lat": 50.805550782314, 
+      "lon": 4.022831399202, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -522,11 +522,11 @@
     }, 
     {
       "hnrlbls": [
-        "260-264"
+        "260"
       ], 
       "housenumber": "260", 
-      "lat": 50.805989361248, 
-      "lon": 4.02373814818, 
+      "lat": 50.806039258892, 
+      "lon": 4.023739769218, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -537,8 +537,8 @@
         "261"
       ], 
       "housenumber": "261", 
-      "lat": 50.803317815617, 
-      "lon": 4.022522347162, 
+      "lat": 50.803341630781, 
+      "lon": 4.022550261348, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -553,11 +553,11 @@
         "5"
       ], 
       "hnrlbls": [
-        "260-264"
+        "262"
       ], 
       "housenumber": "262", 
-      "lat": 50.805989361248, 
-      "lon": 4.02373814818, 
+      "lat": 50.805950762461, 
+      "lon": 4.023726939038, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -572,11 +572,11 @@
         "5"
       ], 
       "hnrlbls": [
-        "260-264"
+        "264"
       ], 
       "housenumber": "264", 
-      "lat": 50.805989361248, 
-      "lon": 4.02373814818, 
+      "lat": 50.805924505573, 
+      "lon": 4.023724577511, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -587,11 +587,11 @@
         "264A"
       ], 
       "housenumber": "264A", 
-      "lat": 50.80592641505, 
-      "lon": 4.023731940871, 
+      "lat": 50.805776079965, 
+      "lon": 4.023936910265, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edingsesteenweg"
     }, 
     {
@@ -599,11 +599,11 @@
         "264B"
       ], 
       "housenumber": "264B", 
-      "lat": 50.805786109462, 
-      "lon": 4.024076722109, 
+      "lat": 50.805747766578, 
+      "lon": 4.024030184917, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Edingsesteenweg"
     }, 
     {
@@ -695,8 +695,8 @@
         "275"
       ], 
       "housenumber": "275", 
-      "lat": 50.802281099973, 
-      "lon": 4.022484565007, 
+      "lat": 50.802325283349, 
+      "lon": 4.022529919737, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -771,7 +771,7 @@
       "lon": 4.023514602784, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Edingsesteenweg"
     }, 
     {
@@ -923,8 +923,8 @@
         "295"
       ], 
       "housenumber": "295", 
-      "lat": 50.800953757246, 
-      "lon": 4.022298125367, 
+      "lat": 50.800986069186, 
+      "lon": 4.022372220969, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1218,18 +1218,6 @@
     }, 
     {
       "hnrlbls": [
-        "323A"
-      ], 
-      "housenumber": "323A", 
-      "lat": 50.79914600934, 
-      "lon": 4.022784341173, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Edingsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "324"
       ], 
       "housenumber": "324", 
@@ -1334,8 +1322,20 @@
         "333"
       ], 
       "housenumber": "333", 
-      "lat": 50.798845643158, 
-      "lon": 4.023602327264, 
+      "lat": 50.798846564727, 
+      "lon": 4.023701757707, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Edingsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "333A"
+      ], 
+      "housenumber": "333A", 
+      "lat": 50.798873098693, 
+      "lon": 4.023676030428, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1386,8 +1386,8 @@
         "338"
       ], 
       "housenumber": "338", 
-      "lat": 50.79993622328, 
-      "lon": 4.023034305137, 
+      "lat": 50.800003652031, 
+      "lon": 4.023219497572, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1400,6 +1400,21 @@
       "housenumber": "339", 
       "lat": 50.798693221534, 
       "lon": 4.02377025864, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Edingsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "340"
+      ], 
+      "housenumber": "340", 
+      "lat": 50.799902630657, 
+      "lon": 4.023105194581, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1443,21 +1458,9 @@
     }, 
     {
       "hnrlbls": [
-        "344-344A"
+        "344"
       ], 
       "housenumber": "344", 
-      "lat": 50.799768552293, 
-      "lon": 4.023335412373, 
-      "municipality": "Ninove", 
-      "pcode": "9400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Edingsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "344-344A"
-      ], 
-      "housenumber": "344A", 
       "lat": 50.799768552293, 
       "lon": 4.023335412373, 
       "municipality": "Ninove", 
@@ -1470,8 +1473,8 @@
         "345"
       ], 
       "housenumber": "345", 
-      "lat": 50.798444488202, 
-      "lon": 4.023988682345, 
+      "lat": 50.798449885334, 
+      "lon": 4.024020417121, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1594,6 +1597,27 @@
         "1", 
         "2", 
         "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "356A"
+      ], 
+      "housenumber": "356A", 
+      "lat": 50.799322990494, 
+      "lon": 4.023936440518, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Edingsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
@@ -1602,6 +1626,18 @@
       "housenumber": "357", 
       "lat": 50.79752623886, 
       "lon": 4.02486434801, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Edingsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "358"
+      ], 
+      "housenumber": "358", 
+      "lat": 50.799283706754, 
+      "lon": 4.023967509646, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1802,6 +1838,30 @@
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Edingsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "382"
+      ], 
+      "housenumber": "382", 
+      "lat": 50.797828694488, 
+      "lon": 4.025277613176, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Edingsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "384"
+      ], 
+      "housenumber": "384", 
+      "lat": 50.797585145457, 
+      "lon": 4.025333147169, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Edingsesteenweg"
     }, 
     {
@@ -2244,11 +2304,23 @@
     }, 
     {
       "hnrlbls": [
-        "427-429"
+        "426"
+      ], 
+      "housenumber": "426", 
+      "lat": 50.794846287548, 
+      "lon": 4.025532377438, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Edingsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "427"
       ], 
       "housenumber": "427", 
-      "lat": 50.793592694304, 
-      "lon": 4.024834597726, 
+      "lat": 50.793625909356, 
+      "lon": 4.02484924813, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2264,8 +2336,8 @@
         "428"
       ], 
       "housenumber": "428", 
-      "lat": 50.794802951744, 
-      "lon": 4.025715096883, 
+      "lat": 50.794891079555, 
+      "lon": 4.026032599627, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2273,11 +2345,11 @@
     }, 
     {
       "hnrlbls": [
-        "427-429"
+        "429"
       ], 
       "housenumber": "429", 
-      "lat": 50.793592694304, 
-      "lon": 4.024834597726, 
+      "lat": 50.793559213581, 
+      "lon": 4.024852003886, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2771,8 +2843,8 @@
         "474"
       ], 
       "housenumber": "474", 
-      "lat": 50.790654057384, 
-      "lon": 4.025455384133, 
+      "lat": 50.790698139956, 
+      "lon": 4.025312953672, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2999,8 +3071,8 @@
         "494"
       ], 
       "housenumber": "494", 
-      "lat": 50.787996691864, 
-      "lon": 4.025149397452, 
+      "lat": 50.788050108936, 
+      "lon": 4.0251555319, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3086,11 +3158,11 @@
     }, 
     {
       "hnrlbls": [
-        "502-504"
+        "502"
       ], 
       "housenumber": "502", 
-      "lat": 50.787442704563, 
-      "lon": 4.025197538351, 
+      "lat": 50.787471113996, 
+      "lon": 4.025259588708, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3110,11 +3182,11 @@
     }, 
     {
       "hnrlbls": [
-        "502-504"
+        "504"
       ], 
       "housenumber": "504", 
-      "lat": 50.787442704563, 
-      "lon": 4.025197538351, 
+      "lat": 50.787435937097, 
+      "lon": 4.025066124142, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3194,8 +3266,8 @@
         "508"
       ], 
       "housenumber": "508", 
-      "lat": 50.787106380447, 
-      "lon": 4.025160847326, 
+      "lat": 50.787074457972, 
+      "lon": 4.025096412252, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3305,8 +3377,8 @@
         "517"
       ], 
       "housenumber": "517", 
-      "lat": 50.786078534962, 
-      "lon": 4.024439279797, 
+      "lat": 50.786152636052, 
+      "lon": 4.024386693743, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 

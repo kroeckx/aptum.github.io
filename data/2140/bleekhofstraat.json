@@ -468,15 +468,21 @@
       "street": "Bleekhofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.211471059623, 
-      "lon": 4.428610437978, 
+      "lat": 51.211519052488, 
+      "lon": 4.428620803781, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Bleekhofstraat"
     }, 
     {

@@ -1,6 +1,27 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.219707501764, 
+      "lon": 4.281752005035, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Spoorweglaan"
+    }, 
+    {
       "hnrlbls": [
         "101"
       ], 
@@ -192,6 +213,23 @@
       "housenumber": "120", 
       "lat": 51.215538845604, 
       "lon": 4.282723036907, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Spoorweglaan"
+    }, 
+    {
+      "apptnrs": [
+        "11", 
+        "12", 
+        "13"
+      ], 
+      "hnrlbls": [
+        "120A"
+      ], 
+      "housenumber": "120A", 
+      "lat": 51.215485462466, 
+      "lon": 4.282734154547, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1295,21 +1333,6 @@
       "street": "Spoorweglaan"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "215b"
-      ], 
-      "housenumber": "215b", 
-      "lat": 51.21172322034, 
-      "lon": 4.284679677435, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Spoorweglaan"
-    }, 
-    {
       "hnrlbls": [
         "216"
       ], 
@@ -1845,6 +1868,18 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.219398240161, 
+      "lon": 4.281791937725, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Spoorweglaan"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -1898,6 +1933,18 @@
       "housenumber": "39", 
       "lat": 51.218257197997, 
       "lon": 4.281963508393, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Spoorweglaan"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.219269771245, 
+      "lon": 4.281635020972, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2419,11 +2466,35 @@
     }, 
     {
       "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 51.216931331458, 
+      "lon": 4.281981270208, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Spoorweglaan"
+    }, 
+    {
+      "hnrlbls": [
         "84"
       ], 
       "housenumber": "84", 
       "lat": 51.217184238499, 
       "lon": 4.282439650866, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Spoorweglaan"
+    }, 
+    {
+      "hnrlbls": [
+        "85"
+      ], 
+      "housenumber": "85", 
+      "lat": 51.216882079016, 
+      "lon": 4.281986799703, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 

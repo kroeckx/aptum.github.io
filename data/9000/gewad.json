@@ -89,11 +89,11 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.057372749278, 
-      "lon": 3.718989579437, 
+      "lat": 51.057434097294, 
+      "lon": 3.718980740735, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gewad"
     }, 
     {
@@ -268,6 +268,7 @@
       "busnrs": [
         "0001", 
         "0002", 
+        "0003", 
         "0201", 
         "0301"
       ], 

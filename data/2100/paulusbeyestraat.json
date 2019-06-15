@@ -441,11 +441,11 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.224181004636, 
-      "lon": 4.471731297287, 
+      "lat": 51.22404939249, 
+      "lon": 4.471756627168, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Paulus Beyestraat"
     }, 
     {
@@ -621,8 +621,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.223943264566, 
-      "lon": 4.472646879254, 
+      "lat": 51.223943894131, 
+      "lon": 4.472646451239, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -645,11 +645,11 @@
         "155"
       ], 
       "housenumber": "155", 
-      "lat": 51.223918051455, 
-      "lon": 4.472799984855, 
+      "lat": 51.22392523771, 
+      "lon": 4.472805010976, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Paulus Beyestraat"
     }, 
     {
@@ -1326,6 +1326,10 @@
       "street": "Paulus Beyestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -1641,7 +1645,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "65"
@@ -1670,7 +1675,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "67"
@@ -1696,6 +1702,12 @@
       "street": "Paulus Beyestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "69"
       ], 

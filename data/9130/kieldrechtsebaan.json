@@ -151,6 +151,26 @@
       "street": "Kieldrechtsebaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.256543290758, 
+      "lon": 4.188878794133, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kieldrechtsebaan"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 
@@ -611,6 +631,34 @@
       "municipality": "Beveren", 
       "pcode": "9130", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kieldrechtsebaan"
+    }, 
+    {
+      "busnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "008", 
+        "009", 
+        "010", 
+        "011", 
+        "012", 
+        "013", 
+        "014"
+      ], 
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.258449193467, 
+      "lon": 4.188718904505, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kieldrechtsebaan"
     }, 
     {
@@ -1202,8 +1250,8 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.272996120103, 
-      "lon": 4.184252608993, 
+      "lat": 51.272141118627, 
+      "lon": 4.184573658641, 
       "municipality": "Beveren", 
       "pcode": "9130", 
       "source": "manueleAanduidingVanGebouw", 

@@ -343,6 +343,54 @@
     {
       "busnrs": [
         "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "124A"
+      ], 
+      "housenumber": "124A", 
+      "lat": 51.188074516747, 
+      "lon": 3.568519108549, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boelare"
+    }, 
+    {
+      "hnrlbls": [
+        "124B"
+      ], 
+      "housenumber": "124B", 
+      "lat": 51.188023016895, 
+      "lon": 3.567736845595, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Boelare"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "124C"
+      ], 
+      "housenumber": "124C", 
+      "lat": 51.187745895864, 
+      "lon": 3.568428760162, 
+      "municipality": "Eeklo", 
+      "pcode": "9900", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Boelare"
+    }, 
+    {
+      "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4"
@@ -486,8 +534,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.18956188681, 
-      "lon": 3.568486182515, 
+      "lat": 51.189512075105, 
+      "lon": 3.568590600575, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1765,8 +1813,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.187984289386, 
-      "lon": 3.566717919589, 
+      "lat": 51.188018533424, 
+      "lon": 3.566598035886, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 

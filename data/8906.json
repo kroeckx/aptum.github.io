@@ -22,10 +22,10 @@
       "t": 50.88571626241
     }, 
     {
-      "b": 50.883266072946, 
-      "l": 2.820915141824, 
+      "b": 50.883125887186, 
+      "l": 2.820477345208, 
       "name": "Bourgondi\u00ebstraat", 
-      "numOfAddr": 4, 
+      "numOfAddr": 11, 
       "r": 2.821927095536, 
       "sanName": "bourgondistraat", 
       "t": 50.883639746744
@@ -109,7 +109,7 @@
       "b": 50.855364595957, 
       "l": 2.799620300674, 
       "name": "Hospitaalstraat", 
-      "numOfAddr": 15, 
+      "numOfAddr": 14, 
       "otherPCs": [
         "8908"
       ], 
@@ -125,6 +125,18 @@
       "r": 2.831551806546, 
       "sanName": "klapstraat", 
       "t": 50.875535719152
+    }, 
+    {
+      "b": 50.855517082344, 
+      "l": 2.788393489071, 
+      "name": "Kleine Branderstraat", 
+      "numOfAddr": 3, 
+      "otherPCs": [
+        "8908"
+      ], 
+      "r": 2.788712654005, 
+      "sanName": "kleinebranderstraat", 
+      "t": 50.855710687665
     }, 
     {
       "b": 50.888887143073, 

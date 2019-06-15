@@ -172,12 +172,16 @@
       "street": "Onze-Lieve-Vrouwestraat"
     }, 
     {
+      "apptnrs": [
+        "GLVA", 
+        "GLVB"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.848251274947, 
-      "lon": 2.885009387805, 
+      "lat": 50.848250025643, 
+      "lon": 2.885010137358, 
       "municipality": "Ieper", 
       "pcode": "8900", 
       "source": "manueleAanduidingVanGebouw", 

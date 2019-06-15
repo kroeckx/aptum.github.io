@@ -800,18 +800,6 @@
     }, 
     {
       "hnrlbls": [
-        "166"
-      ], 
-      "housenumber": "166", 
-      "lat": 50.777173745781, 
-      "lon": 4.52673521856, 
-      "municipality": "Overijse", 
-      "pcode": "3090", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -2947,23 +2935,26 @@
         "442"
       ], 
       "housenumber": "442", 
-      "lat": 50.787416474537, 
-      "lon": 4.497686516331, 
+      "lat": 50.787275558043, 
+      "lon": 4.497567713323, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0201"
+      ], 
       "hnrlbls": [
         "444"
       ], 
       "housenumber": "444", 
-      "lat": 50.787453578027, 
-      "lon": 4.497545512756, 
+      "lat": 50.787334336294, 
+      "lon": 4.497417835336, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -3050,11 +3041,11 @@
         "470"
       ], 
       "housenumber": "470", 
-      "lat": 50.788261070946, 
-      "lon": 4.495375802825, 
+      "lat": 50.788240955576, 
+      "lon": 4.495356035826, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -4476,18 +4467,17 @@
     }, 
     {
       "apptnrs": [
-        "1.01", 
         "2.01"
       ], 
       "hnrlbls": [
         "604"
       ], 
       "housenumber": "604", 
-      "lat": 50.792493300094, 
-      "lon": 4.485312357994, 
+      "lat": 50.792447406504, 
+      "lon": 4.485268843728, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -4892,11 +4882,11 @@
         "630"
       ], 
       "housenumber": "630", 
-      "lat": 50.793092763427, 
-      "lon": 4.483832702159, 
+      "lat": 50.793024462695, 
+      "lon": 4.483811826737, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5020,11 +5010,11 @@
         "653"
       ], 
       "housenumber": "653", 
-      "lat": 50.793298825988, 
-      "lon": 4.482163274396, 
+      "lat": 50.793353252578, 
+      "lon": 4.482215317067, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5035,11 +5025,11 @@
         "655"
       ], 
       "housenumber": "655", 
-      "lat": 50.793303554181, 
-      "lon": 4.482108254885, 
+      "lat": 50.793388475118, 
+      "lon": 4.48214037302, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {

@@ -225,6 +225,12 @@
       "street": "Boudewijnsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -835,6 +841,12 @@
       "street": "Boudewijnsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "69"
       ], 
@@ -1001,21 +1013,9 @@
         "3"
       ], 
       "hnrlbls": [
-        "83-85"
+        "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.204142507654, 
-      "lon": 4.401831967383, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boudewijnsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "83-85"
-      ], 
-      "housenumber": "85", 
       "lat": 51.204142507654, 
       "lon": 4.401831967383, 
       "municipality": "Antwerpen", 

@@ -125,8 +125,8 @@
         "108-108A"
       ], 
       "housenumber": "108", 
-      "lat": 51.237730471812, 
-      "lon": 5.541975911609, 
+      "lat": 51.237728888219, 
+      "lon": 5.541972434866, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -137,8 +137,8 @@
         "108-108A"
       ], 
       "housenumber": "108A", 
-      "lat": 51.237730471812, 
-      "lon": 5.541975911609, 
+      "lat": 51.237728888219, 
+      "lon": 5.541972434866, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -229,8 +229,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.237898717823, 
-      "lon": 5.542568140372, 
+      "lat": 51.237908963922, 
+      "lon": 5.54263169427, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -461,8 +461,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.244699704424, 
-      "lon": 5.542845967844, 
+      "lat": 51.244668572959, 
+      "lon": 5.542794481828, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -556,11 +556,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.24552060285, 
-      "lon": 5.543408631518, 
+      "lat": 51.245558870364, 
+      "lon": 5.543329962812, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Salvatorstraat"
     }, 
     {
@@ -815,8 +815,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.243842835808, 
-      "lon": 5.543316188088, 
+      "lat": 51.243836192903, 
+      "lon": 5.543333350317, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -923,8 +923,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.243399219307, 
-      "lon": 5.543224510811, 
+      "lat": 51.243399330516, 
+      "lon": 5.543222365319, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -1028,6 +1028,18 @@
     }, 
     {
       "hnrlbls": [
+        "64A"
+      ], 
+      "housenumber": "64A", 
+      "lat": 51.241617600102, 
+      "lon": 5.542292515162, 
+      "municipality": "Hamont-Achel", 
+      "pcode": "3930", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Salvatorstraat"
+    }, 
+    {
+      "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
@@ -1107,8 +1119,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.241092502264, 
-      "lon": 5.542340293327, 
+      "lat": 51.241093248568, 
+      "lon": 5.542346613491, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -1431,11 +1443,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.239177940719, 
-      "lon": 5.542891517559, 
+      "lat": 51.239221248199, 
+      "lon": 5.542776038782, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Salvatorstraat"
     }
   ]

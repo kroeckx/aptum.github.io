@@ -156,11 +156,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 50.855756398276, 
-      "lon": 3.3665703036, 
+      "lat": 50.855803328705, 
+      "lon": 3.366654665813, 
       "municipality": "Deerlijk", 
       "pcode": "8540", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Waregemstraat"
     }, 
     {
@@ -3005,66 +3005,6 @@
     }, 
     {
       "hnrlbls": [
-        "50A"
-      ], 
-      "housenumber": "50A", 
-      "lat": 50.854958358718, 
-      "lon": 3.36399736946, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Waregemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "50B"
-      ], 
-      "housenumber": "50B", 
-      "lat": 50.85497641086, 
-      "lon": 3.364121261218, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Waregemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "50C"
-      ], 
-      "housenumber": "50C", 
-      "lat": 50.854983407869, 
-      "lon": 3.363982915223, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Waregemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "50D"
-      ], 
-      "housenumber": "50D", 
-      "lat": 50.855002106249, 
-      "lon": 3.364108781677, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Waregemstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "50E"
-      ], 
-      "housenumber": "50E", 
-      "lat": 50.855173410053, 
-      "lon": 3.363966215006, 
-      "municipality": "Deerlijk", 
-      "pcode": "8540", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Waregemstraat"
-    }, 
-    {
-      "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
@@ -3203,11 +3143,11 @@
         "531"
       ], 
       "housenumber": "531", 
-      "lat": 50.861810286654, 
-      "lon": 3.380932546211, 
+      "lat": 50.861814404973, 
+      "lon": 3.380919817106, 
       "municipality": "Deerlijk", 
       "pcode": "8540", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Waregemstraat"
     }, 
     {

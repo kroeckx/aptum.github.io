@@ -2572,11 +2572,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.130129133016, 
-      "lon": 4.560692112857, 
+      "lat": 51.130150315001, 
+      "lon": 4.560601201397, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2774,11 +2774,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.130011377151, 
-      "lon": 4.560363632662, 
+      "lat": 51.130034258818, 
+      "lon": 4.560277585343, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2914,11 +2914,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.12989772796, 
-      "lon": 4.560051884974, 
+      "lat": 51.129932485328, 
+      "lon": 4.56001445705, 
       "municipality": "Lier", 
       "pcode": "2500", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -3527,15 +3527,12 @@
       "street": "Mechelsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "420"
       ], 
       "housenumber": "420", 
-      "lat": 51.10530028611, 
-      "lon": 4.518398967766, 
+      "lat": 51.105297476844, 
+      "lon": 4.51841680612, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3546,6 +3543,18 @@
         "420A"
       ], 
       "housenumber": "420A", 
+      "lat": 51.105129443146, 
+      "lon": 4.518160549173, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "420B"
+      ], 
+      "housenumber": "420B", 
       "lat": 51.105013909471, 
       "lon": 4.517970283131, 
       "municipality": "Lier", 
@@ -3582,8 +3591,8 @@
         "422"
       ], 
       "housenumber": "422", 
-      "lat": 51.104860536406, 
-      "lon": 4.517847859058, 
+      "lat": 51.104841611265, 
+      "lon": 4.517673752378, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3596,18 +3605,6 @@
       "housenumber": "423", 
       "lat": 51.102671667855, 
       "lon": 4.512960501753, 
-      "municipality": "Lier", 
-      "pcode": "2500", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Mechelsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "424"
-      ], 
-      "housenumber": "424", 
-      "lat": 51.107095220959, 
-      "lon": 4.514860113042, 
       "municipality": "Lier", 
       "pcode": "2500", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

@@ -91,19 +91,7 @@
     }, 
     {
       "hnrlbls": [
-        "153"
-      ], 
-      "housenumber": "153", 
-      "lat": 51.313390225598, 
-      "lon": 3.188307246134, 
-      "municipality": "Brugge", 
-      "pcode": "8380", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Baron de Maerelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "155-185"
+        "155"
       ], 
       "housenumber": "155", 
       "lat": 51.311689727101, 
@@ -142,23 +130,6 @@
       "housenumber": "18", 
       "lat": 51.328888697606, 
       "lon": 3.18327935938, 
-      "municipality": "Brugge", 
-      "pcode": "8380", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Baron de Maerelaan"
-    }, 
-    {
-      "busnrs": [
-        "401", 
-        "402", 
-        "403"
-      ], 
-      "hnrlbls": [
-        "155-185"
-      ], 
-      "housenumber": "185", 
-      "lat": 51.311689727101, 
-      "lon": 3.188983030426, 
       "municipality": "Brugge", 
       "pcode": "8380", 
       "source": "afgeleidVanGebouw", 
@@ -417,19 +388,24 @@
         "103", 
         "2", 
         "201", 
+        "202", 
         "203", 
         "301", 
         "302", 
         "303", 
+        "401", 
+        "402", 
         "403", 
-        "501"
+        "501", 
+        "502", 
+        "601"
       ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.328060200539, 
-      "lon": 3.184119019768, 
+      "lat": 51.328053630707, 
+      "lon": 3.18410024753, 
       "municipality": "Brugge", 
       "pcode": "8380", 
       "source": "afgeleidVanGebouw", 
@@ -497,14 +473,32 @@
       "street": "Baron de Maerelaan"
     }, 
     {
+      "hnrlbls": [
+        "50A-54"
+      ], 
+      "housenumber": "50A", 
+      "lat": 51.327682067014, 
+      "lon": 3.184491934584, 
+      "municipality": "Brugge", 
+      "pcode": "8380", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Baron de Maerelaan"
+    }, 
+    {
       "busnrs": [
-        "101", 
-        "102", 
-        "401", 
-        "601"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402", 
+        "0501", 
+        "0601"
       ], 
       "hnrlbls": [
-        "52"
+        "50A-54"
       ], 
       "housenumber": "52", 
       "lat": 51.327682067014, 
@@ -516,14 +510,14 @@
     }, 
     {
       "hnrlbls": [
-        "54"
+        "50A-54"
       ], 
       "housenumber": "54", 
-      "lat": 51.327662355469, 
-      "lon": 3.184417396343, 
+      "lat": 51.327682067014, 
+      "lon": 3.184491934584, 
       "municipality": "Brugge", 
       "pcode": "8380", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Baron de Maerelaan"
     }, 
     {

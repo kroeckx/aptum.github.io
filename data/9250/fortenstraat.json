@@ -1,15 +1,20 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.124112030523, 
-      "lon": 4.115092293909, 
+      "lat": 51.12402636534, 
+      "lon": 4.11513318052, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Fortenstraat"
     }, 
     {
@@ -356,11 +361,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.123898451853, 
-      "lon": 4.112047461759, 
+      "lat": 51.123789976347, 
+      "lon": 4.112097620243, 
       "municipality": "Waasmunster", 
       "pcode": "9250", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Fortenstraat"
     }, 
     {

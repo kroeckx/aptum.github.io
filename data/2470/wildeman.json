@@ -5,8 +5,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.249542256371, 
-      "lon": 5.071433775553, 
+      "lat": 51.249544493124, 
+      "lon": 5.071435528043, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -41,8 +41,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.25013228955, 
-      "lon": 5.071944986159, 
+      "lat": 51.250153207447, 
+      "lon": 5.071949312555, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -62,11 +62,35 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.250310548805, 
+      "lon": 5.07388901264, 
+      "municipality": "Retie", 
+      "pcode": "2470", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Wildeman"
+    }, 
+    {
+      "hnrlbls": [
         "2A"
       ], 
       "housenumber": "2A", 
       "lat": 51.250244192241, 
       "lon": 5.073711548888, 
+      "municipality": "Retie", 
+      "pcode": "2470", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Wildeman"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 51.250176966721, 
+      "lon": 5.073544098531, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "manueleAanduidingVanPerceel", 

@@ -89,8 +89,8 @@
         "15A"
       ], 
       "housenumber": "15A", 
-      "lat": 51.281136454698, 
-      "lon": 5.06610737464, 
+      "lat": 51.281148953304, 
+      "lon": 5.066091366356, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -101,8 +101,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.279567604457, 
-      "lon": 5.064853746586, 
+      "lat": 51.279562525379, 
+      "lon": 5.06487674501, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -137,11 +137,11 @@
         "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.279832168687, 
-      "lon": 5.064985976967, 
+      "lat": 51.279867422562, 
+      "lon": 5.06492172379, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Berg"
     }, 
     {
@@ -293,8 +293,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.280938787565, 
-      "lon": 5.066855427493, 
+      "lat": 51.280942485239, 
+      "lon": 5.066853333128, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -341,8 +341,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.281076275216, 
-      "lon": 5.067957359934, 
+      "lat": 51.281072998105, 
+      "lon": 5.067964333558, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -353,8 +353,8 @@
         "34A"
       ], 
       "housenumber": "34A", 
-      "lat": 51.281105149708, 
-      "lon": 5.068181809667, 
+      "lat": 51.281102206626, 
+      "lon": 5.068177895663, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -583,6 +583,18 @@
       "housenumber": "64", 
       "lat": 51.281780325559, 
       "lon": 5.07282527154, 
+      "municipality": "Retie", 
+      "pcode": "2470", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Berg"
+    }, 
+    {
+      "hnrlbls": [
+        "64A"
+      ], 
+      "housenumber": "64A", 
+      "lat": 51.281804239039, 
+      "lon": 5.073005794821, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "manueleAanduidingVanLot", 

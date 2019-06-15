@@ -447,6 +447,25 @@
       "street": "Hulsterweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "137"
+      ], 
+      "housenumber": "137", 
+      "lat": 51.069152392817, 
+      "lon": 5.124807279097, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Hulsterweg"
+    }, 
+    {
       "hnrlbls": [
         "138"
       ], 
@@ -459,15 +478,22 @@
       "street": "Hulsterweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.069197984998, 
-      "lon": 5.125252595188, 
+      "lat": 51.069163340519, 
+      "lon": 5.124964257051, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hulsterweg"
     }, 
     {
@@ -492,6 +518,30 @@
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hulsterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "141"
+      ], 
+      "housenumber": "141", 
+      "lat": 51.069156433331, 
+      "lon": 5.1251578992, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hulsterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "141A"
+      ], 
+      "housenumber": "141A", 
+      "lat": 51.069164587541, 
+      "lon": 5.125259901796, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hulsterweg"
     }, 
     {
@@ -975,8 +1025,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.065824127118, 
-      "lon": 5.10537375284, 
+      "lat": 51.065830258012, 
+      "lon": 5.105370853488, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2203,6 +2253,9 @@
       "street": "Hulsterweg"
     }, 
     {
+      "busnrs": [
+        "001"
+      ], 
       "hnrlbls": [
         "85"
       ], 
@@ -2227,6 +2280,9 @@
       "street": "Hulsterweg"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "88"
       ], 

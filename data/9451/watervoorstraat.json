@@ -481,6 +481,9 @@
       "street": "Watervoorstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -497,11 +500,11 @@
         "54A"
       ], 
       "housenumber": "54A", 
-      "lat": 50.889526442385, 
-      "lon": 3.981738311704, 
+      "lat": 50.8894779989, 
+      "lon": 3.981632116735, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Watervoorstraat"
     }, 
     {
@@ -509,11 +512,11 @@
         "54B"
       ], 
       "housenumber": "54B", 
-      "lat": 50.889565337998, 
-      "lon": 3.981702176283, 
+      "lat": 50.889511867033, 
+      "lon": 3.98159801238, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Watervoorstraat"
     }, 
     {
@@ -593,8 +596,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.889266579628, 
-      "lon": 3.980954361579, 
+      "lat": 50.889266038397, 
+      "lon": 3.980953797544, 
       "municipality": "Haaltert", 
       "pcode": "9451", 
       "source": "afgeleidVanGebouw", 

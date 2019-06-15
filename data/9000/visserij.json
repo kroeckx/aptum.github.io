@@ -62,7 +62,7 @@
     }, 
     {
       "hnrlbls": [
-        "103-105"
+        "103"
       ], 
       "housenumber": "103", 
       "lat": 51.047435032591, 
@@ -74,50 +74,42 @@
     }, 
     {
       "hnrlbls": [
-        "103-105"
+        "104-105"
       ], 
       "housenumber": "104", 
-      "lat": 51.047435032591, 
-      "lon": 3.738505202808, 
+      "lat": 51.047393727556, 
+      "lon": 3.738513744414, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserij"
     }, 
     {
       "hnrlbls": [
-        "103-105"
+        "104-105"
       ], 
       "housenumber": "105", 
-      "lat": 51.047435032591, 
-      "lon": 3.738505202808, 
+      "lat": 51.047393727556, 
+      "lon": 3.738513744414, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserij"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
-        "106-106B"
+        "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.047366661222, 
-      "lon": 3.738562594939, 
+      "lat": 51.047305054303, 
+      "lon": 3.738220596189, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Visserij"
-    }, 
-    {
-      "hnrlbls": [
-        "106-106B"
-      ], 
-      "housenumber": "106B", 
-      "lat": 51.047366661222, 
-      "lon": 3.738562594939, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Visserij"
     }, 
     {
@@ -1866,23 +1858,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A-1B"
-      ], 
-      "housenumber": "1A", 
-      "lat": 51.052217916376, 
-      "lon": 3.735494289949, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanLigplaats", 
-      "street": "Visserij"
-    }, 
-    {
-      "hnrlbls": [
-        "1A-1B"
+        "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.052217916376, 
-      "lon": 3.735494289949, 
+      "lat": 51.052399391661, 
+      "lon": 3.735273339118, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanLigplaats", 
@@ -2766,18 +2746,6 @@
       "housenumber": "253", 
       "lat": 51.04988164539, 
       "lon": 3.737312404508, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanLigplaats", 
-      "street": "Visserij"
-    }, 
-    {
-      "hnrlbls": [
-        "254"
-      ], 
-      "housenumber": "254", 
-      "lat": 51.047911291169, 
-      "lon": 3.738775600429, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanLigplaats", 
@@ -4206,33 +4174,9 @@
     }, 
     {
       "hnrlbls": [
-        "92-92B"
+        "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.047975467613, 
-      "lon": 3.738370583387, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Visserij"
-    }, 
-    {
-      "hnrlbls": [
-        "92-92B"
-      ], 
-      "housenumber": "92A", 
-      "lat": 51.047975467613, 
-      "lon": 3.738370583387, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Visserij"
-    }, 
-    {
-      "hnrlbls": [
-        "92-92B"
-      ], 
-      "housenumber": "92B", 
       "lat": 51.047975467613, 
       "lon": 3.738370583387, 
       "municipality": "Gent", 

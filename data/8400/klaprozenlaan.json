@@ -122,6 +122,7 @@
     }, 
     {
       "busnrs": [
+        "0201", 
         "0401", 
         "1", 
         "2"
@@ -153,10 +154,10 @@
       "busnrs": [
         "0101", 
         "0102", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "22"
@@ -166,7 +167,7 @@
       "lon": 2.874921926148, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Klaprozenlaan"
     }, 
     {
@@ -423,6 +424,21 @@
       "street": "Klaprozenlaan"
     }, 
     {
+      "busnrs": [
+        "0301"
+      ], 
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 51.210999751997, 
+      "lon": 2.874006680957, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Klaprozenlaan"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
@@ -436,16 +452,14 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
         "0201", 
-        "0302", 
-        "2", 
-        "2A", 
-        "3", 
-        "3A", 
-        "3B", 
-        "4", 
-        "5", 
-        "8"
+        "0202", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "50"
@@ -503,6 +517,7 @@
         "3A", 
         "3D", 
         "A", 
+        "A001", 
         "AC02"
       ], 
       "hnrlbls": [
@@ -533,6 +548,7 @@
         "001C", 
         "003C", 
         "00B0", 
+        "0201", 
         "1C", 
         "2", 
         "3B", 
@@ -662,8 +678,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.211695963219, 
-      "lon": 2.873772536885, 
+      "lat": 51.211699730928, 
+      "lon": 2.873779000294, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

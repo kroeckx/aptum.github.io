@@ -1289,11 +1289,11 @@
         "595"
       ], 
       "housenumber": "595", 
-      "lat": 50.962804743096, 
-      "lon": 4.496162855308, 
+      "lat": 50.962765599635, 
+      "lon": 4.496199900422, 
       "municipality": "Zemst", 
       "pcode": "1982", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Tervuursesteenweg"
     }, 
     {
@@ -1361,7 +1361,8 @@
     }, 
     {
       "apptnrs": [
-        "0001"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "605"
@@ -1648,8 +1649,8 @@
         "627"
       ], 
       "housenumber": "627", 
-      "lat": 50.960503168637, 
-      "lon": 4.49737128173, 
+      "lat": 50.960410110674, 
+      "lon": 4.49730725775, 
       "municipality": "Zemst", 
       "pcode": "1982", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1886,6 +1887,18 @@
       "housenumber": "649", 
       "lat": 50.958903522899, 
       "lon": 4.49795385332, 
+      "municipality": "Zemst", 
+      "pcode": "1982", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tervuursesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "650"
+      ], 
+      "housenumber": "650", 
+      "lat": 50.968188311408, 
+      "lon": 4.496061397511, 
       "municipality": "Zemst", 
       "pcode": "1982", 
       "source": "afgeleidVanGebouw", 

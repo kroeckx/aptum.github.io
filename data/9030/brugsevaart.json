@@ -1,12 +1,22 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
-        "1-2"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.071157440044, 
-      "lon": 3.692131649384, 
+      "lat": 51.071251743558, 
+      "lon": 3.692148407223, 
       "municipality": "Gent", 
       "pcode": "9030", 
       "source": "manueleAanduidingVanPerceel", 
@@ -821,12 +831,22 @@
       "street": "Brugsevaart"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
-        "1-2"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.071157440044, 
-      "lon": 3.692131649384, 
+      "lat": 51.071395575719, 
+      "lon": 3.692102097788, 
       "municipality": "Gent", 
       "pcode": "9030", 
       "source": "manueleAanduidingVanPerceel", 
@@ -931,6 +951,28 @@
       "housenumber": "29", 
       "lat": 51.075348859915, 
       "lon": 3.683921432313, 
+      "municipality": "Gent", 
+      "pcode": "9030", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brugsevaart"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.071569423748, 
+      "lon": 3.692054355534, 
       "municipality": "Gent", 
       "pcode": "9030", 
       "source": "manueleAanduidingVanPerceel", 

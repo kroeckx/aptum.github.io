@@ -78,7 +78,7 @@
       "lon": 3.430153337699, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meersstraat"
     }, 
     {
@@ -97,7 +97,7 @@
       "lon": 3.430153337699, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Meersstraat"
     }, 
     {
@@ -156,6 +156,24 @@
       "municipality": "Waregem", 
       "pcode": "8790", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Meersstraat"
+    }, 
+    {
+      "apptnrs": [
+        "11", 
+        "21", 
+        "31", 
+        "41"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.885253389988, 
+      "lon": 3.429377787071, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Meersstraat"
     }, 
     {

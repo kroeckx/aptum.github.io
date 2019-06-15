@@ -77,11 +77,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.872404755485, 
-      "lon": 4.520828712101, 
+      "lat": 50.872341100323, 
+      "lon": 4.520767130388, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dewandelaerstraat"
     }, 
     {
@@ -170,6 +170,18 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 50.872354547864, 
+      "lon": 4.520864350785, 
+      "municipality": "Zaventem", 
+      "pcode": "1930", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dewandelaerstraat"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -205,9 +217,6 @@
       "street": "Dewandelaerstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "36"
       ], 

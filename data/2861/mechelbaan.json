@@ -564,7 +564,7 @@
       "lon": 4.541252390335, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mechelbaan"
     }, 
     {
@@ -697,6 +697,18 @@
       "housenumber": "30", 
       "lat": 51.05558299453, 
       "lon": 4.567572824227, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2861", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mechelbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "32A"
+      ], 
+      "housenumber": "32A", 
+      "lat": 51.055603862634, 
+      "lon": 4.567139610203, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "manueleAanduidingVanPerceel", 
@@ -902,7 +914,7 @@
     }, 
     {
       "hnrlbls": [
-        "53-55"
+        "53"
       ], 
       "housenumber": "53", 
       "lat": 51.055209100054, 
@@ -986,11 +998,35 @@
     }, 
     {
       "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 51.055009987472, 
+      "lon": 4.562604290356, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2861", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mechelbaan"
+    }, 
+    {
+      "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
       "lat": 51.05574993195, 
       "lon": 4.564138764822, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2861", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Mechelbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.054923558519, 
+      "lon": 4.562304702514, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanGebouw", 

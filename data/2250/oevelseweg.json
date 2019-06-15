@@ -912,7 +912,6 @@
     }, 
     {
       "apptnrs": [
-        "A", 
         "B", 
         "C", 
         "D", 
@@ -920,6 +919,9 @@
         "F", 
         "G", 
         "H"
+      ], 
+      "busnrs": [
+        "A"
       ], 
       "hnrlbls": [
         "51"
@@ -1359,6 +1361,18 @@
       "housenumber": "88", 
       "lat": 51.160876686908, 
       "lon": 4.898635826067, 
+      "municipality": "Olen", 
+      "pcode": "2250", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Oevelseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "89"
+      ], 
+      "housenumber": "89", 
+      "lat": 51.160945348041, 
+      "lon": 4.899358517192, 
       "municipality": "Olen", 
       "pcode": "2250", 
       "source": "manueleAanduidingVanPerceel", 

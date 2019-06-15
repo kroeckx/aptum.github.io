@@ -14,6 +14,18 @@
     }, 
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.992405364208, 
+      "lon": 3.56958193315, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leieoever"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -29,8 +41,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.991858225511, 
-      "lon": 3.566880168094, 
+      "lat": 50.991872365002, 
+      "lon": 3.566976359257, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -41,11 +53,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.991862293975, 
-      "lon": 3.56673836924, 
+      "lat": 50.991845026512, 
+      "lon": 3.566790085887, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leieoever"
     }
   ]

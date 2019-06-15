@@ -53,8 +53,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.124966795425, 
-      "lon": 5.657054448688, 
+      "lat": 51.124963109049, 
+      "lon": 5.657054489844, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -188,8 +188,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.125356335645, 
-      "lon": 5.658123657754, 
+      "lat": 51.125352243785, 
+      "lon": 5.658136116594, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -233,14 +233,14 @@
     }, 
     {
       "hnrlbls": [
-        "27A-29"
+        "27A"
       ], 
       "housenumber": "27A", 
-      "lat": 51.126401821675, 
-      "lon": 5.658564691768, 
+      "lat": 51.126372716429, 
+      "lon": 5.658825616101, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Keyartstraat"
     }, 
     {
@@ -293,14 +293,14 @@
     }, 
     {
       "hnrlbls": [
-        "27A-29"
+        "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.126401821675, 
-      "lon": 5.658564691768, 
+      "lat": 51.126453902587, 
+      "lon": 5.658504555539, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Keyartstraat"
     }, 
     {
@@ -404,8 +404,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.123268329057, 
-      "lon": 5.657126018179, 
+      "lat": 51.123254533731, 
+      "lon": 5.657162637068, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 

@@ -758,8 +758,9 @@
       "street": "Krugerstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "11", 
+        "21"
       ], 
       "hnrlbls": [
         "167-169"
@@ -785,9 +786,6 @@
       "street": "Krugerstraat"
     }, 
     {
-      "apptnrs": [
-        "02"
-      ], 
       "busnrs": [
         "11", 
         "12", 
@@ -1248,6 +1246,10 @@
       "street": "Krugerstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "227"
       ], 

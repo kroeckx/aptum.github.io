@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.042501364871, 
+      "lon": 4.371039543043, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schoondonkweg"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -41,11 +53,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.045866151675, 
-      "lon": 4.368426372237, 
+      "lat": 51.044065513365, 
+      "lon": 4.364314003613, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Schoondonkweg"
     }, 
     {
@@ -55,6 +67,18 @@
       "housenumber": "16", 
       "lat": 51.04732375498, 
       "lon": 4.371380668649, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schoondonkweg"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.045871545567, 
+      "lon": 4.368171550464, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 

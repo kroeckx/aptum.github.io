@@ -251,21 +251,9 @@
     }, 
     {
       "hnrlbls": [
-        "115-115A"
+        "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.053451161595, 
-      "lon": 3.751708138884, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Engelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "115-115A"
-      ], 
-      "housenumber": "115A", 
       "lat": 51.053451161595, 
       "lon": 3.751708138884, 
       "municipality": "Gent", 
@@ -762,7 +750,7 @@
       "lon": 3.75136180947, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Engelstraat"
     }, 
     {
@@ -1115,7 +1103,7 @@
     }, 
     {
       "hnrlbls": [
-        "29-33"
+        "29-31"
       ], 
       "housenumber": "29", 
       "lat": 51.055831135056, 
@@ -1151,7 +1139,7 @@
     }, 
     {
       "hnrlbls": [
-        "29-33"
+        "29-31"
       ], 
       "housenumber": "31", 
       "lat": 51.055831135056, 
@@ -1175,11 +1163,11 @@
     }, 
     {
       "hnrlbls": [
-        "29-33"
+        "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.055831135056, 
-      "lon": 3.75014291799, 
+      "lat": 51.055952094523, 
+      "lon": 3.750530424136, 
       "municipality": "Gent", 
       "pcode": "9040", 
       "source": "manueleAanduidingVanGebouw", 

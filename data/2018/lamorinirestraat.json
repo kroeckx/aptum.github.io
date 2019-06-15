@@ -1239,6 +1239,12 @@
       "street": "Lamorini\u00e8restraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "192"
       ], 
@@ -1657,6 +1663,11 @@
       "street": "Lamorini\u00e8restraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "223"
       ], 
@@ -1903,11 +1914,11 @@
         "239"
       ], 
       "housenumber": "239", 
-      "lat": 51.200731887597, 
-      "lon": 4.415772619388, 
+      "lat": 51.200617762778, 
+      "lon": 4.415478206445, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lamorini\u00e8restraat"
     }, 
     {
@@ -1939,11 +1950,11 @@
         "241"
       ], 
       "housenumber": "241", 
-      "lat": 51.200700105916, 
-      "lon": 4.415679733901, 
+      "lat": 51.2005863345, 
+      "lon": 4.415400058006, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lamorini\u00e8restraat"
     }, 
     {
@@ -1967,11 +1978,11 @@
         "243"
       ], 
       "housenumber": "243", 
-      "lat": 51.200671200928, 
-      "lon": 4.415585706905, 
+      "lat": 51.200567481997, 
+      "lon": 4.415341952275, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lamorini\u00e8restraat"
     }, 
     {
@@ -1991,11 +2002,11 @@
         "245"
       ], 
       "housenumber": "245", 
-      "lat": 51.200635197223, 
-      "lon": 4.415486093053, 
+      "lat": 51.200543603131, 
+      "lon": 4.415265814636, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lamorini\u00e8restraat"
     }, 
     {
@@ -2037,11 +2048,11 @@
         "247"
       ], 
       "housenumber": "247", 
-      "lat": 51.200603055835, 
-      "lon": 4.415393064518, 
+      "lat": 51.200529773706, 
+      "lon": 4.415233752889, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lamorini\u00e8restraat"
     }, 
     {
@@ -2061,11 +2072,11 @@
         "249"
       ], 
       "housenumber": "249", 
-      "lat": 51.200571899271, 
-      "lon": 4.415309622829, 
+      "lat": 51.200510921919, 
+      "lon": 4.415173644312, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lamorini\u00e8restraat"
     }, 
     {
@@ -2201,6 +2212,12 @@
       "street": "Lamorini\u00e8restraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
+      ], 
       "hnrlbls": [
         "272"
       ], 
@@ -2246,18 +2263,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lamorini\u00e8restraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-5"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.207633832815, 
-      "lon": 4.424002754904, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Lamorini\u00e8restraat"
     }, 
     {
@@ -2562,15 +2567,20 @@
       "street": "Lamorini\u00e8restraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "3-5"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.207633832815, 
       "lon": 4.424002754904, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lamorini\u00e8restraat"
     }, 
     {
@@ -2788,8 +2798,15 @@
       "street": "Lamorini\u00e8restraat"
     }, 
     {
-      "busnrs": [
-        "7"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402"
       ], 
       "hnrlbls": [
         "69-71"
@@ -2827,10 +2844,6 @@
       "street": "Lamorini\u00e8restraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "69-71"
       ], 
@@ -2926,6 +2939,15 @@
       "street": "Lamorini\u00e8restraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "80"
       ], 

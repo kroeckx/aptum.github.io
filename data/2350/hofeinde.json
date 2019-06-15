@@ -282,12 +282,33 @@
       "street": "Hofeinde"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.31515540933, 
+      "lon": 4.884305529316, 
+      "municipality": "Vosselaar", 
+      "pcode": "2350", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hofeinde"
+    }, 
+    {
       "hnrlbls": [
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.321464411811, 
-      "lon": 4.878585927357, 
+      "lat": 51.321464318843, 
+      "lon": 4.878586643564, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -298,8 +319,8 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 51.321548305792, 
-      "lon": 4.87853635502, 
+      "lat": 51.32154767541, 
+      "lon": 4.878536634994, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -588,18 +609,6 @@
       "housenumber": "169", 
       "lat": 51.323534098714, 
       "lon": 4.87698433336, 
-      "municipality": "Vosselaar", 
-      "pcode": "2350", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hofeinde"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.315196077583, 
-      "lon": 4.884378554226, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1097,8 +1106,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.316146330872, 
-      "lon": 4.883611425353, 
+      "lat": 51.31614900912, 
+      "lon": 4.883615614476, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1222,8 +1231,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.31694004448, 
-      "lon": 4.883517092437, 
+      "lat": 51.316934996297, 
+      "lon": 4.883499824714, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1279,11 +1288,11 @@
     }, 
     {
       "hnrlbls": [
-        "6-6"
+        "60"
       ], 
-      "housenumber": "6", 
-      "lat": 51.31754894885, 
-      "lon": 4.881665656575, 
+      "housenumber": "60", 
+      "lat": 51.317372169234, 
+      "lon": 4.883090002842, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1291,11 +1300,11 @@
     }, 
     {
       "hnrlbls": [
-        "60"
+        "60A"
       ], 
-      "housenumber": "60", 
-      "lat": 51.317455286671, 
-      "lon": 4.883260891282, 
+      "housenumber": "60A", 
+      "lat": 51.317425306964, 
+      "lon": 4.883044692415, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1366,8 +1375,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.317792955376, 
-      "lon": 4.882106541769, 
+      "lat": 51.317795980121, 
+      "lon": 4.882113746901, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 

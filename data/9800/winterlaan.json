@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.976365096195, 
-      "lon": 3.542549573206, 
+      "lat": 50.976348962723, 
+      "lon": 3.542569223035, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Winterlaan"
     }, 
     {
@@ -317,11 +317,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.974346395708, 
-      "lon": 3.543489576503, 
+      "lat": 50.974314262329, 
+      "lon": 3.543509506593, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Winterlaan"
     }, 
     {
@@ -535,6 +535,18 @@
       "housenumber": "57", 
       "lat": 50.973807216723, 
       "lon": 3.54249366504, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Winterlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.975936798097, 
+      "lon": 3.542251111998, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

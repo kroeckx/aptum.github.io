@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.945698046142, 
-      "lon": 5.106620345238, 
+      "lat": 50.94570112916, 
+      "lon": 5.106616124779, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -101,11 +101,11 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.946077760599, 
-      "lon": 5.106035204879, 
+      "lat": 50.945926744761, 
+      "lon": 5.106119347792, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zittaardstraat"
     }, 
     {
@@ -113,11 +113,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.945981991104, 
-      "lon": 5.105939637244, 
+      "lat": 50.945927008171, 
+      "lon": 5.106120348042, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zittaardstraat"
     }, 
     {
@@ -137,11 +137,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.945853932541, 
-      "lon": 5.105903897543, 
+      "lat": 50.945828969679, 
+      "lon": 5.105970955278, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zittaardstraat"
     }, 
     {
@@ -209,8 +209,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.945403552649, 
-      "lon": 5.105215627108, 
+      "lat": 50.945391560696, 
+      "lon": 5.105235645122, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -289,30 +289,18 @@
       "street": "Zittaardstraat"
     }, 
     {
+      "busnrs": [
+        "B001"
+      ], 
       "hnrlbls": [
-        "34-34B"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.943955792408, 
-      "lon": 5.10562630555, 
+      "lat": 50.94395654604, 
+      "lon": 5.105635139674, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zittaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "34-34B"
-      ], 
-      "housenumber": "34B", 
-      "lat": 50.943955792408, 
-      "lon": 5.10562630555, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zittaardstraat"
     }, 
     {
@@ -368,8 +356,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.944386407336, 
-      "lon": 5.104980079886, 
+      "lat": 50.944388383983, 
+      "lon": 5.104980253235, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -416,8 +404,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.943267525521, 
-      "lon": 5.105686060833, 
+      "lat": 50.943265027994, 
+      "lon": 5.10569726268, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -472,8 +460,14 @@
       "street": "Zittaardstraat"
     }, 
     {
+      "apptnrs": [
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004"
+      ], 
       "hnrlbls": [
-        "47-47B"
+        "47"
       ], 
       "housenumber": "47", 
       "lat": 50.943626992064, 
@@ -481,24 +475,6 @@
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zittaardstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "47-47B"
-      ], 
-      "housenumber": "47B", 
-      "lat": 50.943626992064, 
-      "lon": 5.105046268949, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Zittaardstraat"
     }, 
     {
@@ -758,8 +734,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.94586394977, 
-      "lon": 5.106899447439, 
+      "lat": 50.945865615161, 
+      "lon": 5.106891931742, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 

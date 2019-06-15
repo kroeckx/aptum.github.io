@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.989274497363, 
+      "lon": 4.645737238158, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Piervenshoek"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -41,8 +53,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.990230032579, 
-      "lon": 4.646997843973, 
+      "lat": 50.990230540517, 
+      "lon": 4.647011092915, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -173,8 +185,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.991934616101, 
-      "lon": 4.647921422355, 
+      "lat": 50.991941538691, 
+      "lon": 4.647921036395, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 

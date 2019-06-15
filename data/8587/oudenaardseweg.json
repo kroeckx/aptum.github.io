@@ -74,7 +74,7 @@
     }, 
     {
       "hnrlbls": [
-        "77-195"
+        "195"
       ], 
       "housenumber": "195", 
       "lat": 50.718548395976, 
@@ -206,11 +206,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A-27F"
+        "27A-27F"
       ], 
       "housenumber": "27A", 
-      "lat": 50.717940410123, 
-      "lon": 3.356516086098, 
+      "lat": 50.71771930595, 
+      "lon": 3.356648428853, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -218,11 +218,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A-27F"
+        "27A-27F"
       ], 
       "housenumber": "27B", 
-      "lat": 50.717940410123, 
-      "lon": 3.356516086098, 
+      "lat": 50.71771930595, 
+      "lon": 3.356648428853, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -230,11 +230,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A-27F"
+        "27A-27F"
       ], 
       "housenumber": "27C", 
-      "lat": 50.717940410123, 
-      "lon": 3.356516086098, 
+      "lat": 50.71771930595, 
+      "lon": 3.356648428853, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -242,11 +242,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A-27F"
+        "27A-27F"
       ], 
       "housenumber": "27D", 
-      "lat": 50.717940410123, 
-      "lon": 3.356516086098, 
+      "lat": 50.71771930595, 
+      "lon": 3.356648428853, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -254,11 +254,11 @@
     }, 
     {
       "hnrlbls": [
-        "1A-27F"
+        "27A-27F"
       ], 
       "housenumber": "27F", 
-      "lat": 50.717940410123, 
-      "lon": 3.356516086098, 
+      "lat": 50.71771930595, 
+      "lon": 3.356648428853, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -281,11 +281,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.718226342841, 
-      "lon": 3.356873062226, 
+      "lat": 50.718211880215, 
+      "lon": 3.356926479785, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Oudenaardseweg"
     }, 
     {
@@ -656,8 +656,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.722035194147, 
-      "lon": 3.365873420939, 
+      "lat": 50.722032474398, 
+      "lon": 3.365870787788, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
       "source": "afgeleidVanPerceelGrb", 
@@ -680,11 +680,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.723860484422, 
-      "lon": 3.365570880399, 
+      "lat": 50.723898895686, 
+      "lon": 3.365678273496, 
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oudenaardseweg"
     }, 
     {
@@ -724,18 +724,6 @@
       "municipality": "Spiere-Helkijn", 
       "pcode": "8587", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oudenaardseweg"
-    }, 
-    {
-      "hnrlbls": [
-        "77-195"
-      ], 
-      "housenumber": "77", 
-      "lat": 50.718548395976, 
-      "lon": 3.358924606197, 
-      "municipality": "Spiere-Helkijn", 
-      "pcode": "8587", 
-      "source": "afgeleidVanStraat", 
       "street": "Oudenaardseweg"
     }, 
     {

@@ -74,6 +74,18 @@
     }, 
     {
       "hnrlbls": [
+        "103A"
+      ], 
+      "housenumber": "103A", 
+      "lat": 50.881496520164, 
+      "lon": 3.206772892415, 
+      "municipality": "Lendelede", 
+      "pcode": "8860", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Winkelsestraat"
+    }, 
+    {
+      "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
@@ -1051,11 +1063,11 @@
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 50.881943590477, 
-      "lon": 3.214519020176, 
+      "lat": 50.882136454741, 
+      "lon": 3.214155010043, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Winkelsestraat"
     }, 
     {
@@ -1121,8 +1133,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.886060347985, 
-      "lon": 3.23721002344, 
+      "lat": 50.88605984649, 
+      "lon": 3.237176635238, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
       "source": "afgeleidVanGebouw", 
@@ -1169,8 +1181,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 50.881653087787, 
-      "lon": 3.206086862541, 
+      "lat": 50.881663497508, 
+      "lon": 3.206093995069, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1373,11 +1385,23 @@
     }, 
     {
       "hnrlbls": [
+        "230A"
+      ], 
+      "housenumber": "230A", 
+      "lat": 50.881038606555, 
+      "lon": 3.202915143886, 
+      "municipality": "Lendelede", 
+      "pcode": "8860", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Winkelsestraat"
+    }, 
+    {
+      "hnrlbls": [
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 50.883086392022, 
-      "lon": 3.202608525845, 
+      "lat": 50.88308523624, 
+      "lon": 3.202609833613, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1589,9 +1613,21 @@
     }, 
     {
       "hnrlbls": [
-        "36"
+        "36-36A"
       ], 
       "housenumber": "36", 
+      "lat": 50.885671499093, 
+      "lon": 3.234440789723, 
+      "municipality": "Lendelede", 
+      "pcode": "8860", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Winkelsestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "36-36A"
+      ], 
+      "housenumber": "36A", 
       "lat": 50.885671499093, 
       "lon": 3.234440789723, 
       "municipality": "Lendelede", 
@@ -1643,8 +1679,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.886075698421, 
-      "lon": 3.237011668275, 
+      "lat": 50.886075244895, 
+      "lon": 3.23701125281, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
       "source": "afgeleidVanGebouw", 
@@ -1911,8 +1947,8 @@
         "53B"
       ], 
       "housenumber": "53B", 
-      "lat": 50.884328830087, 
-      "lon": 3.2276162935, 
+      "lat": 50.884324236361, 
+      "lon": 3.227615410178, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1935,8 +1971,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.88427405825, 
-      "lon": 3.227493975842, 
+      "lat": 50.884285604902, 
+      "lon": 3.227488721102, 
       "municipality": "Lendelede", 
       "pcode": "8860", 
       "source": "afgeleidVanPerceelGrb", 

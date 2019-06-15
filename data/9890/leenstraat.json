@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.952474939823, 
-      "lon": 3.688523967279, 
+      "lat": 50.952499269216, 
+      "lon": 3.688456155264, 
       "municipality": "Gavere", 
       "pcode": "9890", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leenstraat"
     }, 
     {
@@ -479,8 +479,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.94851192663, 
-      "lon": 3.684796998343, 
+      "lat": 50.948510683079, 
+      "lon": 3.684799577995, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -571,15 +571,12 @@
       "street": "Leenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.949034858343, 
-      "lon": 3.683453808759, 
+      "lat": 50.949067614778, 
+      "lon": 3.68350598508, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 
@@ -592,6 +589,30 @@
       "housenumber": "47", 
       "lat": 50.948669479809, 
       "lon": 3.683477784219, 
+      "municipality": "Gavere", 
+      "pcode": "9890", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "48A"
+      ], 
+      "housenumber": "48A", 
+      "lat": 50.949018747764, 
+      "lon": 3.683373354623, 
+      "municipality": "Gavere", 
+      "pcode": "9890", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "48B"
+      ], 
+      "housenumber": "48B", 
+      "lat": 50.948995768519, 
+      "lon": 3.683240346459, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanGebouw", 

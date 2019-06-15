@@ -196,9 +196,10 @@
     }, 
     {
       "busnrs": [
+        "002", 
         "101", 
         "102", 
-        "2", 
+        "201", 
         "202", 
         "301", 
         "302", 
@@ -345,11 +346,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.19552978856, 
-      "lon": 4.416273284638, 
+      "lat": 51.195631502856, 
+      "lon": 4.416139203879, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frederik de Merodestraat"
     }, 
     {

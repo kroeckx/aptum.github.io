@@ -1223,12 +1223,102 @@
       "street": "Gentbruggekouter"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.048509176968, 
-      "lon": 3.768752982207, 
+      "lat": 51.048136295853, 
+      "lon": 3.768451289966, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gentbruggekouter"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
+      "hnrlbls": [
+        "79A"
+      ], 
+      "housenumber": "79A", 
+      "lat": 51.048449987638, 
+      "lon": 3.768533122368, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gentbruggekouter"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
+      "hnrlbls": [
+        "79B"
+      ], 
+      "housenumber": "79B", 
+      "lat": 51.048937593118, 
+      "lon": 3.768203290607, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gentbruggekouter"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203"
+      ], 
+      "hnrlbls": [
+        "79C"
+      ], 
+      "housenumber": "79C", 
+      "lat": 51.049137394364, 
+      "lon": 3.768939318106, 
       "municipality": "Gent", 
       "pcode": "9050", 
       "source": "manueleAanduidingVanPerceel", 

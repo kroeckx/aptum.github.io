@@ -89,8 +89,8 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.208978374981, 
-      "lon": 4.029946412554, 
+      "lat": 51.209021633913, 
+      "lon": 4.029892007971, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 
@@ -101,11 +101,11 @@
         "104A"
       ], 
       "housenumber": "104A", 
-      "lat": 51.209004081619, 
-      "lon": 4.029946226196, 
+      "lat": 51.209074183332, 
+      "lon": 4.029880322215, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenbergstraat"
     }, 
     {
@@ -113,8 +113,8 @@
         "104B"
       ], 
       "housenumber": "104B", 
-      "lat": 51.209072890106, 
-      "lon": 4.02993098828, 
+      "lat": 51.209126465493, 
+      "lon": 4.029932317049, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 
@@ -125,8 +125,8 @@
         "104C"
       ], 
       "housenumber": "104C", 
-      "lat": 51.209109808831, 
-      "lon": 4.029922564036, 
+      "lat": 51.209167505753, 
+      "lon": 4.029919283771, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 
@@ -149,11 +149,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.20918987156, 
-      "lon": 4.029913826979, 
+      "lat": 51.209240910972, 
+      "lon": 4.029908448488, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenbergstraat"
     }, 
     {
@@ -161,8 +161,8 @@
         "106A"
       ], 
       "housenumber": "106A", 
-      "lat": 51.209225810571, 
-      "lon": 4.02990855797, 
+      "lat": 51.209278000454, 
+      "lon": 4.029896874788, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 
@@ -173,8 +173,8 @@
         "106B"
       ], 
       "housenumber": "106B", 
-      "lat": 51.209292589391, 
-      "lon": 4.02990649972, 
+      "lat": 51.209315658708, 
+      "lon": 4.029895600054, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 
@@ -610,6 +610,18 @@
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molenbergstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "136A"
+      ], 
+      "housenumber": "136A", 
+      "lat": 51.212274669311, 
+      "lon": 4.031467363445, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenbergstraat"
     }, 
     {

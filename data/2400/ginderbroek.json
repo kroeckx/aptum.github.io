@@ -762,6 +762,18 @@
     }, 
     {
       "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.181144213537, 
+      "lon": 5.105693017298, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ginderbroek"
+    }, 
+    {
+      "hnrlbls": [
         "58"
       ], 
       "housenumber": "58", 
@@ -794,7 +806,7 @@
       "street": "Ginderbroek"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -929,6 +941,9 @@
       "street": "Ginderbroek"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "72"
       ], 
@@ -1044,6 +1059,7 @@
     {
       "apptnrs": [
         "1", 
+        "101", 
         "201"
       ], 
       "hnrlbls": [

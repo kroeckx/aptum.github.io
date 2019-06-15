@@ -14,18 +14,6 @@
     }, 
     {
       "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 50.915140914706, 
-      "lon": 3.367244273174, 
-      "municipality": "Wielsbeke", 
-      "pcode": "8710", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Driesstraat"
-    }, 
-    {
-      "hnrlbls": [
         "10A"
       ], 
       "housenumber": "10A", 
@@ -34,6 +22,18 @@
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.915117484049, 
+      "lon": 3.367290423239, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Driesstraat"
     }, 
     {
@@ -55,6 +55,30 @@
       "housenumber": "16", 
       "lat": 50.915515875715, 
       "lon": 3.36711553773, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 50.914074908016, 
+      "lon": 3.369044771183, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Driesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 50.914088272085, 
+      "lon": 3.368935411604, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 

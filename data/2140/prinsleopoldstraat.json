@@ -141,8 +141,9 @@
       "street": "Prins Leopoldstraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "19"
@@ -525,6 +526,10 @@
       "street": "Prins Leopoldstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "46"
       ], 

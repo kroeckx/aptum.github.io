@@ -24,8 +24,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.2069940331, 
-      "lon": 4.244168831252, 
+      "lat": 51.207024528146, 
+      "lon": 4.2441919309, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1710,6 +1710,26 @@
       "street": "Albert Panisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 51.207899339442, 
+      "lon": 4.24545240425, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Albert Panisstraat"
+    }, 
+    {
       "hnrlbls": [
         "85"
       ], 
@@ -1722,6 +1742,14 @@
       "street": "Albert Panisstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "86"
       ], 

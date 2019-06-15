@@ -571,11 +571,11 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.100886968534, 
-      "lon": 4.337164758716, 
+      "lat": 51.100920780877, 
+      "lon": 4.337220129373, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boomsestraat"
     }, 
     {
@@ -693,26 +693,26 @@
     }, 
     {
       "hnrlbls": [
-        "154B"
+        "1-154D"
       ], 
       "housenumber": "154B", 
-      "lat": 51.100171915794, 
-      "lon": 4.338233956437, 
+      "lat": 51.100312317847, 
+      "lon": 4.337869391366, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomsestraat"
     }, 
     {
       "hnrlbls": [
-        "154C"
+        "1-154D"
       ], 
       "housenumber": "154C", 
-      "lat": 51.100171915831, 
-      "lon": 4.3382340992, 
+      "lat": 51.100312317847, 
+      "lon": 4.337869391366, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Boomsestraat"
     }, 
     {
@@ -2851,8 +2851,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.103114850684, 
-      "lon": 4.334257016021, 
+      "lat": 51.103110339829, 
+      "lon": 4.334199624875, 
       "municipality": "Niel", 
       "pcode": "2845", 
       "source": "afgeleidVanGebouw", 

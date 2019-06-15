@@ -69,7 +69,7 @@
       "lon": 4.35992739072, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Veert"
     }, 
     {
@@ -126,6 +126,11 @@
       "street": "Veert"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "8"
       ], 

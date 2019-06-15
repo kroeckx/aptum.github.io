@@ -1,15 +1,20 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
-        "1"
+        "1-1A"
       ], 
       "housenumber": "1", 
-      "lat": 51.224771304813, 
-      "lon": 4.400412743479, 
+      "lat": 51.224778233337, 
+      "lon": 4.400385407646, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kleine Kraaiwijk"
     }, 
     {
@@ -51,6 +56,18 @@
       "housenumber": "14", 
       "lat": 51.224434624426, 
       "lon": 4.400652275482, 
+      "municipality": "Antwerpen", 
+      "pcode": "2000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kleine Kraaiwijk"
+    }, 
+    {
+      "hnrlbls": [
+        "1-1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.224778233337, 
+      "lon": 4.400385407646, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

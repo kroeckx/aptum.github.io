@@ -1,15 +1,19 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.23521556939, 
-      "lon": 4.042575702885, 
+      "lat": 51.235237085133, 
+      "lon": 4.042620510604, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoor van Lierdestraat"
     }, 
     {
@@ -73,15 +77,18 @@
       "street": "Pastoor van Lierdestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.235242653388, 
-      "lon": 4.040567295941, 
+      "lat": 51.235242387705, 
+      "lon": 4.04056872959, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Pastoor van Lierdestraat"
     }, 
     {
@@ -139,6 +146,22 @@
       "housenumber": "19", 
       "lat": 51.234840781099, 
       "lon": 4.040210458721, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Pastoor van Lierdestraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.235222491212, 
+      "lon": 4.042510651669, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 

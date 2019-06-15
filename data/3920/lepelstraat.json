@@ -1,21 +1,28 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0102", 
+        "0103", 
+        "0202", 
+        "0302", 
+        "0303"
+      ], 
       "busnrs": [
-        "101", 
-        "201", 
-        "203", 
-        "301"
+        "0101", 
+        "0201", 
+        "0203", 
+        "0301"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.230783434753, 
-      "lon": 5.309737521079, 
+      "lat": 51.231045386226, 
+      "lon": 5.309612093593, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lepelstraat"
     }, 
     {

@@ -294,15 +294,22 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.177203840589, 
-      "lon": 4.833227417484, 
+      "lat": 51.177209043703, 
+      "lon": 4.833230043371, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -388,8 +395,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.177918271212, 
-      "lon": 4.833362383521, 
+      "lat": 51.177905839573, 
+      "lon": 4.833529001947, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -609,14 +616,14 @@
     }, 
     {
       "hnrlbls": [
-        "45-47"
+        "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.178263900804, 
-      "lon": 4.832239380319, 
+      "lat": 51.178270343814, 
+      "lon": 4.832178095321, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -637,11 +644,11 @@
         "101"
       ], 
       "hnrlbls": [
-        "45-47"
+        "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.178263900804, 
-      "lon": 4.832239380319, 
+      "lat": 51.178267556832, 
+      "lon": 4.832223972159, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -992,8 +999,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.178993275032, 
-      "lon": 4.831384445096, 
+      "lat": 51.178959709058, 
+      "lon": 4.83137124124, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1168,8 +1175,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.179704122916, 
-      "lon": 4.831081029212, 
+      "lat": 51.179703677422, 
+      "lon": 4.831080023727, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1180,8 +1187,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.179711152001, 
-      "lon": 4.830870017301, 
+      "lat": 51.179752550919, 
+      "lon": 4.830948796981, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 

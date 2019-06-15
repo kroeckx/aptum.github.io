@@ -13,22 +13,21 @@
       "street": "Parklaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "21", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022"
       ], 
       "hnrlbls": [
-        "8-10"
+        "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.880485550114, 
-      "lon": 4.474316947316, 
+      "lat": 50.880490924981, 
+      "lon": 4.474337705437, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parklaan"
     }, 
     {
@@ -393,10 +392,8 @@
     }, 
     {
       "apptnrs": [
-        "1.0"
-      ], 
-      "busnrs": [
-        "1"
+        "001", 
+        "011"
       ], 
       "hnrlbls": [
         "44"
@@ -688,14 +685,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-10"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.880485550114, 
-      "lon": 4.474316947316, 
+      "lat": 50.880449941474, 
+      "lon": 4.474328518602, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Parklaan"
     }, 
     {

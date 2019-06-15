@@ -65,8 +65,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.25130012065, 
-      "lon": 4.828573528842, 
+      "lat": 51.251357203046, 
+      "lon": 4.828849092867, 
       "municipality": "Lille", 
       "pcode": "2275", 
       "source": "afgeleidVanPerceelGrb", 
@@ -166,6 +166,18 @@
       "municipality": "Lille", 
       "pcode": "2275", 
       "source": "afgeleidVanGebouw", 
+      "street": "Valvekenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 51.252460723429, 
+      "lon": 4.818836743064, 
+      "municipality": "Lille", 
+      "pcode": "2275", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Valvekenstraat"
     }, 
     {

@@ -527,75 +527,18 @@
       "street": "Ketelstraat"
     }, 
     {
-      "hnrlbls": [
-        "48A"
+      "busnrs": [
+        "1"
       ], 
-      "housenumber": "48A", 
-      "lat": 50.893130129146, 
-      "lon": 5.161176225783, 
+      "hnrlbls": [
+        "48"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.893058436145, 
+      "lon": 5.161209271066, 
       "municipality": "Geetbets", 
       "pcode": "3454", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ketelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "48B"
-      ], 
-      "housenumber": "48B", 
-      "lat": 50.893097066243, 
-      "lon": 5.16121319279, 
-      "municipality": "Geetbets", 
-      "pcode": "3454", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ketelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "48C"
-      ], 
-      "housenumber": "48C", 
-      "lat": 50.893064991144, 
-      "lon": 5.161250318572, 
-      "municipality": "Geetbets", 
-      "pcode": "3454", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ketelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "48D"
-      ], 
-      "housenumber": "48D", 
-      "lat": 50.893032916032, 
-      "lon": 5.161287444303, 
-      "municipality": "Geetbets", 
-      "pcode": "3454", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ketelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "48E"
-      ], 
-      "housenumber": "48E", 
-      "lat": 50.893000930798, 
-      "lon": 5.161324571502, 
-      "municipality": "Geetbets", 
-      "pcode": "3454", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ketelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "48F"
-      ], 
-      "housenumber": "48F", 
-      "lat": 50.892979247228, 
-      "lon": 5.16136713191, 
-      "municipality": "Geetbets", 
-      "pcode": "3454", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ketelstraat"
     }, 
     {

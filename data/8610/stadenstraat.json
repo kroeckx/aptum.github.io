@@ -149,8 +149,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.016878939937, 
-      "lon": 2.960163938607, 
+      "lat": 51.016879418283, 
+      "lon": 2.96016634732, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -182,7 +182,7 @@
     }, 
     {
       "hnrlbls": [
-        "18-18A"
+        "18"
       ], 
       "housenumber": "18", 
       "lat": 51.01635564752, 
@@ -194,14 +194,14 @@
     }, 
     {
       "hnrlbls": [
-        "18-18A"
+        "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.01635564752, 
-      "lon": 2.960266188418, 
+      "lat": 51.016330841656, 
+      "lon": 2.960229305341, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stadenstraat"
     }, 
     {
@@ -413,8 +413,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.016202598142, 
-      "lon": 2.961489587538, 
+      "lat": 51.016208107723, 
+      "lon": 2.961491702582, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -434,7 +434,7 @@
     }, 
     {
       "hnrlbls": [
-        "33"
+        "33-33A"
       ], 
       "housenumber": "33", 
       "lat": 51.016167402451, 
@@ -442,6 +442,18 @@
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
+      "street": "Stadenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33B"
+      ], 
+      "housenumber": "33B", 
+      "lat": 51.016257341263, 
+      "lon": 2.962542402131, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stadenstraat"
     }, 
     {
@@ -861,8 +873,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.014345552637, 
-      "lon": 2.964628223305, 
+      "lat": 51.014344949123, 
+      "lon": 2.964713330034, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1293,8 +1305,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.012724698676, 
-      "lon": 2.966354421148, 
+      "lat": 51.012670142743, 
+      "lon": 2.966310589474, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 

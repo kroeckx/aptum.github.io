@@ -50,12 +50,12 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
         "102", 
         "103", 
-        "104", 
-        "2"
+        "104"
       ], 
       "hnrlbls": [
         "5"
@@ -66,18 +66,6 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Peetersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5B"
-      ], 
-      "housenumber": "5B", 
-      "lat": 50.782914084513, 
-      "lon": 5.211212487971, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Peetersstraat"
     }, 
     {

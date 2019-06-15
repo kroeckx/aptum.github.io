@@ -377,18 +377,6 @@
     }, 
     {
       "hnrlbls": [
-        "127"
-      ], 
-      "housenumber": "127", 
-      "lat": 51.064119352905, 
-      "lon": 4.680532006718, 
-      "municipality": "Putte", 
-      "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heiststeenweg"
-    }, 
-    {
-      "hnrlbls": [
         "128"
       ], 
       "housenumber": "128", 
@@ -569,6 +557,23 @@
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
+      "street": "Heiststeenweg"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "146A"
+      ], 
+      "housenumber": "146A", 
+      "lat": 51.061695549467, 
+      "lon": 4.680333374542, 
+      "municipality": "Putte", 
+      "pcode": "2580", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heiststeenweg"
     }, 
     {

@@ -216,11 +216,11 @@
         "202"
       ], 
       "hnrlbls": [
-        "28-40"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.221882501322, 
-      "lon": 4.474953616252, 
+      "lat": 51.221969582959, 
+      "lon": 4.474772176018, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -233,18 +233,6 @@
       "housenumber": "29", 
       "lat": 51.222149192691, 
       "lon": 4.475145887807, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jan Romeostraat"
-    }, 
-    {
-      "hnrlbls": [
-        "28-40"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.221882501322, 
-      "lon": 4.474953616252, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -352,21 +340,6 @@
       "street": "Jan Romeostraat"
     }, 
     {
-      "busnrs": [
-        "40"
-      ], 
-      "hnrlbls": [
-        "28-40"
-      ], 
-      "housenumber": "38", 
-      "lat": 51.221882501322, 
-      "lon": 4.474953616252, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Jan Romeostraat"
-    }, 
-    {
       "hnrlbls": [
         "39"
       ], 
@@ -391,12 +364,19 @@
       "street": "Jan Romeostraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "28-40"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.221882501322, 
-      "lon": 4.474953616252, 
+      "lat": 51.221795510194, 
+      "lon": 4.475134054068, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.238260155455, 
-      "lon": 4.955299006594, 
+      "lat": 51.238262614215, 
+      "lon": 4.955292593996, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanPerceelGrb", 
@@ -498,20 +498,39 @@
       "street": "Lichtaartsebaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.234881124481, 
-      "lon": 4.948183910409, 
+      "lat": 51.234993942795, 
+      "lon": 4.948309881482, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lichtaartsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49A"
+      ], 
+      "housenumber": "49A", 
+      "lat": 51.234952172305, 
+      "lon": 4.948102895506, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lichtaartsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "49B"
+      ], 
+      "housenumber": "49B", 
+      "lat": 51.234898889782, 
+      "lon": 4.947933852619, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lichtaartsebaan"
     }, 
     {

@@ -497,8 +497,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.886054866685, 
-      "lon": 4.727209697772, 
+      "lat": 50.886050082786, 
+      "lon": 4.72721605632, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -565,6 +565,10 @@
       "street": "Kortrijksestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "146"
       ], 
@@ -721,11 +725,11 @@
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 50.889155255639, 
-      "lon": 4.730894363061, 
+      "lat": 50.889197172229, 
+      "lon": 4.730944288002, 
       "municipality": "Leuven", 
       "pcode": "3010", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kortrijksestraat"
     }, 
     {
@@ -1081,8 +1085,8 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 50.890520604302, 
-      "lon": 4.738144321129, 
+      "lat": 50.890524571686, 
+      "lon": 4.738140514947, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1105,8 +1109,8 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 50.890602111848, 
-      "lon": 4.738381037779, 
+      "lat": 50.890608674924, 
+      "lon": 4.738380805275, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -1842,8 +1846,8 @@
         "355"
       ], 
       "housenumber": "355", 
-      "lat": 50.895438632559, 
-      "lon": 4.751215846137, 
+      "lat": 50.89543845834, 
+      "lon": 4.751214139004, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 
@@ -2094,8 +2098,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.887152257441, 
-      "lon": 4.72836980798, 
+      "lat": 50.887142505372, 
+      "lon": 4.728383944896, 
       "municipality": "Leuven", 
       "pcode": "3010", 
       "source": "afgeleidVanGebouw", 

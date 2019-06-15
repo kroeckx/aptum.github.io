@@ -1102,19 +1102,39 @@
       "street": "Klapperstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "002"
-      ], 
       "hnrlbls": [
         "189"
       ], 
       "housenumber": "189", 
-      "lat": 51.215603276152, 
-      "lon": 4.245320232196, 
+      "lat": 51.21556384177, 
+      "lon": 4.245344093345, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Klapperstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "189A"
+      ], 
+      "housenumber": "189A", 
+      "lat": 51.215595470181, 
+      "lon": 4.245420291324, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Klapperstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "189B"
+      ], 
+      "housenumber": "189B", 
+      "lat": 51.21564065895, 
+      "lon": 4.245311546794, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Klapperstraat"
     }, 
     {
@@ -2281,6 +2301,18 @@
     }, 
     {
       "hnrlbls": [
+        "54A"
+      ], 
+      "housenumber": "54A", 
+      "lat": 51.21143656783, 
+      "lon": 4.245373842888, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Klapperstraat"
+    }, 
+    {
+      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -2298,6 +2330,18 @@
       "housenumber": "56", 
       "lat": 51.211519458319, 
       "lon": 4.245390368029, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Klapperstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56A"
+      ], 
+      "housenumber": "56A", 
+      "lat": 51.211600001572, 
+      "lon": 4.245397025194, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2392,8 +2436,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.211814748905, 
-      "lon": 4.245583641869, 
+      "lat": 51.211812772352, 
+      "lon": 4.245497783997, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 

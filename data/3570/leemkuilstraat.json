@@ -149,8 +149,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.877950793991, 
-      "lon": 5.321523534042, 
+      "lat": 50.877953414265, 
+      "lon": 5.321544049558, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +185,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.870484250717, 
-      "lon": 5.329645008316, 
+      "lat": 50.870483873707, 
+      "lon": 5.329647131756, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -421,6 +421,21 @@
       "street": "Leemkuilstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "15"
+      ], 
+      "housenumber": "15", 
+      "lat": 50.877600285115, 
+      "lon": 5.321797916631, 
+      "municipality": "Alken", 
+      "pcode": "3570", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Leemkuilstraat"
+    }, 
+    {
       "hnrlbls": [
         "152"
       ], 
@@ -463,21 +478,6 @@
       "housenumber": "158", 
       "lat": 50.867309623917, 
       "lon": 5.333051031757, 
-      "municipality": "Alken", 
-      "pcode": "3570", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leemkuilstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "15_1"
-      ], 
-      "housenumber": "15_1", 
-      "lat": 50.877600285115, 
-      "lon": 5.321797916631, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1168,8 +1168,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.87160940885, 
-      "lon": 5.326960267627, 
+      "lat": 50.871564384258, 
+      "lon": 5.326947271822, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1189,23 +1189,11 @@
     }, 
     {
       "hnrlbls": [
-        "87"
-      ], 
-      "housenumber": "87", 
-      "lat": 50.871441769042, 
-      "lon": 5.327396867658, 
-      "municipality": "Alken", 
-      "pcode": "3570", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leemkuilstraat"
-    }, 
-    {
-      "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.871514243141, 
-      "lon": 5.326019743672, 
+      "lat": 50.871515129254, 
+      "lon": 5.326021324622, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1264,8 +1252,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.871259994479, 
-      "lon": 5.326251689934, 
+      "lat": 50.871260311106, 
+      "lon": 5.326256953329, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 

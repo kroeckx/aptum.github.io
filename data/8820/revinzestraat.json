@@ -149,8 +149,8 @@
         "109"
       ], 
       "housenumber": "109", 
-      "lat": 51.066233281663, 
-      "lon": 3.077186553377, 
+      "lat": 51.066242528695, 
+      "lon": 3.077177166615, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -521,8 +521,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.065842936468, 
-      "lon": 3.074826410355, 
+      "lat": 51.065843706208, 
+      "lon": 3.074822822074, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -689,8 +689,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.066854153667, 
-      "lon": 3.088280423228, 
+      "lat": 51.066863135032, 
+      "lon": 3.088279606792, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -725,8 +725,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.06690250227, 
-      "lon": 3.087773860507, 
+      "lat": 51.066913338441, 
+      "lon": 3.08775344565, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -749,11 +749,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.066570130139, 
-      "lon": 3.090399170676, 
+      "lat": 51.066616422579, 
+      "lon": 3.090307303326, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Revinzestraat"
     }, 
     {
@@ -821,11 +821,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.066888710341, 
-      "lon": 3.08656300322, 
+      "lat": 51.066967484003, 
+      "lon": 3.086382919441, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Revinzestraat"
     }, 
     {
@@ -835,18 +835,6 @@
       "housenumber": "36", 
       "lat": 51.066721486445, 
       "lon": 3.087323229872, 
-      "municipality": "Torhout", 
-      "pcode": "8820", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Revinzestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "37"
-      ], 
-      "housenumber": "37", 
-      "lat": 51.067350689489, 
-      "lon": 3.086320625921, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -1008,11 +996,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.066537606, 
-      "lon": 3.09016063911, 
+      "lat": 51.06656075291, 
+      "lon": 3.090114776691, 
       "municipality": "Torhout", 
       "pcode": "8820", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Revinzestraat"
     }, 
     {
@@ -1548,8 +1536,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.065964140232, 
-      "lon": 3.079809453046, 
+      "lat": 51.065965638485, 
+      "lon": 3.079806700862, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -1572,8 +1560,8 @@
         "94-94B"
       ], 
       "housenumber": "94", 
-      "lat": 51.065937872515, 
-      "lon": 3.079643525928, 
+      "lat": 51.065940958888, 
+      "lon": 3.079638019076, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 
@@ -1596,8 +1584,8 @@
         "94-94B"
       ], 
       "housenumber": "94B", 
-      "lat": 51.065937872515, 
-      "lon": 3.079643525928, 
+      "lat": 51.065940958888, 
+      "lon": 3.079638019076, 
       "municipality": "Torhout", 
       "pcode": "8820", 
       "source": "afgeleidVanGebouw", 

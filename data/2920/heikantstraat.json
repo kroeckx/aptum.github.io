@@ -125,8 +125,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.373490538343, 
-      "lon": 4.485742551741, 
+      "lat": 51.373488654465, 
+      "lon": 4.485738956897, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanPerceelGrb", 
@@ -434,7 +434,7 @@
     }, 
     {
       "hnrlbls": [
-        "15-56"
+        "15-60D"
       ], 
       "housenumber": "15", 
       "lat": 51.373123441824, 
@@ -737,7 +737,7 @@
     }, 
     {
       "hnrlbls": [
-        "15-56"
+        "15-60D"
       ], 
       "housenumber": "48", 
       "lat": 51.373123441824, 
@@ -785,7 +785,7 @@
     }, 
     {
       "hnrlbls": [
-        "15-56"
+        "15-60D"
       ], 
       "housenumber": "56", 
       "lat": 51.373123441824, 
@@ -848,59 +848,47 @@
         "60A"
       ], 
       "housenumber": "60A", 
-      "lat": 51.377983795742, 
-      "lon": 4.479243207102, 
+      "lat": 51.378556798246, 
+      "lon": 4.479019384257, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heikantstraat"
     }, 
     {
       "hnrlbls": [
-        "60B-60F"
+        "15-60D"
       ], 
       "housenumber": "60B", 
-      "lat": 51.378264618564, 
-      "lon": 4.47745583914, 
+      "lat": 51.373123441824, 
+      "lon": 4.494762831491, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Heikantstraat"
     }, 
     {
       "hnrlbls": [
-        "60B-60F"
+        "15-60D"
       ], 
       "housenumber": "60C", 
-      "lat": 51.378264618564, 
-      "lon": 4.47745583914, 
+      "lat": 51.373123441824, 
+      "lon": 4.494762831491, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Heikantstraat"
     }, 
     {
       "hnrlbls": [
-        "60B-60F"
+        "15-60D"
       ], 
       "housenumber": "60D", 
-      "lat": 51.378264618564, 
-      "lon": 4.47745583914, 
+      "lat": 51.373123441824, 
+      "lon": 4.494762831491, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Heikantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "60B-60F"
-      ], 
-      "housenumber": "60E", 
-      "lat": 51.378264618564, 
-      "lon": 4.47745583914, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanStraat", 
       "street": "Heikantstraat"
     }, 
     {
@@ -937,18 +925,6 @@
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heikantstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "72"
-      ], 
-      "housenumber": "72", 
-      "lat": 51.377652960755, 
-      "lon": 4.479715055019, 
-      "municipality": "Kalmthout", 
-      "pcode": "2920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heikantstraat"
     }, 
     {

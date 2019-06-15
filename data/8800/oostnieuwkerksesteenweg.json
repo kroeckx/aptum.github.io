@@ -634,11 +634,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.947873070855, 
-      "lon": 3.106675118826, 
+      "lat": 50.947843181063, 
+      "lon": 3.106755052663, 
       "municipality": "Roeselare", 
       "pcode": "8800", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Oostnieuwkerksesteenweg"
     }, 
     {
@@ -1131,7 +1131,10 @@
     }, 
     {
       "apptnrs": [
+        "1", 
+        "11", 
         "12", 
+        "2", 
         "21", 
         "22", 
         "31"

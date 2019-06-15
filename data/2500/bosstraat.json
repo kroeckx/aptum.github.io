@@ -310,6 +310,31 @@
       "street": "Bosstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "134"
+      ], 
+      "housenumber": "134", 
+      "lat": 51.133181326498, 
+      "lon": 4.55242984348, 
+      "municipality": "Lier", 
+      "pcode": "2500", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Bosstraat"
+    }, 
+    {
       "hnrlbls": [
         "136"
       ], 

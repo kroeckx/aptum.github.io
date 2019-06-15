@@ -173,8 +173,8 @@
         "108E"
       ], 
       "housenumber": "108E", 
-      "lat": 51.127321069024, 
-      "lon": 4.195783887119, 
+      "lat": 51.127320980597, 
+      "lon": 4.195784887371, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -185,8 +185,8 @@
         "108F"
       ], 
       "housenumber": "108F", 
-      "lat": 51.127234531589, 
-      "lon": 4.19555422374, 
+      "lat": 51.12723498165, 
+      "lon": 4.195554650617, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -689,8 +689,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.128264069842, 
-      "lon": 4.196953203555, 
+      "lat": 51.128309131889, 
+      "lon": 4.197034891307, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -881,8 +881,8 @@
         "134"
       ], 
       "housenumber": "134", 
-      "lat": 51.128550531655, 
-      "lon": 4.196637455335, 
+      "lat": 51.12858524636, 
+      "lon": 4.196711895861, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1061,8 +1061,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 51.128768428805, 
-      "lon": 4.197202488404, 
+      "lat": 51.128849461312, 
+      "lon": 4.197357185602, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1385,8 +1385,8 @@
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 51.129569572907, 
-      "lon": 4.195951162948, 
+      "lat": 51.129609097759, 
+      "lon": 4.195995301935, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2777,8 +2777,8 @@
         "299"
       ], 
       "housenumber": "299", 
-      "lat": 51.133260369275, 
-      "lon": 4.191229031751, 
+      "lat": 51.133308101761, 
+      "lon": 4.191410718015, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3170,9 +3170,21 @@
     }, 
     {
       "hnrlbls": [
-        "333"
+        "333A-333B"
       ], 
-      "housenumber": "333", 
+      "housenumber": "333A", 
+      "lat": 51.135459246876, 
+      "lon": 4.18918136167, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Hoogkamerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "333A-333B"
+      ], 
+      "housenumber": "333B", 
       "lat": 51.135459246876, 
       "lon": 4.18918136167, 
       "municipality": "Temse", 
@@ -3909,7 +3921,7 @@
       "lon": 4.20177035537, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hoogkamerstraat"
     }, 
     {
@@ -4109,8 +4121,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.127710997786, 
-      "lon": 4.199705761278, 
+      "lat": 51.127697231858, 
+      "lon": 4.199696525783, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -4409,8 +4421,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.127646017796, 
-      "lon": 4.198268806828, 
+      "lat": 51.127720866908, 
+      "lon": 4.198312531924, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 

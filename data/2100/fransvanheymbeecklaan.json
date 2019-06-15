@@ -83,6 +83,11 @@
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -409,8 +414,9 @@
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "35"
@@ -517,8 +523,9 @@
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
-      "busnrs": [
-        "42"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "40"
@@ -532,8 +539,10 @@
       "street": "Frans Van Heymbeecklaan"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "41"

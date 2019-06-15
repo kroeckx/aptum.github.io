@@ -295,8 +295,10 @@
       "street": "Lange Elzenstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "119"
@@ -372,18 +374,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Lange Elzenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "123D"
-      ], 
-      "housenumber": "123D", 
-      "lat": 51.197860938538, 
-      "lon": 4.39514556038, 
-      "municipality": "Antwerpen", 
-      "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Elzenstraat"
     }, 
     {
@@ -760,6 +750,29 @@
     }, 
     {
       "apptnrs": [
+        "1101", 
+        "1102", 
+        "1201", 
+        "1202", 
+        "1301", 
+        "1302", 
+        "2001", 
+        "3001", 
+        "4001"
+      ], 
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.201600167953, 
+      "lon": 4.394215464106, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lange Elzenstraat"
+    }, 
+    {
+      "apptnrs": [
         "301"
       ], 
       "busnrs": [
@@ -777,15 +790,36 @@
       "street": "Lange Elzenstraat"
     }, 
     {
+      "apptnrs": [
+        "1101", 
+        "1102", 
+        "1103", 
+        "1201", 
+        "1202", 
+        "1301", 
+        "1302"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.201602286296, 
-      "lon": 4.394390587373, 
+      "lat": 51.201398816834, 
+      "lon": 4.394259417679, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lange Elzenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35A"
+      ], 
+      "housenumber": "35A", 
+      "lat": 51.201308206998, 
+      "lon": 4.394287409034, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Elzenstraat"
     }, 
     {
@@ -1298,15 +1332,26 @@
       "street": "Lange Elzenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401"
+      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.200026250046, 
-      "lon": 4.394791864053, 
+      "lat": 51.199986750876, 
+      "lon": 4.39456965582, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Elzenstraat"
     }, 
     {
@@ -1511,9 +1556,6 @@
       "street": "Lange Elzenstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1550,11 +1592,9 @@
       "street": "Lange Elzenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "90"
@@ -1565,6 +1605,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lange Elzenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "90A"
+      ], 
+      "housenumber": "90A", 
+      "lat": 51.199521533413, 
+      "lon": 4.394456797546, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lange Elzenstraat"
     }, 
     {

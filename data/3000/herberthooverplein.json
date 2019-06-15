@@ -213,11 +213,11 @@
         "bus 6"
       ], 
       "hnrlbls": [
-        "2"
+        "2-2C"
       ], 
       "housenumber": "2", 
-      "lat": 50.87722233533, 
-      "lon": 4.705477004864, 
+      "lat": 50.87722665675, 
+      "lon": 4.705474762509, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -328,6 +328,18 @@
       "housenumber": "26", 
       "lat": 50.876827977471, 
       "lon": 4.706253371355, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Herbert Hooverplein"
+    }, 
+    {
+      "hnrlbls": [
+        "2-2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 50.87722665675, 
+      "lon": 4.705474762509, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

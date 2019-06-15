@@ -42,6 +42,11 @@
       "street": "Constitutiestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "103"
       ], 
@@ -411,6 +416,15 @@
       "street": "Constitutiestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "28-32"
       ], 
@@ -798,10 +812,12 @@
       "street": "Constitutiestraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "57"

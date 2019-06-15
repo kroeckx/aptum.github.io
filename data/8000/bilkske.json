@@ -37,9 +37,6 @@
       "street": "Bilkske"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "105"
       ], 
@@ -473,9 +470,20 @@
       "street": "Bilkske"
     }, 
     {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.20979450236, 
+      "lon": 3.23511549649, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bilkske"
+    }, 
+    {
       "busnrs": [
         "1", 
-        "10", 
         "101", 
         "102", 
         "103", 
@@ -483,26 +491,19 @@
         "105", 
         "106", 
         "107", 
-        "11", 
-        "12", 
-        "13", 
-        "14", 
-        "15", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7", 
-        "8", 
-        "9"
+        "7"
       ], 
       "hnrlbls": [
         "3B"
       ], 
       "housenumber": "3B", 
-      "lat": 51.20979450236, 
-      "lon": 3.23511549649, 
+      "lat": 51.209983617677, 
+      "lon": 3.235403860604, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -585,8 +586,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.208049245607, 
-      "lon": 3.237542964382, 
+      "lat": 51.208048888849, 
+      "lon": 3.237543259249, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -609,8 +610,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.208011494385, 
-      "lon": 3.237599835437, 
+      "lat": 51.208011320111, 
+      "lon": 3.237600412101, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -630,31 +631,24 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "10", 
         "101", 
-        "11", 
-        "2", 
+        "201", 
         "202", 
         "203", 
         "204", 
-        "3", 
+        "205", 
         "301", 
-        "4", 
         "401", 
         "402", 
         "403", 
-        "5", 
-        "6", 
-        "8", 
-        "9"
+        "404"
       ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.209857101947, 
-      "lon": 3.235334659957, 
+      "lat": 51.209696429015, 
+      "lon": 3.235500282528, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

@@ -62,7 +62,7 @@
     }, 
     {
       "hnrlbls": [
-        "63"
+        "63-65"
       ], 
       "housenumber": "63", 
       "lat": 50.804343868999, 
@@ -86,14 +86,14 @@
     }, 
     {
       "hnrlbls": [
-        "65-69B"
+        "63-65"
       ], 
       "housenumber": "65", 
-      "lat": 50.80425782858, 
-      "lon": 4.551598706704, 
+      "lat": 50.804343868999, 
+      "lon": 4.551822055609, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Overijsesteenweg"
     }, 
     {
@@ -110,7 +110,7 @@
     }, 
     {
       "hnrlbls": [
-        "67-71"
+        "67-69B"
       ], 
       "housenumber": "67", 
       "lat": 50.804360266482, 
@@ -122,7 +122,7 @@
     }, 
     {
       "hnrlbls": [
-        "67-71"
+        "67-69B"
       ], 
       "housenumber": "67A", 
       "lat": 50.804360266482, 
@@ -146,7 +146,7 @@
     }, 
     {
       "hnrlbls": [
-        "67-71"
+        "67-69B"
       ], 
       "housenumber": "69", 
       "lat": 50.804360266482, 
@@ -158,26 +158,26 @@
     }, 
     {
       "hnrlbls": [
-        "65-69B"
+        "67-69B"
       ], 
       "housenumber": "69A", 
-      "lat": 50.80425782858, 
-      "lon": 4.551598706704, 
+      "lat": 50.804360266482, 
+      "lon": 4.552199766959, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Overijsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "65-69B"
+        "67-69B"
       ], 
       "housenumber": "69B", 
-      "lat": 50.80425782858, 
-      "lon": 4.551598706704, 
+      "lat": 50.804360266482, 
+      "lon": 4.552199766959, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Overijsesteenweg"
     }, 
     {
@@ -187,18 +187,6 @@
       "housenumber": "70", 
       "lat": 50.803495105743, 
       "lon": 4.552940312855, 
-      "municipality": "Tervuren", 
-      "pcode": "3080", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Overijsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "67-71"
-      ], 
-      "housenumber": "71", 
-      "lat": 50.804360266482, 
-      "lon": 4.552199766959, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 
@@ -456,8 +444,8 @@
         "1-97"
       ], 
       "housenumber": "95", 
-      "lat": 50.801812160827, 
-      "lon": 4.551735565044, 
+      "lat": 50.801813688613, 
+      "lon": 4.551735854724, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanPerceelGrb", 
@@ -468,8 +456,8 @@
         "1-97"
       ], 
       "housenumber": "97", 
-      "lat": 50.801812160827, 
-      "lon": 4.551735565044, 
+      "lat": 50.801813688613, 
+      "lon": 4.551735854724, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanPerceelGrb", 

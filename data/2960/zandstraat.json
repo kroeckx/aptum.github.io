@@ -24,8 +24,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.292266867834, 
-      "lon": 4.558309273834, 
+      "lat": 51.292253646578, 
+      "lon": 4.558314667205, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -228,8 +228,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.291035011798, 
-      "lon": 4.555282015539, 
+      "lat": 51.291035448512, 
+      "lon": 4.555290044832, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -959,6 +959,18 @@
     }, 
     {
       "hnrlbls": [
+        "52"
+      ], 
+      "housenumber": "52", 
+      "lat": 51.292458217964, 
+      "lon": 4.565776468305, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
@@ -1106,8 +1118,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.29209748953, 
-      "lon": 4.562485290373, 
+      "lat": 51.292098754453, 
+      "lon": 4.562481281795, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -1271,18 +1283,6 @@
     }, 
     {
       "hnrlbls": [
-        "82"
-      ], 
-      "housenumber": "82", 
-      "lat": 51.292489089937, 
-      "lon": 4.561780623702, 
-      "municipality": "Brecht", 
-      "pcode": "2960", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Zandstraat"
-    }, 
-    {
-      "hnrlbls": [
         "83"
       ], 
       "housenumber": "83", 
@@ -1310,11 +1310,11 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.292511710342, 
-      "lon": 4.561028112234, 
+      "lat": 51.292531267876, 
+      "lon": 4.561105747546, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Zandstraat"
     }, 
     {
@@ -1334,11 +1334,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.292538806429, 
-      "lon": 4.560726465372, 
+      "lat": 51.292531707153, 
+      "lon": 4.560946483622, 
       "municipality": "Brecht", 
       "pcode": "2960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Zandstraat"
     }, 
     {
@@ -1363,6 +1363,18 @@
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "90"
+      ], 
+      "housenumber": "90", 
+      "lat": 51.292538806429, 
+      "lon": 4.560726465372, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Zandstraat"
     }, 
     {

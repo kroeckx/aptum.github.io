@@ -137,8 +137,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.31774692145, 
-      "lon": 4.50238168576, 
+      "lat": 51.317637985687, 
+      "lon": 4.502540722683, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -285,8 +285,8 @@
         "46D"
       ], 
       "housenumber": "46D", 
-      "lat": 51.3180917474, 
-      "lon": 4.503212005101, 
+      "lat": 51.318098763451, 
+      "lon": 4.503207292223, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -345,8 +345,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.318307301928, 
-      "lon": 4.503665448184, 
+      "lat": 51.31827715521, 
+      "lon": 4.503619031598, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -518,6 +518,18 @@
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
+      "street": "de Prolistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.316785726878, 
+      "lon": 4.501916355746, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "de Prolistraat"
     }
   ]

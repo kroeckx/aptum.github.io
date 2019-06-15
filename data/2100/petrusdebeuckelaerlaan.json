@@ -403,8 +403,11 @@
       "street": "Petrus De Beuckelaerlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "31"
@@ -468,8 +471,11 @@
       "street": "Petrus De Beuckelaerlaan"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "35"
@@ -512,6 +518,8 @@
     }, 
     {
       "busnrs": [
+        "1", 
+        "2", 
         "3", 
         "4"
       ], 
@@ -597,6 +605,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 

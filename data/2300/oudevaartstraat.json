@@ -469,6 +469,11 @@
       "street": "Oude Vaartstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -958,8 +963,8 @@
         "173"
       ], 
       "housenumber": "173", 
-      "lat": 51.331070962591, 
-      "lon": 4.946250029407, 
+      "lat": 51.331069701513, 
+      "lon": 4.946250587636, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -982,8 +987,8 @@
         "175"
       ], 
       "housenumber": "175", 
-      "lat": 51.331097915517, 
-      "lon": 4.946362993272, 
+      "lat": 51.33109783124, 
+      "lon": 4.946361844414, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 

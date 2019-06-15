@@ -2,14 +2,26 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.224161783641, 
+      "lon": 4.382970654331, 
+      "municipality": "Antwerpen", 
+      "pcode": "2050", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Carel van Manderstraat"
+    }, 
+    {
+      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.224841957811, 
-      "lon": 4.382038998559, 
+      "lat": 51.225066704986, 
+      "lon": 4.38319167426, 
       "municipality": "Antwerpen", 
       "pcode": "2050", 
-      "source": "manueleAanduidingVanToegangTotDeWeg", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Carel van Manderstraat"
     }, 
     {
@@ -131,10 +143,18 @@
       "street": "Carel van Manderstraat"
     }, 
     {
-      "apptnrs": [
-        "0.2", 
-        "13.0"
+      "hnrlbls": [
+        "3"
       ], 
+      "housenumber": "3", 
+      "lat": 51.224214636293, 
+      "lon": 4.382962655228, 
+      "municipality": "Antwerpen", 
+      "pcode": "2050", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Carel van Manderstraat"
+    }, 
+    {
       "busnrs": [
         "A1", 
         "A10", 
@@ -300,8 +320,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.224720335326, 
-      "lon": 4.382858178229, 
+      "lat": 51.224718897813, 
+      "lon": 4.382853167715, 
       "municipality": "Antwerpen", 
       "pcode": "2050", 
       "source": "afgeleidVanPerceelGrb", 

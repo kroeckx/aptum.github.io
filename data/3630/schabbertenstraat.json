@@ -1,9 +1,12 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "2", 
         "3"
+      ], 
+      "busnrs": [
+        "1"
       ], 
       "hnrlbls": [
         "1"
@@ -243,24 +246,9 @@
         "2R"
       ], 
       "hnrlbls": [
-        "32-32L"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.989500872176, 
-      "lon": 5.718251252271, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Schabbertenstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "32-32L"
-      ], 
-      "housenumber": "32L", 
       "lat": 50.989500872176, 
       "lon": 5.718251252271, 
       "municipality": "Maasmechelen", 
@@ -393,11 +381,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.988039228335, 
-      "lon": 5.718145036996, 
+      "lat": 50.988031024861, 
+      "lon": 5.718240951072, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Schabbertenstraat"
     }
   ]

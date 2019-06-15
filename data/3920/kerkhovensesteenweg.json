@@ -2137,15 +2137,20 @@
       "street": "Kerkhovensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "404"
       ], 
       "housenumber": "404", 
-      "lat": 51.162619800206, 
-      "lon": 5.267291286993, 
+      "lat": 51.162597715051, 
+      "lon": 5.26714589557, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2165,8 +2170,8 @@
         "410"
       ], 
       "housenumber": "410", 
-      "lat": 51.162482554608, 
-      "lon": 5.267005288446, 
+      "lat": 51.162463220349, 
+      "lon": 5.266959024679, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2749,11 +2754,11 @@
         "439A"
       ], 
       "housenumber": "439A", 
-      "lat": 51.161322833247, 
-      "lon": 5.265802532402, 
+      "lat": 51.161321800338, 
+      "lon": 5.265796508195, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2761,11 +2766,11 @@
         "439B"
       ], 
       "housenumber": "439B", 
-      "lat": 51.161307403343, 
-      "lon": 5.265798375763, 
+      "lat": 51.161304168774, 
+      "lon": 5.265798170605, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2773,11 +2778,11 @@
         "439C"
       ], 
       "housenumber": "439C", 
-      "lat": 51.1612884964, 
-      "lon": 5.265790435295, 
+      "lat": 51.161285339756, 
+      "lon": 5.265791804201, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2785,11 +2790,11 @@
         "439D"
       ], 
       "housenumber": "439D", 
-      "lat": 51.161270523473, 
-      "lon": 5.26580152653, 
+      "lat": 51.161268981717, 
+      "lon": 5.265791489653, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2797,11 +2802,11 @@
         "439E"
       ], 
       "housenumber": "439E", 
-      "lat": 51.161257562694, 
-      "lon": 5.26579184192, 
+      "lat": 51.161253897203, 
+      "lon": 5.26578919815, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2821,11 +2826,11 @@
         "441"
       ], 
       "housenumber": "441", 
-      "lat": 51.161272432083, 
-      "lon": 5.265656887274, 
+      "lat": 51.16127254804, 
+      "lon": 5.265653458453, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2833,11 +2838,11 @@
         "441A"
       ], 
       "housenumber": "441A", 
-      "lat": 51.16125456022, 
-      "lon": 5.265654685185, 
+      "lat": 51.161254992537, 
+      "lon": 5.265645115151, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2845,11 +2850,11 @@
         "441B"
       ], 
       "housenumber": "441B", 
-      "lat": 51.161240387535, 
-      "lon": 5.265650695732, 
+      "lat": 51.161243743798, 
+      "lon": 5.265634891662, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2857,11 +2862,11 @@
         "441C"
       ], 
       "housenumber": "441C", 
-      "lat": 51.161222473296, 
-      "lon": 5.265654068283, 
+      "lat": 51.161226203505, 
+      "lon": 5.26562454722, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2869,11 +2874,11 @@
         "441D"
       ], 
       "housenumber": "441D", 
-      "lat": 51.161204734774, 
-      "lon": 5.265646150351, 
+      "lat": 51.161211134199, 
+      "lon": 5.265620254621, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2881,11 +2886,11 @@
         "441E"
       ], 
       "housenumber": "441E", 
-      "lat": 51.16118208518, 
-      "lon": 5.265645714896, 
+      "lat": 51.161196049681, 
+      "lon": 5.265617963175, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2893,11 +2898,11 @@
         "441F"
       ], 
       "housenumber": "441F", 
-      "lat": 51.161165399914, 
-      "lon": 5.265652970994, 
+      "lat": 51.161177205441, 
+      "lon": 5.265613598008, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2917,11 +2922,11 @@
         "443"
       ], 
       "housenumber": "443", 
-      "lat": 51.161217446307, 
-      "lon": 5.265534885738, 
+      "lat": 51.161216821498, 
+      "lon": 5.265534301886, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2929,11 +2934,11 @@
         "443A"
       ], 
       "housenumber": "443A", 
-      "lat": 51.161188998012, 
-      "lon": 5.265528620459, 
+      "lat": 51.161191670492, 
+      "lon": 5.265531816956, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2953,11 +2958,11 @@
         "445"
       ], 
       "housenumber": "445", 
-      "lat": 51.161163563377, 
-      "lon": 5.265433348982, 
+      "lat": 51.161157167821, 
+      "lon": 5.265435084532, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2965,11 +2970,11 @@
         "445A"
       ], 
       "housenumber": "445A", 
-      "lat": 51.1611416817, 
-      "lon": 5.265426495189, 
+      "lat": 51.161138338783, 
+      "lon": 5.265428718295, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -2989,8 +2994,8 @@
         "447"
       ], 
       "housenumber": "447", 
-      "lat": 51.161189161143, 
-      "lon": 5.264962930221, 
+      "lat": 51.161181056185, 
+      "lon": 5.264941187536, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3001,11 +3006,11 @@
         "447A"
       ], 
       "housenumber": "447A", 
-      "lat": 51.161157918721, 
-      "lon": 5.264969478023, 
+      "lat": 51.161154434055, 
+      "lon": 5.264966694837, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -3013,11 +3018,11 @@
         "447B"
       ], 
       "housenumber": "447B", 
-      "lat": 51.161131519535, 
-      "lon": 5.265001136858, 
+      "lat": 51.161129024628, 
+      "lon": 5.264998229726, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {
@@ -3025,11 +3030,11 @@
         "447C"
       ], 
       "housenumber": "447C", 
-      "lat": 51.161096718127, 
-      "lon": 5.265038352624, 
+      "lat": 51.161096080528, 
+      "lon": 5.265027618383, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkhovensesteenweg"
     }, 
     {

@@ -25,7 +25,7 @@
       "street": "Gasthuisstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "201"
@@ -66,7 +66,7 @@
       "street": "Gasthuisstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -122,18 +122,6 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Gasthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.186397190496, 
-      "lon": 5.113667819671, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gasthuisstraat"
     }, 
     {
@@ -197,7 +185,7 @@
       "street": "Gasthuisstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "201"

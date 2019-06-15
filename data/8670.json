@@ -76,7 +76,7 @@
       "b": 51.124198806361, 
       "l": 2.660034630895, 
       "name": "Albert I Laan", 
-      "numOfAddr": 161, 
+      "numOfAddr": 158, 
       "r": 2.704427771385, 
       "sanName": "albertilaan", 
       "t": 51.14279560734
@@ -688,7 +688,7 @@
       "b": 51.094975637861, 
       "l": 2.620682379857, 
       "name": "Cornelis Devoslaan", 
-      "numOfAddr": 7, 
+      "numOfAddr": 8, 
       "r": 2.622831612555, 
       "sanName": "cornelisdevoslaan", 
       "t": 51.095810374924
@@ -1129,7 +1129,7 @@
       "b": 51.105777607176, 
       "l": 2.615805292121, 
       "name": "Dwarsstraat", 
-      "numOfAddr": 19, 
+      "numOfAddr": 22, 
       "r": 2.617777877324, 
       "sanName": "dwarsstraat", 
       "t": 51.108761501148
@@ -1201,16 +1201,16 @@
       "b": 51.109878716187, 
       "l": 2.633895090584, 
       "name": "Emile Clauslaan", 
-      "numOfAddr": 1, 
-      "r": 2.633895090584, 
+      "numOfAddr": 3, 
+      "r": 2.635480465251, 
       "sanName": "emileclauslaan", 
-      "t": 51.109878716187
+      "t": 51.110409275095
     }, 
     {
-      "b": 51.125835785746, 
-      "l": 2.694276979948, 
+      "b": 51.120755904708, 
+      "l": 2.636343090832, 
       "name": "Emile Verhaerenlaan", 
-      "numOfAddr": 22, 
+      "numOfAddr": 23, 
       "r": 2.697674789189, 
       "sanName": "emileverhaerenlaan", 
       "t": 51.127125260618
@@ -1355,9 +1355,9 @@
       "l": 2.634706483677, 
       "name": "Felicien Ropsweg", 
       "numOfAddr": 8, 
-      "r": 2.635322310171, 
+      "r": 2.635301200774, 
       "sanName": "felicienropsweg", 
-      "t": 51.118475677177
+      "t": 51.118461311761
     }, 
     {
       "b": 51.119076810532, 
@@ -1462,7 +1462,7 @@
       "b": 51.103665924437, 
       "l": 2.656018590102, 
       "name": "Galloperstraat", 
-      "numOfAddr": 33, 
+      "numOfAddr": 34, 
       "r": 2.659556343802, 
       "sanName": "galloperstraat", 
       "t": 51.108287170185
@@ -1684,10 +1684,10 @@
       "t": 51.133223823203
     }, 
     {
-      "b": 51.121164542399, 
-      "l": 2.686546609321, 
+      "b": 51.121018061336, 
+      "l": 2.686343586436, 
       "name": "Groene Spechtstraat", 
-      "numOfAddr": 15, 
+      "numOfAddr": 17, 
       "r": 2.688203194298, 
       "sanName": "groenespechtstraat", 
       "t": 51.122357365417
@@ -1828,11 +1828,11 @@
       "t": 51.130156612203
     }, 
     {
-      "b": 51.108874503598, 
+      "b": 51.108823557378, 
       "l": 2.607426184632, 
       "name": "Herman Teirlincklaan", 
-      "numOfAddr": 6, 
-      "r": 2.608417798575, 
+      "numOfAddr": 8, 
+      "r": 2.608479619734, 
       "sanName": "hermanteirlincklaan", 
       "t": 51.109348325527
     }, 
@@ -1957,7 +1957,7 @@
       "b": 51.105315351479, 
       "l": 2.650657234156, 
       "name": "Houtsaegerlaan", 
-      "numOfAddr": 89, 
+      "numOfAddr": 93, 
       "r": 2.66505528849, 
       "sanName": "houtsaegerlaan", 
       "t": 51.110137593441
@@ -2249,6 +2249,15 @@
       "r": 2.641766877405, 
       "sanName": "joststraat", 
       "t": 51.123214831614
+    }, 
+    {
+      "b": 51.100067210997, 
+      "l": 2.700987503512, 
+      "name": "Jules Leroystraat", 
+      "numOfAddr": 14, 
+      "r": 2.702000422475, 
+      "sanName": "julesleroystraat", 
+      "t": 51.100747948528
     }, 
     {
       "b": 51.107440599734, 
@@ -2614,7 +2623,7 @@
       "b": 51.117500071033, 
       "l": 2.627957003235, 
       "name": "Kursaallaan", 
-      "numOfAddr": 69, 
+      "numOfAddr": 72, 
       "r": 2.636247019937, 
       "sanName": "kursaallaan", 
       "t": 51.118536196273
@@ -2659,7 +2668,7 @@
       "b": 51.129767675692, 
       "l": 2.673738351418, 
       "name": "La Charit\u00e9straat", 
-      "numOfAddr": 10, 
+      "numOfAddr": 12, 
       "r": 2.674506607897, 
       "sanName": "lacharitstraat", 
       "t": 51.130931166694
@@ -2713,7 +2722,7 @@
       "b": 51.138723145312, 
       "l": 2.699120637134, 
       "name": "Leeuwerikstraat", 
-      "numOfAddr": 28, 
+      "numOfAddr": 29, 
       "r": 2.704410072458, 
       "sanName": "leeuwerikstraat", 
       "t": 51.141163425532
@@ -2722,7 +2731,7 @@
       "b": 51.124504181002, 
       "l": 2.665339516648, 
       "name": "Lehoucklaan", 
-      "numOfAddr": 48, 
+      "numOfAddr": 49, 
       "r": 2.674056858981, 
       "sanName": "lehoucklaan", 
       "t": 51.128057131261
@@ -2758,7 +2767,7 @@
       "b": 51.115538168445, 
       "l": 2.671321818433, 
       "name": "Leopold II Laan", 
-      "numOfAddr": 260, 
+      "numOfAddr": 261, 
       "r": 2.682530230445, 
       "sanName": "leopoldiilaan", 
       "t": 51.132027063721
@@ -2911,7 +2920,7 @@
       "b": 51.108568782793, 
       "l": 2.616216720514, 
       "name": "Marcel Demanlaan", 
-      "numOfAddr": 39, 
+      "numOfAddr": 40, 
       "r": 2.621315820725, 
       "sanName": "marceldemanlaan", 
       "t": 51.111328308137
@@ -3124,10 +3133,10 @@
       "t": 51.115268016664
     }, 
     {
-      "b": 51.126719005203, 
+      "b": 51.126527742705, 
       "l": 2.665810456584, 
       "name": "Mooie Bergstraat", 
-      "numOfAddr": 6, 
+      "numOfAddr": 7, 
       "r": 2.667310139984, 
       "sanName": "mooiebergstraat", 
       "t": 51.126974222058
@@ -3442,7 +3451,7 @@
       "b": 51.106468281342, 
       "l": 2.641601554967, 
       "name": "Oudstrijdersstraat", 
-      "numOfAddr": 21, 
+      "numOfAddr": 22, 
       "r": 2.643620931839, 
       "sanName": "oudstrijdersstraat", 
       "t": 51.107915647537
@@ -3532,7 +3541,7 @@
       "b": 51.110026420252, 
       "l": 2.635159315749, 
       "name": "Parnassiusstraat", 
-      "numOfAddr": 15, 
+      "numOfAddr": 16, 
       "r": 2.636475871976, 
       "sanName": "parnassiusstraat", 
       "t": 51.111617309234
@@ -3676,7 +3685,7 @@
       "b": 51.113374633612, 
       "l": 2.642500051554, 
       "name": "Plevierweg", 
-      "numOfAddr": 9, 
+      "numOfAddr": 10, 
       "r": 2.644034498576, 
       "sanName": "plevierweg", 
       "t": 51.114360691088
@@ -3775,7 +3784,7 @@
       "b": 51.112907599199, 
       "l": 2.622716859375, 
       "name": "Prof. Blanchardlaan", 
-      "numOfAddr": 15, 
+      "numOfAddr": 16, 
       "r": 2.623876258148, 
       "sanName": "profblanchardlaan", 
       "t": 51.113779000488
@@ -4684,7 +4693,7 @@
       "b": 51.099603551922, 
       "l": 2.611066763847, 
       "name": "Veurnelaan", 
-      "numOfAddr": 76, 
+      "numOfAddr": 77, 
       "r": 2.630078598202, 
       "sanName": "veurnelaan", 
       "t": 51.101881947368
@@ -4909,7 +4918,7 @@
       "b": 51.11713498172, 
       "l": 2.681955564038, 
       "name": "Vrijheidstraat", 
-      "numOfAddr": 24, 
+      "numOfAddr": 25, 
       "r": 2.683836127289, 
       "sanName": "vrijheidstraat", 
       "t": 51.11763146901
@@ -5197,7 +5206,7 @@
       "b": 51.109991835976, 
       "l": 2.607064903291, 
       "name": "Zeedijk", 
-      "numOfAddr": 343, 
+      "numOfAddr": 342, 
       "r": 2.70397608946, 
       "sanName": "zeedijk", 
       "t": 51.143787050689
@@ -5233,7 +5242,7 @@
       "b": 51.104703718028, 
       "l": 2.633823263702, 
       "name": "Zeelaan", 
-      "numOfAddr": 294, 
+      "numOfAddr": 295, 
       "r": 2.651083429742, 
       "sanName": "zeelaan", 
       "t": 51.120037557353

@@ -269,8 +269,8 @@
         "200"
       ], 
       "housenumber": "200", 
-      "lat": 50.872471351235, 
-      "lon": 3.964761852727, 
+      "lat": 50.872507568714, 
+      "lon": 3.964837266976, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -439,6 +439,24 @@
       "housenumber": "220", 
       "lat": 50.871832389653, 
       "lon": 3.962393750436, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Terlicht"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "221"
+      ], 
+      "housenumber": "221", 
+      "lat": 50.872831637231, 
+      "lon": 3.96677621667, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "afgeleidVanGebouw", 

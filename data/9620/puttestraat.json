@@ -329,8 +329,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.897317816976, 
-      "lon": 3.783182757831, 
+      "lat": 50.897315312772, 
+      "lon": 3.783185347738, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -341,8 +341,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.897164031716, 
-      "lon": 3.784055202158, 
+      "lat": 50.89715956403, 
+      "lon": 3.784060659437, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -377,11 +377,23 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.89746752388, 
-      "lon": 3.784652158761, 
+      "lat": 50.89738813899, 
+      "lon": 3.784560462624, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Puttestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "57A"
+      ], 
+      "housenumber": "57A", 
+      "lat": 50.897404937107, 
+      "lon": 3.784648387546, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Puttestraat"
     }, 
     {
@@ -461,8 +473,8 @@
         "6A"
       ], 
       "housenumber": "6A", 
-      "lat": 50.893734137773, 
-      "lon": 3.779595146638, 
+      "lat": 50.89373593132, 
+      "lon": 3.779594271322, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 
@@ -533,8 +545,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.893772150437, 
-      "lon": 3.780453907468, 
+      "lat": 50.893770913304, 
+      "lon": 3.780458187152, 
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "afgeleidVanGebouw", 

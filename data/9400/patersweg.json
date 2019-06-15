@@ -2,11 +2,47 @@
   "addresses": [
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.847118979571, 
+      "lon": 4.019340857675, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Patersweg"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.84718363582, 
+      "lon": 4.019347903833, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Patersweg"
+    }, 
+    {
+      "hnrlbls": [
+        "12A"
+      ], 
+      "housenumber": "12A", 
+      "lat": 50.847356463282, 
+      "lon": 4.019273067344, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Patersweg"
+    }, 
+    {
+      "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.847519715797, 
-      "lon": 4.019152578203, 
+      "lat": 50.847476352942, 
+      "lon": 4.019292625375, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanLot", 
@@ -14,14 +50,50 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.846860107255, 
+      "lon": 4.019320200826, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Patersweg"
+    }, 
+    {
+      "hnrlbls": [
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.846958892319, 
-      "lon": 4.019074809355, 
+      "lat": 50.846923855702, 
+      "lon": 4.019324271744, 
       "municipality": "Ninove", 
       "pcode": "9400", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Patersweg"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.846992368537, 
+      "lon": 4.019328307328, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Patersweg"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.847058000113, 
+      "lon": 4.019330802343, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Patersweg"
     }
   ]

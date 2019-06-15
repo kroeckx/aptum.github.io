@@ -694,8 +694,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.772911009685, 
-      "lon": 3.870273324424, 
+      "lat": 50.772913271521, 
+      "lon": 3.870276703087, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
@@ -890,6 +890,23 @@
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
       "source": "afgeleidVanGebouw", 
+      "street": "Reepstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "75"
+      ], 
+      "housenumber": "75", 
+      "lat": 50.77246453679, 
+      "lon": 3.870286267661, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Reepstraat"
     }, 
     {

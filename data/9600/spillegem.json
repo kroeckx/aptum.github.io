@@ -74,18 +74,6 @@
     }, 
     {
       "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.747759880756, 
-      "lon": 3.603990593276, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Spillegem"
-    }, 
-    {
-      "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
@@ -292,6 +280,11 @@
       "street": "Spillegem"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "9"
       ], 

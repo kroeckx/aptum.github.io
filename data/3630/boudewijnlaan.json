@@ -277,8 +277,8 @@
         "124"
       ], 
       "housenumber": "124", 
-      "lat": 50.965007660395, 
-      "lon": 5.683336403064, 
+      "lat": 50.965007739127, 
+      "lon": 5.68333740189, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -454,8 +454,8 @@
         "L-1", 
         "L-2", 
         "R-0", 
-        "R-2", 
-        "R1"
+        "R-1", 
+        "R-2"
       ], 
       "hnrlbls": [
         "138-142"
@@ -516,7 +516,7 @@
       "lon": 5.682387161325, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Boudewijnlaan"
     }, 
     {
@@ -756,22 +756,6 @@
       "street": "Boudewijnlaan"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "21-32"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.961696112459, 
-      "lon": 5.690935861348, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Boudewijnlaan"
-    }, 
-    {
       "hnrlbls": [
         "22"
       ], 
@@ -917,7 +901,7 @@
         "6"
       ], 
       "hnrlbls": [
-        "21-32"
+        "32"
       ], 
       "housenumber": "32", 
       "lat": 50.961696112459, 

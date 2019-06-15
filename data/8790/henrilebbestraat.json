@@ -44,9 +44,21 @@
         "12"
       ], 
       "hnrlbls": [
-        "108"
+        "108-108A"
       ], 
       "housenumber": "108", 
+      "lat": 50.878847095958, 
+      "lon": 3.423427111437, 
+      "municipality": "Waregem", 
+      "pcode": "8790", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Henri Lebbestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "108-108A"
+      ], 
+      "housenumber": "108A", 
       "lat": 50.878847095958, 
       "lon": 3.423427111437, 
       "municipality": "Waregem", 
@@ -445,7 +457,7 @@
       "lon": 3.423128611557, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Henri Lebbestraat"
     }, 
     {
@@ -457,7 +469,7 @@
       "lon": 3.423023497278, 
       "municipality": "Waregem", 
       "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Henri Lebbestraat"
     }, 
     {
@@ -515,30 +527,6 @@
       "housenumber": "141", 
       "lat": 50.877277646564, 
       "lon": 3.423299665351, 
-      "municipality": "Waregem", 
-      "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Henri Lebbestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "142"
-      ], 
-      "housenumber": "142", 
-      "lat": 50.877467252823, 
-      "lon": 3.422786573179, 
-      "municipality": "Waregem", 
-      "pcode": "8790", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Henri Lebbestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "146"
-      ], 
-      "housenumber": "146", 
-      "lat": 50.877351405665, 
-      "lon": 3.422768726537, 
       "municipality": "Waregem", 
       "pcode": "8790", 
       "source": "manueleAanduidingVanGebouw", 

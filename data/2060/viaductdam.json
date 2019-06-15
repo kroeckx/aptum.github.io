@@ -1,19 +1,20 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "2", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.23240841403, 
-      "lon": 4.423882589463, 
+      "lat": 51.232398485734, 
+      "lon": 4.423969623804, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Viaduct-Dam"
     }, 
     {
@@ -455,8 +456,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.232901813042, 
-      "lon": 4.423630915331, 
+      "lat": 51.232888792659, 
+      "lon": 4.423603840746, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

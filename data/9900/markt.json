@@ -163,17 +163,14 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.183585118838, 
-      "lon": 3.566528292731, 
+      "lat": 51.18384797395, 
+      "lon": 3.566702848194, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Markt"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -247,6 +244,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4"

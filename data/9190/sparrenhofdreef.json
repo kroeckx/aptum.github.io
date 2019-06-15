@@ -200,7 +200,7 @@
       "lon": 4.038687688324, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sparrenhofdreef"
     }, 
     {
@@ -345,6 +345,25 @@
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sparrenhofdreef"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.207381138892, 
+      "lon": 4.039032934082, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sparrenhofdreef"
     }, 
     {

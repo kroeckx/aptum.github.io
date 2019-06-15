@@ -314,12 +314,10 @@
         "0201", 
         "0202", 
         "0301", 
-        "0302", 
         "0401", 
         "0402", 
         "0501", 
-        "0502", 
-        "0702"
+        "0502"
       ], 
       "hnrlbls": [
         "30-32"
@@ -668,11 +666,23 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.05102838024, 
-      "lon": 3.732524080144, 
+      "lat": 51.051032846211, 
+      "lon": 3.732535428977, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Belgradostraat"
+    }, 
+    {
+      "hnrlbls": [
+        "60A"
+      ], 
+      "housenumber": "60A", 
+      "lat": 51.051012784407, 
+      "lon": 3.732499191088, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Belgradostraat"
     }, 
     {
@@ -719,18 +729,6 @@
     }, 
     {
       "hnrlbls": [
-        "64-68"
-      ], 
-      "housenumber": "64", 
-      "lat": 51.051125657157, 
-      "lon": 3.732643129387, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Belgradostraat"
-    }, 
-    {
-      "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
@@ -743,14 +741,14 @@
     }, 
     {
       "hnrlbls": [
-        "64-68"
+        "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.051125657157, 
-      "lon": 3.732643129387, 
+      "lat": 51.051117922986, 
+      "lon": 3.732625834908, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Belgradostraat"
     }, 
     {
@@ -767,14 +765,14 @@
     }, 
     {
       "hnrlbls": [
-        "64-68"
+        "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.051125657157, 
-      "lon": 3.732643129387, 
+      "lat": 51.051134174917, 
+      "lon": 3.732655706812, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Belgradostraat"
     }, 
     {

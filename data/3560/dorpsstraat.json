@@ -2,10 +2,10 @@
   "addresses": [
     {
       "apptnrs": [
-        "a", 
-        "b", 
-        "c", 
-        "d"
+        "A", 
+        "B", 
+        "C", 
+        "D"
       ], 
       "hnrlbls": [
         "1"
@@ -26,11 +26,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.986797556307, 
-      "lon": 5.192779721206, 
+      "lat": 50.986756224917, 
+      "lon": 5.192827988555, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -104,11 +104,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.986834233835, 
-      "lon": 5.192843888962, 
+      "lat": 50.986797587482, 
+      "lon": 5.19290349045, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -256,11 +256,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.986973005671, 
-      "lon": 5.193117227641, 
+      "lat": 50.98701163256, 
+      "lon": 5.193159781286, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -280,11 +280,11 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.987136411834, 
-      "lon": 5.194043320315, 
+      "lat": 50.987201894399, 
+      "lon": 5.193948335669, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -369,39 +369,19 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
-        "21-21B"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.987175406582, 
-      "lon": 5.194123055005, 
+      "lat": 50.987256468553, 
+      "lon": 5.194011396044, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21-21B"
-      ], 
-      "housenumber": "21A", 
-      "lat": 50.987175406582, 
-      "lon": 5.194123055005, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21-21B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 50.987175406582, 
-      "lon": 5.194123055005, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -421,31 +401,15 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 50.987193193901, 
-      "lon": 5.193535711435, 
+      "lat": 50.987147331055, 
+      "lon": 5.193563531552, 
       "municipality": "Lummen", 
       "pcode": "3560", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
-      "hnrlbls": [
-        "22B"
-      ], 
-      "housenumber": "22B", 
-      "lat": 50.987193294779, 
-      "lon": 5.193534146506, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
       "apptnrs": [
-        "a", 
-        "b"
-      ], 
-      "busnrs": [
         "1", 
         "2", 
         "3"
@@ -454,11 +418,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.987226142433, 
-      "lon": 5.194195020845, 
+      "lat": 50.987282401221, 
+      "lon": 5.19405657551, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -466,11 +430,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.987247468637, 
-      "lon": 5.193603038877, 
+      "lat": 50.987185991572, 
+      "lon": 5.193639699273, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -478,11 +442,11 @@
         "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 50.987249505028, 
-      "lon": 5.193607490017, 
+      "lat": 50.987224458346, 
+      "lon": 5.193705039188, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -490,11 +454,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.987283342014, 
-      "lon": 5.194268240221, 
+      "lat": 50.987356217144, 
+      "lon": 5.194195889576, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -502,17 +466,14 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.987348918069, 
-      "lon": 5.19432636764, 
+      "lat": 50.987387079192, 
+      "lon": 5.194268787254, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -553,10 +514,10 @@
     }, 
     {
       "apptnrs": [
-        "a", 
-        "b", 
-        "c", 
-        "d"
+        "A", 
+        "B", 
+        "C", 
+        "D"
       ], 
       "hnrlbls": [
         "3"
@@ -574,23 +535,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.98742549116, 
-      "lon": 5.194546630356, 
+      "lat": 50.987462325637, 
+      "lon": 5.194524348958, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32"
-      ], 
-      "housenumber": "32", 
-      "lat": 50.98764152281, 
-      "lon": 5.194174142423, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -598,11 +547,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.987315416066, 
-      "lon": 5.19469324168, 
+      "lat": 50.987481954592, 
+      "lon": 5.194609440198, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -610,11 +559,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.987611355061, 
-      "lon": 5.194373581053, 
+      "lat": 50.987549746303, 
+      "lon": 5.194377764616, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -622,11 +571,11 @@
         "34A"
       ], 
       "housenumber": "34A", 
-      "lat": 50.987615920935, 
-      "lon": 5.194401862521, 
+      "lat": 50.987667641695, 
+      "lon": 5.19435919116, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -637,11 +586,11 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.98748196164, 
-      "lon": 5.194749162873, 
+      "lat": 50.987512412264, 
+      "lon": 5.194727053855, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -649,11 +598,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 50.987627126039, 
-      "lon": 5.194457607462, 
+      "lat": 50.987568126812, 
+      "lon": 5.194474228252, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -661,11 +610,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.987367733131, 
-      "lon": 5.194859951106, 
+      "lat": 50.98742762207, 
+      "lon": 5.194857446992, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -681,30 +630,18 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
-        "39-39_1"
+        "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.987470351423, 
-      "lon": 5.194942945906, 
+      "lat": 50.987537761348, 
+      "lon": 5.194906391668, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "39-39_1"
-      ], 
-      "housenumber": "39_1", 
-      "lat": 50.987470351423, 
-      "lon": 5.194942945906, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -757,9 +694,6 @@
     }, 
     {
       "apptnrs": [
-        "a"
-      ], 
-      "busnrs": [
         "1", 
         "2"
       ], 
@@ -767,21 +701,21 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.986734826017, 
-      "lon": 5.192495046351, 
+      "lat": 50.986624487501, 
+      "lon": 5.192564175885, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
       "apptnrs": [
-        "a", 
-        "c", 
-        "d"
+        "A", 
+        "C", 
+        "D"
       ], 
       "busnrs": [
-        "1"
+        "B"
       ], 
       "hnrlbls": [
         "5"
@@ -847,22 +781,19 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.986712197188, 
-      "lon": 5.192594061832, 
+      "lat": 50.986664803595, 
+      "lon": 5.192647919638, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {
       "apptnrs": [
-        "a", 
-        "b", 
-        "c", 
-        "d"
-      ], 
-      "busnrs": [
-        "1"
+        "A", 
+        "B", 
+        "C", 
+        "D"
       ], 
       "hnrlbls": [
         "7"
@@ -928,11 +859,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.986784842076, 
-      "lon": 5.192644192252, 
+      "lat": 50.986702850484, 
+      "lon": 5.192721938617, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Dorpsstraat"
     }, 
     {

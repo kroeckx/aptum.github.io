@@ -253,8 +253,13 @@
       "street": "Distelstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "30-30B"
+        "30"
       ], 
       "housenumber": "30", 
       "lat": 51.039217386927, 
@@ -265,24 +270,27 @@
       "street": "Distelstraat"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
-        "30-30B"
+        "30A"
       ], 
       "housenumber": "30A", 
-      "lat": 51.039217386927, 
-      "lon": 3.707567915795, 
+      "lat": 51.039265086145, 
+      "lon": 3.707561824622, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Distelstraat"
     }, 
     {
       "hnrlbls": [
-        "30-30B"
+        "30B"
       ], 
       "housenumber": "30B", 
-      "lat": 51.039217386927, 
-      "lon": 3.707567915795, 
+      "lat": 51.039444341585, 
+      "lon": 3.707531206396, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 

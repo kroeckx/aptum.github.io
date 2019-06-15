@@ -1116,11 +1116,23 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.033909746207, 
-      "lon": 3.711027757732, 
+      "lat": 51.033890665614, 
+      "lon": 3.711039715975, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ganzendries"
+    }, 
+    {
+      "hnrlbls": [
+        "180A"
+      ], 
+      "housenumber": "180A", 
+      "lat": 51.033927983612, 
+      "lon": 3.711025790986, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ganzendries"
     }, 
     {

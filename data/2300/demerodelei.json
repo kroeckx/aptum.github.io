@@ -1926,8 +1926,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.321975274867, 
-      "lon": 4.941349124506, 
+      "lat": 51.321936312826, 
+      "lon": 4.941395121517, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 
@@ -2002,8 +2002,8 @@
         "234"
       ], 
       "housenumber": "234", 
-      "lat": 51.320199308802, 
-      "lon": 4.925843635704, 
+      "lat": 51.320202808851, 
+      "lon": 4.92590205869, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2016,6 +2016,18 @@
       "housenumber": "235", 
       "lat": 51.320377543676, 
       "lon": 4.929441455311, 
+      "municipality": "Turnhout", 
+      "pcode": "2300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "de Merodelei"
+    }, 
+    {
+      "hnrlbls": [
+        "236"
+      ], 
+      "housenumber": "236", 
+      "lat": 51.32019451128, 
+      "lon": 4.925793516828, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3390,6 +3402,9 @@
       "street": "de Merodelei"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "94"
       ], 

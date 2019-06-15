@@ -505,23 +505,27 @@
       "street": "Zandstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "002", 
-        "003", 
-        "004", 
-        "005", 
-        "006"
-      ], 
       "hnrlbls": [
-        "122"
+        "122A"
       ], 
-      "housenumber": "122", 
-      "lat": 51.190779750944, 
-      "lon": 4.235258399903, 
+      "housenumber": "122A", 
+      "lat": 51.190715023378, 
+      "lon": 4.2350893673, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "122B"
+      ], 
+      "housenumber": "122B", 
+      "lat": 51.190851338578, 
+      "lon": 4.235133321487, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Zandstraat"
     }, 
     {
@@ -971,8 +975,8 @@
         "160"
       ], 
       "housenumber": "160", 
-      "lat": 51.192148494388, 
-      "lon": 4.235796357855, 
+      "lat": 51.192123497949, 
+      "lon": 4.235788847342, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1415,11 +1419,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.18232288608, 
-      "lon": 4.237502339783, 
+      "lat": 51.182357858324, 
+      "lon": 4.237508534596, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zandstraat"
     }, 
     {
@@ -1456,6 +1460,18 @@
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "21A"
+      ], 
+      "housenumber": "21A", 
+      "lat": 51.182432519776, 
+      "lon": 4.237478435589, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Zandstraat"
     }, 
     {
@@ -1806,6 +1822,18 @@
       "housenumber": "248", 
       "lat": 51.19569801262, 
       "lon": 4.235681864367, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zandstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "248A"
+      ], 
+      "housenumber": "248A", 
+      "lat": 51.195830440902, 
+      "lon": 4.235947716036, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 

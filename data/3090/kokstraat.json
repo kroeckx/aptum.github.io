@@ -17,8 +17,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.777393816541, 
-      "lon": 4.527262973769, 
+      "lat": 50.777262823587, 
+      "lon": 4.526875318045, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "manueleAanduidingVanLot", 
@@ -37,6 +37,9 @@
       "street": "Kokstraat"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "3A"
       ], 
@@ -53,8 +56,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.777469777685, 
-      "lon": 4.527396508411, 
+      "lat": 50.777398090631, 
+      "lon": 4.527226974921, 
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "manueleAanduidingVanPerceel", 
@@ -70,6 +73,18 @@
       "municipality": "Overijse", 
       "pcode": "3090", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kokstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.777467504034, 
+      "lon": 4.527415783457, 
+      "municipality": "Overijse", 
+      "pcode": "3090", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kokstraat"
     }, 
     {

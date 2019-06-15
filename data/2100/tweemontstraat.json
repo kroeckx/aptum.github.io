@@ -435,9 +435,6 @@
       "street": "Tweemontstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "134"
       ], 
@@ -450,10 +447,6 @@
       "street": "Tweemontstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "135"
       ], 
@@ -599,9 +592,6 @@
       "street": "Tweemontstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "149"
       ], 
@@ -2012,6 +2002,10 @@
       "street": "Tweemontstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "253"
       ], 
@@ -2112,14 +2106,14 @@
     }, 
     {
       "hnrlbls": [
-        "26-36"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.23457065138, 
-      "lon": 4.454637846137, 
+      "lat": 51.234479216822, 
+      "lon": 4.45503684707, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
@@ -2244,6 +2238,7 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "101", 
         "201"
       ], 
@@ -2469,11 +2464,11 @@
         "289"
       ], 
       "housenumber": "289", 
-      "lat": 51.233626008177, 
-      "lon": 4.444413184265, 
+      "lat": 51.233625199596, 
+      "lon": 4.444412610253, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
@@ -2493,11 +2488,11 @@
         "291"
       ], 
       "housenumber": "291", 
-      "lat": 51.233561964522, 
-      "lon": 4.444485381098, 
+      "lat": 51.233553429303, 
+      "lon": 4.444479640235, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
@@ -2533,7 +2528,7 @@
       "lon": 4.444948794683, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
@@ -2716,10 +2711,6 @@
       "street": "Tweemontstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
         "311"
       ], 
@@ -2744,9 +2735,6 @@
       "street": "Tweemontstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "314"
       ], 
@@ -3162,86 +3150,86 @@
     }, 
     {
       "hnrlbls": [
-        "359-361"
+        "359"
       ], 
       "housenumber": "359", 
-      "lat": 51.232500511949, 
-      "lon": 4.443393555974, 
+      "lat": 51.232526364447, 
+      "lon": 4.443305692252, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
       "hnrlbls": [
-        "26-36"
+        "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.23457065138, 
-      "lon": 4.454637846137, 
+      "lat": 51.23445934627, 
+      "lon": 4.454678014621, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
       "hnrlbls": [
-        "359-361"
+        "361"
       ], 
       "housenumber": "361", 
-      "lat": 51.232500511949, 
-      "lon": 4.443393555974, 
+      "lat": 51.232509379034, 
+      "lon": 4.443301656116, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
       "hnrlbls": [
-        "363-365"
+        "363"
       ], 
       "housenumber": "363", 
-      "lat": 51.23244415788, 
-      "lon": 4.443389026685, 
+      "lat": 51.232472625464, 
+      "lon": 4.443287852626, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
       "hnrlbls": [
-        "363-365"
+        "365"
       ], 
       "housenumber": "365", 
-      "lat": 51.23244415788, 
-      "lon": 4.443389026685, 
+      "lat": 51.232456088921, 
+      "lon": 4.443284676235, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
       "hnrlbls": [
-        "367-369"
+        "367"
       ], 
       "housenumber": "367", 
-      "lat": 51.232380345402, 
-      "lon": 4.443381478824, 
+      "lat": 51.232413307515, 
+      "lon": 4.443279739478, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
       "hnrlbls": [
-        "367-369"
+        "369"
       ], 
       "housenumber": "369", 
-      "lat": 51.232380345402, 
-      "lon": 4.443381478824, 
+      "lat": 51.232396411711, 
+      "lon": 4.443276133011, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
@@ -3257,6 +3245,10 @@
       "street": "Tweemontstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "371"
       ], 
@@ -3333,11 +3325,11 @@
         "385"
       ], 
       "housenumber": "385", 
-      "lat": 51.232147843265, 
-      "lon": 4.443339870936, 
+      "lat": 51.232146386719, 
+      "lon": 4.443368788399, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
@@ -3349,7 +3341,7 @@
       "lon": 4.443330189036, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
@@ -3361,7 +3353,7 @@
       "lon": 4.443330189036, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
@@ -3505,13 +3497,10 @@
       "lon": 4.443313258901, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tweemontstraat"
     }, 
     {
-      "busnrs": [
-        "413"
-      ], 
       "hnrlbls": [
         "409"
       ], 
@@ -3674,6 +3663,10 @@
       "street": "Tweemontstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "437"
       ], 
@@ -3722,9 +3715,6 @@
       "street": "Tweemontstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "443"
       ], 
@@ -4068,9 +4058,6 @@
       "street": "Tweemontstraat"
     }, 
     {
-      "busnrs": [
-        "8"
-      ], 
       "hnrlbls": [
         "72"
       ], 

@@ -497,11 +497,11 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.058128270102, 
-      "lon": 3.31904012698, 
+      "lat": 51.058196548207, 
+      "lon": 3.319065414298, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ruiseledesteenweg"
     }, 
     {
@@ -950,6 +950,30 @@
       "street": "Ruiseledesteenweg"
     }, 
     {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.055901469047, 
+      "lon": 3.299581814869, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Ruiseledesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "49A"
+      ], 
+      "housenumber": "49A", 
+      "lat": 51.055885725304, 
+      "lon": 3.299709411783, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Ruiseledesteenweg"
+    }, 
+    {
       "apptnrs": [
         "001", 
         "002", 
@@ -1015,6 +1039,18 @@
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Ruiseledesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.055828671651, 
+      "lon": 3.300297974237, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Ruiseledesteenweg"
     }, 
     {

@@ -527,8 +527,8 @@
         "224"
       ], 
       "housenumber": "224", 
-      "lat": 50.84669558333, 
-      "lon": 5.541696832248, 
+      "lat": 50.846760622249, 
+      "lon": 5.541666219629, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -808,6 +808,18 @@
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "afgeleidVanGebouw", 
+      "street": "Riemsterweg"
+    }, 
+    {
+      "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 50.861660240012, 
+      "lon": 5.528042845218, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Riemsterweg"
     }, 
     {

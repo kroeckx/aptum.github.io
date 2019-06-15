@@ -185,8 +185,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.871063377527, 
-      "lon": 3.224422594522, 
+      "lat": 50.871062672191, 
+      "lon": 3.224414797081, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanGebouw", 
@@ -206,14 +206,26 @@
     }, 
     {
       "hnrlbls": [
+        "40B"
+      ], 
+      "housenumber": "40B", 
+      "lat": 50.871287896593, 
+      "lon": 3.224222331085, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Beiaardstraat"
+    }, 
+    {
+      "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.87132193651, 
-      "lon": 3.224237273689, 
+      "lat": 50.871369240701, 
+      "lon": 3.224164937482, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beiaardstraat"
     }, 
     {
@@ -221,8 +233,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.871448827265, 
-      "lon": 3.224111706943, 
+      "lat": 50.871448246415, 
+      "lon": 3.224107458536, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanGebouw", 

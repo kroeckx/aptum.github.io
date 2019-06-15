@@ -41,11 +41,11 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.265520808503, 
-      "lon": 4.638224114259, 
+      "lat": 51.265518658911, 
+      "lon": 4.638181407081, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Begijnenstraat"
     }, 
     {
@@ -85,7 +85,7 @@
       "street": "Begijnenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "b1", 
         "b2"
       ], 
@@ -113,9 +113,6 @@
       "street": "Begijnenstraat"
     }, 
     {
-      "busnrs": [
-        "b2"
-      ], 
       "hnrlbls": [
         "7"
       ], 

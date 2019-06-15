@@ -226,157 +226,12 @@
       "street": "Max Elskampstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "26-28"
-      ], 
-      "housenumber": "26", 
-      "lat": 51.189756672699, 
-      "lon": 4.373381883705, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Max Elskampstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
-      ], 
-      "hnrlbls": [
-        "26-28"
-      ], 
-      "housenumber": "28", 
-      "lat": 51.189756672699, 
-      "lon": 4.373381883705, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Max Elskampstraat"
-    }, 
-    {
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
       "lat": 51.190411363136, 
       "lon": 4.374039080799, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Max Elskampstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "30-32"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.189567014028, 
-      "lon": 4.373413473177, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Max Elskampstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "30-32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.189567014028, 
-      "lon": 4.373413473177, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Max Elskampstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
-      ], 
-      "hnrlbls": [
-        "34-36"
-      ], 
-      "housenumber": "34", 
-      "lat": 51.189408006509, 
-      "lon": 4.373436197685, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Max Elskampstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "34-36"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.189408006509, 
-      "lon": 4.373436197685, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Max Elskampstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
-      ], 
-      "hnrlbls": [
-        "38-40"
-      ], 
-      "housenumber": "38", 
-      "lat": 51.189239920517, 
-      "lon": 4.373460637416, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -395,107 +250,93 @@
       "street": "Max Elskampstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "38-40"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.189239920517, 
-      "lon": 4.373460637416, 
+      "lat": 51.189571956694, 
+      "lon": 4.373435644432, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Max Elskampstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "42-44"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.189080823051, 
-      "lon": 4.37348407677, 
+      "lat": 51.189496632542, 
+      "lon": 4.373447936888, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Max Elskampstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "42-44"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.189080823051, 
-      "lon": 4.37348407677, 
+      "lat": 51.189403511087, 
+      "lon": 4.37346194368, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Max Elskampstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "46-48"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.188893321899, 
-      "lon": 4.373507941752, 
+      "lat": 51.18927012098, 
+      "lon": 4.373479950741, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Max Elskampstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "46-48"
+        "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.188893321899, 
-      "lon": 4.373507941752, 
+      "lat": 51.189171965955, 
+      "lon": 4.373493956814, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Max Elskampstraat"
     }, 
     {
@@ -508,6 +349,36 @@
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
+      "street": "Max Elskampstraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 51.189085136431, 
+      "lon": 4.373507964151, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Max Elskampstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 51.188866175062, 
+      "lon": 4.373541980801, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Max Elskampstraat"
     }, 
     {

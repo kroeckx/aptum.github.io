@@ -996,8 +996,11 @@
     {
       "busnrs": [
         "BU01", 
-        "BU02", 
-        "BU04"
+        "BU04", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22"
       ], 
       "hnrlbls": [
         "19-21"
@@ -2235,8 +2238,8 @@
         "2-68"
       ], 
       "housenumber": "68", 
-      "lat": 50.993921454846, 
-      "lon": 5.518299014438, 
+      "lat": 50.993922005268, 
+      "lon": 5.518297888298, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 

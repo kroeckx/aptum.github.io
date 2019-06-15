@@ -293,8 +293,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.044599232445, 
-      "lon": 4.807882938308, 
+      "lat": 51.044603080593, 
+      "lon": 4.807887537545, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 
@@ -489,7 +489,7 @@
       "lon": 4.808303409479, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vennekensstraat"
     }, 
     {
@@ -501,7 +501,7 @@
       "lon": 4.808320137938, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vennekensstraat"
     }, 
     {
@@ -789,6 +789,18 @@
       "lon": 4.807366392432, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vennekensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 51.047865818174, 
+      "lon": 4.806234590677, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
       "source": "manueleAanduidingVanPerceel", 
       "street": "Vennekensstraat"
     }, 
@@ -802,6 +814,18 @@
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Vennekensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.048012973314, 
+      "lon": 4.806185343018, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Vennekensstraat"
     }, 
     {
@@ -905,8 +929,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.048861587793, 
-      "lon": 4.806173892152, 
+      "lat": 51.048859008622, 
+      "lon": 4.806166452335, 
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 

@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.935739387126, 
+      "lon": 5.346265932585, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Elfde-Liniestraat"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -10,18 +22,6 @@
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
-      "street": "Elfde-Liniestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16"
-      ], 
-      "housenumber": "16", 
-      "lat": 50.935630448424, 
-      "lon": 5.346306628165, 
-      "municipality": "Hasselt", 
-      "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Elfde-Liniestraat"
     }, 
     {
@@ -142,8 +142,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.93526213173, 
-      "lon": 5.347741034785, 
+      "lat": 50.935228815339, 
+      "lon": 5.347628796553, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -154,8 +154,8 @@
         "21-21A"
       ], 
       "housenumber": "21A", 
-      "lat": 50.93526213173, 
-      "lon": 5.347741034785, 
+      "lat": 50.935228815339, 
+      "lon": 5.347628796553, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

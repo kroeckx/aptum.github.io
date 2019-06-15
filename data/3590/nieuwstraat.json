@@ -806,6 +806,22 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "163"
+      ], 
+      "housenumber": "163", 
+      "lat": 50.923925808031, 
+      "lon": 5.450342554343, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
       "hnrlbls": [
         "164"
       ], 
@@ -815,6 +831,38 @@
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "165"
+      ], 
+      "housenumber": "165", 
+      "lat": 50.924020042566, 
+      "lon": 5.450535901469, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "11"
+      ], 
+      "hnrlbls": [
+        "165A"
+      ], 
+      "housenumber": "165A", 
+      "lat": 50.924082208914, 
+      "lon": 5.450687259167, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -879,8 +927,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "1"
       ], 
       "hnrlbls": [
         "173"
@@ -915,6 +962,21 @@
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "apptnrs": [
+        "11"
+      ], 
+      "hnrlbls": [
+        "177"
+      ], 
+      "housenumber": "177", 
+      "lat": 50.925482160109, 
+      "lon": 5.453494509787, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -1293,6 +1355,11 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "12"
+      ], 
       "hnrlbls": [
         "219"
       ], 
@@ -1425,11 +1492,6 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
         "228"
       ], 
@@ -1566,6 +1628,10 @@
       "street": "Nieuwstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11"
+      ], 
       "hnrlbls": [
         "76"
       ], 

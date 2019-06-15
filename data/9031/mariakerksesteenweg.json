@@ -33,7 +33,7 @@
       "lon": 3.660030296051, 
       "municipality": "Gent", 
       "pcode": "9031", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerksesteenweg"
     }, 
     {
@@ -415,18 +415,6 @@
       "housenumber": "137", 
       "lat": 51.056045831167, 
       "lon": 3.660366513346, 
-      "municipality": "Gent", 
-      "pcode": "9031", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Mariakerksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "140"
-      ], 
-      "housenumber": "140", 
-      "lat": 51.062876190882, 
-      "lon": 3.658632214735, 
       "municipality": "Gent", 
       "pcode": "9031", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1097,11 +1085,11 @@
         "225"
       ], 
       "housenumber": "225", 
-      "lat": 51.063288545866, 
-      "lon": 3.656175397319, 
+      "lat": 51.063230686932, 
+      "lon": 3.656165863704, 
       "municipality": "Gent", 
       "pcode": "9031", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerksesteenweg"
     }, 
     {
@@ -1109,11 +1097,11 @@
         "225A"
       ], 
       "housenumber": "225A", 
-      "lat": 51.063360090873, 
-      "lon": 3.656069598187, 
+      "lat": 51.063284103616, 
+      "lon": 3.65606504825, 
       "municipality": "Gent", 
       "pcode": "9031", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerksesteenweg"
     }, 
     {
@@ -1121,11 +1109,11 @@
         "227"
       ], 
       "housenumber": "227", 
-      "lat": 51.063475192733, 
-      "lon": 3.655912349628, 
+      "lat": 51.063366408267, 
+      "lon": 3.655820850138, 
       "municipality": "Gent", 
       "pcode": "9031", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mariakerksesteenweg"
     }, 
     {
@@ -1742,7 +1730,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37a"
+        "37-37A"
       ], 
       "housenumber": "37", 
       "lat": 51.052585550787, 
@@ -1754,9 +1742,9 @@
     }, 
     {
       "hnrlbls": [
-        "37-37a"
+        "37-37A"
       ], 
-      "housenumber": "37a", 
+      "housenumber": "37A", 
       "lat": 51.052585550787, 
       "lon": 3.661997408618, 
       "municipality": "Gent", 
@@ -1959,18 +1947,6 @@
       "municipality": "Gent", 
       "pcode": "9031", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Mariakerksesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "491"
-      ], 
-      "housenumber": "491", 
-      "lat": 51.058265145568, 
-      "lon": 3.659055305254, 
-      "municipality": "Gent", 
-      "pcode": "9031", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Mariakerksesteenweg"
     }, 
     {
@@ -2362,8 +2338,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.056400001428, 
-      "lon": 3.661158492881, 
+      "lat": 51.056209491222, 
+      "lon": 3.660944422209, 
       "municipality": "Gent", 
       "pcode": "9031", 
       "source": "manueleAanduidingVanGebouw", 

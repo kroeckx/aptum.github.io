@@ -29,8 +29,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.139030335561, 
-      "lon": 5.571884246978, 
+      "lat": 51.13902016659, 
+      "lon": 5.571885270992, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -41,8 +41,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.13908210533, 
-      "lon": 5.57151518229, 
+      "lat": 51.139078700284, 
+      "lon": 5.57151409425, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -185,18 +185,18 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.139545428231, 
-      "lon": 5.561841644242, 
+      "lat": 51.139276843589, 
+      "lon": 5.561776332967, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Peerderbaan"
     }, 
     {
       "hnrlbls": [
-        "134-1010"
+        "134A"
       ], 
-      "housenumber": "134", 
+      "housenumber": "134A", 
       "lat": 51.139252554319, 
       "lon": 5.560710956531, 
       "municipality": "Bree", 
@@ -206,14 +206,14 @@
     }, 
     {
       "hnrlbls": [
-        "134-1010"
+        "134B"
       ], 
-      "housenumber": "134C", 
-      "lat": 51.139252554319, 
-      "lon": 5.560710956531, 
+      "housenumber": "134B", 
+      "lat": 51.139428848717, 
+      "lon": 5.561048561718, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Peerderbaan"
     }, 
     {
@@ -226,6 +226,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Peerderbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "138"
+      ], 
+      "housenumber": "138", 
+      "lat": 51.139171090802, 
+      "lon": 5.558735988699, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Peerderbaan"
     }, 
     {
@@ -380,8 +392,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.140151506267, 
-      "lon": 5.584051293933, 
+      "lat": 51.140152776287, 
+      "lon": 5.584050183762, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -431,8 +443,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.140288967032, 
-      "lon": 5.583439809971, 
+      "lat": 51.140286437174, 
+      "lon": 5.583432313084, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -455,8 +467,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.140190011623, 
-      "lon": 5.582966078517, 
+      "lat": 51.140178283809, 
+      "lon": 5.582970060594, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -503,11 +515,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.139165566293, 
-      "lon": 5.581380519852, 
+      "lat": 51.139330634149, 
+      "lon": 5.580968105917, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Peerderbaan"
     }, 
     {
@@ -599,8 +611,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.139858509902, 
-      "lon": 5.586423868953, 
+      "lat": 51.139874837658, 
+      "lon": 5.586418435819, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -650,8 +662,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.139969105147, 
-      "lon": 5.5798906145, 
+      "lat": 51.139963799217, 
+      "lon": 5.57988204551, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -689,11 +701,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.139453559982, 
-      "lon": 5.579546848495, 
+      "lat": 51.139455646996, 
+      "lon": 5.579562478971, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Peerderbaan"
     }, 
     {
@@ -701,8 +713,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.139420289151, 
-      "lon": 5.579433807347, 
+      "lat": 51.139429192609, 
+      "lon": 5.579433466655, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -725,8 +737,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.139466639839, 
-      "lon": 5.579323545718, 
+      "lat": 51.139463573836, 
+      "lon": 5.579324466522, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -749,8 +761,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.139513803196, 
-      "lon": 5.579116560022, 
+      "lat": 51.13951271737, 
+      "lon": 5.57911724638, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -821,8 +833,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.139286090637, 
-      "lon": 5.577433275858, 
+      "lat": 51.139284341454, 
+      "lon": 5.577428514812, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -917,8 +929,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.139207908269, 
-      "lon": 5.575621834221, 
+      "lat": 51.139202568407, 
+      "lon": 5.575616551717, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -941,8 +953,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.139136359221, 
-      "lon": 5.574407754247, 
+      "lat": 51.139128906916, 
+      "lon": 5.574406847265, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -965,8 +977,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.139123555774, 
-      "lon": 5.574121192754, 
+      "lat": 51.13911275036, 
+      "lon": 5.574122914354, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -989,8 +1001,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.139110940138, 
-      "lon": 5.573833778879, 
+      "lat": 51.13909941719, 
+      "lon": 5.57383533912, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1013,8 +1025,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.139095573565, 
-      "lon": 5.573551581512, 
+      "lat": 51.139084408661, 
+      "lon": 5.573553293964, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1049,8 +1061,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.139080113526, 
-      "lon": 5.573269667738, 
+      "lat": 51.139068590585, 
+      "lon": 5.573271228118, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1061,8 +1073,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.139595141453, 
-      "lon": 5.573665793098, 
+      "lat": 51.139593830667, 
+      "lon": 5.573670903753, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1073,8 +1085,8 @@
         "93"
       ], 
       "housenumber": "93", 
-      "lat": 51.139069763106, 
-      "lon": 5.572980312238, 
+      "lat": 51.139057429837, 
+      "lon": 5.572981994685, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1097,8 +1109,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.138900959761, 
-      "lon": 5.572687156033, 
+      "lat": 51.138887811789, 
+      "lon": 5.572689389141, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1121,8 +1133,8 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.138955809004, 
-      "lon": 5.57237776209, 
+      "lat": 51.138941583999, 
+      "lon": 5.572379824616, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1145,8 +1157,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.138992845667, 
-      "lon": 5.572131213233, 
+      "lat": 51.138978887376, 
+      "lon": 5.572133568513, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 

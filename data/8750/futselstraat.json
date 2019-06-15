@@ -1,15 +1,22 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.058559017881, 
-      "lon": 3.277979070576, 
+      "lat": 51.058481916174, 
+      "lon": 3.278040780412, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Futselstraat"
     }, 
     {
@@ -218,6 +225,18 @@
     }, 
     {
       "hnrlbls": [
+        "24A"
+      ], 
+      "housenumber": "24A", 
+      "lat": 51.059564966568, 
+      "lon": 3.277316398523, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Futselstraat"
+    }, 
+    {
+      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -301,15 +320,21 @@
       "street": "Futselstraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.058584207901, 
-      "lon": 3.277796460174, 
+      "lat": 51.058579436518, 
+      "lon": 3.277970606383, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Futselstraat"
     }, 
     {

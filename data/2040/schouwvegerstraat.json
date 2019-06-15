@@ -1,9 +1,6 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -22,6 +19,18 @@
       "housenumber": "10B", 
       "lat": 51.339917808627, 
       "lon": 4.316917827564, 
+      "municipality": "Antwerpen", 
+      "pcode": "2040", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schouwvegerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "10C"
+      ], 
+      "housenumber": "10C", 
+      "lat": 51.339996989715, 
+      "lon": 4.3171202181, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 
@@ -144,15 +153,24 @@
       "street": "Schouwvegerstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "18"
       ], 
       "housenumber": "18", 
       "lat": 51.340407963151, 
       "lon": 4.319584247829, 
+      "municipality": "Antwerpen", 
+      "pcode": "2040", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Schouwvegerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "18_1"
+      ], 
+      "housenumber": "18_1", 
+      "lat": 51.340347193589, 
+      "lon": 4.319338064408, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 

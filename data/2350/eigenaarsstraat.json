@@ -53,8 +53,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.312350877376, 
-      "lon": 4.889664622053, 
+      "lat": 51.312352141355, 
+      "lon": 4.889663345463, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -65,8 +65,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.312361637249, 
-      "lon": 4.890506891093, 
+      "lat": 51.312383030887, 
+      "lon": 4.89052692293, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -329,11 +329,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.311687126675, 
-      "lon": 4.891348768817, 
+      "lat": 51.311745656948, 
+      "lon": 4.891385711188, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Eigenaarsstraat"
     }, 
     {
@@ -377,8 +377,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.311622032124, 
-      "lon": 4.891475246269, 
+      "lat": 51.311621757421, 
+      "lon": 4.891476390503, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -425,8 +425,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.311465344279, 
-      "lon": 4.891825997718, 
+      "lat": 51.311481958453, 
+      "lon": 4.89182919643, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -521,8 +521,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.310783133182, 
-      "lon": 4.891785477782, 
+      "lat": 51.310767682491, 
+      "lon": 4.891763074918, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -865,8 +865,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.309622872985, 
-      "lon": 4.892711463883, 
+      "lat": 51.309628039873, 
+      "lon": 4.892701626895, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 
@@ -1045,6 +1045,24 @@
       "housenumber": "95", 
       "lat": 51.308714322184, 
       "lon": 4.892410249493, 
+      "municipality": "Vosselaar", 
+      "pcode": "2350", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Eigenaarsstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
+      "hnrlbls": [
+        "97"
+      ], 
+      "housenumber": "97", 
+      "lat": 51.308574812183, 
+      "lon": 4.892331668581, 
       "municipality": "Vosselaar", 
       "pcode": "2350", 
       "source": "afgeleidVanGebouw", 

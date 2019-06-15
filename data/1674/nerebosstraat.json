@@ -2,14 +2,38 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "12"
       ], 
-      "housenumber": "1", 
-      "lat": 50.739598070446, 
-      "lon": 4.154811683836, 
+      "housenumber": "12", 
+      "lat": 50.737401499591, 
+      "lon": 4.152114556999, 
       "municipality": "Pepingen", 
       "pcode": "1674", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nerebosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "14"
+      ], 
+      "housenumber": "14", 
+      "lat": 50.737140888056, 
+      "lon": 4.150708179932, 
+      "municipality": "Pepingen", 
+      "pcode": "1674", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nerebosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 50.73779461464, 
+      "lon": 4.14925464849, 
+      "municipality": "Pepingen", 
+      "pcode": "1674", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nerebosstraat"
     }, 
     {
@@ -17,23 +41,47 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.739464518697, 
-      "lon": 4.154536030311, 
+      "lat": 50.739734857096, 
+      "lon": 4.154988154197, 
       "municipality": "Pepingen", 
       "pcode": "1674", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nerebosstraat"
     }, 
     {
       "hnrlbls": [
-        "3"
+        "4"
       ], 
-      "housenumber": "3", 
-      "lat": 50.739240226261, 
-      "lon": 4.154389993227, 
+      "housenumber": "4", 
+      "lat": 50.739603085844, 
+      "lon": 4.15480131914, 
       "municipality": "Pepingen", 
       "pcode": "1674", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nerebosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.73946701488, 
+      "lon": 4.154524543666, 
+      "municipality": "Pepingen", 
+      "pcode": "1674", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nerebosstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.739239574214, 
+      "lon": 4.154377529216, 
+      "municipality": "Pepingen", 
+      "pcode": "1674", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nerebosstraat"
     }
   ]

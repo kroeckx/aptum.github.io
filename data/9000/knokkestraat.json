@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-112"
+        "1-5"
       ], 
       "housenumber": "1", 
-      "lat": 51.037143840374, 
-      "lon": 3.712995975592, 
+      "lat": 51.037163071575, 
+      "lon": 3.712978739877, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Knokkestraat"
     }, 
     {
@@ -462,14 +462,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-112"
+        "1-5"
       ], 
       "housenumber": "3", 
-      "lat": 51.037143840374, 
-      "lon": 3.712995975592, 
+      "lat": 51.037163071575, 
+      "lon": 3.712978739877, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Knokkestraat"
     }, 
     {
@@ -806,6 +806,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Knokkestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1-5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.037163071575, 
+      "lon": 3.712978739877, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Knokkestraat"
     }, 
     {

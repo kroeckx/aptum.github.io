@@ -34,12 +34,22 @@
       "street": "Sluisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.884914366238, 
-      "lon": 4.699587787957, 
+      "lat": 50.884916356693, 
+      "lon": 4.699646919888, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -71,8 +81,8 @@
         "14-22"
       ], 
       "housenumber": "14", 
-      "lat": 50.886149724723, 
-      "lon": 4.700470366936, 
+      "lat": 50.886254157837, 
+      "lon": 4.700510898062, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -123,8 +133,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.884965883505, 
-      "lon": 4.699553334526, 
+      "lat": 50.884991106945, 
+      "lon": 4.699439113576, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -149,8 +159,8 @@
         "14-22"
       ], 
       "housenumber": "16", 
-      "lat": 50.886149724723, 
-      "lon": 4.700470366936, 
+      "lat": 50.886254157837, 
+      "lon": 4.700510898062, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -175,8 +185,8 @@
         "14-22"
       ], 
       "housenumber": "18", 
-      "lat": 50.886149724723, 
-      "lon": 4.700470366936, 
+      "lat": 50.886254157837, 
+      "lon": 4.700510898062, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -187,8 +197,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.885044785666, 
-      "lon": 4.699626083614, 
+      "lat": 50.885041829564, 
+      "lon": 4.69968603345, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -286,8 +296,8 @@
         "14-22"
       ], 
       "housenumber": "20", 
-      "lat": 50.886149724723, 
-      "lon": 4.700470366936, 
+      "lat": 50.886254157837, 
+      "lon": 4.700510898062, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -298,8 +308,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.885085926264, 
-      "lon": 4.699637174455, 
+      "lat": 50.88508593068, 
+      "lon": 4.699635611267, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -323,8 +333,8 @@
         "14-22"
       ], 
       "housenumber": "22", 
-      "lat": 50.886149724723, 
-      "lon": 4.700470366936, 
+      "lat": 50.886254157837, 
+      "lon": 4.700510898062, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -379,8 +389,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.885165441665, 
-      "lon": 4.699620114019, 
+      "lat": 50.885161463418, 
+      "lon": 4.699691852009, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -408,8 +418,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.885197564406, 
-      "lon": 4.69967306401, 
+      "lat": 50.885197651488, 
+      "lon": 4.699674059403, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -444,8 +454,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.884642040197, 
-      "lon": 4.699663457563, 
+      "lat": 50.884641681828, 
+      "lon": 4.699663028704, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -568,6 +578,18 @@
       "housenumber": "37", 
       "lat": 50.885554318136, 
       "lon": 4.699687093875, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Sluisstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.886775055532, 
+      "lon": 4.700780199789, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -717,8 +739,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.884699617243, 
-      "lon": 4.699647805663, 
+      "lat": 50.884700091567, 
+      "lon": 4.699670830773, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

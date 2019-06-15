@@ -220,8 +220,11 @@
       "street": "Volkenbondstraat"
     }, 
     {
+      "busnrs": [
+        "B001"
+      ], 
       "hnrlbls": [
-        "141-145B"
+        "141-153"
       ], 
       "housenumber": "141", 
       "lat": 51.113889329009, 
@@ -233,13 +236,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "B001", 
+        "B002"
       ], 
       "hnrlbls": [
-        "141-145B"
+        "141-153"
       ], 
-      "housenumber": "141B", 
+      "housenumber": "143", 
       "lat": 51.113889329009, 
       "lon": 4.323214531081, 
       "municipality": "Niel", 
@@ -249,13 +252,14 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "B001", 
+        "B002", 
+        "B003"
       ], 
       "hnrlbls": [
-        "141-145B"
+        "141-153"
       ], 
-      "housenumber": "143B", 
+      "housenumber": "145", 
       "lat": 51.113889329009, 
       "lon": 4.323214531081, 
       "municipality": "Niel", 
@@ -265,14 +269,15 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "B001", 
+        "B002", 
+        "B003", 
+        "B004"
       ], 
       "hnrlbls": [
-        "141-145B"
+        "141-153"
       ], 
-      "housenumber": "145B", 
+      "housenumber": "147", 
       "lat": 51.113889329009, 
       "lon": 4.323214531081, 
       "municipality": "Niel", 
@@ -282,71 +287,53 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "B001", 
+        "B002", 
+        "B003"
       ], 
       "hnrlbls": [
-        "147B"
+        "141-153"
       ], 
-      "housenumber": "147B", 
-      "lat": 51.113985463251, 
-      "lon": 4.323095339142, 
+      "housenumber": "149", 
+      "lat": 51.113889329009, 
+      "lon": 4.323214531081, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Volkenbondstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "B001", 
+        "B002", 
+        "B003"
       ], 
       "hnrlbls": [
-        "149B-153B"
+        "141-153"
       ], 
-      "housenumber": "149B", 
-      "lat": 51.112418140368, 
-      "lon": 4.324657229151, 
+      "housenumber": "151", 
+      "lat": 51.113889329009, 
+      "lon": 4.323214531081, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Volkenbondstraat"
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3"
+        "B001", 
+        "B002", 
+        "B003"
       ], 
       "hnrlbls": [
-        "149B-153B"
+        "141-153"
       ], 
-      "housenumber": "151B", 
-      "lat": 51.112418140368, 
-      "lon": 4.324657229151, 
+      "housenumber": "153", 
+      "lat": 51.113889329009, 
+      "lon": 4.323214531081, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanStraat", 
-      "street": "Volkenbondstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "149B-153B"
-      ], 
-      "housenumber": "153B", 
-      "lat": 51.112418140368, 
-      "lon": 4.324657229151, 
-      "municipality": "Niel", 
-      "pcode": "2845", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanGebouw", 
       "street": "Volkenbondstraat"
     }, 
     {

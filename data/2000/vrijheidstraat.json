@@ -188,6 +188,11 @@
       "street": "Vrijheidstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "23"
       ], 
@@ -259,6 +264,10 @@
       "street": "Vrijheidstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "28"
       ], 
@@ -872,12 +881,6 @@
       "street": "Vrijheidstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
         "72"
       ], 

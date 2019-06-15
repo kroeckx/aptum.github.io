@@ -497,6 +497,10 @@
       "street": "Beersebaan"
     }, 
     {
+      "apptnrs": [
+        "Bus1", 
+        "Bus2"
+      ], 
       "hnrlbls": [
         "147"
       ], 
@@ -1251,12 +1255,6 @@
       "street": "Beersebaan"
     }, 
     {
-      "apptnrs": [
-        "Bus1", 
-        "Bus2", 
-        "Bus3", 
-        "Bus4"
-      ], 
       "hnrlbls": [
         "81"
       ], 

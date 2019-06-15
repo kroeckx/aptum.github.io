@@ -26,11 +26,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.269860427417, 
-      "lon": 5.082337888388, 
+      "lat": 51.269826138769, 
+      "lon": 5.082404422164, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boesdijkhofstraat"
     }, 
     {
@@ -38,8 +38,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.270106059109, 
-      "lon": 5.082074274995, 
+      "lat": 51.270099145412, 
+      "lon": 5.082087924906, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -182,8 +182,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.269775649479, 
-      "lon": 5.081490893057, 
+      "lat": 51.269763304308, 
+      "lon": 5.08151090779, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -194,8 +194,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.271450889138, 
-      "lon": 5.084967092401, 
+      "lat": 51.271454868929, 
+      "lon": 5.08496299811, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -262,15 +262,22 @@
       "street": "Boesdijkhofstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.271340713181, 
-      "lon": 5.083997729015, 
+      "lat": 51.271318038576, 
+      "lon": 5.0839124069, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Boesdijkhofstraat"
     }, 
     {

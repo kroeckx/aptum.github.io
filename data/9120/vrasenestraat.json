@@ -29,11 +29,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.213482637651, 
-      "lon": 4.254399859798, 
+      "lat": 51.213520838007, 
+      "lon": 4.254492931516, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vrasenestraat"
     }, 
     {
@@ -49,15 +49,41 @@
       "street": "Vrasenestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "403"
+      ], 
       "hnrlbls": [
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.2135899227, 
-      "lon": 4.254361674035, 
+      "lat": 51.21356152013, 
+      "lon": 4.254456053063, 
       "municipality": "Beveren", 
       "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Vrasenestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 51.213606868918, 
+      "lon": 4.254411578314, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vrasenestraat"
     }, 
     {
@@ -457,6 +483,26 @@
       "street": "Vrasenestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.213299408419, 
+      "lon": 4.255008951653, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Vrasenestraat"
+    }, 
+    {
       "hnrlbls": [
         "40"
       ], 
@@ -549,6 +595,50 @@
       "street": "Vrasenestraat"
     }, 
     {
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 51.214619132047, 
+      "lon": 4.253652755595, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Vrasenestraat"
+    }, 
+    {
+      "apptnrs": [
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
+      ], 
+      "hnrlbls": [
+        "46A"
+      ], 
+      "housenumber": "46A", 
+      "lat": 51.214654545327, 
+      "lon": 4.253744547778, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Vrasenestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "46B"
+      ], 
+      "housenumber": "46B", 
+      "lat": 51.214751705188, 
+      "lon": 4.25392549206, 
+      "municipality": "Beveren", 
+      "pcode": "9120", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Vrasenestraat"
+    }, 
+    {
       "apptnrs": [
         "001", 
         "002", 
@@ -563,30 +653,6 @@
       "housenumber": "47", 
       "lat": 51.214604780759, 
       "lon": 4.253127849937, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Vrasenestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "48"
-      ], 
-      "housenumber": "48", 
-      "lat": 51.214606944517, 
-      "lon": 4.25359782985, 
-      "municipality": "Beveren", 
-      "pcode": "9120", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Vrasenestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "48A"
-      ], 
-      "housenumber": "48A", 
-      "lat": 51.214647442001, 
-      "lon": 4.253556227456, 
       "municipality": "Beveren", 
       "pcode": "9120", 
       "source": "manueleAanduidingVanGebouw", 

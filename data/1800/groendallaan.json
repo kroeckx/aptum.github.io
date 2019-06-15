@@ -466,8 +466,10 @@
       "apptnrs": [
         "0", 
         "1", 
-        "2", 
         "3"
+      ], 
+      "busnrs": [
+        "02/1"
       ], 
       "hnrlbls": [
         "65"
@@ -521,11 +523,10 @@
       "street": "Groendallaan"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1", 
-        "2", 
-        "3"
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "O000"
       ], 
       "hnrlbls": [
         "69"
@@ -563,8 +564,10 @@
       "street": "Groendallaan"
     }, 
     {
-      "apptnrs": [
-        "3"
+      "busnrs": [
+        "01/1", 
+        "02/1", 
+        "03/1"
       ], 
       "hnrlbls": [
         "71"

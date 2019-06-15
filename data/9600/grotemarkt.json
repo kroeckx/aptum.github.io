@@ -148,6 +148,7 @@
       "busnrs": [
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202", 
         "0301", 
@@ -413,6 +414,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201"
       ], 
       "hnrlbls": [
@@ -428,20 +430,21 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
         "0201", 
-        "0301", 
-        "101", 
-        "2"
+        "0301"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.747835752142, 
-      "lon": 3.601720982829, 
+      "lat": 50.747956271222, 
+      "lon": 3.601591347538, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Markt"
     }, 
     {

@@ -349,6 +349,11 @@
       "street": "Burgemeester Brosensstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "42"
       ], 
@@ -373,6 +378,11 @@
       "street": "Burgemeester Brosensstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "44"
       ], 
@@ -413,11 +423,11 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.403576097622, 
-      "lon": 4.756037824965, 
+      "lat": 51.403798117786, 
+      "lon": 4.756168864656, 
       "municipality": "Hoogstraten", 
       "pcode": "2320", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Burgemeester Brosensstraat"
     }, 
     {

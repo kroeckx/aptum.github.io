@@ -655,18 +655,6 @@
     }, 
     {
       "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.211920341777, 
-      "lon": 3.219670920458, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ezelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -694,8 +682,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.211950768494, 
-      "lon": 3.219638254866, 
+      "lat": 51.211935020762, 
+      "lon": 3.219655101755, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1179,18 +1167,6 @@
     }, 
     {
       "hnrlbls": [
-        "1-58"
-      ], 
-      "housenumber": "58", 
-      "lat": 51.213582153252, 
-      "lon": 3.218202012575, 
-      "municipality": "Brugge", 
-      "pcode": "8000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ezelstraat"
-    }, 
-    {
-      "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
@@ -1226,16 +1202,12 @@
       "street": "Ezelstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "3"
-      ], 
       "hnrlbls": [
-        "60"
+        "1-68"
       ], 
       "housenumber": "60", 
-      "lat": 51.213630805924, 
-      "lon": 3.218148571289, 
+      "lat": 51.213790153176, 
+      "lon": 3.21830193972, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1255,11 +1227,11 @@
     }, 
     {
       "hnrlbls": [
-        "62"
+        "1-68"
       ], 
       "housenumber": "62", 
-      "lat": 51.213679655023, 
-      "lon": 3.218096842581, 
+      "lat": 51.213790153176, 
+      "lon": 3.21830193972, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1286,11 +1258,11 @@
     }, 
     {
       "hnrlbls": [
-        "64"
+        "1-68"
       ], 
       "housenumber": "64", 
-      "lat": 51.213717975607, 
-      "lon": 3.218053245451, 
+      "lat": 51.213790153176, 
+      "lon": 3.21830193972, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1309,12 +1281,18 @@
       "street": "Ezelstraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
-        "66"
+        "1-68"
       ], 
       "housenumber": "66", 
-      "lat": 51.213748953011, 
-      "lon": 3.218012548782, 
+      "lat": 51.213790153176, 
+      "lon": 3.21830193972, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1337,11 +1315,11 @@
     }, 
     {
       "hnrlbls": [
-        "68"
+        "1-68"
       ], 
       "housenumber": "68", 
-      "lat": 51.213810889056, 
-      "lon": 3.217919991742, 
+      "lat": 51.213790153176, 
+      "lon": 3.21830193972, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1376,6 +1354,38 @@
       "housenumber": "7", 
       "lat": 51.211630370901, 
       "lon": 3.220025703239, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ezelstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "70-70A"
+      ], 
+      "housenumber": "70", 
+      "lat": 51.214116646682, 
+      "lon": 3.218125855964, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ezelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "70-70A"
+      ], 
+      "housenumber": "70A", 
+      "lat": 51.214116646682, 
+      "lon": 3.218125855964, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1426,11 +1436,11 @@
         "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.213992506763, 
-      "lon": 3.217655160976, 
+      "lat": 51.213905843867, 
+      "lon": 3.217756343895, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ezelstraat"
     }, 
     {
@@ -1478,8 +1488,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.213948286717, 
-      "lon": 3.217702196187, 
+      "lat": 51.213990729542, 
+      "lon": 3.217648048381, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 
@@ -1499,7 +1509,7 @@
     }, 
     {
       "hnrlbls": [
-        "8"
+        "8-8A"
       ], 
       "housenumber": "8", 
       "lat": 51.211780587396, 
@@ -1628,6 +1638,18 @@
     }, 
     {
       "hnrlbls": [
+        "8-8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 51.211780587396, 
+      "lon": 3.220414731767, 
+      "municipality": "Brugge", 
+      "pcode": "8000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ezelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
@@ -1643,8 +1665,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.214245278296, 
-      "lon": 3.217192055433, 
+      "lat": 51.214244942485, 
+      "lon": 3.217194496924, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "afgeleidVanGebouw", 

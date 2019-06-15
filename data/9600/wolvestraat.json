@@ -101,8 +101,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.751073636459, 
-      "lon": 3.603323933114, 
+      "lat": 50.751037133972, 
+      "lon": 3.603254803191, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -465,11 +465,6 @@
       "street": "Wolvestraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101", 
-        "0201"
-      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -924,6 +919,7 @@
     {
       "busnrs": [
         "0001", 
+        "0002", 
         "0101"
       ], 
       "hnrlbls": [
@@ -969,18 +965,18 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.751023416735, 
-      "lon": 3.603219314373, 
+      "lat": 50.751004344029, 
+      "lon": 3.60316223054, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wolvestraat"
     }, 
     {

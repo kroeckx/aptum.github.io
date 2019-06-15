@@ -313,6 +313,11 @@
       "street": "Jan Rosierlaan"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "5"
       ], 
@@ -341,8 +346,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.888313844143, 
-      "lon": 5.656200266745, 
+      "lat": 50.888312333327, 
+      "lon": 5.656198661758, 
       "municipality": "Lanaken", 
       "pcode": "3620", 
       "source": "afgeleidVanGebouw", 
@@ -455,8 +460,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 50.888323015755, 
-      "lon": 5.654806688234, 
+      "lat": 50.888294556178, 
+      "lon": 5.654778333198, 
       "municipality": "Lanaken", 
       "pcode": "3620", 
       "source": "afgeleidVanGebouw", 

@@ -5,23 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.135242023736, 
-      "lon": 2.781191075708, 
+      "lat": 51.134629450601, 
+      "lon": 2.786123395256, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Nieuwendammeweg"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.134977621754, 
-      "lon": 2.782416155904, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwendammeweg"
     }, 
     {
@@ -29,11 +17,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.134181231233, 
-      "lon": 2.779068327075, 
+      "lat": 51.132117039887, 
+      "lon": 2.786267781644, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Nieuwendammeweg"
     }, 
     {
@@ -70,18 +58,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Nieuwendammeweg"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-19"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.134977621754, 
-      "lon": 2.782416155904, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Nieuwendammeweg"
     }
   ]

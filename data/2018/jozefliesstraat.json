@@ -127,6 +127,11 @@
       "street": "Jozef Liesstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -248,18 +253,21 @@
     }, 
     {
       "apptnrs": [
+        "101", 
         "102", 
-        "202"
+        "201", 
+        "202", 
+        "301"
       ], 
       "hnrlbls": [
-        "28-31A"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.205215574516, 
-      "lon": 4.395089449532, 
+      "lat": 51.205247116018, 
+      "lon": 4.395124094326, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Jozef Liesstraat"
     }, 
     {

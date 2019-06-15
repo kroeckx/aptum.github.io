@@ -2151,6 +2151,12 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "255"
       ], 
@@ -3372,14 +3378,14 @@
     }, 
     {
       "hnrlbls": [
-        "6-8"
+        "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.2201070503, 
-      "lon": 4.456414863706, 
+      "lat": 51.220180319081, 
+      "lon": 4.456276595165, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {
@@ -3548,8 +3554,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.220796602208, 
-      "lon": 4.458720604937, 
+      "lat": 51.220795433609, 
+      "lon": 4.458720745797, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -3577,8 +3583,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.220623394196, 
-      "lon": 4.458839926558, 
+      "lat": 51.220623397713, 
+      "lon": 4.458835346339, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3611,8 +3617,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.220684442285, 
-      "lon": 4.45893494209, 
+      "lat": 51.220678961353, 
+      "lon": 4.458932355028, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -3659,14 +3665,14 @@
         "2"
       ], 
       "hnrlbls": [
-        "6-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.2201070503, 
-      "lon": 4.456414863706, 
+      "lat": 51.220191595087, 
+      "lon": 4.456342742892, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Turnhoutsebaan"
     }, 
     {

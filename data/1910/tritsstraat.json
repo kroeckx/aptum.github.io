@@ -65,8 +65,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.942080174557, 
-      "lon": 4.549038713251, 
+      "lat": 50.94207729844, 
+      "lon": 4.54903841759, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "manueleAanduidingVanGebouw", 
@@ -77,8 +77,8 @@
         "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 50.942139375861, 
-      "lon": 4.54900507837, 
+      "lat": 50.942137761304, 
+      "lon": 4.549002795621, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "manueleAanduidingVanGebouw", 
@@ -99,8 +99,8 @@
         "1C"
       ], 
       "housenumber": "1C", 
-      "lat": 50.942218728371, 
-      "lon": 4.548961561315, 
+      "lat": 50.942217110747, 
+      "lon": 4.548961270511, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "manueleAanduidingVanGebouw", 
@@ -111,8 +111,8 @@
         "1D"
       ], 
       "housenumber": "1D", 
-      "lat": 50.942301853276, 
-      "lon": 4.548920050619, 
+      "lat": 50.942298980225, 
+      "lon": 4.548917763012, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "manueleAanduidingVanGebouw", 
@@ -207,8 +207,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.944915047629, 
-      "lon": 4.547211676766, 
+      "lat": 50.944915051099, 
+      "lon": 4.547209400122, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -251,15 +251,23 @@
       "street": "Tritsstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.942432546097, 
-      "lon": 4.548869047844, 
+      "lat": 50.942452391414, 
+      "lon": 4.548941119831, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Tritsstraat"
     }, 
     {
@@ -279,8 +287,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.945830031817, 
-      "lon": 4.547411109877, 
+      "lat": 50.945832095865, 
+      "lon": 4.54741339447, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 
@@ -399,8 +407,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.94602367184, 
-      "lon": 4.548168145101, 
+      "lat": 50.946025016953, 
+      "lon": 4.548170284682, 
       "municipality": "Kampenhout", 
       "pcode": "1910", 
       "source": "afgeleidVanGebouw", 

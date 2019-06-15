@@ -625,7 +625,6 @@
         "0001", 
         "0002", 
         "0003", 
-        "0004", 
         "0101", 
         "0102", 
         "0103", 
@@ -1283,18 +1282,6 @@
     }, 
     {
       "hnrlbls": [
-        "4"
-      ], 
-      "housenumber": "4", 
-      "lat": 50.74699611649, 
-      "lon": 3.606659720529, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bredestraat"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -1511,18 +1498,6 @@
     }, 
     {
       "hnrlbls": [
-        "6-8"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.746933282084, 
-      "lon": 3.60682666694, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bredestraat"
-    }, 
-    {
-      "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
@@ -1691,18 +1666,6 @@
     }, 
     {
       "hnrlbls": [
-        "6-8"
-      ], 
-      "housenumber": "8", 
-      "lat": 50.746933282084, 
-      "lon": 3.60682666694, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bredestraat"
-    }, 
-    {
-      "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
@@ -1751,37 +1714,36 @@
     }, 
     {
       "busnrs": [
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "105", 
-        "106", 
-        "107", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205", 
-        "206", 
-        "207", 
-        "3", 
-        "301", 
-        "302", 
-        "4", 
-        "5", 
-        "6"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207"
       ], 
       "hnrlbls": [
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.74790967175, 
-      "lon": 3.610686748852, 
+      "lat": 50.747810196232, 
+      "lon": 3.610679987754, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bredestraat"
     }, 
     {
@@ -1798,34 +1760,38 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "103", 
-        "104", 
-        "107", 
-        "2", 
-        "201", 
-        "202", 
-        "203", 
-        "204", 
-        "205", 
-        "206", 
-        "207", 
-        "3", 
-        "301", 
-        "302", 
-        "303"
+        "0001", 
+        "0002", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0107", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0207", 
+        "0301", 
+        "0302", 
+        "0303"
       ], 
       "hnrlbls": [
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.748028842269, 
-      "lon": 3.611236483809, 
+      "lat": 50.747967682091, 
+      "lon": 3.611246252021, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bredestraat"
     }, 
     {
@@ -1841,15 +1807,24 @@
       "street": "Bredestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.748141963666, 
-      "lon": 3.611852210812, 
+      "lat": 50.748072984425, 
+      "lon": 3.611876274109, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Bredestraat"
     }, 
     {
@@ -1865,15 +1840,24 @@
       "street": "Bredestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.74809416576, 
-      "lon": 3.61239967016, 
+      "lat": 50.747997094344, 
+      "lon": 3.612403211187, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Bredestraat"
     }, 
     {

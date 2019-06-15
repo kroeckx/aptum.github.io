@@ -96,11 +96,11 @@
         "53"
       ], 
       "hnrlbls": [
-        "101"
+        "99-101"
       ], 
       "housenumber": "101", 
-      "lat": 51.350822577763, 
-      "lon": 3.287475354406, 
+      "lat": 51.350877283932, 
+      "lon": 3.287382642761, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1360,7 +1360,7 @@
         "52"
       ], 
       "hnrlbls": [
-        "23-27"
+        "23-25"
       ], 
       "housenumber": "23", 
       "lat": 51.347436362969, 
@@ -1409,7 +1409,7 @@
         "53"
       ], 
       "hnrlbls": [
-        "23-27"
+        "23-25"
       ], 
       "housenumber": "25", 
       "lat": 51.347436362969, 
@@ -1424,20 +1424,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.347591291123, 
-      "lon": 3.287685807291, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leopoldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "23-27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.347436362969, 
-      "lon": 3.286950619615, 
+      "lat": 51.347597566669, 
+      "lon": 3.287693843139, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1553,7 +1541,7 @@
         "52"
       ], 
       "hnrlbls": [
-        "31-33"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 51.347627104721, 
@@ -1570,18 +1558,6 @@
       "housenumber": "32", 
       "lat": 51.347738742386, 
       "lon": 3.287403485933, 
-      "municipality": "Knokke-Heist", 
-      "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leopoldlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "31-33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.347627104721, 
-      "lon": 3.286989820122, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1962,7 +1938,7 @@
       "lon": 3.287073142507, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Leopoldlaan"
     }, 
     {
@@ -2839,7 +2815,7 @@
     }, 
     {
       "hnrlbls": [
-        "99"
+        "99-101"
       ], 
       "housenumber": "99", 
       "lat": 51.350877283932, 

@@ -53,8 +53,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.18189594092, 
-      "lon": 4.825308057305, 
+      "lat": 51.181896298793, 
+      "lon": 4.825308489859, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -164,8 +164,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.181203519647, 
-      "lon": 4.825708433181, 
+      "lat": 51.181201982209, 
+      "lon": 4.825710849338, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -244,6 +244,23 @@
       "street": "Ijzergieterijstraat"
     }, 
     {
+      "busnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.181808342719, 
+      "lon": 4.826248527771, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Ijzergieterijstraat"
+    }, 
+    {
       "hnrlbls": [
         "3"
       ], 
@@ -274,18 +291,6 @@
       "housenumber": "32", 
       "lat": 51.181472267062, 
       "lon": 4.826616207985, 
-      "municipality": "Herentals", 
-      "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Ijzergieterijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.181950214883, 
-      "lon": 4.826588153673, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 

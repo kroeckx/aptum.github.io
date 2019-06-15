@@ -37,6 +37,22 @@
       "street": "Kraanstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.239607823465, 
+      "lon": 4.588742596223, 
+      "municipality": "Schilde", 
+      "pcode": "2970", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kraanstraat"
+    }, 
+    {
       "hnrlbls": [
         "14"
       ], 
@@ -137,8 +153,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.239006725892, 
-      "lon": 4.588381491231, 
+      "lat": 51.239003991, 
+      "lon": 4.588402097522, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 

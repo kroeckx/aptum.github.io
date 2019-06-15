@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.025636346671, 
-      "lon": 4.658562248611, 
+      "lat": 51.025595983109, 
+      "lon": 4.658563281037, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -101,11 +101,11 @@
         "16B"
       ], 
       "housenumber": "16B", 
-      "lat": 51.025750490941, 
-      "lon": 4.659841516898, 
+      "lat": 51.025822849002, 
+      "lon": 4.659806903523, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Haachtsebaan"
     }, 
     {
@@ -125,11 +125,11 @@
         "16D"
       ], 
       "housenumber": "16D", 
-      "lat": 51.025849082559, 
-      "lon": 4.660283998015, 
+      "lat": 51.025949181543, 
+      "lon": 4.660227464962, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Haachtsebaan"
     }, 
     {
@@ -200,11 +200,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.02603744346, 
-      "lon": 4.660919326167, 
+      "lat": 51.025978328264, 
+      "lon": 4.660942190157, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Haachtsebaan"
     }, 
     {
@@ -212,11 +212,11 @@
         "20A"
       ], 
       "housenumber": "20A", 
-      "lat": 51.026068368527, 
-      "lon": 4.661135037557, 
+      "lat": 51.0260044235, 
+      "lon": 4.661184240616, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Haachtsebaan"
     }, 
     {
@@ -236,11 +236,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.026085455186, 
-      "lon": 4.661348667021, 
+      "lat": 51.026098832796, 
+      "lon": 4.661391227265, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Haachtsebaan"
     }, 
     {
@@ -431,8 +431,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.026586915343, 
-      "lon": 4.662265916444, 
+      "lat": 51.026588917843, 
+      "lon": 4.66225595123, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -443,8 +443,8 @@
         "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 51.026597662427, 
-      "lon": 4.662353788588, 
+      "lat": 51.026599101372, 
+      "lon": 4.662353512551, 
       "municipality": "Putte", 
       "pcode": "2580", 
       "source": "afgeleidVanGebouw", 
@@ -936,14 +936,26 @@
     }, 
     {
       "hnrlbls": [
+        "71A"
+      ], 
+      "housenumber": "71A", 
+      "lat": 51.028231414365, 
+      "lon": 4.66433103462, 
+      "municipality": "Putte", 
+      "pcode": "2580", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Haachtsebaan"
+    }, 
+    {
+      "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.028356354202, 
-      "lon": 4.664334390973, 
+      "lat": 51.028304414617, 
+      "lon": 4.664327505252, 
       "municipality": "Putte", 
       "pcode": "2580", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Haachtsebaan"
     }, 
     {

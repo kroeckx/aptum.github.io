@@ -382,8 +382,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.922964497257, 
-      "lon": 3.864108417248, 
+      "lat": 50.922973724921, 
+      "lon": 3.864101064561, 
       "municipality": "Sint-Lievens-Houtem", 
       "pcode": "9520", 
       "source": "manueleAanduidingVanGebouw", 
@@ -406,8 +406,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.922973101329, 
-      "lon": 3.864207172898, 
+      "lat": 50.923053733231, 
+      "lon": 3.864185257519, 
       "municipality": "Sint-Lievens-Houtem", 
       "pcode": "9520", 
       "source": "manueleAanduidingVanGebouw", 
@@ -438,6 +438,10 @@
       "street": "Molenkouter"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -478,8 +482,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.923063737648, 
-      "lon": 3.864526780973, 
+      "lat": 50.923074486171, 
+      "lon": 3.864517705302, 
       "municipality": "Sint-Lievens-Houtem", 
       "pcode": "9520", 
       "source": "manueleAanduidingVanGebouw", 
@@ -756,6 +760,18 @@
       "housenumber": "43", 
       "lat": 50.924149839745, 
       "lon": 3.866352040111, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Molenkouter"
+    }, 
+    {
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.92343636276, 
+      "lon": 3.866462214607, 
       "municipality": "Sint-Lievens-Houtem", 
       "pcode": "9520", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1322,8 +1338,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 50.924338519312, 
-      "lon": 3.871235816475, 
+      "lat": 50.924432356256, 
+      "lon": 3.871211354804, 
       "municipality": "Sint-Lievens-Houtem", 
       "pcode": "9520", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1415,6 +1431,30 @@
     }, 
     {
       "hnrlbls": [
+        "91A"
+      ], 
+      "housenumber": "91A", 
+      "lat": 50.924398684686, 
+      "lon": 3.872178032946, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Molenkouter"
+    }, 
+    {
+      "hnrlbls": [
+        "91B"
+      ], 
+      "housenumber": "91B", 
+      "lat": 50.924413200234, 
+      "lon": 3.872251982259, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Molenkouter"
+    }, 
+    {
+      "hnrlbls": [
         "92"
       ], 
       "housenumber": "92", 
@@ -1423,6 +1463,66 @@
       "municipality": "Sint-Lievens-Houtem", 
       "pcode": "9520", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Molenkouter"
+    }, 
+    {
+      "hnrlbls": [
+        "93"
+      ], 
+      "housenumber": "93", 
+      "lat": 50.924465863666, 
+      "lon": 3.872418832711, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Molenkouter"
+    }, 
+    {
+      "hnrlbls": [
+        "93A"
+      ], 
+      "housenumber": "93A", 
+      "lat": 50.924485693034, 
+      "lon": 3.872537813593, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Molenkouter"
+    }, 
+    {
+      "hnrlbls": [
+        "93B"
+      ], 
+      "housenumber": "93B", 
+      "lat": 50.924509526596, 
+      "lon": 3.872647080532, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Molenkouter"
+    }, 
+    {
+      "hnrlbls": [
+        "93C"
+      ], 
+      "housenumber": "93C", 
+      "lat": 50.924559221303, 
+      "lon": 3.872834871212, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Molenkouter"
+    }, 
+    {
+      "hnrlbls": [
+        "93D"
+      ], 
+      "housenumber": "93D", 
+      "lat": 50.924575953191, 
+      "lon": 3.872944213396, 
+      "municipality": "Sint-Lievens-Houtem", 
+      "pcode": "9520", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Molenkouter"
     }, 
     {

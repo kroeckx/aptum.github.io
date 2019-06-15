@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.233532643377, 
-      "lon": 5.304633174293, 
+      "lat": 51.233517576127, 
+      "lon": 5.304515318379, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wanstraat"
     }, 
     {
@@ -134,14 +134,14 @@
     }, 
     {
       "hnrlbls": [
-        "3"
+        "3-3B"
       ], 
       "housenumber": "3", 
-      "lat": 51.23356848025, 
-      "lon": 5.30455743459, 
+      "lat": 51.233630025716, 
+      "lon": 5.304583871358, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wanstraat"
     }, 
     {
@@ -206,26 +206,26 @@
     }, 
     {
       "hnrlbls": [
-        "3A-3B"
+        "3-3B"
       ], 
       "housenumber": "3A", 
-      "lat": 51.233517863893, 
-      "lon": 5.304513033234, 
+      "lat": 51.233630025716, 
+      "lon": 5.304583871358, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wanstraat"
     }, 
     {
       "hnrlbls": [
-        "3A-3B"
+        "3-3B"
       ], 
       "housenumber": "3B", 
-      "lat": 51.233517863893, 
-      "lon": 5.304513033234, 
+      "lat": 51.233630025716, 
+      "lon": 5.304583871358, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Wanstraat"
     }, 
     {

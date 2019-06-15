@@ -824,6 +824,27 @@
       "street": "Kruisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "198"
+      ], 
+      "housenumber": "198", 
+      "lat": 50.754978596887, 
+      "lon": 3.591061452313, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kruisstraat"
+    }, 
+    {
       "hnrlbls": [
         "199"
       ], 
@@ -857,6 +878,27 @@
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kruisstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "200"
+      ], 
+      "housenumber": "200", 
+      "lat": 50.755121750636, 
+      "lon": 3.590740917962, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kruisstraat"
     }, 
     {
@@ -969,7 +1011,7 @@
     }, 
     {
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 50.750908401721, 
@@ -1070,18 +1112,6 @@
       "street": "Kruisstraat"
     }, 
     {
-      "hnrlbls": [
-        "233"
-      ], 
-      "housenumber": "233", 
-      "lat": 50.755385267053, 
-      "lon": 3.591081387833, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
       "busnrs": [
         "0001", 
         "0101"
@@ -1111,35 +1141,11 @@
     }, 
     {
       "hnrlbls": [
-        "236"
-      ], 
-      "housenumber": "236", 
-      "lat": 50.755838176802, 
-      "lon": 3.58964445555, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
         "238"
       ], 
       "housenumber": "238", 
       "lat": 50.75585342389, 
       "lon": 3.58973363346, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22-24"
-      ], 
-      "housenumber": "24", 
-      "lat": 50.750908401721, 
-      "lon": 3.595903447625, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1341,18 +1347,6 @@
     }, 
     {
       "hnrlbls": [
-        "26"
-      ], 
-      "housenumber": "26", 
-      "lat": 50.751063219247, 
-      "lon": 3.59605424289, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
         "260"
       ], 
       "housenumber": "260", 
@@ -1497,7 +1491,7 @@
     }, 
     {
       "hnrlbls": [
-        "274-276"
+        "274"
       ], 
       "housenumber": "274", 
       "lat": 50.756519798639, 
@@ -1521,14 +1515,14 @@
     }, 
     {
       "hnrlbls": [
-        "274-276"
+        "276"
       ], 
       "housenumber": "276", 
-      "lat": 50.756519798639, 
-      "lon": 3.588939283318, 
+      "lat": 50.756525970519, 
+      "lon": 3.588867041001, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kruisstraat"
     }, 
     {
@@ -1571,9 +1565,7 @@
       "busnrs": [
         "0001", 
         "0002", 
-        "0101", 
-        "0102", 
-        "0201"
+        "0003"
       ], 
       "hnrlbls": [
         "28"
@@ -1629,18 +1621,6 @@
       "housenumber": "285", 
       "lat": 50.756553273241, 
       "lon": 3.589484387689, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "286"
-      ], 
-      "housenumber": "286", 
-      "lat": 50.756575434888, 
-      "lon": 3.588154315544, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1785,18 +1765,6 @@
       "housenumber": "3", 
       "lat": 50.750362572421, 
       "lon": 3.596948441525, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "30"
-      ], 
-      "housenumber": "30", 
-      "lat": 50.751172868394, 
-      "lon": 3.595804164483, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2067,15 +2035,24 @@
       "street": "Kruisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.751238960311, 
-      "lon": 3.595670012145, 
+      "lat": 50.751332794908, 
+      "lon": 3.595870840394, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kruisstraat"
     }, 
     {
@@ -2193,22 +2170,6 @@
       "housenumber": "357", 
       "lat": 50.762171373347, 
       "lon": 3.587476652044, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kruisstraat"
-    }, 
-    {
-      "busnrs": [
-        "0101", 
-        "0104"
-      ], 
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 50.751299571485, 
-      "lon": 3.5956453521, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -3087,6 +3048,11 @@
       "street": "Kruisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
         "96"
       ], 

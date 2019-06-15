@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.139054007363, 
-      "lon": 5.59906337772, 
+      "lat": 51.139055467703, 
+      "lon": 5.599061272684, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -257,8 +257,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.139061231703, 
-      "lon": 5.598818920515, 
+      "lat": 51.139060520158, 
+      "lon": 5.598818187257, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -509,8 +509,13 @@
       "street": "Oudestraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1", 
+        "2/2"
       ], 
       "hnrlbls": [
         "6"

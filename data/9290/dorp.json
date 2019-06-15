@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.023979087114, 
+      "lon": 4.002708152674, 
+      "municipality": "Berlare", 
+      "pcode": "9290", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorp"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -113,8 +125,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.025584149098, 
-      "lon": 4.010780354247, 
+      "lat": 51.025584614287, 
+      "lon": 4.010696681229, 
       "municipality": "Berlare", 
       "pcode": "9290", 
       "source": "manueleAanduidingVanGebouw", 
@@ -644,8 +656,8 @@
         "37C"
       ], 
       "housenumber": "37C", 
-      "lat": 51.026143868049, 
-      "lon": 4.00364214122, 
+      "lat": 51.02618519443, 
+      "lon": 4.003605472073, 
       "municipality": "Berlare", 
       "pcode": "9290", 
       "source": "manueleAanduidingVanGebouw", 
@@ -701,7 +713,23 @@
     }, 
     {
       "apptnrs": [
-        "202"
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "005", 
+        "006", 
+        "007", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "301"
       ], 
       "hnrlbls": [
         "4"
@@ -835,10 +863,10 @@
     }, 
     {
       "apptnrs": [
+        "001", 
         "002", 
         "003", 
         "004", 
-        "1", 
         "101", 
         "102", 
         "103", 
@@ -1001,18 +1029,6 @@
       "street": "Dorp"
     }, 
     {
-      "hnrlbls": [
-        "5A"
-      ], 
-      "housenumber": "5A", 
-      "lat": 51.024940755666, 
-      "lon": 4.000545512058, 
-      "municipality": "Berlare", 
-      "pcode": "9290", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Dorp"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -1034,18 +1050,6 @@
       "housenumber": "60", 
       "lat": 51.024824175843, 
       "lon": 4.007467364837, 
-      "municipality": "Berlare", 
-      "pcode": "9290", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorp"
-    }, 
-    {
-      "hnrlbls": [
-        "61"
-      ], 
-      "housenumber": "61", 
-      "lat": 51.025352585987, 
-      "lon": 4.004699222886, 
       "municipality": "Berlare", 
       "pcode": "9290", 
       "source": "manueleAanduidingVanGebouw", 

@@ -254,11 +254,9 @@
       "street": "Willem Van Laarstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "301"
       ], 
       "hnrlbls": [
         "27"
@@ -269,18 +267,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 
-      "street": "Willem Van Laarstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "27A"
-      ], 
-      "housenumber": "27A", 
-      "lat": 51.195155257956, 
-      "lon": 4.421256035299, 
-      "municipality": "Antwerpen", 
-      "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Willem Van Laarstraat"
     }, 
     {
@@ -831,8 +817,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.194732977489, 
-      "lon": 4.422444606654, 
+      "lat": 51.194734414592, 
+      "lon": 4.42244689717, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
       "source": "afgeleidVanGebouw", 

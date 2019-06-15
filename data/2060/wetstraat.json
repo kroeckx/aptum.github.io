@@ -616,8 +616,11 @@
       "street": "Wetstraat"
     }, 
     {
-      "busnrs": [
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "4"
@@ -1103,9 +1106,11 @@
       "street": "Wetstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "70"

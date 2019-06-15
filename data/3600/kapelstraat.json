@@ -2,7 +2,8 @@
   "addresses": [
     {
       "busnrs": [
-        "BU01"
+        "BU01", 
+        "BU02"
       ], 
       "hnrlbls": [
         "1"
@@ -203,8 +204,8 @@
         "26-30"
       ], 
       "housenumber": "26", 
-      "lat": 50.966568698641, 
-      "lon": 5.500635696803, 
+      "lat": 50.966569032727, 
+      "lon": 5.500629013347, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 

@@ -266,11 +266,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.850978085954, 
-      "lon": 3.292790239206, 
+      "lat": 50.850978786686, 
+      "lon": 3.292807833801, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Leiestraat"
     }, 
     {
@@ -298,6 +298,13 @@
       "street": "Leiestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
       "hnrlbls": [
         "123"
       ], 
@@ -323,18 +330,6 @@
     }, 
     {
       "hnrlbls": [
-        "125"
-      ], 
-      "housenumber": "125", 
-      "lat": 50.853483555594, 
-      "lon": 3.287743159785, 
-      "municipality": "Kuurne", 
-      "pcode": "8520", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "hnrlbls": [
         "126"
       ], 
       "housenumber": "126", 
@@ -347,18 +342,6 @@
     }, 
     {
       "hnrlbls": [
-        "127"
-      ], 
-      "housenumber": "127", 
-      "lat": 50.853503506829, 
-      "lon": 3.287722817122, 
-      "municipality": "Kuurne", 
-      "pcode": "8520", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "hnrlbls": [
         "128"
       ], 
       "housenumber": "128", 
@@ -367,18 +350,6 @@
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
-      "street": "Leiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "129"
-      ], 
-      "housenumber": "129", 
-      "lat": 50.85352343975, 
-      "lon": 3.287700486457, 
-      "municipality": "Kuurne", 
-      "pcode": "8520", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -428,11 +399,11 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 50.853621667965, 
-      "lon": 3.287637865982, 
+      "lat": 50.853651151161, 
+      "lon": 3.287588472114, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -452,11 +423,11 @@
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 50.853655452582, 
-      "lon": 3.28758695293, 
+      "lat": 50.853672296668, 
+      "lon": 3.287561142412, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -476,11 +447,11 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 50.853689011995, 
-      "lon": 3.287540873986, 
+      "lat": 50.853688445212, 
+      "lon": 3.287537904397, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {
@@ -500,11 +471,11 @@
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 50.853709819811, 
-      "lon": 3.287506166467, 
+      "lat": 50.853706481345, 
+      "lon": 3.287514622968, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leiestraat"
     }, 
     {

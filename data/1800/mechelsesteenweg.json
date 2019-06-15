@@ -89,9 +89,11 @@
     }, 
     {
       "apptnrs": [
-        "0", 
         "1", 
         "2"
+      ], 
+      "busnrs": [
+        "00/1"
       ], 
       "hnrlbls": [
         "109"
@@ -1320,6 +1322,25 @@
       "street": "Mechelsesteenweg"
     }, 
     {
+      "busnrs": [
+        "00/1", 
+        "01/1", 
+        "01/2", 
+        "02/1", 
+        "02/2"
+      ], 
+      "hnrlbls": [
+        "235"
+      ], 
+      "housenumber": "235", 
+      "lat": 50.938206295374, 
+      "lon": 4.431684892014, 
+      "municipality": "Vilvoorde", 
+      "pcode": "1800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "24"
       ], 
@@ -1518,8 +1539,8 @@
         "257A"
       ], 
       "housenumber": "257A", 
-      "lat": 50.939831393251, 
-      "lon": 4.433777546571, 
+      "lat": 50.939827362241, 
+      "lon": 4.433752215926, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -1735,8 +1756,8 @@
     {
       "busnrs": [
         "00/1", 
-        "0001", 
-        "0002"
+        "0002", 
+        "01/1"
       ], 
       "hnrlbls": [
         "29"
@@ -1766,8 +1787,8 @@
         "295"
       ], 
       "housenumber": "295", 
-      "lat": 50.945306252851, 
-      "lon": 4.442318034429, 
+      "lat": 50.94531434731, 
+      "lon": 4.442311501814, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2753,10 +2774,6 @@
       "street": "Mechelsesteenweg"
     }, 
     {
-      "apptnrs": [
-        "0", 
-        "1"
-      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -2797,8 +2814,8 @@
         "480"
       ], 
       "housenumber": "480", 
-      "lat": 50.939071812586, 
-      "lon": 4.433754572554, 
+      "lat": 50.939073790781, 
+      "lon": 4.433753579413, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2809,8 +2826,8 @@
         "482"
       ], 
       "housenumber": "482", 
-      "lat": 50.939121478186, 
-      "lon": 4.433835168688, 
+      "lat": 50.939122199, 
+      "lon": 4.433832181963, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2821,8 +2838,8 @@
         "484"
       ], 
       "housenumber": "484", 
-      "lat": 50.939170611709, 
-      "lon": 4.433902675105, 
+      "lat": 50.939166745208, 
+      "lon": 4.433904661504, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2833,8 +2850,8 @@
         "486"
       ], 
       "housenumber": "486", 
-      "lat": 50.939215510182, 
-      "lon": 4.433988102164, 
+      "lat": 50.939216230999, 
+      "lon": 4.433985115435, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -2865,6 +2882,9 @@
       "street": "Mechelsesteenweg"
     }, 
     {
+      "busnrs": [
+        "01/1"
+      ], 
       "hnrlbls": [
         "496"
       ], 
@@ -3212,8 +3232,8 @@
         "520A-520D"
       ], 
       "housenumber": "520A", 
-      "lat": 50.942024979571, 
-      "lon": 4.439289064631, 
+      "lat": 50.942026327959, 
+      "lon": 4.439289066679, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -3232,8 +3252,8 @@
         "520A-520D"
       ], 
       "housenumber": "520B", 
-      "lat": 50.942024979571, 
-      "lon": 4.439289064631, 
+      "lat": 50.942026327959, 
+      "lon": 4.439289066679, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -3252,8 +3272,8 @@
         "520A-520D"
       ], 
       "housenumber": "520C", 
-      "lat": 50.942024979571, 
-      "lon": 4.439289064631, 
+      "lat": 50.942026327959, 
+      "lon": 4.439289066679, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 
@@ -3281,8 +3301,8 @@
         "520A-520D"
       ], 
       "housenumber": "520D", 
-      "lat": 50.942024979571, 
-      "lon": 4.439289064631, 
+      "lat": 50.942026327959, 
+      "lon": 4.439289066679, 
       "municipality": "Vilvoorde", 
       "pcode": "1800", 
       "source": "afgeleidVanGebouw", 

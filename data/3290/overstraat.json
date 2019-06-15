@@ -479,15 +479,18 @@
       "street": "Overstraat"
     }, 
     {
+      "busnrs": [
+        "zi"
+      ], 
       "hnrlbls": [
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.986547637714, 
-      "lon": 5.055657335331, 
+      "lat": 50.986640062917, 
+      "lon": 5.055547458688, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Overstraat"
     }, 
     {
@@ -785,36 +788,6 @@
       "street": "Overstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "65A"
-      ], 
-      "housenumber": "65A", 
-      "lat": 50.986994696284, 
-      "lon": 5.056577832613, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Overstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "65B"
-      ], 
-      "housenumber": "65B", 
-      "lat": 50.986949372854, 
-      "lon": 5.056595966758, 
-      "municipality": "Diest", 
-      "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Overstraat"
-    }, 
-    {
       "hnrlbls": [
         "67"
       ], 
@@ -831,8 +804,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.986789847083, 
-      "lon": 5.055467334955, 
+      "lat": 50.986792284864, 
+      "lon": 5.055465519202, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

@@ -230,18 +230,6 @@
     }, 
     {
       "hnrlbls": [
-        "121"
-      ], 
-      "housenumber": "121", 
-      "lat": 50.866723989737, 
-      "lon": 5.224012283743, 
-      "municipality": "Sint-Truiden", 
-      "pcode": "3800", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Heide"
-    }, 
-    {
-      "hnrlbls": [
         "123"
       ], 
       "housenumber": "123", 
@@ -886,6 +874,18 @@
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Heide"
+    }, 
+    {
+      "hnrlbls": [
+        "95"
+      ], 
+      "housenumber": "95", 
+      "lat": 50.867376966536, 
+      "lon": 5.2202414087, 
+      "municipality": "Sint-Truiden", 
+      "pcode": "3800", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heide"
     }, 
     {

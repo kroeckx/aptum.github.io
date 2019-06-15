@@ -813,10 +813,15 @@
     }, 
     {
       "apptnrs": [
-        "101", 
-        "201", 
-        "301", 
-        "401"
+        "1101", 
+        "1102", 
+        "1201", 
+        "1202", 
+        "1301", 
+        "1302", 
+        "1401", 
+        "2101", 
+        "2201"
       ], 
       "hnrlbls": [
         "154"
@@ -854,6 +859,11 @@
       "street": "Diepestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "155-157"
       ], 
@@ -930,6 +940,13 @@
       "street": "Diepestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "162"
       ], 
@@ -1664,11 +1681,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.223866126451, 
-      "lon": 4.424297636538, 
+      "lat": 51.223840208401, 
+      "lon": 4.424174789556, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Diepestraat"
     }, 
     {
@@ -1911,35 +1928,11 @@
     }, 
     {
       "hnrlbls": [
-        "67-71"
-      ], 
-      "housenumber": "67", 
-      "lat": 51.223584170748, 
-      "lon": 4.424654004015, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Diepestraat"
-    }, 
-    {
-      "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
       "lat": 51.223781841969, 
       "lon": 4.423862241011, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Diepestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "67-71"
-      ], 
-      "housenumber": "69", 
-      "lat": 51.223584170748, 
-      "lon": 4.424654004015, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1976,11 +1969,17 @@
       "street": "Diepestraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301"
       ], 
       "hnrlbls": [
-        "67-71"
+        "71"
       ], 
       "housenumber": "71", 
       "lat": 51.223584170748, 
@@ -2403,7 +2402,9 @@
     {
       "busnrs": [
         "1", 
-        "3"
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "98-100"

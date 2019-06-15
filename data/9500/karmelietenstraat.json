@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.77336501614, 
+      "lon": 3.878744845333, 
+      "municipality": "Geraardsbergen", 
+      "pcode": "9500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Karmelietenstraat"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -515,14 +527,14 @@
     }, 
     {
       "hnrlbls": [
-        "57-57"
+        "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.775547616974, 
-      "lon": 3.878560245726, 
+      "lat": 50.775587401639, 
+      "lon": 3.878744148618, 
       "municipality": "Geraardsbergen", 
       "pcode": "9500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Karmelietenstraat"
     }, 
     {

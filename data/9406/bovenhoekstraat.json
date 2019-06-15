@@ -137,8 +137,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.837069891067, 
-      "lon": 3.998404006259, 
+      "lat": 50.837098653389, 
+      "lon": 3.998516643189, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -415,8 +415,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.836135358966, 
-      "lon": 3.999241980263, 
+      "lat": 50.836196126603, 
+      "lon": 3.999241219664, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -511,8 +511,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.835662132166, 
-      "lon": 4.00041190822, 
+      "lat": 50.835658015703, 
+      "lon": 4.000389226527, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -586,7 +586,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "61-67"
+        "61"
       ], 
       "housenumber": "61", 
       "lat": 50.835377309129, 
@@ -609,18 +609,6 @@
       "street": "Bovenhoekstraat"
     }, 
     {
-      "hnrlbls": [
-        "61-67"
-      ], 
-      "housenumber": "63", 
-      "lat": 50.835377309129, 
-      "lon": 4.000631477436, 
-      "municipality": "Ninove", 
-      "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bovenhoekstraat"
-    }, 
-    {
       "busnrs": [
         "1"
       ], 
@@ -637,35 +625,11 @@
     }, 
     {
       "hnrlbls": [
-        "61-67"
-      ], 
-      "housenumber": "65", 
-      "lat": 50.835377309129, 
-      "lon": 4.000631477436, 
-      "municipality": "Ninove", 
-      "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bovenhoekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "61-67"
-      ], 
-      "housenumber": "67", 
-      "lat": 50.835377309129, 
-      "lon": 4.000631477436, 
-      "municipality": "Ninove", 
-      "pcode": "9406", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Bovenhoekstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "69-167"
+        "69"
       ], 
       "housenumber": "69", 
-      "lat": 50.835260299895, 
-      "lon": 4.000757742964, 
+      "lat": 50.835283749031, 
+      "lon": 4.000724624921, 
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
@@ -693,6 +657,21 @@
       "municipality": "Ninove", 
       "pcode": "9406", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Bovenhoekstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 50.83782324749, 
+      "lon": 3.998525712668, 
+      "municipality": "Ninove", 
+      "pcode": "9406", 
+      "source": "afgeleidVanGebouw", 
       "street": "Bovenhoekstraat"
     }
   ]

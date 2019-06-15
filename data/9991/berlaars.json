@@ -17,11 +17,23 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.183512912881, 
-      "lon": 3.527957329374, 
+      "lat": 51.182976102615, 
+      "lon": 3.527555508724, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
+      "street": "Berlaars"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.183257963444, 
+      "lon": 3.51898971703, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Berlaars"
     }, 
     {
@@ -38,14 +50,26 @@
     }, 
     {
       "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.18346115184, 
+      "lon": 3.527706819528, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Berlaars"
+    }, 
+    {
+      "hnrlbls": [
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.183544982631, 
-      "lon": 3.528814344195, 
+      "lat": 51.183512912881, 
+      "lon": 3.527957329374, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "afgeleidVanGebouw", 
       "street": "Berlaars"
     }, 
     {

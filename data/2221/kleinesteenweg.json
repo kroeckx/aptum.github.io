@@ -80,18 +80,6 @@
     }, 
     {
       "hnrlbls": [
-        "103"
-      ], 
-      "housenumber": "103", 
-      "lat": 51.039872209684, 
-      "lon": 4.776143778464, 
-      "municipality": "Heist-op-den-Berg", 
-      "pcode": "2221", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Kleine steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
@@ -942,12 +930,15 @@
       "street": "Kleine steenweg"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "157"
       ], 
       "housenumber": "157", 
-      "lat": 51.036597331348, 
-      "lon": 4.773739278746, 
+      "lat": 51.036653336347, 
+      "lon": 4.773790662118, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2221", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1390,11 +1381,11 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 51.034109426425, 
-      "lon": 4.773003476034, 
+      "lat": 51.034128586737, 
+      "lon": 4.772973418213, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2221", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kleine steenweg"
     }, 
     {
@@ -1570,11 +1561,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.051095895276, 
-      "lon": 4.775133806797, 
+      "lat": 51.051082595673, 
+      "lon": 4.775184604872, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2221", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kleine steenweg"
     }, 
     {

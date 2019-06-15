@@ -139,7 +139,9 @@
     }, 
     {
       "busnrs": [
-        "4"
+        "1", 
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "2"
@@ -299,6 +301,7 @@
     {
       "busnrs": [
         "1", 
+        "3", 
         "4", 
         "5", 
         "6"
@@ -427,8 +430,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.906398150988, 
-      "lon": 3.926746648583, 
+      "lat": 50.906356563049, 
+      "lon": 3.926755570098, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -714,6 +717,7 @@
       "busnrs": [
         "1", 
         "2", 
+        "3", 
         "4", 
         "5"
       ], 
@@ -735,6 +739,18 @@
       "housenumber": "76", 
       "lat": 50.905103002731, 
       "lon": 3.927457316461, 
+      "municipality": "Erpe-Mere", 
+      "pcode": "9420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ninovestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.905457485264, 
+      "lon": 3.92772781595, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -766,11 +782,47 @@
     }, 
     {
       "hnrlbls": [
+        "81"
+      ], 
+      "housenumber": "81", 
+      "lat": 50.905329739845, 
+      "lon": 3.927894503669, 
+      "municipality": "Erpe-Mere", 
+      "pcode": "9420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ninovestraat"
+    }, 
+    {
+      "hnrlbls": [
         "82"
       ], 
       "housenumber": "82", 
       "lat": 50.904698138641, 
       "lon": 3.927823226234, 
+      "municipality": "Erpe-Mere", 
+      "pcode": "9420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ninovestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 50.9052540105, 
+      "lon": 3.928004402497, 
+      "municipality": "Erpe-Mere", 
+      "pcode": "9420", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ninovestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "87"
+      ], 
+      "housenumber": "87", 
+      "lat": 50.905150031328, 
+      "lon": 3.92818024945, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 
@@ -817,8 +869,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.904234989818, 
-      "lon": 3.928588888711, 
+      "lat": 50.90429663124, 
+      "lon": 3.928533718415, 
       "municipality": "Erpe-Mere", 
       "pcode": "9420", 
       "source": "manueleAanduidingVanGebouw", 

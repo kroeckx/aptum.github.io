@@ -14,7 +14,7 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10-100101"
       ], 
       "housenumber": "10", 
       "lat": 50.905591478474, 
@@ -134,14 +134,14 @@
     }, 
     {
       "hnrlbls": [
-        "10-10A"
+        "10-100101"
       ], 
-      "housenumber": "10A", 
+      "housenumber": "10_0101", 
       "lat": 50.905591478474, 
       "lon": 4.571025696234, 
       "municipality": "Kortenberg", 
       "pcode": "3071", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vissegatstraat"
     }, 
     {
@@ -430,6 +430,18 @@
       "municipality": "Kortenberg", 
       "pcode": "3071", 
       "source": "afgeleidVanGebouw", 
+      "street": "Vissegatstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "138"
+      ], 
+      "housenumber": "138", 
+      "lat": 50.909193857718, 
+      "lon": 4.58004841697, 
+      "municipality": "Kortenberg", 
+      "pcode": "3071", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vissegatstraat"
     }, 
     {

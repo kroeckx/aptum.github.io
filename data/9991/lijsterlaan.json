@@ -29,8 +29,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.202407734461, 
-      "lon": 3.513923467159, 
+      "lat": 51.202406461686, 
+      "lon": 3.513921487268, 
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
@@ -130,6 +130,18 @@
       "municipality": "Maldegem", 
       "pcode": "9991", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lijsterlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.202257913706, 
+      "lon": 3.51347949896, 
+      "municipality": "Maldegem", 
+      "pcode": "9991", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Lijsterlaan"
     }
   ]

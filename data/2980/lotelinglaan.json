@@ -1,14 +1,14 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "3", 
-        "4", 
-        "A", 
-        "B000"
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3", 
+        "b4"
       ], 
       "hnrlbls": [
-        "1-1D"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.24224312243, 
@@ -88,30 +88,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lotelinglaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1D"
-      ], 
-      "housenumber": "1C", 
-      "lat": 51.24224312243, 
-      "lon": 4.651395546711, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lotelinglaan"
-    }, 
-    {
-      "hnrlbls": [
-        "1-1D"
-      ], 
-      "housenumber": "1D", 
-      "lat": 51.24224312243, 
-      "lon": 4.651395546711, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Lotelinglaan"
     }, 
     {
@@ -244,18 +220,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lotelinglaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3-7"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.241616783394, 
-      "lon": 4.648161920591, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanStraat", 
       "street": "Lotelinglaan"
     }, 
     {
@@ -448,8 +412,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.241455182739, 
-      "lon": 4.644065946958, 
+      "lat": 51.241465443043, 
+      "lon": 4.644060136645, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -596,33 +560,15 @@
       "street": "Lotelinglaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
       "hnrlbls": [
-        "61b"
+        "61"
       ], 
-      "housenumber": "61b", 
-      "lat": 51.241304318229, 
-      "lon": 4.642382781767, 
+      "housenumber": "61", 
+      "lat": 51.241305908884, 
+      "lon": 4.642394533238, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Lotelinglaan"
-    }, 
-    {
-      "hnrlbls": [
-        "3-7"
-      ], 
-      "housenumber": "7", 
-      "lat": 51.241616783394, 
-      "lon": 4.648161920591, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lotelinglaan"
     }, 
     {
@@ -642,11 +588,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.242043219596, 
-      "lon": 4.649966496557, 
+      "lat": 51.241977067885, 
+      "lon": 4.649020842786, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lotelinglaan"
     }
   ]

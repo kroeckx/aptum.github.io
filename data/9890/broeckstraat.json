@@ -18,15 +18,23 @@
         "0002", 
         "0003"
       ], 
+      "busnrs": [
+        "0004", 
+        "0005", 
+        "0006", 
+        "0007", 
+        "0008", 
+        "0009"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.930882548245, 
-      "lon": 3.658028943249, 
+      "lat": 50.930902710132, 
+      "lon": 3.658181846426, 
       "municipality": "Gavere", 
       "pcode": "9890", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Broeckstraat"
     }, 
     {
@@ -53,8 +61,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.930977364972, 
-      "lon": 3.658709478371, 
+      "lat": 50.930976668189, 
+      "lon": 3.658713187532, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1047,8 +1055,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.930799474267, 
-      "lon": 3.658860965735, 
+      "lat": 50.930796197057, 
+      "lon": 3.658854187061, 
       "municipality": "Gavere", 
       "pcode": "9890", 
       "source": "afgeleidVanPerceelGrb", 

@@ -29,11 +29,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.128769971954, 
-      "lon": 2.757814972563, 
+      "lat": 51.128767881445, 
+      "lon": 2.757819902684, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Andr\u00e9 De Zaeyerstraat"
     }, 
     {
@@ -116,14 +116,14 @@
         "309"
       ], 
       "hnrlbls": [
-        "/zn-69"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.124281481532, 
-      "lon": 2.764693151565, 
+      "lat": 51.129270469187, 
+      "lon": 2.758353688547, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGemeente", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Andr\u00e9 De Zaeyerstraat"
     }, 
     {
@@ -181,6 +181,18 @@
       "housenumber": "29", 
       "lat": 51.128727826936, 
       "lon": 2.758607288391, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Andr\u00e9 De Zaeyerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.128900806104, 
+      "lon": 2.757295935326, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "manueleAanduidingVanGebouw", 

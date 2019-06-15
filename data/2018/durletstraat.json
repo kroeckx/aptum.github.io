@@ -133,9 +133,6 @@
       "street": "Durletstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "17-19"
       ], 
@@ -160,6 +157,10 @@
       "street": "Durletstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -513,6 +514,11 @@
       "street": "Durletstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "45"
       ], 

@@ -13,6 +13,25 @@
       "street": "Vermorgenstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.168978268784, 
+      "lon": 4.145062927317, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vermorgenstraat"
+    }, 
+    {
       "hnrlbls": [
         "9-11"
       ], 

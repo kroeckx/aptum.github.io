@@ -573,11 +573,11 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 50.882486871015, 
-      "lon": 4.59230967266, 
+      "lat": 50.882486202663, 
+      "lon": 4.592330132182, 
       "municipality": "Kortenberg", 
       "pcode": "3078", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Dorpsstraat"
     }, 
     {
@@ -2444,29 +2444,12 @@
       "street": "Dorpsstraat"
     }, 
     {
-      "busnrs": [
-        "101", 
-        "2", 
-        "201"
-      ], 
       "hnrlbls": [
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 50.886905244649, 
-      "lon": 4.599368899475, 
-      "municipality": "Kortenberg", 
-      "pcode": "3078", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dorpsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "57A"
-      ], 
-      "housenumber": "57A", 
-      "lat": 50.886903605552, 
-      "lon": 4.59933393097, 
+      "lat": 50.88696693968, 
+      "lon": 4.599446230061, 
       "municipality": "Kortenberg", 
       "pcode": "3078", 
       "source": "manueleAanduidingVanGebouw", 

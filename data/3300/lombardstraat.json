@@ -178,8 +178,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.804267194618, 
-      "lon": 4.941213568949, 
+      "lat": 50.804266840596, 
+      "lon": 4.94121242968, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -282,12 +282,53 @@
       "street": "Lombardstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.804417563995, 
+      "lon": 4.941495593885, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lombardstraat"
+    }, 
+    {
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
       "lat": 50.804210082436, 
       "lon": 4.941623159366, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lombardstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.804515626085, 
+      "lon": 4.941664479691, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -305,6 +346,25 @@
       "housenumber": "33", 
       "lat": 50.804282617676, 
       "lon": 4.941680933292, 
+      "municipality": "Tienen", 
+      "pcode": "3300", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lombardstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.804600850246, 
+      "lon": 4.941811361586, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 
@@ -360,8 +420,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.803998436261, 
-      "lon": 4.940285878639, 
+      "lat": 50.803994729152, 
+      "lon": 4.940290231482, 
       "municipality": "Tienen", 
       "pcode": "3300", 
       "source": "afgeleidVanGebouw", 

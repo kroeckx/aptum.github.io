@@ -40,7 +40,7 @@
       "b": 51.076378595985, 
       "l": 3.685157904393, 
       "name": "Albrecht D\u00fcrerlaan", 
-      "numOfAddr": 59, 
+      "numOfAddr": 60, 
       "r": 3.688343766255, 
       "sanName": "albrechtdrerlaan", 
       "t": 51.081079165413
@@ -193,7 +193,7 @@
       "b": 51.071041184669, 
       "l": 3.663256481042, 
       "name": "Brugsevaart", 
-      "numOfAddr": 132, 
+      "numOfAddr": 133, 
       "otherPCs": [
         "9000"
       ], 
@@ -478,10 +478,10 @@
       "b": 51.076511907045, 
       "l": 3.703617247821, 
       "name": "Hogekouterhof", 
-      "numOfAddr": 45, 
+      "numOfAddr": 42, 
       "r": 3.705533515859, 
       "sanName": "hogekouterhof", 
-      "t": 51.079469904274
+      "t": 51.07859375448
     }, 
     {
       "b": 51.074429676417, 
@@ -547,7 +547,7 @@
       "numOfAddr": 29, 
       "r": 3.685821825862, 
       "sanName": "juliennedevetterstraat", 
-      "t": 51.073149728803
+      "t": 51.073105439393
     }, 
     {
       "b": 51.078316740741, 
@@ -799,6 +799,18 @@
       "t": 51.080400394264
     }, 
     {
+      "b": 51.09141922278, 
+      "l": 3.703513785285, 
+      "name": "Marthe Bo\u00eblstraat", 
+      "numOfAddr": 1, 
+      "otherPCs": [
+        "9032"
+      ], 
+      "r": 3.703513785285, 
+      "sanName": "marthebolstraat", 
+      "t": 51.09141922278
+    }, 
+    {
       "b": 51.07168206774, 
       "l": 3.679868928322, 
       "name": "Maurice Claeysplein", 
@@ -934,7 +946,7 @@
       "b": 51.068656041165, 
       "l": 3.675166456552, 
       "name": "Oranjerielaan", 
-      "numOfAddr": 46, 
+      "numOfAddr": 52, 
       "r": 3.680846957997, 
       "sanName": "oranjerielaan", 
       "t": 51.071162832742
@@ -1033,7 +1045,7 @@
       "b": 51.069262980934, 
       "l": 3.678138463535, 
       "name": "Ren\u00e9 Van De Puttestraat", 
-      "numOfAddr": 19, 
+      "numOfAddr": 20, 
       "r": 3.67988884864, 
       "sanName": "renvandeputtestraat", 
       "t": 51.071055407182
@@ -1105,7 +1117,7 @@
       "b": 51.080120840685, 
       "l": 3.675845721222, 
       "name": "Schoubroek", 
-      "numOfAddr": 32, 
+      "numOfAddr": 33, 
       "r": 3.678734897216, 
       "sanName": "schoubroek", 
       "t": 51.082262273884
@@ -1325,9 +1337,9 @@
     }, 
     {
       "b": 51.086323325523, 
-      "l": 3.662139747446, 
+      "l": 3.662206138825, 
       "name": "Wijmenstraat", 
-      "numOfAddr": 42, 
+      "numOfAddr": 40, 
       "r": 3.667311788276, 
       "sanName": "wijmenstraat", 
       "t": 51.087928233883
@@ -1372,10 +1384,10 @@
       "b": 51.067451763564, 
       "l": 3.664595103055, 
       "name": "Zandloperstraat", 
-      "numOfAddr": 162, 
+      "numOfAddr": 169, 
       "r": 3.679682805714, 
       "sanName": "zandloperstraat", 
-      "t": 51.072219576035
+      "t": 51.072280272996
     }, 
     {
       "b": 51.074925160153, 

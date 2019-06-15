@@ -93,8 +93,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.22750936425, 
-      "lon": 4.499361982657, 
+      "lat": 51.227509094917, 
+      "lon": 4.499361695591, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -117,8 +117,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 51.227500271937, 
-      "lon": 4.499212648175, 
+      "lat": 51.227500632106, 
+      "lon": 4.499212076575, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "afgeleidVanGebouw", 
@@ -221,6 +221,10 @@
       "street": "Ertbruggestraat"
     }, 
     {
+      "busnrs": [
+        "bus 1", 
+        "bus 2"
+      ], 
       "hnrlbls": [
         "13"
       ], 

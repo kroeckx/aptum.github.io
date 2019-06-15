@@ -29,8 +29,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.142823096985, 
-      "lon": 3.768157578924, 
+      "lat": 51.1428329883, 
+      "lon": 3.768211324514, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -53,8 +53,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.142768082321, 
-      "lon": 3.768634850476, 
+      "lat": 51.142799485263, 
+      "lon": 3.768676459505, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -67,6 +67,30 @@
       "housenumber": "102A", 
       "lat": 51.142705622279, 
       "lon": 3.768708244177, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Doornzele Dries"
+    }, 
+    {
+      "hnrlbls": [
+        "102B"
+      ], 
+      "housenumber": "102B", 
+      "lat": 51.142622078487, 
+      "lon": 3.768736466769, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Doornzele Dries"
+    }, 
+    {
+      "hnrlbls": [
+        "102C"
+      ], 
+      "housenumber": "102C", 
+      "lat": 51.142537362414, 
+      "lon": 3.768728551278, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -113,11 +137,11 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.143000268634, 
-      "lon": 3.768688315626, 
+      "lat": 51.143006879475, 
+      "lon": 3.768697947906, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -257,11 +281,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.143547039209, 
-      "lon": 3.770580159459, 
+      "lat": 51.143555822487, 
+      "lon": 3.770575045586, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -450,7 +474,7 @@
         "C000"
       ], 
       "hnrlbls": [
-        "129-129B"
+        "129"
       ], 
       "housenumber": "129", 
       "lat": 51.145208817375, 
@@ -465,23 +489,11 @@
         "129A"
       ], 
       "housenumber": "129A", 
-      "lat": 51.145387586361, 
-      "lon": 3.771249850588, 
+      "lat": 51.145385945462, 
+      "lon": 3.771280882158, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Doornzele Dries"
-    }, 
-    {
-      "hnrlbls": [
-        "129-129B"
-      ], 
-      "housenumber": "129B", 
-      "lat": 51.145208817375, 
-      "lon": 3.770703092208, 
-      "municipality": "Evergem", 
-      "pcode": "9940", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -585,11 +597,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.140273983353, 
-      "lon": 3.760490379495, 
+      "lat": 51.140256794101, 
+      "lon": 3.760503891898, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -614,6 +626,42 @@
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "afgeleidVanGebouw", 
+      "street": "Doornzele Dries"
+    }, 
+    {
+      "hnrlbls": [
+        "144"
+      ], 
+      "housenumber": "144", 
+      "lat": 51.144216328113, 
+      "lon": 3.772905622637, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Doornzele Dries"
+    }, 
+    {
+      "hnrlbls": [
+        "146"
+      ], 
+      "housenumber": "146", 
+      "lat": 51.14423891783, 
+      "lon": 3.773000222017, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Doornzele Dries"
+    }, 
+    {
+      "hnrlbls": [
+        "148"
+      ], 
+      "housenumber": "148", 
+      "lat": 51.144280256412, 
+      "lon": 3.773087294618, 
+      "municipality": "Evergem", 
+      "pcode": "9940", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -669,11 +717,11 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 51.144132109718, 
-      "lon": 3.773834988045, 
+      "lat": 51.144170046322, 
+      "lon": 3.773817785821, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -681,11 +729,11 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.144285916464, 
-      "lon": 3.773871900683, 
+      "lat": 51.144301962471, 
+      "lon": 3.773863122385, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -693,11 +741,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.140292673767, 
-      "lon": 3.760593874943, 
+      "lat": 51.140313580046, 
+      "lon": 3.76056902586, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -837,11 +885,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.139294850005, 
-      "lon": 3.758318221787, 
+      "lat": 51.139342243818, 
+      "lon": 3.758252874988, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -897,11 +945,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 51.140425071685, 
-      "lon": 3.761238591871, 
+      "lat": 51.140486324821, 
+      "lon": 3.761211075451, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1161,11 +1209,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.142292481595, 
-      "lon": 3.761859366042, 
+      "lat": 51.142282369872, 
+      "lon": 3.761850780584, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1209,11 +1257,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.142329243603, 
-      "lon": 3.762016361181, 
+      "lat": 51.142330328452, 
+      "lon": 3.76200005687, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1245,11 +1293,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.14082218622, 
-      "lon": 3.757157574893, 
+      "lat": 51.140801502986, 
+      "lon": 3.757173277766, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1395,11 +1443,11 @@
         "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 51.14082345693, 
-      "lon": 3.757264155899, 
+      "lat": 51.140799831923, 
+      "lon": 3.757284612635, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1759,8 +1807,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.14215586802, 
-      "lon": 3.767737317326, 
+      "lat": 51.142344534481, 
+      "lon": 3.767682020615, 
       "municipality": "Evergem", 
       "pcode": "9940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1783,11 +1831,11 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.142578273492, 
-      "lon": 3.767757895495, 
+      "lat": 51.142584498488, 
+      "lon": 3.76774466892, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1795,11 +1843,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.143988426509, 
-      "lon": 3.766533108207, 
+      "lat": 51.143989069118, 
+      "lon": 3.766518095242, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1807,11 +1855,11 @@
         "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 51.140058996313, 
-      "lon": 3.759954909771, 
+      "lat": 51.140082121503, 
+      "lon": 3.759942034391, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1819,11 +1867,11 @@
         "8B"
       ], 
       "housenumber": "8B", 
-      "lat": 51.140091815853, 
-      "lon": 3.76006150709, 
+      "lat": 51.140112863428, 
+      "lon": 3.760046658337, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1867,11 +1915,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.142769135238, 
-      "lon": 3.767975219619, 
+      "lat": 51.142759746131, 
+      "lon": 3.767984914417, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1915,11 +1963,11 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.14233086605, 
-      "lon": 3.768016860392, 
+      "lat": 51.142326008529, 
+      "lon": 3.768069222983, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1927,11 +1975,11 @@
         "97"
       ], 
       "housenumber": "97", 
-      "lat": 51.144162281317, 
-      "lon": 3.7671524942, 
+      "lat": 51.144169854495, 
+      "lon": 3.767139249748, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }, 
     {
@@ -1951,11 +1999,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.144423201035, 
-      "lon": 3.767076113709, 
+      "lat": 51.144433822495, 
+      "lon": 3.76711427508, 
       "municipality": "Evergem", 
       "pcode": "9940", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Doornzele Dries"
     }
   ]

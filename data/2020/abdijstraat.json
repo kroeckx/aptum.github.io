@@ -539,10 +539,6 @@
       "street": "Abdijstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "140"
       ], 
@@ -1003,18 +999,6 @@
     }, 
     {
       "hnrlbls": [
-        "62-178"
-      ], 
-      "housenumber": "172", 
-      "lat": 51.186854839186, 
-      "lon": 4.385414672468, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Abdijstraat"
-    }, 
-    {
-      "hnrlbls": [
         "171-173"
       ], 
       "housenumber": "173", 
@@ -1033,14 +1017,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "62-178"
+        "174"
       ], 
       "housenumber": "174", 
-      "lat": 51.186854839186, 
-      "lon": 4.385414672468, 
+      "lat": 51.187051768743, 
+      "lon": 4.385472958506, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Abdijstraat"
     }, 
     {
@@ -1057,35 +1041,11 @@
     }, 
     {
       "hnrlbls": [
-        "62-178"
-      ], 
-      "housenumber": "176", 
-      "lat": 51.186854839186, 
-      "lon": 4.385414672468, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Abdijstraat"
-    }, 
-    {
-      "hnrlbls": [
         "177"
       ], 
       "housenumber": "177", 
       "lat": 51.187657450115, 
       "lon": 4.384596548573, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Abdijstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "62-178"
-      ], 
-      "housenumber": "178", 
-      "lat": 51.186854839186, 
-      "lon": 4.385414672468, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -1200,6 +1160,11 @@
       "street": "Abdijstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "186"
       ], 
@@ -1224,18 +1189,15 @@
       "street": "Abdijstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 51.186750931583, 
-      "lon": 4.38601935643, 
+      "lat": 51.18679371334, 
+      "lon": 4.386042543463, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Abdijstraat"
     }, 
     {
@@ -1251,15 +1213,31 @@
       "street": "Abdijstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "190"
       ], 
       "housenumber": "190", 
-      "lat": 51.186724947424, 
-      "lon": 4.386067832912, 
+      "lat": 51.186738343694, 
+      "lon": 4.386045525712, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Abdijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "190A"
+      ], 
+      "housenumber": "190A", 
+      "lat": 51.18675532036, 
+      "lon": 4.386121623187, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Abdijstraat"
     }, 
     {
@@ -1338,6 +1316,10 @@
       "street": "Abdijstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "197"
       ], 
@@ -1347,6 +1329,18 @@
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
+      "street": "Abdijstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "197A"
+      ], 
+      "housenumber": "197A", 
+      "lat": 51.187319931526, 
+      "lon": 4.385228906717, 
+      "municipality": "Antwerpen", 
+      "pcode": "2020", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Abdijstraat"
     }, 
     {
@@ -1378,8 +1372,8 @@
         "2-8"
       ], 
       "housenumber": "2", 
-      "lat": 51.189576397922, 
-      "lon": 4.378313911979, 
+      "lat": 51.189578195373, 
+      "lon": 4.378316773108, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2212,6 +2206,11 @@
       "street": "Abdijstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "257"
       ], 
@@ -2431,15 +2430,12 @@
       "street": "Abdijstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
-        "32-34"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.189544128228, 
-      "lon": 4.379312443482, 
+      "lat": 51.189738806339, 
+      "lon": 4.37944494289, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -2471,11 +2467,11 @@
     }, 
     {
       "hnrlbls": [
-        "32-34"
+        "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.189544128228, 
-      "lon": 4.379312443482, 
+      "lat": 51.189686931574, 
+      "lon": 4.379560075058, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -2549,8 +2545,8 @@
         "2-8"
       ], 
       "housenumber": "4", 
-      "lat": 51.189576397922, 
-      "lon": 4.378313911979, 
+      "lat": 51.189578195373, 
+      "lon": 4.378316773108, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2824,8 +2820,8 @@
         "2-8"
       ], 
       "housenumber": "6", 
-      "lat": 51.189576397922, 
-      "lon": 4.378313911979, 
+      "lat": 51.189578195373, 
+      "lon": 4.378316773108, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanPerceelGrb", 
@@ -2955,8 +2951,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.189469343359, 
-      "lon": 4.381069055278, 
+      "lat": 51.189468714259, 
+      "lon": 4.381068196884, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -3106,8 +3102,8 @@
         "2-8"
       ], 
       "housenumber": "8", 
-      "lat": 51.189576397922, 
-      "lon": 4.378313911979, 
+      "lat": 51.189578195373, 
+      "lon": 4.378316773108, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanPerceelGrb", 

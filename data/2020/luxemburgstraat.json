@@ -16,12 +16,15 @@
       "street": "Luxemburgstraat"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "4"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
-        "10-12"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 51.188558651715, 
@@ -38,18 +41,6 @@
       "housenumber": "11", 
       "lat": 51.188791976382, 
       "lon": 4.38327517062, 
-      "municipality": "Antwerpen", 
-      "pcode": "2020", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Luxemburgstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "10-12"
-      ], 
-      "housenumber": "12", 
-      "lat": 51.188558651715, 
-      "lon": 4.383144504863, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 

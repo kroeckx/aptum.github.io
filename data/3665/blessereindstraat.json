@@ -62,26 +62,26 @@
     }, 
     {
       "hnrlbls": [
-        "25-27"
+        "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.998847126624, 
-      "lon": 5.575499080081, 
+      "lat": 50.997297607261, 
+      "lon": 5.574249873625, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Blessereindstraat"
     }, 
     {
       "hnrlbls": [
-        "25-27"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.998847126624, 
-      "lon": 5.575499080081, 
+      "lat": 50.99710929587, 
+      "lon": 5.573904384776, 
       "municipality": "As", 
       "pcode": "3665", 
-      "source": "afgeleidVanStraat", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Blessereindstraat"
     }, 
     {
@@ -91,6 +91,30 @@
       "housenumber": "3", 
       "lat": 50.998836344556, 
       "lon": 5.575813810489, 
+      "municipality": "As", 
+      "pcode": "3665", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Blessereindstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 50.998676395509, 
+      "lon": 5.575613502182, 
+      "municipality": "As", 
+      "pcode": "3665", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Blessereindstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.998609847087, 
+      "lon": 5.57556291883, 
       "municipality": "As", 
       "pcode": "3665", 
       "source": "afgeleidVanGebouw", 

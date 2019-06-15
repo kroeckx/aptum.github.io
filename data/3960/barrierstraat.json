@@ -53,11 +53,11 @@
         "15-17"
       ], 
       "housenumber": "15", 
-      "lat": 51.14707004346, 
-      "lon": 5.587864187912, 
+      "lat": 51.147033102672, 
+      "lon": 5.587906958259, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Barrierstraat"
     }, 
     {
@@ -77,11 +77,11 @@
         "15-17"
       ], 
       "housenumber": "17", 
-      "lat": 51.14707004346, 
-      "lon": 5.587864187912, 
+      "lat": 51.147033102672, 
+      "lon": 5.587906958259, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Barrierstraat"
     }, 
     {
@@ -557,6 +557,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Barrierstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 51.144718992626, 
+      "lon": 5.580414895337, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Barrierstraat"
     }, 
     {

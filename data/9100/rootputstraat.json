@@ -292,8 +292,8 @@
         "202-302"
       ], 
       "housenumber": "202", 
-      "lat": 51.178543049198, 
-      "lon": 4.158629158217, 
+      "lat": 51.178535159095, 
+      "lon": 4.158640347891, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -304,8 +304,8 @@
         "202-302"
       ], 
       "housenumber": "203", 
-      "lat": 51.178543049198, 
-      "lon": 4.158629158217, 
+      "lat": 51.178535159095, 
+      "lon": 4.158640347891, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -385,6 +385,30 @@
     }, 
     {
       "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.176314797775, 
+      "lon": 4.156018028142, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "29"
+      ], 
+      "housenumber": "29", 
+      "lat": 51.176270225575, 
+      "lon": 4.15602423649, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -412,11 +436,23 @@
         "202-302"
       ], 
       "housenumber": "302", 
-      "lat": 51.178543049198, 
-      "lon": 4.158629158217, 
+      "lat": 51.178535159095, 
+      "lon": 4.158640347891, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "31"
+      ], 
+      "housenumber": "31", 
+      "lat": 51.176222942448, 
+      "lon": 4.156022449346, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rootputstraat"
     }, 
     {
@@ -426,6 +462,18 @@
       "housenumber": "32", 
       "lat": 51.177665070515, 
       "lon": 4.15642402184, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "33"
+      ], 
+      "housenumber": "33", 
+      "lat": 51.176165078039, 
+      "lon": 4.156034723903, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -445,11 +493,131 @@
     }, 
     {
       "hnrlbls": [
+        "35"
+      ], 
+      "housenumber": "35", 
+      "lat": 51.176114673317, 
+      "lon": 4.156046535556, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37"
+      ], 
+      "housenumber": "37", 
+      "lat": 51.176062641936, 
+      "lon": 4.156053492712, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "39"
+      ], 
+      "housenumber": "39", 
+      "lat": 51.176010522978, 
+      "lon": 4.156061737212, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 51.175933262245, 
+      "lon": 4.15593439317, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "43"
+      ], 
+      "housenumber": "43", 
+      "lat": 51.175880522057, 
+      "lon": 4.155947073458, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 51.17583342845, 
+      "lon": 4.155950719362, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "47"
+      ], 
+      "housenumber": "47", 
+      "lat": 51.175777793707, 
+      "lon": 4.155953260113, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.175956425344, 
+      "lon": 4.156520569676, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
       "lat": 51.175737612737, 
       "lon": 4.155352292201, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 51.176008717959, 
+      "lon": 4.156508893014, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "53"
+      ], 
+      "housenumber": "53", 
+      "lat": 51.176062730681, 
+      "lon": 4.15650407233, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "manueleAanduidingVanGebouw", 
@@ -476,6 +644,18 @@
       "street": "Rootputstraat"
     }, 
     {
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.176107669365, 
+      "lon": 4.156501723699, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
       "apptnrs": [
         "0001", 
         "0002", 
@@ -489,6 +669,18 @@
       "housenumber": "56", 
       "lat": 51.178406796522, 
       "lon": 4.157222190568, 
+      "municipality": "Sint-Niklaas", 
+      "pcode": "9100", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Rootputstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.1761561909, 
+      "lon": 4.15649235201, 
       "municipality": "Sint-Niklaas", 
       "pcode": "9100", 
       "source": "manueleAanduidingVanGebouw", 

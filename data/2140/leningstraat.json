@@ -102,15 +102,20 @@
       "street": "Leningstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.217278535722, 
-      "lon": 4.439003178534, 
+      "lat": 51.217216357494, 
+      "lon": 4.438967303549, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Leningstraat"
     }, 
     {

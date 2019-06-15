@@ -246,7 +246,7 @@
     }, 
     {
       "hnrlbls": [
-        "130"
+        "130-130A"
       ], 
       "housenumber": "130", 
       "lat": 51.254542227744, 
@@ -455,15 +455,14 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "10", 
-        "11", 
-        "12", 
-        "165", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
+        "7", 
         "8", 
         "9"
       ], 
@@ -471,11 +470,11 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.255248488379, 
-      "lon": 4.436584830862, 
+      "lat": 51.255193855849, 
+      "lon": 4.436556962299, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Maantjessteenweg"
     }, 
     {
@@ -491,18 +490,15 @@
       "street": "Maantjessteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.255295243584, 
-      "lon": 4.436556824877, 
+      "lat": 51.255200191719, 
+      "lon": 4.436480768877, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Maantjessteenweg"
     }, 
     {
@@ -842,8 +838,10 @@
       "street": "Maantjessteenweg"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "196"
@@ -1313,8 +1311,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.254554438403, 
-      "lon": 4.444609480363, 
+      "lat": 51.254554168292, 
+      "lon": 4.444610196101, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1628,8 +1626,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.255380937975, 
-      "lon": 4.441443828542, 
+      "lat": 51.255381027858, 
+      "lon": 4.441443828684, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

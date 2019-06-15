@@ -125,6 +125,21 @@
       "street": "Torenveldstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 51.045118278699, 
+      "lon": 5.222932714248, 
+      "municipality": "Beringen", 
+      "pcode": "3580", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Torenveldstraat"
+    }, 
+    {
       "hnrlbls": [
         "28"
       ], 
@@ -141,8 +156,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.044990121567, 
-      "lon": 5.222977575541, 
+      "lat": 51.04503395152, 
+      "lon": 5.222995346045, 
       "municipality": "Beringen", 
       "pcode": "3580", 
       "source": "manueleAanduidingVanPerceel", 

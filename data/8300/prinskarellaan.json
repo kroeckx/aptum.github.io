@@ -387,7 +387,7 @@
       "lon": 3.305781070077, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Prins Karellaan"
     }, 
     {
@@ -801,6 +801,30 @@
       "housenumber": "7", 
       "lat": 51.351191539963, 
       "lon": 3.297758951755, 
+      "municipality": "Knokke-Heist", 
+      "pcode": "8300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Prins Karellaan"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 51.352054536184, 
+      "lon": 3.311467037138, 
+      "municipality": "Knokke-Heist", 
+      "pcode": "8300", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Prins Karellaan"
+    }, 
+    {
+      "hnrlbls": [
+        "71A"
+      ], 
+      "housenumber": "71A", 
+      "lat": 51.351758169516, 
+      "lon": 3.312001175831, 
       "municipality": "Knokke-Heist", 
       "pcode": "8300", 
       "source": "manueleAanduidingVanGebouw", 

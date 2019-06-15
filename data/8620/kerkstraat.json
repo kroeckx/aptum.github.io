@@ -399,7 +399,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-79A"
+        "42-79A"
       ], 
       "housenumber": "42", 
       "lat": 51.129279768202, 
@@ -435,19 +435,19 @@
     }, 
     {
       "hnrlbls": [
-        "7-52"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.129398054938, 
-      "lon": 2.750222922841, 
+      "lat": 51.12934430875, 
+      "lon": 2.750263649284, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
       "hnrlbls": [
-        "/zn-79A"
+        "42-79A"
       ], 
       "housenumber": "70", 
       "lat": 51.129279768202, 
@@ -459,7 +459,7 @@
     }, 
     {
       "hnrlbls": [
-        "/zn-79A"
+        "42-79A"
       ], 
       "housenumber": "79A", 
       "lat": 51.129279768202, 
@@ -474,14 +474,14 @@
         "101"
       ], 
       "hnrlbls": [
-        "7-52"
+        "7A"
       ], 
       "housenumber": "7A", 
-      "lat": 51.129398054938, 
-      "lon": 2.750222922841, 
+      "lat": 51.129333563154, 
+      "lon": 2.750181576079, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -506,18 +506,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "/zn-79A"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.129279768202, 
-      "lon": 2.749727061115, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Kerkstraat"
     }
   ]

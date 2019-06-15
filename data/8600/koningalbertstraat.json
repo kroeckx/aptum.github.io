@@ -104,8 +104,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.031994869651, 
-      "lon": 2.864585995208, 
+      "lat": 51.031991146544, 
+      "lon": 2.864378939463, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
       "source": "afgeleidVanGebouw", 
@@ -128,8 +128,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.032601131747, 
-      "lon": 2.863826500842, 
+      "lat": 51.032598454455, 
+      "lon": 2.863821026, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
       "source": "afgeleidVanGebouw", 
@@ -245,11 +245,56 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.030947559559, 
-      "lon": 2.863546990276, 
+      "lat": 51.030944470813, 
+      "lon": 2.863769659061, 
       "municipality": "Diksmuide", 
       "pcode": "8600", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "apptnrs": [
+        "29/A011", 
+        "29/A012", 
+        "29/A013", 
+        "29/A014", 
+        "29/A021", 
+        "29/A022", 
+        "29/A023", 
+        "29/A024", 
+        "29/A031", 
+        "29/A032"
+      ], 
+      "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.030970978774, 
+      "lon": 2.863613678669, 
+      "municipality": "Diksmuide", 
+      "pcode": "8600", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Koning Albertstraat"
+    }, 
+    {
+      "apptnrs": [
+        "29/B011", 
+        "29/B012", 
+        "29/B013", 
+        "29/B021", 
+        "29/B022", 
+        "29/B023", 
+        "29/B031"
+      ], 
+      "hnrlbls": [
+        "29B"
+      ], 
+      "housenumber": "29B", 
+      "lat": 51.030977614733, 
+      "lon": 2.86338718861, 
+      "municipality": "Diksmuide", 
+      "pcode": "8600", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertstraat"
     }, 
     {

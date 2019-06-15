@@ -2,11 +2,35 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.146400849483, 
+      "lon": 5.594127925612, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Imkerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1B"
+      ], 
+      "housenumber": "1B", 
+      "lat": 51.146452989647, 
+      "lon": 5.594032820747, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Imkerstraat"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.146420380372, 
-      "lon": 5.593563031056, 
+      "lat": 51.146425466976, 
+      "lon": 5.59357531308, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 

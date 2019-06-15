@@ -194,14 +194,26 @@
     }, 
     {
       "hnrlbls": [
-        "22"
+        "22A"
       ], 
-      "housenumber": "22", 
-      "lat": 51.017320573536, 
-      "lon": 3.563835346732, 
+      "housenumber": "22A", 
+      "lat": 51.017236721781, 
+      "lon": 3.564167430093, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Meirstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "22B"
+      ], 
+      "housenumber": "22B", 
+      "lat": 51.017114925928, 
+      "lon": 3.563840303297, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Meirstraat"
     }, 
     {

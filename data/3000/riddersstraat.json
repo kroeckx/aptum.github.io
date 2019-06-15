@@ -759,8 +759,8 @@
         "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.885232153904, 
-      "lon": 4.692571868519, 
+      "lat": 50.885226861516, 
+      "lon": 4.692600254189, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -2421,7 +2421,7 @@
         "03K3"
       ], 
       "hnrlbls": [
-        "250-250K"
+        "250"
       ], 
       "housenumber": "250", 
       "lat": 50.886643163474, 
@@ -2429,21 +2429,6 @@
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
-      "street": "Riddersstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "250-250K"
-      ], 
-      "housenumber": "250K", 
-      "lat": 50.886643163474, 
-      "lon": 4.694865981535, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Riddersstraat"
     }, 
     {
@@ -2666,14 +2651,14 @@
         "0214"
       ], 
       "hnrlbls": [
-        "262"
+        "262-266"
       ], 
       "housenumber": "262", 
-      "lat": 50.88678834152, 
-      "lon": 4.695415274913, 
+      "lat": 50.886886845537, 
+      "lon": 4.695648321487, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Riddersstraat"
     }, 
     {
@@ -2751,14 +2736,14 @@
         "0405"
       ], 
       "hnrlbls": [
-        "266"
+        "262-266"
       ], 
       "housenumber": "266", 
-      "lat": 50.886850410088, 
-      "lon": 4.69559392112, 
+      "lat": 50.886886845537, 
+      "lon": 4.695648321487, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Riddersstraat"
     }, 
     {
@@ -3123,8 +3108,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.882092704413, 
-      "lon": 4.691187140099, 
+      "lat": 50.882074299567, 
+      "lon": 4.691243854141, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3739,8 +3724,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.882931080439, 
-      "lon": 4.691475552739, 
+      "lat": 50.882920497136, 
+      "lon": 4.691499353372, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3761,8 +3746,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.883155017848, 
-      "lon": 4.691993930142, 
+      "lat": 50.883174491968, 
+      "lon": 4.691940775084, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -3828,8 +3813,8 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 50.883037345166, 
-      "lon": 4.691504989526, 
+      "lat": 50.883023392334, 
+      "lon": 4.691544540601, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

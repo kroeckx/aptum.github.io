@@ -134,6 +134,18 @@
     }, 
     {
       "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 51.056140957541, 
+      "lon": 3.308280167616, 
+      "municipality": "Wingene", 
+      "pcode": "8750", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Balgerhoekstraat"
+    }, 
+    {
+      "hnrlbls": [
         "11"
       ], 
       "housenumber": "11", 
@@ -185,11 +197,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.068551289824, 
-      "lon": 3.324524474049, 
+      "lat": 51.06855083916, 
+      "lon": 3.324524341422, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Balgerhoekstraat"
     }, 
     {
@@ -237,7 +249,7 @@
       "lon": 3.308398715671, 
       "municipality": "Wingene", 
       "pcode": "8750", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Balgerhoekstraat"
     }, 
     {
@@ -341,8 +353,8 @@
         "13A"
       ], 
       "housenumber": "13A", 
-      "lat": 51.055953626244, 
-      "lon": 3.307333125361, 
+      "lat": 51.055954355558, 
+      "lon": 3.307334249971, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 
@@ -365,8 +377,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.055992145034, 
-      "lon": 3.307417695322, 
+      "lat": 51.05598068917, 
+      "lon": 3.307383435404, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1205,8 +1217,8 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 51.063295916274, 
-      "lon": 3.316653317732, 
+      "lat": 51.063296469555, 
+      "lon": 3.316654874612, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1217,8 +1229,8 @@
         "81A"
       ], 
       "housenumber": "81A", 
-      "lat": 51.063261807763, 
-      "lon": 3.316608859489, 
+      "lat": 51.063262539532, 
+      "lon": 3.316610269692, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1229,8 +1241,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.063189614988, 
-      "lon": 3.317243199608, 
+      "lat": 51.063189002364, 
+      "lon": 3.317245068008, 
       "municipality": "Wingene", 
       "pcode": "8750", 
       "source": "manueleAanduidingVanGebouw", 

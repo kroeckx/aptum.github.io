@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.123324473371, 
+      "lon": 4.464939161463, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -38,6 +50,18 @@
     }, 
     {
       "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.123018369036, 
+      "lon": 4.464876251599, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -58,6 +82,102 @@
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "afgeleidVanGebouw", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.12306141821, 
+      "lon": 4.464994035368, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 51.123094868847, 
+      "lon": 4.465088089087, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.123124546855, 
+      "lon": 4.46517884993, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 51.123163756002, 
+      "lon": 4.465265774212, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.123188570546, 
+      "lon": 4.465367951865, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.123221825189, 
+      "lon": 4.46548128825, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.12354571669, 
+      "lon": 4.465665220454, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Josse Clymansstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 51.123658724206, 
+      "lon": 4.465533191254, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Josse Clymansstraat"
     }
   ]

@@ -77,8 +77,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.840716081408, 
-      "lon": 3.241910794346, 
+      "lat": 50.840726516144, 
+      "lon": 3.24190202488, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanPerceelGrb", 
@@ -89,8 +89,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 50.840885585412, 
-      "lon": 3.241914117412, 
+      "lat": 50.840903594827, 
+      "lon": 3.24188897935, 
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanPerceelGrb", 
@@ -217,6 +217,18 @@
       "municipality": "Kortrijk", 
       "pcode": "8501", 
       "source": "afgeleidVanGebouw", 
+      "street": "Warande"
+    }, 
+    {
+      "hnrlbls": [
+        "135A"
+      ], 
+      "housenumber": "135A", 
+      "lat": 50.838255562123, 
+      "lon": 3.242128045961, 
+      "municipality": "Kortrijk", 
+      "pcode": "8501", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Warande"
     }, 
     {

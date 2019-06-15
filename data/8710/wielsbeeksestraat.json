@@ -638,7 +638,7 @@
       "lon": 3.34137289038, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Wielsbeeksestraat"
     }, 
     {
@@ -666,6 +666,9 @@
       "street": "Wielsbeeksestraat"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "65"
       ], 

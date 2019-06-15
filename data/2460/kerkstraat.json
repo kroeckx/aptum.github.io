@@ -41,8 +41,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 51.245903159384, 
-      "lon": 4.907070287984, 
+      "lat": 51.245908936536, 
+      "lon": 4.907064912696, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -628,6 +628,18 @@
       "street": "Kerkstraat"
     }, 
     {
+      "hnrlbls": [
+        "149A"
+      ], 
+      "housenumber": "149A", 
+      "lat": 51.249112729851, 
+      "lon": 4.908264370706, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -840,8 +852,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.242317150951, 
-      "lon": 4.899508116743, 
+      "lat": 51.242315746126, 
+      "lon": 4.89952070252, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1098,8 +1110,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.24295609809, 
-      "lon": 4.900877561246, 
+      "lat": 51.242960147884, 
+      "lon": 4.900876461912, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -1250,8 +1262,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.243763265502, 
-      "lon": 4.90193491935, 
+      "lat": 51.243765330174, 
+      "lon": 4.901935515829, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -1400,11 +1412,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.244260724785, 
-      "lon": 4.902982028453, 
+      "lat": 51.244304801171, 
+      "lon": 4.90317357436, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1487,20 +1499,20 @@
     }, 
     {
       "busnrs": [
-        "bus1", 
-        "bus2", 
-        "bus3", 
-        "bus4"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.244503287339, 
-      "lon": 4.903407708821, 
+      "lat": 51.244507277731, 
+      "lon": 4.903399878164, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1574,8 +1586,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.24163988365, 
-      "lon": 4.89906349023, 
+      "lat": 51.241648116155, 
+      "lon": 4.899051698412, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 

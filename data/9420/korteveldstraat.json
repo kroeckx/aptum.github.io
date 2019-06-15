@@ -2,18 +2,6 @@
   "addresses": [
     {
       "hnrlbls": [
-        "10"
-      ], 
-      "housenumber": "10", 
-      "lat": 50.910318624615, 
-      "lon": 3.923567714602, 
-      "municipality": "Erpe-Mere", 
-      "pcode": "9420", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Korteveldstraat"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -206,8 +194,10 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
+        "4", 
         "5", 
         "6"
       ], 

@@ -409,12 +409,15 @@
       "street": "Broechemsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021"
+      ], 
       "busnrs": [
-        "1", 
-        "11", 
-        "2", 
-        "21", 
-        "22"
+        "0022"
       ], 
       "hnrlbls": [
         "13-13D"
@@ -840,8 +843,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.180324323629, 
-      "lon": 4.593077447318, 
+      "lat": 51.180324256897, 
+      "lon": 4.593065291231, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1110,11 +1113,11 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.179255248478, 
-      "lon": 4.593064141517, 
+      "lat": 51.179258679902, 
+      "lon": 4.593055863728, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Broechemsesteenweg"
     }, 
     {
@@ -1122,8 +1125,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.179210491954, 
-      "lon": 4.593532126059, 
+      "lat": 51.179214409289, 
+      "lon": 4.593598928604, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 
@@ -1134,8 +1137,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.179217552909, 
-      "lon": 4.592987308772, 
+      "lat": 51.179217011052, 
+      "lon": 4.592894209506, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 

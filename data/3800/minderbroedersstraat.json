@@ -153,8 +153,12 @@
       "street": "Minderbroedersstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "busnrs": [
-        "1"
+        "001"
       ], 
       "hnrlbls": [
         "20"

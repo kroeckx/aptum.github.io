@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.073126893755, 
-      "lon": 4.347745455757, 
+      "lat": 51.072842226278, 
+      "lon": 4.348335132181, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Hoeikensstraat"
     }, 
     {
@@ -152,26 +152,26 @@
     }, 
     {
       "hnrlbls": [
-        "1A-1B"
+        "1A"
       ], 
       "housenumber": "1A", 
       "lat": 51.072641889204, 
       "lon": 4.347431201523, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoeikensstraat"
     }, 
     {
       "hnrlbls": [
-        "1A-1B"
+        "1B"
       ], 
       "housenumber": "1B", 
-      "lat": 51.072641889204, 
-      "lon": 4.347431201523, 
+      "lat": 51.073611987252, 
+      "lon": 4.348059573787, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoeikensstraat"
     }, 
     {
@@ -196,18 +196,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Hoeikensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "21B"
-      ], 
-      "housenumber": "21B", 
-      "lat": 51.077829380195, 
-      "lon": 4.352160821817, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hoeikensstraat"
     }, 
     {
@@ -263,20 +251,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.079573138758, 
-      "lon": 4.355186046154, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoeikensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "32A"
-      ], 
-      "housenumber": "32A", 
-      "lat": 51.079287413987, 
-      "lon": 4.355473093346, 
+      "lat": 51.079430231511, 
+      "lon": 4.355329498851, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
@@ -300,7 +276,7 @@
         "20"
       ], 
       "hnrlbls": [
-        "5-5C"
+        "5"
       ], 
       "housenumber": "5", 
       "lat": 51.075267123627, 
@@ -320,18 +296,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoeikensstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5-5C"
-      ], 
-      "housenumber": "5C", 
-      "lat": 51.075267123627, 
-      "lon": 4.349243454903, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hoeikensstraat"
     }, 
     {

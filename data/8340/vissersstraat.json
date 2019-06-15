@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.240936158988, 
-      "lon": 3.340945713265, 
+      "lat": 51.240796611396, 
+      "lon": 3.34108655444, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vissersstraat"
     }, 
     {
@@ -633,8 +633,8 @@
         "2B"
       ], 
       "housenumber": "2B", 
-      "lat": 51.239423492755, 
-      "lon": 3.342762647511, 
+      "lat": 51.239276428336, 
+      "lon": 3.342855814199, 
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "afgeleidVanGebouw", 
@@ -645,8 +645,8 @@
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 51.239742943807, 
-      "lon": 3.342697622083, 
+      "lat": 51.239789633933, 
+      "lon": 3.342691439509, 
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "afgeleidVanGebouw", 
@@ -847,8 +847,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.244636407586, 
-      "lon": 3.339718688721, 
+      "lat": 51.24463182872, 
+      "lon": 3.339729674439, 
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1355,11 +1355,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.240855234914, 
-      "lon": 3.341005352679, 
+      "lat": 51.240666241314, 
+      "lon": 3.341145564454, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vissersstraat"
     }, 
     {
@@ -1492,6 +1492,18 @@
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Vissersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 51.240733645504, 
+      "lon": 3.341123170961, 
+      "municipality": "Damme", 
+      "pcode": "8340", 
+      "source": "afgeleidVanGebouw", 
       "street": "Vissersstraat"
     }, 
     {

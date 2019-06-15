@@ -1570,8 +1570,7 @@
       "busnrs": [
         "0001", 
         "0101", 
-        "0201", 
-        "0202"
+        "0201"
       ], 
       "hnrlbls": [
         "209"
@@ -3974,18 +3973,6 @@
     }, 
     {
       "hnrlbls": [
-        "399-403"
-      ], 
-      "housenumber": "399", 
-      "lat": 51.06172414462, 
-      "lon": 3.693598439691, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Rooigemlaan"
-    }, 
-    {
-      "hnrlbls": [
         "4-16"
       ], 
       "housenumber": "4", 
@@ -4046,18 +4033,6 @@
     }, 
     {
       "hnrlbls": [
-        "399-403"
-      ], 
-      "housenumber": "401", 
-      "lat": 51.06172414462, 
-      "lon": 3.693598439691, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Rooigemlaan"
-    }, 
-    {
-      "hnrlbls": [
         "402"
       ], 
       "housenumber": "402", 
@@ -4070,7 +4045,7 @@
     }, 
     {
       "hnrlbls": [
-        "399-403"
+        "403"
       ], 
       "housenumber": "403", 
       "lat": 51.06172414462, 
@@ -4352,7 +4327,7 @@
     }, 
     {
       "hnrlbls": [
-        "423-429"
+        "423"
       ], 
       "housenumber": "423", 
       "lat": 51.062235958967, 
@@ -4376,18 +4351,6 @@
     }, 
     {
       "hnrlbls": [
-        "423-429"
-      ], 
-      "housenumber": "425", 
-      "lat": 51.062235958967, 
-      "lon": 3.693953543848, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Rooigemlaan"
-    }, 
-    {
-      "hnrlbls": [
         "426"
       ], 
       "housenumber": "426", 
@@ -4400,35 +4363,11 @@
     }, 
     {
       "hnrlbls": [
-        "423-429"
-      ], 
-      "housenumber": "427", 
-      "lat": 51.062235958967, 
-      "lon": 3.693953543848, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Rooigemlaan"
-    }, 
-    {
-      "hnrlbls": [
         "428"
       ], 
       "housenumber": "428", 
       "lat": 51.061689886906, 
       "lon": 3.69408394911, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Rooigemlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "423-429"
-      ], 
-      "housenumber": "429", 
-      "lat": 51.062235958967, 
-      "lon": 3.693953543848, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -5977,7 +5916,7 @@
     }, 
     {
       "hnrlbls": [
-        "525"
+        "525-525A"
       ], 
       "housenumber": "525", 
       "lat": 51.064257548523, 
@@ -5985,6 +5924,18 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Rooigemlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "525-525A"
+      ], 
+      "housenumber": "525A", 
+      "lat": 51.064257548523, 
+      "lon": 3.695635331175, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Rooigemlaan"
     }, 
     {
@@ -6602,6 +6553,26 @@
       "housenumber": "57", 
       "lat": 51.054606159339, 
       "lon": 3.696605547923, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Rooigemlaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "572"
+      ], 
+      "housenumber": "572", 
+      "lat": 51.06534769549, 
+      "lon": 3.698321837911, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
@@ -7264,8 +7235,8 @@
         "631"
       ], 
       "housenumber": "631", 
-      "lat": 51.065944343831, 
-      "lon": 3.698770251162, 
+      "lat": 51.065921144338, 
+      "lon": 3.698721506475, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 

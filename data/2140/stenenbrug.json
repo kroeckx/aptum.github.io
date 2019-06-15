@@ -88,8 +88,12 @@
       "street": "Stenenbrug"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
         "103"
@@ -255,9 +259,6 @@
       "street": "Stenenbrug"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "115A"
       ], 
@@ -754,8 +755,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.211388892458, 
-      "lon": 4.452014365038, 
+      "lat": 51.211258297997, 
+      "lon": 4.451877323195, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "afgeleidVanGebouw", 
@@ -888,6 +889,11 @@
       "street": "Stenenbrug"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "301"
+      ], 
       "hnrlbls": [
         "160"
       ], 
@@ -1389,6 +1395,14 @@
       "street": "Stenenbrug"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "51-53"
       ], 
@@ -1651,6 +1665,12 @@
       "street": "Stenenbrug"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "82"
       ], 
@@ -1771,6 +1791,11 @@
       "street": "Stenenbrug"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "93"
       ], 

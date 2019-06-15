@@ -214,8 +214,8 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.834004503258, 
-      "lon": 4.727870560656, 
+      "lat": 50.834010833762, 
+      "lon": 4.727858258866, 
       "municipality": "Oud-Heverlee", 
       "pcode": "3053", 
       "source": "afgeleidVanPerceelGrb", 
@@ -549,11 +549,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.831812978134, 
-      "lon": 4.72638262136, 
+      "lat": 50.831821872472, 
+      "lon": 4.726266715929, 
       "municipality": "Oud-Heverlee", 
       "pcode": "3053", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Milsestraat"
     }, 
     {
@@ -644,11 +644,11 @@
     }, 
     {
       "hnrlbls": [
-        "48"
+        "48D"
       ], 
-      "housenumber": "48", 
-      "lat": 50.831305569631, 
-      "lon": 4.726569675653, 
+      "housenumber": "48D", 
+      "lat": 50.831359746908, 
+      "lon": 4.725961696682, 
       "municipality": "Oud-Heverlee", 
       "pcode": "3053", 
       "source": "manueleAanduidingVanGebouw", 
@@ -682,6 +682,18 @@
       "street": "Milsestraat"
     }, 
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106"
+      ], 
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -690,7 +702,7 @@
       "lon": 4.726584995951, 
       "municipality": "Oud-Heverlee", 
       "pcode": "3053", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Milsestraat"
     }, 
     {

@@ -515,10 +515,6 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -561,18 +557,6 @@
       "housenumber": "23", 
       "lat": 51.017797672314, 
       "lon": 4.202925181769, 
-      "municipality": "Buggenhout", 
-      "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.016912284638, 
-      "lon": 4.201737349696, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1129,18 +1113,15 @@
       "street": "Kerkstraat"
     }, 
     {
-      "busnrs": [
-        "0101"
-      ], 
       "hnrlbls": [
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.014880518333, 
-      "lon": 4.20176138008, 
+      "lat": 51.014904681259, 
+      "lon": 4.201876152211, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1312,18 +1293,6 @@
       "housenumber": "79", 
       "lat": 51.016441023619, 
       "lon": 4.202145029386, 
-      "municipality": "Buggenhout", 
-      "pcode": "9255", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.018304917499, 
-      "lon": 4.202983676641, 
       "municipality": "Buggenhout", 
       "pcode": "9255", 
       "source": "manueleAanduidingVanGebouw", 

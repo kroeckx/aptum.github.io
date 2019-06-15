@@ -222,6 +222,23 @@
       "street": "Laagland"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "1001", 
+        "2001"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 51.288637942686, 
+      "lon": 4.511372355294, 
+      "municipality": "Brasschaat", 
+      "pcode": "2930", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Laagland"
+    }, 
+    {
       "hnrlbls": [
         "14"
       ], 
@@ -397,8 +414,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.288178058497, 
-      "lon": 4.511413655015, 
+      "lat": 51.288177247831, 
+      "lon": 4.511415085918, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -409,8 +426,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.288146689749, 
-      "lon": 4.511339451761, 
+      "lat": 51.288144890389, 
+      "lon": 4.511340879621, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -460,11 +477,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.289087058572, 
-      "lon": 4.512131447174, 
+      "lat": 51.289086253303, 
+      "lon": 4.512128434486, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Laagland"
     }, 
     {

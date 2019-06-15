@@ -5,11 +5,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.947288839707, 
-      "lon": 5.704605576742, 
+      "lat": 50.947450150329, 
+      "lon": 5.704461732441, 
       "municipality": "Maasmechelen", 
       "pcode": "3631", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Slakweidestraat"
     }, 
     {
@@ -101,26 +101,26 @@
     }, 
     {
       "hnrlbls": [
-        "33-33C"
+        "33B"
       ], 
       "housenumber": "33B", 
-      "lat": 50.941030167992, 
-      "lon": 5.699208755798, 
+      "lat": 50.939623344278, 
+      "lon": 5.696002717252, 
       "municipality": "Maasmechelen", 
       "pcode": "3631", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Slakweidestraat"
     }, 
     {
       "hnrlbls": [
-        "33-33C"
+        "33C"
       ], 
       "housenumber": "33C", 
-      "lat": 50.941030167992, 
-      "lon": 5.699208755798, 
+      "lat": 50.939595646196, 
+      "lon": 5.695080131692, 
       "municipality": "Maasmechelen", 
       "pcode": "3631", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Slakweidestraat"
     }, 
     {
@@ -179,8 +179,8 @@
         "40D"
       ], 
       "housenumber": "40D", 
-      "lat": 50.94137559835, 
-      "lon": 5.703819351471, 
+      "lat": 50.941374797532, 
+      "lon": 5.703818617152, 
       "municipality": "Maasmechelen", 
       "pcode": "3631", 
       "source": "afgeleidVanPerceelGrb", 
@@ -202,6 +202,9 @@
       "street": "Slakweidestraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "40G"
       ], 

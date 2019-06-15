@@ -38,14 +38,14 @@
     }, 
     {
       "hnrlbls": [
-        "102"
+        "102-104"
       ], 
       "housenumber": "102", 
-      "lat": 50.886130595889, 
-      "lon": 5.294784396029, 
+      "lat": 50.886459761757, 
+      "lon": 5.294642939405, 
       "municipality": "Alken", 
       "pcode": "3570", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -62,14 +62,14 @@
     }, 
     {
       "hnrlbls": [
-        "104"
+        "102-104"
       ], 
       "housenumber": "104", 
-      "lat": 50.886413451831, 
-      "lon": 5.294724031575, 
+      "lat": 50.886459761757, 
+      "lon": 5.294642939405, 
       "municipality": "Alken", 
       "pcode": "3570", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Stationsstraat"
     }, 
     {
@@ -140,8 +140,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 50.887048178884, 
-      "lon": 5.293797952752, 
+      "lat": 50.887104886204, 
+      "lon": 5.293903107148, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -250,7 +250,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "116A"
@@ -285,8 +286,8 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 50.886040173587, 
-      "lon": 5.293722513964, 
+      "lat": 50.886039825245, 
+      "lon": 5.293721085866, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -411,11 +412,11 @@
         "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.886669128562, 
-      "lon": 5.293117234164, 
+      "lat": 50.886664200154, 
+      "lon": 5.293103777324, 
       "municipality": "Alken", 
       "pcode": "3570", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -540,8 +541,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.877867739294, 
-      "lon": 5.30478769517, 
+      "lat": 50.877870621353, 
+      "lon": 5.304787042148, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -720,8 +721,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.880995056089, 
-      "lon": 5.302746006737, 
+      "lat": 50.881000972158, 
+      "lon": 5.30275948264, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -834,8 +835,8 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.881337376146, 
-      "lon": 5.302218345619, 
+      "lat": 50.881338035891, 
+      "lon": 5.302214521789, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1058,8 +1059,8 @@
         "59"
       ], 
       "housenumber": "59", 
-      "lat": 50.882270038331, 
-      "lon": 5.300417433802, 
+      "lat": 50.882277224069, 
+      "lon": 5.300406918034, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1082,8 +1083,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 50.882491058119, 
-      "lon": 5.299902683303, 
+      "lat": 50.882487654455, 
+      "lon": 5.299912421554, 
       "municipality": "Alken", 
       "pcode": "3570", 
       "source": "afgeleidVanGebouw", 
@@ -1142,7 +1143,8 @@
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "77"

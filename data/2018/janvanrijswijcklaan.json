@@ -1164,8 +1164,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.197488597289, 
-      "lon": 4.408496224408, 
+      "lat": 51.197487698932, 
+      "lon": 4.40849479302, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1210,8 +1210,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.197481713469, 
-      "lon": 4.408387062922, 
+      "lat": 51.197482253363, 
+      "lon": 4.408385346657, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -1589,6 +1589,11 @@
       "street": "Jan Van Rijswijcklaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -1644,9 +1649,6 @@
       "street": "Jan Van Rijswijcklaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "54"
       ], 
@@ -1689,7 +1691,8 @@
         "3", 
         "4", 
         "5", 
-        "6"
+        "6", 
+        "7"
       ], 
       "hnrlbls": [
         "57"
@@ -1703,9 +1706,6 @@
       "street": "Jan Van Rijswijcklaan"
     }, 
     {
-      "busnrs": [
-        "60"
-      ], 
       "hnrlbls": [
         "58-60"
       ], 
@@ -1718,9 +1718,6 @@
       "street": "Jan Van Rijswijcklaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "59"
       ], 
@@ -1794,7 +1791,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
         "11", 
         "21", 
         "31", 

@@ -490,6 +490,11 @@
       "street": "Bisschopstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "38"
       ], 
@@ -502,10 +507,6 @@
       "street": "Bisschopstraat"
     }, 
     {
-      "apptnrs": [
-        "001", 
-        "201"
-      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -548,6 +549,12 @@
       "street": "Bisschopstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -935,10 +942,6 @@
       "street": "Bisschopstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "72"
       ], 

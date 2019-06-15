@@ -29,11 +29,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.762855447811, 
-      "lon": 4.379574914741, 
+      "lat": 50.762885650898, 
+      "lon": 4.379598734549, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Jonetlaan"
     }, 
     {
@@ -53,8 +53,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.764073343196, 
-      "lon": 4.380741058551, 
+      "lat": 50.764074332126, 
+      "lon": 4.38074049184, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
@@ -209,8 +209,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.763177537983, 
-      "lon": 4.376547536497, 
+      "lat": 50.763182752446, 
+      "lon": 4.376541584292, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +257,8 @@
         "28A"
       ], 
       "housenumber": "28A", 
-      "lat": 50.763582534899, 
-      "lon": 4.376401897925, 
+      "lat": 50.763581995406, 
+      "lon": 4.376403456999, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
@@ -269,8 +269,8 @@
         "28B"
       ], 
       "housenumber": "28B", 
-      "lat": 50.763593440722, 
-      "lon": 4.37599495638, 
+      "lat": 50.76358822741, 
+      "lon": 4.375984324796, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
@@ -305,8 +305,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.763375114737, 
-      "lon": 4.375474867823, 
+      "lat": 50.76336073181, 
+      "lon": 4.375465227099, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 
@@ -321,7 +321,7 @@
       "lon": 4.381631050629, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Jonetlaan"
     }, 
     {
@@ -329,8 +329,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.763371556883, 
-      "lon": 4.381190900799, 
+      "lat": 50.763379557296, 
+      "lon": 4.381194730066, 
       "municipality": "Sint-Genesius-Rode", 
       "pcode": "1640", 
       "source": "afgeleidVanGebouw", 

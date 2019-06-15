@@ -169,27 +169,18 @@
       "street": "Heiligestraat"
     }, 
     {
-      "hnrlbls": [
-        "31"
+      "busnrs": [
+        "5"
       ], 
-      "housenumber": "31", 
-      "lat": 50.811350880296, 
-      "lon": 5.575887347367, 
+      "hnrlbls": [
+        "31_5"
+      ], 
+      "housenumber": "31_5", 
+      "lat": 50.811366319973, 
+      "lon": 5.575872276111, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heiligestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33"
-      ], 
-      "housenumber": "33", 
-      "lat": 50.811402234539, 
-      "lon": 5.575938049107, 
-      "municipality": "Riemst", 
-      "pcode": "3770", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Heiligestraat"
     }, 
     {
@@ -353,8 +344,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.812028316221, 
-      "lon": 5.576953012347, 
+      "lat": 50.812028211701, 
+      "lon": 5.576954428736, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanGebouw", 
@@ -533,8 +524,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.813061737763, 
-      "lon": 5.578823416341, 
+      "lat": 50.813068463461, 
+      "lon": 5.578807695464, 
       "municipality": "Riemst", 
       "pcode": "3770", 
       "source": "afgeleidVanGebouw", 

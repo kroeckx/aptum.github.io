@@ -952,8 +952,10 @@
       "apptnrs": [
         "0001", 
         "0002", 
+        "0003", 
         "0101", 
         "0102", 
+        "0103", 
         "0201", 
         "0202"
       ], 
@@ -1098,6 +1100,18 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "afgeleidVanGebouw", 
+      "street": "Molenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "66"
+      ], 
+      "housenumber": "66", 
+      "lat": 51.233093473383, 
+      "lon": 5.321491884587, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Molenstraat"
     }, 
     {

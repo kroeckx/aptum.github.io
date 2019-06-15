@@ -20,8 +20,8 @@
         "10C"
       ], 
       "housenumber": "10C", 
-      "lat": 51.142472793284, 
-      "lon": 5.592943820408, 
+      "lat": 51.142475682033, 
+      "lon": 5.592951327589, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -94,6 +94,37 @@
     }, 
     {
       "hnrlbls": [
+        "13A"
+      ], 
+      "housenumber": "13A", 
+      "lat": 51.142162995746, 
+      "lon": 5.592970422859, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Boogschuttersstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
+      "hnrlbls": [
+        "13B"
+      ], 
+      "housenumber": "13B", 
+      "lat": 51.142138069999, 
+      "lon": 5.592964052696, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Boogschuttersstraat"
+    }, 
+    {
+      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
@@ -105,6 +136,13 @@
       "street": "Boogschuttersstraat"
     }, 
     {
+      "apptnrs": [
+        "0/1", 
+        "0/2", 
+        "1/1", 
+        "1/2", 
+        "2/1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -169,23 +207,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.141733918012, 
-      "lon": 5.591903639128, 
+      "lat": 51.141736695228, 
+      "lon": 5.59190456936, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
-      "street": "Boogschuttersstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "22"
-      ], 
-      "housenumber": "22", 
-      "lat": 51.142152491941, 
-      "lon": 5.591894457098, 
-      "municipality": "Bree", 
-      "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Boogschuttersstraat"
     }, 
     {
@@ -256,8 +282,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.141266942484, 
-      "lon": 5.591005657917, 
+      "lat": 51.141264711909, 
+      "lon": 5.591004027521, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -355,8 +381,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.141368682959, 
-      "lon": 5.590643619601, 
+      "lat": 51.141356029507, 
+      "lon": 5.590650147977, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -526,8 +552,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.140610973415, 
-      "lon": 5.58941479993, 
+      "lat": 51.140618026807, 
+      "lon": 5.589402122827, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -562,11 +588,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.140639986044, 
-      "lon": 5.588861082714, 
+      "lat": 51.140650121708, 
+      "lon": 5.588845913775, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Boogschuttersstraat"
     }, 
     {
@@ -574,11 +600,11 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.140465588477, 
-      "lon": 5.588504119056, 
+      "lat": 51.140639147861, 
+      "lon": 5.58850751101, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Boogschuttersstraat"
     }, 
     {
@@ -627,8 +653,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.142367061663, 
-      "lon": 5.593308615981, 
+      "lat": 51.142363871567, 
+      "lon": 5.593312819638, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 

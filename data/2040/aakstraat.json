@@ -5,8 +5,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.359336344469, 
-      "lon": 4.315823505334, 
+      "lat": 51.359325686303, 
+      "lon": 4.315908504257, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -24,11 +24,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.359653624657, 
-      "lon": 4.315842242317, 
+      "lat": 51.359632012147, 
+      "lon": 4.315747804127, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Aakstraat"
     }, 
     {
@@ -43,8 +43,20 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.359815072619, 
-      "lon": 4.315493639535, 
+      "lat": 51.35980270771, 
+      "lon": 4.315377513067, 
+      "municipality": "Antwerpen", 
+      "pcode": "2040", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Aakstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 51.360349839933, 
+      "lon": 4.314664106735, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 

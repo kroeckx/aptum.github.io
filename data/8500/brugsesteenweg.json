@@ -448,8 +448,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.839985490158, 
-      "lon": 3.264356040917, 
+      "lat": 50.839985496839, 
+      "lon": 3.264356750704, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -467,8 +467,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.840092976504, 
-      "lon": 3.264504593813, 
+      "lat": 50.840091640248, 
+      "lon": 3.264505903083, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1644,11 +1644,11 @@
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 50.844198013851, 
-      "lon": 3.267782887049, 
+      "lat": 50.844211847384, 
+      "lon": 3.267733714758, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -1658,6 +1658,18 @@
       "housenumber": "231", 
       "lat": 50.842537655458, 
       "lon": 3.265381398547, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "232"
+      ], 
+      "housenumber": "232", 
+      "lat": 50.844182994472, 
+      "lon": 3.267830241049, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1990,8 +2002,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.836944857917, 
-      "lon": 3.262319734844, 
+      "lat": 50.836944499714, 
+      "lon": 3.262319885248, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "afgeleidVanGebouw", 
@@ -2050,8 +2062,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.837139834035, 
-      "lon": 3.262383441648, 
+      "lat": 50.837110297732, 
+      "lon": 3.262330751744, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2074,8 +2086,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.837183198552, 
-      "lon": 3.262405706585, 
+      "lat": 50.837144389338, 
+      "lon": 3.262351672921, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2098,8 +2110,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.837217157223, 
-      "lon": 3.262431600292, 
+      "lat": 50.837186036469, 
+      "lon": 3.262382497044, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2122,8 +2134,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.837251188372, 
-      "lon": 3.262455646584, 
+      "lat": 50.8372224689, 
+      "lon": 3.262413301876, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
       "source": "manueleAanduidingVanGebouw", 

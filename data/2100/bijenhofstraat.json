@@ -49,25 +49,17 @@
       "street": "Bijenhofstraat"
     }, 
     {
-      "busnrs": [
-        "15"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "13-15"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.20328812307, 
-      "lon": 4.465846527986, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bijenhofstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "13-15"
-      ], 
-      "housenumber": "15", 
       "lat": 51.20328812307, 
       "lon": 4.465846527986, 
       "municipality": "Antwerpen", 

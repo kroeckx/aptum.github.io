@@ -1,6 +1,15 @@
 {
   "streets": [
     {
+      "b": 50.851189824558, 
+      "l": 5.532151676552, 
+      "name": "Beelick", 
+      "numOfAddr": 1, 
+      "r": 5.532151676552, 
+      "sanName": "beelick", 
+      "t": 50.851189824558
+    }, 
+    {
       "b": 50.850242652913, 
       "l": 5.529414045698, 
       "name": "Biesenveldweg", 
@@ -50,12 +59,12 @@
     }, 
     {
       "b": 50.849276192547, 
-      "l": 5.529900898306, 
+      "l": 5.529978946799, 
       "name": "Linnerveldstraat", 
       "numOfAddr": 48, 
       "r": 5.533240963617, 
       "sanName": "linnerveldstraat", 
-      "t": 50.85483328473
+      "t": 50.855046565583
     }, 
     {
       "b": 50.863575201606, 
@@ -110,7 +119,7 @@
       "b": 50.849982178968, 
       "l": 5.522193251757, 
       "name": "Reekstraat", 
-      "numOfAddr": 20, 
+      "numOfAddr": 22, 
       "otherPCs": [
         "3740"
       ], 
@@ -122,7 +131,7 @@
       "b": 50.848602143921, 
       "l": 5.529798074405, 
       "name": "Riemsterweg", 
-      "numOfAddr": 89, 
+      "numOfAddr": 90, 
       "otherPCs": [
         "3740"
       ], 
@@ -161,7 +170,7 @@
       "b": 50.851492526639, 
       "l": 5.537328316389, 
       "name": "Vliegenbergstraat", 
-      "numOfAddr": 24, 
+      "numOfAddr": 25, 
       "r": 5.539624367263, 
       "sanName": "vliegenbergstraat", 
       "t": 50.85378810097

@@ -233,11 +233,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.980437799298, 
-      "lon": 2.691468961395, 
+      "lat": 50.980415122314, 
+      "lon": 2.691373059476, 
       "municipality": "Alveringem", 
       "pcode": "8690", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Hoogstadestraat"
     }, 
     {
@@ -509,11 +509,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.000069573457, 
-      "lon": 2.685491752504, 
+      "lat": 51.001067500477, 
+      "lon": 2.685043377004, 
       "municipality": "Alveringem", 
       "pcode": "8690", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Hoogstadestraat"
     }, 
     {

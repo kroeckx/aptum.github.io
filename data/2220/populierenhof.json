@@ -13,17 +13,90 @@
       "street": "Populierenhof"
     }, 
     {
+      "hnrlbls": [
+        "19"
+      ], 
+      "housenumber": "19", 
+      "lat": 51.071758104916, 
+      "lon": 4.720187129007, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Populierenhof"
+    }, 
+    {
+      "hnrlbls": [
+        "21"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.071784292689, 
+      "lon": 4.72005677564, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Populierenhof"
+    }, 
+    {
+      "hnrlbls": [
+        "23"
+      ], 
+      "housenumber": "23", 
+      "lat": 51.071805588882, 
+      "lon": 4.719908835916, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Populierenhof"
+    }, 
+    {
       "busnrs": [
         "1", 
-        "10", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.072040873393, 
+      "lon": 4.720736573856, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Populierenhof"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "28A"
+      ], 
+      "housenumber": "28A", 
+      "lat": 51.072228085102, 
+      "lon": 4.720776223384, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Populierenhof"
+    }, 
+    {
+      "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
         "7", 
-        "8", 
-        "9"
+        "8"
       ], 
       "hnrlbls": [
         "3"
@@ -31,6 +104,46 @@
       "housenumber": "3", 
       "lat": 51.070915383896, 
       "lon": 4.720278661036, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Populierenhof"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 51.072304600011, 
+      "lon": 4.72022891017, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2220", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Populierenhof"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
+      "hnrlbls": [
+        "30A"
+      ], 
+      "housenumber": "30A", 
+      "lat": 51.072096198955, 
+      "lon": 4.720150865272, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2220", 
       "source": "manueleAanduidingVanPerceel", 

@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.978961742625, 
-      "lon": 3.474117095192, 
+      "lat": 50.978889273289, 
+      "lon": 3.474174726955, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -53,8 +53,8 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 50.965249498483, 
-      "lon": 3.461954393671, 
+      "lat": 50.965293435526, 
+      "lon": 3.461881366457, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -168,11 +168,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.978806533916, 
-      "lon": 3.475211865615, 
+      "lat": 50.978804089859, 
+      "lon": 3.474866298079, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -512,8 +512,8 @@
         "138A"
       ], 
       "housenumber": "138A", 
-      "lat": 50.964022938775, 
-      "lon": 3.460290143632, 
+      "lat": 50.96407375367, 
+      "lon": 3.460351228524, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -524,11 +524,11 @@
         "138B"
       ], 
       "housenumber": "138B", 
-      "lat": 50.96404321641, 
-      "lon": 3.460389829656, 
+      "lat": 50.964027932148, 
+      "lon": 3.460308126586, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -544,18 +544,18 @@
       "street": "Oude Heirbaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004"
       ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.963997532415, 
-      "lon": 3.460259743573, 
+      "lat": 50.963967131563, 
+      "lon": 3.460211218285, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -814,8 +814,8 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.962809632901, 
-      "lon": 3.459110728759, 
+      "lat": 50.962809063531, 
+      "lon": 3.459095223033, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -855,6 +855,18 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Oude Heirbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "159A"
+      ], 
+      "housenumber": "159A", 
+      "lat": 50.960660847576, 
+      "lon": 3.457713374912, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -994,8 +1006,8 @@
         "173A"
       ], 
       "housenumber": "173A", 
-      "lat": 50.959133374526, 
-      "lon": 3.456158876819, 
+      "lat": 50.959185783987, 
+      "lon": 3.456355716736, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1008,6 +1020,18 @@
       "housenumber": "174", 
       "lat": 50.961602715989, 
       "lon": 3.457840857157, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Heirbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "175"
+      ], 
+      "housenumber": "175", 
+      "lat": 50.959080305064, 
+      "lon": 3.455946534637, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1054,8 +1078,8 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 50.958734682105, 
-      "lon": 3.455696612421, 
+      "lat": 50.958734685419, 
+      "lon": 3.455697039387, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1114,11 +1138,11 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 50.960678905336, 
-      "lon": 3.456922701579, 
+      "lat": 50.960731254977, 
+      "lon": 3.45690317894, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -1138,11 +1162,11 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 50.960861095837, 
-      "lon": 3.45596755314, 
+      "lat": 50.960435245675, 
+      "lon": 3.456570426206, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -1186,8 +1210,8 @@
         "190C"
       ], 
       "housenumber": "190C", 
-      "lat": 50.959098589611, 
-      "lon": 3.455290825166, 
+      "lat": 50.959098149024, 
+      "lon": 3.455291972498, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1222,11 +1246,11 @@
         "191"
       ], 
       "housenumber": "191", 
-      "lat": 50.957514652305, 
-      "lon": 3.455093058667, 
+      "lat": 50.957690950009, 
+      "lon": 3.454665594902, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -1270,8 +1294,8 @@
         "194"
       ], 
       "housenumber": "194", 
-      "lat": 50.958537749064, 
-      "lon": 3.45472867011, 
+      "lat": 50.958536615154, 
+      "lon": 3.454721575057, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1318,8 +1342,8 @@
         "198"
       ], 
       "housenumber": "198", 
-      "lat": 50.958108786927, 
-      "lon": 3.454328362666, 
+      "lat": 50.958106633281, 
+      "lon": 3.454317301997, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1438,8 +1462,8 @@
         "206"
       ], 
       "housenumber": "206", 
-      "lat": 50.956495805457, 
-      "lon": 3.452893582191, 
+      "lat": 50.956505795209, 
+      "lon": 3.452871894404, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1486,8 +1510,8 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 50.954410450153, 
-      "lon": 3.451893842624, 
+      "lat": 50.95441018937, 
+      "lon": 3.451894986361, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1507,17 +1531,17 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0002"
       ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 50.978409121837, 
-      "lon": 3.473760093455, 
+      "lat": 50.978514993302, 
+      "lon": 3.473827281325, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -1585,8 +1609,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.977889088677, 
-      "lon": 3.472889264579, 
+      "lat": 50.977888551534, 
+      "lon": 3.472889559639, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1609,8 +1633,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.979961822459, 
-      "lon": 3.475935645559, 
+      "lat": 50.979961639449, 
+      "lon": 3.47593522182, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1910,18 +1934,6 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
-      "street": "Oude Heirbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "57"
-      ], 
-      "housenumber": "57", 
-      "lat": 50.976536265803, 
-      "lon": 3.472908264786, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -2241,8 +2253,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.979007827571, 
-      "lon": 3.474313873654, 
+      "lat": 50.979006899587, 
+      "lon": 3.474298226858, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -2409,8 +2421,8 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 50.972526772631, 
-      "lon": 3.46788716402, 
+      "lat": 50.972533024836, 
+      "lon": 3.46789359367, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -2421,11 +2433,11 @@
         "93A"
       ], 
       "housenumber": "93A", 
-      "lat": 50.966234590306, 
-      "lon": 3.462652310422, 
+      "lat": 50.966206802495, 
+      "lon": 3.462767878654, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -2433,11 +2445,11 @@
         "93B"
       ], 
       "housenumber": "93B", 
-      "lat": 50.966129698594, 
-      "lon": 3.462596535581, 
+      "lat": 50.966084587067, 
+      "lon": 3.462738918091, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -2445,11 +2457,11 @@
         "93C"
       ], 
       "housenumber": "93C", 
-      "lat": 50.966028566686, 
-      "lon": 3.462538695259, 
+      "lat": 50.966028413239, 
+      "lon": 3.46260048477, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -2469,11 +2481,11 @@
         "95A"
       ], 
       "housenumber": "95A", 
-      "lat": 50.965942550821, 
-      "lon": 3.46248255633, 
+      "lat": 50.965880024704, 
+      "lon": 3.462628264354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Heirbaan"
     }, 
     {
@@ -2481,11 +2493,11 @@
         "95B"
       ], 
       "housenumber": "95B", 
-      "lat": 50.96582617998, 
-      "lon": 3.462407072887, 
+      "lat": 50.965782551788, 
+      "lon": 3.462555262961, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Heirbaan"
     }, 
     {

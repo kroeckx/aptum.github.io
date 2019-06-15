@@ -413,7 +413,7 @@
       "street": "Heirstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -494,21 +494,6 @@
       "street": "Heirstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "139A"
-      ], 
-      "housenumber": "139A", 
-      "lat": 50.967728320815, 
-      "lon": 5.701795454843, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Heirstraat"
-    }, 
-    {
       "hnrlbls": [
         "13A"
       ], 
@@ -568,8 +553,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.968166456791, 
-      "lon": 5.70161911839, 
+      "lat": 50.968159465728, 
+      "lon": 5.701617210912, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -731,7 +716,7 @@
       "lon": 5.700717171967, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heirstraat"
     }, 
     {
@@ -1383,9 +1368,7 @@
     }, 
     {
       "apptnrs": [
-        "1"
-      ], 
-      "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4"
@@ -1394,8 +1377,8 @@
         "218A"
       ], 
       "housenumber": "218A", 
-      "lat": 50.962420073667, 
-      "lon": 5.695439406093, 
+      "lat": 50.962489907279, 
+      "lon": 5.695537053567, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "manueleAanduidingVanPerceel", 
@@ -1427,18 +1410,17 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "A1"
+        "1"
       ], 
       "hnrlbls": [
         "220"
       ], 
       "housenumber": "220", 
-      "lat": 50.961643048237, 
-      "lon": 5.694719396975, 
+      "lat": 50.961665546017, 
+      "lon": 5.694789222539, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heirstraat"
     }, 
     {
@@ -1449,11 +1431,11 @@
         "220A"
       ], 
       "housenumber": "220A", 
-      "lat": 50.961666815611, 
-      "lon": 5.69478028952, 
+      "lat": 50.961593475949, 
+      "lon": 5.69470646285, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Heirstraat"
     }, 
     {
@@ -1482,21 +1464,6 @@
         "222-222B"
       ], 
       "housenumber": "222", 
-      "lat": 50.961496889162, 
-      "lon": 5.694509688297, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heirstraat"
-    }, 
-    {
-      "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "222-222B"
-      ], 
-      "housenumber": "222B", 
       "lat": 50.961496889162, 
       "lon": 5.694509688297, 
       "municipality": "Maasmechelen", 
@@ -1815,14 +1782,15 @@
       "street": "Heirstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
         "4", 
         "5", 
         "6", 
-        "7"
+        "7", 
+        "8"
       ], 
       "hnrlbls": [
         "253A"
@@ -2554,18 +2522,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Heirstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "315B"
-      ], 
-      "housenumber": "315B", 
-      "lat": 50.956272003362, 
-      "lon": 5.689853881061, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Heirstraat"
     }, 
     {
@@ -3649,8 +3605,8 @@
         "423"
       ], 
       "housenumber": "423", 
-      "lat": 50.946980328156, 
-      "lon": 5.682399345141, 
+      "lat": 50.946978167892, 
+      "lon": 5.682399569242, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -3673,8 +3629,8 @@
         "426"
       ], 
       "housenumber": "426", 
-      "lat": 50.947528682093, 
-      "lon": 5.682132774389, 
+      "lat": 50.947546054805, 
+      "lon": 5.682235447538, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -3974,6 +3930,11 @@
       "street": "Heirstraat"
     }, 
     {
+      "apptnrs": [
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "450"
       ], 
@@ -4002,8 +3963,8 @@
         "453"
       ], 
       "housenumber": "453", 
-      "lat": 50.944765894851, 
-      "lon": 5.682394359771, 
+      "lat": 50.944765264111, 
+      "lon": 5.682394484409, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4016,30 +3977,6 @@
       "housenumber": "454", 
       "lat": 50.944976425687, 
       "lon": 5.681271147226, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heirstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "456"
-      ], 
-      "housenumber": "456", 
-      "lat": 50.944742527416, 
-      "lon": 5.681468816817, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heirstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "458"
-      ], 
-      "housenumber": "458", 
-      "lat": 50.944598486458, 
-      "lon": 5.681469764305, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
@@ -4137,9 +4074,6 @@
       "street": "Heirstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "465"
       ], 
@@ -4255,8 +4189,8 @@
         "473"
       ], 
       "housenumber": "473", 
-      "lat": 50.94362595098, 
-      "lon": 5.681776815748, 
+      "lat": 50.943625216049, 
+      "lon": 5.681778218254, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4294,8 +4228,8 @@
         "477"
       ], 
       "housenumber": "477", 
-      "lat": 50.943346656693, 
-      "lon": 5.681925532293, 
+      "lat": 50.943348120197, 
+      "lon": 5.681923296357, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 
@@ -4694,11 +4628,11 @@
         "508"
       ], 
       "housenumber": "508", 
-      "lat": 50.940789824788, 
-      "lon": 5.679613540264, 
+      "lat": 50.940864957012, 
+      "lon": 5.679108624183, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heirstraat"
     }, 
     {
@@ -4781,21 +4715,35 @@
     }, 
     {
       "apptnrs": [
-        "1", 
         "2", 
         "3", 
         "4", 
         "5"
       ], 
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "515"
       ], 
       "housenumber": "515", 
-      "lat": 50.941633421071, 
-      "lon": 5.680603791234, 
+      "lat": 50.94187155055, 
+      "lon": 5.680365265401, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Heirstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "515A"
+      ], 
+      "housenumber": "515A", 
+      "lat": 50.941674503514, 
+      "lon": 5.680733013519, 
+      "municipality": "Maasmechelen", 
+      "pcode": "3630", 
+      "source": "afgeleidVanGebouw", 
       "street": "Heirstraat"
     }, 
     {
@@ -5794,8 +5742,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.976803447244, 
-      "lon": 5.709416741035, 
+      "lat": 50.97680559674, 
+      "lon": 5.709425347189, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanPerceelGrb", 

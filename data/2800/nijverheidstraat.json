@@ -670,8 +670,8 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.033673029568, 
-      "lon": 4.495509234836, 
+      "lat": 51.033672670008, 
+      "lon": 4.495509233857, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanPerceelGrb", 
@@ -969,21 +969,6 @@
       "street": "Nijverheidstraat"
     }, 
     {
-      "busnrs": [
-        "101"
-      ], 
-      "hnrlbls": [
-        "58"
-      ], 
-      "housenumber": "58", 
-      "lat": 51.033895220299, 
-      "lon": 4.496188146244, 
-      "municipality": "Mechelen", 
-      "pcode": "2800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Nijverheidstraat"
-    }, 
-    {
       "hnrlbls": [
         "59"
       ], 
@@ -1009,17 +994,28 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203"
       ], 
       "hnrlbls": [
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.033882827969, 
-      "lon": 4.49625925039, 
+      "lat": 51.033907471906, 
+      "lon": 4.49624634479, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nijverheidstraat"
     }, 
     {

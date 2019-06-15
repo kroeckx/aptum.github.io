@@ -153,26 +153,59 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.01326756063, 
-      "lon": 4.494913500242, 
+      "lat": 51.013263428433, 
+      "lon": 4.494910924078, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
       "street": "Motstraat"
     }, 
     {
-      "busnrs": [
-        "7"
-      ], 
       "hnrlbls": [
         "54A"
       ], 
       "housenumber": "54A", 
-      "lat": 51.013214275429, 
-      "lon": 4.496305279645, 
+      "lat": 51.013023662072, 
+      "lon": 4.496758328112, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Motstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "54B"
+      ], 
+      "housenumber": "54B", 
+      "lat": 51.012883044992, 
+      "lon": 4.496454707437, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Motstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "54C"
+      ], 
+      "housenumber": "54C", 
+      "lat": 51.012817874313, 
+      "lon": 4.49620715378, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Motstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "54D"
+      ], 
+      "housenumber": "54D", 
+      "lat": 51.012775260096, 
+      "lon": 4.496047440556, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Motstraat"
     }, 
     {
@@ -425,8 +458,8 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 51.015163139481, 
-      "lon": 4.498158468607, 
+      "lat": 51.015194779795, 
+      "lon": 4.498159554023, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 

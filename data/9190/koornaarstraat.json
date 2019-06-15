@@ -153,7 +153,7 @@
       "lon": 4.014593207501, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Koornaarstraat"
     }, 
     {
@@ -177,24 +177,24 @@
       "lon": 4.014593207501, 
       "municipality": "Stekene", 
       "pcode": "9190", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Koornaarstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "112"
+      ], 
+      "housenumber": "112", 
+      "lat": 51.242178915154, 
+      "lon": 4.01422280276, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Koornaarstraat"
     }, 
     {
       "hnrlbls": [
-        "112-113"
-      ], 
-      "housenumber": "112", 
-      "lat": 51.241971811171, 
-      "lon": 4.014339364006, 
-      "municipality": "Stekene", 
-      "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koornaarstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "112-113"
+        "113"
       ], 
       "housenumber": "113", 
       "lat": 51.241971811171, 
@@ -341,8 +341,8 @@
         "306"
       ], 
       "housenumber": "306", 
-      "lat": 51.241841814654, 
-      "lon": 4.014963121929, 
+      "lat": 51.241930343639, 
+      "lon": 4.015473098878, 
       "municipality": "Stekene", 
       "pcode": "9190", 
       "source": "manueleAanduidingVanGebouw", 

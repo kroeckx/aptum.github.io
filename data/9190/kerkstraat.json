@@ -975,7 +975,7 @@
       "lon": 4.039693126702, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -999,7 +999,7 @@
       "lon": 4.039693126702, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1089,11 +1089,11 @@
         "29A"
       ], 
       "housenumber": "29A", 
-      "lat": 51.207180423459, 
-      "lon": 4.039258432228, 
+      "lat": 51.207274586924, 
+      "lon": 4.039374674908, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1261,6 +1261,21 @@
       "street": "Kerkstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
       "hnrlbls": [
         "49"
       ], 
@@ -1269,7 +1284,7 @@
       "lon": 4.039237167898, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -1804,11 +1819,11 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.208781954739, 
-      "lon": 4.037663344013, 
+      "lat": 51.208713700332, 
+      "lon": 4.037523449538, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kerkstraat"
     }, 
     {

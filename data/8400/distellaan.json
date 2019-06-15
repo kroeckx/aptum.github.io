@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.210923620536, 
-      "lon": 2.878210160921, 
+      "lat": 51.210881050708, 
+      "lon": 2.878163715269, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Distellaan"
     }, 
     {
@@ -29,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.211248422512, 
-      "lon": 2.878130507849, 
+      "lat": 51.211186839295, 
+      "lon": 2.87797359916, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -105,6 +105,7 @@
     }, 
     {
       "busnrs": [
+        "0101", 
         "0201", 
         "1", 
         "2", 
@@ -118,7 +119,7 @@
       "lon": 2.877194307912, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Distellaan"
     }, 
     {
@@ -345,8 +346,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.211961101288, 
-      "lon": 2.876970249052, 
+      "lat": 51.211958565184, 
+      "lon": 2.876968755671, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -420,8 +421,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.211882890251, 
-      "lon": 2.876471780897, 
+      "lat": 51.211878946977, 
+      "lon": 2.876472765834, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -492,8 +493,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.212025231481, 
-      "lon": 2.876352720245, 
+      "lat": 51.212023561944, 
+      "lon": 2.876355779477, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -642,8 +643,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.211127364085, 
-      "lon": 2.878098020334, 
+      "lat": 51.21108070962, 
+      "lon": 2.878027086476, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -721,8 +722,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.21294435006, 
-      "lon": 2.875808023119, 
+      "lat": 51.212946267954, 
+      "lon": 2.875810395077, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -766,8 +767,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.210952652149, 
-      "lon": 2.877560706305, 
+      "lat": 51.210952252993, 
+      "lon": 2.877557570178, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -786,9 +787,6 @@
       "street": "Distellaan"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "80A"
       ], 
@@ -832,8 +830,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 51.213211238397, 
-      "lon": 2.875584774922, 
+      "lat": 51.213214309637, 
+      "lon": 2.875578807957, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -853,9 +851,11 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
-        "0401", 
-        "1"
+        "0201", 
+        "0301", 
+        "0401"
       ], 
       "hnrlbls": [
         "85"
@@ -865,7 +865,7 @@
       "lon": 2.875540096212, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Distellaan"
     }, 
     {
@@ -873,11 +873,7 @@
         "0101", 
         "0201", 
         "0301", 
-        "0401", 
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0401"
       ], 
       "hnrlbls": [
         "85A"
@@ -892,6 +888,7 @@
     }, 
     {
       "busnrs": [
+        "0001", 
         "0101", 
         "0102", 
         "0201", 
@@ -899,10 +896,7 @@
         "0301", 
         "0302", 
         "0401", 
-        "11", 
-        "2", 
-        "3", 
-        "32"
+        "0402"
       ], 
       "hnrlbls": [
         "85B"
@@ -912,7 +906,7 @@
       "lon": 2.875389544411, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Distellaan"
     }, 
     {
@@ -928,19 +922,15 @@
       "street": "Distellaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.21342366464, 
-      "lon": 2.875320325949, 
+      "lat": 51.213414925247, 
+      "lon": 2.875254761885, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Distellaan"
     }, 
     {
@@ -960,8 +950,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.213467874857, 
-      "lon": 2.875261655083, 
+      "lat": 51.213471742225, 
+      "lon": 2.875254660603, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -975,8 +965,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.211128809547, 
-      "lon": 2.877984470751, 
+      "lat": 51.211124932678, 
+      "lon": 2.877983592711, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -987,8 +977,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.213319209884, 
-      "lon": 2.874879940518, 
+      "lat": 51.213315747985, 
+      "lon": 2.874876329775, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

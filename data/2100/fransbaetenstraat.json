@@ -150,6 +150,11 @@
       "street": "Frans Baetenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -174,6 +179,11 @@
       "street": "Frans Baetenstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -201,9 +211,10 @@
       "street": "Frans Baetenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "24"
@@ -217,10 +228,6 @@
       "street": "Frans Baetenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "26"
       ], 

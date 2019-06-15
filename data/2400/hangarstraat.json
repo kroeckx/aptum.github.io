@@ -54,7 +54,7 @@
       "street": "Hangarstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "201", 
@@ -73,7 +73,7 @@
       "street": "Hangarstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "10", 
         "11", 
@@ -371,6 +371,24 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hangarstraat"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "55"
+      ], 
+      "housenumber": "55", 
+      "lat": 51.189299571037, 
+      "lon": 5.10930618606, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hangarstraat"
     }, 
     {

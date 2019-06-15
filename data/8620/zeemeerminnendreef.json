@@ -2,11 +2,11 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1"
+        "10"
       ], 
-      "housenumber": "1", 
-      "lat": 51.141466832644, 
-      "lon": 2.727141263065, 
+      "housenumber": "10", 
+      "lat": 51.141575018545, 
+      "lon": 2.727466474296, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -14,11 +14,11 @@
     }, 
     {
       "hnrlbls": [
-        "10"
+        "11"
       ], 
-      "housenumber": "10", 
-      "lat": 51.141575018545, 
-      "lon": 2.727466474296, 
+      "housenumber": "11", 
+      "lat": 51.141466832644, 
+      "lon": 2.727141263065, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -34,18 +34,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zeemeerminnendreef"
-    }, 
-    {
-      "hnrlbls": [
-        "17"
-      ], 
-      "housenumber": "17", 
-      "lat": 51.141449767382, 
-      "lon": 2.72718130977, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Zeemeerminnendreef"
     }, 
     {
@@ -74,30 +62,62 @@
     }, 
     {
       "busnrs": [
-        "803", 
-        "804", 
-        "806", 
-        "808", 
-        "813", 
-        "815", 
-        "816", 
-        "822", 
-        "902", 
-        "906", 
-        "908", 
-        "917", 
-        "918", 
-        "921"
+        "0801", 
+        "0802", 
+        "0803", 
+        "0804", 
+        "0805", 
+        "0806", 
+        "0807", 
+        "0808", 
+        "0809", 
+        "0810", 
+        "0811", 
+        "0812", 
+        "0813", 
+        "0814", 
+        "0815", 
+        "0816", 
+        "0817", 
+        "0818", 
+        "0819", 
+        "0820", 
+        "0821", 
+        "0822", 
+        "0823", 
+        "0901", 
+        "0902", 
+        "0903", 
+        "0904", 
+        "0905", 
+        "0906", 
+        "0907", 
+        "0908", 
+        "0909", 
+        "0910", 
+        "0911", 
+        "0912", 
+        "0913", 
+        "0914", 
+        "0915", 
+        "0916", 
+        "0917", 
+        "0918", 
+        "0919", 
+        "0920", 
+        "0921", 
+        "0922", 
+        "0923"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.142936937212, 
-      "lon": 2.726715276693, 
+      "lat": 51.14289131209, 
+      "lon": 2.726602394383, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Zeemeerminnendreef"
     }, 
     {

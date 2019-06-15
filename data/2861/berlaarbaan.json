@@ -113,6 +113,25 @@
       "street": "Berlaarbaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "152"
+      ], 
+      "housenumber": "152", 
+      "lat": 51.047287898968, 
+      "lon": 4.532855875309, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2861", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Berlaarbaan"
+    }, 
+    {
       "hnrlbls": [
         "154"
       ], 
@@ -1373,11 +1392,11 @@
         "344"
       ], 
       "housenumber": "344", 
-      "lat": 51.067133053643, 
-      "lon": 4.564101445398, 
+      "lat": 51.066937540335, 
+      "lon": 4.564265971689, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Berlaarbaan"
     }, 
     {
@@ -1582,6 +1601,18 @@
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2861", 
       "source": "afgeleidVanGebouw", 
+      "street": "Berlaarbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "372"
+      ], 
+      "housenumber": "372", 
+      "lat": 51.069181774848, 
+      "lon": 4.568450737999, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2861", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Berlaarbaan"
     }, 
     {

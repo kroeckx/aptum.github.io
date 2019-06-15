@@ -489,6 +489,12 @@
       "street": "Karel Rogierstraat"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "38A-67"
       ], 
@@ -564,8 +570,11 @@
       "street": "Karel Rogierstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "43"

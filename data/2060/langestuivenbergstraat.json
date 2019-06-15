@@ -26,18 +26,6 @@
     }, 
     {
       "hnrlbls": [
-        "9-11"
-      ], 
-      "housenumber": "11", 
-      "lat": 51.225832237518, 
-      "lon": 4.430233921568, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Lange Stuivenbergstraat"
-    }, 
-    {
-      "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
@@ -418,14 +406,14 @@
     }, 
     {
       "hnrlbls": [
-        "42-44"
+        "42-44B"
       ], 
       "housenumber": "42", 
-      "lat": 51.224949934927, 
-      "lon": 4.430751932912, 
+      "lat": 51.224890598941, 
+      "lon": 4.430775901502, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Stuivenbergstraat"
     }, 
     {
@@ -434,26 +422,26 @@
         "3"
       ], 
       "hnrlbls": [
-        "42-44"
+        "42-44B"
       ], 
       "housenumber": "44", 
-      "lat": 51.224949934927, 
-      "lon": 4.430751932912, 
+      "lat": 51.224890598941, 
+      "lon": 4.430775901502, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Stuivenbergstraat"
     }, 
     {
       "hnrlbls": [
-        "44B"
+        "42-44B"
       ], 
       "housenumber": "44B", 
-      "lat": 51.224951641199, 
-      "lon": 4.430754798112, 
+      "lat": 51.224890598941, 
+      "lon": 4.430775901502, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lange Stuivenbergstraat"
     }, 
     {
@@ -710,6 +698,10 @@
       "street": "Lange Stuivenbergstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "8"
       ], 
@@ -785,13 +777,15 @@
       "street": "Lange Stuivenbergstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "9-11"
+        "9"
       ], 
       "housenumber": "9", 
       "lat": 51.225832237518, 

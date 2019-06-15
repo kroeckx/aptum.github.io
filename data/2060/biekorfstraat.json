@@ -36,6 +36,11 @@
       "street": "Biekorfstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "100"
       ], 
@@ -468,8 +473,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.22760598355, 
-      "lon": 4.423011619765, 
+      "lat": 51.227603645113, 
+      "lon": 4.423014766384, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
       "source": "afgeleidVanGebouw", 
@@ -1005,6 +1010,11 @@
       "street": "Biekorfstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "64"
       ], 
@@ -1195,6 +1205,11 @@
       "street": "Biekorfstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "80"
       ], 
@@ -1243,9 +1258,6 @@
       "street": "Biekorfstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "84"
       ], 
@@ -1285,9 +1297,6 @@
       "street": "Biekorfstraat"
     }, 
     {
-      "busnrs": [
-        "3"
-      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1354,24 +1363,6 @@
       "street": "Biekorfstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "94B"
-      ], 
-      "housenumber": "94B", 
-      "lat": 51.227979489016, 
-      "lon": 4.426492720339, 
-      "municipality": "Antwerpen", 
-      "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Biekorfstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "96"
       ], 

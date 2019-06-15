@@ -457,11 +457,23 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.828077589524, 
-      "lon": 3.272317590117, 
+      "lat": 50.828112694464, 
+      "lon": 3.27225473877, 
       "municipality": "Kortrijk", 
       "pcode": "8500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Voorstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42A"
+      ], 
+      "housenumber": "42A", 
+      "lat": 50.828135379176, 
+      "lon": 3.272267411748, 
+      "municipality": "Kortrijk", 
+      "pcode": "8500", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Voorstraat"
     }, 
     {

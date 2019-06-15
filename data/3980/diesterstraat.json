@@ -41,11 +41,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.062594220482, 
-      "lon": 5.089168986435, 
+      "lat": 51.062588749832, 
+      "lon": 5.089108131, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Diesterstraat"
     }, 
     {
@@ -138,18 +138,6 @@
       "street": "Diesterstraat"
     }, 
     {
-      "hnrlbls": [
-        "106"
-      ], 
-      "housenumber": "106", 
-      "lat": 51.062530605249, 
-      "lon": 5.088561722107, 
-      "municipality": "Tessenderlo", 
-      "pcode": "3980", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Diesterstraat"
-    }, 
-    {
       "busnrs": [
         "1", 
         "2"
@@ -187,6 +175,21 @@
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
+      "street": "Diesterstraat"
+    }, 
+    {
+      "busnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "108"
+      ], 
+      "housenumber": "108", 
+      "lat": 51.062535853505, 
+      "lon": 5.088570790194, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Diesterstraat"
     }, 
     {
@@ -752,8 +755,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.059730552283, 
-      "lon": 5.089437391805, 
+      "lat": 51.059731103818, 
+      "lon": 5.089435403257, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -779,8 +782,8 @@
         "153"
       ], 
       "housenumber": "153", 
-      "lat": 51.059685915275, 
-      "lon": 5.089430855131, 
+      "lat": 51.059686620382, 
+      "lon": 5.089433148343, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanGebouw", 
@@ -1240,11 +1243,11 @@
         "196B"
       ], 
       "housenumber": "196B", 
-      "lat": 51.055477870061, 
-      "lon": 5.088232762353, 
+      "lat": 51.055475213783, 
+      "lon": 5.088255542835, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Diesterstraat"
     }, 
     {
@@ -1433,8 +1436,8 @@
         "213"
       ], 
       "housenumber": "213", 
-      "lat": 51.055563239328, 
-      "lon": 5.089016565125, 
+      "lat": 51.055561794185, 
+      "lon": 5.08901768393, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
       "source": "afgeleidVanPerceelGrb", 

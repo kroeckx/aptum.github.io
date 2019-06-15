@@ -250,8 +250,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.217963414073, 
-      "lon": 2.927468311428, 
+      "lat": 51.217962684674, 
+      "lon": 2.92746747506, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -426,9 +426,6 @@
       "street": "Gouwelozestraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "3A"
       ], 
@@ -535,17 +532,7 @@
         "0302", 
         "0303", 
         "0401", 
-        "0403", 
-        "10", 
-        "11", 
-        "12", 
-        "1B", 
-        "2B", 
-        "3", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
+        "0403"
       ], 
       "hnrlbls": [
         "46-47"
@@ -602,9 +589,6 @@
       "street": "Gouwelozestraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "4A"
       ], 
@@ -756,7 +740,8 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "A000"
       ], 
       "hnrlbls": [
         "63"
@@ -777,12 +762,7 @@
         "0202", 
         "0301", 
         "0302", 
-        "1", 
-        "2", 
-        "4", 
-        "5", 
-        "6", 
-        "7"
+        "0401"
       ], 
       "hnrlbls": [
         "65"
@@ -959,12 +939,17 @@
       "street": "Gouwelozestraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 51.217946862759, 
-      "lon": 2.933137156739, 
+      "lat": 51.217942464478, 
+      "lon": 2.93313772155, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -992,6 +977,9 @@
       "street": "Gouwelozestraat"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "80"
       ], 

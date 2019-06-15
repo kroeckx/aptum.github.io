@@ -89,8 +89,8 @@
         "201"
       ], 
       "housenumber": "201", 
-      "lat": 50.821571330818, 
-      "lon": 4.06427360568, 
+      "lat": 50.821595024108, 
+      "lon": 4.064258409257, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -101,8 +101,8 @@
         "201A"
       ], 
       "housenumber": "201A", 
-      "lat": 50.82157654918, 
-      "lon": 4.064414071482, 
+      "lat": 50.82166861378, 
+      "lon": 4.064418160434, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -149,11 +149,11 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 50.821465489021, 
-      "lon": 4.064781363605, 
+      "lat": 50.821646832554, 
+      "lon": 4.064789986663, 
       "municipality": "Ninove", 
       "pcode": "9402", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ternat"
     }, 
     {
@@ -173,8 +173,8 @@
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 50.82203914565, 
-      "lon": 4.064791856507, 
+      "lat": 50.822174751337, 
+      "lon": 4.064808012569, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -326,7 +326,7 @@
     }, 
     {
       "hnrlbls": [
-        "232-232A"
+        "232"
       ], 
       "housenumber": "232", 
       "lat": 50.822081540394, 
@@ -338,11 +338,11 @@
     }, 
     {
       "hnrlbls": [
-        "232-232A"
+        "232A"
       ], 
       "housenumber": "232A", 
-      "lat": 50.822081540394, 
-      "lon": 4.066799754067, 
+      "lat": 50.822159978947, 
+      "lon": 4.066923715858, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 
@@ -775,6 +775,18 @@
       "housenumber": "288", 
       "lat": 50.822649564301, 
       "lon": 4.07097883775, 
+      "municipality": "Ninove", 
+      "pcode": "9402", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ternat"
+    }, 
+    {
+      "hnrlbls": [
+        "289"
+      ], 
+      "housenumber": "289", 
+      "lat": 50.822221617317, 
+      "lon": 4.071779986116, 
       "municipality": "Ninove", 
       "pcode": "9402", 
       "source": "manueleAanduidingVanGebouw", 

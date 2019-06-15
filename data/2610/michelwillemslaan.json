@@ -374,15 +374,23 @@
       "street": "Michel Willemslaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 51.182628572675, 
-      "lon": 4.374095289677, 
+      "lat": 51.182585338008, 
+      "lon": 4.374093138856, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Michel Willemslaan"
     }, 
     {

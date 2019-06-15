@@ -101,6 +101,10 @@
       "street": "Grote Markt"
     }, 
     {
+      "apptnrs": [
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -249,11 +253,11 @@
         "302"
       ], 
       "hnrlbls": [
-        "27-40"
+        "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.221483671794, 
-      "lon": 4.401218457084, 
+      "lat": 51.221385728192, 
+      "lon": 4.401112038643, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
       "source": "afgeleidVanGebouw", 

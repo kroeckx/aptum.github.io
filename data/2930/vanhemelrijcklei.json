@@ -2,6 +2,8 @@
   "addresses": [
     {
       "apptnrs": [
+        "0001", 
+        "0002", 
         "1001", 
         "1002", 
         "2001", 
@@ -19,7 +21,7 @@
       "lon": 4.49449353752, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Van Hemelrijcklei"
     }, 
     {
@@ -201,18 +203,6 @@
       "housenumber": "29", 
       "lat": 51.293830115986, 
       "lon": 4.494323664691, 
-      "municipality": "Brasschaat", 
-      "pcode": "2930", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Van Hemelrijcklei"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 51.292981535684, 
-      "lon": 4.494501846628, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -699,8 +689,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 51.295234924104, 
-      "lon": 4.49249029672, 
+      "lat": 51.295275528642, 
+      "lon": 4.492511049336, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 

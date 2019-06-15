@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.004314632302, 
+      "lon": 5.01306351426, 
+      "municipality": "Diest", 
+      "pcode": "3294", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Molenweg"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -157,6 +169,10 @@
       "street": "Molenweg"
     }, 
     {
+      "apptnrs": [
+        "3A1", 
+        "3B1"
+      ], 
       "hnrlbls": [
         "3"
       ], 
@@ -254,18 +270,6 @@
     }, 
     {
       "hnrlbls": [
-        "5_1"
-      ], 
-      "housenumber": "5_1", 
-      "lat": 51.004362957572, 
-      "lon": 5.013693356156, 
-      "municipality": "Diest", 
-      "pcode": "3294", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Molenweg"
-    }, 
-    {
-      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -305,18 +309,6 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.004292879069, 
-      "lon": 5.014439536447, 
-      "municipality": "Diest", 
-      "pcode": "3294", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Molenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "7_1"
-      ], 
-      "housenumber": "7_1", 
       "lat": 51.004292879851, 
       "lon": 5.014439393981, 
       "municipality": "Diest", 

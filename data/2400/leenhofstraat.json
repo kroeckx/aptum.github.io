@@ -1,6 +1,25 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.191567659217, 
+      "lon": 5.118788814336, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leenhofstraat"
+    }, 
+    {
       "hnrlbls": [
         "11"
       ], 
@@ -89,7 +108,7 @@
       "street": "Leenhofstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "201", 
@@ -107,7 +126,7 @@
       "street": "Leenhofstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
@@ -128,7 +147,7 @@
       "street": "Leenhofstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 

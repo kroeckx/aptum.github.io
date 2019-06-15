@@ -392,8 +392,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.926118071103, 
-      "lon": 4.806030132026, 
+      "lat": 50.92611812706, 
+      "lon": 4.80603923566, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanPerceelGrb", 
@@ -776,11 +776,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.925816481298, 
-      "lon": 4.804240274369, 
+      "lat": 50.92578775766, 
+      "lon": 4.804325632919, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dutselstraat"
     }, 
     {
@@ -973,6 +973,33 @@
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dutselstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "172"
+      ], 
+      "housenumber": "172", 
+      "lat": 50.922054330718, 
+      "lon": 4.785501899995, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dutselstraat"
+    }, 
+    {
+      "busnrs": [
+        "174A"
+      ], 
+      "hnrlbls": [
+        "174"
+      ], 
+      "housenumber": "174", 
+      "lat": 50.922017850622, 
+      "lon": 4.78534527193, 
+      "municipality": "Holsbeek", 
+      "pcode": "3220", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dutselstraat"
     }, 
     {
@@ -1811,8 +1838,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 50.92454394438, 
-      "lon": 4.796985887546, 
+      "lat": 50.92454250248, 
+      "lon": 4.796986869986, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1823,8 +1850,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.925456884506, 
-      "lon": 4.798124992315, 
+      "lat": 50.925462370494, 
+      "lon": 4.798124331421, 
       "municipality": "Holsbeek", 
       "pcode": "3220", 
       "source": "afgeleidVanGebouw", 

@@ -21,6 +21,23 @@
     {
       "busnrs": [
         "1", 
+        "2", 
+        "3"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.16669261448, 
+      "lon": 5.172125853419, 
+      "municipality": "Balen", 
+      "pcode": "2490", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Veststraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
         "10", 
         "11", 
         "12", 
@@ -547,7 +564,8 @@
         "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "5"

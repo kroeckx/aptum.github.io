@@ -85,15 +85,18 @@
       "street": "Koedalstraat"
     }, 
     {
+      "apptnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.783484733562, 
-      "lon": 4.475691428162, 
+      "lat": 50.783947923044, 
+      "lon": 4.475254028632, 
       "municipality": "Overijse", 
       "pcode": "3090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koedalstraat"
     }, 
     {

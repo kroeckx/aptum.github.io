@@ -113,11 +113,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.058737883007, 
-      "lon": 4.485922978181, 
+      "lat": 51.05864575577, 
+      "lon": 4.485823756295, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Groenstraat"
     }, 
     {
@@ -542,8 +542,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.057668126735, 
-      "lon": 4.488923150546, 
+      "lat": 51.057671631387, 
+      "lon": 4.488924158034, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "afgeleidVanGebouw", 
@@ -582,7 +582,7 @@
       "lon": 4.489175126608, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groenstraat"
     }, 
     {

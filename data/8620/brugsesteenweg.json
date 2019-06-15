@@ -65,11 +65,11 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.128494112648, 
-      "lon": 2.791485486202, 
+      "lat": 51.128419805242, 
+      "lon": 2.791374545892, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugse Steenweg"
     }, 
     {
@@ -345,11 +345,11 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.12845325111, 
-      "lon": 2.767218447295, 
+      "lat": 51.128484634189, 
+      "lon": 2.767073060109, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugse Steenweg"
     }, 
     {
@@ -434,18 +434,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Brugse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "6"
-      ], 
-      "housenumber": "6", 
-      "lat": 51.133132168207, 
-      "lon": 2.759676590678, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Brugse Steenweg"
     }, 
     {

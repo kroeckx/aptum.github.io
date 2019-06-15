@@ -379,7 +379,6 @@
         "12", 
         "13", 
         "14", 
-        "15", 
         "2", 
         "3", 
         "4", 
@@ -514,7 +513,6 @@
         "10", 
         "11", 
         "12", 
-        "132", 
         "2", 
         "4", 
         "5", 
@@ -753,7 +751,8 @@
         "3", 
         "4", 
         "5", 
-        "6"
+        "6", 
+        "7"
       ], 
       "hnrlbls": [
         "14"
@@ -1013,9 +1012,14 @@
       "street": "Dascottelei"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "5"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "18"
@@ -1026,21 +1030,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dascottelei"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "18L"
-      ], 
-      "housenumber": "18L", 
-      "lat": 51.202423304817, 
-      "lon": 4.465348955916, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Dascottelei"
     }, 
     {
@@ -1231,9 +1220,6 @@
     {
       "apptnrs": [
         "001", 
-        "002", 
-        "101", 
-        "102", 
         "201", 
         "202", 
         "301", 

@@ -160,6 +160,22 @@
       "street": "Oostmalsesteenweg"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B", 
+        "C", 
+        "D", 
+        "E", 
+        "F", 
+        "G", 
+        "H", 
+        "I", 
+        "J", 
+        "K", 
+        "L", 
+        "M", 
+        "N"
+      ], 
       "hnrlbls": [
         "124"
       ], 
@@ -1395,8 +1411,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.169027810997, 
-      "lon": 4.618452434341, 
+      "lat": 51.169054985871, 
+      "lon": 4.618481032059, 
       "municipality": "Ranst", 
       "pcode": "2520", 
       "source": "afgeleidVanGebouw", 

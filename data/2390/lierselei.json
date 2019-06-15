@@ -238,8 +238,8 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 51.283715239951, 
-      "lon": 4.722538394778, 
+      "lat": 51.283715329832, 
+      "lon": 4.722538395462, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanGebouw", 
@@ -509,15 +509,21 @@
       "street": "Lierselei"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.300194031664, 
-      "lon": 4.733177533291, 
+      "lat": 51.300203463307, 
+      "lon": 4.733033655381, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Lierselei"
     }, 
     {
@@ -800,11 +806,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.30027810961, 
-      "lon": 4.731000988775, 
+      "lat": 51.300159489317, 
+      "lon": 4.731110465085, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lierselei"
     }, 
     {
@@ -852,6 +858,9 @@
       "street": "Lierselei"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "30"
       ], 
@@ -861,18 +870,6 @@
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanGebouw", 
-      "street": "Lierselei"
-    }, 
-    {
-      "hnrlbls": [
-        "30A"
-      ], 
-      "housenumber": "30A", 
-      "lat": 51.300516654165, 
-      "lon": 4.727938259439, 
-      "municipality": "Malle", 
-      "pcode": "2390", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Lierselei"
     }, 
     {

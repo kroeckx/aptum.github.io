@@ -2,30 +2,31 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0103", 
         "0201", 
+        "0202", 
+        "0203", 
         "0301", 
+        "0302", 
+        "0303", 
+        "0401", 
         "0402", 
+        "0403", 
+        "0501", 
+        "0502", 
+        "0503", 
+        "0601", 
+        "0602", 
+        "0701", 
         "0702", 
+        "0801", 
         "0802", 
-        "1B", 
-        "2A", 
-        "2D", 
-        "3A", 
-        "3B", 
-        "3C", 
-        "3D", 
-        "4", 
-        "4B", 
-        "4C", 
-        "5", 
-        "6A", 
-        "6B", 
-        "6C", 
-        "6D", 
-        "8B", 
-        "8C", 
-        "8D", 
-        "B"
+        "0901", 
+        "0902"
       ], 
       "hnrlbls": [
         "1"
@@ -86,11 +87,11 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.229408162801, 
-      "lon": 2.911604255228, 
+      "lat": 51.229430993402, 
+      "lon": 2.911494433721, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Iseghemlaan"
     }, 
     {
@@ -209,8 +210,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.230400708571, 
-      "lon": 2.911760820438, 
+      "lat": 51.230402079481, 
+      "lon": 2.911762639071, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -232,11 +233,11 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 51.229216866678, 
-      "lon": 2.911495826778, 
+      "lat": 51.229242051276, 
+      "lon": 2.911380061477, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Iseghemlaan"
     }, 
     {
@@ -588,7 +589,6 @@
         "0601", 
         "0701", 
         "0801", 
-        "1", 
         "2", 
         "3", 
         "4", 
@@ -686,9 +686,6 @@
       "street": "Van Iseghemlaan"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "12A"
       ], 
@@ -784,8 +781,8 @@
         "14-16"
       ], 
       "housenumber": "14", 
-      "lat": 51.234569264846, 
-      "lon": 2.917682011591, 
+      "lat": 51.234542470878, 
+      "lon": 2.917637736737, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -960,8 +957,8 @@
         "14-16"
       ], 
       "housenumber": "16", 
-      "lat": 51.234569264846, 
-      "lon": 2.917682011591, 
+      "lat": 51.234542470878, 
+      "lon": 2.917637736737, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1123,14 +1120,14 @@
     }, 
     {
       "hnrlbls": [
-        "21-25"
+        "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.234388772335, 
-      "lon": 2.91671700794, 
+      "lat": 51.234356233857, 
+      "lon": 2.916761411207, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Van Iseghemlaan"
     }, 
     {
@@ -1143,18 +1140,6 @@
       "housenumber": "22", 
       "lat": 51.234108405974, 
       "lon": 2.916990802757, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Iseghemlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "21-25"
-      ], 
-      "housenumber": "23", 
-      "lat": 51.234388772335, 
-      "lon": 2.91671700794, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -1177,27 +1162,11 @@
     }, 
     {
       "hnrlbls": [
-        "21-25"
-      ], 
-      "housenumber": "25", 
-      "lat": 51.234388772335, 
-      "lon": 2.91671700794, 
-      "municipality": "Oostende", 
-      "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Van Iseghemlaan"
-    }, 
-    {
-      "busnrs": [
-        "A", 
-        "B"
-      ], 
-      "hnrlbls": [
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.234003819812, 
-      "lon": 2.916797731071, 
+      "lat": 51.234005983904, 
+      "lon": 2.916790933268, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1482,9 +1451,6 @@
       "street": "Van Iseghemlaan"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "36B"
       ], 
@@ -1732,8 +1698,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.232406229273, 
-      "lon": 2.91478001638, 
+      "lat": 51.232554064224, 
+      "lon": 2.914614884235, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1813,6 +1779,8 @@
         "0206", 
         "0207", 
         "0208", 
+        "0209", 
+        "0210", 
         "0301", 
         "0302", 
         "0303", 
@@ -1821,6 +1789,7 @@
         "0306", 
         "0307", 
         "0308", 
+        "0309", 
         "0401", 
         "0402", 
         "0403", 
@@ -1829,6 +1798,7 @@
         "0406", 
         "0407", 
         "0408", 
+        "0409", 
         "0501", 
         "0502", 
         "0503", 
@@ -1840,26 +1810,14 @@
         "0603", 
         "0604", 
         "0701", 
-        "0702", 
-        "101", 
-        "12E", 
-        "201", 
-        "21", 
-        "232", 
-        "308", 
-        "42", 
-        "51", 
-        "62E", 
-        "71", 
-        "72", 
-        "72E"
+        "0702"
       ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.232363403379, 
-      "lon": 2.914323842187, 
+      "lat": 51.232369115982, 
+      "lon": 2.914327816685, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2294,12 +2252,21 @@
       "street": "Van Iseghemlaan"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701"
+      ], 
       "hnrlbls": [
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.232413306733, 
-      "lon": 2.91389312847, 
+      "lat": 51.232410757321, 
+      "lon": 2.91386857836, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2370,8 +2337,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.232322987464, 
-      "lon": 2.913771366309, 
+      "lat": 51.232326881638, 
+      "lon": 2.913773679129, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2603,6 +2570,18 @@
       "housenumber": "83", 
       "lat": 51.232132087796, 
       "lon": 2.913541480712, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Van Iseghemlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "84"
+      ], 
+      "housenumber": "84", 
+      "lat": 51.23043751976, 
+      "lon": 2.912165756161, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

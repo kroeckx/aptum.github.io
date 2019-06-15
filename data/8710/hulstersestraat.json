@@ -285,7 +285,7 @@
       "lon": 3.322166363676, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hulstersestraat"
     }, 
     {
@@ -309,7 +309,7 @@
       "lon": 3.322031302551, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hulstersestraat"
     }, 
     {
@@ -321,7 +321,7 @@
       "lon": 3.321896502908, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hulstersestraat"
     }, 
     {
@@ -1318,6 +1318,18 @@
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Hulstersestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "41"
+      ], 
+      "housenumber": "41", 
+      "lat": 50.893005890578, 
+      "lon": 3.32941288058, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Hulstersestraat"
     }, 
     {

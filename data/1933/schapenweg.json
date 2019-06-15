@@ -17,8 +17,8 @@
         "102"
       ], 
       "housenumber": "102", 
-      "lat": 50.858321103964, 
-      "lon": 4.518678917971, 
+      "lat": 50.858320744568, 
+      "lon": 4.518678774791, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -29,8 +29,8 @@
         "106"
       ], 
       "housenumber": "106", 
-      "lat": 50.858239505042, 
-      "lon": 4.518938710653, 
+      "lat": 50.858238786433, 
+      "lon": 4.518938282261, 
       "municipality": "Zaventem", 
       "pcode": "1933", 
       "source": "afgeleidVanGebouw", 
@@ -89,9 +89,11 @@
     }, 
     {
       "apptnrs": [
-        "001", 
+        "011", 
+        "012", 
         "021", 
         "022", 
+        "X001", 
         "X031", 
         "X032"
       ], 

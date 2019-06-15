@@ -466,8 +466,39 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.038427224015, 
-      "lon": 4.513727023406, 
+      "lat": 51.038404057522, 
+      "lon": 4.51370670566, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ijzerenveld"
+    }, 
+    {
+      "hnrlbls": [
+        "140A"
+      ], 
+      "housenumber": "140A", 
+      "lat": 51.038447796755, 
+      "lon": 4.513736782534, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ijzerenveld"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
+      "hnrlbls": [
+        "140B"
+      ], 
+      "housenumber": "140B", 
+      "lat": 51.038442504465, 
+      "lon": 4.514090637687, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "manueleAanduidingVanGebouw", 
@@ -985,10 +1016,10 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "21"
+        "0001", 
+        "0011", 
+        "0012", 
+        "0021"
       ], 
       "hnrlbls": [
         "194"
@@ -1745,11 +1776,11 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.036223400037, 
-      "lon": 4.512331407223, 
+      "lat": 51.036240991922, 
+      "lon": 4.512279709077, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ijzerenveld"
     }, 
     {

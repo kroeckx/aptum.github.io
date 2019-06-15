@@ -67,10 +67,10 @@
       "b": 50.865553829805, 
       "l": 3.223879500719, 
       "name": "Beiaardstraat", 
-      "numOfAddr": 33, 
+      "numOfAddr": 34, 
       "r": 3.227116584746, 
       "sanName": "beiaardstraat", 
-      "t": 50.871448827265
+      "t": 50.871448246415
     }, 
     {
       "b": 50.83015772287, 
@@ -100,7 +100,7 @@
       ], 
       "r": 3.244746310689, 
       "sanName": "bissegemsestraat", 
-      "t": 50.831511485043
+      "t": 50.831460698432
     }, 
     {
       "b": 50.838536390726, 
@@ -352,10 +352,13 @@
       "t": 50.83291700185
     }, 
     {
-      "b": 50.862646315298, 
+      "b": 50.862717129738, 
       "l": 3.210313697728, 
       "name": "Gemeenhof", 
-      "numOfAddr": 59, 
+      "numOfAddr": 56, 
+      "otherPCs": [
+        "8500"
+      ], 
       "r": 3.219430258396, 
       "sanName": "gemeenhof", 
       "t": 50.865184846038
@@ -436,7 +439,7 @@
       "b": 50.824131172031, 
       "l": 3.212907521722, 
       "name": "Gullegemsesteenweg", 
-      "numOfAddr": 178, 
+      "numOfAddr": 177, 
       "r": 3.22805004748, 
       "sanName": "gullegemsesteenweg", 
       "t": 50.833471323695
@@ -508,7 +511,7 @@
       "b": 50.842967859481, 
       "l": 3.23417315122, 
       "name": "Heuleplaats", 
-      "numOfAddr": 26, 
+      "numOfAddr": 25, 
       "r": 3.235740185977, 
       "sanName": "heuleplaats", 
       "t": 50.843611222044
@@ -562,7 +565,7 @@
       "b": 50.824970778944, 
       "l": 3.226359277767, 
       "name": "Hoogweg", 
-      "numOfAddr": 37, 
+      "numOfAddr": 36, 
       "r": 3.227034240368, 
       "sanName": "hoogweg", 
       "t": 50.826322709013
@@ -616,7 +619,7 @@
       "b": 50.837142055275, 
       "l": 3.239899318941, 
       "name": "Izegemsestraat", 
-      "numOfAddr": 277, 
+      "numOfAddr": 278, 
       "otherPCs": [
         "8500"
       ], 
@@ -817,7 +820,7 @@
       "b": 50.826276111423, 
       "l": 3.23656501516, 
       "name": "Koningin Astridlaan", 
-      "numOfAddr": 36, 
+      "numOfAddr": 35, 
       "r": 3.237994325574, 
       "sanName": "koninginastridlaan", 
       "t": 50.827661066719
@@ -919,7 +922,7 @@
       "t": 50.832029538892
     }, 
     {
-      "b": 50.845246390676, 
+      "b": 50.8452475564, 
       "l": 3.222201264406, 
       "name": "Laagweide", 
       "numOfAddr": 8, 
@@ -1057,7 +1060,7 @@
       "b": 50.81970100362, 
       "l": 3.220920105936, 
       "name": "Meensesteenweg", 
-      "numOfAddr": 338, 
+      "numOfAddr": 337, 
       "otherPCs": [
         "8500"
       ], 
@@ -1117,7 +1120,7 @@
       "b": 50.83123639634, 
       "l": 3.238147131953, 
       "name": "Moorseelsestraat", 
-      "numOfAddr": 133, 
+      "numOfAddr": 134, 
       "otherPCs": [
         "8500"
       ], 
@@ -1519,7 +1522,7 @@
       "b": 50.857174454611, 
       "l": 3.225771034804, 
       "name": "Sint-Katharinastraat", 
-      "numOfAddr": 123, 
+      "numOfAddr": 122, 
       "r": 3.240274957209, 
       "sanName": "sintkatharinastraat", 
       "t": 50.871485630237
@@ -1598,7 +1601,7 @@
     }, 
     {
       "b": 50.841979358499, 
-      "l": 3.249507520924, 
+      "l": 3.249507961786, 
       "name": "Stoppel", 
       "numOfAddr": 7, 
       "r": 3.250002717057, 
@@ -1717,7 +1720,7 @@
       "numOfAddr": 60, 
       "r": 3.251189037463, 
       "sanName": "vlaschaard", 
-      "t": 50.843034630391
+      "t": 50.843038271776
     }, 
     {
       "b": 50.846672328717, 
@@ -1726,7 +1729,7 @@
       "numOfAddr": 20, 
       "r": 3.24632972365, 
       "sanName": "vlasmolenstraat", 
-      "t": 50.848319250491
+      "t": 50.848324507403
     }, 
     {
       "b": 50.849987017096, 
@@ -1741,7 +1744,7 @@
       "b": 50.824398692205, 
       "l": 3.222388270187, 
       "name": "Vlaswaagplein", 
-      "numOfAddr": 17, 
+      "numOfAddr": 16, 
       "r": 3.226028838955, 
       "sanName": "vlaswaagplein", 
       "t": 50.826066328138
@@ -1759,7 +1762,7 @@
       "b": 50.837819322041, 
       "l": 3.239897140219, 
       "name": "Warande", 
-      "numOfAddr": 59, 
+      "numOfAddr": 60, 
       "r": 3.242388383377, 
       "sanName": "warande", 
       "t": 50.844774638594
@@ -1804,7 +1807,7 @@
       "b": 50.842198986548, 
       "l": 3.25165989977, 
       "name": "Watermolenwal", 
-      "numOfAddr": 28, 
+      "numOfAddr": 27, 
       "r": 3.256663993186, 
       "sanName": "watermolenwal", 
       "t": 50.844532018282

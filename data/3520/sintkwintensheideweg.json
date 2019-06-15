@@ -257,8 +257,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.978439962779, 
-      "lon": 5.393787288178, 
+      "lat": 50.978365216667, 
+      "lon": 5.393874228839, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanGebouw", 
@@ -353,11 +353,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.978447598703, 
-      "lon": 5.39431350309, 
+      "lat": 50.978442422037, 
+      "lon": 5.394381317412, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Sint Kwintens-heideweg"
     }, 
     {
@@ -377,8 +377,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 50.978490965555, 
-      "lon": 5.394484627959, 
+      "lat": 50.978493670743, 
+      "lon": 5.394483690356, 
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanPerceelGrb", 
@@ -646,6 +646,18 @@
       "municipality": "Zonhoven", 
       "pcode": "3520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint Kwintens-heideweg"
+    }, 
+    {
+      "hnrlbls": [
+        "61A"
+      ], 
+      "housenumber": "61A", 
+      "lat": 50.979110513283, 
+      "lon": 5.397030922932, 
+      "municipality": "Zonhoven", 
+      "pcode": "3520", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sint Kwintens-heideweg"
     }, 
     {

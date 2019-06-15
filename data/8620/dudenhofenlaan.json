@@ -806,7 +806,7 @@
     }, 
     {
       "hnrlbls": [
-        "2-2C"
+        "2"
       ], 
       "housenumber": "2", 
       "lat": 51.131775780935, 
@@ -1669,26 +1669,50 @@
     }, 
     {
       "hnrlbls": [
-        "2-2C"
+        "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.131775780935, 
-      "lon": 2.741278293007, 
+      "lat": 51.132085975201, 
+      "lon": 2.740157767208, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dudenhofenlaan"
     }, 
     {
       "hnrlbls": [
-        "2-2C"
+        "2B"
       ], 
-      "housenumber": "2C", 
-      "lat": 51.131775780935, 
-      "lon": 2.741278293007, 
+      "housenumber": "2B", 
+      "lat": 51.13245449694, 
+      "lon": 2.738762831773, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dudenhofenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 51.132533264165, 
+      "lon": 2.738958710426, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dudenhofenlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "2D"
+      ], 
+      "housenumber": "2D", 
+      "lat": 51.132924174211, 
+      "lon": 2.740195574039, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "afgeleidVanGebouw", 
       "street": "Dudenhofenlaan"
     }, 
     {
@@ -1950,18 +1974,6 @@
       "housenumber": "49", 
       "lat": 51.133929395405, 
       "lon": 2.735168873157, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Dudenhofenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "4D"
-      ], 
-      "housenumber": "4D", 
-      "lat": 51.132924174211, 
-      "lon": 2.740195574039, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
@@ -2769,18 +2781,6 @@
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dudenhofenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "zn"
-      ], 
-      "housenumber": "zn", 
-      "lat": 51.135285329268, 
-      "lon": 2.73481322386, 
-      "municipality": "Nieuwpoort", 
-      "pcode": "8620", 
-      "source": "afgeleidVanStraat", 
       "street": "Dudenhofenlaan"
     }
   ]

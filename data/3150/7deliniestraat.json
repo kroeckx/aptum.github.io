@@ -49,6 +49,22 @@
       "street": "7de Liniestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002"
+      ], 
+      "hnrlbls": [
+        "13"
+      ], 
+      "housenumber": "13", 
+      "lat": 50.941288674557, 
+      "lon": 4.644703101914, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "7de Liniestraat"
+    }, 
+    {
       "hnrlbls": [
         "14"
       ], 
@@ -61,6 +77,16 @@
       "street": "7de Liniestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "003", 
+        "004", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -82,6 +108,23 @@
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
+      "street": "7de Liniestraat"
+    }, 
+    {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101"
+      ], 
+      "hnrlbls": [
+        "17"
+      ], 
+      "housenumber": "17", 
+      "lat": 50.941181061938, 
+      "lon": 4.644898387301, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
       "street": "7de Liniestraat"
     }, 
     {

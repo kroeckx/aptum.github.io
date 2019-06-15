@@ -209,6 +209,18 @@
     }, 
     {
       "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.796432595605, 
+      "lon": 4.068675572959, 
+      "municipality": "Gooik", 
+      "pcode": "1755", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Ninoofse Steenweg"
+    }, 
+    {
+      "hnrlbls": [
         "121"
       ], 
       "housenumber": "121", 
@@ -325,7 +337,6 @@
         "FL57", 
         "FL58", 
         "FL59", 
-        "FL6", 
         "FL60", 
         "FL62", 
         "FL63", 
@@ -401,11 +412,11 @@
         "133"
       ], 
       "housenumber": "133", 
-      "lat": 50.777690895966, 
-      "lon": 4.11664972553, 
+      "lat": 50.777922812128, 
+      "lon": 4.116766595341, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ninoofse Steenweg"
     }, 
     {
@@ -509,18 +520,6 @@
     }, 
     {
       "hnrlbls": [
-        "142"
-      ], 
-      "housenumber": "142", 
-      "lat": 50.778266199816, 
-      "lon": 4.116883013336, 
-      "municipality": "Gooik", 
-      "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Ninoofse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "143"
       ], 
       "housenumber": "143", 
@@ -541,18 +540,6 @@
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ninoofse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "147"
-      ], 
-      "housenumber": "147", 
-      "lat": 50.777737328765, 
-      "lon": 4.118056846982, 
-      "municipality": "Gooik", 
-      "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Ninoofse Steenweg"
     }, 
     {
@@ -662,11 +649,11 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.778009363333, 
-      "lon": 4.119961586335, 
+      "lat": 50.777996044867, 
+      "lon": 4.119955134326, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ninoofse Steenweg"
     }, 
     {
@@ -1409,11 +1396,11 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 50.771430893209, 
-      "lon": 4.132695181343, 
+      "lat": 50.771486544058, 
+      "lon": 4.13305541724, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ninoofse Steenweg"
     }, 
     {
@@ -1469,11 +1456,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.792706593692, 
-      "lon": 4.07298386626, 
+      "lat": 50.792645725219, 
+      "lon": 4.072944960608, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ninoofse Steenweg"
     }, 
     {
@@ -1493,11 +1480,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.792645725219, 
-      "lon": 4.072944960608, 
+      "lat": 50.792578882674, 
+      "lon": 4.072925523395, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Ninoofse Steenweg"
     }, 
     {
@@ -1522,18 +1509,6 @@
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 
-      "street": "Ninoofse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "3-5"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.793862629263, 
-      "lon": 4.071188361364, 
-      "municipality": "Gooik", 
-      "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Ninoofse Steenweg"
     }, 
     {
@@ -1742,18 +1717,6 @@
     }, 
     {
       "hnrlbls": [
-        "3-5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.793862629263, 
-      "lon": 4.071188361364, 
-      "municipality": "Gooik", 
-      "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Ninoofse Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "50"
       ], 
       "housenumber": "50", 
@@ -1856,11 +1819,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 50.780714095054, 
-      "lon": 4.090857052407, 
+      "lat": 50.780827809433, 
+      "lon": 4.090399233606, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ninoofse Steenweg"
     }, 
     {
@@ -2072,8 +2035,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 50.779088295598, 
-      "lon": 4.110461483716, 
+      "lat": 50.778931140049, 
+      "lon": 4.110291203379, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 
@@ -2096,8 +2059,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.779073065667, 
-      "lon": 4.11068984932, 
+      "lat": 50.778942236911, 
+      "lon": 4.110636117282, 
       "municipality": "Gooik", 
       "pcode": "1755", 
       "source": "afgeleidVanGebouw", 

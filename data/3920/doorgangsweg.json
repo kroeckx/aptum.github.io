@@ -73,6 +73,24 @@
       "street": "Doorgangsweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.235607340737, 
+      "lon": 5.305140800431, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Doorgangsweg"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 
@@ -85,12 +103,45 @@
       "street": "Doorgangsweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 51.235608585262, 
+      "lon": 5.305392122769, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Doorgangsweg"
+    }, 
+    {
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
       "lat": 51.235292323238, 
       "lon": 5.305372875881, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Doorgangsweg"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.235592677257, 
+      "lon": 5.305505208796, 
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanGebouw", 

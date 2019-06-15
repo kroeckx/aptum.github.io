@@ -103,6 +103,23 @@
       "street": "Erfstraat"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU11", 
+        "BU12"
+      ], 
+      "hnrlbls": [
+        "5"
+      ], 
+      "housenumber": "5", 
+      "lat": 50.975114673106, 
+      "lon": 5.49807964628, 
+      "municipality": "Genk", 
+      "pcode": "3600", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Erfstraat"
+    }, 
+    {
       "hnrlbls": [
         "6"
       ], 

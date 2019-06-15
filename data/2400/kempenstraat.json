@@ -121,11 +121,13 @@
       "street": "Kempenstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 
-        "201", 
+        "201"
+      ], 
+      "busnrs": [
         "202"
       ], 
       "hnrlbls": [

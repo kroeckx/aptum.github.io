@@ -1648,16 +1648,15 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 50.761310510741, 
-      "lon": 4.024744871476, 
+      "lat": 50.761279291707, 
+      "lon": 4.024767210086, 
       "municipality": "Galmaarden", 
       "pcode": "1570", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {
       "busnrs": [
-        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -1669,6 +1668,18 @@
       "municipality": "Galmaarden", 
       "pcode": "1570", 
       "source": "afgeleidVanGebouw", 
+      "street": "Ninoofsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "78A"
+      ], 
+      "housenumber": "78A", 
+      "lat": 50.762958037434, 
+      "lon": 4.025008691176, 
+      "municipality": "Galmaarden", 
+      "pcode": "1570", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ninoofsesteenweg"
     }, 
     {

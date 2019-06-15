@@ -390,8 +390,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.872886526531, 
-      "lon": 4.715147672698, 
+      "lat": 50.872886258111, 
+      "lon": 4.715147244493, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -516,8 +516,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.872464363277, 
-      "lon": 4.715091702838, 
+      "lat": 50.872464732514, 
+      "lon": 4.715088437892, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -598,8 +598,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.872657895715, 
-      "lon": 4.715278253936, 
+      "lat": 50.872661910234, 
+      "lon": 4.715288654961, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -622,8 +622,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.872295413761, 
-      "lon": 4.715407702247, 
+      "lat": 50.872302225901, 
+      "lon": 4.715414430008, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -634,8 +634,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.87261506389, 
-      "lon": 4.715322690454, 
+      "lat": 50.872617299035, 
+      "lon": 4.715326827099, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -920,14 +920,14 @@
     }, 
     {
       "hnrlbls": [
-        "18-65"
+        "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.872285722985, 
-      "lon": 4.716129783742, 
+      "lat": 50.872292312727, 
+      "lon": 4.716059933015, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bierbeekstraat"
     }, 
     {
@@ -1126,11 +1126,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.871940277608, 
-      "lon": 4.715849191211, 
+      "lat": 50.871619553473, 
+      "lon": 4.716023410348, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Bierbeekstraat"
     }, 
     {
@@ -1166,11 +1166,11 @@
         "80"
       ], 
       "housenumber": "80", 
-      "lat": 50.871832699368, 
-      "lon": 4.716325184678, 
+      "lat": 50.87136075926, 
+      "lon": 4.715806116429, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bierbeekstraat"
     }, 
     {

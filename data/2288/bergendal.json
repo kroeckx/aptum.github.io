@@ -14,30 +14,6 @@
     }, 
     {
       "hnrlbls": [
-        "2A-2B"
-      ], 
-      "housenumber": "2A", 
-      "lat": 51.168836811784, 
-      "lon": 4.726043912018, 
-      "municipality": "Grobbendonk", 
-      "pcode": "2288", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berg en Dal"
-    }, 
-    {
-      "hnrlbls": [
-        "2A-2B"
-      ], 
-      "housenumber": "2B", 
-      "lat": 51.168836811784, 
-      "lon": 4.726043912018, 
-      "municipality": "Grobbendonk", 
-      "pcode": "2288", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Berg en Dal"
-    }, 
-    {
-      "hnrlbls": [
         "2C"
       ], 
       "housenumber": "2C", 
@@ -113,11 +89,23 @@
         "5A"
       ], 
       "housenumber": "5A", 
-      "lat": 51.167263580674, 
-      "lon": 4.727593652026, 
+      "lat": 51.167575490156, 
+      "lon": 4.727740454958, 
       "municipality": "Grobbendonk", 
       "pcode": "2288", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Berg en Dal"
+    }, 
+    {
+      "hnrlbls": [
+        "5B"
+      ], 
+      "housenumber": "5B", 
+      "lat": 51.167173564123, 
+      "lon": 4.727577232075, 
+      "municipality": "Grobbendonk", 
+      "pcode": "2288", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Berg en Dal"
     }, 
     {

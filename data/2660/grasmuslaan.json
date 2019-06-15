@@ -231,11 +231,6 @@
       "street": "Grasmuslaan"
     }, 
     {
-      "apptnrs": [
-        "A11", 
-        "A21", 
-        "A31"
-      ], 
       "hnrlbls": [
         "27"
       ], 
@@ -248,8 +243,9 @@
       "street": "Grasmuslaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "11", 
+        "21", 
         "31"
       ], 
       "hnrlbls": [

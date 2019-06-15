@@ -392,6 +392,18 @@
     }, 
     {
       "hnrlbls": [
+        "128A"
+      ], 
+      "housenumber": "128A", 
+      "lat": 51.170764838406, 
+      "lon": 4.383383391624, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Valkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "129"
       ], 
       "housenumber": "129", 
@@ -591,8 +603,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.171734598948, 
-      "lon": 4.3820556928, 
+      "lat": 51.171726781292, 
+      "lon": 4.382035529992, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -935,6 +947,10 @@
       "street": "Valkstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "32"
       ], 

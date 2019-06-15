@@ -40,15 +40,26 @@
       "street": "Gildehof"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302", 
+        "0303"
+      ], 
       "hnrlbls": [
-        "2-63"
+        "2-67"
       ], 
       "housenumber": "2", 
-      "lat": 50.912669810151, 
-      "lon": 4.194972591467, 
+      "lat": 50.912725574249, 
+      "lon": 4.194871001908, 
       "municipality": "Asse", 
       "pcode": "1730", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Gildehof"
     }, 
     {
@@ -173,8 +184,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.912509871667, 
-      "lon": 4.194169507474, 
+      "lat": 50.912509787668, 
+      "lon": 4.194173489184, 
       "municipality": "Asse", 
       "pcode": "1730", 
       "source": "afgeleidVanGebouw", 

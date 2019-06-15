@@ -61,8 +61,9 @@
       "street": "Hockeystraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "14"
@@ -331,8 +332,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.183672017256, 
-      "lon": 4.383396640224, 
+      "lat": 51.183671927445, 
+      "lon": 4.38339606812, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 
@@ -355,8 +356,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.183669779574, 
-      "lon": 4.383323699998, 
+      "lat": 51.183670049266, 
+      "lon": 4.383323414049, 
       "municipality": "Antwerpen", 
       "pcode": "2020", 
       "source": "afgeleidVanGebouw", 

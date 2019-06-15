@@ -1,6 +1,9 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "1.01"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -54,14 +57,15 @@
         "6.04"
       ], 
       "hnrlbls": [
+        "3-5", 
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.929720019463, 
-      "lon": 5.333427242508, 
+      "lat": 50.929671819217, 
+      "lon": 5.333374184981, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "afgeleidVanGebouw", 
       "street": "Maagdendries"
     }, 
     {

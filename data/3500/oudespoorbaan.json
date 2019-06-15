@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.940928218927, 
-      "lon": 5.316329065555, 
+      "lat": 50.940926742878, 
+      "lon": 5.316333731292, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -17,8 +17,41 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.940830598419, 
-      "lon": 5.315759355754, 
+      "lat": 50.94083201708, 
+      "lon": 5.315761803341, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Spoorbaan"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "13", 
+        "14", 
+        "15", 
+        "16", 
+        "17", 
+        "18", 
+        "19", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 50.943598740504, 
+      "lon": 5.324113124574, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -26,26 +59,26 @@
     }, 
     {
       "hnrlbls": [
-        "2-16"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.941017693829, 
-      "lon": 5.315936018371, 
+      "lat": 50.940926877908, 
+      "lon": 5.315848951545, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Spoorbaan"
     }, 
     {
       "hnrlbls": [
-        "2-16"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.941017693829, 
-      "lon": 5.315936018371, 
+      "lat": 50.941075957808, 
+      "lon": 5.315578196545, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Spoorbaan"
     }, 
     {
@@ -62,14 +95,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-16"
+        "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.941017693829, 
-      "lon": 5.315936018371, 
+      "lat": 50.941300889537, 
+      "lon": 5.315856650539, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Spoorbaan"
     }, 
     {
@@ -86,14 +119,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-16"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.941017693829, 
-      "lon": 5.315936018371, 
+      "lat": 50.941296435018, 
+      "lon": 5.316219403226, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Spoorbaan"
     }, 
     {
@@ -134,14 +167,14 @@
     }, 
     {
       "hnrlbls": [
-        "2-16"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.941017693829, 
-      "lon": 5.315936018371, 
+      "lat": 50.94080186275, 
+      "lon": 5.316201154056, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Spoorbaan"
     }, 
     {
@@ -170,19 +203,19 @@
     }, 
     {
       "hnrlbls": [
-        "22"
+        "22-25"
       ], 
       "housenumber": "22", 
-      "lat": 50.941532440788, 
-      "lon": 5.316918842926, 
+      "lat": 50.941382306208, 
+      "lon": 5.316841103054, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Spoorbaan"
     }, 
     {
       "hnrlbls": [
-        "23-26"
+        "22-25"
       ], 
       "housenumber": "23", 
       "lat": 50.941382306208, 
@@ -206,7 +239,7 @@
     }, 
     {
       "hnrlbls": [
-        "23-26"
+        "22-25"
       ], 
       "housenumber": "25", 
       "lat": 50.941382306208, 
@@ -218,14 +251,14 @@
     }, 
     {
       "hnrlbls": [
-        "23-26"
+        "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.941382306208, 
-      "lon": 5.316841103054, 
+      "lat": 50.941055580102, 
+      "lon": 5.316466104658, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Spoorbaan"
     }, 
     {
@@ -235,6 +268,18 @@
       "housenumber": "3", 
       "lat": 50.940665314957, 
       "lon": 5.316077305967, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oude Spoorbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.940180285923, 
+      "lon": 5.316681191691, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -254,11 +299,11 @@
     }, 
     {
       "hnrlbls": [
-        "2-16"
+        "5-6"
       ], 
       "housenumber": "5", 
-      "lat": 50.941017693829, 
-      "lon": 5.315936018371, 
+      "lat": 50.941018779338, 
+      "lon": 5.315935186563, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanPerceelGrb", 
@@ -266,14 +311,14 @@
     }, 
     {
       "hnrlbls": [
-        "6"
+        "5-6"
       ], 
       "housenumber": "6", 
-      "lat": 50.940320432999, 
-      "lon": 5.315734962789, 
+      "lat": 50.941018779338, 
+      "lon": 5.315935186563, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Oude Spoorbaan"
     }, 
     {

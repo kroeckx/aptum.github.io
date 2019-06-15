@@ -94,8 +94,8 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.30002330715, 
-      "lon": 4.503188790514, 
+      "lat": 51.300022947463, 
+      "lon": 4.503188932846, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -262,8 +262,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.300358135919, 
-      "lon": 4.503955541062, 
+      "lat": 51.300331054482, 
+      "lon": 4.503979262625, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -286,8 +286,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.301558012734, 
-      "lon": 4.505311844628, 
+      "lat": 51.301566118285, 
+      "lon": 4.505297817183, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -298,8 +298,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.300397545229, 
-      "lon": 4.503997809102, 
+      "lat": 51.300387643693, 
+      "lon": 4.504010540779, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -346,8 +346,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.300468162911, 
-      "lon": 4.504101247288, 
+      "lat": 51.300461943512, 
+      "lon": 4.504116570523, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -538,8 +538,8 @@
         "144B"
       ], 
       "housenumber": "144B", 
-      "lat": 51.302136877773, 
-      "lon": 4.50644398201, 
+      "lat": 51.302132737562, 
+      "lon": 4.506448844717, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 
@@ -1019,8 +1019,8 @@
         "179"
       ], 
       "housenumber": "179", 
-      "lat": 51.301593840513, 
-      "lon": 4.506269306412, 
+      "lat": 51.301663516606, 
+      "lon": 4.506176602161, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1335,6 +1335,10 @@
       "street": "Heislagsebaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "1001"
+      ], 
       "hnrlbls": [
         "205"
       ], 
@@ -2278,11 +2282,11 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.298766660605, 
-      "lon": 4.500338482339, 
+      "lat": 51.298780211001, 
+      "lon": 4.500357876133, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Heislagsebaan"
     }, 
     {
@@ -2729,8 +2733,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.299846805259, 
-      "lon": 4.503009488509, 
+      "lat": 51.299847165763, 
+      "lon": 4.503008629299, 
       "municipality": "Brasschaat", 
       "pcode": "2930", 
       "source": "afgeleidVanGebouw", 

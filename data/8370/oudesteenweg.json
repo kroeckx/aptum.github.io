@@ -49,15 +49,21 @@
       "street": "Oude Steenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.309133591789, 
-      "lon": 3.137278380355, 
+      "lat": 51.309129501532, 
+      "lon": 3.137274042398, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oude Steenweg"
     }, 
     {

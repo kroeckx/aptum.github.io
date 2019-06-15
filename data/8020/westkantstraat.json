@@ -521,11 +521,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.082145887636, 
-      "lon": 3.188720508549, 
+      "lat": 51.082155947418, 
+      "lon": 3.188620774701, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Westkantstraat"
     }, 
     {
@@ -565,20 +565,12 @@
       "street": "Westkantstraat"
     }, 
     {
-      "apptnrs": [
-        "0-01", 
-        "0-02", 
-        "1-01"
-      ], 
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "53"
+        "53A"
       ], 
-      "housenumber": "53", 
-      "lat": 51.068395360768, 
-      "lon": 3.187495074841, 
+      "housenumber": "53A", 
+      "lat": 51.068151704886, 
+      "lon": 3.187546311914, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 

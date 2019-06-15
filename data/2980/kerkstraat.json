@@ -29,11 +29,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.267788173132, 
-      "lon": 4.711252787103, 
+      "lat": 51.267563965331, 
+      "lon": 4.71126632262, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -133,8 +133,13 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b2", 
+        "b3"
+      ], 
       "hnrlbls": [
-        "22-22b"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 51.267594358955, 
@@ -142,23 +147,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Kerkstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "22-22b"
-      ], 
-      "housenumber": "22b", 
-      "lat": 51.267594358955, 
-      "lon": 4.710641282236, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -267,8 +255,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.267877218059, 
-      "lon": 4.709709472249, 
+      "lat": 51.267857457425, 
+      "lon": 4.709704742395, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -287,13 +275,15 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "b1", 
+        "b6"
+      ], 
       "busnrs": [
-        "1", 
         "2", 
         "3", 
         "4", 
-        "5", 
-        "6"
+        "5"
       ], 
       "hnrlbls": [
         "35B"

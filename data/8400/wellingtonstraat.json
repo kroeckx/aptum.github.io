@@ -473,9 +473,6 @@
       "street": "Wellingtonstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "52A"
       ], 
@@ -490,14 +487,15 @@
     {
       "busnrs": [
         "0101", 
+        "0201", 
         "0202", 
+        "0301", 
         "0302", 
+        "0401", 
+        "0402", 
         "0501", 
-        "0601", 
-        "1", 
-        "3", 
-        "5", 
-        "6"
+        "0502", 
+        "0601"
       ], 
       "hnrlbls": [
         "54-54A"
@@ -574,18 +572,15 @@
       "street": "Wellingtonstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.226520736048, 
-      "lon": 2.908674135169, 
+      "lat": 51.226583091308, 
+      "lon": 2.908627511547, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Wellingtonstraat"
     }, 
     {
@@ -823,8 +818,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.22448290197, 
-      "lon": 2.903457475419, 
+      "lat": 51.22444597605, 
+      "lon": 2.903415827216, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 

@@ -101,9 +101,11 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
-        "4"
+        "4", 
+        "5"
       ], 
       "hnrlbls": [
         "16"
@@ -157,11 +159,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.205775937525, 
-      "lon": 4.415545549902, 
+      "lat": 51.205793479178, 
+      "lon": 4.415733583382, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Albertstraat"
     }, 
     {
@@ -505,8 +507,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.204873219197, 
-      "lon": 4.414206798792, 
+      "lat": 51.20487268017, 
+      "lon": 4.414206082841, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -517,8 +519,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.20478090305, 
-      "lon": 4.414219155712, 
+      "lat": 51.204780004262, 
+      "lon": 4.414219011739, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -529,8 +531,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.205483855466, 
-      "lon": 4.415663870439, 
+      "lat": 51.20548502477, 
+      "lon": 4.415661868435, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

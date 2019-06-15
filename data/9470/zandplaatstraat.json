@@ -253,6 +253,43 @@
       "street": "Zandplaatstraat"
     }, 
     {
+      "apptnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "126"
+      ], 
+      "housenumber": "126", 
+      "lat": 50.875919241542, 
+      "lon": 4.077569500711, 
+      "municipality": "Denderleeuw", 
+      "pcode": "9470", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zandplaatstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022", 
+        "0031"
+      ], 
+      "hnrlbls": [
+        "128"
+      ], 
+      "housenumber": "128", 
+      "lat": 50.8758007318, 
+      "lon": 4.077485552412, 
+      "municipality": "Denderleeuw", 
+      "pcode": "9470", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Zandplaatstraat"
+    }, 
+    {
       "hnrlbls": [
         "13"
       ], 
@@ -265,48 +302,20 @@
       "street": "Zandplaatstraat"
     }, 
     {
-      "hnrlbls": [
-        "132"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
       ], 
-      "housenumber": "132", 
-      "lat": 50.875879078535, 
-      "lon": 4.077613936761, 
-      "municipality": "Denderleeuw", 
-      "pcode": "9470", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Zandplaatstraat"
-    }, 
-    {
       "hnrlbls": [
-        "134"
+        "130"
       ], 
-      "housenumber": "134", 
-      "lat": 50.875832282185, 
-      "lon": 4.077520735803, 
-      "municipality": "Denderleeuw", 
-      "pcode": "9470", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Zandplaatstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "136"
-      ], 
-      "housenumber": "136", 
-      "lat": 50.875773834398, 
-      "lon": 4.077514277327, 
-      "municipality": "Denderleeuw", 
-      "pcode": "9470", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Zandplaatstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "138"
-      ], 
-      "housenumber": "138", 
-      "lat": 50.875668468796, 
-      "lon": 4.077438204702, 
+      "housenumber": "130", 
+      "lat": 50.875714022031, 
+      "lon": 4.077428687556, 
       "municipality": "Denderleeuw", 
       "pcode": "9470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -389,8 +398,8 @@
         "156"
       ], 
       "housenumber": "156", 
-      "lat": 50.874983000206, 
-      "lon": 4.076452290137, 
+      "lat": 50.874996612053, 
+      "lon": 4.076503638596, 
       "municipality": "Denderleeuw", 
       "pcode": "9470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -593,8 +602,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.878718306133, 
-      "lon": 4.078188760166, 
+      "lat": 50.878724046736, 
+      "lon": 4.078147234102, 
       "municipality": "Denderleeuw", 
       "pcode": "9470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -797,8 +806,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.877130149593, 
-      "lon": 4.077723565056, 
+      "lat": 50.87716585054, 
+      "lon": 4.077801349911, 
       "municipality": "Denderleeuw", 
       "pcode": "9470", 
       "source": "manueleAanduidingVanGebouw", 
@@ -809,8 +818,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.878180743617, 
-      "lon": 4.078192645649, 
+      "lat": 50.87821008804, 
+      "lon": 4.078062736697, 
       "municipality": "Denderleeuw", 
       "pcode": "9470", 
       "source": "manueleAanduidingVanGebouw", 

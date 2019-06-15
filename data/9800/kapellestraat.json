@@ -296,8 +296,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.982278539307, 
-      "lon": 3.557128171012, 
+      "lat": 50.982278723988, 
+      "lon": 3.557128879879, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -415,8 +415,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.983099742741, 
-      "lon": 3.55618926103, 
+      "lat": 50.983076660241, 
+      "lon": 3.556205326529, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -439,8 +439,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.983107893133, 
-      "lon": 3.556119763683, 
+      "lat": 50.983070357657, 
+      "lon": 3.556138785482, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -671,8 +671,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.982990747904, 
-      "lon": 3.555519521046, 
+      "lat": 50.982934665121, 
+      "lon": 3.555547409699, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -680,11 +680,11 @@
     }, 
     {
       "hnrlbls": [
-        "45"
+        "45-47"
       ], 
       "housenumber": "45", 
-      "lat": 50.98243242263, 
-      "lon": 3.555288807203, 
+      "lat": 50.982432332744, 
+      "lon": 3.555288808762, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -704,14 +704,14 @@
     }, 
     {
       "hnrlbls": [
-        "47"
+        "45-47"
       ], 
       "housenumber": "47", 
-      "lat": 50.982235419418, 
-      "lon": 3.555348191621, 
+      "lat": 50.982432332744, 
+      "lon": 3.555288808762, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -752,14 +752,14 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "0002"
       ], 
       "hnrlbls": [
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.98227239134, 
-      "lon": 3.555039512071, 
+      "lat": 50.982296939133, 
+      "lon": 3.555118410107, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -782,11 +782,11 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 50.98229185748, 
-      "lon": 3.554942476199, 
+      "lat": 50.982247842511, 
+      "lon": 3.554960471722, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -818,35 +818,35 @@
         "55A"
       ], 
       "housenumber": "55A", 
-      "lat": 50.981907607238, 
-      "lon": 3.555224139023, 
+      "lat": 50.981927262686, 
+      "lon": 3.555297567327, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
       "hnrlbls": [
-        "55B-55C"
+        "55B"
       ], 
       "housenumber": "55B", 
-      "lat": 50.981762086195, 
-      "lon": 3.555006210432, 
+      "lat": 50.981868292167, 
+      "lon": 3.554959650873, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
       "hnrlbls": [
-        "55B-55C"
+        "55C"
       ], 
       "housenumber": "55C", 
-      "lat": 50.981762086195, 
-      "lon": 3.555006210432, 
+      "lat": 50.981852447083, 
+      "lon": 3.554852262794, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {
@@ -969,8 +969,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.981840532356, 
-      "lon": 3.552819405584, 
+      "lat": 50.981885795614, 
+      "lon": 3.553487667349, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1010,6 +1010,30 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "71"
+      ], 
+      "housenumber": "71", 
+      "lat": 50.981792090929, 
+      "lon": 3.552548954849, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "73"
+      ], 
+      "housenumber": "73", 
+      "lat": 50.981737431927, 
+      "lon": 3.552276476716, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kapellestraat"
     }, 
     {

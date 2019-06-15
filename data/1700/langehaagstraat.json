@@ -617,11 +617,11 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.864031162266, 
-      "lon": 4.24344739688, 
+      "lat": 50.864016834645, 
+      "lon": 4.243499707759, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Haagstraat"
     }, 
     {
@@ -629,11 +629,11 @@
         "24A"
       ], 
       "housenumber": "24A", 
-      "lat": 50.864013078976, 
-      "lon": 4.243433808433, 
+      "lat": 50.86397635223, 
+      "lon": 4.243471690011, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Haagstraat"
     }, 
     {
@@ -810,26 +810,14 @@
     }, 
     {
       "hnrlbls": [
-        "51"
-      ], 
-      "housenumber": "51", 
-      "lat": 50.863130052408, 
-      "lon": 4.241762171247, 
-      "municipality": "Dilbeek", 
-      "pcode": "1700", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Lange Haagstraat"
-    }, 
-    {
-      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 50.863230231203, 
-      "lon": 4.241129098168, 
+      "lat": 50.863278913331, 
+      "lon": 4.241091325098, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Haagstraat"
     }, 
     {
@@ -873,11 +861,11 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.862709723232, 
-      "lon": 4.241363026804, 
+      "lat": 50.862633765084, 
+      "lon": 4.241532403272, 
       "municipality": "Dilbeek", 
       "pcode": "1700", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Lange Haagstraat"
     }, 
     {

@@ -636,6 +636,10 @@
       "street": "Rechtestraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
       "hnrlbls": [
         "47"
       ], 
@@ -669,18 +673,6 @@
       "municipality": "Dilsen-Stokkem", 
       "pcode": "3650", 
       "source": "afgeleidVanGebouw", 
-      "street": "Rechtestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.020429521942, 
-      "lon": 5.745924652106, 
-      "municipality": "Dilsen-Stokkem", 
-      "pcode": "3650", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Rechtestraat"
     }, 
     {

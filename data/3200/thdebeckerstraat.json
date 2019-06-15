@@ -29,6 +29,23 @@
     }, 
     {
       "busnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
+      "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.984837613384, 
+      "lon": 4.837108103136, 
+      "municipality": "Aarschot", 
+      "pcode": "3200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Th. De Beckerstraat"
+    }, 
+    {
+      "busnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -132,6 +149,9 @@
       "street": "Th. De Beckerstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "20"
       ], 
@@ -341,8 +361,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 50.985582313943, 
-      "lon": 4.837101741715, 
+      "lat": 50.985582393043, 
+      "lon": 4.837104448429, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 
@@ -564,12 +584,15 @@
       "street": "Th. De Beckerstraat"
     }, 
     {
+      "busnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.984610809386, 
-      "lon": 4.837108966419, 
+      "lat": 50.984611765065, 
+      "lon": 4.837094734584, 
       "municipality": "Aarschot", 
       "pcode": "3200", 
       "source": "afgeleidVanGebouw", 

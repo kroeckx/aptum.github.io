@@ -533,15 +533,27 @@
       "street": "Franchommelaan"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501", 
+        "0601", 
+        "0701", 
+        "0801", 
+        "0901"
+      ], 
       "hnrlbls": [
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.31429663144, 
-      "lon": 3.121496944318, 
+      "lat": 51.314314163205, 
+      "lon": 3.121497191822, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Franchommelaan"
     }, 
     {

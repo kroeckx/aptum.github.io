@@ -230,14 +230,14 @@
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "127"
       ], 
       "housenumber": "127", 
-      "lat": 51.061263854126, 
-      "lon": 3.745648468424, 
+      "lat": 51.061282436191, 
+      "lon": 3.745660631747, 
       "municipality": "Gent", 
       "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Halvemaanstraat"
     }, 
     {
@@ -254,7 +254,7 @@
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "129"
       ], 
       "housenumber": "129", 
       "lat": 51.061263854126, 
@@ -2153,33 +2153,9 @@
     }, 
     {
       "hnrlbls": [
-        "94-94B"
+        "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.061522100151, 
-      "lon": 3.745407520419, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Halvemaanstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "94-94B"
-      ], 
-      "housenumber": "94A", 
-      "lat": 51.061522100151, 
-      "lon": 3.745407520419, 
-      "municipality": "Gent", 
-      "pcode": "9040", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Halvemaanstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "94-94B"
-      ], 
-      "housenumber": "94B", 
       "lat": 51.061522100151, 
       "lon": 3.745407520419, 
       "municipality": "Gent", 

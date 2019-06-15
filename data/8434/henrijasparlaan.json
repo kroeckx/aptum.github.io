@@ -217,7 +217,7 @@
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "127"
       ], 
       "housenumber": "127", 
       "lat": 51.167731623771, 
@@ -241,11 +241,11 @@
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "129"
       ], 
       "housenumber": "129", 
-      "lat": 51.167731623771, 
-      "lon": 2.770780596379, 
+      "lat": 51.167796724798, 
+      "lon": 2.771000595327, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
       "source": "manueleAanduidingVanGebouw", 
@@ -284,8 +284,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.168129466865, 
-      "lon": 2.771924742626, 
+      "lat": 51.168094854251, 
+      "lon": 2.771958102162, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
       "source": "manueleAanduidingVanGebouw", 
@@ -432,7 +432,10 @@
       "apptnrs": [
         "-101", 
         "0001", 
-        "0101"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "150"
@@ -1182,14 +1185,14 @@
     }, 
     {
       "hnrlbls": [
-        "181"
+        "32-181"
       ], 
       "housenumber": "181", 
-      "lat": 51.169695011467, 
-      "lon": 2.776374549813, 
+      "lat": 51.169709581705, 
+      "lon": 2.776361611169, 
       "municipality": "Middelkerke", 
       "pcode": "8434", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Henri Jasparlaan"
     }, 
     {

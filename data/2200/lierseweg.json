@@ -221,8 +221,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.175346481252, 
-      "lon": 4.824662902443, 
+      "lat": 51.175346024648, 
+      "lon": 4.824664756921, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -335,8 +335,8 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.17525643654, 
-      "lon": 4.824191852282, 
+      "lat": 51.175254906308, 
+      "lon": 4.824192409309, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -558,8 +558,8 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.174981455869, 
-      "lon": 4.823333913866, 
+      "lat": 51.174980472107, 
+      "lon": 4.823332617319, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -612,8 +612,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.175145128063, 
-      "lon": 4.821795309539, 
+      "lat": 51.175145582974, 
+      "lon": 4.82179388401, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -648,8 +648,8 @@
         "151"
       ], 
       "housenumber": "151", 
-      "lat": 51.174886572902, 
-      "lon": 4.822927456314, 
+      "lat": 51.174882423932, 
+      "lon": 4.822931133734, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -777,8 +777,8 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 51.1751188516, 
-      "lon": 4.820842563988, 
+      "lat": 51.175120648727, 
+      "lon": 4.820842724417, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -794,6 +794,18 @@
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lierseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "169"
+      ], 
+      "housenumber": "169", 
+      "lat": 51.174809271851, 
+      "lon": 4.82217941566, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lierseweg"
     }, 
     {
@@ -833,6 +845,18 @@
       "street": "Lierseweg"
     }, 
     {
+      "hnrlbls": [
+        "173"
+      ], 
+      "housenumber": "173", 
+      "lat": 51.17475204543, 
+      "lon": 4.821492630937, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lierseweg"
+    }, 
+    {
       "busnrs": [
         "A"
       ], 
@@ -848,15 +872,46 @@
       "street": "Lierseweg"
     }, 
     {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "175"
+      ], 
+      "housenumber": "175", 
+      "lat": 51.174747423237, 
+      "lon": 4.821338581576, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Lierseweg"
+    }, 
+    {
       "hnrlbls": [
         "176"
       ], 
       "housenumber": "176", 
-      "lat": 51.175118665102, 
-      "lon": 4.820398562538, 
+      "lat": 51.175119474056, 
+      "lon": 4.820398570378, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
+      "street": "Lierseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "177"
+      ], 
+      "housenumber": "177", 
+      "lat": 51.174746087518, 
+      "lon": 4.821218167724, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Lierseweg"
     }, 
     {
@@ -1229,8 +1284,8 @@
         "20-22"
       ], 
       "housenumber": "20", 
-      "lat": 51.1770632413, 
-      "lon": 4.828804993102, 
+      "lat": 51.177067739386, 
+      "lon": 4.828804036499, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1369,8 +1424,8 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.174856704528, 
-      "lon": 4.81765167848, 
+      "lat": 51.174861093595, 
+      "lon": 4.817655724597, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1409,8 +1464,8 @@
         "20-22"
       ], 
       "housenumber": "22", 
-      "lat": 51.1770632413, 
-      "lon": 4.828804993102, 
+      "lat": 51.177067739386, 
+      "lon": 4.828804036499, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1425,8 +1480,8 @@
         "226"
       ], 
       "housenumber": "226", 
-      "lat": 51.174912165207, 
-      "lon": 4.814737415488, 
+      "lat": 51.17491279169, 
+      "lon": 4.814738136456, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2110,8 +2165,8 @@
         "326"
       ], 
       "housenumber": "326", 
-      "lat": 51.174465662314, 
-      "lon": 4.793415337491, 
+      "lat": 51.174465038275, 
+      "lon": 4.793413901876, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2364,11 +2419,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.176079336226, 
-      "lon": 4.82730481121, 
+      "lat": 51.176156764616, 
+      "lon": 4.827272540465, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Lierseweg"
     }, 
     {
@@ -2524,8 +2579,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.175873200854, 
-      "lon": 4.826477973701, 
+      "lat": 51.175872030701, 
+      "lon": 4.8264783912, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2595,8 +2650,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.175878017945, 
-      "lon": 4.826302134153, 
+      "lat": 51.175846561439, 
+      "lon": 4.826324275895, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2916,8 +2971,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.175559047259, 
-      "lon": 4.825364377609, 
+      "lat": 51.175571301893, 
+      "lon": 4.825356632872, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 

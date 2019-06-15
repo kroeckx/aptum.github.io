@@ -17,9 +17,6 @@
       "street": "Schaafstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "11A"
       ], 
@@ -32,9 +29,6 @@
       "street": "Schaafstraat"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "11B"
       ], 
@@ -181,19 +175,18 @@
     }, 
     {
       "busnrs": [
-        "0102", 
-        "0201", 
-        "1"
+        "0001", 
+        "0101"
       ], 
       "hnrlbls": [
         "20A"
       ], 
       "housenumber": "20A", 
-      "lat": 51.220627695507, 
-      "lon": 2.901661386511, 
+      "lat": 51.220630831887, 
+      "lon": 2.901718551828, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schaafstraat"
     }, 
     {
@@ -275,11 +268,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.220804474618, 
-      "lon": 2.901888748353, 
+      "lat": 51.220769055803, 
+      "lon": 2.901939681993, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schaafstraat"
     }, 
     {

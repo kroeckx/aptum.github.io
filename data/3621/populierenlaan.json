@@ -53,8 +53,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.922028181499, 
-      "lon": 5.698119678254, 
+      "lat": 50.922025414581, 
+      "lon": 5.698117892902, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "afgeleidVanGebouw", 
@@ -65,8 +65,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.922035054548, 
-      "lon": 5.697877915894, 
+      "lat": 50.922033412582, 
+      "lon": 5.697880003024, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "afgeleidVanGebouw", 
@@ -89,11 +89,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.922104644994, 
-      "lon": 5.697210486437, 
+      "lat": 50.9221501441, 
+      "lon": 5.697225857343, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Populierenlaan"
     }, 
     {
@@ -117,8 +117,8 @@
         "22A"
       ], 
       "housenumber": "22A", 
-      "lat": 50.922679280281, 
-      "lon": 5.695593352068, 
+      "lat": 50.922684510592, 
+      "lon": 5.695504454064, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "manueleAanduidingVanPerceel", 
@@ -129,8 +129,8 @@
         "22B"
       ], 
       "housenumber": "22B", 
-      "lat": 50.922672523306, 
-      "lon": 5.69548320482, 
+      "lat": 50.922691654213, 
+      "lon": 5.695397402678, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "manueleAanduidingVanPerceel", 
@@ -158,6 +158,24 @@
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "afgeleidVanGebouw", 
+      "street": "Populierenlaan"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 50.922718192785, 
+      "lon": 5.694950362788, 
+      "municipality": "Lanaken", 
+      "pcode": "3621", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Populierenlaan"
     }, 
     {
@@ -350,8 +368,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.922579390984, 
-      "lon": 5.693149022812, 
+      "lat": 50.92258334886, 
+      "lon": 5.693148850082, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "afgeleidVanGebouw", 
@@ -456,8 +474,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.921842782463, 
-      "lon": 5.699485508721, 
+      "lat": 50.921848268288, 
+      "lon": 5.699485379879, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "afgeleidVanGebouw", 
@@ -584,8 +602,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 50.923097333896, 
-      "lon": 5.689718708983, 
+      "lat": 50.923077648541, 
+      "lon": 5.689710330967, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "afgeleidVanGebouw", 
@@ -758,8 +776,8 @@
         "79"
       ], 
       "housenumber": "79", 
-      "lat": 50.923389140081, 
-      "lon": 5.68792251357, 
+      "lat": 50.9233975938, 
+      "lon": 5.687802267413, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "manueleAanduidingVanPerceel", 
@@ -770,23 +788,11 @@
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.923415544209, 
-      "lon": 5.687684990987, 
+      "lat": 50.923443299799, 
+      "lon": 5.687487193335, 
       "municipality": "Lanaken", 
       "pcode": "3621", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Populierenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "82"
-      ], 
-      "housenumber": "82", 
-      "lat": 50.923864168661, 
-      "lon": 5.687005706804, 
-      "municipality": "Lanaken", 
-      "pcode": "3621", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Populierenlaan"
     }, 
     {

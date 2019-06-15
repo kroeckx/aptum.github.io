@@ -811,18 +811,6 @@
     }, 
     {
       "hnrlbls": [
-        "172A-174"
-      ], 
-      "housenumber": "172A", 
-      "lat": 50.78307960669, 
-      "lon": 4.121641452697, 
-      "municipality": "Gooik", 
-      "pcode": "1755", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Edingsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "173"
       ], 
       "housenumber": "173", 
@@ -835,7 +823,7 @@
     }, 
     {
       "hnrlbls": [
-        "172A-174"
+        "174"
       ], 
       "housenumber": "174", 
       "lat": 50.78307960669, 
@@ -1423,11 +1411,11 @@
         "232"
       ], 
       "housenumber": "232", 
-      "lat": 50.777520619691, 
-      "lon": 4.119254383849, 
+      "lat": 50.777575438121, 
+      "lon": 4.119076294912, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Edingsesteenweg"
     }, 
     {
@@ -1894,11 +1882,11 @@
         "286"
       ], 
       "housenumber": "286", 
-      "lat": 50.767330948236, 
-      "lon": 4.114985269795, 
+      "lat": 50.767361562293, 
+      "lon": 4.114924717657, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Edingsesteenweg"
     }, 
     {
@@ -1930,11 +1918,11 @@
         "290"
       ], 
       "housenumber": "290", 
-      "lat": 50.766978926941, 
-      "lon": 4.114910189434, 
+      "lat": 50.767016980098, 
+      "lon": 4.114756181878, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Edingsesteenweg"
     }, 
     {
@@ -3466,11 +3454,11 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 50.793921832218, 
-      "lon": 4.126439263256, 
+      "lat": 50.79390782152, 
+      "lon": 4.126489261047, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Edingsesteenweg"
     }, 
     {

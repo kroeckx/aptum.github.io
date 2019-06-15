@@ -1,32 +1,18 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
-        "2-4"
+        "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.181327142334, 
-      "lon": 4.384364915037, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Athenestraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
-      "hnrlbls": [
-        "2-4"
-      ], 
-      "housenumber": "4", 
       "lat": 51.181327142334, 
       "lon": 4.384364915037, 
       "municipality": "Antwerpen", 

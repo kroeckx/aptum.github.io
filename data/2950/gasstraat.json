@@ -21,6 +21,25 @@
       "street": "Gasstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 51.313963098036, 
+      "lon": 4.430916747293, 
+      "municipality": "Kapellen", 
+      "pcode": "2950", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Gasstraat"
+    }, 
+    {
       "hnrlbls": [
         "13"
       ], 
@@ -262,8 +281,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.314224965077, 
-      "lon": 4.430661670185, 
+      "lat": 51.314226578378, 
+      "lon": 4.43067027755, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
       "source": "afgeleidVanGebouw", 
@@ -319,11 +338,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.312493349847, 
-      "lon": 4.431631547973, 
+      "lat": 51.312496698427, 
+      "lon": 4.431588671589, 
       "municipality": "Kapellen", 
       "pcode": "2950", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Gasstraat"
     }, 
     {
@@ -402,6 +421,13 @@
       "street": "Gasstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005"
+      ], 
       "hnrlbls": [
         "8"
       ], 

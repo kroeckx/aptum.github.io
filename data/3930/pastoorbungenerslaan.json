@@ -224,8 +224,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.258289192857, 
-      "lon": 5.479359539184, 
+      "lat": 51.258299880697, 
+      "lon": 5.479370109126, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
       "source": "afgeleidVanGebouw", 
@@ -256,15 +256,51 @@
       "street": "Pastoor Bungenerslaan"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 51.258340083223, 
+      "lon": 5.478630680633, 
+      "municipality": "Hamont-Achel", 
+      "pcode": "3930", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Pastoor Bungenerslaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.258385600521, 
-      "lon": 5.478339937023, 
+      "lat": 51.258351489163, 
+      "lon": 5.478555165955, 
       "municipality": "Hamont-Achel", 
       "pcode": "3930", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Pastoor Bungenerslaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "44"
+      ], 
+      "housenumber": "44", 
+      "lat": 51.25836187419, 
+      "lon": 5.478339371561, 
+      "municipality": "Hamont-Achel", 
+      "pcode": "3930", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Pastoor Bungenerslaan"
     }, 
     {

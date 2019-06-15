@@ -1,15 +1,18 @@
 {
   "addresses": [
     {
+      "busnrs": [
+        "0101"
+      ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.211725747239, 
-      "lon": 2.914494599991, 
+      "lat": 51.211727253864, 
+      "lon": 2.914492835443, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Chrysantenstraat"
     }, 
     {
@@ -145,9 +148,6 @@
       "street": "Chrysantenstraat"
     }, 
     {
-      "busnrs": [
-        "B000"
-      ], 
       "hnrlbls": [
         "1b"
       ], 
@@ -260,8 +260,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.210728410861, 
-      "lon": 2.917343610785, 
+      "lat": 51.210726150136, 
+      "lon": 2.917342536084, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -376,9 +376,6 @@
       "street": "Chrysantenstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "45A"
       ], 

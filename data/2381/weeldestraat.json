@@ -194,8 +194,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.413691474286, 
-      "lon": 5.016217619209, 
+      "lat": 51.413685069322, 
+      "lon": 5.016205456265, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -218,8 +218,8 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.413820722729, 
-      "lon": 5.016184496396, 
+      "lat": 51.413820181921, 
+      "lon": 5.016184776313, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -230,8 +230,8 @@
         "118A"
       ], 
       "housenumber": "118A", 
-      "lat": 51.413910796162, 
-      "lon": 5.016247846504, 
+      "lat": 51.41391043667, 
+      "lon": 5.016247841485, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -362,8 +362,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
       ], 
       "hnrlbls": [
         "133"
@@ -386,18 +391,12 @@
         "02-2", 
         "03-1"
       ], 
-      "busnrs": [
-        "11", 
-        "12", 
-        "21", 
-        "22"
-      ], 
       "hnrlbls": [
         "135"
       ], 
       "housenumber": "135", 
-      "lat": 51.414801981887, 
-      "lon": 5.01525442381, 
+      "lat": 51.414802436736, 
+      "lon": 5.015253423998, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -611,9 +610,21 @@
     }, 
     {
       "hnrlbls": [
-        "153"
+        "153-153A"
       ], 
       "housenumber": "153", 
+      "lat": 51.416302616083, 
+      "lon": 5.014660563893, 
+      "municipality": "Ravels", 
+      "pcode": "2381", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Weeldestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "153-153A"
+      ], 
+      "housenumber": "153A", 
       "lat": 51.416302616083, 
       "lon": 5.014660563893, 
       "municipality": "Ravels", 
@@ -977,6 +988,32 @@
       "street": "Weeldestraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "10", 
+        "11", 
+        "12", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+      ], 
+      "hnrlbls": [
+        "26"
+      ], 
+      "housenumber": "26", 
+      "lat": 51.408821280009, 
+      "lon": 5.012609878582, 
+      "municipality": "Ravels", 
+      "pcode": "2381", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Weeldestraat"
+    }, 
+    {
       "hnrlbls": [
         "28"
       ], 
@@ -1018,9 +1055,6 @@
         "01-2", 
         "02-1", 
         "02-2"
-      ], 
-      "busnrs": [
-        "2"
       ], 
       "hnrlbls": [
         "30"
@@ -1407,8 +1441,8 @@
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.411816420049, 
-      "lon": 5.014185163399, 
+      "lat": 51.41181367067, 
+      "lon": 5.014194898556, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1592,8 +1626,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.41204369122, 
-      "lon": 5.015231355925, 
+      "lat": 51.41204378031, 
+      "lon": 5.015231500894, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -1668,6 +1702,7 @@
     }, 
     {
       "apptnrs": [
+        "00-1", 
         "00-2", 
         "01-1", 
         "01-2", 

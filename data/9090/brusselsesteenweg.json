@@ -173,8 +173,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.020549877211, 
-      "lon": 3.778848808635, 
+      "lat": 51.020543988155, 
+      "lon": 3.778839618609, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -368,8 +368,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.025354331051, 
-      "lon": 3.772422535067, 
+      "lat": 51.025359893497, 
+      "lon": 3.772438143676, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -419,8 +419,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.01748292304, 
-      "lon": 3.78256486558, 
+      "lat": 51.017458397616, 
+      "lon": 3.782531823564, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanPerceelGrb", 
@@ -443,8 +443,8 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.017389639935, 
-      "lon": 3.782750874058, 
+      "lat": 51.01738860238, 
+      "lon": 3.78275915291, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanPerceelGrb", 
@@ -467,8 +467,8 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.017144461667, 
-      "lon": 3.783068467698, 
+      "lat": 51.017145091589, 
+      "lon": 3.783068602344, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanPerceelGrb", 
@@ -479,8 +479,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.01163752638, 
-      "lon": 3.787302168394, 
+      "lat": 51.01160986833, 
+      "lon": 3.787308068726, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -579,8 +579,8 @@
         "157A"
       ], 
       "housenumber": "157A", 
-      "lat": 51.015635038083, 
-      "lon": 3.785092720182, 
+      "lat": 51.015632601234, 
+      "lon": 3.785090755375, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -619,11 +619,11 @@
         "157C"
       ], 
       "housenumber": "157C", 
-      "lat": 51.015943293339, 
-      "lon": 3.78569426927, 
+      "lat": 51.015654911275, 
+      "lon": 3.785439057013, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -631,8 +631,8 @@
         "158"
       ], 
       "housenumber": "158", 
-      "lat": 51.009916760589, 
-      "lon": 3.790988550866, 
+      "lat": 51.009916931981, 
+      "lon": 3.790986838846, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -955,8 +955,8 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 51.008728205499, 
-      "lon": 3.792129566857, 
+      "lat": 51.008714494353, 
+      "lon": 3.792101522666, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -1048,6 +1048,18 @@
     }, 
     {
       "hnrlbls": [
+        "17B"
+      ], 
+      "housenumber": "17B", 
+      "lat": 51.025191761382, 
+      "lon": 3.772520674385, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "180"
       ], 
       "housenumber": "180", 
@@ -1072,26 +1084,26 @@
     }, 
     {
       "hnrlbls": [
-        "184-186"
+        "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.008267107041, 
-      "lon": 3.79302321723, 
+      "lat": 51.008238652291, 
+      "lon": 3.792829356382, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brusselsesteenweg"
     }, 
     {
       "hnrlbls": [
-        "184-186"
+        "186"
       ], 
       "housenumber": "186", 
-      "lat": 51.008267107041, 
-      "lon": 3.79302321723, 
+      "lat": 51.008291521714, 
+      "lon": 3.793162982665, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -1211,8 +1223,8 @@
         "193"
       ], 
       "housenumber": "193", 
-      "lat": 51.010400290676, 
-      "lon": 3.791482462399, 
+      "lat": 51.010396464427, 
+      "lon": 3.791472107445, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -1393,8 +1405,8 @@
         "212"
       ], 
       "housenumber": "212", 
-      "lat": 51.003041585251, 
-      "lon": 3.800967593066, 
+      "lat": 51.003041767087, 
+      "lon": 3.800968018279, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -1453,11 +1465,11 @@
         "220A"
       ], 
       "housenumber": "220A", 
-      "lat": 51.002846580209, 
-      "lon": 3.801204745347, 
+      "lat": 51.002956735204, 
+      "lon": 3.801324085514, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -2065,8 +2077,8 @@
         "264"
       ], 
       "housenumber": "264", 
-      "lat": 51.001320385329, 
-      "lon": 3.803677047133, 
+      "lat": 51.001321741854, 
+      "lon": 3.803678740384, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -2125,8 +2137,8 @@
         "270"
       ], 
       "housenumber": "270", 
-      "lat": 51.001255721897, 
-      "lon": 3.804195832011, 
+      "lat": 51.001255992245, 
+      "lon": 3.804195971223, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -2149,8 +2161,8 @@
         "272"
       ], 
       "housenumber": "272", 
-      "lat": 51.001260863941, 
-      "lon": 3.804387244271, 
+      "lat": 51.001255691172, 
+      "lon": 3.804377048964, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -2161,8 +2173,8 @@
         "273"
       ], 
       "housenumber": "273", 
-      "lat": 51.004227609296, 
-      "lon": 3.799582484519, 
+      "lat": 51.004227794578, 
+      "lon": 3.79958362207, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -2192,8 +2204,8 @@
         "275"
       ], 
       "housenumber": "275", 
-      "lat": 51.004294852336, 
-      "lon": 3.799769165879, 
+      "lat": 51.004293950014, 
+      "lon": 3.799768464449, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -2204,8 +2216,8 @@
         "277"
       ], 
       "housenumber": "277", 
-      "lat": 51.004230428625, 
-      "lon": 3.799775361431, 
+      "lat": 51.004230790241, 
+      "lon": 3.799775784469, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -2668,8 +2680,8 @@
         "304"
       ], 
       "housenumber": "304", 
-      "lat": 51.000120119793, 
-      "lon": 3.806588193764, 
+      "lat": 51.000120751051, 
+      "lon": 3.806588613586, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -3176,8 +3188,8 @@
         "338"
       ], 
       "housenumber": "338", 
-      "lat": 50.998769927815, 
-      "lon": 3.809082435434, 
+      "lat": 50.998767578534, 
+      "lon": 3.809079899214, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -3436,18 +3448,6 @@
     }, 
     {
       "hnrlbls": [
-        "35-39"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.024491265895, 
-      "lon": 3.773560553536, 
-      "municipality": "Melle", 
-      "pcode": "9090", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "350"
       ], 
       "housenumber": "350", 
@@ -3535,8 +3535,8 @@
         "359"
       ], 
       "housenumber": "359", 
-      "lat": 51.002385454739, 
-      "lon": 3.803061143874, 
+      "lat": 51.002384093419, 
+      "lon": 3.803058453374, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -3547,11 +3547,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.022652467779, 
-      "lon": 3.774854850048, 
+      "lat": 51.022635663219, 
+      "lon": 3.774945142733, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -3631,8 +3631,8 @@
         "366"
       ], 
       "housenumber": "366", 
-      "lat": 50.9957863736, 
-      "lon": 3.816725380746, 
+      "lat": 50.995787187938, 
+      "lon": 3.816726510756, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -3688,7 +3688,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-39"
+        "37-39"
       ], 
       "housenumber": "37", 
       "lat": 51.024491265895, 
@@ -3814,8 +3814,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.022273911016, 
-      "lon": 3.77492292883, 
+      "lat": 51.02227202697, 
+      "lon": 3.774923665345, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -3959,7 +3959,7 @@
     }, 
     {
       "hnrlbls": [
-        "35-39"
+        "37-39"
       ], 
       "housenumber": "39", 
       "lat": 51.024491265895, 
@@ -4022,8 +4022,8 @@
         "394"
       ], 
       "housenumber": "394", 
-      "lat": 50.993327363877, 
-      "lon": 3.824614948991, 
+      "lat": 50.993323462475, 
+      "lon": 3.824607159957, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4070,8 +4070,8 @@
         "398"
       ], 
       "housenumber": "398", 
-      "lat": 50.993292939204, 
-      "lon": 3.824732719918, 
+      "lat": 50.993292124285, 
+      "lon": 3.824731447395, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4110,8 +4110,8 @@
         "400"
       ], 
       "housenumber": "400", 
-      "lat": 50.993286261129, 
-      "lon": 3.824785500648, 
+      "lat": 50.993235643448, 
+      "lon": 3.824744922, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4158,8 +4158,8 @@
         "404"
       ], 
       "housenumber": "404", 
-      "lat": 50.993231685675, 
-      "lon": 3.824861199891, 
+      "lat": 50.993222664575, 
+      "lon": 3.82485432485, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4529,8 +4529,8 @@
         "435"
       ], 
       "housenumber": "435", 
-      "lat": 51.000616933093, 
-      "lon": 3.806393902603, 
+      "lat": 51.000618028072, 
+      "lon": 3.80639730861, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4625,8 +4625,8 @@
         "451"
       ], 
       "housenumber": "451", 
-      "lat": 51.000339545495, 
-      "lon": 3.806926478213, 
+      "lat": 51.00033135614, 
+      "lon": 3.806924581813, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4688,8 +4688,8 @@
         "459"
       ], 
       "housenumber": "459", 
-      "lat": 50.999341216589, 
-      "lon": 3.810317015772, 
+      "lat": 50.999340318379, 
+      "lon": 3.810317168924, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -4712,11 +4712,11 @@
         "461A"
       ], 
       "housenumber": "461A", 
-      "lat": 50.997521158002, 
-      "lon": 3.81364917917, 
+      "lat": 50.997166207249, 
+      "lon": 3.814363793719, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -4898,9 +4898,21 @@
     }, 
     {
       "hnrlbls": [
-        "491"
+        "491-491A"
       ], 
       "housenumber": "491", 
+      "lat": 50.994734091012, 
+      "lon": 3.822067657523, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "491-491A"
+      ], 
+      "housenumber": "491A", 
       "lat": 50.994734091012, 
       "lon": 3.822067657523, 
       "municipality": "Melle", 
@@ -4949,8 +4961,8 @@
         "497"
       ], 
       "housenumber": "497", 
-      "lat": 50.994386447997, 
-      "lon": 3.82285714852, 
+      "lat": 50.994392479781, 
+      "lon": 3.822859072565, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -5069,11 +5081,11 @@
         "503F"
       ], 
       "housenumber": "503F", 
-      "lat": 50.994562389868, 
-      "lon": 3.824941211852, 
+      "lat": 50.994590948649, 
+      "lon": 3.824915810455, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5172,11 +5184,11 @@
         "505"
       ], 
       "housenumber": "505", 
-      "lat": 50.994058505219, 
-      "lon": 3.824000513907, 
+      "lat": 50.994070856885, 
+      "lon": 3.824047234484, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5404,8 +5416,8 @@
         "539A"
       ], 
       "housenumber": "539A", 
-      "lat": 50.992774671458, 
-      "lon": 3.828299865752, 
+      "lat": 50.992775721372, 
+      "lon": 3.828293586309, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -5655,8 +5667,8 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.023229198678, 
-      "lon": 3.775510608402, 
+      "lat": 51.023224531844, 
+      "lon": 3.775440683687, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -5679,8 +5691,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.019460412113, 
-      "lon": 3.778641464591, 
+      "lat": 51.019457790388, 
+      "lon": 3.778638504634, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -5703,8 +5715,8 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.023042804051, 
-      "lon": 3.776914062123, 
+      "lat": 51.023043508122, 
+      "lon": 3.776911060051, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 
@@ -5808,6 +5820,18 @@
     }, 
     {
       "hnrlbls": [
+        "80"
+      ], 
+      "housenumber": "80", 
+      "lat": 51.018363752481, 
+      "lon": 3.780285105668, 
+      "municipality": "Melle", 
+      "pcode": "9090", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
@@ -5888,11 +5912,11 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.017887408034, 
-      "lon": 3.780807422347, 
+      "lat": 51.017871387725, 
+      "lon": 3.78078553313, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {
@@ -5923,11 +5947,11 @@
         "94"
       ], 
       "housenumber": "94", 
-      "lat": 51.017541210493, 
-      "lon": 3.781236317762, 
+      "lat": 51.017535847781, 
+      "lon": 3.781242513133, 
       "municipality": "Melle", 
       "pcode": "9090", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Brusselsesteenweg"
     }, 
     {

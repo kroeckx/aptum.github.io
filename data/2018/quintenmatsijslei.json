@@ -526,11 +526,11 @@
         "9"
       ], 
       "hnrlbls": [
-        "31"
+        "31-31A"
       ], 
       "housenumber": "31", 
-      "lat": 51.21285566684, 
-      "lon": 4.41710261985, 
+      "lat": 51.212844182144, 
+      "lon": 4.417053235477, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -538,14 +538,14 @@
     }, 
     {
       "hnrlbls": [
-        "31A"
+        "31-31A"
       ], 
       "housenumber": "31A", 
-      "lat": 51.212846158765, 
-      "lon": 4.417055241067, 
+      "lat": 51.212844182144, 
+      "lon": 4.417053235477, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Quinten Matsijslei"
     }, 
     {
@@ -771,12 +771,14 @@
       "street": "Quinten Matsijslei"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "8", 
-        "9"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401", 
+        "501", 
+        "601", 
+        "701"
       ], 
       "hnrlbls": [
         "40"
@@ -790,11 +792,6 @@
       "street": "Quinten Matsijslei"
     }, 
     {
-      "busnrs": [
-        "4", 
-        "42", 
-        "7"
-      ], 
       "hnrlbls": [
         "41-42"
       ], 
@@ -803,7 +800,7 @@
       "lon": 4.417609140174, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Quinten Matsijslei"
     }, 
     {
@@ -826,7 +823,7 @@
       "lon": 4.417609140174, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Quinten Matsijslei"
     }, 
     {
@@ -967,6 +964,28 @@
       "housenumber": "49A", 
       "lat": 51.211198646638, 
       "lon": 4.417973805994, 
+      "municipality": "Antwerpen", 
+      "pcode": "2018", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Quinten Matsijslei"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21", 
+        "31", 
+        "41", 
+        "51", 
+        "61", 
+        "71"
+      ], 
+      "hnrlbls": [
+        "49C"
+      ], 
+      "housenumber": "49C", 
+      "lat": 51.210985126089, 
+      "lon": 4.418081476683, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

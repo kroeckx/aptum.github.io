@@ -272,8 +272,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.011471191517, 
-      "lon": 3.013961815779, 
+      "lat": 51.0114767832, 
+      "lon": 3.013955525903, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -524,8 +524,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.010601200697, 
-      "lon": 3.017563210121, 
+      "lat": 51.010603117598, 
+      "lon": 3.017581396612, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -668,8 +668,8 @@
         "139C"
       ], 
       "housenumber": "139C", 
-      "lat": 51.011121703035, 
-      "lon": 3.007606176223, 
+      "lat": 51.01112460211, 
+      "lon": 3.007608087233, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -1568,8 +1568,8 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 51.011136521541, 
-      "lon": 2.983674145882, 
+      "lat": 51.011110182695, 
+      "lon": 2.983689746127, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -2000,8 +2000,8 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.013088908781, 
-      "lon": 2.97674228156, 
+      "lat": 51.013098160835, 
+      "lon": 2.976741579136, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -2480,8 +2480,8 @@
         "235"
       ], 
       "housenumber": "235", 
-      "lat": 51.012236330322, 
-      "lon": 2.968333967927, 
+      "lat": 51.012236247225, 
+      "lon": 2.968334540492, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -2879,8 +2879,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.020147599997, 
-      "lon": 3.033127219942, 
+      "lat": 51.020169521872, 
+      "lon": 3.03314968686, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -3011,8 +3011,8 @@
         "49A"
       ], 
       "housenumber": "49A", 
-      "lat": 51.022564888351, 
-      "lon": 3.038721655826, 
+      "lat": 51.022564814567, 
+      "lon": 3.038723083415, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -3315,11 +3315,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.018004241349, 
-      "lon": 3.03282385526, 
+      "lat": 51.018260772132, 
+      "lon": 3.032707785429, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Amersveldestraat"
     }, 
     {
@@ -3483,8 +3483,8 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 51.019078675426, 
-      "lon": 3.033821068296, 
+      "lat": 51.019078414915, 
+      "lon": 3.033813948769, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -3612,11 +3612,35 @@
     }, 
     {
       "hnrlbls": [
+        "84A"
+      ], 
+      "housenumber": "84A", 
+      "lat": 51.016654948309, 
+      "lon": 3.028566990031, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Amersveldestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "84B"
+      ], 
+      "housenumber": "84B", 
+      "lat": 51.016597751653, 
+      "lon": 3.028415404513, 
+      "municipality": "Kortemark", 
+      "pcode": "8610", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Amersveldestraat"
+    }, 
+    {
+      "hnrlbls": [
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.018592413352, 
-      "lon": 3.033839911614, 
+      "lat": 51.018591647505, 
+      "lon": 3.033835799846, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -3639,11 +3663,11 @@
         "87"
       ], 
       "housenumber": "87", 
-      "lat": 51.018483682569, 
-      "lon": 3.03409059659, 
+      "lat": 51.01845814755, 
+      "lon": 3.033900039187, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Amersveldestraat"
     }, 
     {
@@ -3675,8 +3699,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.02417705996, 
-      "lon": 3.0416149273, 
+      "lat": 51.024174092449, 
+      "lon": 3.041614868812, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -3687,8 +3711,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 51.016239342426, 
-      "lon": 3.027692622458, 
+      "lat": 51.016238086419, 
+      "lon": 3.027684961756, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 
@@ -3699,8 +3723,8 @@
         "91"
       ], 
       "housenumber": "91", 
-      "lat": 51.018183418047, 
-      "lon": 3.033981129848, 
+      "lat": 51.018182103823, 
+      "lon": 3.033984160549, 
       "municipality": "Kortemark", 
       "pcode": "8610", 
       "source": "afgeleidVanGebouw", 

@@ -165,19 +165,15 @@
       "street": "Santvoortbeeklaan"
     }, 
     {
-      "busnrs": [
-        "3", 
-        "30"
-      ], 
       "hnrlbls": [
-        "28-30"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.236579394902, 
-      "lon": 4.469944768871, 
+      "lat": 51.236662659637, 
+      "lon": 4.470115336662, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Santvoortbeeklaan"
     }, 
     {
@@ -187,18 +183,6 @@
       "housenumber": "29", 
       "lat": 51.236963557977, 
       "lon": 4.468365592394, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Santvoortbeeklaan"
-    }, 
-    {
-      "hnrlbls": [
-        "28-30"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.236579394902, 
-      "lon": 4.469944768871, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -272,11 +256,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.235225205806, 
-      "lon": 4.46953303883, 
+      "lat": 51.23519042552, 
+      "lon": 4.469317911546, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Santvoortbeeklaan"
     }
   ]

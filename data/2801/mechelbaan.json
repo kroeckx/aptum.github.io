@@ -317,11 +317,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.043927868554, 
-      "lon": 4.424966793714, 
+      "lat": 51.044909019421, 
+      "lon": 4.424018163556, 
       "municipality": "Mechelen", 
       "pcode": "2801", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelbaan"
     }, 
     {
@@ -361,6 +361,51 @@
       "street": "Mechelbaan"
     }, 
     {
+      "busnrs": [
+        "0101"
+      ], 
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 51.044937967669, 
+      "lon": 4.424010212858, 
+      "municipality": "Mechelen", 
+      "pcode": "2801", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Mechelbaan"
+    }, 
+    {
+      "busnrs": [
+        "0001"
+      ], 
+      "hnrlbls": [
+        "4B"
+      ], 
+      "housenumber": "4B", 
+      "lat": 51.044971771987, 
+      "lon": 4.423997990108, 
+      "municipality": "Mechelen", 
+      "pcode": "2801", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Mechelbaan"
+    }, 
+    {
+      "busnrs": [
+        "0101"
+      ], 
+      "hnrlbls": [
+        "4C"
+      ], 
+      "housenumber": "4C", 
+      "lat": 51.045009527518, 
+      "lon": 4.423994042569, 
+      "municipality": "Mechelen", 
+      "pcode": "2801", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Mechelbaan"
+    }, 
+    {
       "hnrlbls": [
         "5"
       ], 
@@ -370,6 +415,42 @@
       "municipality": "Mechelen", 
       "pcode": "2801", 
       "source": "afgeleidVanGebouw", 
+      "street": "Mechelbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.045122826314, 
+      "lon": 4.423914324588, 
+      "municipality": "Mechelen", 
+      "pcode": "2801", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Mechelbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.045178209667, 
+      "lon": 4.423890434636, 
+      "municipality": "Mechelen", 
+      "pcode": "2801", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Mechelbaan"
+    }, 
+    {
+      "hnrlbls": [
+        "6B"
+      ], 
+      "housenumber": "6B", 
+      "lat": 51.045231074214, 
+      "lon": 4.423870534302, 
+      "municipality": "Mechelen", 
+      "pcode": "2801", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Mechelbaan"
     }, 
     {

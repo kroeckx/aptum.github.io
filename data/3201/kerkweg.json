@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.028811297268, 
-      "lon": 4.922593896409, 
+      "lat": 51.02880664721, 
+      "lon": 4.922607811192, 
       "municipality": "Aarschot", 
       "pcode": "3201", 
       "source": "afgeleidVanPerceelGrb", 
@@ -17,8 +17,8 @@
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.028642369395, 
-      "lon": 4.922788898539, 
+      "lat": 51.028643845774, 
+      "lon": 4.922799892307, 
       "municipality": "Aarschot", 
       "pcode": "3201", 
       "source": "afgeleidVanPerceelGrb", 
@@ -29,8 +29,8 @@
         "10B"
       ], 
       "housenumber": "10B", 
-      "lat": 51.028496274118, 
-      "lon": 4.922964783256, 
+      "lat": 51.028498641967, 
+      "lon": 4.922977355595, 
       "municipality": "Aarschot", 
       "pcode": "3201", 
       "source": "afgeleidVanPerceelGrb", 
@@ -113,8 +113,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.027549033079, 
-      "lon": 4.923336007808, 
+      "lat": 51.027549448234, 
+      "lon": 4.923343282563, 
       "municipality": "Aarschot", 
       "pcode": "3201", 
       "source": "afgeleidVanGebouw", 
@@ -218,11 +218,35 @@
     }, 
     {
       "hnrlbls": [
+        "8A"
+      ], 
+      "housenumber": "8A", 
+      "lat": 51.028975257337, 
+      "lon": 4.92131445586, 
+      "municipality": "Aarschot", 
+      "pcode": "3201", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkweg"
+    }, 
+    {
+      "hnrlbls": [
         "8C"
       ], 
       "housenumber": "8C", 
       "lat": 51.028718837435, 
       "lon": 4.921515556564, 
+      "municipality": "Aarschot", 
+      "pcode": "3201", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kerkweg"
+    }, 
+    {
+      "hnrlbls": [
+        "8D"
+      ], 
+      "housenumber": "8D", 
+      "lat": 51.028600688983, 
+      "lon": 4.921674812641, 
       "municipality": "Aarschot", 
       "pcode": "3201", 
       "source": "afgeleidVanGebouw", 

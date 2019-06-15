@@ -1,6 +1,30 @@
 {
   "addresses": [
     {
+      "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.866986744866, 
+      "lon": 3.801839178362, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bruinendries"
+    }, 
+    {
+      "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.867560854172, 
+      "lon": 3.802870011962, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bruinendries"
+    }, 
+    {
       "busnrs": [
         "1", 
         "2", 
@@ -35,6 +59,54 @@
       "municipality": "Zottegem", 
       "pcode": "9620", 
       "source": "manueleAanduidingVanLot", 
+      "street": "Bruinendries"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.867233279982, 
+      "lon": 3.802275455507, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Bruinendries"
+    }, 
+    {
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.867423126898, 
+      "lon": 3.802439948021, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bruinendries"
+    }, 
+    {
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 50.867477904029, 
+      "lon": 3.802632632637, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Bruinendries"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.867514696564, 
+      "lon": 3.802749673809, 
+      "municipality": "Zottegem", 
+      "pcode": "9620", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Bruinendries"
     }
   ]

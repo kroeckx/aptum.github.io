@@ -5,35 +5,20 @@
         "0001", 
         "0002", 
         "0003", 
-        "0004", 
-        "0005", 
-        "0006", 
         "0011", 
         "0012", 
-        "0013", 
-        "0014", 
-        "0015", 
-        "0016", 
-        "0017", 
-        "0018", 
         "0021", 
-        "0022", 
-        "0023", 
-        "0024", 
-        "0025", 
-        "0026", 
-        "0027", 
-        "0028"
+        "0022"
       ], 
       "hnrlbls": [
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.018723315589, 
-      "lon": 4.781692815362, 
+      "lat": 51.018859428099, 
+      "lon": 4.781739338079, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Baalsesteenweg"
     }, 
     {
@@ -482,8 +467,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.018257815102, 
-      "lon": 4.781704380826, 
+      "lat": 51.018251238179, 
+      "lon": 4.781708598207, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "afgeleidVanGebouw", 
@@ -632,8 +617,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.018138935045, 
-      "lon": 4.781511932796, 
+      "lat": 51.018138281295, 
+      "lon": 4.781518910275, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "afgeleidVanGebouw", 
@@ -644,11 +629,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.018161230804, 
-      "lon": 4.779149794911, 
+      "lat": 51.017950852499, 
+      "lon": 4.779596157085, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Baalsesteenweg"
     }, 
     {
@@ -756,11 +741,36 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.017587479692, 
-      "lon": 4.77883265402, 
+      "lat": 51.017587394278, 
+      "lon": 4.778831370648, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "afgeleidVanGebouw", 
+      "street": "Baalsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0011", 
+        "0012", 
+        "0013", 
+        "0014", 
+        "0021", 
+        "0022", 
+        "0023", 
+        "0024"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.018612424332, 
+      "lon": 4.781708367916, 
+      "municipality": "Begijnendijk", 
+      "pcode": "3130", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Baalsesteenweg"
     }, 
     {
@@ -879,8 +889,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.017257295679, 
-      "lon": 4.779402231216, 
+      "lat": 51.017262546095, 
+      "lon": 4.779391731396, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "afgeleidVanGebouw", 
@@ -915,8 +925,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.017055130379, 
-      "lon": 4.778655117953, 
+      "lat": 51.017059013008, 
+      "lon": 4.778650164071, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "afgeleidVanGebouw", 
@@ -927,8 +937,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.017224795442, 
-      "lon": 4.777327391368, 
+      "lat": 51.017225331308, 
+      "lon": 4.777328393638, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "afgeleidVanGebouw", 
@@ -939,8 +949,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.017019950662, 
-      "lon": 4.778586973886, 
+      "lat": 51.017023833784, 
+      "lon": 4.778581877495, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "afgeleidVanGebouw", 
@@ -1016,18 +1026,6 @@
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Baalsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.019210297688, 
-      "lon": 4.780195398313, 
-      "municipality": "Begijnendijk", 
-      "pcode": "3130", 
-      "source": "afgeleidVanGebouw", 
       "street": "Baalsesteenweg"
     }, 
     {
@@ -1179,8 +1177,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.016700276831, 
-      "lon": 4.775954703446, 
+      "lat": 51.016709367483, 
+      "lon": 4.775951362356, 
       "municipality": "Begijnendijk", 
       "pcode": "3130", 
       "source": "afgeleidVanGebouw", 

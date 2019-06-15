@@ -302,14 +302,26 @@
     }, 
     {
       "hnrlbls": [
-        "72"
+        "72A"
       ], 
-      "housenumber": "72", 
-      "lat": 50.774945394628, 
-      "lon": 3.662213611152, 
+      "housenumber": "72A", 
+      "lat": 50.774872869787, 
+      "lon": 3.662307282886, 
       "municipality": "Ronse", 
       "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Schorissesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "72B"
+      ], 
+      "housenumber": "72B", 
+      "lat": 50.774926037755, 
+      "lon": 3.662358094978, 
+      "municipality": "Ronse", 
+      "pcode": "9600", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Schorissesteenweg"
     }, 
     {

@@ -14,6 +14,18 @@
     }, 
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 50.995226085231, 
+      "lon": 3.533208021998, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Filliersdreef"
+    }, 
+    {
+      "hnrlbls": [
         "12-14"
       ], 
       "housenumber": "12", 
@@ -85,18 +97,15 @@
       "street": "Filliersdreef"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "20-24"
       ], 
       "housenumber": "20", 
-      "lat": 50.994582994787, 
-      "lon": 3.537454674058, 
+      "lat": 50.994317025391, 
+      "lon": 3.537332323758, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Filliersdreef"
     }, 
     {
@@ -104,23 +113,24 @@
         "20-24"
       ], 
       "housenumber": "22", 
-      "lat": 50.994582994787, 
-      "lon": 3.537454674058, 
+      "lat": 50.994317025391, 
+      "lon": 3.537332323758, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Filliersdreef"
     }, 
     {
       "busnrs": [
+        "1", 
         "2"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.992721306324, 
-      "lon": 3.538038365601, 
+      "lat": 50.99333645768, 
+      "lon": 3.536737899875, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -131,11 +141,35 @@
         "20-24"
       ], 
       "housenumber": "24", 
-      "lat": 50.994582994787, 
-      "lon": 3.537454674058, 
+      "lat": 50.994317025391, 
+      "lon": 3.537332323758, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Filliersdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "25"
+      ], 
+      "housenumber": "25", 
+      "lat": 50.992815044556, 
+      "lon": 3.537754664052, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Filliersdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "27"
+      ], 
+      "housenumber": "27", 
+      "lat": 50.992522862788, 
+      "lon": 3.53858060434, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
       "street": "Filliersdreef"
     }, 
     {
@@ -359,8 +393,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.990643843374, 
-      "lon": 3.542517530546, 
+      "lat": 50.990645388359, 
+      "lon": 3.542507105331, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

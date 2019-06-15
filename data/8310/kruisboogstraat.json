@@ -13,12 +13,69 @@
       "street": "Kruisboogstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.201877745147, 
-      "lon": 3.242171863638, 
+      "lat": 51.201712779328, 
+      "lon": 3.242133204616, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kruisboogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2A"
+      ], 
+      "housenumber": "2A", 
+      "lat": 51.201880569631, 
+      "lon": 3.242204134006, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kruisboogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2B"
+      ], 
+      "housenumber": "2B", 
+      "lat": 51.201935288248, 
+      "lon": 3.24222957128, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kruisboogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2C"
+      ], 
+      "housenumber": "2C", 
+      "lat": 51.201983254027, 
+      "lon": 3.24225388378, 
+      "municipality": "Brugge", 
+      "pcode": "8310", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kruisboogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2D"
+      ], 
+      "housenumber": "2D", 
+      "lat": 51.202025477324, 
+      "lon": 3.24226989254, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 
@@ -43,11 +100,11 @@
         "4"
       ], 
       "hnrlbls": [
-        "4A"
+        "4A-129"
       ], 
       "housenumber": "4A", 
-      "lat": 51.201997166743, 
-      "lon": 3.24224224377, 
+      "lat": 51.202052037904, 
+      "lon": 3.242491329368, 
       "municipality": "Brugge", 
       "pcode": "8310", 
       "source": "afgeleidVanGebouw", 

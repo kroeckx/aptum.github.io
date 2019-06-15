@@ -26,18 +26,6 @@
     }, 
     {
       "hnrlbls": [
-        "100"
-      ], 
-      "housenumber": "100", 
-      "lat": 51.052794437443, 
-      "lon": 3.73830360249, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Slachthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
         "91-101"
       ], 
       "housenumber": "101", 
@@ -50,33 +38,9 @@
     }, 
     {
       "hnrlbls": [
-        "104-104B"
+        "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.052818223553, 
-      "lon": 3.738448330859, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Slachthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "104-104B"
-      ], 
-      "housenumber": "104A", 
-      "lat": 51.052818223553, 
-      "lon": 3.738448330859, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Slachthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "104-104B"
-      ], 
-      "housenumber": "104B", 
       "lat": 51.052818223553, 
       "lon": 3.738448330859, 
       "municipality": "Gent", 
@@ -265,8 +229,13 @@
       "street": "Slachthuisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201"
+      ], 
       "hnrlbls": [
-        "128-130"
+        "128"
       ], 
       "housenumber": "128", 
       "lat": 51.053030664961, 
@@ -286,18 +255,6 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Slachthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "128-130"
-      ], 
-      "housenumber": "130", 
-      "lat": 51.053030664961, 
-      "lon": 3.739530417177, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -325,24 +282,18 @@
       "street": "Slachthuisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.053026700981, 
-      "lon": 3.739731000415, 
-      "municipality": "Gent", 
-      "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Slachthuisstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "138"
-      ], 
-      "housenumber": "138", 
-      "lat": 51.053076949576, 
-      "lon": 3.73983187448, 
+      "lat": 51.053070278151, 
+      "lon": 3.739743964663, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1242,14 +1193,14 @@
     }, 
     {
       "hnrlbls": [
-        "74"
+        "74-94"
       ], 
       "housenumber": "74", 
-      "lat": 51.052760448728, 
-      "lon": 3.738100108014, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1266,14 +1217,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "76", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1290,14 +1241,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "78", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1326,14 +1277,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "80", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1350,14 +1301,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "82", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1374,14 +1325,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "84", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1398,14 +1349,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "86", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1422,14 +1373,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "88", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1458,14 +1409,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "90", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1482,14 +1433,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "92", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1506,14 +1457,14 @@
     }, 
     {
       "hnrlbls": [
-        "76-94"
+        "74-94"
       ], 
       "housenumber": "94", 
-      "lat": 51.052731041095, 
-      "lon": 3.73816496974, 
+      "lat": 51.05275301226, 
+      "lon": 3.738054283301, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {
@@ -1533,8 +1484,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.052648689917, 
-      "lon": 3.738129566599, 
+      "lat": 51.052764529649, 
+      "lon": 3.738140415585, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1553,15 +1504,25 @@
       "street": "Slachthuisstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.052778681799, 
-      "lon": 3.738214959928, 
+      "lat": 51.052793005364, 
+      "lon": 3.738304762752, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Slachthuisstraat"
     }, 
     {

@@ -401,11 +401,23 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.933906922958, 
-      "lon": 3.260911214005, 
+      "lat": 50.933908186264, 
+      "lon": 3.260959414772, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Lammekensknokstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "35A"
+      ], 
+      "housenumber": "35A", 
+      "lat": 50.934020255528, 
+      "lon": 3.260945672897, 
+      "municipality": "Ingelmunster", 
+      "pcode": "8770", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lammekensknokstraat"
     }, 
     {
@@ -425,11 +437,35 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.934187394232, 
-      "lon": 3.260994370148, 
+      "lat": 50.933983931592, 
+      "lon": 3.260411155509, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lammekensknokstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 50.934074233127, 
+      "lon": 3.260377154277, 
+      "municipality": "Ingelmunster", 
+      "pcode": "8770", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lammekensknokstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "37B"
+      ], 
+      "housenumber": "37B", 
+      "lat": 50.934185734794, 
+      "lon": 3.260989998813, 
+      "municipality": "Ingelmunster", 
+      "pcode": "8770", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lammekensknokstraat"
     }, 
     {
@@ -725,11 +761,11 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 50.934549431557, 
-      "lon": 3.261251881483, 
+      "lat": 50.934528455137, 
+      "lon": 3.261267884319, 
       "municipality": "Ingelmunster", 
       "pcode": "8770", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lammekensknokstraat"
     }, 
     {

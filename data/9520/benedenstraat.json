@@ -365,8 +365,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.947623584894, 
-      "lon": 3.873425247405, 
+      "lat": 50.947632497889, 
+      "lon": 3.873407081052, 
       "municipality": "Sint-Lievens-Houtem", 
       "pcode": "9520", 
       "source": "manueleAanduidingVanGebouw", 
@@ -487,12 +487,11 @@
       "street": "Benedenstraat"
     }, 
     {
-      "busnrs": [
-        "0301", 
-        "1", 
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "2", 
         "201"
       ], 
       "hnrlbls": [
@@ -748,13 +747,13 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "001", 
+        "002", 
         "101", 
-        "102", 
-        "2"
+        "102"
       ], 
       "hnrlbls": [
-        "6-8"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 50.945620090785, 
@@ -969,20 +968,19 @@
       "street": "Benedenstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
+      "apptnrs": [
+        "001", 
+        "002", 
         "101", 
         "102", 
-        "2", 
-        "201", 
-        "4"
+        "201"
       ], 
       "hnrlbls": [
-        "6-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.945620090785, 
-      "lon": 3.870418885268, 
+      "lat": 50.94566417653, 
+      "lon": 3.870576366249, 
       "municipality": "Sint-Lievens-Houtem", 
       "pcode": "9520", 
       "source": "manueleAanduidingVanGebouw", 

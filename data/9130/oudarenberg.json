@@ -502,6 +502,22 @@
       "street": "Oud Arenberg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.288982777018, 
+      "lon": 4.17702752921, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Oud Arenberg"
+    }, 
+    {
       "hnrlbls": [
         "30"
       ], 
@@ -647,6 +663,18 @@
       "municipality": "Beveren", 
       "pcode": "9130", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Oud Arenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "3A"
+      ], 
+      "housenumber": "3A", 
+      "lat": 51.28890418728, 
+      "lon": 4.177118444018, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Oud Arenberg"
     }, 
     {
@@ -1366,9 +1394,6 @@
       "street": "Oud Arenberg"
     }, 
     {
-      "busnrs": [
-        "+"
-      ], 
       "hnrlbls": [
         "88"
       ], 
@@ -1402,6 +1427,30 @@
       "municipality": "Beveren", 
       "pcode": "9130", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Oud Arenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "88C"
+      ], 
+      "housenumber": "88C", 
+      "lat": 51.288068729048, 
+      "lon": 4.186484965217, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Oud Arenberg"
+    }, 
+    {
+      "hnrlbls": [
+        "88X"
+      ], 
+      "housenumber": "88X", 
+      "lat": 51.288370410657, 
+      "lon": 4.186744812025, 
+      "municipality": "Beveren", 
+      "pcode": "9130", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Oud Arenberg"
     }, 
     {

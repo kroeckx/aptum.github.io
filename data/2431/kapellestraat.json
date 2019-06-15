@@ -71,15 +71,20 @@
       "street": "Kapellestraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.068791115299, 
-      "lon": 4.986022321596, 
+      "lat": 51.068564873997, 
+      "lon": 4.985556078258, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Kapellestraat"
     }, 
     {
@@ -92,6 +97,18 @@
       "municipality": "Laakdal", 
       "pcode": "2431", 
       "source": "afgeleidVanGebouw", 
+      "street": "Kapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "16"
+      ], 
+      "housenumber": "16", 
+      "lat": 51.068467464138, 
+      "lon": 4.985566919572, 
+      "municipality": "Laakdal", 
+      "pcode": "2431", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kapellestraat"
     }, 
     {
@@ -281,6 +298,13 @@
       "street": "Kapellestraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "31"
       ], 
@@ -309,8 +333,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.066288754619, 
-      "lon": 4.985034128424, 
+      "lat": 51.066289115656, 
+      "lon": 4.985033847856, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
       "source": "afgeleidVanGebouw", 
@@ -333,8 +357,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.066203218063, 
-      "lon": 4.984957673585, 
+      "lat": 51.066200513748, 
+      "lon": 4.984941944839, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
       "source": "afgeleidVanGebouw", 

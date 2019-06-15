@@ -89,8 +89,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.837232030718, 
-      "lon": 4.030061233049, 
+      "lat": 50.837164373359, 
+      "lon": 4.030073218676, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -659,7 +659,7 @@
     }, 
     {
       "hnrlbls": [
-        "164-168"
+        "164"
       ], 
       "housenumber": "164", 
       "lat": 50.837780856943, 
@@ -695,11 +695,11 @@
     }, 
     {
       "hnrlbls": [
-        "164-168"
+        "168"
       ], 
       "housenumber": "168", 
-      "lat": 50.837780856943, 
-      "lon": 4.032129166816, 
+      "lat": 50.837566254029, 
+      "lon": 4.032247539164, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -974,8 +974,8 @@
         "188"
       ], 
       "housenumber": "188", 
-      "lat": 50.837892019048, 
-      "lon": 4.032680628882, 
+      "lat": 50.837796617002, 
+      "lon": 4.032767199996, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1009,6 +1009,25 @@
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Nederwijk"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "191"
+      ], 
+      "housenumber": "191", 
+      "lat": 50.837334152366, 
+      "lon": 4.03218843525, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Nederwijk"
     }, 
     {
@@ -1823,6 +1842,25 @@
       "street": "Nederwijk"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "51"
+      ], 
+      "housenumber": "51", 
+      "lat": 50.836591212814, 
+      "lon": 4.027810452785, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Nederwijk"
+    }, 
+    {
       "hnrlbls": [
         "52"
       ], 
@@ -1851,8 +1889,8 @@
         "56-58"
       ], 
       "housenumber": "56", 
-      "lat": 50.836900074748, 
-      "lon": 4.028112875073, 
+      "lat": 50.836902664638, 
+      "lon": 4.028137984198, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1863,8 +1901,8 @@
         "56-58"
       ], 
       "housenumber": "58", 
-      "lat": 50.836900074748, 
-      "lon": 4.028112875073, 
+      "lat": 50.836902664638, 
+      "lon": 4.028137984198, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 

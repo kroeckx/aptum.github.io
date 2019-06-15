@@ -1493,7 +1493,7 @@
         "GLVL"
       ], 
       "hnrlbls": [
-        "204-208_2"
+        "204-206"
       ], 
       "housenumber": "204", 
       "lat": 51.22616718366, 
@@ -1531,7 +1531,7 @@
         "glvl"
       ], 
       "hnrlbls": [
-        "204-208_2"
+        "204-206"
       ], 
       "housenumber": "206", 
       "lat": 51.22616718366, 
@@ -1588,11 +1588,11 @@
         "eL"
       ], 
       "hnrlbls": [
-        "204-208_2"
+        "208-210"
       ], 
       "housenumber": "208_2", 
-      "lat": 51.22616718366, 
-      "lon": 4.512203983607, 
+      "lat": 51.226208757745, 
+      "lon": 4.512385911836, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2612,11 +2612,11 @@
         "1"
       ], 
       "hnrlbls": [
-        "3-290b"
+        "290b"
       ], 
       "housenumber": "290b", 
-      "lat": 51.226884621922, 
-      "lon": 4.515856563644, 
+      "lat": 51.226728635194, 
+      "lon": 4.51581527112, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -2935,6 +2935,10 @@
       "street": "Turnhoutsebaan"
     }, 
     {
+      "busnrs": [
+        "bus1", 
+        "bus2"
+      ], 
       "hnrlbls": [
         "314"
       ], 
@@ -4081,7 +4085,7 @@
         "4"
       ], 
       "hnrlbls": [
-        "400-402C"
+        "400"
       ], 
       "housenumber": "400", 
       "lat": 51.227614882352, 
@@ -4123,11 +4127,11 @@
     }, 
     {
       "hnrlbls": [
-        "400-402C"
+        "402C"
       ], 
       "housenumber": "402C", 
-      "lat": 51.227614882352, 
-      "lon": 4.52215935967, 
+      "lat": 51.227652701153, 
+      "lon": 4.522452091117, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -5847,7 +5851,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "517b"
+        "517b-525b"
       ], 
       "housenumber": "517b", 
       "lat": 51.22791950531, 
@@ -5990,11 +5994,11 @@
         "3"
       ], 
       "hnrlbls": [
-        "525b"
+        "517b-525b"
       ], 
       "housenumber": "525b", 
-      "lat": 51.227921158565, 
-      "lon": 4.539871041663, 
+      "lat": 51.22791950531, 
+      "lon": 4.539957214717, 
       "municipality": "Wijnegem", 
       "pcode": "2110", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

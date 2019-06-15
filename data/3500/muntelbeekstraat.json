@@ -221,8 +221,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.889478151194, 
-      "lon": 5.342012467415, 
+      "lat": 50.889478360444, 
+      "lon": 5.342008918382, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -401,8 +401,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.889146020008, 
-      "lon": 5.341409612014, 
+      "lat": 50.889144981105, 
+      "lon": 5.341393955756, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 
@@ -434,9 +434,21 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "42-42A"
       ], 
       "housenumber": "42", 
+      "lat": 50.888559370149, 
+      "lon": 5.342389819658, 
+      "municipality": "Hasselt", 
+      "pcode": "3500", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Muntelbeekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "42-42A"
+      ], 
+      "housenumber": "42A", 
       "lat": 50.888559370149, 
       "lon": 5.342389819658, 
       "municipality": "Hasselt", 
@@ -545,8 +557,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.893413883228, 
-      "lon": 5.33897170154, 
+      "lat": 50.893498866918, 
+      "lon": 5.338946735033, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

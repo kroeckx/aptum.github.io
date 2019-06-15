@@ -889,6 +889,9 @@
       "street": "Kleemputtenstraat"
     }, 
     {
+      "apptnrs": [
+        "11"
+      ], 
       "busnrs": [
         "21"
       ], 
@@ -1208,8 +1211,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.872970195082, 
-      "lon": 4.092270634472, 
+      "lat": 50.872968751772, 
+      "lon": 4.092268511839, 
       "municipality": "Liedekerke", 
       "pcode": "1770", 
       "source": "afgeleidVanPerceelGrb", 

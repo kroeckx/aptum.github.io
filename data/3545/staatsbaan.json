@@ -9,7 +9,7 @@
       "lon": 5.115198894012, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -77,8 +77,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.96073301115, 
-      "lon": 5.086158696625, 
+      "lat": 50.960734916183, 
+      "lon": 5.086155878893, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -185,8 +185,8 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 50.96112218919, 
-      "lon": 5.083723272686, 
+      "lat": 50.961139550328, 
+      "lon": 5.083677132706, 
       "municipality": "Halen", 
       "pcode": "3545", 
       "source": "afgeleidVanGebouw", 
@@ -221,11 +221,11 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.962600183643, 
-      "lon": 5.081873062646, 
+      "lat": 50.962668180091, 
+      "lon": 5.082281791294, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -393,7 +393,7 @@
       "lon": 5.115198894012, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -405,7 +405,7 @@
       "lon": 5.115198894012, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -497,11 +497,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.962394612529, 
-      "lon": 5.080298244202, 
+      "lat": 50.954934761592, 
+      "lon": 5.097029152386, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -849,11 +849,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.958129894666, 
-      "lon": 5.091727783486, 
+      "lat": 50.958207686883, 
+      "lon": 5.091503521025, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -875,41 +875,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "75-75K"
+        "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.958264342104, 
-      "lon": 5.091397926317, 
+      "lat": 50.958313941322, 
+      "lon": 5.091255641657, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Staatsbaan"
-    }, 
-    {
-      "hnrlbls": [
-        "75-75K"
-      ], 
-      "housenumber": "75A", 
-      "lat": 50.958264342104, 
-      "lon": 5.091397926317, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Staatsbaan"
-    }, 
-    {
-      "busnrs": [
-        "15"
-      ], 
-      "hnrlbls": [
-        "75-75K"
-      ], 
-      "housenumber": "75B", 
-      "lat": 50.958264342104, 
-      "lon": 5.091397926317, 
-      "municipality": "Halen", 
-      "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -924,14 +897,14 @@
         "8"
       ], 
       "hnrlbls": [
-        "75-75K"
+        "75K"
       ], 
       "housenumber": "75K", 
       "lat": 50.958264342104, 
       "lon": 5.091397926317, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {
@@ -1018,7 +991,7 @@
       "lon": 5.088246629679, 
       "municipality": "Halen", 
       "pcode": "3545", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Staatsbaan"
     }, 
     {

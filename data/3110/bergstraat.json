@@ -1,15 +1,37 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0004", 
+        "0005", 
+        "0006", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0104", 
+        "0105", 
+        "0106", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0204", 
+        "0205", 
+        "0206", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.95063666851, 
-      "lon": 4.708595739849, 
+      "lat": 50.950794832881, 
+      "lon": 4.708581234101, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Bergstraat"
     }, 
     {
@@ -25,15 +47,53 @@
       "street": "Bergstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
       "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 50.950451853971, 
-      "lon": 4.708903777639, 
+      "lat": 50.95072551223, 
+      "lon": 4.708368404657, 
       "municipality": "Rotselaar", 
       "pcode": "3110", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bergstraat"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202", 
+        "0203", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 50.95060468661, 
+      "lon": 4.708371512657, 
+      "municipality": "Rotselaar", 
+      "pcode": "3110", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Bergstraat"
     }, 
     {

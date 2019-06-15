@@ -365,8 +365,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.022814984178, 
-      "lon": 4.475625316323, 
+      "lat": 51.022822085895, 
+      "lon": 4.475624905052, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -412,8 +412,8 @@
         "38-40"
       ], 
       "housenumber": "38", 
-      "lat": 51.023075051504, 
-      "lon": 4.474521604598, 
+      "lat": 51.02307686284, 
+      "lon": 4.474506643247, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -436,8 +436,8 @@
         "38-40"
       ], 
       "housenumber": "40", 
-      "lat": 51.023075051504, 
-      "lon": 4.474521604598, 
+      "lat": 51.02307686284, 
+      "lon": 4.474506643247, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -481,8 +481,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.022987296674, 
-      "lon": 4.474446292839, 
+      "lat": 51.02299071701, 
+      "lon": 4.474441312129, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -517,8 +517,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.022932852056, 
-      "lon": 4.474414242918, 
+      "lat": 51.02290664159, 
+      "lon": 4.474472192191, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
@@ -875,14 +875,26 @@
     }, 
     {
       "hnrlbls": [
+        "69B"
+      ], 
+      "housenumber": "69B", 
+      "lat": 51.022331336263, 
+      "lon": 4.474280612712, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.023784066046, 
-      "lon": 4.47545721841, 
+      "lat": 51.023804020665, 
+      "lon": 4.475359773315, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -905,18 +917,15 @@
       "street": "Hoogstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "71"
       ], 
       "housenumber": "71", 
-      "lat": 51.022291288552, 
-      "lon": 4.474332116248, 
+      "lat": 51.022311218854, 
+      "lon": 4.474260613449, 
       "municipality": "Mechelen", 
       "pcode": "2800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1022,6 +1031,18 @@
       "municipality": "Mechelen", 
       "pcode": "2800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7A"
+      ], 
+      "housenumber": "7A", 
+      "lat": 51.02378265226, 
+      "lon": 4.475331788389, 
+      "municipality": "Mechelen", 
+      "pcode": "2800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {

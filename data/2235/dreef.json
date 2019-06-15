@@ -98,7 +98,6 @@
     }, 
     {
       "apptnrs": [
-        "0/1", 
         "0/2", 
         "1/1", 
         "1/2", 
@@ -150,6 +149,18 @@
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "afgeleidVanGebouw", 
+      "street": "Dreef"
+    }, 
+    {
+      "hnrlbls": [
+        "6A"
+      ], 
+      "housenumber": "6A", 
+      "lat": 51.06246763375, 
+      "lon": 4.837953506452, 
+      "municipality": "Hulshout", 
+      "pcode": "2235", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dreef"
     }, 
     {

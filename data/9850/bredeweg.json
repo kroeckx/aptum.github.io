@@ -65,8 +65,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.038387139129, 
-      "lon": 3.514710958667, 
+      "lat": 51.038393257433, 
+      "lon": 3.514711702639, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -266,14 +266,38 @@
     }, 
     {
       "hnrlbls": [
-        "30"
+        "30A"
       ], 
-      "housenumber": "30", 
-      "lat": 51.038614610503, 
-      "lon": 3.512720747015, 
+      "housenumber": "30A", 
+      "lat": 51.038619744579, 
+      "lon": 3.512808770691, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bredeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "30B"
+      ], 
+      "housenumber": "30B", 
+      "lat": 51.038633050358, 
+      "lon": 3.512734668578, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bredeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "30C"
+      ], 
+      "housenumber": "30C", 
+      "lat": 51.038652444993, 
+      "lon": 3.512632508493, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Bredeweg"
     }, 
     {
@@ -281,8 +305,8 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.037788082381, 
-      "lon": 3.51479901603, 
+      "lat": 51.037789962712, 
+      "lon": 3.51479798368, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -290,14 +314,38 @@
     }, 
     {
       "hnrlbls": [
-        "32"
+        "32A"
       ], 
-      "housenumber": "32", 
-      "lat": 51.038618687979, 
-      "lon": 3.512576661734, 
+      "housenumber": "32A", 
+      "lat": 51.038694069768, 
+      "lon": 3.512472052465, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bredeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "32B"
+      ], 
+      "housenumber": "32B", 
+      "lat": 51.038714621031, 
+      "lon": 3.512355897639, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Bredeweg"
+    }, 
+    {
+      "hnrlbls": [
+        "32C"
+      ], 
+      "housenumber": "32C", 
+      "lat": 51.038737630909, 
+      "lon": 3.512231712983, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Bredeweg"
     }, 
     {

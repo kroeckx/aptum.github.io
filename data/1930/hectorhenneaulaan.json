@@ -570,22 +570,24 @@
       "street": "Hector Henneaulaan"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031"
       ], 
       "hnrlbls": [
-        "28-36"
+        "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.881421728955, 
-      "lon": 4.477138014148, 
+      "lat": 50.881272982886, 
+      "lon": 4.477203460128, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hector Henneaulaan"
     }, 
     {
@@ -1308,7 +1310,7 @@
         "021"
       ], 
       "hnrlbls": [
-        "96-96A"
+        "96"
       ], 
       "housenumber": "96", 
       "lat": 50.879974904488, 
@@ -1319,38 +1321,35 @@
       "street": "Hector Henneaulaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "96-96A"
+        "96A"
       ], 
       "housenumber": "96A", 
-      "lat": 50.879974904488, 
-      "lon": 4.473069200949, 
+      "lat": 50.879967822229, 
+      "lon": 4.472341663582, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hector Henneaulaan"
     }, 
     {
       "apptnrs": [
-        "1.0", 
-        "2", 
-        "3"
-      ], 
-      "busnrs": [
-        "1"
+        "011", 
+        "012", 
+        "021", 
+        "022", 
+        "031", 
+        "032"
       ], 
       "hnrlbls": [
-        "25-96B"
+        "96B"
       ], 
       "housenumber": "96B", 
-      "lat": 50.880003913094, 
-      "lon": 4.472394176444, 
+      "lat": 50.879973772346, 
+      "lon": 4.472221181022, 
       "municipality": "Zaventem", 
       "pcode": "1930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Hector Henneaulaan"
     }, 
     {

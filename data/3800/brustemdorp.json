@@ -173,8 +173,8 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.800965564548, 
-      "lon": 5.221430586542, 
+      "lat": 50.800965187424, 
+      "lon": 5.221432991402, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -370,14 +370,6 @@
       "street": "Brustem-Dorp"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "201", 
-        "203", 
-        "301"
-      ], 
       "hnrlbls": [
         "128-132"
       ], 
@@ -547,11 +539,11 @@
         "164"
       ], 
       "housenumber": "164", 
-      "lat": 50.803766688863, 
-      "lon": 5.220695982479, 
+      "lat": 50.803775885563, 
+      "lon": 5.220556404087, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brustem-Dorp"
     }, 
     {
@@ -559,8 +551,8 @@
         "166"
       ], 
       "housenumber": "166", 
-      "lat": 50.803950566117, 
-      "lon": 5.220568649052, 
+      "lat": 50.803939342416, 
+      "lon": 5.220591429217, 
       "municipality": "Sint-Truiden", 
       "pcode": "3800", 
       "source": "afgeleidVanGebouw", 
@@ -1096,9 +1088,9 @@
     }, 
     {
       "hnrlbls": [
-        "64"
+        "62"
       ], 
-      "housenumber": "64", 
+      "housenumber": "62", 
       "lat": 50.800450651832, 
       "lon": 5.218481418694, 
       "municipality": "Sint-Truiden", 

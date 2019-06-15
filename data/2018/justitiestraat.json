@@ -879,9 +879,6 @@
       "street": "Justitiestraat"
     }, 
     {
-      "busnrs": [
-        "5"
-      ], 
       "hnrlbls": [
         "67"
       ], 
@@ -906,15 +903,22 @@
       "street": "Justitiestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.208203966955, 
-      "lon": 4.404152599423, 
+      "lat": 51.208212982921, 
+      "lon": 4.404062314161, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Justitiestraat"
     }, 
     {
@@ -954,6 +958,12 @@
       "street": "Justitiestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "73"
       ], 

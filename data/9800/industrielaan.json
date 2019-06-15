@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.970850129456, 
-      "lon": 3.514353520402, 
+      "lat": 50.97081705999, 
+      "lon": 3.514516291925, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Industrielaan"
     }, 
     {
@@ -17,11 +17,11 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.972182954995, 
-      "lon": 3.516622893029, 
+      "lat": 50.972157927306, 
+      "lon": 3.516692403205, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Industrielaan"
     }, 
     {
@@ -29,7 +29,7 @@
         "1"
       ], 
       "hnrlbls": [
-        "14"
+        "14-16"
       ], 
       "housenumber": "14", 
       "lat": 50.972140443325, 
@@ -41,19 +41,19 @@
     }, 
     {
       "hnrlbls": [
-        "16"
+        "14-16"
       ], 
       "housenumber": "16", 
-      "lat": 50.972153144414, 
-      "lon": 3.517323387723, 
+      "lat": 50.972140443325, 
+      "lon": 3.517381995097, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Industrielaan"
     }, 
     {
       "hnrlbls": [
-        "18-22"
+        "18"
       ], 
       "housenumber": "18", 
       "lat": 50.973221397503, 
@@ -68,20 +68,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.972016958644, 
-      "lon": 3.515177595264, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Industrielaan"
-    }, 
-    {
-      "hnrlbls": [
-        "18-22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.973221397503, 
-      "lon": 3.518305543576, 
+      "lat": 50.971926076834, 
+      "lon": 3.51485604148, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -101,7 +89,7 @@
     }, 
     {
       "hnrlbls": [
-        "27-31"
+        "27"
       ], 
       "housenumber": "27", 
       "lat": 50.973512259118, 
@@ -112,30 +100,18 @@
       "street": "Industrielaan"
     }, 
     {
-      "hnrlbls": [
-        "27-31"
-      ], 
-      "housenumber": "31", 
-      "lat": 50.973512259118, 
-      "lon": 3.516670796579, 
-      "municipality": "Deinze", 
-      "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Industrielaan"
-    }, 
-    {
       "busnrs": [
-        "3"
+        "0003"
       ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.973742794832, 
-      "lon": 3.517135634028, 
+      "lat": 50.973696233872, 
+      "lon": 3.517372557455, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Industrielaan"
     }, 
     {
@@ -167,8 +143,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.974602818016, 
-      "lon": 3.517815455746, 
+      "lat": 50.974599392061, 
+      "lon": 3.517814093985, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

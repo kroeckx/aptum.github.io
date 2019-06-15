@@ -777,7 +777,7 @@
       "lon": 4.006952714151, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heistraat"
     }, 
     {
@@ -1154,26 +1154,50 @@
     }, 
     {
       "hnrlbls": [
-        "43"
+        "43-43A"
       ], 
       "housenumber": "43", 
       "lat": 51.215971520565, 
       "lon": 4.02279170136, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heistraat"
     }, 
     {
       "hnrlbls": [
-        "45"
+        "43-43A"
+      ], 
+      "housenumber": "43A", 
+      "lat": 51.215971520565, 
+      "lon": 4.02279170136, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45-45A"
       ], 
       "housenumber": "45", 
       "lat": 51.216035842162, 
       "lon": 4.022656263511, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Heistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45-45A"
+      ], 
+      "housenumber": "45A", 
+      "lat": 51.216035842162, 
+      "lon": 4.022656263511, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Heistraat"
     }, 
     {

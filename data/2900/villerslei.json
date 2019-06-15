@@ -176,6 +176,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3"
       ], 
@@ -552,6 +553,18 @@
       "housenumber": "148", 
       "lat": 51.251667313116, 
       "lon": 4.516252562638, 
+      "municipality": "Schoten", 
+      "pcode": "2900", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Villerslei"
+    }, 
+    {
+      "hnrlbls": [
+        "149"
+      ], 
+      "housenumber": "149", 
+      "lat": 51.253683813239, 
+      "lon": 4.527538925134, 
       "municipality": "Schoten", 
       "pcode": "2900", 
       "source": "afgeleidVanGebouw", 

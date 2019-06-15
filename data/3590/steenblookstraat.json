@@ -272,11 +272,6 @@
       "street": "Steenblookstraat"
     }, 
     {
-      "busnrs": [
-        "18", 
-        "22", 
-        "4"
-      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -343,18 +338,6 @@
       "housenumber": "37", 
       "lat": 50.933338091998, 
       "lon": 5.411368674427, 
-      "municipality": "Diepenbeek", 
-      "pcode": "3590", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Steenblookstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 50.933203424434, 
-      "lon": 5.412096801056, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "afgeleidVanGebouw", 
@@ -590,11 +573,59 @@
     }, 
     {
       "hnrlbls": [
+        "61"
+      ], 
+      "housenumber": "61", 
+      "lat": 50.934750556341, 
+      "lon": 5.414005830692, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenblookstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "61A"
+      ], 
+      "housenumber": "61A", 
+      "lat": 50.934794829611, 
+      "lon": 5.414112242796, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenblookstraat"
+    }, 
+    {
+      "hnrlbls": [
         "62"
       ], 
       "housenumber": "62", 
       "lat": 50.934700635525, 
       "lon": 5.414735578146, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenblookstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 50.934847388566, 
+      "lon": 5.414216990297, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Steenblookstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 50.934904751758, 
+      "lon": 5.414327393875, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "manueleAanduidingVanGebouw", 
@@ -838,6 +869,25 @@
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "afgeleidVanGebouw", 
+      "street": "Steenblookstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "11", 
+        "12", 
+        "2", 
+        "21"
+      ], 
+      "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.936354169475, 
+      "lon": 5.417802439293, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Steenblookstraat"
     }, 
     {

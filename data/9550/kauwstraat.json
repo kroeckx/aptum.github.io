@@ -689,8 +689,8 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 50.856556328731, 
-      "lon": 3.894544473808, 
+      "lat": 50.856834731251, 
+      "lon": 3.894230913997, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -713,8 +713,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.856750356174, 
-      "lon": 3.894418387642, 
+      "lat": 50.856845179144, 
+      "lon": 3.89434712869, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -805,16 +805,12 @@
       "street": "Kauwstraat"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 50.856863042298, 
-      "lon": 3.894585553913, 
+      "lat": 50.856876346252, 
+      "lon": 3.894540823407, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -834,18 +830,42 @@
     }, 
     {
       "apptnrs": [
-        "0001", 
-        "0101"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.856877595849, 
-      "lon": 3.894739080499, 
+      "lat": 50.856880451797, 
+      "lon": 3.894733938763, 
       "municipality": "Herzele", 
       "pcode": "9550", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kauwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "46A-46B"
+      ], 
+      "housenumber": "46A", 
+      "lat": 50.856761030328, 
+      "lon": 3.894991783638, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kauwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "46A-46B"
+      ], 
+      "housenumber": "46B", 
+      "lat": 50.856761030328, 
+      "lon": 3.894991783638, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kauwstraat"
     }, 
     {
@@ -868,8 +888,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 50.856766243552, 
-      "lon": 3.894991589136, 
+      "lat": 50.856917438974, 
+      "lon": 3.894922036226, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -904,8 +924,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 50.856884282358, 
-      "lon": 3.895171059318, 
+      "lat": 50.85693171841, 
+      "lon": 3.895141466445, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -916,8 +936,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.856841563005, 
-      "lon": 3.895300307542, 
+      "lat": 50.856939842492, 
+      "lon": 3.895261255629, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -940,8 +960,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.856988274588, 
-      "lon": 3.89538958717, 
+      "lat": 50.856975192496, 
+      "lon": 3.895422527044, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1140,16 +1160,36 @@
       "street": "Kauwstraat"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0002"
-      ], 
       "hnrlbls": [
-        "68"
+        "68-68A"
       ], 
       "housenumber": "68", 
-      "lat": 50.856885176575, 
-      "lon": 3.903335328073, 
+      "lat": 50.857069446763, 
+      "lon": 3.903240051855, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kauwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "68-68A"
+      ], 
+      "housenumber": "68A", 
+      "lat": 50.857069446763, 
+      "lon": 3.903240051855, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kauwstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "68B"
+      ], 
+      "housenumber": "68B", 
+      "lat": 50.857067455288, 
+      "lon": 3.903372725201, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 

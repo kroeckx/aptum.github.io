@@ -201,17 +201,19 @@
     }, 
     {
       "busnrs": [
-        "2"
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.811784772999, 
-      "lon": 3.3373372613, 
+      "lat": 50.811772518533, 
+      "lon": 3.337293256509, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Albertstraat"
     }, 
     {

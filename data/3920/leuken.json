@@ -13,6 +13,25 @@
       "street": "Leuken"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "100"
+      ], 
+      "housenumber": "100", 
+      "lat": 51.234888872118, 
+      "lon": 5.373928332436, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Leuken"
+    }, 
+    {
       "hnrlbls": [
         "101"
       ], 
@@ -845,18 +864,6 @@
     }, 
     {
       "hnrlbls": [
-        "68-70"
-      ], 
-      "housenumber": "68", 
-      "lat": 51.234120167328, 
-      "lon": 5.371075506277, 
-      "municipality": "Lommel", 
-      "pcode": "3920", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leuken"
-    }, 
-    {
-      "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
@@ -1147,6 +1154,24 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Leuken"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "98"
+      ], 
+      "housenumber": "98", 
+      "lat": 51.235071953803, 
+      "lon": 5.373815297597, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Leuken"
     }, 
     {

@@ -73,6 +73,15 @@
       "street": "Gemeenteplein"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0201", 
+        "0202", 
+        "0301"
+      ], 
       "hnrlbls": [
         "13"
       ], 
@@ -326,8 +335,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.002432250715, 
-      "lon": 3.799023421511, 
+      "lat": 51.002440387147, 
+      "lon": 3.799014347104, 
       "municipality": "Melle", 
       "pcode": "9090", 
       "source": "afgeleidVanGebouw", 

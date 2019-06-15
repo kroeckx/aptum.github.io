@@ -221,7 +221,7 @@
     }, 
     {
       "hnrlbls": [
-        "8-8A"
+        "8"
       ], 
       "housenumber": "8", 
       "lat": 50.846845130321, 
@@ -233,11 +233,47 @@
     }, 
     {
       "hnrlbls": [
-        "8-8A"
+        "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 50.846845130321, 
-      "lon": 4.539163564519, 
+      "lat": 50.847098876617, 
+      "lon": 4.539182947453, 
+      "municipality": "Tervuren", 
+      "pcode": "3080", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Moorselboslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8B"
+      ], 
+      "housenumber": "8B", 
+      "lat": 50.847456090221, 
+      "lon": 4.539203843256, 
+      "municipality": "Tervuren", 
+      "pcode": "3080", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Moorselboslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8C"
+      ], 
+      "housenumber": "8C", 
+      "lat": 50.847397669851, 
+      "lon": 4.539565151954, 
+      "municipality": "Tervuren", 
+      "pcode": "3080", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Moorselboslaan"
+    }, 
+    {
+      "hnrlbls": [
+        "8D"
+      ], 
+      "housenumber": "8D", 
+      "lat": 50.847202662731, 
+      "lon": 4.539643105859, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanGebouw", 

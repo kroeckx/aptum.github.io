@@ -256,8 +256,12 @@
         "14", 
         "21", 
         "22", 
+        "23", 
+        "24", 
         "31", 
-        "33"
+        "32", 
+        "33", 
+        "34"
       ], 
       "hnrlbls": [
         "28-30"
@@ -499,14 +503,14 @@
         "0604"
       ], 
       "hnrlbls": [
-        "42-46"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.225814950893, 
-      "lon": 4.413274018764, 
+      "lat": 51.225837584884, 
+      "lon": 4.413082222419, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stijfselrui"
     }, 
     {
@@ -523,14 +527,14 @@
     }, 
     {
       "hnrlbls": [
-        "42-46"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.225814950893, 
-      "lon": 4.413274018764, 
+      "lat": 51.225845080851, 
+      "lon": 4.413224518775, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Stijfselrui"
     }, 
     {
@@ -555,14 +559,14 @@
     }, 
     {
       "hnrlbls": [
-        "42-46"
+        "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.225814950893, 
-      "lon": 4.413274018764, 
+      "lat": 51.225852579718, 
+      "lon": 4.41335879889, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stijfselrui"
     }, 
     {
@@ -659,14 +663,14 @@
         "1002"
       ], 
       "hnrlbls": [
-        "48-50"
+        "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.225719535204, 
-      "lon": 4.413402186498, 
+      "lat": 51.225861346042, 
+      "lon": 4.41346903141, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stijfselrui"
     }, 
     {
@@ -695,14 +699,14 @@
     }, 
     {
       "hnrlbls": [
-        "48-50"
+        "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.225719535204, 
-      "lon": 4.413402186498, 
+      "lat": 51.225871382203, 
+      "lon": 4.413549204114, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stijfselrui"
     }, 
     {

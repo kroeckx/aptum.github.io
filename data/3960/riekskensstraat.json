@@ -77,8 +77,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.136757901591, 
-      "lon": 5.581948570202, 
+      "lat": 51.136755414966, 
+      "lon": 5.581963080772, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -101,8 +101,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.136606137902, 
-      "lon": 5.582028647616, 
+      "lat": 51.136604764799, 
+      "lon": 5.582031041121, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -286,6 +286,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Riekskensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 51.138622576277, 
+      "lon": 5.584376312937, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Riekskensstraat"
     }, 
     {

@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.907950179777, 
-      "lon": 3.360437297882, 
+      "lat": 50.907844441142, 
+      "lon": 3.360519479092, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 
@@ -21,7 +21,19 @@
       "lon": 3.36074986585, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Boffonstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.907903961517, 
+      "lon": 3.360499147937, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Boffonstraat"
     }, 
     {
@@ -43,6 +55,18 @@
       "housenumber": "18", 
       "lat": 50.908271716025, 
       "lon": 3.360589509755, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Boffonstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 50.907523929913, 
+      "lon": 3.360602003461, 
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 
@@ -74,6 +98,18 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.907596306342, 
+      "lon": 3.360581681022, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Boffonstraat"
+    }, 
+    {
+      "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
@@ -82,6 +118,18 @@
       "municipality": "Wielsbeke", 
       "pcode": "8710", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Boffonstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.907774340759, 
+      "lon": 3.360532643326, 
+      "municipality": "Wielsbeke", 
+      "pcode": "8710", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Boffonstraat"
     }
   ]

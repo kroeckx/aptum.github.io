@@ -473,8 +473,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.047556971784, 
-      "lon": 3.461643718638, 
+      "lat": 51.047557496817, 
+      "lon": 3.461641854496, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -773,11 +773,23 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.045726230676, 
-      "lon": 3.462671865616, 
+      "lat": 51.045755324174, 
+      "lon": 3.462749451902, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lomolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "48A"
+      ], 
+      "housenumber": "48A", 
+      "lat": 51.045686681989, 
+      "lon": 3.462824650353, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lomolenstraat"
     }, 
     {
@@ -989,8 +1001,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.044521603678, 
-      "lon": 3.46706583753, 
+      "lat": 51.044514128115, 
+      "lon": 3.467063984979, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 

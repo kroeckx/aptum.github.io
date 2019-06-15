@@ -146,7 +146,7 @@
     }, 
     {
       "hnrlbls": [
-        "3-3A"
+        "3"
       ], 
       "housenumber": "3", 
       "lat": 50.781594060423, 
@@ -170,14 +170,26 @@
     }, 
     {
       "hnrlbls": [
-        "3-3A"
+        "3A"
       ], 
       "housenumber": "3A", 
-      "lat": 50.781594060423, 
-      "lon": 3.619777263531, 
+      "lat": 50.780566015668, 
+      "lon": 3.6196047264, 
       "municipality": "Maarkedal", 
       "pcode": "9681", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Terbeke"
+    }, 
+    {
+      "hnrlbls": [
+        "3B"
+      ], 
+      "housenumber": "3B", 
+      "lat": 50.780513803292, 
+      "lon": 3.619833005244, 
+      "municipality": "Maarkedal", 
+      "pcode": "9681", 
+      "source": "afgeleidVanGebouw", 
       "street": "Terbeke"
     }, 
     {

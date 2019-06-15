@@ -89,8 +89,8 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.221879837892, 
-      "lon": 3.662535872292, 
+      "lat": 51.221873172269, 
+      "lon": 3.662533539735, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -250,11 +250,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.229102395366, 
-      "lon": 3.676502912533, 
+      "lat": 51.229127936793, 
+      "lon": 3.676520572341, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
@@ -346,11 +346,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.228631224595, 
-      "lon": 3.674740839639, 
+      "lat": 51.228624696949, 
+      "lon": 3.674746663229, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
@@ -358,11 +358,11 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.228341441886, 
-      "lon": 3.674682014871, 
+      "lat": 51.228396403343, 
+      "lon": 3.675225642735, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
@@ -595,14 +595,14 @@
     }, 
     {
       "hnrlbls": [
-        "4"
+        "4-4D"
       ], 
       "housenumber": "4", 
-      "lat": 51.229169650609, 
-      "lon": 3.677706213747, 
+      "lat": 51.229504183473, 
+      "lon": 3.677593599362, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
@@ -751,50 +751,50 @@
     }, 
     {
       "hnrlbls": [
-        "4A-4D"
+        "4-4D"
       ], 
       "housenumber": "4A", 
-      "lat": 51.229343984386, 
-      "lon": 3.677621025941, 
+      "lat": 51.229504183473, 
+      "lon": 3.677593599362, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
       "hnrlbls": [
-        "4A-4D"
+        "4-4D"
       ], 
       "housenumber": "4B", 
-      "lat": 51.229343984386, 
-      "lon": 3.677621025941, 
+      "lat": 51.229504183473, 
+      "lon": 3.677593599362, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
       "hnrlbls": [
-        "4A-4D"
+        "4-4D"
       ], 
       "housenumber": "4C", 
-      "lat": 51.229343984386, 
-      "lon": 3.677621025941, 
+      "lat": 51.229504183473, 
+      "lon": 3.677593599362, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
       "hnrlbls": [
-        "4A-4D"
+        "4-4D"
       ], 
       "housenumber": "4D", 
-      "lat": 51.229343984386, 
-      "lon": 3.677621025941, 
+      "lat": 51.229504183473, 
+      "lon": 3.677593599362, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
@@ -1049,8 +1049,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.22684923595, 
-      "lon": 3.671869978999, 
+      "lat": 51.226852189339, 
+      "lon": 3.671867787535, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -1133,11 +1133,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.22557918023, 
-      "lon": 3.669547525824, 
+      "lat": 51.2255789089, 
+      "lon": 3.669547243582, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {
@@ -1145,11 +1145,23 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 51.225544929258, 
-      "lon": 3.669273041294, 
+      "lat": 51.225490113405, 
+      "lon": 3.669290898126, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Beekstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "86A"
+      ], 
+      "housenumber": "86A", 
+      "lat": 51.225477623517, 
+      "lon": 3.669230817825, 
+      "municipality": "Assenede", 
+      "pcode": "9968", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Beekstraat"
     }, 
     {

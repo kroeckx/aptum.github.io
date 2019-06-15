@@ -44,8 +44,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.198578234581, 
-      "lon": 4.394275430472, 
+      "lat": 51.198578776206, 
+      "lon": 4.394264987081, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -825,8 +825,10 @@
       "street": "De Beuckerstraat"
     }, 
     {
-      "busnrs": [
-        "9"
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "61"
@@ -939,8 +941,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.198616789597, 
-      "lon": 4.394300202286, 
+      "lat": 51.198615976504, 
+      "lon": 4.394318800206, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 

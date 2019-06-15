@@ -77,8 +77,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.165403055541, 
-      "lon": 5.066651569101, 
+      "lat": 51.165405374467, 
+      "lon": 5.066639451441, 
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
@@ -94,6 +94,18 @@
       "municipality": "Geel", 
       "pcode": "2440", 
       "source": "afgeleidVanGebouw", 
+      "street": "St.-Lambertusstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.163740396401, 
+      "lon": 5.066691737683, 
+      "municipality": "Geel", 
+      "pcode": "2440", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "St.-Lambertusstraat"
     }
   ]

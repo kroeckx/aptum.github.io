@@ -29,8 +29,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.860178161237, 
-      "lon": 4.705348237535, 
+      "lat": 50.860186075571, 
+      "lon": 4.705347016018, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanPerceelGrb", 
@@ -55,7 +55,7 @@
     }, 
     {
       "hnrlbls": [
-        "102-104"
+        "102"
       ], 
       "housenumber": "102", 
       "lat": 50.860181822888, 
@@ -79,11 +79,11 @@
     }, 
     {
       "hnrlbls": [
-        "102-104"
+        "104"
       ], 
       "housenumber": "104", 
-      "lat": 50.860181822888, 
-      "lon": 4.705419139553, 
+      "lat": 50.860184792653, 
+      "lon": 4.705418024587, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanPerceelGrb", 
@@ -434,11 +434,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.861187917591, 
-      "lon": 4.698540048806, 
+      "lat": 50.861171273489, 
+      "lon": 4.698576719723, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Leeuwerikenstraat"
     }, 
     {
@@ -467,14 +467,14 @@
         "0402"
       ], 
       "hnrlbls": [
-        "27-29"
+        "27-31"
       ], 
       "housenumber": "27", 
-      "lat": 50.861904721321, 
-      "lon": 4.698388987037, 
+      "lat": 50.861932637914, 
+      "lon": 4.69840352939, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Leeuwerikenstraat"
     }, 
     {
@@ -501,14 +501,14 @@
         "0402"
       ], 
       "hnrlbls": [
-        "27-29"
+        "27-31"
       ], 
       "housenumber": "29", 
-      "lat": 50.861904721321, 
-      "lon": 4.698388987037, 
+      "lat": 50.861932637914, 
+      "lon": 4.69840352939, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Leeuwerikenstraat"
     }, 
     {
@@ -589,14 +589,14 @@
         "0410"
       ], 
       "hnrlbls": [
-        "31"
+        "27-31"
       ], 
       "housenumber": "31", 
-      "lat": 50.861529889831, 
-      "lon": 4.698536772139, 
+      "lat": 50.861932637914, 
+      "lon": 4.69840352939, 
       "municipality": "Leuven", 
       "pcode": "3001", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Leeuwerikenstraat"
     }, 
     {
@@ -1582,8 +1582,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 50.860824605426, 
-      "lon": 4.702772908503, 
+      "lat": 50.860813900359, 
+      "lon": 4.702775530968, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -1867,8 +1867,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 50.860235678377, 
-      "lon": 4.704539899045, 
+      "lat": 50.860240704285, 
+      "lon": 4.704542775744, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 

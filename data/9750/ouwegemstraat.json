@@ -337,10 +337,10 @@
       "street": "Ouwegemstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "201"
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "3"
@@ -674,7 +674,7 @@
       "lon": 3.597052589306, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Ouwegemstraat"
     }, 
     {
@@ -1046,7 +1046,7 @@
       "lon": 3.600333262828, 
       "municipality": "Kruisem", 
       "pcode": "9750", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Ouwegemstraat"
     }, 
     {

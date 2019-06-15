@@ -1230,6 +1230,25 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 51.011677670198, 
+      "lon": 3.929111816524, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
       "hnrlbls": [
         "40"
       ], 
@@ -1708,6 +1727,30 @@
       "municipality": "Wichelen", 
       "pcode": "9260", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "75A"
+      ], 
+      "housenumber": "75A", 
+      "lat": 51.008237490151, 
+      "lon": 3.924722157492, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "75B"
+      ], 
+      "housenumber": "75B", 
+      "lat": 51.008171870264, 
+      "lon": 3.924698698509, 
+      "municipality": "Wichelen", 
+      "pcode": "9260", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Stationsstraat"
     }, 
     {

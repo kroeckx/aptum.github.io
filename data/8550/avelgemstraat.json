@@ -362,6 +362,18 @@
     }, 
     {
       "hnrlbls": [
+        "115C"
+      ], 
+      "housenumber": "115C", 
+      "lat": 50.804049374758, 
+      "lon": 3.343632177901, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Avelgemstraat"
+    }, 
+    {
+      "hnrlbls": [
         "115D"
       ], 
       "housenumber": "115D", 
@@ -2182,7 +2194,8 @@
     {
       "busnrs": [
         "2", 
-        "3"
+        "3", 
+        "6"
       ], 
       "hnrlbls": [
         "27-27A"
@@ -2227,18 +2240,32 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2", 
-        "3", 
         "4", 
+        "7"
+      ], 
+      "hnrlbls": [
+        "29-29B"
+      ], 
+      "housenumber": "29", 
+      "lat": 50.811317549522, 
+      "lon": 3.334093157625, 
+      "municipality": "Zwevegem", 
+      "pcode": "8550", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Avelgemstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "3", 
         "5", 
         "6", 
-        "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "29B"
+        "29-29B"
       ], 
       "housenumber": "29B", 
       "lat": 50.811317549522, 
@@ -2282,7 +2309,6 @@
         "3", 
         "4", 
         "5", 
-        "6", 
         "7"
       ], 
       "hnrlbls": [
@@ -2310,7 +2336,8 @@
     }, 
     {
       "busnrs": [
-        "4"
+        "4", 
+        "6"
       ], 
       "hnrlbls": [
         "33-33D"
@@ -2329,7 +2356,6 @@
         "2", 
         "3", 
         "5", 
-        "6", 
         "7"
       ], 
       "hnrlbls": [
@@ -2378,11 +2404,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 50.81079357678, 
-      "lon": 3.334928112878, 
+      "lat": 50.810790063896, 
+      "lon": 3.33486618029, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Avelgemstraat"
     }, 
     {
@@ -2402,11 +2428,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.810740671845, 
-      "lon": 3.335086640291, 
+      "lat": 50.810707158731, 
+      "lon": 3.33507886229, 
       "municipality": "Zwevegem", 
       "pcode": "8550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Avelgemstraat"
     }, 
     {

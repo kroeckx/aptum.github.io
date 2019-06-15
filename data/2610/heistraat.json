@@ -779,7 +779,7 @@
         "202"
       ], 
       "hnrlbls": [
-        "162-164"
+        "162"
       ], 
       "housenumber": "162", 
       "lat": 51.175950362612, 
@@ -803,21 +803,6 @@
       "housenumber": "163", 
       "lat": 51.176200528551, 
       "lon": 4.392689622026, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Heistraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "162-164"
-      ], 
-      "housenumber": "164", 
-      "lat": 51.175950362612, 
-      "lon": 4.393605801713, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -1670,9 +1655,9 @@
       "street": "Heistraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "201"
       ], 
       "hnrlbls": [
         "259"
@@ -3057,14 +3042,14 @@
     }, 
     {
       "hnrlbls": [
-        "59-67A"
+        "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.172056499462, 
-      "lon": 4.393715340374, 
+      "lat": 51.171980210853, 
+      "lon": 4.394015848284, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heistraat"
     }, 
     {
@@ -3092,25 +3077,47 @@
       "street": "Heistraat"
     }, 
     {
-      "apptnrs": [
-        "21", 
-        "31", 
-        "51"
-      ], 
       "busnrs": [
         "11", 
         "12", 
+        "21", 
         "22", 
+        "31", 
         "32", 
         "41", 
-        "42"
+        "42", 
+        "51"
       ], 
       "hnrlbls": [
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.172031007612, 
-      "lon": 4.393963830736, 
+      "lat": 51.1720179663, 
+      "lon": 4.393999855193, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Heistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.172051946553, 
+      "lon": 4.393983859979, 
+      "municipality": "Antwerpen", 
+      "pcode": "2610", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Heistraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63A"
+      ], 
+      "housenumber": "63A", 
+      "lat": 51.172094735146, 
+      "lon": 4.393969871395, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3129,26 +3136,26 @@
         "51"
       ], 
       "hnrlbls": [
-        "59-67A"
+        "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.172056499462, 
-      "lon": 4.393715340374, 
+      "lat": 51.172131233066, 
+      "lon": 4.393949873998, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heistraat"
     }, 
     {
       "hnrlbls": [
-        "59-67A"
+        "65A"
       ], 
       "housenumber": "65A", 
-      "lat": 51.172056499462, 
-      "lon": 4.393715340374, 
+      "lat": 51.172170247778, 
+      "lon": 4.393929877965, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heistraat"
     }, 
     {
@@ -3163,26 +3170,26 @@
         "42"
       ], 
       "hnrlbls": [
-        "59-67A"
+        "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.172056499462, 
-      "lon": 4.393715340374, 
+      "lat": 51.172215555349, 
+      "lon": 4.393905881845, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heistraat"
     }, 
     {
       "hnrlbls": [
-        "59-67A"
+        "67A"
       ], 
       "housenumber": "67A", 
-      "lat": 51.172056499462, 
-      "lon": 4.393715340374, 
+      "lat": 51.172250793108, 
+      "lon": 4.393893890732, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heistraat"
     }, 
     {
@@ -3191,6 +3198,7 @@
         "12", 
         "21", 
         "22", 
+        "31", 
         "32", 
         "41", 
         "42", 
@@ -3201,11 +3209,11 @@
         "69"
       ], 
       "housenumber": "69", 
-      "lat": 51.172052814155, 
-      "lon": 4.393715338348, 
+      "lat": 51.17229106533, 
+      "lon": 4.393877898842, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heistraat"
     }, 
     {
@@ -3213,11 +3221,11 @@
         "69A"
       ], 
       "housenumber": "69A", 
-      "lat": 51.172251547328, 
-      "lon": 4.3937327486, 
+      "lat": 51.172336371577, 
+      "lon": 4.393859907932, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Heistraat"
     }, 
     {
@@ -3311,8 +3319,13 @@
       "street": "Heistraat"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "75-77"

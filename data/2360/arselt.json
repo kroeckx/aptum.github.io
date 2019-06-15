@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "11"
+      ], 
+      "housenumber": "11", 
+      "lat": 51.300764502033, 
+      "lon": 5.03036207224, 
+      "municipality": "Oud-Turnhout", 
+      "pcode": "2360", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Arselt"
+    }, 
+    {
+      "hnrlbls": [
         "14"
       ], 
       "housenumber": "14", 
@@ -105,11 +117,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.30028252186, 
-      "lon": 5.034515747768, 
+      "lat": 51.300235526634, 
+      "lon": 5.034481236605, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Arselt"
     }, 
     {

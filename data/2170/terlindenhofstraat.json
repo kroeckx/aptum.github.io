@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "1"
       ], 
@@ -1218,21 +1222,6 @@
       "street": "Terlindenhofstraat"
     }, 
     {
-      "busnrs": [
-        "A"
-      ], 
-      "hnrlbls": [
-        "1_2"
-      ], 
-      "housenumber": "1_2", 
-      "lat": 51.242850638799, 
-      "lon": 4.440559025403, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Terlindenhofstraat"
-    }, 
-    {
       "hnrlbls": [
         "200"
       ], 
@@ -1263,34 +1252,6 @@
       "housenumber": "202A", 
       "lat": 51.24760549902, 
       "lon": 4.443642822001, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Terlindenhofstraat"
-    }, 
-    {
-      "apptnrs": [
-        "1101", 
-        "1102", 
-        "2001", 
-        "2002", 
-        "3001", 
-        "4001", 
-        "4002", 
-        "5001", 
-        "5002", 
-        "6001", 
-        "6002", 
-        "6101", 
-        "6102", 
-        "6103"
-      ], 
-      "hnrlbls": [
-        "204"
-      ], 
-      "housenumber": "204", 
-      "lat": 51.248215743782, 
-      "lon": 4.442604774133, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1893,10 +1854,6 @@
       "street": "Terlindenhofstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "35"
       ], 
@@ -1966,18 +1923,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
-      "street": "Terlindenhofstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "35A"
-      ], 
-      "housenumber": "35A", 
-      "lat": 51.24355689272, 
-      "lon": 4.44107479368, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Terlindenhofstraat"
     }, 
     {
@@ -2394,6 +2339,11 @@
       "street": "Terlindenhofstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "60"
       ], 
@@ -2449,7 +2399,7 @@
         "7"
       ], 
       "hnrlbls": [
-        "76-78"
+        "76"
       ], 
       "housenumber": "76", 
       "lat": 51.244771345042, 
@@ -2466,18 +2416,6 @@
       "housenumber": "77", 
       "lat": 51.244559341634, 
       "lon": 4.441826761235, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Terlindenhofstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "76-78"
-      ], 
-      "housenumber": "78", 
-      "lat": 51.244771345042, 
-      "lon": 4.441587369662, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

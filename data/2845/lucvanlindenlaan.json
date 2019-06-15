@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.101694671736, 
+      "lon": 4.334745595066, 
+      "municipality": "Niel", 
+      "pcode": "2845", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Luc Van Lindenlaan"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -41,11 +53,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.10075457876, 
-      "lon": 4.333957774088, 
+      "lat": 51.100762035986, 
+      "lon": 4.333945776389, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luc Van Lindenlaan"
     }, 
     {
@@ -77,11 +89,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.101041856207, 
-      "lon": 4.334255088543, 
+      "lat": 51.101012177685, 
+      "lon": 4.334201001784, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luc Van Lindenlaan"
     }, 
     {
@@ -125,11 +137,11 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.101611083243, 
-      "lon": 4.334771210029, 
+      "lat": 51.101626910637, 
+      "lon": 4.334796468629, 
       "municipality": "Niel", 
       "pcode": "2845", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Luc Van Lindenlaan"
     }, 
     {

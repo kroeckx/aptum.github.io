@@ -403,11 +403,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.220390627503, 
-      "lon": 4.455699171858, 
+      "lat": 51.22038163997, 
+      "lon": 4.455698009915, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Cogelsplein"
     }, 
     {
@@ -420,18 +420,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "manueleAanduidingVanPerceel", 
-      "street": "Cogelsplein"
-    }, 
-    {
-      "hnrlbls": [
-        "35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.220405090685, 
-      "lon": 4.455831309304, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Cogelsplein"
     }, 
     {
@@ -467,11 +455,11 @@
         "37"
       ], 
       "housenumber": "37", 
-      "lat": 51.220438446717, 
-      "lon": 4.455819062785, 
+      "lat": 51.220434762437, 
+      "lon": 4.455817767667, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Cogelsplein"
     }, 
     {

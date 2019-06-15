@@ -9,7 +9,7 @@
       "lon": 3.538081570494, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Desir\u00e9 Delcroixstraat"
     }, 
     {
@@ -65,8 +65,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 50.98537574769, 
-      "lon": 3.539888922939, 
+      "lat": 50.985374221636, 
+      "lon": 3.539889234751, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -77,14 +77,42 @@
         "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 50.986058093272, 
-      "lon": 3.536681287252, 
+      "lat": 50.986067260997, 
+      "lon": 3.536706476182, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Desir\u00e9 Delcroixstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "107", 
+        "108", 
+        "109", 
+        "110", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207", 
+        "208", 
+        "209", 
+        "210", 
+        "3", 
+        "4", 
+        "5", 
+        "6"
+      ], 
       "hnrlbls": [
         "1B"
       ], 
@@ -197,8 +225,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.984921953366, 
-      "lon": 3.538307950954, 
+      "lat": 50.984931898546, 
+      "lon": 3.538303217403, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -269,8 +297,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.985041988109, 
-      "lon": 3.53897406681, 
+      "lat": 50.985034557697, 
+      "lon": 3.538978470898, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

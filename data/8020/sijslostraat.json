@@ -437,11 +437,11 @@
         "130"
       ], 
       "housenumber": "130", 
-      "lat": 51.107574106383, 
-      "lon": 3.193800334177, 
+      "lat": 51.107538137044, 
+      "lon": 3.193727122812, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {
@@ -449,11 +449,11 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 51.107817772269, 
-      "lon": 3.193849477716, 
+      "lat": 51.107953243599, 
+      "lon": 3.19379466459, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {
@@ -545,11 +545,11 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.109995889608, 
-      "lon": 3.194396132597, 
+      "lat": 51.110048146926, 
+      "lon": 3.194344550769, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {
@@ -581,11 +581,11 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 51.110595305567, 
-      "lon": 3.192443394509, 
+      "lat": 51.110618406321, 
+      "lon": 3.192785850227, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {
@@ -1158,18 +1158,6 @@
     }, 
     {
       "hnrlbls": [
-        "19"
-      ], 
-      "housenumber": "19", 
-      "lat": 51.096025470573, 
-      "lon": 3.204271490574, 
-      "municipality": "Oostkamp", 
-      "pcode": "8020", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sijslostraat"
-    }, 
-    {
-      "hnrlbls": [
         "192"
       ], 
       "housenumber": "192", 
@@ -1289,11 +1277,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.096533190934, 
-      "lon": 3.202793892465, 
+      "lat": 51.096646693787, 
+      "lon": 3.203108298333, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {
@@ -1370,14 +1358,14 @@
     }, 
     {
       "hnrlbls": [
-        "32-34"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.096116198226, 
-      "lon": 3.202771591967, 
+      "lat": 51.096128166567, 
+      "lon": 3.202818264463, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {
@@ -1394,7 +1382,7 @@
     }, 
     {
       "hnrlbls": [
-        "32-34"
+        "34"
       ], 
       "housenumber": "34", 
       "lat": 51.096116198226, 
@@ -1409,11 +1397,11 @@
         "36"
       ], 
       "housenumber": "36", 
-      "lat": 51.096075403378, 
-      "lon": 3.202573447063, 
+      "lat": 51.096035646553, 
+      "lon": 3.202598565996, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {
@@ -1433,11 +1421,11 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.096120605016, 
-      "lon": 3.202462531305, 
+      "lat": 51.09602769607, 
+      "lon": 3.202494543466, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {
@@ -1469,11 +1457,11 @@
         "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.096044010644, 
-      "lon": 3.202326098583, 
+      "lat": 51.096006785514, 
+      "lon": 3.202343587878, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {
@@ -1814,7 +1802,7 @@
     }, 
     {
       "hnrlbls": [
-        "67"
+        "67-69"
       ], 
       "housenumber": "67", 
       "lat": 51.09820072917, 
@@ -1838,11 +1826,11 @@
     }, 
     {
       "hnrlbls": [
-        "69"
+        "67-69"
       ], 
       "housenumber": "69", 
-      "lat": 51.098181775312, 
-      "lon": 3.196643895305, 
+      "lat": 51.09820072917, 
+      "lon": 3.196787194726, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -2102,8 +2090,8 @@
         "88"
       ], 
       "housenumber": "88", 
-      "lat": 51.100339191245, 
-      "lon": 3.193229755888, 
+      "lat": 51.100339283966, 
+      "lon": 3.193230039121, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
       "source": "afgeleidVanGebouw", 
@@ -2222,11 +2210,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.099921339491, 
-      "lon": 3.193220696225, 
+      "lat": 51.099935291161, 
+      "lon": 3.193285596209, 
       "municipality": "Oostkamp", 
       "pcode": "8020", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sijslostraat"
     }, 
     {

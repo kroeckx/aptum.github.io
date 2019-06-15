@@ -2,19 +2,25 @@
   "addresses": [
     {
       "busnrs": [
+        "0001", 
         "0002", 
         "0003", 
         "0004", 
         "0005", 
+        "0006", 
         "0101", 
+        "0102", 
         "0103", 
         "0104", 
         "0105", 
+        "0106", 
         "0107", 
         "0108", 
         "0201", 
         "0202", 
+        "0203", 
         "0204", 
+        "0205", 
         "0206", 
         "0207", 
         "0208", 
@@ -230,11 +236,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.783083590797, 
-      "lon": 3.165476930699, 
+      "lat": 50.783121027826, 
+      "lon": 3.165576666521, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Priester Coulonstraat"
     }, 
     {
@@ -331,18 +337,6 @@
       "municipality": "Menen", 
       "pcode": "8930", 
       "source": "afgeleidVanGebouw", 
-      "street": "Priester Coulonstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3"
-      ], 
-      "housenumber": "3", 
-      "lat": 50.783089181077, 
-      "lon": 3.164848241206, 
-      "municipality": "Menen", 
-      "pcode": "8930", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Priester Coulonstraat"
     }, 
     {

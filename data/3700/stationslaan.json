@@ -341,8 +341,8 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 50.783847208704, 
-      "lon": 5.472243966145, 
+      "lat": 50.783853236459, 
+      "lon": 5.472243540273, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -456,8 +456,8 @@
         "33-33B"
       ], 
       "housenumber": "33", 
-      "lat": 50.783464008899, 
-      "lon": 5.472331696772, 
+      "lat": 50.78347936985, 
+      "lon": 5.472323548052, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -472,8 +472,8 @@
         "33-33B"
       ], 
       "housenumber": "33B", 
-      "lat": 50.783464008899, 
-      "lon": 5.472331696772, 
+      "lat": 50.78347936985, 
+      "lon": 5.472323548052, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
       "source": "afgeleidVanGebouw", 
@@ -481,37 +481,37 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301"
       ], 
       "hnrlbls": [
-        "34-34A"
-      ], 
-      "housenumber": "34", 
-      "lat": 50.783873428529, 
-      "lon": 5.472523965649, 
-      "municipality": "Tongeren", 
-      "pcode": "3700", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationslaan"
-    }, 
-    {
-      "busnrs": [
-        "201", 
-        "202", 
-        "301"
-      ], 
-      "hnrlbls": [
-        "34-34A"
+        "34A-34B"
       ], 
       "housenumber": "34A", 
       "lat": 50.783873428529, 
       "lon": 5.472523965649, 
       "municipality": "Tongeren", 
       "pcode": "3700", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Stationslaan"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
+      "hnrlbls": [
+        "34A-34B"
+      ], 
+      "housenumber": "34B", 
+      "lat": 50.783873428529, 
+      "lon": 5.472523965649, 
+      "municipality": "Tongeren", 
+      "pcode": "3700", 
+      "source": "afgeleidVanGebouw", 
       "street": "Stationslaan"
     }, 
     {

@@ -1330,18 +1330,6 @@
     }, 
     {
       "hnrlbls": [
-        "60-60C"
-      ], 
-      "housenumber": "60", 
-      "lat": 50.93492495473, 
-      "lon": 4.326587592899, 
-      "municipality": "Meise", 
-      "pcode": "1860", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Brusselsesteenweg"
-    }, 
-    {
-      "hnrlbls": [
         "60A"
       ], 
       "housenumber": "60A", 
@@ -1350,6 +1338,58 @@
       "municipality": "Meise", 
       "pcode": "1860", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "60B"
+      ], 
+      "housenumber": "60B", 
+      "lat": 50.934876911902, 
+      "lon": 4.326474253969, 
+      "municipality": "Meise", 
+      "pcode": "1860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "60C"
+      ], 
+      "housenumber": "60C", 
+      "lat": 50.934888263045, 
+      "lon": 4.326543951434, 
+      "municipality": "Meise", 
+      "pcode": "1860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "busnrs": [
+        "1.1", 
+        "2.1"
+      ], 
+      "hnrlbls": [
+        "60D"
+      ], 
+      "housenumber": "60D", 
+      "lat": 50.934903407898, 
+      "lon": 4.326665428333, 
+      "municipality": "Meise", 
+      "pcode": "1860", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brusselsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "60E"
+      ], 
+      "housenumber": "60E", 
+      "lat": 50.934978922058, 
+      "lon": 4.326677311591, 
+      "municipality": "Meise", 
+      "pcode": "1860", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brusselsesteenweg"
     }, 
     {

@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.006094553553, 
+      "lon": 4.617276352166, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Duivebergen"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -89,8 +101,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.999898768746, 
-      "lon": 4.615625353298, 
+      "lat": 50.999900482659, 
+      "lon": 4.615622513185, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -101,8 +113,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.000994214361, 
-      "lon": 4.61756976115, 
+      "lat": 51.000988735878, 
+      "lon": 4.617567452587, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -326,11 +338,23 @@
     }, 
     {
       "hnrlbls": [
+        "7B"
+      ], 
+      "housenumber": "7B", 
+      "lat": 51.004359955618, 
+      "lon": 4.616579697396, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Duivebergen"
+    }, 
+    {
+      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.004911544824, 
-      "lon": 4.617039963945, 
+      "lat": 51.004914700932, 
+      "lon": 4.617035279087, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -341,8 +365,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.004114770365, 
-      "lon": 4.61677429471, 
+      "lat": 51.004112889292, 
+      "lon": 4.616771150357, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 

@@ -229,8 +229,8 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.155170625047, 
-      "lon": 3.02228147661, 
+      "lat": 51.155184048735, 
+      "lon": 3.022276086269, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -241,8 +241,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.155031913574, 
-      "lon": 3.022352949251, 
+      "lat": 51.155022859371, 
+      "lon": 3.022355211574, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
       "source": "afgeleidVanGebouw", 
@@ -345,6 +345,12 @@
       "street": "Eernegemsestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4"
+      ], 
       "hnrlbls": [
         "14A"
       ], 
@@ -1343,11 +1349,11 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.157250772537, 
-      "lon": 3.020966888749, 
+      "lat": 51.157222200556, 
+      "lon": 3.020873787669, 
       "municipality": "Oudenburg", 
       "pcode": "8460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Eernegemsestraat"
     }, 
     {

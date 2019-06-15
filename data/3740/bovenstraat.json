@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 50.829938885394, 
-      "lon": 5.548547538639, 
+      "lat": 50.829976321041, 
+      "lon": 5.548731607877, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "manueleAanduidingVanGebouw", 
@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.830193638718, 
-      "lon": 5.547676470817, 
+      "lat": 50.830036394894, 
+      "lon": 5.548113882615, 
       "municipality": "Bilzen", 
       "pcode": "3740", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Bovenstraat"
     }, 
     {
@@ -391,6 +391,18 @@
       "municipality": "Bilzen", 
       "pcode": "3740", 
       "source": "afgeleidVanGebouw", 
+      "street": "Bovenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.829564200184, 
+      "lon": 5.548016004993, 
+      "municipality": "Bilzen", 
+      "pcode": "3740", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Bovenstraat"
     }, 
     {

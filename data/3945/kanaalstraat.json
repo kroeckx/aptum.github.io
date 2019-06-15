@@ -373,11 +373,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.100142149687, 
-      "lon": 5.140814094507, 
+      "lat": 51.100136520572, 
+      "lon": 5.140781449721, 
       "municipality": "Ham", 
       "pcode": "3945", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kanaalstraat"
     }, 
     {
@@ -551,6 +551,9 @@
       "street": "Kanaalstraat"
     }, 
     {
+      "apptnrs": [
+        "0099"
+      ], 
       "hnrlbls": [
         "5"
       ], 

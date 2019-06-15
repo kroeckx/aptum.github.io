@@ -32,14 +32,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "16-18"
+        "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.178003591301, 
-      "lon": 4.381085593341, 
+      "lat": 51.177917296185, 
+      "lon": 4.381132473577, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Bauwenslaan"
     }, 
     {
@@ -68,14 +68,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "16-18"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.178003591301, 
-      "lon": 4.381085593341, 
+      "lat": 51.17797394354, 
+      "lon": 4.380954310007, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Bauwenslaan"
     }, 
     {
@@ -289,13 +289,17 @@
       "street": "Pastoor Bauwenslaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
+        "1", 
         "10", 
         "2", 
+        "3", 
         "4", 
         "5", 
+        "6", 
         "7", 
-        "8"
+        "8", 
+        "9"
       ], 
       "hnrlbls": [
         "29"
@@ -575,14 +579,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "51-55"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.178502619428, 
-      "lon": 4.378527699011, 
+      "lat": 51.178586840028, 
+      "lon": 4.378549740369, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Bauwenslaan"
     }, 
     {
@@ -595,26 +599,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "51-55"
+        "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.178502619428, 
-      "lon": 4.378527699011, 
+      "lat": 51.178569219654, 
+      "lon": 4.378581769075, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Pastoor Bauwenslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "51-55"
-      ], 
-      "housenumber": "55", 
-      "lat": 51.178502619428, 
-      "lon": 4.378527699011, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Bauwenslaan"
     }, 
     {
@@ -624,14 +616,14 @@
         "6"
       ], 
       "hnrlbls": [
-        "59-61"
+        "59"
       ], 
       "housenumber": "59", 
-      "lat": 51.178683406295, 
-      "lon": 4.37821298924, 
+      "lat": 51.178745420914, 
+      "lon": 4.378285505515, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Bauwenslaan"
     }, 
     {
@@ -642,26 +634,26 @@
         "9"
       ], 
       "hnrlbls": [
-        "59-61"
+        "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.178683406295, 
-      "lon": 4.37821298924, 
+      "lat": 51.178727800961, 
+      "lon": 4.378313530333, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Bauwenslaan"
     }, 
     {
       "hnrlbls": [
-        "63-67"
+        "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.178789847013, 
-      "lon": 4.378019242447, 
+      "lat": 51.178861214436, 
+      "lon": 4.378037276165, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Bauwenslaan"
     }, 
     {
@@ -680,26 +672,26 @@
         "9"
       ], 
       "hnrlbls": [
-        "63-67"
+        "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.178789847013, 
-      "lon": 4.378019242447, 
+      "lat": 51.178838557566, 
+      "lon": 4.378105341131, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Bauwenslaan"
     }, 
     {
       "hnrlbls": [
-        "63-67"
+        "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.178789847013, 
-      "lon": 4.378019242447, 
+      "lat": 51.178805835556, 
+      "lon": 4.378149379228, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Pastoor Bauwenslaan"
     }, 
     {

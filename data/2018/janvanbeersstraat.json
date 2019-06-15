@@ -197,8 +197,11 @@
       "street": "Jan Van Beersstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "23"
@@ -439,6 +442,11 @@
       "street": "Jan Van Beersstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "102"
+      ], 
       "hnrlbls": [
         "4"
       ], 

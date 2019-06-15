@@ -122,6 +122,18 @@
     }, 
     {
       "hnrlbls": [
+        "106"
+      ], 
+      "housenumber": "106", 
+      "lat": 51.239012798243, 
+      "lon": 4.029347510785, 
+      "municipality": "Stekene", 
+      "pcode": "9190", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kemelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "10A"
       ], 
       "housenumber": "10A", 
@@ -761,11 +773,11 @@
         "307-308"
       ], 
       "housenumber": "307", 
-      "lat": 51.239586310072, 
-      "lon": 4.025867507872, 
+      "lat": 51.239592941892, 
+      "lon": 4.025891801777, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kemelstraat"
     }, 
     {
@@ -773,11 +785,11 @@
         "307-308"
       ], 
       "housenumber": "308", 
-      "lat": 51.239586310072, 
-      "lon": 4.025867507872, 
+      "lat": 51.239592941892, 
+      "lon": 4.025891801777, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Kemelstraat"
     }, 
     {
@@ -1485,7 +1497,7 @@
       "lon": 4.032430309051, 
       "municipality": "Stekene", 
       "pcode": "9190", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kemelstraat"
     }, 
     {

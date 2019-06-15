@@ -74,26 +74,26 @@
     }, 
     {
       "hnrlbls": [
-        "18-18A"
+        "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.234304062286, 
-      "lon": 5.366041574156, 
+      "lat": 51.234347878304, 
+      "lon": 5.366164793989, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Emmersstraat"
     }, 
     {
       "hnrlbls": [
-        "18-18A"
+        "18A"
       ], 
       "housenumber": "18A", 
-      "lat": 51.234304062286, 
-      "lon": 5.366041574156, 
+      "lat": 51.234388983267, 
+      "lon": 5.366257743511, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Emmersstraat"
     }, 
     {
@@ -142,6 +142,18 @@
       "municipality": "Lommel", 
       "pcode": "3920", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Emmersstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 51.234699364338, 
+      "lon": 5.366003788117, 
+      "municipality": "Lommel", 
+      "pcode": "3920", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Emmersstraat"
     }, 
     {

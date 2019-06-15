@@ -34,8 +34,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 51.103971065081, 
-      "lon": 4.45463753704, 
+      "lat": 51.103900113153, 
+      "lon": 4.454678953058, 
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "afgeleidVanGebouw", 
@@ -262,8 +262,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.102809174091, 
-      "lon": 4.455612083828, 
+      "lat": 51.102808276274, 
+      "lon": 4.455610654433, 
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "afgeleidVanGebouw", 
@@ -480,6 +480,18 @@
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Ferdinand Maesstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "191"
+      ], 
+      "housenumber": "191", 
+      "lat": 51.100848818941, 
+      "lon": 4.466754388748, 
+      "municipality": "Kontich", 
+      "pcode": "2550", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Ferdinand Maesstraat"
     }, 
     {
@@ -829,8 +841,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.10577386878, 
-      "lon": 4.45437387673, 
+      "lat": 51.10577135203, 
+      "lon": 4.454373729303, 
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "afgeleidVanGebouw", 
@@ -865,8 +877,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 51.10622140634, 
-      "lon": 4.4531557754, 
+      "lat": 51.106218443859, 
+      "lon": 4.453150487083, 
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "afgeleidVanGebouw", 
@@ -877,8 +889,8 @@
         "38B"
       ], 
       "housenumber": "38B", 
-      "lat": 51.106147543738, 
-      "lon": 4.453245450509, 
+      "lat": 51.106154724541, 
+      "lon": 4.453259598967, 
       "municipality": "Kontich", 
       "pcode": "2550", 
       "source": "afgeleidVanGebouw", 
@@ -1049,11 +1061,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.105647655733, 
-      "lon": 4.45364832135, 
+      "lat": 51.10565085386, 
+      "lon": 4.453700441904, 
       "municipality": "Kontich", 
       "pcode": "2550", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Ferdinand Maesstraat"
     }, 
     {

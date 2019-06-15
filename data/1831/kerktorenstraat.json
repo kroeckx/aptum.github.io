@@ -465,15 +465,19 @@
       "street": "Kerktorenstraat"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.894590786325, 
-      "lon": 4.434563512565, 
+      "lat": 50.894601570528, 
+      "lon": 4.43456892909, 
       "municipality": "Machelen", 
       "pcode": "1831", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerktorenstraat"
     }, 
     {

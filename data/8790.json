@@ -46,10 +46,10 @@
       "t": 50.865632547507
     }, 
     {
-      "b": 50.864195878474, 
+      "b": 50.864550434423, 
       "l": 3.44290723324, 
       "name": "Anzegemseweg", 
-      "numOfAddr": 20, 
+      "numOfAddr": 18, 
       "r": 3.447998870358, 
       "sanName": "anzegemseweg", 
       "t": 50.869345519374
@@ -256,7 +256,7 @@
       "b": 50.857955450472, 
       "l": 3.409908638999, 
       "name": "Brabantstraat", 
-      "numOfAddr": 57, 
+      "numOfAddr": 56, 
       "r": 3.433992023035, 
       "sanName": "brabantstraat", 
       "t": 50.861617922841
@@ -310,7 +310,7 @@
       "b": 50.88919198937, 
       "l": 3.43657769498, 
       "name": "Churchilllaan", 
-      "numOfAddr": 97, 
+      "numOfAddr": 98, 
       "r": 3.444927748614, 
       "sanName": "churchilllaan", 
       "t": 50.890781477126
@@ -337,7 +337,7 @@
       "b": 50.887265574091, 
       "l": 3.436134164596, 
       "name": "Damweg", 
-      "numOfAddr": 13, 
+      "numOfAddr": 12, 
       "r": 3.438305484912, 
       "sanName": "damweg", 
       "t": 50.88815026358
@@ -359,6 +359,15 @@
       "r": 3.415851122778, 
       "sanName": "desselgemseweg", 
       "t": 50.884169360734
+    }, 
+    {
+      "b": 50.891572561319, 
+      "l": 3.435172638137, 
+      "name": "Dijkveld", 
+      "numOfAddr": 6, 
+      "r": 3.435915547879, 
+      "sanName": "dijkveld", 
+      "t": 50.892344064412
     }, 
     {
       "b": 50.877951478397, 
@@ -427,7 +436,7 @@
       "b": 50.891323413352, 
       "l": 3.405101969559, 
       "name": "Eikenlaan", 
-      "numOfAddr": 52, 
+      "numOfAddr": 53, 
       "r": 3.416907789853, 
       "sanName": "eikenlaan", 
       "t": 50.896487766562
@@ -634,7 +643,7 @@
       "b": 50.892018620371, 
       "l": 3.447191541446, 
       "name": "Gentse Heerweg", 
-      "numOfAddr": 95, 
+      "numOfAddr": 94, 
       "r": 3.469786302277, 
       "sanName": "gentseheerweg", 
       "t": 50.903965603031
@@ -690,18 +699,18 @@
     }, 
     {
       "b": 50.892615298515, 
-      "l": 3.45211585054, 
+      "l": 3.452490105875, 
       "name": "Grasdreef", 
-      "numOfAddr": 52, 
+      "numOfAddr": 51, 
       "r": 3.455280910421, 
       "sanName": "grasdreef", 
       "t": 50.895408049536
     }, 
     {
       "b": 50.875399426773, 
-      "l": 3.411208056407, 
+      "l": 3.411353922979, 
       "name": "Groenbek", 
-      "numOfAddr": 21, 
+      "numOfAddr": 23, 
       "r": 3.41808858498, 
       "sanName": "groenbek", 
       "t": 50.877943712661
@@ -809,7 +818,7 @@
       "b": 50.875423784178, 
       "l": 3.419594044134, 
       "name": "Henri Lebbestraat", 
-      "numOfAddr": 162, 
+      "numOfAddr": 161, 
       "r": 3.426552968263, 
       "sanName": "henrilebbestraat", 
       "t": 50.883909199408
@@ -863,7 +872,7 @@
       "b": 50.882638389048, 
       "l": 3.433409689874, 
       "name": "Holstraat", 
-      "numOfAddr": 88, 
+      "numOfAddr": 87, 
       "r": 3.440730218192, 
       "sanName": "holstraat", 
       "t": 50.886268299917
@@ -923,10 +932,10 @@
       "t": 50.853856211369
     }, 
     {
-      "b": 50.893640909087, 
+      "b": 50.893599170839, 
       "l": 3.448072219272, 
       "name": "Jagersstraat", 
-      "numOfAddr": 33, 
+      "numOfAddr": 36, 
       "r": 3.451528547422, 
       "sanName": "jagersstraat", 
       "t": 50.894769919264
@@ -944,7 +953,7 @@
       "b": 50.89031846797, 
       "l": 3.432565512779, 
       "name": "Jan Bouckaertstraat", 
-      "numOfAddr": 31, 
+      "numOfAddr": 32, 
       "r": 3.436607467627, 
       "sanName": "janbouckaertstraat", 
       "t": 50.892491162691
@@ -1088,7 +1097,7 @@
       "b": 50.886387380732, 
       "l": 3.43350445856, 
       "name": "Keukeldam", 
-      "numOfAddr": 67, 
+      "numOfAddr": 65, 
       "r": 3.437736482239, 
       "sanName": "keukeldam", 
       "t": 50.890035988628
@@ -1205,7 +1214,7 @@
       "b": 50.890689779787, 
       "l": 3.44545631673, 
       "name": "Kruishoutemseweg", 
-      "numOfAddr": 112, 
+      "numOfAddr": 113, 
       "r": 3.471303426116, 
       "sanName": "kruishoutemseweg", 
       "t": 50.895693095872
@@ -1241,8 +1250,8 @@
       "b": 50.883408482053, 
       "l": 3.448214016595, 
       "name": "Langveld", 
-      "numOfAddr": 17, 
-      "r": 3.450902625064, 
+      "numOfAddr": 18, 
+      "r": 3.451069959723, 
       "sanName": "langveld", 
       "t": 50.884830309819
     }, 
@@ -1304,7 +1313,7 @@
       "b": 50.89193008782, 
       "l": 3.406393249731, 
       "name": "Lindestraat", 
-      "numOfAddr": 58, 
+      "numOfAddr": 57, 
       "otherPCs": [
         "8793"
       ], 
@@ -1388,7 +1397,7 @@
       "b": 50.883254303336, 
       "l": 3.426617670365, 
       "name": "Meersstraat", 
-      "numOfAddr": 34, 
+      "numOfAddr": 35, 
       "r": 3.430525727173, 
       "sanName": "meersstraat", 
       "t": 50.885835865439
@@ -1505,7 +1514,7 @@
       "b": 50.886674808354, 
       "l": 3.445687624647, 
       "name": "Nokerseweg", 
-      "numOfAddr": 126, 
+      "numOfAddr": 125, 
       "r": 3.462916646023, 
       "sanName": "nokerseweg", 
       "t": 50.890210007292
@@ -1658,7 +1667,7 @@
       "b": 50.881889450318, 
       "l": 3.411441156545, 
       "name": "Pijkstraat", 
-      "numOfAddr": 70, 
+      "numOfAddr": 71, 
       "r": 3.417120115164, 
       "sanName": "pijkstraat", 
       "t": 50.887129941235
@@ -1703,7 +1712,7 @@
       "b": 50.88424432898, 
       "l": 3.424385113035, 
       "name": "Processiestraat", 
-      "numOfAddr": 78, 
+      "numOfAddr": 77, 
       "r": 3.428961269548, 
       "sanName": "processiestraat", 
       "t": 50.888141661315
@@ -1916,7 +1925,7 @@
       "b": 50.887024492774, 
       "l": 3.426469825064, 
       "name": "Stationsstraat", 
-      "numOfAddr": 163, 
+      "numOfAddr": 165, 
       "r": 3.432012765416, 
       "sanName": "stationsstraat", 
       "t": 50.892603360362
@@ -1943,7 +1952,7 @@
       "b": 50.883866662311, 
       "l": 3.42578639334, 
       "name": "Stormestraat", 
-      "numOfAddr": 128, 
+      "numOfAddr": 129, 
       "r": 3.431031231657, 
       "sanName": "stormestraat", 
       "t": 50.886666609281
@@ -1961,7 +1970,7 @@
       "b": 50.881772321592, 
       "l": 3.397389924376, 
       "name": "Tapuitstraat", 
-      "numOfAddr": 80, 
+      "numOfAddr": 78, 
       "otherPCs": [
         "8793"
       ], 
@@ -2228,7 +2237,7 @@
       "b": 50.883203370677, 
       "l": 3.42209592918, 
       "name": "Westerlaan", 
-      "numOfAddr": 76, 
+      "numOfAddr": 77, 
       "r": 3.425161907164, 
       "sanName": "westerlaan", 
       "t": 50.8898392342

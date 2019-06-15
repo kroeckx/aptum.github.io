@@ -101,8 +101,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.983824548383, 
-      "lon": 3.530502663368, 
+      "lat": 50.983828345831, 
+      "lon": 3.530467845547, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -189,8 +189,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.983656087645, 
-      "lon": 3.531488923074, 
+      "lat": 50.983610800394, 
+      "lon": 3.531542425794, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -201,11 +201,23 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 50.983866227422, 
-      "lon": 3.530737905095, 
+      "lat": 50.983839831756, 
+      "lon": 3.530755324405, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kalkhofstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "26A"
+      ], 
+      "housenumber": "26A", 
+      "lat": 50.983862851918, 
+      "lon": 3.530806753272, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kalkhofstraat"
     }, 
     {

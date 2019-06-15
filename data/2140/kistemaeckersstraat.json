@@ -501,12 +501,23 @@
       "street": "Kistemaeckersstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "203", 
+        "301", 
+        "302", 
+        "303", 
+        "304"
+      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.219338272606, 
-      "lon": 4.436018943307, 
+      "lat": 51.219322006914, 
+      "lon": 4.43601319448, 
       "municipality": "Antwerpen", 
       "pcode": "2140", 
       "source": "manueleAanduidingVanIngangVanGebouw", 

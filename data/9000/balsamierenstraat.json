@@ -2,14 +2,14 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-2A"
+        "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.061776966813, 
-      "lon": 3.695416489967, 
+      "lat": 51.061784735414, 
+      "lon": 3.695454608995, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Balsamierenstraat"
     }, 
     {
@@ -98,11 +98,11 @@
     }, 
     {
       "hnrlbls": [
-        "17-17A"
+        "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.061973592603, 
-      "lon": 3.694760742784, 
+      "lat": 51.061960351629, 
+      "lon": 3.694818992874, 
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanGebouw", 
@@ -110,7 +110,7 @@
     }, 
     {
       "hnrlbls": [
-        "17-17A"
+        "17A"
       ], 
       "housenumber": "17A", 
       "lat": 51.061973592603, 

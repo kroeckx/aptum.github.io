@@ -13,34 +13,6 @@
       "street": "Zonnestraat"
     }, 
     {
-      "apptnrs": [
-        "1.1", 
-        "1.2", 
-        "2.1", 
-        "2.2", 
-        "3.1", 
-        "3.2", 
-        "4.1", 
-        "4.2"
-      ], 
-      "busnrs": [
-        "1", 
-        "2", 
-        "3", 
-        "4"
-      ], 
-      "hnrlbls": [
-        "11-22"
-      ], 
-      "housenumber": "11", 
-      "lat": 50.989290298142, 
-      "lon": 5.195763290019, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zonnestraat"
-    }, 
-    {
       "hnrlbls": [
         "12"
       ], 
@@ -139,18 +111,6 @@
       "street": "Zonnestraat"
     }, 
     {
-      "hnrlbls": [
-        "11-22"
-      ], 
-      "housenumber": "20", 
-      "lat": 50.989290298142, 
-      "lon": 5.195763290019, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zonnestraat"
-    }, 
-    {
       "apptnrs": [
         "00.1", 
         "00.2", 
@@ -173,18 +133,6 @@
       "municipality": "Lummen", 
       "pcode": "3560", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Zonnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "11-22"
-      ], 
-      "housenumber": "22", 
-      "lat": 50.989290298142, 
-      "lon": 5.195763290019, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
       "street": "Zonnestraat"
     }, 
     {
@@ -260,27 +208,19 @@
       "street": "Zonnestraat"
     }, 
     {
-      "hnrlbls": [
-        "7-8"
+      "apptnrs": [
+        "00.1", 
+        "01.1"
       ], 
-      "housenumber": "7", 
-      "lat": 50.988324464349, 
-      "lon": 5.196258841383, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zonnestraat"
-    }, 
-    {
       "hnrlbls": [
-        "7-8"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.988324464349, 
-      "lon": 5.196258841383, 
+      "lat": 50.988283742152, 
+      "lon": 5.196220377447, 
       "municipality": "Lummen", 
       "pcode": "3560", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Zonnestraat"
     }, 
     {
@@ -311,18 +251,6 @@
       "municipality": "Lummen", 
       "pcode": "3560", 
       "source": "afgeleidVanGebouw", 
-      "street": "Zonnestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "zn"
-      ], 
-      "housenumber": "zn", 
-      "lat": 50.988418568535, 
-      "lon": 5.195878218136, 
-      "municipality": "Lummen", 
-      "pcode": "3560", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Zonnestraat"
     }
   ]

@@ -330,18 +330,103 @@
     }, 
     {
       "busnrs": [
-        "A000", 
-        "B000", 
-        "C000", 
-        "D000", 
-        "E000", 
-        "F000", 
-        "G000"
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "123"
       ], 
       "housenumber": "123", 
+      "lat": 50.93430868228, 
+      "lon": 3.463498186577, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Grote Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "123A-123G"
+      ], 
+      "housenumber": "123A", 
+      "lat": 50.934195008958, 
+      "lon": 3.463656446965, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "123A-123G"
+      ], 
+      "housenumber": "123B", 
+      "lat": 50.934195008958, 
+      "lon": 3.463656446965, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "123A-123G"
+      ], 
+      "housenumber": "123C", 
+      "lat": 50.934195008958, 
+      "lon": 3.463656446965, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "123A-123G"
+      ], 
+      "housenumber": "123D", 
+      "lat": 50.934195008958, 
+      "lon": 3.463656446965, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "123A-123G"
+      ], 
+      "housenumber": "123E", 
+      "lat": 50.934195008958, 
+      "lon": 3.463656446965, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "123A-123G"
+      ], 
+      "housenumber": "123F", 
+      "lat": 50.934195008958, 
+      "lon": 3.463656446965, 
+      "municipality": "Zulte", 
+      "pcode": "9870", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Steenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "123A-123G"
+      ], 
+      "housenumber": "123G", 
       "lat": 50.934195008958, 
       "lon": 3.463656446965, 
       "municipality": "Zulte", 
@@ -668,8 +753,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.933955665519, 
-      "lon": 3.461587504593, 
+      "lat": 50.933955668811, 
+      "lon": 3.461587931334, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -860,8 +945,8 @@
         "172"
       ], 
       "housenumber": "172", 
-      "lat": 50.932992595025, 
-      "lon": 3.460367835761, 
+      "lat": 50.932956151125, 
+      "lon": 3.460340087808, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1000,8 +1085,8 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 50.932258219215, 
-      "lon": 3.459032394613, 
+      "lat": 50.932247658122, 
+      "lon": 3.459050097564, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 
@@ -1093,26 +1178,26 @@
     }, 
     {
       "hnrlbls": [
-        "193"
+        "193-193A"
       ], 
       "housenumber": "193", 
-      "lat": 50.929891420836, 
-      "lon": 3.456907282014, 
+      "lat": 50.929768925245, 
+      "lon": 3.456657157302, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
       "hnrlbls": [
-        "193A"
+        "193-193A"
       ], 
       "housenumber": "193A", 
-      "lat": 50.929701840011, 
-      "lon": 3.456561869052, 
+      "lat": 50.929768925245, 
+      "lon": 3.456657157302, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -1425,18 +1510,6 @@
     }, 
     {
       "hnrlbls": [
-        "42"
-      ], 
-      "housenumber": "42", 
-      "lat": 50.940575741469, 
-      "lon": 3.471309041416, 
-      "municipality": "Zulte", 
-      "pcode": "9870", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Grote Steenweg"
-    }, 
-    {
-      "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
@@ -1445,18 +1518,6 @@
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanPerceelGrb", 
-      "street": "Grote Steenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "44"
-      ], 
-      "housenumber": "44", 
-      "lat": 50.94052745088, 
-      "lon": 3.471248211671, 
-      "municipality": "Zulte", 
-      "pcode": "9870", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -1536,11 +1597,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.939934322496, 
-      "lon": 3.470121547649, 
+      "lat": 50.939907982321, 
+      "lon": 3.470074528348, 
       "municipality": "Zulte", 
       "pcode": "9870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Grote Steenweg"
     }, 
     {
@@ -1560,8 +1621,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.93973779616, 
-      "lon": 3.469614931778, 
+      "lat": 50.939733317778, 
+      "lon": 3.469605342143, 
       "municipality": "Zulte", 
       "pcode": "9870", 
       "source": "afgeleidVanGebouw", 

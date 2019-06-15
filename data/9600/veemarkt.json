@@ -53,8 +53,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 50.748986209783, 
-      "lon": 3.604771767437, 
+      "lat": 50.748984942045, 
+      "lon": 3.604770370916, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -134,18 +134,6 @@
     }, 
     {
       "hnrlbls": [
-        "21"
-      ], 
-      "housenumber": "21", 
-      "lat": 50.749234676531, 
-      "lon": 3.604630427145, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Veemarkt"
-    }, 
-    {
-      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -173,8 +161,8 @@
         "24"
       ], 
       "housenumber": "24", 
-      "lat": 50.749349435749, 
-      "lon": 3.604595832829, 
+      "lat": 50.749348616547, 
+      "lon": 3.604594287325, 
       "municipality": "Ronse", 
       "pcode": "9600", 
       "source": "manueleAanduidingVanGebouw", 
@@ -263,9 +251,12 @@
     }, 
     {
       "busnrs": [
+        "0001", 
+        "0002", 
         "0101", 
-        "102", 
-        "202"
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "29"
@@ -415,31 +406,7 @@
     }, 
     {
       "hnrlbls": [
-        "5-7"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.748556285534, 
-      "lon": 3.604921572478, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Veemarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "5-7"
-      ], 
-      "housenumber": "6", 
-      "lat": 50.748556285534, 
-      "lon": 3.604921572478, 
-      "municipality": "Ronse", 
-      "pcode": "9600", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Veemarkt"
-    }, 
-    {
-      "hnrlbls": [
-        "5-7"
+        "7"
       ], 
       "housenumber": "7", 
       "lat": 50.748556285534, 

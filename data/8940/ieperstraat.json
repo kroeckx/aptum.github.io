@@ -229,6 +229,16 @@
       "street": "Ieperstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003", 
+        "0101", 
+        "0102", 
+        "0103", 
+        "0201", 
+        "0202"
+      ], 
       "hnrlbls": [
         "114"
       ], 
@@ -633,8 +643,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.813016280726, 
-      "lon": 3.063059146051, 
+      "lat": 50.813277744199, 
+      "lon": 3.063269588678, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -717,8 +727,8 @@
         "141C"
       ], 
       "housenumber": "141C", 
-      "lat": 50.814162096754, 
-      "lon": 3.062664048124, 
+      "lat": 50.814196245983, 
+      "lon": 3.06274328359, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -817,8 +827,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 50.812881744559, 
-      "lon": 3.062120149051, 
+      "lat": 50.812849887284, 
+      "lon": 3.061923916168, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -841,8 +851,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.812983201846, 
-      "lon": 3.062260806797, 
+      "lat": 50.812940254905, 
+      "lon": 3.062182811356, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1165,8 +1175,8 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 50.816066151018, 
-      "lon": 3.054523864393, 
+      "lat": 50.81591571316, 
+      "lon": 3.054602433162, 
       "municipality": "Wervik", 
       "pcode": "8940", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2136,9 +2146,9 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "58A"

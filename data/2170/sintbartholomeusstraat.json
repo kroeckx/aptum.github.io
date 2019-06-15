@@ -827,6 +827,11 @@
       "street": "Sint-Bartholomeusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "22"
       ], 
@@ -1035,11 +1040,11 @@
     }, 
     {
       "hnrlbls": [
-        "40-44"
+        "40"
       ], 
       "housenumber": "40", 
-      "lat": 51.242441783845, 
-      "lon": 4.443960798237, 
+      "lat": 51.242427427175, 
+      "lon": 4.443922397528, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1058,24 +1063,17 @@
       "street": "Sint-Bartholomeusstraat"
     }, 
     {
-      "hnrlbls": [
-        "40-44"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
-      "housenumber": "42", 
-      "lat": 51.242441783845, 
-      "lon": 4.443960798237, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sint-Bartholomeusstraat"
-    }, 
-    {
       "hnrlbls": [
-        "40-44"
+        "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.242441783845, 
-      "lon": 4.443960798237, 
+      "lat": 51.242456230386, 
+      "lon": 4.443999199116, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1725,6 +1723,11 @@
       "street": "Sint-Bartholomeusstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "97"
       ], 

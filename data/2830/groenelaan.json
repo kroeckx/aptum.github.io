@@ -278,7 +278,7 @@
     }, 
     {
       "hnrlbls": [
-        "29-29D"
+        "29"
       ], 
       "housenumber": "29", 
       "lat": 51.062862970976, 
@@ -337,18 +337,6 @@
     }, 
     {
       "hnrlbls": [
-        "29-29D"
-      ], 
-      "housenumber": "29D", 
-      "lat": 51.062862970976, 
-      "lon": 4.363496686818, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groene Laan"
-    }, 
-    {
-      "hnrlbls": [
         "29E"
       ], 
       "housenumber": "29E", 
@@ -385,39 +373,39 @@
     }, 
     {
       "busnrs": [
-        "3/0001", 
-        "3/0002", 
-        "3/0101", 
-        "3/0102", 
-        "3/0201", 
-        "3/0202"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
       ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.060873353446, 
-      "lon": 4.363201609327, 
+      "lat": 51.060888631847, 
+      "lon": 4.3631352786, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groene Laan"
     }, 
     {
       "hnrlbls": [
-        "30"
+        "30-30A"
       ], 
       "housenumber": "30", 
-      "lat": 51.063292190735, 
-      "lon": 4.363481238681, 
+      "lat": 51.063721410423, 
+      "lon": 4.363465647608, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groene Laan"
     }, 
     {
       "hnrlbls": [
-        "30A"
+        "30-30A"
       ], 
       "housenumber": "30A", 
       "lat": 51.063721410423, 
@@ -624,18 +612,6 @@
     }, 
     {
       "hnrlbls": [
-        "3A"
-      ], 
-      "housenumber": "3A", 
-      "lat": 51.060888631847, 
-      "lon": 4.3631352786, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groene Laan"
-    }, 
-    {
-      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -648,35 +624,20 @@
     }, 
     {
       "busnrs": [
-        "301"
-      ], 
-      "hnrlbls": [
-        "41-42"
-      ], 
-      "housenumber": "41A", 
-      "lat": 51.06507569014, 
-      "lon": 4.36376922939, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Groene Laan"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "101", 
         "201", 
         "202"
       ], 
       "hnrlbls": [
-        "41-42"
+        "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.06507569014, 
-      "lon": 4.36376922939, 
+      "lat": 51.065039732298, 
+      "lon": 4.36370831859, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groene Laan"
     }, 
     {
@@ -846,14 +807,31 @@
     }, 
     {
       "hnrlbls": [
-        "59"
+        "59-59A"
       ], 
       "housenumber": "59", 
-      "lat": 51.067078071344, 
-      "lon": 4.364176203588, 
+      "lat": 51.06732292819, 
+      "lon": 4.364156210448, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Groene Laan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "59-59A"
+      ], 
+      "housenumber": "59A", 
+      "lat": 51.06732292819, 
+      "lon": 4.364156210448, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groene Laan"
     }, 
     {
@@ -994,18 +972,17 @@
         "101", 
         "102", 
         "2", 
-        "201", 
-        "202"
+        "201"
       ], 
       "hnrlbls": [
-        "74-76"
+        "74"
       ], 
       "housenumber": "74", 
-      "lat": 51.068302629236, 
-      "lon": 4.364203493769, 
+      "lat": 51.068205908819, 
+      "lon": 4.364205356397, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groene Laan"
     }, 
     {
@@ -1018,14 +995,14 @@
         "202"
       ], 
       "hnrlbls": [
-        "74-76"
+        "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.068302629236, 
-      "lon": 4.364203493769, 
+      "lat": 51.068465060301, 
+      "lon": 4.364258692279, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Groene Laan"
     }, 
     {

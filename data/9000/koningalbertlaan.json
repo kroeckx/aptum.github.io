@@ -175,6 +175,9 @@
         "0201", 
         "0301"
       ], 
+      "busnrs": [
+        "0302"
+      ], 
       "hnrlbls": [
         "112"
       ], 
@@ -239,11 +242,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.040929676751, 
-      "lon": 3.709912571725, 
+      "lat": 51.040894023786, 
+      "lon": 3.709918776526, 
       "municipality": "Gent", 
       "pcode": "9000", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertlaan"
     }, 
     {
@@ -256,6 +259,23 @@
       "municipality": "Gent", 
       "pcode": "9000", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Koning Albertlaan"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
+      "hnrlbls": [
+        "119"
+      ], 
+      "housenumber": "119", 
+      "lat": 51.040952526975, 
+      "lon": 3.709915672567, 
+      "municipality": "Gent", 
+      "pcode": "9000", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koning Albertlaan"
     }, 
     {

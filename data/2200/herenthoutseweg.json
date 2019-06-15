@@ -339,8 +339,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.174012018753, 
-      "lon": 4.834826858321, 
+      "lat": 51.174011182677, 
+      "lon": 4.834833713567, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -636,14 +636,26 @@
     }, 
     {
       "hnrlbls": [
-        "143"
+        "143A"
       ], 
-      "housenumber": "143", 
-      "lat": 51.164830262471, 
-      "lon": 4.824555043652, 
+      "housenumber": "143A", 
+      "lat": 51.164840987966, 
+      "lon": 4.824547571457, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Herenthoutseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "143B"
+      ], 
+      "housenumber": "143B", 
+      "lat": 51.164798400406, 
+      "lon": 4.824496117066, 
+      "municipality": "Herentals", 
+      "pcode": "2200", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Herenthoutseweg"
     }, 
     {
@@ -663,8 +675,8 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 51.164603352045, 
-      "lon": 4.824401141242, 
+      "lat": 51.164601359679, 
+      "lon": 4.824404981764, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1396,11 +1408,11 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.157519406193, 
-      "lon": 4.810056377462, 
+      "lat": 51.157488986596, 
+      "lon": 4.810426449486, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Herenthoutseweg"
     }, 
     {
@@ -1420,11 +1432,11 @@
         "214"
       ], 
       "housenumber": "214", 
-      "lat": 51.156240839763, 
-      "lon": 4.806562041015, 
+      "lat": 51.156238700052, 
+      "lon": 4.806557303997, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Herenthoutseweg"
     }, 
     {
@@ -1677,8 +1689,8 @@
         "253"
       ], 
       "housenumber": "253", 
-      "lat": 51.155310231419, 
-      "lon": 4.80844617992, 
+      "lat": 51.155312117394, 
+      "lon": 4.80844662651, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1868,8 +1880,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.173056131555, 
-      "lon": 4.834218890796, 
+      "lat": 51.173056555015, 
+      "lon": 4.834225472515, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -1999,8 +2011,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.172818700883, 
-      "lon": 4.833978015305, 
+      "lat": 51.172819786256, 
+      "lon": 4.833976310281, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2175,8 +2187,8 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.172696099298, 
-      "lon": 4.833338351047, 
+      "lat": 51.172698792994, 
+      "lon": 4.833339092837, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -2289,8 +2301,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.172559040481, 
-      "lon": 4.833173693262, 
+      "lat": 51.17255314342, 
+      "lon": 4.833187504273, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 

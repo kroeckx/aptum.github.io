@@ -1837,6 +1837,18 @@
     }, 
     {
       "hnrlbls": [
+        "24"
+      ], 
+      "housenumber": "24", 
+      "lat": 51.045383105023, 
+      "lon": 3.756984379047, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "240-242"
       ], 
       "housenumber": "240", 
@@ -2164,11 +2176,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.045204064178, 
-      "lon": 3.75709323899, 
+      "lat": 51.045218151523, 
+      "lon": 3.757140255834, 
       "municipality": "Gent", 
       "pcode": "9050", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2229,6 +2241,30 @@
       "municipality": "Gent", 
       "pcode": "9050", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27A"
+      ], 
+      "housenumber": "27A", 
+      "lat": 51.045207843853, 
+      "lon": 3.757094045255, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 51.045197992995, 
+      "lon": 3.757049254736, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kerkstraat"
     }, 
     {
@@ -2408,7 +2444,9 @@
         "0201", 
         "0202", 
         "0203", 
-        "0204"
+        "0204", 
+        "0301", 
+        "0302"
       ], 
       "hnrlbls": [
         "4"
@@ -2480,6 +2518,22 @@
       "housenumber": "44", 
       "lat": 51.045226522244, 
       "lon": 3.756293670462, 
+      "municipality": "Gent", 
+      "pcode": "9050", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Kerkstraat"
+    }, 
+    {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 51.044999673918, 
+      "lon": 3.7564226936, 
       "municipality": "Gent", 
       "pcode": "9050", 
       "source": "manueleAanduidingVanPerceel", 

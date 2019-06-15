@@ -113,11 +113,11 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.107430035434, 
-      "lon": 3.973294124569, 
+      "lat": 51.107265753823, 
+      "lon": 3.973439012784, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -245,6 +245,46 @@
       "street": "Hoogstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
+      "hnrlbls": [
+        "11A"
+      ], 
+      "housenumber": "11A", 
+      "lat": 51.107314008636, 
+      "lon": 3.973380633879, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "11B"
+      ], 
+      "housenumber": "11B", 
+      "lat": 51.107359773359, 
+      "lon": 3.97333027196, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "11C"
+      ], 
+      "housenumber": "11C", 
+      "lat": 51.107416217817, 
+      "lon": 3.973274822189, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
       "hnrlbls": [
         "120"
       ], 
@@ -311,6 +351,18 @@
       "housenumber": "125", 
       "lat": 51.105669252461, 
       "lon": 3.962108314669, 
+      "municipality": "Lokeren", 
+      "pcode": "9160", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "126"
+      ], 
+      "housenumber": "126", 
+      "lat": 51.105313385822, 
+      "lon": 3.96388931417, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -429,11 +481,11 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.10509960415, 
-      "lon": 3.962337284044, 
+      "lat": 51.104988048226, 
+      "lon": 3.962310124616, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -453,8 +505,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.105041415219, 
-      "lon": 3.962328365596, 
+      "lat": 51.105046634525, 
+      "lon": 3.962330033657, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -1280,8 +1332,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.107546112368, 
-      "lon": 3.972096440355, 
+      "lat": 51.107538913306, 
+      "lon": 3.972094073948, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1364,11 +1416,11 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.106648333566, 
-      "lon": 3.97173137654, 
+      "lat": 51.106768318354, 
+      "lon": 3.971672816722, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1472,8 +1524,8 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.106445492035, 
-      "lon": 3.971314880944, 
+      "lat": 51.106445493476, 
+      "lon": 3.971315309285, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -1496,8 +1548,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.10642179012, 
-      "lon": 3.971216560948, 
+      "lat": 51.106422060741, 
+      "lon": 3.971216844219, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 
@@ -1753,11 +1805,11 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 51.106169872465, 
-      "lon": 3.967003443548, 
+      "lat": 51.10621856252, 
+      "lon": 3.967073989309, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1765,11 +1817,11 @@
         "89A"
       ], 
       "housenumber": "89A", 
-      "lat": 51.106168308149, 
-      "lon": 3.966913503319, 
+      "lat": 51.10621461557, 
+      "lon": 3.966970647759, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1822,14 +1874,14 @@
     }, 
     {
       "hnrlbls": [
-        "91"
+        "91A"
       ], 
-      "housenumber": "91", 
-      "lat": 51.106949703429, 
-      "lon": 3.966355929267, 
+      "housenumber": "91A", 
+      "lat": 51.106156873122, 
+      "lon": 3.966485250832, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1861,8 +1913,8 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 51.106172361187, 
-      "lon": 3.965833739027, 
+      "lat": 51.106087415367, 
+      "lon": 3.965938987369, 
       "municipality": "Lokeren", 
       "pcode": "9160", 
       "source": "afgeleidVanGebouw", 

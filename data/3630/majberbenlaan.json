@@ -202,12 +202,12 @@
     }, 
     {
       "apptnrs": [
-        "0.2", 
         "0L", 
         "0R", 
         "1L", 
         "1R", 
-        "2"
+        "2L", 
+        "2R"
       ], 
       "hnrlbls": [
         "25"
@@ -497,28 +497,12 @@
       "street": "Maj.Berbenlaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "46"
       ], 
       "housenumber": "46", 
       "lat": 50.979193501757, 
       "lon": 5.686399832244, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Maj.Berbenlaan"
-    }, 
-    {
-      "hnrlbls": [
-        "46A"
-      ], 
-      "housenumber": "46A", 
-      "lat": 50.979202389759, 
-      "lon": 5.686320755893, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 

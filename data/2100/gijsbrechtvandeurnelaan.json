@@ -66,6 +66,11 @@
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -274,32 +279,19 @@
         "1", 
         "2", 
         "3", 
-        "32", 
         "4", 
         "5", 
         "6"
       ], 
       "hnrlbls": [
-        "30-32"
+        "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.232187146598, 
-      "lon": 4.46303620979, 
+      "lat": 51.232199057617, 
+      "lon": 4.463090351413, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Gijsbrecht van Deurnelaan"
-    }, 
-    {
-      "hnrlbls": [
-        "30-32"
-      ], 
-      "housenumber": "32", 
-      "lat": 51.232187146598, 
-      "lon": 4.46303620979, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
@@ -315,9 +307,6 @@
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "34"
       ], 
@@ -408,14 +397,14 @@
         "3"
       ], 
       "hnrlbls": [
-        "45-51"
+        "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.232655223083, 
-      "lon": 4.463639904993, 
+      "lat": 51.232598647242, 
+      "lon": 4.463465695687, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
@@ -435,18 +424,10 @@
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
-      "hnrlbls": [
-        "45-51"
+      "apptnrs": [
+        "101", 
+        "201"
       ], 
-      "housenumber": "47", 
-      "lat": 51.232655223083, 
-      "lon": 4.463639904993, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gijsbrecht van Deurnelaan"
-    }, 
-    {
       "hnrlbls": [
         "48"
       ], 
@@ -468,21 +449,20 @@
         "3", 
         "4", 
         "5", 
-        "51", 
         "6", 
         "7", 
         "8", 
         "9"
       ], 
       "hnrlbls": [
-        "45-51"
+        "49"
       ], 
       "housenumber": "49", 
-      "lat": 51.232655223083, 
-      "lon": 4.463639904993, 
+      "lat": 51.232604770737, 
+      "lon": 4.463674162071, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
@@ -521,15 +501,20 @@
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
-        "45-51"
+        "51"
       ], 
       "housenumber": "51", 
-      "lat": 51.232655223083, 
-      "lon": 4.463639904993, 
+      "lat": 51.232663787499, 
+      "lon": 4.463830623709, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
@@ -598,6 +583,11 @@
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "58"
       ], 
@@ -794,18 +784,6 @@
       "street": "Gijsbrecht van Deurnelaan"
     }, 
     {
-      "hnrlbls": [
-        "75-77"
-      ], 
-      "housenumber": "75", 
-      "lat": 51.231643731383, 
-      "lon": 4.466635725169, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Gijsbrecht van Deurnelaan"
-    }, 
-    {
       "apptnrs": [
         "101", 
         "102", 
@@ -834,7 +812,7 @@
         "701"
       ], 
       "hnrlbls": [
-        "75-77"
+        "77"
       ], 
       "housenumber": "77", 
       "lat": 51.231643731383, 

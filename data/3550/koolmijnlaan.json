@@ -330,8 +330,8 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.039626772099, 
-      "lon": 5.300159494054, 
+      "lat": 51.039581255191, 
+      "lon": 5.300265387321, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -706,13 +706,10 @@
       "street": "Koolmijnlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "150"
+        "150_1"
       ], 
-      "housenumber": "150", 
+      "housenumber": "150_1", 
       "lat": 51.040289158834, 
       "lon": 5.303670603484, 
       "municipality": "Heusden-Zolder", 
@@ -2005,11 +2002,11 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.037976649347, 
-      "lon": 5.296138401593, 
+      "lat": 51.037607435227, 
+      "lon": 5.296378891834, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Koolmijnlaan"
     }, 
     {
@@ -2322,21 +2319,6 @@
       "housenumber": "308", 
       "lat": 51.040884145831, 
       "lon": 5.317079470844, 
-      "municipality": "Heusden-Zolder", 
-      "pcode": "3550", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Koolmijnlaan"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 51.038494603824, 
-      "lon": 5.29472680112, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "afgeleidVanGebouw", 
@@ -2777,11 +2759,11 @@
     }, 
     {
       "hnrlbls": [
-        "389"
+        "389_1"
       ], 
-      "housenumber": "389", 
-      "lat": 51.0373189609, 
-      "lon": 5.331323555935, 
+      "housenumber": "389_1", 
+      "lat": 51.037438930055, 
+      "lon": 5.33142782943, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2789,11 +2771,11 @@
     }, 
     {
       "hnrlbls": [
-        "389_1"
+        "389_11"
       ], 
-      "housenumber": "389_1", 
-      "lat": 51.037438930055, 
-      "lon": 5.33142782943, 
+      "housenumber": "389_11", 
+      "lat": 51.0373189609, 
+      "lon": 5.331323555935, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -2941,8 +2923,8 @@
         "399"
       ], 
       "housenumber": "399", 
-      "lat": 51.03700200268, 
-      "lon": 5.332463397403, 
+      "lat": 51.037044664177, 
+      "lon": 5.332325543351, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -3136,18 +3118,27 @@
       "street": "Koolmijnlaan"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "416"
       ], 
       "housenumber": "416", 
-      "lat": 51.035867699506, 
-      "lon": 5.334489176784, 
+      "lat": 51.035962258237, 
+      "lon": 5.334414135982, 
       "municipality": "Heusden-Zolder", 
       "pcode": "3550", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Koolmijnlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "416_1"
+      ], 
+      "housenumber": "416_1", 
+      "lat": 51.035897050628, 
+      "lon": 5.334648045658, 
+      "municipality": "Heusden-Zolder", 
+      "pcode": "3550", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koolmijnlaan"
     }, 
     {

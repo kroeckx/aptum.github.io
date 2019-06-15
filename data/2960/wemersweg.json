@@ -2,11 +2,23 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.352674750358, 
+      "lon": 4.640512439566, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Wemersweg"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.353001480397, 
-      "lon": 4.639446413459, 
+      "lat": 51.353019049906, 
+      "lon": 4.639466898763, 
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
@@ -113,6 +125,25 @@
       "municipality": "Brecht", 
       "pcode": "2960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Wemersweg"
+    }, 
+    {
+      "apptnrs": [
+        "1V1", 
+        "1V2", 
+        "2V", 
+        "GV1", 
+        "GV2"
+      ], 
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.352740749465, 
+      "lon": 4.640265651091, 
+      "municipality": "Brecht", 
+      "pcode": "2960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Wemersweg"
     }, 
     {

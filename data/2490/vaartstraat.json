@@ -635,6 +635,18 @@
     }, 
     {
       "hnrlbls": [
+        "158"
+      ], 
+      "housenumber": "158", 
+      "lat": 51.173375641102, 
+      "lon": 5.154692032, 
+      "municipality": "Balen", 
+      "pcode": "2490", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Vaartstraat"
+    }, 
+    {
+      "hnrlbls": [
         "159"
       ], 
       "housenumber": "159", 
@@ -666,6 +678,18 @@
     }, 
     {
       "hnrlbls": [
+        "160"
+      ], 
+      "housenumber": "160", 
+      "lat": 51.173714704501, 
+      "lon": 5.154395595654, 
+      "municipality": "Balen", 
+      "pcode": "2490", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Vaartstraat"
+    }, 
+    {
+      "hnrlbls": [
         "161"
       ], 
       "housenumber": "161", 
@@ -681,11 +705,11 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 51.17355684031, 
-      "lon": 5.1545330718, 
+      "lat": 51.17346940985, 
+      "lon": 5.154676595885, 
       "municipality": "Balen", 
       "pcode": "2490", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vaartstraat"
     }, 
     {
@@ -1079,31 +1103,6 @@
     {
       "busnrs": [
         "1", 
-        "10", 
-        "11", 
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6", 
-        "7", 
-        "8", 
-        "9"
-      ], 
-      "hnrlbls": [
-        "36"
-      ], 
-      "housenumber": "36", 
-      "lat": 51.171594775854, 
-      "lon": 5.165236109846, 
-      "municipality": "Balen", 
-      "pcode": "2490", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Vaartstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
         "2"
       ], 
       "hnrlbls": [
@@ -1115,22 +1114,6 @@
       "municipality": "Balen", 
       "pcode": "2490", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Vaartstraat"
-    }, 
-    {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
-      "hnrlbls": [
-        "38"
-      ], 
-      "housenumber": "38", 
-      "lat": 51.171616123055, 
-      "lon": 5.165069891194, 
-      "municipality": "Balen", 
-      "pcode": "2490", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Vaartstraat"
     }, 
     {
@@ -1358,7 +1341,8 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "2"
       ], 
       "hnrlbls": [
         "6"

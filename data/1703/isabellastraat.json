@@ -85,6 +85,10 @@
       "street": "Isabellastraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "17A"
       ], 
@@ -618,11 +622,11 @@
         "52A"
       ], 
       "housenumber": "52A", 
-      "lat": 50.826988976437, 
-      "lon": 4.21236873566, 
+      "lat": 50.826995479253, 
+      "lon": 4.212391565533, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Isabellastraat"
     }, 
     {
@@ -640,11 +644,11 @@
         "52B"
       ], 
       "housenumber": "52B", 
-      "lat": 50.827040869964, 
-      "lon": 4.212521994842, 
+      "lat": 50.827036843878, 
+      "lon": 4.212536485456, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Isabellastraat"
     }, 
     {
@@ -663,11 +667,11 @@
         "52C"
       ], 
       "housenumber": "52C", 
-      "lat": 50.827090180097, 
-      "lon": 4.212557599236, 
+      "lat": 50.827086251055, 
+      "lon": 4.21257748305, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Isabellastraat"
     }, 
     {
@@ -879,23 +883,11 @@
         "70A"
       ], 
       "housenumber": "70A", 
-      "lat": 50.82697739779, 
-      "lon": 4.21518290158, 
+      "lat": 50.827080789476, 
+      "lon": 4.215122811081, 
       "municipality": "Dilbeek", 
       "pcode": "1703", 
       "source": "afgeleidVanGebouw", 
-      "street": "Isabellastraat"
-    }, 
-    {
-      "hnrlbls": [
-        "72-74"
-      ], 
-      "housenumber": "72", 
-      "lat": 50.827268031794, 
-      "lon": 4.215459581593, 
-      "municipality": "Dilbeek", 
-      "pcode": "1703", 
-      "source": "afgeleidVanPerceelGrb", 
       "street": "Isabellastraat"
     }, 
     {
@@ -912,7 +904,7 @@
     }, 
     {
       "hnrlbls": [
-        "72-74"
+        "74"
       ], 
       "housenumber": "74", 
       "lat": 50.827268031794, 

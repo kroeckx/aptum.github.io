@@ -1090,11 +1090,11 @@
         "204"
       ], 
       "housenumber": "204", 
-      "lat": 51.214626417068, 
-      "lon": 5.314533409119, 
+      "lat": 51.214622256506, 
+      "lon": 5.314514145905, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Einde"
     }, 
     {
@@ -1934,7 +1934,7 @@
       "lon": 5.319372114766, 
       "municipality": "Lommel", 
       "pcode": "3920", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Einde"
     }
   ]

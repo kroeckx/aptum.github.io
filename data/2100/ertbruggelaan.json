@@ -133,6 +133,10 @@
       "street": "Ertbruggelaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "18"
       ], 
@@ -159,8 +163,8 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 51.225848907069, 
-      "lon": 4.48627384792, 
+      "lat": 51.225847287304, 
+      "lon": 4.486275704739, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -219,8 +223,8 @@
         "210"
       ], 
       "housenumber": "210", 
-      "lat": 51.226217869765, 
-      "lon": 4.487802759146, 
+      "lat": 51.226216164152, 
+      "lon": 4.487800607526, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -263,6 +267,10 @@
       "street": "Ertbruggelaan"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "24"
       ], 
@@ -303,9 +311,9 @@
       "street": "Ertbruggelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
         "27"

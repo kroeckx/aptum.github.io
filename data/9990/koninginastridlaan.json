@@ -17,11 +17,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.203397110497, 
-      "lon": 3.449559950803, 
+      "lat": 51.203378646286, 
+      "lon": 3.44946272702, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koningin Astridlaan"
     }, 
     {
@@ -995,11 +995,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.204114089956, 
-      "lon": 3.447654152065, 
+      "lat": 51.204213725534, 
+      "lon": 3.447658768209, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Koningin Astridlaan"
     }, 
     {
@@ -1072,11 +1072,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.20333120144, 
-      "lon": 3.449638517191, 
+      "lat": 51.203406609978, 
+      "lon": 3.449799153441, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningin Astridlaan"
     }, 
     {
@@ -1084,11 +1084,11 @@
         "8A"
       ], 
       "housenumber": "8A", 
-      "lat": 51.203310448276, 
-      "lon": 3.449478092904, 
+      "lat": 51.203412059806, 
+      "lon": 3.449609737957, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Koningin Astridlaan"
     }, 
     {

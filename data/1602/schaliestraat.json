@@ -23,14 +23,14 @@
         "7"
       ], 
       "hnrlbls": [
-        "9-13"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 50.806959375397, 
-      "lon": 4.232129782166, 
+      "lat": 50.806878996354, 
+      "lon": 4.232197120522, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1602", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schaliestraat"
     }, 
     {
@@ -42,14 +42,14 @@
         "5"
       ], 
       "hnrlbls": [
-        "9-13"
+        "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.806959375397, 
-      "lon": 4.232129782166, 
+      "lat": 50.806982839983, 
+      "lon": 4.232208738035, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1602", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schaliestraat"
     }, 
     {
@@ -101,8 +101,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.806918814518, 
-      "lon": 4.231187859116, 
+      "lat": 50.806916019789, 
+      "lon": 4.231181057318, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1602", 
       "source": "afgeleidVanGebouw", 
@@ -210,11 +210,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 50.805681784224, 
-      "lon": 4.232608027802, 
+      "lat": 50.805712996996, 
+      "lon": 4.232546508278, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1602", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schaliestraat"
     }, 
     {
@@ -235,6 +235,18 @@
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1602", 
       "source": "afgeleidVanPerceelGrb", 
+      "street": "Schaliestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "32"
+      ], 
+      "housenumber": "32", 
+      "lat": 50.805698768183, 
+      "lon": 4.232758077204, 
+      "municipality": "Sint-Pieters-Leeuw", 
+      "pcode": "1602", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schaliestraat"
     }, 
     {
@@ -305,14 +317,14 @@
     }, 
     {
       "hnrlbls": [
-        "9-13"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.806959375397, 
-      "lon": 4.232129782166, 
+      "lat": 50.806913457685, 
+      "lon": 4.232068909223, 
       "municipality": "Sint-Pieters-Leeuw", 
       "pcode": "1602", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Schaliestraat"
     }
   ]

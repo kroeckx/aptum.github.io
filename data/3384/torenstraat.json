@@ -29,8 +29,8 @@
         "10B"
       ], 
       "housenumber": "10B", 
-      "lat": 50.855510542677, 
-      "lon": 4.920923879329, 
+      "lat": 50.855530827585, 
+      "lon": 4.921140420438, 
       "municipality": "Glabbeek", 
       "pcode": "3384", 
       "source": "afgeleidVanGebouw", 
@@ -386,8 +386,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.860949939263, 
-      "lon": 4.924938725237, 
+      "lat": 50.860951476812, 
+      "lon": 4.924823122574, 
       "municipality": "Glabbeek", 
       "pcode": "3384", 
       "source": "afgeleidVanGebouw", 
@@ -554,8 +554,8 @@
         "40B"
       ], 
       "housenumber": "40B", 
-      "lat": 50.85983933647, 
-      "lon": 4.923462015173, 
+      "lat": 50.85983923044, 
+      "lon": 4.923465422808, 
       "municipality": "Glabbeek", 
       "pcode": "3384", 
       "source": "afgeleidVanGebouw", 
@@ -734,8 +734,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.863031863364, 
-      "lon": 4.924181998773, 
+      "lat": 50.863033474017, 
+      "lon": 4.924183580348, 
       "municipality": "Glabbeek", 
       "pcode": "3384", 
       "source": "afgeleidVanGebouw", 
@@ -1310,38 +1310,50 @@
     }, 
     {
       "hnrlbls": [
-        "78-78B"
+        "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.87915745442, 
-      "lon": 4.924002036102, 
+      "lat": 50.879029342029, 
+      "lon": 4.924155829793, 
       "municipality": "Glabbeek", 
       "pcode": "3384", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torenstraat"
     }, 
     {
       "hnrlbls": [
-        "78-78B"
+        "78A"
       ], 
       "housenumber": "78A", 
-      "lat": 50.87915745442, 
-      "lon": 4.924002036102, 
+      "lat": 50.879093945905, 
+      "lon": 4.924124623155, 
       "municipality": "Glabbeek", 
       "pcode": "3384", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torenstraat"
     }, 
     {
       "hnrlbls": [
-        "78-78B"
+        "78B"
       ], 
       "housenumber": "78B", 
-      "lat": 50.87915745442, 
-      "lon": 4.924002036102, 
+      "lat": 50.879230945204, 
+      "lon": 4.924030472419, 
       "municipality": "Glabbeek", 
       "pcode": "3384", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Torenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "78E"
+      ], 
+      "housenumber": "78E", 
+      "lat": 50.879506155063, 
+      "lon": 4.923890070148, 
+      "municipality": "Glabbeek", 
+      "pcode": "3384", 
+      "source": "afgeleidVanGebouw", 
       "street": "Torenstraat"
     }, 
     {

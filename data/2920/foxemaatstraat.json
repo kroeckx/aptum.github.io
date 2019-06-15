@@ -316,8 +316,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.379022044904, 
-      "lon": 4.476253512302, 
+      "lat": 51.37901889656, 
+      "lon": 4.476256377371, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanPerceelGrb", 
@@ -428,7 +428,7 @@
       "lon": 4.476570031568, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Foxemaatstraat"
     }, 
     {
@@ -448,11 +448,11 @@
         "28"
       ], 
       "housenumber": "28", 
-      "lat": 51.37933365724, 
-      "lon": 4.476739533117, 
+      "lat": 51.379203853216, 
+      "lon": 4.476859583544, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Foxemaatstraat"
     }, 
     {
@@ -484,11 +484,11 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.379367587507, 
-      "lon": 4.476787151051, 
+      "lat": 51.379228492547, 
+      "lon": 4.476943659311, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Foxemaatstraat"
     }, 
     {
@@ -685,6 +685,18 @@
     }, 
     {
       "hnrlbls": [
+        "49"
+      ], 
+      "housenumber": "49", 
+      "lat": 51.38121002792, 
+      "lon": 4.482301703528, 
+      "municipality": "Kalmthout", 
+      "pcode": "2920", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Foxemaatstraat"
+    }, 
+    {
+      "hnrlbls": [
         "5"
       ], 
       "housenumber": "5", 
@@ -846,6 +858,18 @@
       "housenumber": "62", 
       "lat": 51.379906350214, 
       "lon": 4.479079912509, 
+      "municipality": "Kalmthout", 
+      "pcode": "2920", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Foxemaatstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "63"
+      ], 
+      "housenumber": "63", 
+      "lat": 51.381809412558, 
+      "lon": 4.483612926789, 
       "municipality": "Kalmthout", 
       "pcode": "2920", 
       "source": "afgeleidVanGebouw", 

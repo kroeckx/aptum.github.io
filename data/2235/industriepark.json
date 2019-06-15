@@ -61,6 +61,9 @@
       "street": "Industriepark"
     }, 
     {
+      "apptnrs": [
+        "1/1"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -349,18 +352,6 @@
       "street": "Industriepark"
     }, 
     {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.083451087303, 
-      "lon": 4.804993138783, 
-      "municipality": "Hulshout", 
-      "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Industriepark"
-    }, 
-    {
       "apptnrs": [
         "0/1", 
         "0/2", 
@@ -390,18 +381,6 @@
       "municipality": "Hulshout", 
       "pcode": "2235", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Industriepark"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.084164707483, 
-      "lon": 4.806812737252, 
-      "municipality": "Hulshout", 
-      "pcode": "2235", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Industriepark"
     }
   ]

@@ -79,9 +79,12 @@
       "apptnrs": [
         "1-01", 
         "1-02", 
+        "1-03", 
         "2-01", 
         "2-02", 
-        "3-01"
+        "2-03", 
+        "3-01", 
+        "3-02"
       ], 
       "busnrs": [
         "0"
@@ -171,14 +174,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-12"
+        "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.208469558615, 
-      "lon": 3.448100121115, 
+      "lat": 51.208454581752, 
+      "lon": 3.448000671933, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -194,6 +197,10 @@
       "street": "Stationsstraat"
     }, 
     {
+      "apptnrs": [
+        "1-01", 
+        "2-01"
+      ], 
       "hnrlbls": [
         "13-15"
       ], 
@@ -218,8 +225,8 @@
         "13-18"
       ], 
       "housenumber": "16", 
-      "lat": 51.208002991473, 
-      "lon": 3.448350168608, 
+      "lat": 51.208005590126, 
+      "lon": 3.448349115634, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -249,8 +256,8 @@
         "13-18"
       ], 
       "housenumber": "18", 
-      "lat": 51.208002991473, 
-      "lon": 3.448350168608, 
+      "lat": 51.208005590126, 
+      "lon": 3.448349115634, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanPerceelGrb", 
@@ -261,11 +268,23 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.207888909113, 
-      "lon": 3.447690562887, 
+      "lat": 51.207927717284, 
+      "lon": 3.447906742705, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stationsstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "19A"
+      ], 
+      "housenumber": "19A", 
+      "lat": 51.207886240696, 
+      "lon": 3.447913571369, 
+      "municipality": "Maldegem", 
+      "pcode": "9990", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stationsstraat"
     }, 
     {
@@ -980,18 +999,6 @@
       "housenumber": "79", 
       "lat": 51.204993584967, 
       "lon": 3.449467983012, 
-      "municipality": "Maldegem", 
-      "pcode": "9990", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Stationsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8-12"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.208469558615, 
-      "lon": 3.448100121115, 
       "municipality": "Maldegem", 
       "pcode": "9990", 
       "source": "afgeleidVanGebouw", 

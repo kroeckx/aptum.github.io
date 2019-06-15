@@ -298,8 +298,8 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.206798607021, 
-      "lon": 4.429475358395, 
+      "lat": 51.206793664944, 
+      "lon": 4.429472347007, 
       "municipality": "Antwerpen", 
       "pcode": "2018", 
       "source": "afgeleidVanGebouw", 
@@ -354,9 +354,11 @@
       "street": "Dageraadplaats"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "31"

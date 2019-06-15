@@ -876,14 +876,14 @@
     }, 
     {
       "hnrlbls": [
-        "48"
+        "48-50"
       ], 
       "housenumber": "48", 
-      "lat": 50.901662917384, 
-      "lon": 3.99915600792, 
+      "lat": 50.901452531381, 
+      "lon": 3.999288875248, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Achterstraat"
     }, 
     {
@@ -912,14 +912,14 @@
     }, 
     {
       "hnrlbls": [
-        "50"
+        "48-50"
       ], 
       "housenumber": "50", 
       "lat": 50.901452531381, 
       "lon": 3.999288875248, 
       "municipality": "Haaltert", 
       "pcode": "9450", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Achterstraat"
     }, 
     {
@@ -1105,6 +1105,18 @@
       "municipality": "Haaltert", 
       "pcode": "9450", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Achterstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "67A"
+      ], 
+      "housenumber": "67A", 
+      "lat": 50.901025696453, 
+      "lon": 3.999026816075, 
+      "municipality": "Haaltert", 
+      "pcode": "9450", 
+      "source": "afgeleidVanGebouw", 
       "street": "Achterstraat"
     }, 
     {

@@ -153,11 +153,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.146724172101, 
-      "lon": 5.611449230885, 
+      "lat": 51.146740082971, 
+      "lon": 5.61147495234, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Veeweidestraat"
     }, 
     {
@@ -177,8 +177,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.148289152301, 
-      "lon": 5.609363240974, 
+      "lat": 51.148294173212, 
+      "lon": 5.60936451788, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -417,8 +417,8 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.15212877517, 
-      "lon": 5.606225963418, 
+      "lat": 51.152133427565, 
+      "lon": 5.606236664483, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -650,6 +650,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Veeweidestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 51.147561416138, 
+      "lon": 5.610927110374, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Veeweidestraat"
     }, 
     {

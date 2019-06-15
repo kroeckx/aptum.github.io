@@ -2,7 +2,7 @@
   "addresses": [
     {
       "hnrlbls": [
-        "1-1A"
+        "1"
       ], 
       "housenumber": "1", 
       "lat": 51.001558633541, 
@@ -137,11 +137,11 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.000850036667, 
-      "lon": 3.20983491172, 
+      "lat": 51.000837405647, 
+      "lon": 3.209839498332, 
       "municipality": "Ardooie", 
       "pcode": "8851", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Ardooisestraat"
     }, 
     {
@@ -170,14 +170,14 @@
     }, 
     {
       "hnrlbls": [
-        "1-1A"
+        "1A"
       ], 
       "housenumber": "1A", 
-      "lat": 51.001558633541, 
-      "lon": 3.210162764365, 
+      "lat": 51.001873930959, 
+      "lon": 3.210090854856, 
       "municipality": "Ardooie", 
       "pcode": "8851", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ardooisestraat"
     }, 
     {
@@ -197,8 +197,8 @@
         "20-22"
       ], 
       "housenumber": "22", 
-      "lat": 51.000498983418, 
-      "lon": 3.209936770578, 
+      "lat": 51.0004986253, 
+      "lon": 3.209936921908, 
       "municipality": "Ardooie", 
       "pcode": "8851", 
       "source": "afgeleidVanGebouw", 
@@ -289,8 +289,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.99996707566, 
-      "lon": 3.209977559723, 
+      "lat": 50.999968124624, 
+      "lon": 3.209983660226, 
       "municipality": "Ardooie", 
       "pcode": "8851", 
       "source": "afgeleidVanGebouw", 
@@ -304,8 +304,8 @@
         "38"
       ], 
       "housenumber": "38", 
-      "lat": 50.999699258, 
-      "lon": 3.209922773552, 
+      "lat": 50.999699800084, 
+      "lon": 3.2099230451, 
       "municipality": "Ardooie", 
       "pcode": "8851", 
       "source": "afgeleidVanGebouw", 
@@ -599,8 +599,8 @@
         "86"
       ], 
       "housenumber": "86", 
-      "lat": 50.996814985031, 
-      "lon": 3.208960339416, 
+      "lat": 50.996815246253, 
+      "lon": 3.20895947816, 
       "municipality": "Ardooie", 
       "pcode": "8851", 
       "source": "afgeleidVanGebouw", 

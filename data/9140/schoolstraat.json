@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.127395362488, 
-      "lon": 4.2104799679, 
+      "lat": 51.12747149093, 
+      "lon": 4.210408144847, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -782,11 +782,23 @@
     }, 
     {
       "hnrlbls": [
-        "27"
+        "27A-27B"
       ], 
-      "housenumber": "27", 
-      "lat": 51.127191100914, 
-      "lon": 4.208578518746, 
+      "housenumber": "27A", 
+      "lat": 51.127144997075, 
+      "lon": 4.208584675641, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Schoolstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "27A-27B"
+      ], 
+      "housenumber": "27B", 
+      "lat": 51.127144997075, 
+      "lon": 4.208584675641, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1037,8 +1049,8 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.127224935451, 
-      "lon": 4.208008304226, 
+      "lat": 51.127113047651, 
+      "lon": 4.208024400538, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1135,18 +1147,6 @@
       "housenumber": "49", 
       "lat": 51.127055857953, 
       "lon": 4.20774376188, 
-      "municipality": "Temse", 
-      "pcode": "9140", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Schoolstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.127359970175, 
-      "lon": 4.210362810234, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1378,6 +1378,42 @@
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Schoolstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5A-5C"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.127333104892, 
+      "lon": 4.210371043157, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Schoolstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5A-5C"
+      ], 
+      "housenumber": "5B", 
+      "lat": 51.127333104892, 
+      "lon": 4.210371043157, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Schoolstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5A-5C"
+      ], 
+      "housenumber": "5C", 
+      "lat": 51.127333104892, 
+      "lon": 4.210371043157, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Schoolstraat"
     }, 
     {
@@ -1701,7 +1737,7 @@
       "lon": 4.20672057552, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -1713,7 +1749,7 @@
       "lon": 4.20672057552, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -1725,7 +1761,7 @@
       "lon": 4.20672057552, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -1757,8 +1793,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.127023192811, 
-      "lon": 4.210385373723, 
+      "lat": 51.127150915911, 
+      "lon": 4.210380371635, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 

@@ -143,10 +143,11 @@
     }, 
     {
       "busnrs": [
-        "1"
+        "1", 
+        "101"
       ], 
       "hnrlbls": [
-        "16"
+        "16-16A"
       ], 
       "housenumber": "16", 
       "lat": 51.201785022251, 
@@ -158,14 +159,14 @@
     }, 
     {
       "hnrlbls": [
-        "16A"
+        "16-16A"
       ], 
       "housenumber": "16A", 
-      "lat": 51.201722827354, 
-      "lon": 3.222181537392, 
+      "lat": 51.201785022251, 
+      "lon": 3.222161693808, 
       "municipality": "Brugge", 
       "pcode": "8000", 
-      "source": "manueleAanduidingVanLigplaats", 
+      "source": "afgeleidVanGebouw", 
       "street": "Begijnhof"
     }, 
     {
@@ -258,7 +259,7 @@
     }, 
     {
       "hnrlbls": [
-        "26-28"
+        "26-28A"
       ], 
       "housenumber": "26", 
       "lat": 51.201109819767, 
@@ -270,7 +271,7 @@
     }, 
     {
       "hnrlbls": [
-        "26-28"
+        "26-28A"
       ], 
       "housenumber": "28", 
       "lat": 51.201109819767, 
@@ -282,11 +283,11 @@
     }, 
     {
       "hnrlbls": [
-        "28A"
+        "26-28A"
       ], 
       "housenumber": "28A", 
-      "lat": 51.201279979956, 
-      "lon": 3.221882484283, 
+      "lat": 51.201109819767, 
+      "lon": 3.221930021561, 
       "municipality": "Brugge", 
       "pcode": "8000", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

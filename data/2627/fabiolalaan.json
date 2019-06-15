@@ -1469,18 +1469,6 @@
     }, 
     {
       "hnrlbls": [
-        "90"
-      ], 
-      "housenumber": "90", 
-      "lat": 51.122766951359, 
-      "lon": 4.334866548029, 
-      "municipality": "Schelle", 
-      "pcode": "2627", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Fabiolalaan"
-    }, 
-    {
-      "hnrlbls": [
         "79-91"
       ], 
       "housenumber": "91", 
@@ -1501,6 +1489,46 @@
       "municipality": "Schelle", 
       "pcode": "2627", 
       "source": "afgeleidVanGebouw", 
+      "street": "Fabiolalaan"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "12", 
+        "21", 
+        "22", 
+        "31"
+      ], 
+      "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 51.12280014561, 
+      "lon": 4.334958651294, 
+      "municipality": "Schelle", 
+      "pcode": "2627", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Fabiolalaan"
+    }, 
+    {
+      "apptnrs": [
+        "01", 
+        "02", 
+        "11", 
+        "12", 
+        "21", 
+        "22"
+      ], 
+      "hnrlbls": [
+        "96"
+      ], 
+      "housenumber": "96", 
+      "lat": 51.122650382622, 
+      "lon": 4.334919764285, 
+      "municipality": "Schelle", 
+      "pcode": "2627", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Fabiolalaan"
     }, 
     {

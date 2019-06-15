@@ -85,8 +85,10 @@
       "street": "Handelstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "11"
@@ -695,11 +697,11 @@
         "44-48"
       ], 
       "housenumber": "44", 
-      "lat": 51.223547817406, 
-      "lon": 4.429593182238, 
+      "lat": 51.223591697946, 
+      "lon": 4.429560031412, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Handelstraat"
     }, 
     {
@@ -732,11 +734,11 @@
         "44-48"
       ], 
       "housenumber": "46", 
-      "lat": 51.223547817406, 
-      "lon": 4.429593182238, 
+      "lat": 51.223591697946, 
+      "lon": 4.429560031412, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Handelstraat"
     }, 
     {
@@ -756,11 +758,11 @@
         "44-48"
       ], 
       "housenumber": "48", 
-      "lat": 51.223547817406, 
-      "lon": 4.429593182238, 
+      "lat": 51.223591697946, 
+      "lon": 4.429560031412, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Handelstraat"
     }, 
     {
@@ -832,6 +834,10 @@
       "street": "Handelstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "52"
       ], 
@@ -971,14 +977,14 @@
     }, 
     {
       "hnrlbls": [
-        "61-63"
+        "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.223922828864, 
-      "lon": 4.429561899615, 
+      "lat": 51.223864482039, 
+      "lon": 4.429585441071, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Handelstraat"
     }, 
     {
@@ -1014,14 +1020,14 @@
         "2301"
       ], 
       "hnrlbls": [
-        "61-63"
+        "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.223922828864, 
-      "lon": 4.429561899615, 
+      "lat": 51.223894651674, 
+      "lon": 4.42964560054, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Handelstraat"
     }, 
     {
@@ -1051,11 +1057,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.223992176409, 
-      "lon": 4.429644011652, 
+      "lat": 51.223909713498, 
+      "lon": 4.429719768036, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Handelstraat"
     }, 
     {

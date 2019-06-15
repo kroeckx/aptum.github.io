@@ -181,15 +181,15 @@
       "street": "Industrielaan"
     }, 
     {
-      "apptnrs": [
+      "busnrs": [
         "A"
       ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.149157644117, 
-      "lon": 4.875830138876, 
+      "lat": 51.149196258676, 
+      "lon": 4.875838847879, 
       "municipality": "Olen", 
       "pcode": "2250", 
       "source": "manueleAanduidingVanPerceel", 
@@ -200,8 +200,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.147199061436, 
-      "lon": 4.880449141229, 
+      "lat": 51.147183095431, 
+      "lon": 4.880648325886, 
       "municipality": "Olen", 
       "pcode": "2250", 
       "source": "manueleAanduidingVanPerceel", 
@@ -256,8 +256,10 @@
       "street": "Industrielaan"
     }, 
     {
+      "apptnrs": [
+        "A"
+      ], 
       "busnrs": [
-        "A", 
         "B"
       ], 
       "hnrlbls": [
@@ -320,7 +322,7 @@
       "street": "Industrielaan"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "A"
       ], 
       "hnrlbls": [

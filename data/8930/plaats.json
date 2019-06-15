@@ -17,15 +17,21 @@
       "street": "Plaats"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101", 
+        "0201", 
+        "0301"
+      ], 
       "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.783197231888, 
-      "lon": 3.163499461184, 
+      "lat": 50.783224792429, 
+      "lon": 3.163582855448, 
       "municipality": "Menen", 
       "pcode": "8930", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Plaats"
     }, 
     {
@@ -213,6 +219,7 @@
         "0002", 
         "0101", 
         "0102", 
+        "0201", 
         "0202"
       ], 
       "hnrlbls": [

@@ -5,8 +5,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 50.969675159929, 
-      "lon": 5.50361178692, 
+      "lat": 50.969648081155, 
+      "lon": 5.50371606679, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanGebouw", 
@@ -49,6 +49,25 @@
       "street": "Jan Habexlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU41", 
+        "BU42", 
+        "BU51", 
+        "BU52", 
+        "BU61", 
+        "BU62", 
+        "BU71", 
+        "BU72", 
+        "BU81"
+      ], 
       "hnrlbls": [
         "15"
       ], 
@@ -143,8 +162,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.969632368906, 
-      "lon": 5.503974537186, 
+      "lat": 50.969628874536, 
+      "lon": 5.503973313458, 
       "municipality": "Genk", 
       "pcode": "3600", 
       "source": "afgeleidVanPerceelGrb", 

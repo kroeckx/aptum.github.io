@@ -504,6 +504,10 @@
       "street": "Borsbeeksesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "19"
       ], 
@@ -593,8 +597,8 @@
         "230"
       ], 
       "housenumber": "230", 
-      "lat": 51.194972802731, 
-      "lon": 4.473676006596, 
+      "lat": 51.194977295303, 
+      "lon": 4.473677876461, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanPerceelGrb", 
@@ -649,6 +653,10 @@
       "street": "Borsbeeksesteenweg"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101"
+      ], 
       "hnrlbls": [
         "32"
       ], 
@@ -1049,21 +1057,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Borsbeeksesteenweg"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "71B"
-      ], 
-      "housenumber": "71B", 
-      "lat": 51.194757879721, 
-      "lon": 4.470416778753, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Borsbeeksesteenweg"
     }, 
     {

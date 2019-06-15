@@ -333,27 +333,24 @@
       "street": "Arthur Putzeysstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7"
+      ], 
       "hnrlbls": [
-        "7-7B"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.774217104181, 
-      "lon": 4.888143116817, 
+      "lat": 50.774361409068, 
+      "lon": 4.888038093341, 
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Arthur Putzeysstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "7-7B"
-      ], 
-      "housenumber": "7B", 
-      "lat": 50.774217104181, 
-      "lon": 4.888143116817, 
-      "municipality": "Hoegaarden", 
-      "pcode": "3320", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Arthur Putzeysstraat"
     }, 
     {
@@ -363,18 +360,6 @@
       "housenumber": "8", 
       "lat": 50.774469454798, 
       "lon": 4.88765619985, 
-      "municipality": "Hoegaarden", 
-      "pcode": "3320", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Arthur Putzeysstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.774299728546, 
-      "lon": 4.888161751837, 
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
       "source": "afgeleidVanGebouw", 

@@ -31,11 +31,11 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.173620159827, 
-      "lon": 4.397876144587, 
+      "lat": 51.173999842052, 
+      "lon": 4.397494320556, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Sneeuwbeslaan"
     }, 
     {
@@ -190,18 +190,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
-      "street": "Sneeuwbeslaan"
-    }, 
-    {
-      "hnrlbls": [
-        "2-54"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.175119384766, 
-      "lon": 4.399512506608, 
-      "municipality": "Antwerpen", 
-      "pcode": "2610", 
-      "source": "afgeleidVanStraat", 
       "street": "Sneeuwbeslaan"
     }, 
     {
@@ -382,6 +370,8 @@
         "33", 
         "34", 
         "35", 
+        "36", 
+        "37", 
         "38", 
         "39", 
         "4", 

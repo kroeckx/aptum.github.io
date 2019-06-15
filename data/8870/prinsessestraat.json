@@ -652,11 +652,11 @@
         "145"
       ], 
       "housenumber": "145", 
-      "lat": 50.923042606748, 
-      "lon": 3.219193852192, 
+      "lat": 50.92344061737, 
+      "lon": 3.21941510996, 
       "municipality": "Izegem", 
       "pcode": "8870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinsessestraat"
     }, 
     {
@@ -672,18 +672,15 @@
       "street": "Prinsessestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
-        "147"
+        "147_1"
       ], 
-      "housenumber": "147", 
-      "lat": 50.923425188193, 
-      "lon": 3.219418616963, 
+      "housenumber": "147_1", 
+      "lat": 50.923033016091, 
+      "lon": 3.219251979216, 
       "municipality": "Izegem", 
       "pcode": "8870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Prinsessestraat"
     }, 
     {
@@ -1119,6 +1116,17 @@
       "street": "Prinsessestraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302", 
+        "0401", 
+        "0402"
+      ], 
       "hnrlbls": [
         "184"
       ], 

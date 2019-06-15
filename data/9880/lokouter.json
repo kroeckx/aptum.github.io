@@ -314,18 +314,6 @@
     }, 
     {
       "hnrlbls": [
-        "30-32"
-      ], 
-      "housenumber": "30", 
-      "lat": 51.052026393861, 
-      "lon": 3.46922961991, 
-      "municipality": "Aalter", 
-      "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Lokouter"
-    }, 
-    {
-      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -338,14 +326,26 @@
     }, 
     {
       "hnrlbls": [
-        "30-32"
+        "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.052026393861, 
-      "lon": 3.46922961991, 
+      "lat": 51.052134994716, 
+      "lon": 3.469277596144, 
       "municipality": "Aalter", 
       "pcode": "9880", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Lokouter"
+    }, 
+    {
+      "hnrlbls": [
+        "32A"
+      ], 
+      "housenumber": "32A", 
+      "lat": 51.052202342756, 
+      "lon": 3.469362164303, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Lokouter"
     }, 
     {

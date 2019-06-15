@@ -500,6 +500,27 @@
       "street": "Van Maerlantstraat"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202", 
+        "0301", 
+        "0302"
+      ], 
+      "hnrlbls": [
+        "45"
+      ], 
+      "housenumber": "45", 
+      "lat": 51.311656502959, 
+      "lon": 3.127065424206, 
+      "municipality": "Blankenberge", 
+      "pcode": "8370", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Van Maerlantstraat"
+    }, 
+    {
       "hnrlbls": [
         "46"
       ], 
@@ -810,8 +831,7 @@
     {
       "apptnrs": [
         "0001", 
-        "0101", 
-        "0201"
+        "0101"
       ], 
       "hnrlbls": [
         "7"

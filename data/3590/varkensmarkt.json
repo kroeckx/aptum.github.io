@@ -146,8 +146,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.907347344633, 
-      "lon": 5.417801189739, 
+      "lat": 50.907317037457, 
+      "lon": 5.41775202493, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -170,6 +170,10 @@
       "street": "Varkensmarkt"
     }, 
     {
+      "apptnrs": [
+        "11", 
+        "21"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -516,29 +520,6 @@
       "street": "Varkensmarkt"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "11", 
-        "12", 
-        "2", 
-        "21", 
-        "22", 
-        "3", 
-        "4", 
-        "6"
-      ], 
-      "hnrlbls": [
-        "49"
-      ], 
-      "housenumber": "49", 
-      "lat": 50.906120097995, 
-      "lon": 5.417900293823, 
-      "municipality": "Diepenbeek", 
-      "pcode": "3590", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Varkensmarkt"
-    }, 
-    {
       "hnrlbls": [
         "5"
       ], 
@@ -833,9 +814,6 @@
     }, 
     {
       "apptnrs": [
-        "70/11"
-      ], 
-      "busnrs": [
         "11"
       ], 
       "hnrlbls": [

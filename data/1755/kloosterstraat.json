@@ -262,7 +262,7 @@
     }, 
     {
       "hnrlbls": [
-        "37-37A"
+        "37"
       ], 
       "housenumber": "37", 
       "lat": 50.773247928586, 
@@ -274,14 +274,14 @@
     }, 
     {
       "hnrlbls": [
-        "37-37A"
+        "37A"
       ], 
       "housenumber": "37A", 
-      "lat": 50.773247928586, 
-      "lon": 4.059751795834, 
+      "lat": 50.773135951583, 
+      "lon": 4.05959459429, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kloosterstraat"
     }, 
     {
@@ -305,11 +305,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 50.773719726445, 
-      "lon": 4.062604611107, 
+      "lat": 50.773736618801, 
+      "lon": 4.062566931269, 
       "municipality": "Gooik", 
       "pcode": "1755", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Kloosterstraat"
     }, 
     {

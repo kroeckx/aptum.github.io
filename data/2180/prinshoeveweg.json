@@ -1322,12 +1322,37 @@
       "street": "Prinshoeveweg"
     }, 
     {
+      "apptnrs": [
+        "1001", 
+        "1002", 
+        "1003", 
+        "1004", 
+        "1101", 
+        "1102", 
+        "1103", 
+        "1104", 
+        "1201", 
+        "1202", 
+        "1203", 
+        "1204", 
+        "2001", 
+        "3101", 
+        "3102", 
+        "3103", 
+        "3104", 
+        "3105", 
+        "3201", 
+        "3202", 
+        "3203", 
+        "3204", 
+        "3205"
+      ], 
       "hnrlbls": [
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 51.280153757104, 
-      "lon": 4.450946530238, 
+      "lat": 51.280179167213, 
+      "lon": 4.450855857017, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -1503,35 +1528,11 @@
     }, 
     {
       "hnrlbls": [
-        "29"
-      ], 
-      "housenumber": "29", 
-      "lat": 51.28001147808, 
-      "lon": 4.45068386801, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prinshoeveweg"
-    }, 
-    {
-      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
       "lat": 51.279866290929, 
       "lon": 4.45136521238, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Prinshoeveweg"
-    }, 
-    {
-      "hnrlbls": [
-        "31"
-      ], 
-      "housenumber": "31", 
-      "lat": 51.280056781704, 
-      "lon": 4.450550379083, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 

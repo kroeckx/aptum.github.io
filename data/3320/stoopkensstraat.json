@@ -893,11 +893,23 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 50.777954196545, 
-      "lon": 4.888833088779, 
+      "lat": 50.778055574246, 
+      "lon": 4.888637264216, 
       "municipality": "Hoegaarden", 
       "pcode": "3320", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Stoopkensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "65A"
+      ], 
+      "housenumber": "65A", 
+      "lat": 50.778120077214, 
+      "lon": 4.888829252167, 
+      "municipality": "Hoegaarden", 
+      "pcode": "3320", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Stoopkensstraat"
     }, 
     {

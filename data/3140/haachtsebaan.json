@@ -5,8 +5,8 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.00420360729, 
-      "lon": 4.628197280331, 
+      "lat": 51.004221779302, 
+      "lon": 4.628190970012, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -164,8 +164,8 @@
         "107"
       ], 
       "housenumber": "107", 
-      "lat": 50.996631114361, 
-      "lon": 4.640291147929, 
+      "lat": 50.996629433137, 
+      "lon": 4.640279599822, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -244,28 +244,10 @@
       "street": "Haachtsebaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "3", 
-        "5", 
-        "6"
-      ], 
       "hnrlbls": [
-        "119-119A"
+        "119"
       ], 
       "housenumber": "119", 
-      "lat": 50.994628001279, 
-      "lon": 4.643021387432, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Haachtsebaan"
-    }, 
-    {
-      "hnrlbls": [
-        "119-119A"
-      ], 
-      "housenumber": "119A", 
       "lat": 50.994628001279, 
       "lon": 4.643021387432, 
       "municipality": "Keerbergen", 
@@ -614,8 +596,8 @@
         "150"
       ], 
       "housenumber": "150", 
-      "lat": 50.992674622201, 
-      "lon": 4.646284686594, 
+      "lat": 50.992689778337, 
+      "lon": 4.646299732435, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -866,8 +848,8 @@
         "17"
       ], 
       "housenumber": "17", 
-      "lat": 51.004223980838, 
-      "lon": 4.629752329094, 
+      "lat": 51.004240343405, 
+      "lon": 4.629751280721, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -959,6 +941,18 @@
     }, 
     {
       "hnrlbls": [
+        "178"
+      ], 
+      "housenumber": "178", 
+      "lat": 50.988884403443, 
+      "lon": 4.645492946484, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Haachtsebaan"
+    }, 
+    {
+      "hnrlbls": [
         "178A"
       ], 
       "housenumber": "178A", 
@@ -1022,11 +1016,11 @@
         "182"
       ], 
       "housenumber": "182", 
-      "lat": 50.988542091251, 
-      "lon": 4.64522757788, 
+      "lat": 50.98844320454, 
+      "lon": 4.645801673051, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Haachtsebaan"
     }, 
     {
@@ -1075,6 +1069,18 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Haachtsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "188"
+      ], 
+      "housenumber": "188", 
+      "lat": 50.987427520082, 
+      "lon": 4.644807966155, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Haachtsebaan"
     }, 
     {
@@ -1246,8 +1252,8 @@
         "26"
       ], 
       "housenumber": "26", 
-      "lat": 51.004507233687, 
-      "lon": 4.62987130869, 
+      "lat": 51.004542632391, 
+      "lon": 4.629879627456, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1389,8 +1395,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.004429045234, 
-      "lon": 4.630227052448, 
+      "lat": 51.004413509133, 
+      "lon": 4.630220269311, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1659,8 +1665,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.003560027993, 
-      "lon": 4.631772401695, 
+      "lat": 51.003557691976, 
+      "lon": 4.631811995108, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1686,8 +1692,8 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.004307574527, 
-      "lon": 4.631326540861, 
+      "lat": 51.004331531553, 
+      "lon": 4.631306017049, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1710,11 +1716,27 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.004400872003, 
-      "lon": 4.631451443388, 
+      "lat": 51.004270124373, 
+      "lon": 4.631431617077, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Haachtsebaan"
+    }, 
+    {
+      "apptnrs": [
+        "1", 
+        "2"
+      ], 
+      "hnrlbls": [
+        "48A"
+      ], 
+      "housenumber": "48A", 
+      "lat": 51.004247266591, 
+      "lon": 4.631563417409, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Haachtsebaan"
     }, 
     {
@@ -1746,7 +1768,8 @@
         "1"
       ], 
       "hnrlbls": [
-        "50A-50C"
+        "50A-50C", 
+        "50A"
       ], 
       "housenumber": "50A", 
       "lat": 51.004227592557, 
@@ -1761,7 +1784,8 @@
         "1"
       ], 
       "hnrlbls": [
-        "50A-50C"
+        "50A-50C", 
+        "50B"
       ], 
       "housenumber": "50B", 
       "lat": 51.004227592557, 
@@ -1908,18 +1932,6 @@
     }, 
     {
       "hnrlbls": [
-        "58"
-      ], 
-      "housenumber": "58", 
-      "lat": 51.002980825056, 
-      "lon": 4.632667828911, 
-      "municipality": "Keerbergen", 
-      "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Haachtsebaan"
-    }, 
-    {
-      "hnrlbls": [
         "59"
       ], 
       "housenumber": "59", 
@@ -1966,8 +1978,8 @@
         "60A"
       ], 
       "housenumber": "60A", 
-      "lat": 51.002858350084, 
-      "lon": 4.632486915753, 
+      "lat": 51.002843029994, 
+      "lon": 4.63250406785, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1978,8 +1990,8 @@
         "61"
       ], 
       "housenumber": "61", 
-      "lat": 51.002724743353, 
-      "lon": 4.632139111763, 
+      "lat": 51.002727427915, 
+      "lon": 4.632144540646, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -2014,8 +2026,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.002783903134, 
-      "lon": 4.632574397889, 
+      "lat": 51.002781982545, 
+      "lon": 4.632549027867, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -2067,11 +2079,11 @@
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.002326617998, 
-      "lon": 4.631936988009, 
+      "lat": 51.002336602208, 
+      "lon": 4.632054436174, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Haachtsebaan"
     }, 
     {
@@ -2220,8 +2232,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.002224051868, 
-      "lon": 4.632657571167, 
+      "lat": 51.002222446334, 
+      "lon": 4.632652005941, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -2232,8 +2244,8 @@
         "77"
       ], 
       "housenumber": "77", 
-      "lat": 51.000711462816, 
-      "lon": 4.633927046458, 
+      "lat": 51.000712357858, 
+      "lon": 4.633928761069, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -2499,8 +2511,8 @@
         "98"
       ], 
       "housenumber": "98", 
-      "lat": 51.000108339842, 
-      "lon": 4.636203113369, 
+      "lat": 51.000098544712, 
+      "lon": 4.636201775178, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 

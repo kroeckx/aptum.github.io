@@ -205,6 +205,9 @@
       "street": "Vinkemolenstraat"
     }, 
     {
+      "busnrs": [
+        "B"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -214,6 +217,18 @@
       "municipality": "Oosterzele", 
       "pcode": "9860", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Vinkemolenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 50.950818561507, 
+      "lon": 3.807539589693, 
+      "municipality": "Oosterzele", 
+      "pcode": "9860", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Vinkemolenstraat"
     }, 
     {

@@ -32,6 +32,7 @@
     {
       "busnrs": [
         "0201", 
+        "0304", 
         "2", 
         "3"
       ], 
@@ -43,7 +44,7 @@
       "lon": 2.919838176587, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnplein"
     }, 
     {
@@ -51,8 +52,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.233316321186, 
-      "lon": 2.919934128611, 
+      "lat": 51.233313427934, 
+      "lon": 2.91993278652, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -92,8 +93,8 @@
         "6A"
       ], 
       "housenumber": "6A", 
-      "lat": 51.233337774068, 
-      "lon": 2.920210407477, 
+      "lat": 51.233337514985, 
+      "lon": 2.920211274714, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -128,11 +129,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.233305930531, 
-      "lon": 2.920355740358, 
+      "lat": 51.233311695501, 
+      "lon": 2.920364009988, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnplein"
     }, 
     {
@@ -149,11 +150,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.233267093019, 
-      "lon": 2.920399762862, 
+      "lat": 51.233272754101, 
+      "lon": 2.920406890132, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mijnplein"
     }
   ]

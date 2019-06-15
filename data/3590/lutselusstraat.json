@@ -1465,6 +1465,18 @@
     }, 
     {
       "hnrlbls": [
+        "31C"
+      ], 
+      "housenumber": "31C", 
+      "lat": 50.910992404252, 
+      "lon": 5.444540248423, 
+      "municipality": "Diepenbeek", 
+      "pcode": "3590", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Lutselusstraat"
+    }, 
+    {
+      "hnrlbls": [
         "32"
       ], 
       "housenumber": "32", 
@@ -1480,20 +1492,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.911001423966, 
-      "lon": 5.444527230416, 
-      "municipality": "Diepenbeek", 
-      "pcode": "3590", 
-      "source": "manueleAanduidingVanLot", 
-      "street": "Lutselusstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "33A"
-      ], 
-      "housenumber": "33A", 
-      "lat": 50.910911046702, 
-      "lon": 5.444716277972, 
+      "lat": 50.910893138879, 
+      "lon": 5.444727954431, 
       "municipality": "Diepenbeek", 
       "pcode": "3590", 
       "source": "manueleAanduidingVanLot", 
@@ -1740,10 +1740,6 @@
       "street": "Lutselusstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "71"
       ], 

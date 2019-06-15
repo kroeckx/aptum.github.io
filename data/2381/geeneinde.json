@@ -29,8 +29,8 @@
         "10A"
       ], 
       "housenumber": "10A", 
-      "lat": 51.406233495285, 
-      "lon": 4.987478166872, 
+      "lat": 51.406237251521, 
+      "lon": 4.987430074459, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
@@ -41,11 +41,11 @@
         "10B"
       ], 
       "housenumber": "10B", 
-      "lat": 51.406200717405, 
-      "lon": 4.987179821132, 
+      "lat": 51.406133468447, 
+      "lon": 4.98723511465, 
       "municipality": "Ravels", 
       "pcode": "2381", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Geeneinde"
     }, 
     {
@@ -137,8 +137,8 @@
         "17A"
       ], 
       "housenumber": "17A", 
-      "lat": 51.405102012833, 
-      "lon": 4.987750485785, 
+      "lat": 51.40509136586, 
+      "lon": 4.98774114656, 
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanPerceelKadaster", 
@@ -262,6 +262,18 @@
       "municipality": "Ravels", 
       "pcode": "2381", 
       "source": "afgeleidVanGebouw", 
+      "street": "Geeneinde"
+    }, 
+    {
+      "hnrlbls": [
+        "22F"
+      ], 
+      "housenumber": "22F", 
+      "lat": 51.404700985958, 
+      "lon": 4.982664040847, 
+      "municipality": "Ravels", 
+      "pcode": "2381", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Geeneinde"
     }, 
     {
@@ -638,11 +650,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.406413645554, 
-      "lon": 4.989656188997, 
+      "lat": 51.406466739159, 
+      "lon": 4.98962672064, 
       "municipality": "Ravels", 
       "pcode": "2381", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Geeneinde"
     }, 
     {

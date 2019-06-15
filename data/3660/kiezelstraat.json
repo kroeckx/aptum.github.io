@@ -73,19 +73,27 @@
       "street": "Kiezelstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.026588519166, 
-      "lon": 5.579060922754, 
+      "lat": 51.026666365993, 
+      "lon": 5.579044261099, 
       "municipality": "Oudsbergen", 
       "pcode": "3660", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kiezelstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 51.026615234637, 
+      "lon": 5.579024548687, 
+      "municipality": "Oudsbergen", 
+      "pcode": "3660", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kiezelstraat"
     }, 
     {

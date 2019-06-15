@@ -414,6 +414,9 @@
       "street": "Herentalsstraat"
     }, 
     {
+      "busnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "36"
       ], 
@@ -828,8 +831,8 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.319887353789, 
-      "lon": 4.949252564087, 
+      "lat": 51.31986459226, 
+      "lon": 4.949330168558, 
       "municipality": "Turnhout", 
       "pcode": "2300", 
       "source": "afgeleidVanGebouw", 

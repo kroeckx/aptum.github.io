@@ -282,6 +282,18 @@
     }, 
     {
       "hnrlbls": [
+        "29A"
+      ], 
+      "housenumber": "29A", 
+      "lat": 51.030652668105, 
+      "lon": 3.853201462777, 
+      "municipality": "Laarne", 
+      "pcode": "9270", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Lepelstraat"
+    }, 
+    {
+      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -305,16 +317,16 @@
       "street": "Lepelstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "0001", 
-        "101"
+        "0101"
       ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.03069518758, 
-      "lon": 3.853201565436, 
+      "lat": 51.030732120017, 
+      "lon": 3.853239649129, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 
@@ -361,8 +373,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 51.031045520924, 
-      "lon": 3.852919158921, 
+      "lat": 51.030999745448, 
+      "lon": 3.852935058579, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "afgeleidVanGebouw", 
@@ -385,8 +397,8 @@
         "35B"
       ], 
       "housenumber": "35B", 
-      "lat": 51.031065823364, 
-      "lon": 3.853306687564, 
+      "lat": 51.031036835987, 
+      "lon": 3.853276499317, 
       "municipality": "Laarne", 
       "pcode": "9270", 
       "source": "manueleAanduidingVanGebouw", 

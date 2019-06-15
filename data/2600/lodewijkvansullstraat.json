@@ -104,14 +104,14 @@
     }, 
     {
       "hnrlbls": [
-        "40"
+        "40-42"
       ], 
       "housenumber": "40", 
-      "lat": 51.187667980754, 
-      "lon": 4.429843656669, 
+      "lat": 51.187688825319, 
+      "lon": 4.429860418893, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lodewijk Van Sullstraat"
     }, 
     {
@@ -128,14 +128,14 @@
     }, 
     {
       "hnrlbls": [
-        "42"
+        "40-42"
       ], 
       "housenumber": "42", 
-      "lat": 51.18766283681, 
-      "lon": 4.429882840323, 
+      "lat": 51.187688825319, 
+      "lon": 4.429860418893, 
       "municipality": "Antwerpen", 
       "pcode": "2600", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Lodewijk Van Sullstraat"
     }, 
     {
@@ -168,6 +168,11 @@
       "street": "Lodewijk Van Sullstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "45"
       ], 

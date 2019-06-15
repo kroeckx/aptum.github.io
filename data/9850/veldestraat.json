@@ -65,8 +65,8 @@
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.07798421929, 
-      "lon": 3.574887118774, 
+      "lat": 51.077985194566, 
+      "lon": 3.574885104385, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -317,8 +317,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.0810685823, 
-      "lon": 3.572315924372, 
+      "lat": 51.081065953527, 
+      "lon": 3.572312686699, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -427,6 +427,18 @@
       "housenumber": "158A", 
       "lat": 51.092372474235, 
       "lon": 3.572523526168, 
+      "municipality": "Deinze", 
+      "pcode": "9850", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Veldestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 51.072940969226, 
+      "lon": 3.578994443661, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -1047,8 +1059,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.074664322342, 
-      "lon": 3.577545429782, 
+      "lat": 51.0746604611, 
+      "lon": 3.577532652631, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -1211,15 +1223,20 @@
       "street": "Veldestraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "65"
       ], 
       "housenumber": "65", 
-      "lat": 51.08023877976, 
-      "lon": 3.574503666566, 
+      "lat": 51.079734982983, 
+      "lon": 3.574044985481, 
       "municipality": "Deinze", 
       "pcode": "9850", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Veldestraat"
     }, 
     {
@@ -1383,8 +1400,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.076042883971, 
-      "lon": 3.576252407383, 
+      "lat": 51.076041883749, 
+      "lon": 3.576250711943, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 
@@ -1431,8 +1448,8 @@
         "76"
       ], 
       "housenumber": "76", 
-      "lat": 51.076182517446, 
-      "lon": 3.576390458499, 
+      "lat": 51.076185369208, 
+      "lon": 3.576413527321, 
       "municipality": "Deinze", 
       "pcode": "9850", 
       "source": "afgeleidVanGebouw", 

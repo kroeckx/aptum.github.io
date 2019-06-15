@@ -173,11 +173,35 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.365889578786, 
-      "lon": 4.553733072815, 
+      "lat": 51.366106771428, 
+      "lon": 4.553703932145, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Gagelweg"
+    }, 
+    {
+      "hnrlbls": [
+        "56A"
+      ], 
+      "housenumber": "56A", 
+      "lat": 51.365840422823, 
+      "lon": 4.553613274675, 
+      "municipality": "Wuustwezel", 
+      "pcode": "2990", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Gagelweg"
+    }, 
+    {
+      "hnrlbls": [
+        "56B"
+      ], 
+      "housenumber": "56B", 
+      "lat": 51.365796644839, 
+      "lon": 4.553502830906, 
+      "municipality": "Wuustwezel", 
+      "pcode": "2990", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Gagelweg"
     }, 
     {

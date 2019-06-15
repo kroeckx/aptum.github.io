@@ -603,6 +603,18 @@
     }, 
     {
       "hnrlbls": [
+        "14-14A"
+      ], 
+      "housenumber": "14A", 
+      "lat": 51.033563535121, 
+      "lon": 4.359656694147, 
+      "municipality": "Willebroek", 
+      "pcode": "2830", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Hoogstraat"
+    }, 
+    {
+      "hnrlbls": [
         "15"
       ], 
       "housenumber": "15", 
@@ -1183,14 +1195,14 @@
         "4"
       ], 
       "hnrlbls": [
-        "41-51"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.032204656222, 
-      "lon": 4.360833879768, 
+      "lat": 51.032307218206, 
+      "lon": 4.360792807741, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1207,23 +1219,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201", 
-        "202", 
-        "22"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0202"
       ], 
       "hnrlbls": [
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.032131831301, 
-      "lon": 4.360609223225, 
+      "lat": 51.032204120697, 
+      "lon": 4.360896319344, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1247,14 +1257,14 @@
         "201"
       ], 
       "hnrlbls": [
-        "41-51"
+        "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.032204656222, 
-      "lon": 4.360833879768, 
+      "lat": 51.032144894624, 
+      "lon": 4.361087067988, 
       "municipality": "Willebroek", 
       "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Hoogstraat"
     }, 
     {
@@ -1321,18 +1331,6 @@
     }, 
     {
       "hnrlbls": [
-        "41-51"
-      ], 
-      "housenumber": "51", 
-      "lat": 51.032204656222, 
-      "lon": 4.360833879768, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
         "50-52"
       ], 
       "housenumber": "52", 
@@ -1357,18 +1355,6 @@
     }, 
     {
       "hnrlbls": [
-        "54-56"
-      ], 
-      "housenumber": "54", 
-      "lat": 51.032213316863, 
-      "lon": 4.361361477998, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -1381,7 +1367,7 @@
     }, 
     {
       "hnrlbls": [
-        "54-56"
+        "56"
       ], 
       "housenumber": "56", 
       "lat": 51.032213316863, 
@@ -1640,18 +1626,6 @@
       "municipality": "Willebroek", 
       "pcode": "2830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Hoogstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.033699265527, 
-      "lon": 4.359608341781, 
-      "municipality": "Willebroek", 
-      "pcode": "2830", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Hoogstraat"
     }, 
     {

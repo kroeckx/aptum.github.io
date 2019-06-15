@@ -182,6 +182,18 @@
     }, 
     {
       "hnrlbls": [
+        "120"
+      ], 
+      "housenumber": "120", 
+      "lat": 50.839163148246, 
+      "lon": 4.009292582435, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
         "125"
       ], 
       "housenumber": "125", 
@@ -221,8 +233,8 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.837690827456, 
-      "lon": 4.010529425228, 
+      "lat": 50.837726084493, 
+      "lon": 4.010505732418, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -337,6 +349,25 @@
       "street": "Albertlaan"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "143"
+      ], 
+      "housenumber": "143", 
+      "lat": 50.839606665368, 
+      "lon": 4.017184915152, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albertlaan"
+    }, 
+    {
       "hnrlbls": [
         "145"
       ], 
@@ -350,7 +381,7 @@
     }, 
     {
       "hnrlbls": [
-        "147-149"
+        "147"
       ], 
       "housenumber": "147", 
       "lat": 50.839796752817, 
@@ -374,11 +405,11 @@
     }, 
     {
       "hnrlbls": [
-        "147-149"
+        "149"
       ], 
       "housenumber": "149", 
-      "lat": 50.839796752817, 
-      "lon": 4.017501092542, 
+      "lat": 50.83979502459, 
+      "lon": 4.017404137129, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -418,8 +449,8 @@
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.839250237822, 
-      "lon": 4.013869536922, 
+      "lat": 50.839246589305, 
+      "lon": 4.013852101796, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -812,14 +843,17 @@
     }, 
     {
       "busnrs": [
-        "BUS4"
+        "1", 
+        "2", 
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "217"
       ], 
       "housenumber": "217", 
-      "lat": 50.840611195538, 
-      "lon": 4.020303031527, 
+      "lat": 50.840614383313, 
+      "lon": 4.020286680646, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -964,6 +998,18 @@
       "housenumber": "25", 
       "lat": 50.837952074408, 
       "lon": 4.01129946373, 
+      "municipality": "Ninove", 
+      "pcode": "9400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Albertlaan"
+    }, 
+    {
+      "hnrlbls": [
+        "25A"
+      ], 
+      "housenumber": "25A", 
+      "lat": 50.837735442584, 
+      "lon": 4.01145329714, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1220,8 +1266,8 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.837610385215, 
-      "lon": 4.01026910058, 
+      "lat": 50.837657397128, 
+      "lon": 4.010238361738, 
       "municipality": "Ninove", 
       "pcode": "9400", 
       "source": "manueleAanduidingVanGebouw", 

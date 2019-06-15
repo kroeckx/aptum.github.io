@@ -5,11 +5,11 @@
         "1"
       ], 
       "housenumber": "1", 
-      "lat": 51.154216157334, 
-      "lon": 3.598150685534, 
+      "lat": 51.154227747261, 
+      "lon": 3.598246261641, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kere"
     }, 
     {
@@ -326,6 +326,18 @@
     }, 
     {
       "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.154296587697, 
+      "lon": 3.598064598126, 
+      "municipality": "Lievegem", 
+      "pcode": "9950", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Kere"
+    }, 
+    {
+      "hnrlbls": [
         "30"
       ], 
       "housenumber": "30", 
@@ -491,14 +503,14 @@
     }, 
     {
       "hnrlbls": [
-        "41-43"
+        "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.154184803702, 
-      "lon": 3.594646411034, 
+      "lat": 51.154416693652, 
+      "lon": 3.594669442265, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kere"
     }, 
     {
@@ -521,14 +533,14 @@
         "43A"
       ], 
       "hnrlbls": [
-        "41-43"
+        "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.154184803702, 
-      "lon": 3.594646411034, 
+      "lat": 51.154377737606, 
+      "lon": 3.594678091942, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Kere"
     }, 
     {
@@ -1084,8 +1096,8 @@
         "89B"
       ], 
       "housenumber": "89B", 
-      "lat": 51.155289984707, 
-      "lon": 3.592586357766, 
+      "lat": 51.155289357416, 
+      "lon": 3.592586654063, 
       "municipality": "Lievegem", 
       "pcode": "9950", 
       "source": "afgeleidVanGebouw", 
@@ -1213,7 +1225,7 @@
     }, 
     {
       "hnrlbls": [
-        "98A-98_1"
+        "98A-98B"
       ], 
       "housenumber": "98A", 
       "lat": 51.156881835003, 
@@ -1225,9 +1237,9 @@
     }, 
     {
       "hnrlbls": [
-        "98A-98_1"
+        "98A-98B"
       ], 
-      "housenumber": "98_1", 
+      "housenumber": "98B", 
       "lat": 51.156881835003, 
       "lon": 3.592978889604, 
       "municipality": "Lievegem", 

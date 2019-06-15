@@ -794,18 +794,6 @@
     }, 
     {
       "hnrlbls": [
-        "7A"
-      ], 
-      "housenumber": "7A", 
-      "lat": 51.056064295694, 
-      "lon": 5.086221786616, 
-      "municipality": "Tessenderlo", 
-      "pcode": "3980", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Molenhuizen"
-    }, 
-    {
-      "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
@@ -821,11 +809,23 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.056042399924, 
-      "lon": 5.086127026076, 
+      "lat": 51.056108246375, 
+      "lon": 5.086355682601, 
       "municipality": "Tessenderlo", 
       "pcode": "3980", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Molenhuizen"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.056055291912, 
+      "lon": 5.086165164879, 
+      "municipality": "Tessenderlo", 
+      "pcode": "3980", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Molenhuizen"
     }
   ]

@@ -173,7 +173,6 @@
       "busnrs": [
         "1", 
         "2", 
-        "21", 
         "3", 
         "4", 
         "5", 
@@ -188,36 +187,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Edelvalklaan"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "19_1-19_2"
-      ], 
-      "housenumber": "19_1", 
-      "lat": 51.222514454941, 
-      "lon": 4.482374189286, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Edelvalklaan"
-    }, 
-    {
-      "busnrs": [
-        "R"
-      ], 
-      "hnrlbls": [
-        "19_1-19_2"
-      ], 
-      "housenumber": "19_2", 
-      "lat": 51.222514454941, 
-      "lon": 4.482374189286, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Edelvalklaan"
     }, 
     {
@@ -330,14 +299,13 @@
       "busnrs": [
         "1", 
         "2", 
-        "27", 
         "3", 
         "4", 
         "5", 
         "6"
       ], 
       "hnrlbls": [
-        "25-27"
+        "25"
       ], 
       "housenumber": "25", 
       "lat": 51.22267939307, 
@@ -359,18 +327,6 @@
       "housenumber": "26", 
       "lat": 51.222786359512, 
       "lon": 4.482832184257, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Edelvalklaan"
-    }, 
-    {
-      "hnrlbls": [
-        "25-27"
-      ], 
-      "housenumber": "27", 
-      "lat": 51.22267939307, 
-      "lon": 4.48227997917, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -478,12 +434,11 @@
         "1", 
         "2", 
         "3", 
-        "35", 
         "4", 
         "5"
       ], 
       "hnrlbls": [
-        "33-35"
+        "33"
       ], 
       "housenumber": "33", 
       "lat": 51.22289084449, 
@@ -505,18 +460,6 @@
       "housenumber": "34", 
       "lat": 51.22299736604, 
       "lon": 4.482688991702, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Edelvalklaan"
-    }, 
-    {
-      "hnrlbls": [
-        "33-35"
-      ], 
-      "housenumber": "35", 
-      "lat": 51.22289084449, 
-      "lon": 4.482140793429, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
@@ -647,11 +590,10 @@
         "3", 
         "4", 
         "5", 
-        "6", 
-        "8"
+        "6"
       ], 
       "hnrlbls": [
-        "6-8"
+        "6"
       ], 
       "housenumber": "6", 
       "lat": 51.222306330636, 
@@ -673,18 +615,6 @@
       "housenumber": "7", 
       "lat": 51.222163505293, 
       "lon": 4.48260420859, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Edelvalklaan"
-    }, 
-    {
-      "hnrlbls": [
-        "6-8"
-      ], 
-      "housenumber": "8", 
-      "lat": 51.222306330636, 
-      "lon": 4.48315978899, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

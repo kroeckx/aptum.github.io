@@ -658,22 +658,18 @@
     }, 
     {
       "apptnrs": [
-        "VER1", 
-        "VER2"
-      ], 
-      "busnrs": [
-        "101", 
-        "201"
+        "0101", 
+        "0201"
       ], 
       "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.311422159028, 
-      "lon": 3.126319807367, 
+      "lat": 51.311438547126, 
+      "lon": 3.126296707884, 
       "municipality": "Blankenberge", 
       "pcode": "8370", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mametstraat"
     }, 
     {

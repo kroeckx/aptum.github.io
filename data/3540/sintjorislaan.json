@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.961996459681, 
+      "lon": 5.18669173475, 
+      "municipality": "Herk-de-Stad", 
+      "pcode": "3540", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Sint-Jorislaan"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -402,8 +414,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 50.95236713614, 
-      "lon": 5.195886305621, 
+      "lat": 50.95236619048, 
+      "lon": 5.195880169079, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -754,8 +766,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 50.951718522269, 
-      "lon": 5.195477783884, 
+      "lat": 50.95171679966, 
+      "lon": 5.195467079486, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -838,8 +850,8 @@
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 50.951300229316, 
-      "lon": 5.195783932754, 
+      "lat": 50.951300124398, 
+      "lon": 5.195786065685, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -1000,8 +1012,8 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 50.94841629215, 
-      "lon": 5.198118156163, 
+      "lat": 50.948411665362, 
+      "lon": 5.198085912192, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -1084,6 +1096,7 @@
     }, 
     {
       "busnrs": [
+        "1", 
         "2", 
         "3", 
         "4"
@@ -1092,8 +1105,8 @@
         "186"
       ], 
       "housenumber": "186", 
-      "lat": 50.947468599575, 
-      "lon": 5.198001769881, 
+      "lat": 50.947468054226, 
+      "lon": 5.198002614075, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -1589,11 +1602,11 @@
         "44A"
       ], 
       "housenumber": "44A", 
-      "lat": 50.959837826501, 
-      "lon": 5.190776064618, 
+      "lat": 50.959813143284, 
+      "lon": 5.190809082526, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sint-Jorislaan"
     }, 
     {
@@ -1610,7 +1623,6 @@
     }, 
     {
       "busnrs": [
-        "1", 
         "2", 
         "3"
       ], 
@@ -1618,11 +1630,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 50.959739546051, 
-      "lon": 5.190856330636, 
+      "lat": 50.95974751432, 
+      "lon": 5.190873836467, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Sint-Jorislaan"
     }, 
     {
@@ -1682,8 +1694,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.959169245835, 
-      "lon": 5.190919060955, 
+      "lat": 50.959173805608, 
+      "lon": 5.19094832121, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -2162,8 +2174,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.956104173189, 
-      "lon": 5.194214667675, 
+      "lat": 50.956103534981, 
+      "lon": 5.194215937432, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -2263,8 +2275,8 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 50.956218835936, 
-      "lon": 5.193389444049, 
+      "lat": 50.956218673148, 
+      "lon": 5.19338702151, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 

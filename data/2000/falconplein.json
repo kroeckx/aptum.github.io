@@ -618,13 +618,14 @@
       "street": "Falconplein"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301", 
+        "401"
       ], 
       "hnrlbls": [
-        "36"
+        "36-36A"
       ], 
       "housenumber": "36", 
       "lat": 51.225396646817, 
@@ -636,14 +637,14 @@
     }, 
     {
       "hnrlbls": [
-        "36A"
+        "36-36A"
       ], 
       "housenumber": "36A", 
-      "lat": 51.225403386454, 
-      "lon": 4.404662346924, 
+      "lat": 51.225396646817, 
+      "lon": 4.404657045208, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Falconplein"
     }, 
     {

@@ -53,7 +53,7 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101"
       ], 
       "hnrlbls": [
@@ -64,7 +64,7 @@
       "lon": 5.118914247672, 
       "municipality": "Mol", 
       "pcode": "2400", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Guido Gezellestraat"
     }, 
     {
@@ -80,7 +80,7 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "102", 
         "201", 
@@ -110,6 +110,21 @@
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Guido Gezellestraat"
+    }, 
+    {
+      "apptnrs": [
+        "1"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.190972675953, 
+      "lon": 5.121599724518, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Guido Gezellestraat"
     }, 
     {
@@ -397,6 +412,26 @@
       "street": "Guido Gezellestraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "46"
+      ], 
+      "housenumber": "46", 
+      "lat": 51.191433568902, 
+      "lon": 5.122848554221, 
+      "municipality": "Mol", 
+      "pcode": "2400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Guido Gezellestraat"
+    }, 
+    {
       "hnrlbls": [
         "47"
       ], 
@@ -612,7 +647,7 @@
       "street": "Guido Gezellestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "101", 
         "102", 

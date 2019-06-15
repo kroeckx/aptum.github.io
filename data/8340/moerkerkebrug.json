@@ -82,8 +82,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.241219979457, 
-      "lon": 3.346190640198, 
+      "lat": 51.241223825935, 
+      "lon": 3.346198861969, 
       "municipality": "Damme", 
       "pcode": "8340", 
       "source": "afgeleidVanGebouw", 
@@ -94,11 +94,23 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.240277879297, 
-      "lon": 3.347623449634, 
+      "lat": 51.239795458316, 
+      "lon": 3.347928869986, 
       "municipality": "Damme", 
       "pcode": "8340", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelKadaster", 
+      "street": "Moerkerkebrug"
+    }, 
+    {
+      "hnrlbls": [
+        "15A"
+      ], 
+      "housenumber": "15A", 
+      "lat": 51.23882805402, 
+      "lon": 3.348096825873, 
+      "municipality": "Damme", 
+      "pcode": "8340", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Moerkerkebrug"
     }, 
     {

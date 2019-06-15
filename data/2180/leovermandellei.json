@@ -157,8 +157,12 @@
       "street": "Leo Vermandellei"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
-        "22-24"
+        "22"
       ], 
       "housenumber": "22", 
       "lat": 51.294798844854, 
@@ -175,18 +179,6 @@
       "housenumber": "23", 
       "lat": 51.29401614151, 
       "lon": 4.440308841788, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leo Vermandellei"
-    }, 
-    {
-      "hnrlbls": [
-        "22-24"
-      ], 
-      "housenumber": "24", 
-      "lat": 51.294798844854, 
-      "lon": 4.440867297166, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 

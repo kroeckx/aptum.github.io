@@ -164,8 +164,8 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 51.009048466161, 
-      "lon": 4.61403069993, 
+      "lat": 51.009040127769, 
+      "lon": 4.614063427973, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -236,8 +236,8 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.009292282775, 
-      "lon": 4.609105778658, 
+      "lat": 51.009293616246, 
+      "lon": 4.609113052354, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -293,6 +293,18 @@
     }, 
     {
       "hnrlbls": [
+        "121"
+      ], 
+      "housenumber": "121", 
+      "lat": 51.009221848713, 
+      "lon": 4.607765471085, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mechelsebaan"
+    }, 
+    {
+      "hnrlbls": [
         "121A"
       ], 
       "housenumber": "121A", 
@@ -329,23 +341,23 @@
     }, 
     {
       "hnrlbls": [
-        "123-123A"
+        "123"
       ], 
       "housenumber": "123", 
-      "lat": 51.009050703817, 
-      "lon": 4.606345005371, 
+      "lat": 51.009098422491, 
+      "lon": 4.606662280202, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Mechelsebaan"
     }, 
     {
       "hnrlbls": [
-        "123-123A"
+        "123A"
       ], 
       "housenumber": "123A", 
-      "lat": 51.009050703817, 
-      "lon": 4.606345005371, 
+      "lat": 51.009043878504, 
+      "lon": 4.606341835956, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -404,8 +416,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.00836536361, 
-      "lon": 4.613178192527, 
+      "lat": 51.008330881664, 
+      "lon": 4.613160771527, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -479,8 +491,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.00855360049, 
-      "lon": 4.61044147627, 
+      "lat": 51.008554495872, 
+      "lon": 4.610443190719, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1039,8 +1051,8 @@
         "48"
       ], 
       "housenumber": "48", 
-      "lat": 51.004254166157, 
-      "lon": 4.625193259684, 
+      "lat": 51.004254878431, 
+      "lon": 4.625196397971, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1123,11 +1135,11 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.004721820891, 
-      "lon": 4.624763278027, 
+      "lat": 51.004671909222, 
+      "lon": 4.624690913205, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Mechelsebaan"
     }, 
     {
@@ -1279,8 +1291,8 @@
         "67"
       ], 
       "housenumber": "67", 
-      "lat": 51.006427868351, 
-      "lon": 4.621862222012, 
+      "lat": 51.006415195053, 
+      "lon": 4.621861583438, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -1368,6 +1380,18 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Mechelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "72A"
+      ], 
+      "housenumber": "72A", 
+      "lat": 51.00587025628, 
+      "lon": 4.622743553397, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Mechelsebaan"
     }, 
     {
@@ -1639,11 +1663,35 @@
         "92"
       ], 
       "housenumber": "92", 
-      "lat": 51.006191851623, 
-      "lon": 4.619204733753, 
+      "lat": 51.006341978126, 
+      "lon": 4.619453592838, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mechelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "92A"
+      ], 
+      "housenumber": "92A", 
+      "lat": 51.006390429336, 
+      "lon": 4.619285301158, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mechelsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "92B"
+      ], 
+      "housenumber": "92B", 
+      "lat": 51.006442552956, 
+      "lon": 4.619165186489, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Mechelsebaan"
     }, 
     {
@@ -1660,14 +1708,26 @@
     }, 
     {
       "hnrlbls": [
+        "94"
+      ], 
+      "housenumber": "94", 
+      "lat": 51.006512991926, 
+      "lon": 4.618802528711, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mechelsebaan"
+    }, 
+    {
+      "hnrlbls": [
         "94A"
       ], 
       "housenumber": "94A", 
-      "lat": 51.006628055375, 
-      "lon": 4.618505791126, 
+      "lat": 51.006576647004, 
+      "lon": 4.618628048007, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Mechelsebaan"
     }, 
     {
@@ -1675,11 +1735,11 @@
         "94B"
       ], 
       "housenumber": "94B", 
-      "lat": 51.006635644632, 
-      "lon": 4.618403246877, 
+      "lat": 51.006634366795, 
+      "lon": 4.618496848696, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Mechelsebaan"
     }, 
     {
@@ -1699,8 +1759,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.006639773032, 
-      "lon": 4.618364087233, 
+      "lat": 51.006624524282, 
+      "lon": 4.618264128059, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "manueleAanduidingVanPerceel", 

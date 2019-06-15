@@ -59,11 +59,11 @@
         "12A"
       ], 
       "housenumber": "12A", 
-      "lat": 51.172187625928, 
-      "lon": 3.872680409075, 
+      "lat": 51.172228913844, 
+      "lon": 3.872751750234, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kalve"
     }, 
     {
@@ -363,74 +363,74 @@
     }, 
     {
       "hnrlbls": [
-        "28"
+        "28-28A"
       ], 
       "housenumber": "28", 
-      "lat": 51.172102247945, 
-      "lon": 3.875607387527, 
+      "lat": 51.172235219986, 
+      "lon": 3.875657316879, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kalve"
     }, 
     {
       "hnrlbls": [
-        "28A"
+        "28-28A"
       ], 
       "housenumber": "28A", 
-      "lat": 51.172101356761, 
-      "lon": 3.875695476498, 
+      "lat": 51.172235219986, 
+      "lon": 3.875657316879, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kalve"
     }, 
     {
       "hnrlbls": [
-        "28B"
+        "28B-28C"
       ], 
       "housenumber": "28B", 
-      "lat": 51.172096932332, 
-      "lon": 3.875841655164, 
+      "lat": 51.172182670793, 
+      "lon": 3.87590295019, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kalve"
     }, 
     {
       "hnrlbls": [
-        "28C"
+        "28B-28C"
       ], 
       "housenumber": "28C", 
-      "lat": 51.172087868121, 
-      "lon": 3.875931403137, 
+      "lat": 51.172182670793, 
+      "lon": 3.87590295019, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kalve"
     }, 
     {
       "hnrlbls": [
-        "28D"
+        "28D-28E"
       ], 
       "housenumber": "28D", 
-      "lat": 51.172095191244, 
-      "lon": 3.876027841673, 
+      "lat": 51.172167514325, 
+      "lon": 3.876083844947, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kalve"
     }, 
     {
       "hnrlbls": [
-        "28E"
+        "28D-28E"
       ], 
       "housenumber": "28E", 
-      "lat": 51.172091599578, 
-      "lon": 3.876071919307, 
+      "lat": 51.172167514325, 
+      "lon": 3.876083844947, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kalve"
     }, 
     {
@@ -594,8 +594,8 @@
         "39A"
       ], 
       "housenumber": "39A", 
-      "lat": 51.171698699084, 
-      "lon": 3.876978582275, 
+      "lat": 51.171672973945, 
+      "lon": 3.876974420387, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -702,11 +702,11 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.171710497702, 
-      "lon": 3.877070683533, 
+      "lat": 51.171665010655, 
+      "lon": 3.877069732149, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kalve"
     }, 
     {
@@ -726,11 +726,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.171704470325, 
-      "lon": 3.877134375293, 
+      "lat": 51.171657086661, 
+      "lon": 3.877152889746, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Kalve"
     }, 
     {
@@ -870,8 +870,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.171679612283, 
-      "lon": 3.879376784319, 
+      "lat": 51.171711445907, 
+      "lon": 3.8794017594, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 
@@ -1208,18 +1208,6 @@
       "housenumber": "72", 
       "lat": 51.17161350702, 
       "lon": 3.881850540714, 
-      "municipality": "Wachtebeke", 
-      "pcode": "9185", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Kalve"
-    }, 
-    {
-      "hnrlbls": [
-        "73"
-      ], 
-      "housenumber": "73", 
-      "lat": 51.17082545614, 
-      "lon": 3.883007469094, 
       "municipality": "Wachtebeke", 
       "pcode": "9185", 
       "source": "afgeleidVanGebouw", 

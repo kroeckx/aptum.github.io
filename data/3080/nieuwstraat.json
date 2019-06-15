@@ -1,6 +1,10 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "bus 11", 
+        "bus 21"
+      ], 
       "hnrlbls": [
         "1-16A"
       ], 
@@ -278,8 +282,8 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.824117357566, 
-      "lon": 4.51156081863, 
+      "lat": 50.824117177601, 
+      "lon": 4.511560960007, 
       "municipality": "Tervuren", 
       "pcode": "3080", 
       "source": "afgeleidVanPerceelGrb", 

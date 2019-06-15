@@ -208,7 +208,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
         "11", 
         "21", 
         "31"
@@ -257,6 +257,14 @@
       "street": "Schoytestraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
+      ], 
       "hnrlbls": [
         "39"
       ], 
@@ -550,11 +558,11 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.214523823315, 
-      "lon": 4.401049357369, 
+      "lat": 51.214512494166, 
+      "lon": 4.401062801996, 
       "municipality": "Antwerpen", 
       "pcode": "2000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Schoytestraat"
     }, 
     {

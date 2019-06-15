@@ -338,12 +338,228 @@
       "street": "Louis Dhontstraat"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "103", 
+        "2", 
+        "201", 
+        "202", 
+        "203", 
+        "3", 
+        "301", 
+        "302", 
+        "303", 
+        "401", 
+        "402", 
+        "403", 
+        "501", 
+        "502", 
+        "503", 
+        "601", 
+        "602", 
+        "603", 
+        "701", 
+        "702", 
+        "703"
+      ], 
       "hnrlbls": [
-        "7-9"
+        "40-56"
+      ], 
+      "housenumber": "40", 
+      "lat": 50.980297043565, 
+      "lon": 3.528141358978, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40-56"
+      ], 
+      "housenumber": "42", 
+      "lat": 50.980297043565, 
+      "lon": 3.528141358978, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "busnrs": [
+        "101", 
+        "102", 
+        "103", 
+        "104", 
+        "105", 
+        "106", 
+        "107", 
+        "201", 
+        "202", 
+        "203", 
+        "204", 
+        "205", 
+        "206", 
+        "207"
+      ], 
+      "hnrlbls": [
+        "40-56"
+      ], 
+      "housenumber": "44", 
+      "lat": 50.980297043565, 
+      "lon": 3.528141358978, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40-56"
+      ], 
+      "housenumber": "46", 
+      "lat": 50.980297043565, 
+      "lon": 3.528141358978, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40-56"
+      ], 
+      "housenumber": "48", 
+      "lat": 50.980297043565, 
+      "lon": 3.528141358978, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40-56"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.980297043565, 
+      "lon": 3.528141358978, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40-56"
+      ], 
+      "housenumber": "52", 
+      "lat": 50.980297043565, 
+      "lon": 3.528141358978, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "40-56"
+      ], 
+      "housenumber": "54", 
+      "lat": 50.980297043565, 
+      "lon": 3.528141358978, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "40-56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.980297043565, 
+      "lon": 3.528141358978, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202"
+      ], 
+      "hnrlbls": [
+        "58-60"
+      ], 
+      "housenumber": "58", 
+      "lat": 50.979782715014, 
+      "lon": 3.528565830356, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "101", 
+        "102", 
+        "2", 
+        "201", 
+        "202", 
+        "301", 
+        "302", 
+        "401", 
+        "402", 
+        "501", 
+        "502", 
+        "601", 
+        "602", 
+        "701", 
+        "702"
+      ], 
+      "hnrlbls": [
+        "58-60"
+      ], 
+      "housenumber": "60", 
+      "lat": 50.979782715014, 
+      "lon": 3.528565830356, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Louis Dhontstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.980538954521, 
-      "lon": 3.529047864861, 
+      "lat": 50.980550507648, 
+      "lon": 3.529079557427, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -351,11 +567,11 @@
     }, 
     {
       "hnrlbls": [
-        "7-9"
+        "9"
       ], 
       "housenumber": "9", 
-      "lat": 50.980538954521, 
-      "lon": 3.529047864861, 
+      "lat": 50.980537102956, 
+      "lon": 3.529015144192, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 

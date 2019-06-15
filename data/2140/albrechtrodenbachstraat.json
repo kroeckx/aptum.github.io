@@ -158,6 +158,11 @@
       "street": "Albrecht Rodenbachstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "2"
       ], 
@@ -436,10 +441,6 @@
       "street": "Albrecht Rodenbachstraat"
     }, 
     {
-      "busnrs": [
-        "2", 
-        "4"
-      ], 
       "hnrlbls": [
         "44"
       ], 

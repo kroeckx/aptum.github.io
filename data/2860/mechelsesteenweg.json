@@ -9,7 +9,7 @@
       "lon": 4.536349745617, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -426,6 +426,18 @@
     }, 
     {
       "hnrlbls": [
+        "139A"
+      ], 
+      "housenumber": "139A", 
+      "lat": 51.054857025883, 
+      "lon": 4.523487661649, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "139B"
       ], 
       "housenumber": "139B", 
@@ -726,7 +738,7 @@
     }, 
     {
       "hnrlbls": [
-        "165-165C"
+        "165"
       ], 
       "housenumber": "165", 
       "lat": 51.05103960106, 
@@ -762,14 +774,14 @@
     }, 
     {
       "hnrlbls": [
-        "165-165C"
+        "165C"
       ], 
       "housenumber": "165C", 
-      "lat": 51.05103960106, 
-      "lon": 4.52204556776, 
+      "lat": 51.050376299212, 
+      "lon": 4.526456928719, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1045,7 +1057,7 @@
       "lon": 4.536349745617, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1057,7 +1069,7 @@
       "lon": 4.536349745617, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -1301,18 +1313,15 @@
       "street": "Mechelsesteenweg"
     }, 
     {
-      "busnrs": [
-        "4"
-      ], 
       "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.065855975764, 
-      "lon": 4.5338439952, 
+      "lat": 51.065809078106, 
+      "lon": 4.53376265624, 
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Mechelsesteenweg"
     }, 
     {
@@ -2165,6 +2174,18 @@
       "municipality": "Sint-Katelijne-Waver", 
       "pcode": "2860", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Mechelsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 51.065459637457, 
+      "lon": 4.533215753313, 
+      "municipality": "Sint-Katelijne-Waver", 
+      "pcode": "2860", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Mechelsesteenweg"
     }, 
     {

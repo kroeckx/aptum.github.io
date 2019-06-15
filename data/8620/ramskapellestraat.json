@@ -353,11 +353,11 @@
         "2C"
       ], 
       "housenumber": "2C", 
-      "lat": 51.127201019526, 
-      "lon": 2.767026750626, 
+      "lat": 51.127148848264, 
+      "lon": 2.767329727173, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ramskapellestraat"
     }, 
     {
@@ -425,11 +425,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.126692482534, 
-      "lon": 2.767396514462, 
+      "lat": 51.126569351551, 
+      "lon": 2.767406305508, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ramskapellestraat"
     }, 
     {
@@ -650,6 +650,18 @@
     }, 
     {
       "hnrlbls": [
+        "54B"
+      ], 
+      "housenumber": "54B", 
+      "lat": 51.110778806414, 
+      "lon": 2.762250134659, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
         "55"
       ], 
       "housenumber": "55", 
@@ -665,11 +677,119 @@
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.110713619513, 
-      "lon": 2.76223009328, 
+      "lat": 51.110728566522, 
+      "lon": 2.762231722106, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56A"
+      ], 
+      "housenumber": "56A", 
+      "lat": 51.110682331295, 
+      "lon": 2.762216885529, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56B"
+      ], 
+      "housenumber": "56B", 
+      "lat": 51.110816605446, 
+      "lon": 2.761434281343, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56C"
+      ], 
+      "housenumber": "56C", 
+      "lat": 51.110753782397, 
+      "lon": 2.76147557626, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56D"
+      ], 
+      "housenumber": "56D", 
+      "lat": 51.110689693011, 
+      "lon": 2.761522913406, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56E"
+      ], 
+      "housenumber": "56E", 
+      "lat": 51.11061260837, 
+      "lon": 2.761566697946, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56F"
+      ], 
+      "housenumber": "56F", 
+      "lat": 51.110533120233, 
+      "lon": 2.761618849, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56G"
+      ], 
+      "housenumber": "56G", 
+      "lat": 51.110468081829, 
+      "lon": 2.761688928007, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56H"
+      ], 
+      "housenumber": "56H", 
+      "lat": 51.110405480349, 
+      "lon": 2.761746497032, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Ramskapellestraat"
+    }, 
+    {
+      "hnrlbls": [
+        "56I"
+      ], 
+      "housenumber": "56I", 
+      "lat": 51.110350525701, 
+      "lon": 2.761797804312, 
+      "municipality": "Nieuwpoort", 
+      "pcode": "8620", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Ramskapellestraat"
     }, 
     {
@@ -785,11 +905,11 @@
         "64"
       ], 
       "housenumber": "64", 
-      "lat": 51.110010191282, 
-      "lon": 2.761868203544, 
+      "lat": 51.109979938003, 
+      "lon": 2.761891381437, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ramskapellestraat"
     }, 
     {
@@ -1013,11 +1133,11 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 51.108942391905, 
-      "lon": 2.761640535814, 
+      "lat": 51.108996872916, 
+      "lon": 2.761785485758, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ramskapellestraat"
     }, 
     {
@@ -1037,11 +1157,11 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.108688853179, 
-      "lon": 2.761885050831, 
+      "lat": 51.108769738522, 
+      "lon": 2.761829854992, 
       "municipality": "Nieuwpoort", 
       "pcode": "8620", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Ramskapellestraat"
     }, 
     {

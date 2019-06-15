@@ -1588,6 +1588,9 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001"
+      ], 
       "hnrlbls": [
         "273"
       ], 
@@ -3836,18 +3839,6 @@
       "housenumber": "451B", 
       "lat": 50.84679037234, 
       "lon": 4.822428266087, 
-      "municipality": "Boutersem", 
-      "pcode": "3370", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Leuvensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "452"
-      ], 
-      "housenumber": "452", 
-      "lat": 50.847635571385, 
-      "lon": 4.819053740145, 
       "municipality": "Boutersem", 
       "pcode": "3370", 
       "source": "afgeleidVanGebouw", 

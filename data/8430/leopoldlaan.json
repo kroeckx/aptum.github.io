@@ -218,11 +218,11 @@
         "109-113"
       ], 
       "housenumber": "109", 
-      "lat": 51.185900689036, 
-      "lon": 2.811720004262, 
+      "lat": 51.185894284667, 
+      "lon": 2.811725224884, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leopoldlaan"
     }, 
     {
@@ -267,11 +267,11 @@
         "109-113"
       ], 
       "housenumber": "111", 
-      "lat": 51.185900689036, 
-      "lon": 2.811720004262, 
+      "lat": 51.185894284667, 
+      "lon": 2.811725224884, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leopoldlaan"
     }, 
     {
@@ -295,11 +295,11 @@
         "109-113"
       ], 
       "housenumber": "113", 
-      "lat": 51.185900689036, 
-      "lon": 2.811720004262, 
+      "lat": 51.185894284667, 
+      "lon": 2.811725224884, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leopoldlaan"
     }, 
     {
@@ -706,8 +706,8 @@
         "132-148"
       ], 
       "housenumber": "132", 
-      "lat": 51.186117199536, 
-      "lon": 2.810780046698, 
+      "lat": 51.186162254822, 
+      "lon": 2.810726469855, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -780,8 +780,8 @@
         "132-148"
       ], 
       "housenumber": "134", 
-      "lat": 51.186117199536, 
-      "lon": 2.810780046698, 
+      "lat": 51.186162254822, 
+      "lon": 2.810726469855, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -867,8 +867,8 @@
         "132-148"
       ], 
       "housenumber": "136", 
-      "lat": 51.186117199536, 
-      "lon": 2.810780046698, 
+      "lat": 51.186162254822, 
+      "lon": 2.810726469855, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -944,8 +944,8 @@
         "132-148"
       ], 
       "housenumber": "138", 
-      "lat": 51.186117199536, 
-      "lon": 2.810780046698, 
+      "lat": 51.186162254822, 
+      "lon": 2.810726469855, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1038,10 +1038,17 @@
       "street": "Leopoldlaan"
     }, 
     {
-      "hnrlbls": [
-        "140"
+      "apptnrs": [
+        "0101", 
+        "0201", 
+        "0301", 
+        "0401", 
+        "0501"
       ], 
-      "housenumber": "140", 
+      "hnrlbls": [
+        "140B"
+      ], 
+      "housenumber": "140B", 
       "lat": 51.185886270818, 
       "lon": 2.810776023789, 
       "municipality": "Middelkerke", 
@@ -1321,8 +1328,8 @@
         "157-160"
       ], 
       "housenumber": "158", 
-      "lat": 51.185605524149, 
-      "lon": 2.809694019728, 
+      "lat": 51.185623093005, 
+      "lon": 2.809676409245, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1364,8 +1371,8 @@
         "157-160"
       ], 
       "housenumber": "160", 
-      "lat": 51.185605524149, 
-      "lon": 2.809694019728, 
+      "lat": 51.185623093005, 
+      "lon": 2.809676409245, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1381,11 +1388,11 @@
         "0202"
       ], 
       "hnrlbls": [
-        "161-163"
+        "161"
       ], 
       "housenumber": "161", 
-      "lat": 51.183595305264, 
-      "lon": 2.806206080741, 
+      "lat": 51.183648647103, 
+      "lon": 2.806330608528, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1430,11 +1437,11 @@
         "0202"
       ], 
       "hnrlbls": [
-        "161-163"
+        "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.183595305264, 
-      "lon": 2.806206080741, 
+      "lat": 51.1835419822, 
+      "lon": 2.806082983104, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1771,8 +1778,8 @@
         "174-192"
       ], 
       "housenumber": "192", 
-      "lat": 51.185091184991, 
-      "lon": 2.808618119087, 
+      "lat": 51.185029495463, 
+      "lon": 2.808630623899, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1997,11 +2004,11 @@
     }, 
     {
       "hnrlbls": [
-        "216-218"
+        "216"
       ], 
       "housenumber": "216", 
-      "lat": 51.184351229493, 
-      "lon": 2.807158539599, 
+      "lat": 51.184368598984, 
+      "lon": 2.807214321161, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2009,11 +2016,11 @@
     }, 
     {
       "hnrlbls": [
-        "216-218"
+        "218"
       ], 
       "housenumber": "218", 
-      "lat": 51.184351229493, 
-      "lon": 2.807158539599, 
+      "lat": 51.184325621541, 
+      "lon": 2.807112045986, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2697,8 +2704,8 @@
         "298"
       ], 
       "housenumber": "298", 
-      "lat": 51.182659088926, 
-      "lon": 2.803017711351, 
+      "lat": 51.18259117767, 
+      "lon": 2.80309666242, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2855,8 +2862,8 @@
         "310"
       ], 
       "housenumber": "310", 
-      "lat": 51.182190648933, 
-      "lon": 2.801963726091, 
+      "lat": 51.18212641855, 
+      "lon": 2.802096482621, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2906,8 +2913,8 @@
         "246-324"
       ], 
       "housenumber": "322", 
-      "lat": 51.181608689384, 
-      "lon": 2.800533362875, 
+      "lat": 51.181668971113, 
+      "lon": 2.80046224735, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 
@@ -2918,8 +2925,8 @@
         "246-324"
       ], 
       "housenumber": "324", 
-      "lat": 51.181608689384, 
-      "lon": 2.800533362875, 
+      "lat": 51.181668971113, 
+      "lon": 2.80046224735, 
       "municipality": "Middelkerke", 
       "pcode": "8430", 
       "source": "manueleAanduidingVanGebouw", 

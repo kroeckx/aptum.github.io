@@ -133,6 +133,65 @@
       "street": "Krikelshoutstraat"
     }, 
     {
+      "busnrs": [
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02"
+      ], 
+      "hnrlbls": [
+        "34-38", 
+        "34"
+      ], 
+      "housenumber": "34", 
+      "lat": 50.955162382232, 
+      "lon": 5.309184248518, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Krikelshoutstraat"
+    }, 
+    {
+      "busnrs": [
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02", 
+        "3.01", 
+        "3.02"
+      ], 
+      "hnrlbls": [
+        "34-38", 
+        "36"
+      ], 
+      "housenumber": "36", 
+      "lat": 50.955162382232, 
+      "lon": 5.309184248518, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Krikelshoutstraat"
+    }, 
+    {
+      "busnrs": [
+        "1.01", 
+        "1.02", 
+        "2.01", 
+        "2.02"
+      ], 
+      "hnrlbls": [
+        "34-38", 
+        "38"
+      ], 
+      "housenumber": "38", 
+      "lat": 50.955162382232, 
+      "lon": 5.309184248518, 
+      "municipality": "Hasselt", 
+      "pcode": "3511", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Krikelshoutstraat"
+    }, 
+    {
       "hnrlbls": [
         "4"
       ], 
@@ -173,8 +232,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.954750494571, 
-      "lon": 5.306605326732, 
+      "lat": 50.954751584554, 
+      "lon": 5.306603925228, 
       "municipality": "Hasselt", 
       "pcode": "3511", 
       "source": "afgeleidVanGebouw", 

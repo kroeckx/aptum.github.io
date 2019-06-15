@@ -14,6 +14,18 @@
     }, 
     {
       "hnrlbls": [
+        "10"
+      ], 
+      "housenumber": "10", 
+      "lat": 50.702385050351, 
+      "lon": 3.985925836457, 
+      "municipality": "Herne", 
+      "pcode": "1541", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Halvemaanstraat"
+    }, 
+    {
+      "hnrlbls": [
         "2"
       ], 
       "housenumber": "2", 
@@ -113,11 +125,11 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.70227512892, 
-      "lon": 3.986126327324, 
+      "lat": 50.702315382352, 
+      "lon": 3.986147235344, 
       "municipality": "Herne", 
       "pcode": "1541", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Halvemaanstraat"
     }
   ]

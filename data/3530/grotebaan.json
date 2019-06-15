@@ -249,8 +249,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.031670872245, 
-      "lon": 5.377072816737, 
+      "lat": 51.03166384386, 
+      "lon": 5.377085211195, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -491,8 +491,8 @@
         "137"
       ], 
       "housenumber": "137", 
-      "lat": 51.035253776362, 
-      "lon": 5.377208213128, 
+      "lat": 51.035255664396, 
+      "lon": 5.377197703029, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -756,8 +756,8 @@
         "155A"
       ], 
       "housenumber": "155A", 
-      "lat": 51.03763128762, 
-      "lon": 5.377704191055, 
+      "lat": 51.03762286028, 
+      "lon": 5.377732954167, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -804,8 +804,8 @@
         "165"
       ], 
       "housenumber": "165", 
-      "lat": 51.038701175313, 
-      "lon": 5.378185262613, 
+      "lat": 51.038704050298, 
+      "lon": 5.378185467241, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1366,15 +1366,23 @@
       "street": "Grote Baan"
     }, 
     {
+      "apptnrs": [
+        "211/1", 
+        "211/1-1", 
+        "211/1-2", 
+        "211/2", 
+        "211/2-1", 
+        "211/2-2"
+      ], 
       "hnrlbls": [
         "211"
       ], 
       "housenumber": "211", 
-      "lat": 51.042621445651, 
-      "lon": 5.379327678224, 
+      "lat": 51.042583082977, 
+      "lon": 5.379167849569, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1387,18 +1395,6 @@
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
-      "street": "Grote Baan"
-    }, 
-    {
-      "hnrlbls": [
-        "213"
-      ], 
-      "housenumber": "213", 
-      "lat": 51.042664111452, 
-      "lon": 5.379363252068, 
-      "municipality": "Houthalen-Helchteren", 
-      "pcode": "3530", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Grote Baan"
     }, 
     {
@@ -1418,8 +1414,8 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 51.042791205535, 
-      "lon": 5.379156374056, 
+      "lat": 51.042792958929, 
+      "lon": 5.379182507983, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -1949,8 +1945,8 @@
         "2A-337"
       ], 
       "housenumber": "337", 
-      "lat": 51.052405927681, 
-      "lon": 5.381033603131, 
+      "lat": 51.052405774897, 
+      "lon": 5.381030461948, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -2455,8 +2451,8 @@
         "373"
       ], 
       "housenumber": "373", 
-      "lat": 51.05526982401, 
-      "lon": 5.382023469306, 
+      "lat": 51.055268089543, 
+      "lon": 5.382036982471, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -2502,6 +2498,7 @@
       "apptnrs": [
         "01-1", 
         "01-2", 
+        "01-3", 
         "02-1", 
         "02-2", 
         "02-3", 
@@ -2960,8 +2957,8 @@
         "428"
       ], 
       "housenumber": "428", 
-      "lat": 51.058268138529, 
-      "lon": 5.38320794972, 
+      "lat": 51.058268283881, 
+      "lon": 5.383211947035, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -3129,8 +3126,8 @@
         "442"
       ], 
       "housenumber": "442", 
-      "lat": 51.059132345514, 
-      "lon": 5.383424556798, 
+      "lat": 51.059132532651, 
+      "lon": 5.383423704952, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -3605,8 +3602,8 @@
         "475"
       ], 
       "housenumber": "475", 
-      "lat": 51.063057561856, 
-      "lon": 5.382754341479, 
+      "lat": 51.063062372209, 
+      "lon": 5.382749024603, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -3706,8 +3703,8 @@
         "480"
       ], 
       "housenumber": "480", 
-      "lat": 51.062410069157, 
-      "lon": 5.383761896152, 
+      "lat": 51.062392545491, 
+      "lon": 5.383709016394, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -3879,8 +3876,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.025506458096, 
-      "lon": 5.37536039779, 
+      "lat": 51.025486951068, 
+      "lon": 5.375402315072, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 
@@ -4297,8 +4294,8 @@
         "555"
       ], 
       "housenumber": "555", 
-      "lat": 51.072305237357, 
-      "lon": 5.380503792711, 
+      "lat": 51.072305690436, 
+      "lon": 5.380503374444, 
       "municipality": "Houthalen-Helchteren", 
       "pcode": "3530", 
       "source": "afgeleidVanGebouw", 

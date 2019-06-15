@@ -365,18 +365,15 @@
       "street": "Vrijhandelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
-      ], 
       "hnrlbls": [
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.238705252095, 
-      "lon": 4.444235504242, 
+      "lat": 51.238407940477, 
+      "lon": 4.444340403699, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Vrijhandelstraat"
     }, 
     {
@@ -392,6 +389,12 @@
       "street": "Vrijhandelstraat"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
         "41"
       ], 
@@ -408,11 +411,11 @@
         "43"
       ], 
       "housenumber": "43", 
-      "lat": 51.238385607648, 
-      "lon": 4.444265766948, 
+      "lat": 51.238357664029, 
+      "lon": 4.444250113934, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Vrijhandelstraat"
     }, 
     {
@@ -432,11 +435,11 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.23840575827, 
-      "lon": 4.444239739927, 
+      "lat": 51.238330025177, 
+      "lon": 4.444179907419, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Vrijhandelstraat"
     }, 
     {
@@ -452,18 +455,21 @@
       "street": "Vrijhandelstraat"
     }, 
     {
-      "busnrs": [
-        "2"
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 51.238379346811, 
-      "lon": 4.444217646031, 
+      "lat": 51.238313689651, 
+      "lon": 4.444143797782, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanToegangTotDeWeg", 
       "street": "Vrijhandelstraat"
     }, 
     {

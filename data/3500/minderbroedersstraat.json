@@ -148,11 +148,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.931920873317, 
-      "lon": 5.337924797554, 
+      "lat": 50.931893835667, 
+      "lon": 5.337693345365, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "geinterpoleerdObvWegverbinding", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Minderbroedersstraat"
     }, 
     {
@@ -527,21 +527,19 @@
     {
       "apptnrs": [
         "1", 
-        "4"
-      ], 
-      "busnrs": [
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.931771741284, 
-      "lon": 5.337585547626, 
+      "lat": 50.931830237398, 
+      "lon": 5.337545500077, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Minderbroedersstraat"
     }, 
     {
@@ -561,8 +559,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.931793127794, 
-      "lon": 5.337619421346, 
+      "lat": 50.93185068772, 
+      "lon": 5.337420446552, 
       "municipality": "Hasselt", 
       "pcode": "3500", 
       "source": "afgeleidVanGebouw", 

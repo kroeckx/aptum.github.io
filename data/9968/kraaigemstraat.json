@@ -86,7 +86,7 @@
     }, 
     {
       "hnrlbls": [
-        "16"
+        "16-16A"
       ], 
       "housenumber": "16", 
       "lat": 51.227490885789, 
@@ -98,14 +98,14 @@
     }, 
     {
       "hnrlbls": [
-        "16A"
+        "16-16A"
       ], 
       "housenumber": "16A", 
-      "lat": 51.227578216789, 
-      "lon": 3.676126250113, 
+      "lat": 51.227490885789, 
+      "lon": 3.675104530142, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kraaigemstraat"
     }, 
     {
@@ -389,11 +389,11 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 51.221353285321, 
-      "lon": 3.674985043684, 
+      "lat": 51.221353013164, 
+      "lon": 3.674984618309, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kraaigemstraat"
     }, 
     {
@@ -401,11 +401,11 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.22811139924, 
-      "lon": 3.675000534096, 
+      "lat": 51.228132109435, 
+      "lon": 3.674991350215, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kraaigemstraat"
     }, 
     {
@@ -593,11 +593,11 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 51.227803419628, 
-      "lon": 3.674413717608, 
+      "lat": 51.227831989417, 
+      "lon": 3.67448787906, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kraaigemstraat"
     }, 
     {
@@ -629,8 +629,8 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 51.219231797764, 
-      "lon": 3.676082208907, 
+      "lat": 51.219233905463, 
+      "lon": 3.676073732727, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -689,8 +689,8 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.213792998385, 
-      "lon": 3.678274749557, 
+      "lat": 51.213794930359, 
+      "lon": 3.678251535997, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "afgeleidVanGebouw", 
@@ -713,8 +713,8 @@
         "58A"
       ], 
       "housenumber": "58A", 
-      "lat": 51.212128436133, 
-      "lon": 3.679845123156, 
+      "lat": 51.212259492169, 
+      "lon": 3.67979868116, 
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "manueleAanduidingVanGebouw", 
@@ -730,6 +730,18 @@
       "municipality": "Assenede", 
       "pcode": "9968", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Kraaigemstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "5A"
+      ], 
+      "housenumber": "5A", 
+      "lat": 51.227609354992, 
+      "lon": 3.674444807491, 
+      "municipality": "Assenede", 
+      "pcode": "9968", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Kraaigemstraat"
     }, 
     {
@@ -821,11 +833,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.227494867108, 
-      "lon": 3.674587665912, 
+      "lat": 51.22756246717, 
+      "lon": 3.674450515672, 
       "municipality": "Assenede", 
       "pcode": "9968", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Kraaigemstraat"
     }, 
     {

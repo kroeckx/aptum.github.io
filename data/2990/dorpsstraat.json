@@ -401,15 +401,24 @@
       "street": "Dorpsstraat"
     }, 
     {
+      "apptnrs": [
+        "bus1", 
+        "bus2", 
+        "bus3", 
+        "bus4", 
+        "bus5", 
+        "bus6", 
+        "bus7"
+      ], 
       "hnrlbls": [
         "139"
       ], 
       "housenumber": "139", 
-      "lat": 51.38856648216, 
-      "lon": 4.595845182623, 
+      "lat": 51.387717406551, 
+      "lon": 4.600525361693, 
       "municipality": "Wuustwezel", 
       "pcode": "2990", 
-      "source": "afgeleidVanStraat", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Dorpsstraat"
     }, 
     {

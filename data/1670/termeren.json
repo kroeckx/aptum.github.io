@@ -86,50 +86,14 @@
     }, 
     {
       "hnrlbls": [
-        "8-8C"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.747850209806, 
-      "lon": 4.187312239621, 
+      "lat": 50.74789599067, 
+      "lon": 4.187327083733, 
       "municipality": "Pepingen", 
       "pcode": "1670", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Termeren"
-    }, 
-    {
-      "hnrlbls": [
-        "8A-8B"
-      ], 
-      "housenumber": "8A", 
-      "lat": 50.747673712503, 
-      "lon": 4.187527018407, 
-      "municipality": "Pepingen", 
-      "pcode": "1670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Termeren"
-    }, 
-    {
-      "hnrlbls": [
-        "8A-8B"
-      ], 
-      "housenumber": "8B", 
-      "lat": 50.747673712503, 
-      "lon": 4.187527018407, 
-      "municipality": "Pepingen", 
-      "pcode": "1670", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
-      "street": "Termeren"
-    }, 
-    {
-      "hnrlbls": [
-        "8-8C"
-      ], 
-      "housenumber": "8C", 
-      "lat": 50.747850209806, 
-      "lon": 4.187312239621, 
-      "municipality": "Pepingen", 
-      "pcode": "1670", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Termeren"
     }
   ]

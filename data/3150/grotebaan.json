@@ -921,8 +921,32 @@
         "171"
       ], 
       "housenumber": "171", 
-      "lat": 50.960544445534, 
-      "lon": 4.622962685239, 
+      "lat": 50.960636935559, 
+      "lon": 4.62313285631, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "171A"
+      ], 
+      "housenumber": "171A", 
+      "lat": 50.960644728496, 
+      "lon": 4.623021304759, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "171B"
+      ], 
+      "housenumber": "171B", 
+      "lat": 50.960661685948, 
+      "lon": 4.622911795728, 
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
@@ -993,11 +1017,11 @@
         "180"
       ], 
       "housenumber": "180", 
-      "lat": 50.961115851095, 
-      "lon": 4.623727171437, 
+      "lat": 50.961130165067, 
+      "lon": 4.623676149173, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1005,11 +1029,11 @@
         "180A"
       ], 
       "housenumber": "180A", 
-      "lat": 50.96106621906, 
-      "lon": 4.623691031028, 
+      "lat": 50.96106626563, 
+      "lon": 4.623628259125, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1173,11 +1197,11 @@
         "192"
       ], 
       "housenumber": "192", 
-      "lat": 50.961326658547, 
-      "lon": 4.62243813945, 
+      "lat": 50.961075657964, 
+      "lon": 4.622364468863, 
       "municipality": "Haacht", 
       "pcode": "3150", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Grote Baan"
     }, 
     {
@@ -1370,6 +1394,18 @@
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "206"
+      ], 
+      "housenumber": "206", 
+      "lat": 50.961231176612, 
+      "lon": 4.620568969108, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Grote Baan"
     }, 
     {
@@ -1895,6 +1931,18 @@
     }, 
     {
       "hnrlbls": [
+        "249"
+      ], 
+      "housenumber": "249", 
+      "lat": 50.962255503812, 
+      "lon": 4.613736988144, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
@@ -1903,6 +1951,18 @@
       "municipality": "Haacht", 
       "pcode": "3150", 
       "source": "afgeleidVanGebouw", 
+      "street": "Grote Baan"
+    }, 
+    {
+      "hnrlbls": [
+        "251"
+      ], 
+      "housenumber": "251", 
+      "lat": 50.962294281146, 
+      "lon": 4.613548727647, 
+      "municipality": "Haacht", 
+      "pcode": "3150", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Grote Baan"
     }, 
     {

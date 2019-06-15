@@ -1,6 +1,24 @@
 {
   "addresses": [
     {
+      "apptnrs": [
+        "0101", 
+        "0102", 
+        "0201", 
+        "0202"
+      ], 
+      "hnrlbls": [
+        "12"
+      ], 
+      "housenumber": "12", 
+      "lat": 50.893110481198, 
+      "lon": 3.849809573648, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Vlaamse Dreefstraat"
+    }, 
+    {
       "hnrlbls": [
         "2"
       ], 

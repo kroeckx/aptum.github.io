@@ -104,9 +104,6 @@
       "street": "Cirkelstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "16A"
       ], 
@@ -138,8 +135,8 @@
         "19-21"
       ], 
       "housenumber": "19", 
-      "lat": 51.233693185057, 
-      "lon": 2.92060977639, 
+      "lat": 51.233676056935, 
+      "lon": 2.920569210117, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -178,8 +175,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.233344632779, 
-      "lon": 2.919419739983, 
+      "lat": 51.233363890034, 
+      "lon": 2.919399236892, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanGebouw", 
@@ -190,17 +187,14 @@
         "19-21"
       ], 
       "housenumber": "21", 
-      "lat": 51.233693185057, 
-      "lon": 2.92060977639, 
+      "lat": 51.233676056935, 
+      "lon": 2.920569210117, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
       "street": "Cirkelstraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "21A"
       ], 
@@ -236,8 +230,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.233722072126, 
-      "lon": 2.920766398636, 
+      "lat": 51.23372520116, 
+      "lon": 2.92077231585, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -248,8 +242,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.233740746131, 
-      "lon": 2.920823098557, 
+      "lat": 51.233744671697, 
+      "lon": 2.920827988647, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -257,8 +251,10 @@
     }, 
     {
       "busnrs": [
+        "0301", 
         "0304", 
         "0307", 
+        "0402", 
         "0406", 
         "1", 
         "17"

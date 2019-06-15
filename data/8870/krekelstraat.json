@@ -186,39 +186,19 @@
       "street": "Krekelstraat"
     }, 
     {
-      "hnrlbls": [
-        "113_1"
+      "apptnrs": [
+        "0101", 
+        "0201"
       ], 
-      "housenumber": "113_1", 
-      "lat": 50.914930209846, 
-      "lon": 3.20881859576, 
+      "hnrlbls": [
+        "113"
+      ], 
+      "housenumber": "113", 
+      "lat": 50.914872288319, 
+      "lon": 3.208451968943, 
       "municipality": "Izegem", 
       "pcode": "8870", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Krekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "113_2"
-      ], 
-      "housenumber": "113_2", 
-      "lat": 50.914894088474, 
-      "lon": 3.208802421875, 
-      "municipality": "Izegem", 
-      "pcode": "8870", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Krekelstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "113_3"
-      ], 
-      "housenumber": "113_3", 
-      "lat": 50.914857967099, 
-      "lon": 3.208786248015, 
-      "municipality": "Izegem", 
-      "pcode": "8870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Krekelstraat"
     }, 
     {

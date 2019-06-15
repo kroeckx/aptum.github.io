@@ -65,8 +65,8 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.075301476699, 
-      "lon": 4.288925952674, 
+      "lat": 51.075297967209, 
+      "lon": 4.288920251118, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -77,11 +77,11 @@
         "104"
       ], 
       "housenumber": "104", 
-      "lat": 51.074259757898, 
-      "lon": 4.290826270492, 
+      "lat": 51.074356143058, 
+      "lon": 4.290863494677, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -201,11 +201,11 @@
         "113"
       ], 
       "housenumber": "113", 
-      "lat": 51.075158674539, 
-      "lon": 4.289644908222, 
+      "lat": 51.075110828896, 
+      "lon": 4.289607604498, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -225,11 +225,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.075226459519, 
-      "lon": 4.289793474561, 
+      "lat": 51.075079996967, 
+      "lon": 4.289742637797, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -453,11 +453,11 @@
         "147"
       ], 
       "housenumber": "147", 
-      "lat": 51.074375841562, 
-      "lon": 4.293964710098, 
+      "lat": 51.074414117544, 
+      "lon": 4.293938252812, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -465,8 +465,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.076103673405, 
-      "lon": 4.283656202797, 
+      "lat": 51.076097202549, 
+      "lon": 4.283657784061, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -525,8 +525,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.076235044288, 
-      "lon": 4.283842604531, 
+      "lat": 51.076237471179, 
+      "lon": 4.283842457471, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -585,8 +585,8 @@
         "22"
       ], 
       "housenumber": "22", 
-      "lat": 51.075730820963, 
-      "lon": 4.284294693924, 
+      "lat": 51.075725244825, 
+      "lon": 4.28429042325, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -621,11 +621,11 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 51.076543269346, 
-      "lon": 4.28396376512, 
+      "lat": 51.076542189461, 
+      "lon": 4.283962054768, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -645,11 +645,11 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.076618417949, 
-      "lon": 4.283966055764, 
+      "lat": 51.076615181858, 
+      "lon": 4.283965918891, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -1080,11 +1080,11 @@
         "57"
       ], 
       "housenumber": "57", 
-      "lat": 51.075845652116, 
-      "lon": 4.285888467254, 
+      "lat": 51.07589214423, 
+      "lon": 4.285916638032, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -1179,8 +1179,8 @@
         "66"
       ], 
       "housenumber": "66", 
-      "lat": 51.075409813951, 
-      "lon": 4.286452563862, 
+      "lat": 51.075418175274, 
+      "lon": 4.286454974965, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 
@@ -1283,13 +1283,6 @@
       "street": "G. Gezellelaan"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "101", 
-        "102", 
-        "2", 
-        "201"
-      ], 
       "hnrlbls": [
         "74"
       ], 
@@ -1298,7 +1291,7 @@
       "lon": 4.286855890833, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -1313,11 +1306,11 @@
         "74A"
       ], 
       "housenumber": "74A", 
-      "lat": 51.075315218497, 
-      "lon": 4.287057010002, 
+      "lat": 51.075293740896, 
+      "lon": 4.287065465747, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "G. Gezellelaan"
     }, 
     {
@@ -1447,8 +1440,8 @@
         "82A"
       ], 
       "housenumber": "82A", 
-      "lat": 51.075005349641, 
-      "lon": 4.288077326627, 
+      "lat": 51.075005345864, 
+      "lon": 4.288071761862, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1467,8 +1460,8 @@
         "82B"
       ], 
       "housenumber": "82B", 
-      "lat": 51.074943867364, 
-      "lon": 4.288345111172, 
+      "lat": 51.074946381834, 
+      "lon": 4.28834153973, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1515,8 +1508,8 @@
         "85"
       ], 
       "housenumber": "85", 
-      "lat": 51.075661604941, 
-      "lon": 4.287384878958, 
+      "lat": 51.075660525789, 
+      "lon": 4.287384167377, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2870", 
       "source": "afgeleidVanGebouw", 

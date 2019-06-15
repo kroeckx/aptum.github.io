@@ -125,6 +125,25 @@
       "street": "Vogelzangstraat"
     }, 
     {
+      "busnrs": [
+        "Bus 1", 
+        "Bus 2", 
+        "Bus 3", 
+        "Bus 4", 
+        "Bus 5"
+      ], 
+      "hnrlbls": [
+        "20"
+      ], 
+      "housenumber": "20", 
+      "lat": 51.197858494519, 
+      "lon": 4.634588741105, 
+      "municipality": "Zandhoven", 
+      "pcode": "2240", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Vogelzangstraat"
+    }, 
+    {
       "hnrlbls": [
         "21"
       ], 
@@ -153,8 +172,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.19874440835, 
-      "lon": 4.634107808314, 
+      "lat": 51.198743516917, 
+      "lon": 4.634104512718, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "afgeleidVanGebouw", 
@@ -429,8 +448,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.199609815141, 
-      "lon": 4.633711723147, 
+      "lat": 51.199609996838, 
+      "lon": 4.633710865771, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "afgeleidVanGebouw", 
@@ -489,8 +508,8 @@
         "50"
       ], 
       "housenumber": "50", 
-      "lat": 51.199222095955, 
-      "lon": 4.632086990225, 
+      "lat": 51.199222186159, 
+      "lon": 4.632086847668, 
       "municipality": "Zandhoven", 
       "pcode": "2240", 
       "source": "afgeleidVanGebouw", 

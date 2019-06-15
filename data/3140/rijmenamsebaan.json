@@ -317,8 +317,8 @@
         "2A"
       ], 
       "housenumber": "2A", 
-      "lat": 51.005114287478, 
-      "lon": 4.622984641938, 
+      "lat": 51.005099759506, 
+      "lon": 4.622968748238, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -461,8 +461,8 @@
         "4"
       ], 
       "housenumber": "4", 
-      "lat": 51.005189138299, 
-      "lon": 4.6214578646, 
+      "lat": 51.005192563947, 
+      "lon": 4.621453323944, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -574,6 +574,42 @@
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
+      "street": "Rijmenamsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9"
+      ], 
+      "housenumber": "9", 
+      "lat": 51.005299953452, 
+      "lon": 4.61958192748, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Rijmenamsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9A"
+      ], 
+      "housenumber": "9A", 
+      "lat": 51.005252495232, 
+      "lon": 4.619116777672, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Rijmenamsebaan"
+    }, 
+    {
+      "hnrlbls": [
+        "9B"
+      ], 
+      "housenumber": "9B", 
+      "lat": 51.005241688831, 
+      "lon": 4.618872945577, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Rijmenamsebaan"
     }
   ]

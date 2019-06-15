@@ -47,10 +47,6 @@
         "00-2", 
         "01-1"
       ], 
-      "busnrs": [
-        "01", 
-        "11"
-      ], 
       "hnrlbls": [
         "6"
       ], 
@@ -67,26 +63,26 @@
         "1"
       ], 
       "hnrlbls": [
-        "8"
+        "8-8A"
       ], 
       "housenumber": "8", 
-      "lat": 51.410699868371, 
-      "lon": 5.004344135365, 
+      "lat": 51.410682652197, 
+      "lon": 5.004319753978, 
       "municipality": "Ravels", 
       "pcode": "2381", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "St.-Jansstraat"
     }, 
     {
       "hnrlbls": [
-        "8A"
+        "8-8A"
       ], 
       "housenumber": "8A", 
-      "lat": 51.410661956371, 
-      "lon": 5.004290582072, 
+      "lat": 51.410682652197, 
+      "lon": 5.004319753978, 
       "municipality": "Ravels", 
       "pcode": "2381", 
-      "source": "afgeleidVanPerceelKadaster", 
+      "source": "afgeleidVanGebouw", 
       "street": "St.-Jansstraat"
     }
   ]

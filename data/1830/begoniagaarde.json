@@ -146,15 +146,15 @@
         "0101"
       ], 
       "busnrs": [
-        "102", 
-        "2"
+        "0002", 
+        "0102"
       ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.91622854513, 
-      "lon": 4.440054081287, 
+      "lat": 50.916172154931, 
+      "lon": 4.44009822011, 
       "municipality": "Machelen", 
       "pcode": "1830", 
       "source": "manueleAanduidingVanGebouw", 
@@ -169,11 +169,11 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.916166115247, 
-      "lon": 4.440125656127, 
+      "lat": 50.916143584826, 
+      "lon": 4.440510708588, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Begoniagaarde"
     }, 
     {
@@ -182,18 +182,18 @@
         "0101"
       ], 
       "busnrs": [
-        "102", 
-        "2"
+        "0002", 
+        "0102"
       ], 
       "hnrlbls": [
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.916144418762, 
-      "lon": 4.440178095906, 
+      "lat": 50.916211742371, 
+      "lon": 4.440626567598, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Begoniagaarde"
     }, 
     {
@@ -202,18 +202,18 @@
         "0101"
       ], 
       "busnrs": [
-        "102", 
-        "2"
+        "0002", 
+        "0102"
       ], 
       "hnrlbls": [
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.916144482706, 
-      "lon": 4.440512416416, 
+      "lat": 50.916306232809, 
+      "lon": 4.440751710979, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Begoniagaarde"
     }, 
     {
@@ -222,34 +222,30 @@
         "0101"
       ], 
       "busnrs": [
-        "102", 
-        "2"
+        "0002", 
+        "0102"
       ], 
       "hnrlbls": [
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 50.916185526466, 
-      "lon": 4.440573200713, 
+      "lat": 50.916393353538, 
+      "lon": 4.44087414155, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Begoniagaarde"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 50.916229985346, 
-      "lon": 4.44063527023, 
+      "lat": 50.916698864159, 
+      "lon": 4.440643247658, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Begoniagaarde"
     }, 
     {
@@ -265,65 +261,51 @@
       "street": "Begoniagaarde"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 50.916265632894, 
-      "lon": 4.440700170307, 
+      "lat": 50.916752495978, 
+      "lon": 4.440699075082, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Begoniagaarde"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0101"
-      ], 
       "hnrlbls": [
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.916312784985, 
-      "lon": 4.440767932382, 
+      "lat": 50.91680054365, 
+      "lon": 4.440772243055, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Begoniagaarde"
     }, 
     {
-      "apptnrs": [
-        "0001", 
-        "0002", 
-        "0101", 
-        "0102"
-      ], 
       "hnrlbls": [
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.916358228182, 
-      "lon": 4.440837113985, 
+      "lat": 50.91684509469, 
+      "lon": 4.440830474166, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Begoniagaarde"
     }, 
     {
       "hnrlbls": [
-        "39"
+        "37"
       ], 
-      "housenumber": "39", 
-      "lat": 50.916698861699, 
-      "lon": 4.440647229399, 
+      "housenumber": "37", 
+      "lat": 50.91688720994, 
+      "lon": 4.44090263777, 
       "municipality": "Machelen", 
       "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Begoniagaarde"
     }, 
     {
@@ -348,54 +330,6 @@
       "municipality": "Machelen", 
       "pcode": "1830", 
       "source": "afgeleidVanGebouw", 
-      "street": "Begoniagaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "41"
-      ], 
-      "housenumber": "41", 
-      "lat": 50.916744303203, 
-      "lon": 4.440719255558, 
-      "municipality": "Machelen", 
-      "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Begoniagaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "43"
-      ], 
-      "housenumber": "43", 
-      "lat": 50.916788760238, 
-      "lon": 4.440784170059, 
-      "municipality": "Machelen", 
-      "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Begoniagaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "45"
-      ], 
-      "housenumber": "45", 
-      "lat": 50.916836004809, 
-      "lon": 4.440847666949, 
-      "municipality": "Machelen", 
-      "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
-      "street": "Begoniagaarde"
-    }, 
-    {
-      "hnrlbls": [
-        "47"
-      ], 
-      "housenumber": "47", 
-      "lat": 50.916880549902, 
-      "lon": 4.44091542595, 
-      "municipality": "Machelen", 
-      "pcode": "1830", 
-      "source": "manueleAanduidingVanPerceel", 
       "street": "Begoniagaarde"
     }, 
     {

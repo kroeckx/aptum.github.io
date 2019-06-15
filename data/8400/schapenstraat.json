@@ -65,11 +65,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.213162240814, 
-      "lon": 2.909550255748, 
+      "lat": 51.213040975731, 
+      "lon": 2.90950022945, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schapenstraat"
     }, 
     {
@@ -149,8 +149,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.212661847675, 
-      "lon": 2.909615718057, 
+      "lat": 51.212652605179, 
+      "lon": 2.90960255243, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -234,8 +234,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.212985486622, 
-      "lon": 2.909127091529, 
+      "lat": 51.212979389609, 
+      "lon": 2.909121127434, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -373,6 +373,18 @@
       "housenumber": "45", 
       "lat": 51.210873453, 
       "lon": 2.91216940551, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Schapenstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "45A"
+      ], 
+      "housenumber": "45A", 
+      "lat": 51.211026820251, 
+      "lon": 2.911986563519, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 

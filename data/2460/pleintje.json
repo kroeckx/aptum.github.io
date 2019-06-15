@@ -41,8 +41,8 @@
         "14"
       ], 
       "housenumber": "14", 
-      "lat": 51.25012505031, 
-      "lon": 4.901760885234, 
+      "lat": 51.250151373242, 
+      "lon": 4.901823633406, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
@@ -226,6 +226,18 @@
       "municipality": "Kasterlee", 
       "pcode": "2460", 
       "source": "afgeleidVanGebouw", 
+      "street": "Pleintje"
+    }, 
+    {
+      "hnrlbls": [
+        "3"
+      ], 
+      "housenumber": "3", 
+      "lat": 51.249250482726, 
+      "lon": 4.903130684584, 
+      "municipality": "Kasterlee", 
+      "pcode": "2460", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Pleintje"
     }, 
     {
@@ -473,11 +485,11 @@
         "9"
       ], 
       "housenumber": "9", 
-      "lat": 51.24932898156, 
-      "lon": 4.902189316421, 
+      "lat": 51.249377059884, 
+      "lon": 4.902211494335, 
       "municipality": "Kasterlee", 
       "pcode": "2460", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Pleintje"
     }
   ]

@@ -27,8 +27,8 @@
         "100"
       ], 
       "housenumber": "100", 
-      "lat": 50.926769047342, 
-      "lon": 5.172477073633, 
+      "lat": 50.926770014388, 
+      "lon": 5.172467133134, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -389,7 +389,7 @@
       "lon": 5.172431060395, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -401,7 +401,7 @@
       "lon": 5.172460714368, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -552,8 +552,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.918166320441, 
-      "lon": 5.175841842556, 
+      "lat": 50.918166693764, 
+      "lon": 5.175826773877, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -672,8 +672,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 50.917077523846, 
-      "lon": 5.176434911211, 
+      "lat": 50.917075639965, 
+      "lon": 5.176447393655, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -780,8 +780,8 @@
         "167"
       ], 
       "housenumber": "167", 
-      "lat": 50.917466304412, 
-      "lon": 5.175315257901, 
+      "lat": 50.917472325905, 
+      "lon": 5.175328587541, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -1109,6 +1109,18 @@
     }, 
     {
       "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.932477724733, 
+      "lon": 5.170181685645, 
+      "municipality": "Herk-de-Stad", 
+      "pcode": "3540", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Sint-Truidersteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "31"
       ], 
       "housenumber": "31", 
@@ -1129,6 +1141,18 @@
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
+      "street": "Sint-Truidersteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "32A"
+      ], 
+      "housenumber": "32A", 
+      "lat": 50.932244315621, 
+      "lon": 5.170265612375, 
+      "municipality": "Herk-de-Stad", 
+      "pcode": "3540", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Sint-Truidersteenweg"
     }, 
     {
@@ -1211,8 +1235,8 @@
         "39"
       ], 
       "housenumber": "39", 
-      "lat": 50.931882558309, 
-      "lon": 5.169687117729, 
+      "lat": 50.931883439717, 
+      "lon": 5.169689693457, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -1327,8 +1351,8 @@
         "47"
       ], 
       "housenumber": "47", 
-      "lat": 50.931174335753, 
-      "lon": 5.169832781293, 
+      "lat": 50.931177101887, 
+      "lon": 5.169835815963, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -1556,8 +1580,8 @@
         "68"
       ], 
       "housenumber": "68", 
-      "lat": 50.929203629798, 
-      "lon": 5.171484785688, 
+      "lat": 50.929204345412, 
+      "lon": 5.171498454067, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 
@@ -1736,8 +1760,8 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.928423348207, 
-      "lon": 5.170953639587, 
+      "lat": 50.928420408156, 
+      "lon": 5.17094974856, 
       "municipality": "Herk-de-Stad", 
       "pcode": "3540", 
       "source": "afgeleidVanGebouw", 

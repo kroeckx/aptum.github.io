@@ -81,8 +81,8 @@
         "110-112"
       ], 
       "housenumber": "110", 
-      "lat": 50.87223591883, 
-      "lon": 4.719748559389, 
+      "lat": 50.872239683711, 
+      "lon": 4.719752139375, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -93,8 +93,8 @@
         "110-112"
       ], 
       "housenumber": "112", 
-      "lat": 50.87223591883, 
-      "lon": 4.719748559389, 
+      "lat": 50.872239683711, 
+      "lon": 4.719752139375, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 
@@ -274,9 +274,21 @@
     }, 
     {
       "hnrlbls": [
-        "140"
+        "140-140C"
       ], 
       "housenumber": "140", 
+      "lat": 50.872008303689, 
+      "lon": 4.720796763449, 
+      "municipality": "Leuven", 
+      "pcode": "3001", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Tiensesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "140-140C"
+      ], 
+      "housenumber": "140C", 
       "lat": 50.872008303689, 
       "lon": 4.720796763449, 
       "municipality": "Leuven", 
@@ -1065,24 +1077,16 @@
       "street": "Tiensesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0101"
+      ], 
       "hnrlbls": [
         "244"
       ], 
       "housenumber": "244", 
       "lat": 50.870723042258, 
       "lon": 4.726353747978, 
-      "municipality": "Leuven", 
-      "pcode": "3001", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Tiensesteenweg"
-    }, 
-    {
-      "hnrlbls": [
-        "244A"
-      ], 
-      "housenumber": "244A", 
-      "lat": 50.870717654723, 
-      "lon": 4.726351717948, 
       "municipality": "Leuven", 
       "pcode": "3001", 
       "source": "afgeleidVanGebouw", 

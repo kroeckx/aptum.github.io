@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 50.846030023493, 
+      "lon": 3.26847460611, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "100"
       ], 
       "housenumber": "100", 
@@ -113,11 +125,11 @@
         "111"
       ], 
       "housenumber": "111", 
-      "lat": 50.850926276301, 
-      "lon": 3.269389146326, 
+      "lat": 50.850889114074, 
+      "lon": 3.269481760953, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -438,6 +450,9 @@
       "street": "Brugsesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0011"
+      ], 
       "hnrlbls": [
         "142"
       ], 
@@ -621,15 +636,18 @@
       "street": "Brugsesteenweg"
     }, 
     {
+      "busnrs": [
+        "A"
+      ], 
       "hnrlbls": [
         "162"
       ], 
       "housenumber": "162", 
-      "lat": 50.856299693305, 
-      "lon": 3.270741996514, 
+      "lat": 50.856240542188, 
+      "lon": 3.270656166524, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -669,6 +687,22 @@
       "street": "Brugsesteenweg"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
+      "hnrlbls": [
+        "166"
+      ], 
+      "housenumber": "166", 
+      "lat": 50.856775597974, 
+      "lon": 3.270938403606, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "17"
       ], 
@@ -699,6 +733,18 @@
       "housenumber": "172", 
       "lat": 50.856996664072, 
       "lon": 3.270572176983, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "173"
+      ], 
+      "housenumber": "173", 
+      "lat": 50.85567918184, 
+      "lon": 3.269734535932, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -810,6 +856,18 @@
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "183"
+      ], 
+      "housenumber": "183", 
+      "lat": 50.856339204271, 
+      "lon": 3.269920378322, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -984,6 +1042,22 @@
       "street": "Brugsesteenweg"
     }, 
     {
+      "busnrs": [
+        "01", 
+        "02"
+      ], 
+      "hnrlbls": [
+        "207"
+      ], 
+      "housenumber": "207", 
+      "lat": 50.857587788537, 
+      "lon": 3.270149575632, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
       "hnrlbls": [
         "209"
       ], 
@@ -1024,8 +1098,8 @@
         "215"
       ], 
       "housenumber": "215", 
-      "lat": 50.857913118498, 
-      "lon": 3.270174644746, 
+      "lat": 50.857933206209, 
+      "lon": 3.270092358773, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -1276,8 +1350,8 @@
         "242"
       ], 
       "housenumber": "242", 
-      "lat": 50.85945462656, 
-      "lon": 3.270703410492, 
+      "lat": 50.859453268985, 
+      "lon": 3.270702447863, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -1288,8 +1362,26 @@
         "244"
       ], 
       "housenumber": "244", 
-      "lat": 50.859525214629, 
-      "lon": 3.270714404348, 
+      "lat": 50.859523428886, 
+      "lon": 3.270715724477, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "245"
+      ], 
+      "housenumber": "245", 
+      "lat": 50.858749446523, 
+      "lon": 3.270120730645, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -1402,6 +1494,26 @@
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "254"
+      ], 
+      "housenumber": "254", 
+      "lat": 50.860309330084, 
+      "lon": 3.270893542939, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -1538,6 +1650,18 @@
     }, 
     {
       "hnrlbls": [
+        "271"
+      ], 
+      "housenumber": "271", 
+      "lat": 50.859817301065, 
+      "lon": 3.270376610485, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "272"
       ], 
       "housenumber": "272", 
@@ -1546,6 +1670,24 @@
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "0011", 
+        "0012", 
+        "0021", 
+        "0022"
+      ], 
+      "hnrlbls": [
+        "273"
+      ], 
+      "housenumber": "273", 
+      "lat": 50.859886797501, 
+      "lon": 3.270338196477, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -1582,6 +1724,18 @@
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "28"
+      ], 
+      "housenumber": "28", 
+      "lat": 50.846080372296, 
+      "lon": 3.269501275344, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -1672,8 +1826,8 @@
         "289"
       ], 
       "housenumber": "289", 
-      "lat": 50.860823127275, 
-      "lon": 3.270200835356, 
+      "lat": 50.860824257879, 
+      "lon": 3.270235185421, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -1770,6 +1924,30 @@
       "housenumber": "298", 
       "lat": 50.862664560088, 
       "lon": 3.271133885821, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "299"
+      ], 
+      "housenumber": "299", 
+      "lat": 50.862163036303, 
+      "lon": 3.270188138782, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "30"
+      ], 
+      "housenumber": "30", 
+      "lat": 50.846137434928, 
+      "lon": 3.269546378091, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -2887,6 +3065,18 @@
     }, 
     {
       "hnrlbls": [
+        "467"
+      ], 
+      "housenumber": "467", 
+      "lat": 50.871498811946, 
+      "lon": 3.271304137141, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "469"
       ], 
       "housenumber": "469", 
@@ -2911,11 +3101,23 @@
     }, 
     {
       "hnrlbls": [
+        "475"
+      ], 
+      "housenumber": "475", 
+      "lat": 50.872073173154, 
+      "lon": 3.269560552253, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "477"
       ], 
       "housenumber": "477", 
-      "lat": 50.872324437828, 
-      "lon": 3.271269374837, 
+      "lat": 50.872300279173, 
+      "lon": 3.271281732015, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -3154,8 +3356,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 50.847643710406, 
-      "lon": 3.269873589245, 
+      "lat": 50.847618904441, 
+      "lon": 3.269893624406, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -3252,6 +3454,18 @@
       "housenumber": "555", 
       "lat": 50.877793092154, 
       "lon": 3.271649987594, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "56"
+      ], 
+      "housenumber": "56", 
+      "lat": 50.847668426483, 
+      "lon": 3.269853556163, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
@@ -3454,11 +3668,11 @@
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 50.848776924052, 
-      "lon": 3.269149675832, 
+      "lat": 50.848779506777, 
+      "lon": 3.269147059175, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -3478,11 +3692,11 @@
         "75"
       ], 
       "housenumber": "75", 
-      "lat": 50.849050752784, 
-      "lon": 3.26882118139, 
+      "lat": 50.849117931813, 
+      "lon": 3.268995994433, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -3498,6 +3712,18 @@
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "77"
+      ], 
+      "housenumber": "77", 
+      "lat": 50.849193861423, 
+      "lon": 3.269308359342, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -3537,15 +3763,19 @@
       "street": "Brugsesteenweg"
     }, 
     {
+      "busnrs": [
+        "A", 
+        "B"
+      ], 
       "hnrlbls": [
         "81"
       ], 
       "housenumber": "81", 
-      "lat": 50.849656016787, 
-      "lon": 3.268967648135, 
+      "lat": 50.84957921552, 
+      "lon": 3.269281882819, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Brugsesteenweg"
     }, 
     {
@@ -3555,6 +3785,18 @@
       "housenumber": "82", 
       "lat": 50.849395038417, 
       "lon": 3.270101934287, 
+      "municipality": "Kuurne", 
+      "pcode": "8520", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Brugsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "83"
+      ], 
+      "housenumber": "83", 
+      "lat": 50.849639763708, 
+      "lon": 3.269391951327, 
       "municipality": "Kuurne", 
       "pcode": "8520", 
       "source": "afgeleidVanGebouw", 

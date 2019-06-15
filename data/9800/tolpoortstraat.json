@@ -1,20 +1,15 @@
 {
   "addresses": [
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
-      ], 
       "hnrlbls": [
-        "1"
+        "1-9"
       ], 
       "housenumber": "1", 
-      "lat": 50.982222342656, 
-      "lon": 3.527558138934, 
+      "lat": 50.982246786816, 
+      "lon": 3.527582195629, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -116,8 +111,8 @@
         "105-111"
       ], 
       "housenumber": "105", 
-      "lat": 50.979209056937, 
-      "lon": 3.530542274631, 
+      "lat": 50.979205979526, 
+      "lon": 3.530539339139, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -128,8 +123,8 @@
         "105-111"
       ], 
       "housenumber": "107", 
-      "lat": 50.979209056937, 
-      "lon": 3.530542274631, 
+      "lat": 50.979205979526, 
+      "lon": 3.530539339139, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -152,8 +147,8 @@
         "105-111"
       ], 
       "housenumber": "109", 
-      "lat": 50.979209056937, 
-      "lon": 3.530542274631, 
+      "lat": 50.979205979526, 
+      "lon": 3.530539339139, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -176,8 +171,8 @@
         "105-111"
       ], 
       "housenumber": "111", 
-      "lat": 50.979209056937, 
-      "lon": 3.530542274631, 
+      "lat": 50.979205979526, 
+      "lon": 3.530539339139, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -217,11 +212,11 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.978949231261, 
-      "lon": 3.531018983262, 
+      "lat": 50.978956955965, 
+      "lon": 3.531043338637, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -244,11 +239,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 50.97890393765, 
-      "lon": 3.531096832072, 
+      "lat": 50.978916540202, 
+      "lon": 3.531111844149, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -337,20 +332,20 @@
       "street": "Tolpoortstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
-        "123-125"
+        "123"
       ], 
       "housenumber": "123", 
-      "lat": 50.978722678712, 
-      "lon": 3.531257423248, 
+      "lat": 50.978735663076, 
+      "lon": 3.531275561345, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -367,14 +362,14 @@
     }, 
     {
       "hnrlbls": [
-        "123-125"
+        "125"
       ], 
       "housenumber": "125", 
-      "lat": 50.978722678712, 
-      "lon": 3.531257423248, 
+      "lat": 50.978671599565, 
+      "lon": 3.531179159547, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -391,11 +386,11 @@
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "127"
       ], 
       "housenumber": "127", 
-      "lat": 50.978644590552, 
-      "lon": 3.531375729452, 
+      "lat": 50.978667705627, 
+      "lon": 3.531339431499, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -415,11 +410,11 @@
     }, 
     {
       "hnrlbls": [
-        "127-129"
+        "129"
       ], 
       "housenumber": "129", 
-      "lat": 50.978644590552, 
-      "lon": 3.531375729452, 
+      "lat": 50.978615123953, 
+      "lon": 3.531416412801, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -471,8 +466,8 @@
         "132"
       ], 
       "housenumber": "132", 
-      "lat": 50.978530635459, 
-      "lon": 3.53227831211, 
+      "lat": 50.978496978664, 
+      "lon": 3.532197458517, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -527,11 +522,11 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 50.978379229, 
-      "lon": 3.532515973898, 
+      "lat": 50.978375129511, 
+      "lon": 3.532508357308, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -559,8 +554,8 @@
         "138"
       ], 
       "housenumber": "138", 
-      "lat": 50.978284928835, 
-      "lon": 3.532541578236, 
+      "lat": 50.978285999374, 
+      "lon": 3.532540419946, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -583,11 +578,11 @@
         "140"
       ], 
       "housenumber": "140", 
-      "lat": 50.978274866424, 
-      "lon": 3.532719616369, 
+      "lat": 50.978266132203, 
+      "lon": 3.532704962331, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -595,30 +590,31 @@
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 50.978277949449, 
-      "lon": 3.531837814733, 
+      "lat": 50.978246163399, 
+      "lon": 3.531792528726, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
       "busnrs": [
-        "2", 
-        "3", 
-        "4", 
-        "5", 
-        "6"
+        "101", 
+        "102", 
+        "201", 
+        "202", 
+        "301", 
+        "302"
       ], 
       "hnrlbls": [
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 50.978205865052, 
-      "lon": 3.532801160079, 
+      "lat": 50.978205028777, 
+      "lon": 3.532797330162, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -626,8 +622,8 @@
         "143"
       ], 
       "housenumber": "143", 
-      "lat": 50.978205009765, 
-      "lon": 3.532111386203, 
+      "lat": 50.978256350259, 
+      "lon": 3.532074727952, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -765,8 +761,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.981634351545, 
-      "lon": 3.527901640807, 
+      "lat": 50.981634987865, 
+      "lon": 3.527902626279, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -818,8 +814,8 @@
         "21"
       ], 
       "housenumber": "21", 
-      "lat": 50.981813991037, 
-      "lon": 3.528610194741, 
+      "lat": 50.981781075465, 
+      "lon": 3.52858315641, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -856,8 +852,8 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.981755133976, 
-      "lon": 3.528701965085, 
+      "lat": 50.981764030168, 
+      "lon": 3.528714053166, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -886,8 +882,8 @@
         "25"
       ], 
       "housenumber": "25", 
-      "lat": 50.98163159925, 
-      "lon": 3.528649349085, 
+      "lat": 50.981631323496, 
+      "lon": 3.528648499556, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1007,8 +1003,8 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 50.981534054573, 
-      "lon": 3.528900457587, 
+      "lat": 50.981540201873, 
+      "lon": 3.52891786407, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1031,8 +1027,8 @@
         "35"
       ], 
       "housenumber": "35", 
-      "lat": 50.981481190601, 
-      "lon": 3.528925044259, 
+      "lat": 50.981524792436, 
+      "lon": 3.529076500864, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1058,8 +1054,8 @@
         "37-39"
       ], 
       "housenumber": "37", 
-      "lat": 50.981446473979, 
-      "lon": 3.529036176477, 
+      "lat": 50.981411757251, 
+      "lon": 3.52914730853, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1070,8 +1066,8 @@
         "37-39"
       ], 
       "housenumber": "39", 
-      "lat": 50.981446473979, 
-      "lon": 3.529036176477, 
+      "lat": 50.981411757251, 
+      "lon": 3.52914730853, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1109,8 +1105,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.981301306929, 
-      "lon": 3.529126784651, 
+      "lat": 50.981303127492, 
+      "lon": 3.529142559597, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -1539,14 +1535,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "66-68"
+        "66-72"
       ], 
       "housenumber": "66", 
-      "lat": 50.980805148953, 
-      "lon": 3.530486981418, 
+      "lat": 50.980611468374, 
+      "lon": 3.530089848549, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -1580,14 +1576,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "66-68"
+        "66-72"
       ], 
       "housenumber": "68", 
-      "lat": 50.980805148953, 
-      "lon": 3.530486981418, 
+      "lat": 50.980611468374, 
+      "lon": 3.530089848549, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -1626,7 +1622,7 @@
     }, 
     {
       "hnrlbls": [
-        "70-72"
+        "66-72"
       ], 
       "housenumber": "70", 
       "lat": 50.980611468374, 
@@ -1661,7 +1657,7 @@
     }, 
     {
       "hnrlbls": [
-        "70-72"
+        "66-72"
       ], 
       "housenumber": "72", 
       "lat": 50.980611468374, 
@@ -1740,11 +1736,11 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 50.980322678217, 
-      "lon": 3.530424969141, 
+      "lat": 50.980257146066, 
+      "lon": 3.530210820883, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -1826,11 +1822,11 @@
         "83"
       ], 
       "housenumber": "83", 
-      "lat": 50.979989365492, 
-      "lon": 3.529343796848, 
+      "lat": 50.979981985931, 
+      "lon": 3.529456144978, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {
@@ -1838,11 +1834,11 @@
         "83A"
       ], 
       "housenumber": "83A", 
-      "lat": 50.979981985931, 
-      "lon": 3.529456144978, 
+      "lat": 50.980063122659, 
+      "lon": 3.529828794994, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Tolpoortstraat"
     }, 
     {

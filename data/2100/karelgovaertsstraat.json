@@ -99,8 +99,16 @@
       "street": "Karel Govaertsstraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "16-18"
+        "16"
       ], 
       "housenumber": "16", 
       "lat": 51.203909990233, 
@@ -122,18 +130,6 @@
       "housenumber": "17", 
       "lat": 51.204241757311, 
       "lon": 4.464803743877, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Karel Govaertsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "16-18"
-      ], 
-      "housenumber": "18", 
-      "lat": 51.203909990233, 
-      "lon": 4.464697891401, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 

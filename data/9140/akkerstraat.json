@@ -785,8 +785,8 @@
         "63"
       ], 
       "housenumber": "63", 
-      "lat": 51.126773266353, 
-      "lon": 4.213754925234, 
+      "lat": 51.12681195368, 
+      "lon": 4.213851074917, 
       "municipality": "Temse", 
       "pcode": "9140", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1022,26 +1022,38 @@
     }, 
     {
       "hnrlbls": [
-        "89A-89B"
+        "89-89B"
+      ], 
+      "housenumber": "89", 
+      "lat": 51.127376631548, 
+      "lon": 4.213580945292, 
+      "municipality": "Temse", 
+      "pcode": "9140", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Akkerstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "89-89B"
       ], 
       "housenumber": "89A", 
       "lat": 51.127376631548, 
       "lon": 4.213580945292, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Akkerstraat"
     }, 
     {
       "hnrlbls": [
-        "89A-89B"
+        "89-89B"
       ], 
       "housenumber": "89B", 
       "lat": 51.127376631548, 
       "lon": 4.213580945292, 
       "municipality": "Temse", 
       "pcode": "9140", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Akkerstraat"
     }, 
     {

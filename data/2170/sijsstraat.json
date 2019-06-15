@@ -17,26 +17,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "3-15"
+        "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.25742558241, 
-      "lon": 4.43879658545, 
+      "lat": 51.257370698036, 
+      "lon": 4.438890184287, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-15"
-      ], 
-      "housenumber": "13", 
-      "lat": 51.25742558241, 
-      "lon": 4.43879658545, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sijsstraat"
     }, 
     {
@@ -56,14 +44,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "3-15"
+        "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.25742558241, 
-      "lon": 4.43879658545, 
+      "lat": 51.2573680563, 
+      "lon": 4.439098744839, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sijsstraat"
     }, 
     {
@@ -95,36 +83,6 @@
     }, 
     {
       "busnrs": [
-        "4"
-      ], 
-      "hnrlbls": [
-        "2H-2_4"
-      ], 
-      "housenumber": "2H", 
-      "lat": 51.256934658483, 
-      "lon": 4.438470247478, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sijsstraat"
-    }, 
-    {
-      "busnrs": [
-        "H"
-      ], 
-      "hnrlbls": [
-        "2H-2_4"
-      ], 
-      "housenumber": "2_4", 
-      "lat": 51.256934658483, 
-      "lon": 4.438470247478, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Sijsstraat"
-    }, 
-    {
-      "busnrs": [
         "1", 
         "10", 
         "11", 
@@ -140,29 +98,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "3-15"
+        "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.25742558241, 
-      "lon": 4.43879658545, 
+      "lat": 51.257379747117, 
+      "lon": 4.438487106808, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sijsstraat"
-    }, 
-    {
-      "busnrs": [
-        "2"
-      ], 
-      "hnrlbls": [
-        "3G"
-      ], 
-      "housenumber": "3G", 
-      "lat": 51.257427290791, 
-      "lon": 4.438494197686, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sijsstraat"
     }, 
     {
@@ -205,18 +148,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Sijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-15"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.25742558241, 
-      "lon": 4.43879658545, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
       "street": "Sijsstraat"
     }, 
     {
@@ -278,14 +209,14 @@
         "9"
       ], 
       "hnrlbls": [
-        "3-15"
+        "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.25742558241, 
-      "lon": 4.43879658545, 
+      "lat": 51.25737585013, 
+      "lon": 4.438691654662, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Sijsstraat"
     }, 
     {
@@ -310,18 +241,6 @@
       "housenumber": "8", 
       "lat": 51.256921805842, 
       "lon": 4.438770752966, 
-      "municipality": "Antwerpen", 
-      "pcode": "2170", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Sijsstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "3-15"
-      ], 
-      "housenumber": "9", 
-      "lat": 51.25742558241, 
-      "lon": 4.43879658545, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 

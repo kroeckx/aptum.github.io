@@ -82,8 +82,8 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 51.154149389475, 
-      "lon": 4.391352046039, 
+      "lat": 51.154148580556, 
+      "lon": 4.391351759779, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -94,8 +94,8 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 51.154089429375, 
-      "lon": 4.391382602726, 
+      "lat": 51.154088889833, 
+      "lon": 4.391383745881, 
       "municipality": "Antwerpen", 
       "pcode": "2610", 
       "source": "afgeleidVanGebouw", 
@@ -805,6 +805,11 @@
       "street": "Volkerenlaan"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "9"
       ], 

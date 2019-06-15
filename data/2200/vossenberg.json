@@ -17,8 +17,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.176195886886, 
-      "lon": 4.824088350723, 
+      "lat": 51.176193866484, 
+      "lon": 4.82407617612, 
       "municipality": "Herentals", 
       "pcode": "2200", 
       "source": "afgeleidVanGebouw", 
@@ -371,17 +371,18 @@
     }, 
     {
       "busnrs": [
-        "A"
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 51.176066186643, 
-      "lon": 4.824249529189, 
+      "lat": 51.176048652514, 
+      "lon": 4.824181290787, 
       "municipality": "Herentals", 
       "pcode": "2200", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Vossenberg"
     }
   ]

@@ -70,11 +70,11 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 50.983569475154, 
-      "lon": 3.562744101298, 
+      "lat": 50.983471463348, 
+      "lon": 3.562793067553, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -94,11 +94,11 @@
         "18"
       ], 
       "housenumber": "18", 
-      "lat": 50.983599301555, 
-      "lon": 3.562820066441, 
+      "lat": 50.98350938086, 
+      "lon": 3.562842831398, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -106,8 +106,8 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 50.982977138711, 
-      "lon": 3.561758943592, 
+      "lat": 50.982972667829, 
+      "lon": 3.561762438457, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -118,11 +118,11 @@
         "20"
       ], 
       "housenumber": "20", 
-      "lat": 50.983535541905, 
-      "lon": 3.56294805481, 
+      "lat": 50.983497126395, 
+      "lon": 3.562943730163, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -142,11 +142,11 @@
         "22-24"
       ], 
       "housenumber": "22", 
-      "lat": 50.983596907612, 
-      "lon": 3.563127015045, 
+      "lat": 50.983611664312, 
+      "lon": 3.563194694275, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -166,11 +166,11 @@
         "22-24"
       ], 
       "housenumber": "24", 
-      "lat": 50.983596907612, 
-      "lon": 3.563127015045, 
+      "lat": 50.983611664312, 
+      "lon": 3.563194694275, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -343,6 +343,18 @@
     }, 
     {
       "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.983367938206, 
+      "lon": 3.561368267387, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Nieuwstraat"
+    }, 
+    {
+      "hnrlbls": [
         "40"
       ], 
       "housenumber": "40", 
@@ -454,8 +466,8 @@
         "51"
       ], 
       "housenumber": "51", 
-      "lat": 50.98326461113, 
-      "lon": 3.563949474627, 
+      "lat": 50.983253364319, 
+      "lon": 3.563961203236, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -467,26 +479,26 @@
         "2"
       ], 
       "hnrlbls": [
-        "53"
+        "53-53A"
       ], 
       "housenumber": "53", 
-      "lat": 50.983131800168, 
-      "lon": 3.564036632612, 
+      "lat": 50.983240187985, 
+      "lon": 3.564045739189, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
       "hnrlbls": [
-        "53A"
+        "53-53A"
       ], 
       "housenumber": "53A", 
-      "lat": 50.983313756066, 
-      "lon": 3.564076805468, 
+      "lat": 50.983240187985, 
+      "lon": 3.564045739189, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -551,7 +563,7 @@
     }, 
     {
       "hnrlbls": [
-        "62"
+        "62-62A"
       ], 
       "housenumber": "62", 
       "lat": 50.983481595137, 
@@ -563,14 +575,14 @@
     }, 
     {
       "hnrlbls": [
-        "62A"
+        "62-62A"
       ], 
       "housenumber": "62A", 
-      "lat": 50.983562085264, 
-      "lon": 3.565424503642, 
+      "lat": 50.983481595137, 
+      "lon": 3.565156288477, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {
@@ -610,20 +622,20 @@
       "street": "Nieuwstraat"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2", 
-        "3"
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0003"
       ], 
       "hnrlbls": [
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 50.983127033081, 
-      "lon": 3.560938475128, 
+      "lat": 50.983133635816, 
+      "lon": 3.560957445044, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Nieuwstraat"
     }, 
     {

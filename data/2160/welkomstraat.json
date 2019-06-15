@@ -349,8 +349,8 @@
         "131"
       ], 
       "housenumber": "131", 
-      "lat": 51.199253079226, 
-      "lon": 4.526290430398, 
+      "lat": 51.199251736323, 
+      "lon": 4.526286419976, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
       "source": "afgeleidVanGebouw", 
@@ -408,6 +408,30 @@
     }, 
     {
       "apptnrs": [
+        "GVLA", 
+        "GVLL", 
+        "GVLR", 
+        "V1A", 
+        "V1L", 
+        "V1R", 
+        "V2A", 
+        "V2L", 
+        "V2R", 
+        "V3"
+      ], 
+      "hnrlbls": [
+        "135"
+      ], 
+      "housenumber": "135", 
+      "lat": 51.198982416195, 
+      "lon": 4.526372347489, 
+      "municipality": "Wommelgem", 
+      "pcode": "2160", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Welkomstraat"
+    }, 
+    {
+      "apptnrs": [
         "GVLL", 
         "GVLR", 
         "V1L", 
@@ -428,14 +452,106 @@
     }, 
     {
       "hnrlbls": [
-        "137"
+        "137A"
       ], 
-      "housenumber": "137", 
-      "lat": 51.199017191325, 
-      "lon": 4.526581198768, 
+      "housenumber": "137A", 
+      "lat": 51.198870074408, 
+      "lon": 4.526763822731, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Welkomstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137B"
+      ], 
+      "housenumber": "137B", 
+      "lat": 51.198839039825, 
+      "lon": 4.526848841086, 
+      "municipality": "Wommelgem", 
+      "pcode": "2160", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Welkomstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137C"
+      ], 
+      "housenumber": "137C", 
+      "lat": 51.198834130966, 
+      "lon": 4.526956695704, 
+      "municipality": "Wommelgem", 
+      "pcode": "2160", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Welkomstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137D"
+      ], 
+      "housenumber": "137D", 
+      "lat": 51.198800723448, 
+      "lon": 4.527068315928, 
+      "municipality": "Wommelgem", 
+      "pcode": "2160", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Welkomstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137E"
+      ], 
+      "housenumber": "137E", 
+      "lat": 51.198763738361, 
+      "lon": 4.527166618726, 
+      "municipality": "Wommelgem", 
+      "pcode": "2160", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Welkomstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137F"
+      ], 
+      "housenumber": "137F", 
+      "lat": 51.198761048991, 
+      "lon": 4.527361464353, 
+      "municipality": "Wommelgem", 
+      "pcode": "2160", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Welkomstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "137G"
+      ], 
+      "housenumber": "137G", 
+      "lat": 51.198822833352, 
+      "lon": 4.527403307362, 
+      "municipality": "Wommelgem", 
+      "pcode": "2160", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Welkomstraat"
+    }, 
+    {
+      "apptnrs": [
+        "GVL", 
+        "V1L", 
+        "V1R", 
+        "V2L", 
+        "V2R", 
+        "V3"
+      ], 
+      "hnrlbls": [
+        "139"
+      ], 
+      "housenumber": "139", 
+      "lat": 51.198830075883, 
+      "lon": 4.526428627473, 
+      "municipality": "Wommelgem", 
+      "pcode": "2160", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Welkomstraat"
     }, 
     {
@@ -460,15 +576,24 @@
       "street": "Welkomstraat"
     }, 
     {
+      "apptnrs": [
+        "GVLL", 
+        "GVLR", 
+        "V1L", 
+        "V1R", 
+        "V2L", 
+        "V2R", 
+        "V3"
+      ], 
       "hnrlbls": [
         "141"
       ], 
       "housenumber": "141", 
-      "lat": 51.198743913713, 
-      "lon": 4.526400723397, 
+      "lat": 51.198749239297, 
+      "lon": 4.526451100409, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Welkomstraat"
     }, 
     {
@@ -802,7 +927,7 @@
     }, 
     {
       "hnrlbls": [
-        "31-33"
+        "31"
       ], 
       "housenumber": "31", 
       "lat": 51.202348197559, 
@@ -819,18 +944,6 @@
       "housenumber": "32", 
       "lat": 51.201705647758, 
       "lon": 4.523670905454, 
-      "municipality": "Wommelgem", 
-      "pcode": "2160", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Welkomstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "31-33"
-      ], 
-      "housenumber": "33", 
-      "lat": 51.202348197559, 
-      "lon": 4.523971076662, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
       "source": "afgeleidVanGebouw", 
@@ -1083,8 +1196,8 @@
         "72"
       ], 
       "housenumber": "72", 
-      "lat": 51.200996197586, 
-      "lon": 4.524819553402, 
+      "lat": 51.200999535073, 
+      "lon": 4.52481069415, 
       "municipality": "Wommelgem", 
       "pcode": "2160", 
       "source": "afgeleidVanGebouw", 

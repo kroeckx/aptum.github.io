@@ -26,18 +26,6 @@
     }, 
     {
       "hnrlbls": [
-        "103"
-      ], 
-      "housenumber": "103", 
-      "lat": 51.000813086502, 
-      "lon": 5.748547613607, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
-      "street": "Genootstraat"
-    }, 
-    {
-      "hnrlbls": [
         "104"
       ], 
       "housenumber": "104", 
@@ -125,11 +113,11 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 50.997858883419, 
-      "lon": 5.743278144366, 
+      "lat": 50.997822127262, 
+      "lon": 5.743384492131, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Genootstraat"
     }, 
     {
@@ -281,11 +269,11 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 50.99753749886, 
-      "lon": 5.746179900457, 
+      "lat": 50.997520651881, 
+      "lon": 5.746190517936, 
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanPerceelKadaster", 
       "street": "Genootstraat"
     }, 
     {
@@ -361,21 +349,6 @@
       "municipality": "Maasmechelen", 
       "pcode": "3630", 
       "source": "afgeleidVanGebouw", 
-      "street": "Genootstraat"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "42A"
-      ], 
-      "housenumber": "42A", 
-      "lat": 50.997909539913, 
-      "lon": 5.747053964653, 
-      "municipality": "Maasmechelen", 
-      "pcode": "3630", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Genootstraat"
     }, 
     {

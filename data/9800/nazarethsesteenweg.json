@@ -197,11 +197,11 @@
         "23"
       ], 
       "housenumber": "23", 
-      "lat": 50.981253811876, 
-      "lon": 3.565991943514, 
+      "lat": 50.981056028964, 
+      "lon": 3.565134040354, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nazarethsesteenweg"
     }, 
     {
@@ -458,6 +458,18 @@
     }, 
     {
       "hnrlbls": [
+        "43-45"
+      ], 
+      "housenumber": "43", 
+      "lat": 50.979736871952, 
+      "lon": 3.565738361171, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Nazarethsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "44"
       ], 
       "housenumber": "44", 
@@ -466,6 +478,18 @@
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
+      "street": "Nazarethsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
+        "43-45"
+      ], 
+      "housenumber": "45", 
+      "lat": 50.979736871952, 
+      "lon": 3.565738361171, 
+      "municipality": "Deinze", 
+      "pcode": "9800", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Nazarethsesteenweg"
     }, 
     {
@@ -605,11 +629,11 @@
         "52"
       ], 
       "housenumber": "52", 
-      "lat": 50.976627462497, 
-      "lon": 3.570222921027, 
+      "lat": 50.976506724902, 
+      "lon": 3.569771591096, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nazarethsesteenweg"
     }, 
     {
@@ -689,11 +713,11 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 50.970809323122, 
-      "lon": 3.576860761606, 
+      "lat": 50.970475492918, 
+      "lon": 3.577001368341, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Nazarethsesteenweg"
     }, 
     {
@@ -773,8 +797,8 @@
         "69-71"
       ], 
       "housenumber": "69", 
-      "lat": 50.976887847491, 
-      "lon": 3.568349827063, 
+      "lat": 50.976883969788, 
+      "lon": 3.568348042072, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -797,8 +821,8 @@
         "69-71"
       ], 
       "housenumber": "71", 
-      "lat": 50.976887847491, 
-      "lon": 3.568349827063, 
+      "lat": 50.976883969788, 
+      "lon": 3.568348042072, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -893,8 +917,8 @@
         "89"
       ], 
       "housenumber": "89", 
-      "lat": 50.970201415561, 
-      "lon": 3.576443040374, 
+      "lat": 50.970194134538, 
+      "lon": 3.576429780024, 
       "municipality": "Deinze", 
       "pcode": "9800", 
       "source": "afgeleidVanGebouw", 
@@ -941,11 +965,11 @@
         "95"
       ], 
       "housenumber": "95", 
-      "lat": 50.968896210204, 
-      "lon": 3.577994860854, 
+      "lat": 50.968822558626, 
+      "lon": 3.578111422761, 
       "municipality": "Deinze", 
       "pcode": "9800", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Nazarethsesteenweg"
     }, 
     {

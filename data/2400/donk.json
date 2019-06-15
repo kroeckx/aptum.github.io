@@ -124,7 +124,7 @@
       "street": "Donk"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -155,8 +155,8 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.225790299804, 
-      "lon": 5.114292236899, 
+      "lat": 51.225779533277, 
+      "lon": 5.114289058313, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "afgeleidVanPerceelGrb", 
@@ -271,6 +271,9 @@
       "street": "Donk"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "hnrlbls": [
         "25"
       ], 
@@ -476,6 +479,7 @@
     }, 
     {
       "apptnrs": [
+        "1", 
         "102", 
         "103", 
         "201", 

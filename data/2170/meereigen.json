@@ -553,6 +553,10 @@
       "street": "Meereigen"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "201"
+      ], 
       "hnrlbls": [
         "141"
       ], 
@@ -597,8 +601,8 @@
         "146"
       ], 
       "housenumber": "146", 
-      "lat": 51.253685924432, 
-      "lon": 4.454001169473, 
+      "lat": 51.25368475575, 
+      "lon": 4.454001453785, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanPerceelGrb", 
@@ -771,8 +775,8 @@
         "159"
       ], 
       "housenumber": "159", 
-      "lat": 51.253122415747, 
-      "lon": 4.454908936355, 
+      "lat": 51.253123045872, 
+      "lon": 4.454907648443, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -819,8 +823,8 @@
         "163-165"
       ], 
       "housenumber": "163", 
-      "lat": 51.253109991548, 
-      "lon": 4.455059020164, 
+      "lat": 51.253109902719, 
+      "lon": 4.455057587679, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -843,8 +847,8 @@
         "163-165"
       ], 
       "housenumber": "165", 
-      "lat": 51.253109991548, 
-      "lon": 4.455059020164, 
+      "lat": 51.253109902719, 
+      "lon": 4.455057587679, 
       "municipality": "Antwerpen", 
       "pcode": "2170", 
       "source": "afgeleidVanGebouw", 
@@ -1441,6 +1445,10 @@
       "street": "Meereigen"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "201"
+      ], 
       "hnrlbls": [
         "216"
       ], 
@@ -1453,8 +1461,13 @@
       "street": "Meereigen"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201", 
+        "202"
       ], 
       "hnrlbls": [
         "218-220"

@@ -322,24 +322,18 @@
       "street": "Oordegemdorp"
     }, 
     {
+      "apptnrs": [
+        "01", 
+        "11", 
+        "21", 
+        "31"
+      ], 
       "hnrlbls": [
         "49"
       ], 
       "housenumber": "49", 
       "lat": 50.957056027299, 
       "lon": 3.902551610917, 
-      "municipality": "Lede", 
-      "pcode": "9340", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Oordegemdorp"
-    }, 
-    {
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 50.957191473239, 
-      "lon": 3.901411763111, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
@@ -441,8 +435,8 @@
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 50.95730097515, 
-      "lon": 3.90136925514, 
+      "lat": 50.957226195236, 
+      "lon": 3.901417537823, 
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 

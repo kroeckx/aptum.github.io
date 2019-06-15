@@ -218,14 +218,14 @@
     }, 
     {
       "hnrlbls": [
-        "23"
+        "23-27"
       ], 
       "housenumber": "23", 
-      "lat": 50.884319057307, 
-      "lon": 4.693946569779, 
+      "lat": 50.884354416592, 
+      "lon": 4.693903187784, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Pereboomstraat"
     }, 
     {
@@ -254,14 +254,14 @@
     }, 
     {
       "hnrlbls": [
-        "27"
+        "23-27"
       ], 
       "housenumber": "27", 
-      "lat": 50.88432363688, 
-      "lon": 4.693851246782, 
+      "lat": 50.884354416592, 
+      "lon": 4.693903187784, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Pereboomstraat"
     }, 
     {
@@ -450,8 +450,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 50.884347415104, 
-      "lon": 4.693510635477, 
+      "lat": 50.884367824428, 
+      "lon": 4.693509497914, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -555,6 +555,18 @@
     }, 
     {
       "hnrlbls": [
+        "50"
+      ], 
+      "housenumber": "50", 
+      "lat": 50.884494487049, 
+      "lon": 4.693120002222, 
+      "municipality": "Leuven", 
+      "pcode": "3000", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pereboomstraat"
+    }, 
+    {
+      "hnrlbls": [
         "53"
       ], 
       "housenumber": "53", 
@@ -584,26 +596,6 @@
       "housenumber": "7", 
       "lat": 50.884223533746, 
       "lon": 4.694677906112, 
-      "municipality": "Leuven", 
-      "pcode": "3000", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Pereboomstraat"
-    }, 
-    {
-      "busnrs": [
-        "0001", 
-        "0002", 
-        "0003", 
-        "0101", 
-        "0102", 
-        "0201"
-      ], 
-      "hnrlbls": [
-        "9"
-      ], 
-      "housenumber": "9", 
-      "lat": 50.884229567779, 
-      "lon": 4.694609309824, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

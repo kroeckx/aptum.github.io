@@ -147,18 +147,6 @@
     }, 
     {
       "hnrlbls": [
-        "2-4"
-      ], 
-      "housenumber": "2", 
-      "lat": 51.221642448392, 
-      "lon": 4.484718467537, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Buizerdlaan"
-    }, 
-    {
-      "hnrlbls": [
         "20"
       ], 
       "housenumber": "20", 
@@ -346,11 +334,12 @@
       "street": "Buizerdlaan"
     }, 
     {
-      "busnrs": [
-        "6"
+      "apptnrs": [
+        "001", 
+        "101"
       ], 
       "hnrlbls": [
-        "2-4"
+        "4"
       ], 
       "housenumber": "4", 
       "lat": 51.221642448392, 

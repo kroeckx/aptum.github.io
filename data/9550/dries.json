@@ -173,8 +173,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 50.890437197138, 
-      "lon": 3.85008524172, 
+      "lat": 50.890440883262, 
+      "lon": 3.849901996699, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -410,7 +410,7 @@
     }, 
     {
       "hnrlbls": [
-        "136-136A"
+        "136"
       ], 
       "housenumber": "136", 
       "lat": 50.889197904746, 
@@ -422,11 +422,11 @@
     }, 
     {
       "hnrlbls": [
-        "136-136A"
+        "136A"
       ], 
       "housenumber": "136A", 
-      "lat": 50.889197904746, 
-      "lon": 3.846616839603, 
+      "lat": 50.889048589309, 
+      "lon": 3.846516167522, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -862,8 +862,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 50.892805198599, 
-      "lon": 3.852239634165, 
+      "lat": 50.892599038162, 
+      "lon": 3.852335423851, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -883,16 +883,17 @@
     }, 
     {
       "apptnrs": [
-        "1", 
-        "2", 
-        "3"
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102"
       ], 
       "hnrlbls": [
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 50.892319994972, 
-      "lon": 3.852129550256, 
+      "lat": 50.892367130124, 
+      "lon": 3.85213628129, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -927,8 +928,8 @@
         "49"
       ], 
       "housenumber": "49", 
-      "lat": 50.892268222656, 
-      "lon": 3.851885931857, 
+      "lat": 50.892298063699, 
+      "lon": 3.851905360575, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1198,18 +1199,6 @@
     }, 
     {
       "hnrlbls": [
-        "71"
-      ], 
-      "housenumber": "71", 
-      "lat": 50.892018421217, 
-      "lon": 3.849911027476, 
-      "municipality": "Herzele", 
-      "pcode": "9550", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dries"
-    }, 
-    {
-      "hnrlbls": [
         "72"
       ], 
       "housenumber": "72", 
@@ -1345,8 +1334,8 @@
         "82"
       ], 
       "housenumber": "82", 
-      "lat": 50.891138257213, 
-      "lon": 3.84905842873, 
+      "lat": 50.891222507157, 
+      "lon": 3.849286045, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1414,6 +1403,18 @@
     }, 
     {
       "hnrlbls": [
+        "88"
+      ], 
+      "housenumber": "88", 
+      "lat": 50.890895570848, 
+      "lon": 3.849615277383, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dries"
+    }, 
+    {
+      "hnrlbls": [
         "89"
       ], 
       "housenumber": "89", 
@@ -1441,32 +1442,8 @@
         "90"
       ], 
       "housenumber": "90", 
-      "lat": 50.89087803756, 
-      "lon": 3.849512710668, 
-      "municipality": "Herzele", 
-      "pcode": "9550", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dries"
-    }, 
-    {
-      "hnrlbls": [
-        "90A"
-      ], 
-      "housenumber": "90A", 
-      "lat": 50.890825849222, 
-      "lon": 3.849542423616, 
-      "municipality": "Herzele", 
-      "pcode": "9550", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Dries"
-    }, 
-    {
-      "hnrlbls": [
-        "90B"
-      ], 
-      "housenumber": "90B", 
-      "lat": 50.890771201156, 
-      "lon": 3.849564772891, 
+      "lat": 50.890843278923, 
+      "lon": 3.849621539874, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1479,6 +1456,18 @@
       "housenumber": "91", 
       "lat": 50.891632303637, 
       "lon": 3.849948688859, 
+      "municipality": "Herzele", 
+      "pcode": "9550", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dries"
+    }, 
+    {
+      "hnrlbls": [
+        "92"
+      ], 
+      "housenumber": "92", 
+      "lat": 50.890791028281, 
+      "lon": 3.849657507092, 
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1506,18 +1495,6 @@
       "municipality": "Herzele", 
       "pcode": "9550", 
       "source": "manueleAanduidingVanGebouw", 
-      "street": "Dries"
-    }, 
-    {
-      "hnrlbls": [
-        "95A"
-      ], 
-      "housenumber": "95A", 
-      "lat": 50.891534422428, 
-      "lon": 3.849504325873, 
-      "municipality": "Herzele", 
-      "pcode": "9550", 
-      "source": "manueleAanduidingVanLot", 
       "street": "Dries"
     }, 
     {

@@ -238,8 +238,8 @@
         "115"
       ], 
       "housenumber": "115", 
-      "lat": 51.18797867516, 
-      "lon": 3.559035181952, 
+      "lat": 51.187988566061, 
+      "lon": 3.559048742329, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -252,18 +252,6 @@
       "housenumber": "116", 
       "lat": 51.18806033827, 
       "lon": 3.559803181171, 
-      "municipality": "Eeklo", 
-      "pcode": "9900", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Molenstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "117"
-      ], 
-      "housenumber": "117", 
-      "lat": 51.188066322536, 
-      "lon": 3.559035807861, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -664,8 +652,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.185625959878, 
-      "lon": 3.562835740161, 
+      "lat": 51.18569466774, 
+      "lon": 3.562919516248, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1129,9 +1117,6 @@
       "street": "Molenstraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
       "hnrlbls": [
         "179"
       ], 
@@ -1242,8 +1227,8 @@
         "187"
       ], 
       "housenumber": "187", 
-      "lat": 51.189521623822, 
-      "lon": 3.556424175941, 
+      "lat": 51.189584727244, 
+      "lon": 3.556502754464, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
       "source": "manueleAanduidingVanGebouw", 
@@ -1403,7 +1388,7 @@
       "lon": 3.556996824186, 
       "municipality": "Eeklo", 
       "pcode": "9900", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Molenstraat"
     }, 
     {
@@ -2096,7 +2081,8 @@
       "busnrs": [
         "1", 
         "2", 
-        "3"
+        "3", 
+        "4"
       ], 
       "hnrlbls": [
         "47"

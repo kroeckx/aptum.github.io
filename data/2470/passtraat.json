@@ -29,8 +29,8 @@
         "11"
       ], 
       "housenumber": "11", 
-      "lat": 51.266629033415, 
-      "lon": 5.082528330667, 
+      "lat": 51.266625353604, 
+      "lon": 5.082527414545, 
       "municipality": "Retie", 
       "pcode": "2470", 
       "source": "afgeleidVanGebouw", 
@@ -137,27 +137,19 @@
       "street": "Passtraat"
     }, 
     {
-      "hnrlbls": [
-        "6A-6B"
+      "busnrs": [
+        "0001", 
+        "0101"
       ], 
-      "housenumber": "6A", 
-      "lat": 51.266942214595, 
-      "lon": 5.082793475826, 
+      "hnrlbls": [
+        "6"
+      ], 
+      "housenumber": "6", 
+      "lat": 51.266942278518, 
+      "lon": 5.082797775234, 
       "municipality": "Retie", 
       "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Passtraat"
-    }, 
-    {
-      "hnrlbls": [
-        "6A-6B"
-      ], 
-      "housenumber": "6B", 
-      "lat": 51.266942214595, 
-      "lon": 5.082793475826, 
-      "municipality": "Retie", 
-      "pcode": "2470", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Passtraat"
     }, 
     {

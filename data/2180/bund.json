@@ -566,11 +566,11 @@
         "201"
       ], 
       "hnrlbls": [
-        "138-148"
+        "138"
       ], 
       "housenumber": "138", 
-      "lat": 51.28448009079, 
-      "lon": 4.43316417882, 
+      "lat": 51.284561182486, 
+      "lon": 4.432966785476, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -589,24 +589,18 @@
       "street": "Bund"
     }, 
     {
+      "apptnrs": [
+        "101", 
+        "102", 
+        "201", 
+        "202"
+      ], 
       "hnrlbls": [
-        "138-148"
+        "140"
       ], 
       "housenumber": "140", 
-      "lat": 51.28448009079, 
-      "lon": 4.43316417882, 
-      "municipality": "Antwerpen", 
-      "pcode": "2180", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Bund"
-    }, 
-    {
-      "hnrlbls": [
-        "138-148"
-      ], 
-      "housenumber": "142", 
-      "lat": 51.28448009079, 
-      "lon": 4.43316417882, 
+      "lat": 51.284505208696, 
+      "lon": 4.433089683189, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -620,11 +614,11 @@
         "202"
       ], 
       "hnrlbls": [
-        "138-148"
+        "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.28448009079, 
-      "lon": 4.43316417882, 
+      "lat": 51.284448593458, 
+      "lon": 4.433234652251, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -636,11 +630,11 @@
         "201"
       ], 
       "hnrlbls": [
-        "138-148"
+        "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.28448009079, 
-      "lon": 4.43316417882, 
+      "lat": 51.28440519806, 
+      "lon": 4.433366166669, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
       "source": "afgeleidVanGebouw", 
@@ -779,11 +773,11 @@
         "1_2"
       ], 
       "housenumber": "1_2", 
-      "lat": 51.285947716303, 
-      "lon": 4.425627642211, 
+      "lat": 51.285835598875, 
+      "lon": 4.425699886476, 
       "municipality": "Antwerpen", 
       "pcode": "2180", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
       "street": "Bund"
     }, 
     {

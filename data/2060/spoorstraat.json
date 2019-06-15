@@ -293,7 +293,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
         "11", 
         "21", 
         "31", 
@@ -312,7 +312,7 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
         "11", 
         "21", 
         "31", 
@@ -320,19 +320,19 @@
         "51"
       ], 
       "hnrlbls": [
-        "5B-5D"
+        "5B"
       ], 
       "housenumber": "5B", 
-      "lat": 51.222796719427, 
-      "lon": 4.420919419421, 
+      "lat": 51.222726945152, 
+      "lon": 4.420570798211, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Spoorstraat"
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
         "11", 
         "21", 
         "31", 
@@ -340,7 +340,7 @@
         "51"
       ], 
       "hnrlbls": [
-        "5C"
+        "5C-5D"
       ], 
       "housenumber": "5C", 
       "lat": 51.222768561612, 
@@ -352,21 +352,21 @@
     }, 
     {
       "busnrs": [
-        "1", 
+        "01", 
         "11", 
         "21", 
         "31", 
         "41"
       ], 
       "hnrlbls": [
-        "5B-5D"
+        "5C-5D"
       ], 
       "housenumber": "5D", 
-      "lat": 51.222796719427, 
-      "lon": 4.420919419421, 
+      "lat": 51.222768561612, 
+      "lon": 4.420772241048, 
       "municipality": "Antwerpen", 
       "pcode": "2060", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Spoorstraat"
     }, 
     {

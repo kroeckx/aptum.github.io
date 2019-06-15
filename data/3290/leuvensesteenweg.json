@@ -30,7 +30,7 @@
     }, 
     {
       "hnrlbls": [
-        "8-10"
+        "10"
       ], 
       "housenumber": "10", 
       "lat": 50.979854521368, 
@@ -144,11 +144,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 50.973977880037, 
-      "lon": 5.040302716311, 
+      "lat": 50.974025254361, 
+      "lon": 5.040271359086, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanBrievenbus", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -246,11 +246,11 @@
         "122"
       ], 
       "housenumber": "122", 
-      "lat": 50.973114999459, 
-      "lon": 5.039306767393, 
+      "lat": 50.973104757291, 
+      "lon": 5.039415970125, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -502,11 +502,11 @@
         "192A"
       ], 
       "housenumber": "192A", 
-      "lat": 50.967213595572, 
-      "lon": 5.031774644148, 
+      "lat": 50.967075465547, 
+      "lon": 5.032054283904, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "manueleAanduidingVanGebouw", 
+      "source": "afgeleidVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1209,8 +1209,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 50.977518558333, 
-      "lon": 5.044603572145, 
+      "lat": 50.977321074838, 
+      "lon": 5.044647569782, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 
@@ -1235,18 +1235,21 @@
       "street": "Leuvensesteenweg"
     }, 
     {
+      "apptnrs": [
+        "1"
+      ], 
       "busnrs": [
         "2"
       ], 
       "hnrlbls": [
-        "8-10"
+        "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.979854521368, 
-      "lon": 5.047654088885, 
+      "lat": 50.979980816352, 
+      "lon": 5.047608784624, 
       "municipality": "Diest", 
       "pcode": "3290", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Leuvensesteenweg"
     }, 
     {
@@ -1338,8 +1341,8 @@
         "96A"
       ], 
       "housenumber": "96A", 
-      "lat": 50.975592087968, 
-      "lon": 5.044371296784, 
+      "lat": 50.975589576661, 
+      "lon": 5.044385926685, 
       "municipality": "Diest", 
       "pcode": "3290", 
       "source": "afgeleidVanGebouw", 

@@ -17,11 +17,11 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 50.906568654353, 
-      "lon": 4.786574129052, 
+      "lat": 50.906605793782, 
+      "lon": 4.786545313892, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Olmendreef"
     }, 
     {
@@ -77,8 +77,8 @@
         "5"
       ], 
       "housenumber": "5", 
-      "lat": 50.906278620949, 
-      "lon": 4.78397697772, 
+      "lat": 50.906292038548, 
+      "lon": 4.783970414326, 
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
@@ -94,6 +94,30 @@
       "municipality": "Lubbeek", 
       "pcode": "3210", 
       "source": "afgeleidVanGebouw", 
+      "street": "Olmendreef"
+    }, 
+    {
+      "hnrlbls": [
+        "7"
+      ], 
+      "housenumber": "7", 
+      "lat": 50.906299804072, 
+      "lon": 4.784366584993, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Olmendreef"
+    }, 
+    {
+      "hnrlbls": [
+        "8"
+      ], 
+      "housenumber": "8", 
+      "lat": 50.905842577588, 
+      "lon": 4.784853885504, 
+      "municipality": "Lubbeek", 
+      "pcode": "3210", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Olmendreef"
     }
   ]

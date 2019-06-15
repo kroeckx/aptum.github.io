@@ -13,11 +13,11 @@
       "street": "Dorp"
     }, 
     {
-      "busnrs": [
-        "1"
+      "apptnrs": [
+        "b1"
       ], 
       "hnrlbls": [
-        "101-101b"
+        "101"
       ], 
       "housenumber": "101", 
       "lat": 51.270072317749, 
@@ -25,21 +25,6 @@
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
-      "street": "Dorp"
-    }, 
-    {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "101-101b"
-      ], 
-      "housenumber": "101b", 
-      "lat": 51.270072317749, 
-      "lon": 4.712787153187, 
-      "municipality": "Zoersel", 
-      "pcode": "2980", 
-      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -405,8 +390,8 @@
         "30"
       ], 
       "housenumber": "30", 
-      "lat": 51.268644777733, 
-      "lon": 4.712978041226, 
+      "lat": 51.268643781215, 
+      "lon": 4.713011561612, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -583,8 +568,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.269349669781, 
-      "lon": 4.713153194946, 
+      "lat": 51.269350216169, 
+      "lon": 4.713150763179, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -656,14 +641,26 @@
     }, 
     {
       "hnrlbls": [
+        "54"
+      ], 
+      "housenumber": "54", 
+      "lat": 51.269652227938, 
+      "lon": 4.713488142386, 
+      "municipality": "Zoersel", 
+      "pcode": "2980", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dorp"
+    }, 
+    {
+      "hnrlbls": [
         "56"
       ], 
       "housenumber": "56", 
-      "lat": 51.269810432272, 
-      "lon": 4.713669424451, 
+      "lat": 51.269835600826, 
+      "lon": 4.713576619419, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -671,11 +668,11 @@
         "58"
       ], 
       "housenumber": "58", 
-      "lat": 51.269823156191, 
-      "lon": 4.71362137521, 
+      "lat": 51.269811632035, 
+      "lon": 4.713689493203, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dorp"
     }, 
     {
@@ -713,8 +710,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.269772767264, 
-      "lon": 4.713547639696, 
+      "lat": 51.269880763936, 
+      "lon": 4.713716227326, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
@@ -823,8 +820,8 @@
         "83-85"
       ], 
       "housenumber": "83", 
-      "lat": 51.269412895387, 
-      "lon": 4.712708338529, 
+      "lat": 51.269417945869, 
+      "lon": 4.712640746122, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 
@@ -835,8 +832,8 @@
         "83-85"
       ], 
       "housenumber": "85", 
-      "lat": 51.269412895387, 
-      "lon": 4.712708338529, 
+      "lat": 51.269417945869, 
+      "lon": 4.712640746122, 
       "municipality": "Zoersel", 
       "pcode": "2980", 
       "source": "afgeleidVanGebouw", 

@@ -174,18 +174,15 @@
       "street": "Assenedesteenweg"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "108"
       ], 
       "housenumber": "108", 
-      "lat": 51.200200121864, 
-      "lon": 3.789068352459, 
+      "lat": 51.2001919568, 
+      "lon": 3.789053001851, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -548,8 +545,8 @@
         "128"
       ], 
       "housenumber": "128", 
-      "lat": 51.201648444739, 
-      "lon": 3.786699888475, 
+      "lat": 51.201648263568, 
+      "lon": 3.786699604577, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -656,8 +653,8 @@
         "136"
       ], 
       "housenumber": "136", 
-      "lat": 51.202049374453, 
-      "lon": 3.786213286538, 
+      "lat": 51.202059517983, 
+      "lon": 3.786228755665, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
@@ -1163,13 +1160,25 @@
       "street": "Assenedesteenweg"
     }, 
     {
-      "apptnrs": [
-        "A100"
-      ], 
       "hnrlbls": [
         "178-178G"
       ], 
       "housenumber": "178", 
+      "lat": 51.203195518512, 
+      "lon": 3.782843409551, 
+      "municipality": "Zelzate", 
+      "pcode": "9060", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Assenedesteenweg"
+    }, 
+    {
+      "apptnrs": [
+        "100"
+      ], 
+      "hnrlbls": [
+        "178-178G"
+      ], 
+      "housenumber": "178A", 
       "lat": 51.203195518512, 
       "lon": 3.782843409551, 
       "municipality": "Zelzate", 
@@ -1202,8 +1211,8 @@
       "street": "Assenedesteenweg"
     }, 
     {
-      "busnrs": [
-        "0100"
+      "apptnrs": [
+        "100"
       ], 
       "hnrlbls": [
         "178-178G"
@@ -1217,6 +1226,9 @@
       "street": "Assenedesteenweg"
     }, 
     {
+      "apptnrs": [
+        "100"
+      ], 
       "hnrlbls": [
         "178-178G"
       ], 
@@ -1229,8 +1241,8 @@
       "street": "Assenedesteenweg"
     }, 
     {
-      "busnrs": [
-        "0100"
+      "apptnrs": [
+        "100"
       ], 
       "hnrlbls": [
         "178-178G"
@@ -1320,36 +1332,28 @@
         "184"
       ], 
       "housenumber": "184", 
-      "lat": 51.203148211398, 
-      "lon": 3.782094249274, 
+      "lat": 51.203151423731, 
+      "lon": 3.782089487187, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "afgeleidVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
-      "busnrs": [
-        "001A", 
-        "002A", 
-        "101A", 
-        "102A"
-      ], 
       "hnrlbls": [
         "185"
       ], 
       "housenumber": "185", 
-      "lat": 51.201531642472, 
-      "lon": 3.786344937464, 
+      "lat": 51.20146625128, 
+      "lon": 3.78639096544, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
       "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
-      "apptnrs": [
-        "1"
-      ], 
       "busnrs": [
+        "0001", 
         "0002", 
         "0101", 
         "0102", 
@@ -2510,6 +2514,13 @@
       "street": "Assenedesteenweg"
     }, 
     {
+      "apptnrs": [
+        "0001", 
+        "0002", 
+        "0101", 
+        "0102", 
+        "0201"
+      ], 
       "hnrlbls": [
         "50"
       ], 
@@ -2558,24 +2569,15 @@
       "street": "Assenedesteenweg"
     }, 
     {
-      "busnrs": [
-        "A000", 
-        "B000", 
-        "C000", 
-        "D000", 
-        "E000", 
-        "F000", 
-        "G000"
-      ], 
       "hnrlbls": [
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.197483057151, 
-      "lon": 3.795443441986, 
+      "lat": 51.197418828019, 
+      "lon": 3.795433214354, 
       "municipality": "Zelzate", 
       "pcode": "9060", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Assenedesteenweg"
     }, 
     {
@@ -3252,7 +3254,11 @@
     }, 
     {
       "apptnrs": [
-        "0002"
+        "001", 
+        "002", 
+        "101", 
+        "102", 
+        "201"
       ], 
       "hnrlbls": [
         "97-99A"
@@ -3266,6 +3272,9 @@
       "street": "Assenedesteenweg"
     }, 
     {
+      "apptnrs": [
+        "101"
+      ], 
       "hnrlbls": [
         "97-99A"
       ], 

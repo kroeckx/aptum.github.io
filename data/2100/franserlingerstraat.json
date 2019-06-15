@@ -18,8 +18,10 @@
       "street": "Frans Erlingerstraat"
     }, 
     {
-      "busnrs": [
-        "3"
+      "apptnrs": [
+        "001", 
+        "201", 
+        "301"
       ], 
       "hnrlbls": [
         "10"
@@ -263,17 +265,18 @@
     {
       "busnrs": [
         "1", 
-        "2"
+        "2", 
+        "3"
       ], 
       "hnrlbls": [
         "6"
       ], 
       "housenumber": "6", 
-      "lat": 51.222033064987, 
-      "lon": 4.471508667833, 
+      "lat": 51.222060052645, 
+      "lon": 4.471482963141, 
       "municipality": "Antwerpen", 
       "pcode": "2100", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Frans Erlingerstraat"
     }, 
     {

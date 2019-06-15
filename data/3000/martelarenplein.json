@@ -47,8 +47,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 50.88147737638, 
-      "lon": 4.713806492425, 
+      "lat": 50.88147294199, 
+      "lon": 4.713785997386, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -72,6 +72,10 @@
       "street": "Martelarenplein"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002"
+      ], 
       "hnrlbls": [
         "14"
       ], 
@@ -97,7 +101,7 @@
     }, 
     {
       "hnrlbls": [
-        "1C-19C"
+        "16-18"
       ], 
       "housenumber": "16", 
       "lat": 50.881701572541, 
@@ -109,19 +113,19 @@
     }, 
     {
       "hnrlbls": [
-        "1D-19B"
+        "16-18"
       ], 
       "housenumber": "17", 
-      "lat": 50.882061814784, 
-      "lon": 4.714893325653, 
+      "lat": 50.881701572541, 
+      "lon": 4.714812936649, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Martelarenplein"
     }, 
     {
       "hnrlbls": [
-        "1C-19C"
+        "16-18"
       ], 
       "housenumber": "18", 
       "lat": 50.881701572541, 
@@ -133,38 +137,38 @@
     }, 
     {
       "hnrlbls": [
-        "1D-19B"
+        "19-19B"
       ], 
       "housenumber": "19", 
-      "lat": 50.882061814784, 
-      "lon": 4.714893325653, 
+      "lat": 50.881805748507, 
+      "lon": 4.71506053514, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Martelarenplein"
     }, 
     {
       "hnrlbls": [
-        "1D-19B"
+        "19-19B"
       ], 
       "housenumber": "19A", 
-      "lat": 50.882061814784, 
-      "lon": 4.714893325653, 
+      "lat": 50.881805748507, 
+      "lon": 4.71506053514, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Martelarenplein"
     }, 
     {
       "hnrlbls": [
-        "1D-19B"
+        "19-19B"
       ], 
       "housenumber": "19B", 
-      "lat": 50.882061814784, 
-      "lon": 4.714893325653, 
+      "lat": 50.881805748507, 
+      "lon": 4.71506053514, 
       "municipality": "Leuven", 
       "pcode": "3000", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Martelarenplein"
     }, 
     {
@@ -172,8 +176,8 @@
         "1C-19C"
       ], 
       "housenumber": "19C", 
-      "lat": 50.881701572541, 
-      "lon": 4.714812936649, 
+      "lat": 50.881817950248, 
+      "lon": 4.714642706085, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -266,8 +270,8 @@
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 50.88057759474, 
-      "lon": 4.71417941155, 
+      "lat": 50.88057750359, 
+      "lon": 4.71417983717, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 
@@ -338,8 +342,8 @@
         "8"
       ], 
       "housenumber": "8", 
-      "lat": 50.881235019543, 
-      "lon": 4.713806271652, 
+      "lat": 50.881244075214, 
+      "lon": 4.713844847218, 
       "municipality": "Leuven", 
       "pcode": "3000", 
       "source": "afgeleidVanGebouw", 

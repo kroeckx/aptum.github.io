@@ -25,15 +25,18 @@
       "street": "Gerechtsplein"
     }, 
     {
+      "busnrs": [
+        "0201"
+      ], 
       "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
-      "lat": 51.218339744279, 
-      "lon": 2.902295363222, 
+      "lat": 51.218337167694, 
+      "lon": 2.902290577027, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Gerechtsplein"
     }, 
     {

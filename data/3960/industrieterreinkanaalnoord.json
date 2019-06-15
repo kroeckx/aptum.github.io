@@ -53,8 +53,8 @@
         "1107"
       ], 
       "housenumber": "1107", 
-      "lat": 51.143731192391, 
-      "lon": 5.631400458624, 
+      "lat": 51.143734672634, 
+      "lon": 5.631411271542, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -77,8 +77,8 @@
         "1114"
       ], 
       "housenumber": "1114", 
-      "lat": 51.145065505038, 
-      "lon": 5.632120288562, 
+      "lat": 51.145062974811, 
+      "lon": 5.632121506365, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -101,8 +101,8 @@
         "1120"
       ], 
       "housenumber": "1120", 
-      "lat": 51.145481298627, 
-      "lon": 5.631136946463, 
+      "lat": 51.145480264151, 
+      "lon": 5.631141206154, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -218,6 +218,18 @@
     }, 
     {
       "hnrlbls": [
+        "1153"
+      ], 
+      "housenumber": "1153", 
+      "lat": 51.146242604906, 
+      "lon": 5.625745126989, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
         "1155"
       ], 
       "housenumber": "1155", 
@@ -226,6 +238,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1157"
+      ], 
+      "housenumber": "1157", 
+      "lat": 51.145890062943, 
+      "lon": 5.625496378867, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Industrieterrein Kanaal-Noord"
     }, 
     {
@@ -245,8 +269,8 @@
         "1159"
       ], 
       "housenumber": "1159", 
-      "lat": 51.147099669222, 
-      "lon": 5.624439987966, 
+      "lat": 51.147100377564, 
+      "lon": 5.624441007512, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -284,8 +308,8 @@
         "1173"
       ], 
       "housenumber": "1173", 
-      "lat": 51.148921156942, 
-      "lon": 5.622686614873, 
+      "lat": 51.148921715926, 
+      "lon": 5.622684771768, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -332,8 +356,8 @@
         "1207"
       ], 
       "housenumber": "1207", 
-      "lat": 51.144459806138, 
-      "lon": 5.629031703516, 
+      "lat": 51.144484836393, 
+      "lon": 5.629044956241, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -368,8 +392,8 @@
         "1303"
       ], 
       "housenumber": "1303", 
-      "lat": 51.143534407322, 
-      "lon": 5.628280131212, 
+      "lat": 51.143534322025, 
+      "lon": 5.628279700161, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -512,8 +536,8 @@
         "1443"
       ], 
       "housenumber": "1443", 
-      "lat": 51.145472246034, 
-      "lon": 5.617442051496, 
+      "lat": 51.145470246996, 
+      "lon": 5.617435566533, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
@@ -569,6 +593,42 @@
     }, 
     {
       "hnrlbls": [
+        "1620"
+      ], 
+      "housenumber": "1620", 
+      "lat": 51.14988773695, 
+      "lon": 5.618095197827, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1635"
+      ], 
+      "housenumber": "1635", 
+      "lat": 51.14926261957, 
+      "lon": 5.617726275829, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1636"
+      ], 
+      "housenumber": "1636", 
+      "lat": 51.150707577735, 
+      "lon": 5.620261785753, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
         "1636A"
       ], 
       "housenumber": "1636A", 
@@ -577,6 +637,42 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1637"
+      ], 
+      "housenumber": "1637", 
+      "lat": 51.151535959427, 
+      "lon": 5.620367048899, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1639"
+      ], 
+      "housenumber": "1639", 
+      "lat": 51.151577574903, 
+      "lon": 5.620477943402, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1649"
+      ], 
+      "housenumber": "1649", 
+      "lat": 51.152498299487, 
+      "lon": 5.62246968456, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
       "street": "Industrieterrein Kanaal-Noord"
     }, 
     {
@@ -593,14 +689,86 @@
     }, 
     {
       "hnrlbls": [
+        "1661"
+      ], 
+      "housenumber": "1661", 
+      "lat": 51.153441300699, 
+      "lon": 5.624916102601, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1662-1680"
+      ], 
+      "housenumber": "1662", 
+      "lat": 51.145324138672, 
+      "lon": 5.623732209092, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1667"
+      ], 
+      "housenumber": "1667", 
+      "lat": 51.153600252931, 
+      "lon": 5.625320346905, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1662-1680"
+      ], 
+      "housenumber": "1680", 
+      "lat": 51.145324138672, 
+      "lon": 5.623732209092, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersPerceelGrb", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
         "1705"
       ], 
       "housenumber": "1705", 
-      "lat": 51.145611683474, 
-      "lon": 5.623237568065, 
+      "lat": 51.14919736859, 
+      "lon": 5.630969888907, 
       "municipality": "Bree", 
       "pcode": "3960", 
-      "source": "afgeleidVanStraat", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1713"
+      ], 
+      "housenumber": "1713", 
+      "lat": 51.144855845884, 
+      "lon": 5.637273615959, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
+      "street": "Industrieterrein Kanaal-Noord"
+    }, 
+    {
+      "hnrlbls": [
+        "1713A"
+      ], 
+      "housenumber": "1713A", 
+      "lat": 51.144927738364, 
+      "lon": 5.637309584974, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Industrieterrein Kanaal-Noord"
     }, 
     {
@@ -620,8 +788,8 @@
         "2002"
       ], 
       "housenumber": "2002", 
-      "lat": 51.140451357001, 
-      "lon": 5.62832570262, 
+      "lat": 51.140476232877, 
+      "lon": 5.627553390401, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 

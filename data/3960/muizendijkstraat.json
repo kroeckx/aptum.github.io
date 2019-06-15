@@ -113,8 +113,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.113460365485, 
-      "lon": 5.589611724371, 
+      "lat": 51.113486489125, 
+      "lon": 5.589589269862, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanPerceelGrb", 
@@ -374,6 +374,18 @@
     }, 
     {
       "hnrlbls": [
+        "36A-36B"
+      ], 
+      "housenumber": "36B", 
+      "lat": 51.111732594227, 
+      "lon": 5.586890730914, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "geinterpoleerdObvNevenliggendeHuisnummersGebouw", 
+      "street": "Muizendijkstraat"
+    }, 
+    {
+      "hnrlbls": [
         "3A"
       ], 
       "housenumber": "3A", 
@@ -382,6 +394,18 @@
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 
+      "street": "Muizendijkstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "40"
+      ], 
+      "housenumber": "40", 
+      "lat": 51.111607609201, 
+      "lon": 5.58633619654, 
+      "municipality": "Bree", 
+      "pcode": "3960", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Muizendijkstraat"
     }, 
     {
@@ -677,8 +701,8 @@
         "84"
       ], 
       "housenumber": "84", 
-      "lat": 51.111005754805, 
-      "lon": 5.576862420762, 
+      "lat": 51.111008806187, 
+      "lon": 5.576862928131, 
       "municipality": "Bree", 
       "pcode": "3960", 
       "source": "afgeleidVanGebouw", 

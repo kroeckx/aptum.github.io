@@ -53,8 +53,8 @@
         "15"
       ], 
       "housenumber": "15", 
-      "lat": 51.006967586093, 
-      "lon": 4.6656779202, 
+      "lat": 51.006973787065, 
+      "lon": 4.665678529517, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -65,8 +65,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.007193061977, 
-      "lon": 4.664883739092, 
+      "lat": 51.007192506107, 
+      "lon": 4.664890289694, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
       "source": "afgeleidVanGebouw", 
@@ -89,11 +89,23 @@
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.007576718737, 
-      "lon": 4.66609313604, 
+      "lat": 51.007653865178, 
+      "lon": 4.666014406667, 
       "municipality": "Keerbergen", 
       "pcode": "3140", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Eksterdreef"
+    }, 
+    {
+      "hnrlbls": [
+        "2"
+      ], 
+      "housenumber": "2", 
+      "lat": 51.004957502643, 
+      "lon": 4.664081692745, 
+      "municipality": "Keerbergen", 
+      "pcode": "3140", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Eksterdreef"
     }, 
     {

@@ -1022,8 +1022,8 @@
         "2"
       ], 
       "housenumber": "2", 
-      "lat": 51.068372941529, 
-      "lon": 4.98869002591, 
+      "lat": 51.068461321359, 
+      "lon": 4.988465064263, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
       "source": "afgeleidVanGebouw", 
@@ -1469,11 +1469,23 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.067423170705, 
-      "lon": 4.994545514231, 
+      "lat": 51.06737923778, 
+      "lon": 4.994507118851, 
       "municipality": "Laakdal", 
       "pcode": "2431", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelKadaster", 
+      "street": "Tessenderloseweg"
+    }, 
+    {
+      "hnrlbls": [
+        "53A"
+      ], 
+      "housenumber": "53A", 
+      "lat": 51.067360028476, 
+      "lon": 4.994654095122, 
+      "municipality": "Laakdal", 
+      "pcode": "2431", 
+      "source": "manueleAanduidingVanPerceel", 
       "street": "Tessenderloseweg"
     }, 
     {

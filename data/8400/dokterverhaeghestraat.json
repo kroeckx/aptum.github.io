@@ -233,11 +233,11 @@
         "117"
       ], 
       "housenumber": "117", 
-      "lat": 51.218127413236, 
-      "lon": 2.895374038056, 
+      "lat": 51.218126606104, 
+      "lon": 2.895410281123, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Verhaeghestraat"
     }, 
     {
@@ -293,11 +293,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.218239389171, 
-      "lon": 2.89520473024, 
+      "lat": 51.218229713638, 
+      "lon": 2.895156936549, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Verhaeghestraat"
     }, 
     {
@@ -325,9 +325,6 @@
       "street": "Dokter Verhaeghestraat"
     }, 
     {
-      "busnrs": [
-        "A000"
-      ], 
       "hnrlbls": [
         "124A"
       ], 
@@ -562,8 +559,8 @@
         "154"
       ], 
       "housenumber": "154", 
-      "lat": 51.2178226579, 
-      "lon": 2.894891508951, 
+      "lat": 51.217826565654, 
+      "lon": 2.894887663541, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 
@@ -618,19 +615,15 @@
       "street": "Dokter Verhaeghestraat"
     }, 
     {
-      "busnrs": [
-        "0101", 
-        "1"
-      ], 
       "hnrlbls": [
         "19"
       ], 
       "housenumber": "19", 
-      "lat": 51.217582162433, 
-      "lon": 2.901303812478, 
+      "lat": 51.217509362549, 
+      "lon": 2.901276470509, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Verhaeghestraat"
     }, 
     {
@@ -798,11 +791,11 @@
         "31"
       ], 
       "housenumber": "31", 
-      "lat": 51.217630037155, 
-      "lon": 2.9003659575, 
+      "lat": 51.217605256673, 
+      "lon": 2.900346839606, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Verhaeghestraat"
     }, 
     {
@@ -822,11 +815,11 @@
         "33"
       ], 
       "housenumber": "33", 
-      "lat": 51.217663660653, 
-      "lon": 2.900271851032, 
+      "lat": 51.217608583355, 
+      "lon": 2.900310660914, 
       "municipality": "Oostende", 
       "pcode": "8400", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Verhaeghestraat"
     }, 
     {
@@ -875,6 +868,22 @@
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "manueleAanduidingVanPerceel", 
+      "street": "Dokter Verhaeghestraat"
+    }, 
+    {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "37A"
+      ], 
+      "housenumber": "37A", 
+      "lat": 51.217671470898, 
+      "lon": 2.899720760542, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Dokter Verhaeghestraat"
     }, 
     {
@@ -1122,6 +1131,22 @@
       "street": "Dokter Verhaeghestraat"
     }, 
     {
+      "busnrs": [
+        "0101", 
+        "0102"
+      ], 
+      "hnrlbls": [
+        "57"
+      ], 
+      "housenumber": "57", 
+      "lat": 51.217742184659, 
+      "lon": 2.898928911962, 
+      "municipality": "Oostende", 
+      "pcode": "8400", 
+      "source": "manueleAanduidingVanGebouw", 
+      "street": "Dokter Verhaeghestraat"
+    }, 
+    {
       "hnrlbls": [
         "58"
       ], 
@@ -1150,8 +1175,8 @@
         "60"
       ], 
       "housenumber": "60", 
-      "lat": 51.21728231343, 
-      "lon": 2.901258132522, 
+      "lat": 51.217267013049, 
+      "lon": 2.901256752912, 
       "municipality": "Oostende", 
       "pcode": "8400", 
       "source": "afgeleidVanGebouw", 

@@ -17,8 +17,8 @@
         "10"
       ], 
       "housenumber": "10", 
-      "lat": 51.066560793837, 
-      "lon": 4.245213936062, 
+      "lat": 51.066521426684, 
+      "lon": 4.24521803393, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -53,8 +53,8 @@
         "12"
       ], 
       "housenumber": "12", 
-      "lat": 51.066555339517, 
-      "lon": 4.245155459462, 
+      "lat": 51.066549135401, 
+      "lon": 4.245153763831, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -108,8 +108,8 @@
         "16"
       ], 
       "housenumber": "16", 
-      "lat": 51.066498341109, 
-      "lon": 4.244974858201, 
+      "lat": 51.066500495908, 
+      "lon": 4.244972427302, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -306,8 +306,8 @@
         "25A"
       ], 
       "housenumber": "25A", 
-      "lat": 51.066248738551, 
-      "lon": 4.243709123348, 
+      "lat": 51.066255565287, 
+      "lon": 4.243704540087, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "manueleAanduidingVanGebouw", 
@@ -336,8 +336,8 @@
         "27"
       ], 
       "housenumber": "27", 
-      "lat": 51.066243601464, 
-      "lon": 4.243611272351, 
+      "lat": 51.066247644956, 
+      "lon": 4.243609834997, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "manueleAanduidingVanGebouw", 
@@ -360,11 +360,11 @@
         "29"
       ], 
       "housenumber": "29", 
-      "lat": 51.066063161675, 
-      "lon": 4.243580652595, 
+      "lat": 51.066215323048, 
+      "lon": 4.243475820805, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Oppuursdorp"
     }, 
     {
@@ -411,8 +411,8 @@
         "32"
       ], 
       "housenumber": "32", 
-      "lat": 51.066447474383, 
-      "lon": 4.243871085389, 
+      "lat": 51.066447655063, 
+      "lon": 4.243871940872, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -583,8 +583,8 @@
         "42"
       ], 
       "housenumber": "42", 
-      "lat": 51.066447986083, 
-      "lon": 4.243334252706, 
+      "lat": 51.066446278648, 
+      "lon": 4.243334685239, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -619,8 +619,8 @@
         "45"
       ], 
       "housenumber": "45", 
-      "lat": 51.065909707945, 
-      "lon": 4.241626492309, 
+      "lat": 51.065912402315, 
+      "lon": 4.241624345146, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -727,8 +727,8 @@
         "53"
       ], 
       "housenumber": "53", 
-      "lat": 51.065696342962, 
-      "lon": 4.240820907533, 
+      "lat": 51.065723562806, 
+      "lon": 4.240805569071, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -751,8 +751,8 @@
         "55"
       ], 
       "housenumber": "55", 
-      "lat": 51.06567074149, 
-      "lon": 4.240753357218, 
+      "lat": 51.065667417143, 
+      "lon": 4.240754792845, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -847,8 +847,8 @@
         "62"
       ], 
       "housenumber": "62", 
-      "lat": 51.066206845976, 
-      "lon": 4.241928983912, 
+      "lat": 51.066179893672, 
+      "lon": 4.241942466581, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -995,8 +995,8 @@
         "70"
       ], 
       "housenumber": "70", 
-      "lat": 51.066114029158, 
-      "lon": 4.241294827559, 
+      "lat": 51.066103507865, 
+      "lon": 4.241290861603, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -1038,14 +1038,33 @@
         "1", 
         "2", 
         "3", 
+        "4", 
+        "5"
+      ], 
+      "hnrlbls": [
+        "72"
+      ], 
+      "housenumber": "72", 
+      "lat": 51.066051237662, 
+      "lon": 4.241082435393, 
+      "municipality": "Puurs-Sint-Amands", 
+      "pcode": "2890", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Oppuursdorp"
+    }, 
+    {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
         "4"
       ], 
       "hnrlbls": [
         "73"
       ], 
       "housenumber": "73", 
-      "lat": 51.064700390651, 
-      "lon": 4.239431301849, 
+      "lat": 51.064701108984, 
+      "lon": 4.239430586599, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 
@@ -1264,8 +1283,8 @@
         "96"
       ], 
       "housenumber": "96", 
-      "lat": 51.064946901127, 
-      "lon": 4.238723621478, 
+      "lat": 51.064949138015, 
+      "lon": 4.238714200004, 
       "municipality": "Puurs-Sint-Amands", 
       "pcode": "2890", 
       "source": "afgeleidVanGebouw", 

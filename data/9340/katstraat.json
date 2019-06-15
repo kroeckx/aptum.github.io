@@ -413,6 +413,23 @@
       "street": "Katstraat"
     }, 
     {
+      "busnrs": [
+        "11", 
+        "21", 
+        "22"
+      ], 
+      "hnrlbls": [
+        "4"
+      ], 
+      "housenumber": "4", 
+      "lat": 50.964921310759, 
+      "lon": 3.980219152955, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Katstraat"
+    }, 
+    {
       "hnrlbls": [
         "40"
       ], 
@@ -530,6 +547,21 @@
       "municipality": "Lede", 
       "pcode": "9340", 
       "source": "afgeleidVanGebouw", 
+      "street": "Katstraat"
+    }, 
+    {
+      "busnrs": [
+        "/01"
+      ], 
+      "hnrlbls": [
+        "4A"
+      ], 
+      "housenumber": "4A", 
+      "lat": 50.964913549566, 
+      "lon": 3.980155442883, 
+      "municipality": "Lede", 
+      "pcode": "9340", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Katstraat"
     }, 
     {

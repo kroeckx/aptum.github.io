@@ -2,6 +2,18 @@
   "addresses": [
     {
       "hnrlbls": [
+        "1"
+      ], 
+      "housenumber": "1", 
+      "lat": 51.292293618347, 
+      "lon": 4.745149716876, 
+      "municipality": "Malle", 
+      "pcode": "2390", 
+      "source": "manueleAanduidingVanLot", 
+      "street": "Pater Hensstraat"
+    }, 
+    {
+      "hnrlbls": [
         "10"
       ], 
       "housenumber": "10", 
@@ -79,6 +91,18 @@
       "housenumber": "17", 
       "lat": 51.291529816841, 
       "lon": 4.742281798884, 
+      "municipality": "Malle", 
+      "pcode": "2390", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Pater Hensstraat"
+    }, 
+    {
+      "hnrlbls": [
+        "1A"
+      ], 
+      "housenumber": "1A", 
+      "lat": 51.292170885592, 
+      "lon": 4.744965660007, 
       "municipality": "Malle", 
       "pcode": "2390", 
       "source": "afgeleidVanGebouw", 

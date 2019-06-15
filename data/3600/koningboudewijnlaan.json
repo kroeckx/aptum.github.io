@@ -579,6 +579,17 @@
       "street": "Koning Boudewijnlaan"
     }, 
     {
+      "busnrs": [
+        "BU01", 
+        "BU02", 
+        "BU11", 
+        "BU12", 
+        "BU21", 
+        "BU22", 
+        "BU31", 
+        "BU32", 
+        "BU33"
+      ], 
       "hnrlbls": [
         "48"
       ], 
@@ -635,6 +646,7 @@
         "BU14", 
         "BU15", 
         "BU16", 
+        "BU21", 
         "BU22", 
         "BU23", 
         "BU24", 

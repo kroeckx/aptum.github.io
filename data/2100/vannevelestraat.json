@@ -965,30 +965,6 @@
     }, 
     {
       "hnrlbls": [
-        "2a-2b"
-      ], 
-      "housenumber": "2a", 
-      "lat": 51.227124271809, 
-      "lon": 4.450192890822, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Van Nevelestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "2a-2b"
-      ], 
-      "housenumber": "2b", 
-      "lat": 51.227124271809, 
-      "lon": 4.450192890822, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Van Nevelestraat"
-    }, 
-    {
-      "hnrlbls": [
         "3"
       ], 
       "housenumber": "3", 
@@ -1808,6 +1784,12 @@
       "street": "Van Nevelestraat"
     }, 
     {
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201", 
+        "301"
+      ], 
       "hnrlbls": [
         "94"
       ], 

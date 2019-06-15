@@ -305,6 +305,18 @@
     }, 
     {
       "hnrlbls": [
+        "21-25"
+      ], 
+      "housenumber": "21", 
+      "lat": 51.182961347388, 
+      "lon": 4.592862908419, 
+      "municipality": "Ranst", 
+      "pcode": "2520", 
+      "source": "afgeleidVanPerceelGrb", 
+      "street": "Antwerpsesteenweg"
+    }, 
+    {
+      "hnrlbls": [
         "22"
       ], 
       "housenumber": "22", 
@@ -328,15 +340,21 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
+      "busnrs": [
+        "0001", 
+        "0002", 
+        "0011", 
+        "0012"
+      ], 
       "hnrlbls": [
-        "23-25"
+        "23"
       ], 
       "housenumber": "23", 
-      "lat": 51.182961347388, 
-      "lon": 4.592862908419, 
+      "lat": 51.182946257528, 
+      "lon": 4.592620850896, 
       "municipality": "Ranst", 
       "pcode": "2520", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Antwerpsesteenweg"
     }, 
     {
@@ -359,7 +377,7 @@
         "2"
       ], 
       "hnrlbls": [
-        "23-25"
+        "21-25"
       ], 
       "housenumber": "25", 
       "lat": 51.182961347388, 
@@ -1097,10 +1115,6 @@
       "street": "Antwerpsesteenweg"
     }, 
     {
-      "busnrs": [
-        "1", 
-        "2"
-      ], 
       "hnrlbls": [
         "85"
       ], 

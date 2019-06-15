@@ -365,8 +365,8 @@
         "142"
       ], 
       "housenumber": "142", 
-      "lat": 51.054560901764, 
-      "lon": 3.460083417822, 
+      "lat": 51.054562257697, 
+      "lon": 3.460084389955, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -377,8 +377,8 @@
         "144"
       ], 
       "housenumber": "144", 
-      "lat": 51.054398179404, 
-      "lon": 3.46015204426, 
+      "lat": 51.054399902562, 
+      "lon": 3.460154007707, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 
@@ -505,6 +505,9 @@
       "street": "Steenweg op Deinze"
     }, 
     {
+      "busnrs": [
+        "1A"
+      ], 
       "hnrlbls": [
         "166"
       ], 
@@ -1352,6 +1355,18 @@
       "housenumber": "58A", 
       "lat": 51.069176543184, 
       "lon": 3.451573130063, 
+      "municipality": "Aalter", 
+      "pcode": "9880", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Steenweg op Deinze"
+    }, 
+    {
+      "hnrlbls": [
+        "59"
+      ], 
+      "housenumber": "59", 
+      "lat": 51.06011198124, 
+      "lon": 3.458102822253, 
       "municipality": "Aalter", 
       "pcode": "9880", 
       "source": "afgeleidVanGebouw", 

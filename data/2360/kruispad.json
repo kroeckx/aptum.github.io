@@ -29,26 +29,26 @@
         "1"
       ], 
       "hnrlbls": [
-        "11"
+        "11-11_1"
       ], 
       "housenumber": "11", 
-      "lat": 51.320568168421, 
-      "lon": 4.991574645799, 
+      "lat": 51.320463368782, 
+      "lon": 4.991932425432, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Kruispad"
     }, 
     {
       "hnrlbls": [
-        "11_1"
+        "11-11_1"
       ], 
       "housenumber": "11_1", 
-      "lat": 51.320449763111, 
-      "lon": 4.991750929654, 
+      "lat": 51.320463368782, 
+      "lon": 4.991932425432, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
-      "source": "afgeleidVanGebouw", 
+      "source": "geinterpoleerdObvWegverbinding", 
       "street": "Kruispad"
     }, 
     {
@@ -71,8 +71,20 @@
         "13"
       ], 
       "housenumber": "13", 
-      "lat": 51.320376026978, 
-      "lon": 4.991774039765, 
+      "lat": 51.320449586377, 
+      "lon": 4.991750353508, 
+      "municipality": "Oud-Turnhout", 
+      "pcode": "2360", 
+      "source": "afgeleidVanGebouw", 
+      "street": "Kruispad"
+    }, 
+    {
+      "hnrlbls": [
+        "13C"
+      ], 
+      "housenumber": "13C", 
+      "lat": 51.320243804478, 
+      "lon": 4.992013826003, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 
@@ -83,8 +95,8 @@
         "13_1"
       ], 
       "housenumber": "13_1", 
-      "lat": 51.320349576854, 
-      "lon": 4.991881124574, 
+      "lat": 51.320396205582, 
+      "lon": 4.991816769679, 
       "municipality": "Oud-Turnhout", 
       "pcode": "2360", 
       "source": "afgeleidVanGebouw", 

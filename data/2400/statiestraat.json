@@ -1,7 +1,7 @@
 {
   "addresses": [
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2"
       ], 
@@ -159,7 +159,7 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3"
@@ -392,7 +392,7 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -612,7 +612,7 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "201", 
         "301", 
@@ -642,7 +642,7 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -1021,21 +1021,6 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
-        "1"
-      ], 
-      "hnrlbls": [
-        "5"
-      ], 
-      "housenumber": "5", 
-      "lat": 51.187129823689, 
-      "lon": 5.119098176978, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "manueleAanduidingVanGebouw", 
-      "street": "Statiestraat"
-    }, 
-    {
       "hnrlbls": [
         "51"
       ], 
@@ -1174,7 +1159,7 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1"
       ], 
       "hnrlbls": [
@@ -1183,18 +1168,6 @@
       "housenumber": "58", 
       "lat": 51.190270168819, 
       "lon": 5.117716834592, 
-      "municipality": "Mol", 
-      "pcode": "2400", 
-      "source": "manueleAanduidingVanIngangVanGebouw", 
-      "street": "Statiestraat"
-    }, 
-    {
-      "hnrlbls": [
-        "58A"
-      ], 
-      "housenumber": "58A", 
-      "lat": 51.190298906851, 
-      "lon": 5.117692692384, 
       "municipality": "Mol", 
       "pcode": "2400", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
@@ -1296,7 +1269,7 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
         "2", 
         "3", 
@@ -1457,7 +1430,7 @@
       "street": "Statiestraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "101", 
         "201", 
         "301", 

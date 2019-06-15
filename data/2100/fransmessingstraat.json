@@ -386,10 +386,10 @@
       "street": "Frans Messingstraat"
     }, 
     {
-      "busnrs": [
-        "A", 
-        "B", 
-        "C"
+      "apptnrs": [
+        "001", 
+        "101", 
+        "201"
       ], 
       "hnrlbls": [
         "40"
@@ -400,18 +400,6 @@
       "municipality": "Antwerpen", 
       "pcode": "2100", 
       "source": "afgeleidVanGebouw", 
-      "street": "Frans Messingstraat"
-    }, 
-    {
-      "hnrlbls": [
-        "40A"
-      ], 
-      "housenumber": "40A", 
-      "lat": 51.226653205266, 
-      "lon": 4.468670795207, 
-      "municipality": "Antwerpen", 
-      "pcode": "2100", 
-      "source": "manueleAanduidingVanGebouw", 
       "street": "Frans Messingstraat"
     }, 
     {

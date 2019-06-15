@@ -181,6 +181,11 @@
       "street": "Schoolstraat"
     }, 
     {
+      "apptnrs": [
+        "1", 
+        "2", 
+        "3"
+      ], 
       "hnrlbls": [
         "21"
       ], 
@@ -392,8 +397,8 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.236377985479, 
-      "lon": 4.580722345067, 
+      "lat": 51.23637377205, 
+      "lon": 4.580716169065, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -473,8 +478,8 @@
         "41"
       ], 
       "housenumber": "41", 
-      "lat": 51.235711078856, 
-      "lon": 4.581901959843, 
+      "lat": 51.235711719685, 
+      "lon": 4.581895519734, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -509,8 +514,8 @@
         "44"
       ], 
       "housenumber": "44", 
-      "lat": 51.235449642048, 
-      "lon": 4.581185442867, 
+      "lat": 51.235580465034, 
+      "lon": 4.58126178243, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "manueleAanduidingVanGebouw", 
@@ -539,11 +544,11 @@
         "46"
       ], 
       "housenumber": "46", 
-      "lat": 51.235525665392, 
-      "lon": 4.581145700542, 
+      "lat": 51.235459534168, 
+      "lon": 4.581232593689, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "manueleAanduidingVanPerceel", 
+      "source": "manueleAanduidingVanGebouw", 
       "street": "Schoolstraat"
     }, 
     {
@@ -647,8 +652,8 @@
         "54"
       ], 
       "housenumber": "54", 
-      "lat": 51.233953275451, 
-      "lon": 4.581872706308, 
+      "lat": 51.233956658392, 
+      "lon": 4.581890761684, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 
@@ -745,10 +750,9 @@
       "street": "Schoolstraat"
     }, 
     {
-      "busnrs": [
+      "apptnrs": [
         "1", 
-        "2", 
-        "3"
+        "2"
       ], 
       "hnrlbls": [
         "5A"
@@ -880,11 +884,11 @@
         "7"
       ], 
       "housenumber": "7", 
-      "lat": 51.238110682933, 
-      "lon": 4.57986497623, 
+      "lat": 51.238268161516, 
+      "lon": 4.580314868563, 
       "municipality": "Schilde", 
       "pcode": "2970", 
-      "source": "afgeleidVanGebouw", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Schoolstraat"
     }, 
     {
@@ -974,8 +978,8 @@
         "78"
       ], 
       "housenumber": "78", 
-      "lat": 51.232604730997, 
-      "lon": 4.582726109593, 
+      "lat": 51.232611636661, 
+      "lon": 4.582734588386, 
       "municipality": "Schilde", 
       "pcode": "2970", 
       "source": "afgeleidVanGebouw", 

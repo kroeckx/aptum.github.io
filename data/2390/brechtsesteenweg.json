@@ -125,11 +125,11 @@
         "110"
       ], 
       "housenumber": "110", 
-      "lat": 51.303024950641, 
-      "lon": 4.677909064931, 
+      "lat": 51.303099297151, 
+      "lon": 4.678006632742, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brechtsesteenweg"
     }, 
     {
@@ -149,11 +149,11 @@
         "112"
       ], 
       "housenumber": "112", 
-      "lat": 51.303198966456, 
-      "lon": 4.677769704003, 
+      "lat": 51.303253628213, 
+      "lon": 4.67786757109, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brechtsesteenweg"
     }, 
     {
@@ -161,11 +161,11 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.303408403929, 
-      "lon": 4.677558310197, 
+      "lat": 51.30340606862, 
+      "lon": 4.67772964304, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brechtsesteenweg"
     }, 
     {
@@ -173,11 +173,11 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.303554746726, 
-      "lon": 4.677414748008, 
+      "lat": 51.303558599113, 
+      "lon": 4.677591571298, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brechtsesteenweg"
     }, 
     {
@@ -185,11 +185,11 @@
         "118"
       ], 
       "housenumber": "118", 
-      "lat": 51.30372885624, 
-      "lon": 4.677239250307, 
+      "lat": 51.303711128686, 
+      "lon": 4.677453785424, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brechtsesteenweg"
     }, 
     {
@@ -209,11 +209,11 @@
         "120"
       ], 
       "housenumber": "120", 
-      "lat": 51.30383735473, 
-      "lon": 4.677131568901, 
+      "lat": 51.30385853455, 
+      "lon": 4.677316107993, 
       "municipality": "Malle", 
       "pcode": "2390", 
-      "source": "manueleAanduidingVanLot", 
+      "source": "afgeleidVanPerceelGrb", 
       "street": "Brechtsesteenweg"
     }, 
     {
@@ -453,6 +453,13 @@
       "street": "Brechtsesteenweg"
     }, 
     {
+      "busnrs": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5"
+      ], 
       "hnrlbls": [
         "18"
       ], 

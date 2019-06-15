@@ -180,8 +180,8 @@
         "114"
       ], 
       "housenumber": "114", 
-      "lat": 51.35338429368, 
-      "lon": 4.306454257722, 
+      "lat": 51.353385012637, 
+      "lon": 4.306454113229, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 
@@ -204,8 +204,8 @@
         "116"
       ], 
       "housenumber": "116", 
-      "lat": 51.353492242884, 
-      "lon": 4.306463014234, 
+      "lat": 51.353510203827, 
+      "lon": 4.306434425763, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 
@@ -570,8 +570,8 @@
         "148"
       ], 
       "housenumber": "148", 
-      "lat": 51.354904940228, 
-      "lon": 4.306771344231, 
+      "lat": 51.35490547913, 
+      "lon": 4.306770625794, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 
@@ -1303,8 +1303,8 @@
         "205"
       ], 
       "housenumber": "205", 
-      "lat": 51.359185908004, 
-      "lon": 4.30667224383, 
+      "lat": 51.359162192509, 
+      "lon": 4.30669639298, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1555,11 +1555,11 @@
         "48A"
       ], 
       "housenumber": "48A", 
-      "lat": 51.344344134223, 
-      "lon": 4.30606368009, 
+      "lat": 51.344401384012, 
+      "lon": 4.305885647682, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Zoutestraat"
     }, 
     {
@@ -1567,8 +1567,8 @@
         "48B"
       ], 
       "housenumber": "48B", 
-      "lat": 51.344483726331, 
-      "lon": 4.306081863689, 
+      "lat": 51.344518417926, 
+      "lon": 4.306078373134, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1579,8 +1579,8 @@
         "48C"
       ], 
       "housenumber": "48C", 
-      "lat": 51.344587276619, 
-      "lon": 4.306099664877, 
+      "lat": 51.34461630702, 
+      "lon": 4.306098478088, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1591,8 +1591,8 @@
         "48D"
       ], 
       "housenumber": "48D", 
-      "lat": 51.344692627708, 
-      "lon": 4.306123634841, 
+      "lat": 51.344714285985, 
+      "lon": 4.306118583008, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1603,8 +1603,8 @@
         "48E"
       ], 
       "housenumber": "48E", 
-      "lat": 51.344796807135, 
-      "lon": 4.306141435364, 
+      "lat": 51.344812175888, 
+      "lon": 4.306140266787, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1615,8 +1615,8 @@
         "48F"
       ], 
       "housenumber": "48F", 
-      "lat": 51.34490054068, 
-      "lon": 4.306165981742, 
+      "lat": 51.344910244717, 
+      "lon": 4.306160371759, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanPerceelGrb", 
@@ -1627,76 +1627,20 @@
         "48G"
       ], 
       "housenumber": "48G", 
-      "lat": 51.345001579561, 
-      "lon": 4.306193832656, 
+      "lat": 51.345010833229, 
+      "lon": 4.306186357573, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanPerceelGrb", 
       "street": "Zoutestraat"
     }, 
     {
-      "busnrs": [
-        "00", 
-        "01", 
-        "02"
-      ], 
       "hnrlbls": [
-        "52-54"
+        "50D"
       ], 
-      "housenumber": "52", 
-      "lat": 51.346122840402, 
-      "lon": 4.306225924233, 
-      "municipality": "Antwerpen", 
-      "pcode": "2040", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutestraat"
-    }, 
-    {
-      "busnrs": [
-        "00", 
-        "01", 
-        "02"
-      ], 
-      "hnrlbls": [
-        "52-54"
-      ], 
-      "housenumber": "54", 
-      "lat": 51.346122840402, 
-      "lon": 4.306225924233, 
-      "municipality": "Antwerpen", 
-      "pcode": "2040", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutestraat"
-    }, 
-    {
-      "busnrs": [
-        "00", 
-        "01", 
-        "02"
-      ], 
-      "hnrlbls": [
-        "56-58"
-      ], 
-      "housenumber": "56", 
-      "lat": 51.346243799846, 
-      "lon": 4.306363828344, 
-      "municipality": "Antwerpen", 
-      "pcode": "2040", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutestraat"
-    }, 
-    {
-      "busnrs": [
-        "00", 
-        "01", 
-        "02"
-      ], 
-      "hnrlbls": [
-        "56-58"
-      ], 
-      "housenumber": "58", 
-      "lat": 51.346243799846, 
-      "lon": 4.306363828344, 
+      "housenumber": "50D", 
+      "lat": 51.345469360301, 
+      "lon": 4.306115281005, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 
@@ -1709,74 +1653,6 @@
       "housenumber": "6", 
       "lat": 51.341725429558, 
       "lon": 4.305590161283, 
-      "municipality": "Antwerpen", 
-      "pcode": "2040", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutestraat"
-    }, 
-    {
-      "busnrs": [
-        "00", 
-        "01", 
-        "02"
-      ], 
-      "hnrlbls": [
-        "60-62"
-      ], 
-      "housenumber": "60", 
-      "lat": 51.346545189114, 
-      "lon": 4.306410215866, 
-      "municipality": "Antwerpen", 
-      "pcode": "2040", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutestraat"
-    }, 
-    {
-      "busnrs": [
-        "00", 
-        "01", 
-        "02"
-      ], 
-      "hnrlbls": [
-        "60-62"
-      ], 
-      "housenumber": "62", 
-      "lat": 51.346545189114, 
-      "lon": 4.306410215866, 
-      "municipality": "Antwerpen", 
-      "pcode": "2040", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutestraat"
-    }, 
-    {
-      "busnrs": [
-        "00", 
-        "01", 
-        "02"
-      ], 
-      "hnrlbls": [
-        "64-66"
-      ], 
-      "housenumber": "64", 
-      "lat": 51.346680765571, 
-      "lon": 4.306311581401, 
-      "municipality": "Antwerpen", 
-      "pcode": "2040", 
-      "source": "afgeleidVanGebouw", 
-      "street": "Zoutestraat"
-    }, 
-    {
-      "busnrs": [
-        "00", 
-        "01", 
-        "02"
-      ], 
-      "hnrlbls": [
-        "64-66"
-      ], 
-      "housenumber": "66", 
-      "lat": 51.346680765571, 
-      "lon": 4.306311581401, 
       "municipality": "Antwerpen", 
       "pcode": "2040", 
       "source": "afgeleidVanGebouw", 

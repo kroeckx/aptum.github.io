@@ -26,13 +26,10 @@
     }, 
     {
       "apptnrs": [
+        "00-1", 
         "01-1", 
         "01-2", 
         "02-1"
-      ], 
-      "busnrs": [
-        "1", 
-        "2"
       ], 
       "hnrlbls": [
         "15"
@@ -46,6 +43,11 @@
       "street": "Kerkstraat"
     }, 
     {
+      "apptnrs": [
+        "00-1", 
+        "01-1", 
+        "02-1"
+      ], 
       "hnrlbls": [
         "17"
       ], 
@@ -337,8 +339,8 @@
         "41D"
       ], 
       "housenumber": "41D", 
-      "lat": 51.373604605043, 
-      "lon": 5.000015952794, 
+      "lat": 51.373601818165, 
+      "lon": 4.999982310556, 
       "municipality": "Ravels", 
       "pcode": "2380", 
       "source": "afgeleidVanGebouw", 

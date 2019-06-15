@@ -53,11 +53,11 @@
         "101"
       ], 
       "housenumber": "101", 
-      "lat": 51.093736680885, 
-      "lon": 4.701044954704, 
+      "lat": 51.093775929751, 
+      "lon": 4.701056511079, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -77,11 +77,11 @@
         "103"
       ], 
       "housenumber": "103", 
-      "lat": 51.09362514495, 
-      "lon": 4.700975500238, 
+      "lat": 51.093683656615, 
+      "lon": 4.70088213352, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -101,11 +101,11 @@
         "105"
       ], 
       "housenumber": "105", 
-      "lat": 51.092914273614, 
-      "lon": 4.701717124586, 
+      "lat": 51.092858349334, 
+      "lon": 4.701626512403, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -145,6 +145,18 @@
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
       "source": "manueleAanduidingVanIngangVanGebouw", 
+      "street": "Isschotweg"
+    }, 
+    {
+      "hnrlbls": [
+        "10A"
+      ], 
+      "housenumber": "10A", 
+      "lat": 51.101508195303, 
+      "lon": 4.71878578929, 
+      "municipality": "Heist-op-den-Berg", 
+      "pcode": "2222", 
+      "source": "manueleAanduidingVanLot", 
       "street": "Isschotweg"
     }, 
     {
@@ -296,11 +308,11 @@
         "119"
       ], 
       "housenumber": "119", 
-      "lat": 51.090718586682, 
-      "lon": 4.690987002167, 
+      "lat": 51.090711629041, 
+      "lon": 4.690934570141, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -344,11 +356,11 @@
         "121"
       ], 
       "housenumber": "121", 
-      "lat": 51.09023120773, 
-      "lon": 4.691151206274, 
+      "lat": 51.090292074954, 
+      "lon": 4.691048287162, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -440,11 +452,11 @@
         "125"
       ], 
       "housenumber": "125", 
-      "lat": 51.090631147767, 
-      "lon": 4.688242881688, 
+      "lat": 51.090626938231, 
+      "lon": 4.688171056983, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -572,11 +584,11 @@
         "132A"
       ], 
       "housenumber": "132A", 
-      "lat": 51.094107297532, 
-      "lon": 4.696556945692, 
+      "lat": 51.093969566014, 
+      "lon": 4.696693727571, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -596,8 +608,8 @@
         "134G"
       ], 
       "housenumber": "134G", 
-      "lat": 51.093727638327, 
-      "lon": 4.689961749881, 
+      "lat": 51.093724682179, 
+      "lon": 4.689958018164, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
       "source": "afgeleidVanPerceelGrb", 
@@ -980,11 +992,11 @@
         "163"
       ], 
       "housenumber": "163", 
-      "lat": 51.087329507892, 
-      "lon": 4.686555242881, 
+      "lat": 51.087349232739, 
+      "lon": 4.686740349253, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -1259,11 +1271,11 @@
         "178"
       ], 
       "housenumber": "178", 
-      "lat": 51.088017178986, 
-      "lon": 4.683068529903, 
+      "lat": 51.088071976142, 
+      "lon": 4.683048060815, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -2639,11 +2651,11 @@
         "34"
       ], 
       "housenumber": "34", 
-      "lat": 51.1002947957, 
-      "lon": 4.715746639419, 
+      "lat": 51.100241038721, 
+      "lon": 4.715808770669, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanPerceelGrb", 
+      "source": "afgeleidVanGebouw", 
       "street": "Isschotweg"
     }, 
     {
@@ -3563,11 +3575,11 @@
         "99"
       ], 
       "housenumber": "99", 
-      "lat": 51.09384455127, 
-      "lon": 4.701298239315, 
+      "lat": 51.093845444161, 
+      "lon": 4.701268554659, 
       "municipality": "Heist-op-den-Berg", 
       "pcode": "2222", 
-      "source": "afgeleidVanGebouw", 
+      "source": "manueleAanduidingVanIngangVanGebouw", 
       "street": "Isschotweg"
     }
   ]
